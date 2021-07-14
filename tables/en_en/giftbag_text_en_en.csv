@@ -1,0 +1,518 @@
+id,name,charge,currency,show_name
+1,Monthly Pass,14.99,$,Monthly Pass
+2,Mini Pass,4.99,$,Mini Pass
+3,Weekly Pass,0.99,$,Weekly Pass
+4,250 Gems Pack,4.99,$,Gem Pack
+5,500 Gems Pack,9.99,$,Gem Pack
+6,1000 Gems Pack,19.99,$,Gem Pack
+7,2500 Gems Pack,49.99,$,Gem Pack
+8,5000 Gems Pack,99.99,$,Gem Pack
+9,LV 24 Pack,1.99,$,LV 24 Pack
+10,LV 32 Pack,4.99,$,LV 32 Pack
+11,LV 48 Pack,9.99,$,LV 48 Pack
+12,LV 58 Pack,29.99,$,LV 58 Pack
+13,LV 78 Pack,49.99,$,LV 78 Pack
+14,4-Star Girl Training Pack,4.99,$,4-Star Girl Training Pack
+15,5-Star Girl Training Pack,9.99,$,5-Star Girl Training Pack
+16,Monthly Pack 1,4.99,$,Monthly Pack
+17,Monthly Pack 2,9.99,$,Monthly Pack
+18,Monthly Pack 3,29.99,$,Monthly Pack
+19,Monthly Pack 4,49.99,$,Monthly Pack
+20,Monthly Pack 5,69.99,$,Monthly Pack
+89,Monthly Pack 7,99.99,$,Monthly Pack
+22,Weekly Pack 1,9.99,$,Weekly Pack
+23,Weekly Pack 2,19.99,$,Weekly Pack
+24,Weekly Pack 3,49.99,$,Weekly Pack
+25,Weekly Pack 4,69.99,$,Weekly Pack
+26,Value Pack 1,99.99,$,Value Pack
+27,Value Pack 2,69.99,$,Value Pack
+28,Value Pack 3,29.99,$,Value Pack
+29,Value Pack 4,9.99,$,Value Pack
+30,Value Pack 5,4.99,$,Value Pack
+31,Value Pack 1,99.99,$,Value Pack
+32,Value Pack 2,69.99,$,Value Pack
+33,Value Pack 3,29.99,$,Value Pack
+34,Value Pack 4,19.99,$,Value Pack
+36,Value Pack 5,4.99,$,Value Pack
+69,Value Pack 6,4.99,$,Value Pack
+35,Free Reload Pack,1.99,$,Free Reload Pack
+37,Limited Edition 5-star Girl Pack,0.99,$,Limited Edition 5-star Girl Pack
+38,Subscription,0.99,$,Subscription
+39,Black Friday Card,9.99,$,3rd Anniversary Gift Card
+40,Weekly Subscription,0.99,$,Weekly Subscription
+41,Monthly Subscription,3.99,$,Monthly Subscription
+42,Quarterly Subscription,9.99,$,Quarterly Subscription
+43,Monthly Pack 1,4.99,$,Monthly Pack
+44,Monthly Pack 2,9.99,$,Monthly Pack
+45,Monthly Pack 3,29.99,$,Monthly Pack
+46,Monthly Pack 4,49.99,$,Monthly Pack
+47,Monthly Pack 5,69.99,$,Monthly Pack
+48,Monthly Pack 6,79.99,$,Monthly Pack
+49,Weekly Pack 1,9.99,$,Weekly Pack
+50,Weekly Pack 2,19.99,$,Weekly Pack
+51,Weekly Pack 3,49.99,$,Weekly Pack
+52,Weekly Pack 4,69.99,$,Weekly Pack
+53,Weekly Subscription,0.99,$,Weekly Subscription
+54,Monthly Subscription,3.99,$,Monthly Subscription
+55,Quarterly Subscription,9.99,$,Quarterly Subscription
+56,Special Skin Pack 1,4.99,$,Special Gift Pack
+57,Special Gift Pack 1,4.99,$,Special Gift Pack
+65,Special Gift Pack 2,49.99,$,Special Gift Pack
+58,7-Day Free Trial,0,$,7-Day Free Trial
+59,7-Day Free Trial,0,$,7-Day Free Trial
+60,7-Day Free Trial,0,$,7-Day Free Trial
+61,7-Day Free Trial,0,$,7-Day Free Trial
+62,7-Day Free Trial,0,$,7-Day Free Trial
+63,7-Day Free Trial,0,$,7-Day Free Trial
+64,Stage Pack,9.99,$,Stage Pack
+66,Oath Ring,19.99,$,Oath Ring
+67,Growth Pack,9.99,$,Growth Pack
+68,Value Pack 6,4.99,$,Value Pack
+70,Unlock Special Rewards,19.99,$,Unlock Special Rewards
+71,Special Skin Pack 2,49.99,$,Special Gift Pack
+72,3rd Anniversary Gift Card,19.99,$,3rd Anniversary Gift Card
+73,Jingle Bell Pack,49.99,$,Jingle Bell Pack
+74,Motivation Program,9.99,$,Motivation Program
+75,Oath Pack,29.99,$,Oath Pack
+76,Deluxe Pass,9.99,$,Deluxe Pass
+1010101,LV 24 pack,1.99,$,LV 24 pack
+1010201,LV 32 pack,4.99,$,LV 32 pack
+1010301,LV 48 pack,9.99,$,LV 48 pack
+1010401,LV 58 pack,9.99,$,LV 58 pack
+1010402,LV 58 pack,29.99,$,LV 58 pack
+1010403,LV 58 pack,49.99,$,LV 58 pack
+1010404,LV 58 pack,69.99,$,LV 58 pack
+1010501,LV 78 pack,9.99,$,LV 78 pack
+1010502,LV 78 pack,29.99,$,LV 78 pack
+1010503,LV 78 pack,49.99,$,LV 78 pack
+1010504,LV 78 pack,69.99,$,LV 78 pack
+1010601,LV 100 pack,9.99,$,LV 100 pack
+1010602,LV 100 pack,29.99,$,LV 100 pack
+1010603,LV 100 pack,49.99,$,LV 100 pack
+1010604,LV 100 pack,69.99,$,LV 100 pack
+1030101,Training Pack,4.99,$,Training Pack
+1030102,Training Pack,9.99,$,Training Pack
+1030103,Training Pack,19.99,$,Training Pack
+1040101,Training Pack,9.99,$,Training Pack
+1040102,Training Pack,19.99,$,Training Pack
+1040103,Training Pack,29.99,$,Training Pack
+1050101,EXP Booster,4.99,$,EXP Booster
+1050102,EXP Booster,9.99,$,EXP Booster
+1050103,EXP Booster,19.99,$,EXP Booster
+1060101,Coin Booster,4.99,$,Coin Booster
+1060102,Coin Booster,9.99,$,Coin Booster
+1060103,Coin Booster,19.99,$,Coin Booster
+1070101,Stage Pack,9.99,$,Stage Pack
+1070102,Stage Pack,19.99,$,Stage Pack
+1070103,Stage Pack,29.99,$,Stage Pack
+1070201,Stage Pack,9.99,$,Stage Pack
+1070202,Stage Pack,19.99,$,Stage Pack
+1070203,Stage Pack,29.99,$,Stage Pack
+1070301,Stage Pack,9.99,$,Stage Pack
+1070302,Stage Pack,19.99,$,Stage Pack
+1070303,Stage Pack,49.99,$,Stage Pack
+1070401,Stage Pack,9.99,$,Stage Pack
+1070402,Stage Pack,19.99,$,Stage Pack
+1070403,Stage Pack,29.99,$,Stage Pack
+1070501,Stage Pack,9.99,$,Stage Pack
+1070502,Stage Pack,19.99,$,Stage Pack
+1070503,Stage Pack,29.99,$,Stage Pack
+1070601,Stage Pack,9.99,$,Stage Pack
+1070602,Stage Pack,19.99,$,Stage Pack
+1070603,Stage Pack,49.99,$,Stage Pack
+1070701,Stage Pack,9.99,$,Stage Pack
+1070702,Stage Pack,19.99,$,Stage Pack
+1070703,Stage Pack,29.99,$,Stage Pack
+1070801,Stage Pack,9.99,$,Stage Pack
+1070802,Stage Pack,19.99,$,Stage Pack
+1070803,Stage Pack,29.99,$,Stage Pack
+1080101,Test Booster,9.99,$,Test Booster
+1080102,Test Booster,19.99,$,Test Booster
+1080103,Test Booster,29.99,$,Test Booster
+1080201,Test Booster,9.99,$,Test Booster
+1080202,Test Booster,19.99,$,Test Booster
+1080203,Test Booster,29.99,$,Test Booster
+1080301,Test Booster,9.99,$,Test Booster
+1080302,Test Booster,19.99,$,Test Booster
+1080303,Test Booster,49.99,$,Test Booster
+1080401,Test Booster,9.99,$,Test Booster
+1080402,Test Booster,19.99,$,Test Booster
+1080403,Test Booster,29.99,$,Test Booster
+1080501,Test Booster,9.99,$,Test Booster
+1080502,Test Booster,19.99,$,Test Booster
+1080503,Test Booster,49.99,$,Test Booster
+1080601,Test Booster,9.99,$,Test Booster
+1080602,Test Booster,19.99,$,Test Booster
+1080603,Test Booster,49.99,$,Test Booster
+1080701,Test Booster,9.99,$,Test Booster
+1080702,Test Booster,19.99,$,Test Booster
+1080703,Test Booster,29.99,$,Test Booster
+1080801,Test Booster,9.99,$,Test Booster
+1080802,Test Booster,19.99,$,Test Booster
+1080803,Test Booster,49.99,$,Test Booster
+1080901,Test Booster,9.99,$,Test Booster
+1080902,Test Booster,19.99,$,Test Booster
+1080903,Test Booster,49.99,$,Test Booster
+77,Jingle Bell Pack,99.99,$,Jingle Bell Pack
+1010701,LV 125 pack,9.99,$,LV 125 pack
+1010702,LV 125 pack,29.99,$,LV 125 pack
+1010703,LV 125 pack,49.99,$,LV 125 pack
+1010704,LV 125 pack,69.99,$,LV 125 pack
+1010801,LV 150 pack,9.99,$,LV 150 pack
+1010802,LV 150 pack,29.99,$,LV 150 pack
+1010803,LV 150 pack,49.99,$,LV 150 pack
+1010804,LV 150 pack,69.99,$,LV 150 pack
+1010901,LV 175 pack,9.99,$,LV 175 pack
+1010902,LV 175 pack,29.99,$,LV 175 pack
+1010903,LV 175 pack,49.99,$,LV 175 pack
+1010904,LV 175 pack,69.99,$,LV 175 pack
+1011001,LV 200 pack,9.99,$,LV 200 pack
+1011002,LV 200 pack,29.99,$,LV 200 pack
+1011003,LV 200 pack,49.99,$,LV 200 pack
+1011004,LV 200 pack,69.99,$,LV 200 pack
+1050104,EXP Booster,29.99,$,EXP Booster
+1050105,EXP Booster,49.99,$,EXP Booster
+1060104,Coin Booster,29.99,$,Coin Booster
+1060105,Coin Booster,49.99,$,Coin Booster
+1081001,Test Booster,9.99,$,Test Booster
+1081002,Test Booster,19.99,$,Test Booster
+1081003,Test Booster,49.99,$,Test Booster
+1081101,Test Booster,9.99,$,Test Booster
+1081102,Test Booster,19.99,$,Test Booster
+1081103,Test Booster,49.99,$,Test Booster
+1081201,Test Booster,9.99,$,Test Booster
+1081202,Test Booster,19.99,$,Test Booster
+1081203,Test Booster,49.99,$,Test Booster
+1081301,Test Booster,9.99,$,Test Booster
+1081302,Test Booster,19.99,$,Test Booster
+1081303,Test Booster,49.99,$,Test Booster
+78,Value Pack 1,99.99,$,Value Pack
+79,Value Pack 2,69.99,$,Value Pack
+80,Value Pack 3,29.99,$,Value Pack
+81,Value Pack 4,9.99,$,Value Pack
+82,Value Pack 5,4.99,$,Value Pack
+83,Value Pack 6,4.99,$,Value Pack
+84,Special Gift Pack 1,4.99,$,Special Gift Pack
+85,Special Gift Pack 2,69.99,$,Special Gift Pack
+86,Free Reload Pack,1.99,$,Free Reload Pack
+1090101,Capsule Bonus Pack,29.99,$,Capsule Bonus Pack
+1090102,Capsule Bonus Pack,49.99,$,Capsule Bonus Pack
+1090103,Capsule Bonus Pack,99.99,$,Capsule Bonus Pack
+1090201,Capsule Bonus Pack,29.99,$,Capsule Bonus Pack
+1090202,Capsule Bonus Pack,49.99,$,Capsule Bonus Pack
+1090203,Capsule Bonus Pack,99.99,$,Capsule Bonus Pack
+1090301,Capsule Bonus Pack,29.99,$,Capsule Bonus Pack
+1090302,Capsule Bonus Pack,49.99,$,Capsule Bonus Pack
+1090303,Capsule Bonus Pack,99.99,$,Capsule Bonus Pack
+90,Weekly Pack 6,99.99,$,Weekly Pack
+88,"4,000 Gems",79.99,$,Gem Pack
+21,Monthly pack 6,79.99,$,Monthly Pack
+87,Weekly Pack 5,79.99,$,Weekly Pack
+105,Admission Prep,19.99,$,Admission Prep
+92,Daily Pack 1,0.99,$,Daily Pack
+93,Daily Pack 2,1.99,$,Daily Pack
+94,Daily Pack 3,4.99,$,Daily Pack
+95,Daily Pack 4,4.99,$,Daily Pack
+96,Daily Pack 5,4.99,$,Daily Pack
+97,Daily Pack 6,4.99,$,Daily Pack
+99,Daily Pack 1,0.99,$,Daily Pack
+100,Daily Pack 2,1.99,$,Daily Pack
+101,Daily Pack 3,4.99,$,Daily Pack
+102,Daily Pack 4,4.99,$,Daily Pack
+103,Daily Pack 5,4.99,$,Daily Pack
+104,Daily Pack 6,4.99,$,Daily Pack
+1100101,7-Star Training Pack,49.99,$,Training Pack
+1100102,7-Star Training Pack,49.99,$,Training Pack
+1100103,7-Star Training Pack,49.99,$,Training Pack
+1100104,7-Star Training Pack,49.99,$,Training Pack
+1100201,7-Star Training Pack,69.99,$,Training Pack
+1100202,7-Star Training Pack,69.99,$,Training Pack
+1100203,7-Star Training Pack,69.99,$,Training Pack
+1100204,7-Star Training Pack,69.99,$,Training Pack
+106,Luxury Book,14.99,$,Luxury Book
+107,Collector's Book 2,19.99,$,Collector's Book 2
+108,Collector's Book 1,29.99,$,Collector's Book 1
+1100301,9-Star Training Pack 2,69.99,$,9-Star Training Pack
+1100302,9-Star Training Pack 2,69.99,$,9-Star Training Pack
+1100303,9-Star Training Pack 2,69.99,$,9-Star Training Pack
+1100304,9-Star Training Pack 2,69.99,$,9-Star Training Pack
+1100305,9-Star Training Pack 2,69.99,$,9-Star Training Pack
+1100306,9-Star Training Pack 2,69.99,$,9-Star Training Pack
+1100401,9-Star Training Pack 1,99.99,$,9-Star Training Pack
+1100402,9-Star Training Pack 1,99.99,$,9-Star Training Pack
+1100403,9-Star Training Pack 1,99.99,$,9-Star Training Pack
+1100404,9-Star Training Pack 1,99.99,$,9-Star Training Pack
+1100405,9-Star Training Pack 1,99.99,$,9-Star Training Pack
+1100406,9-Star Training Pack 1,99.99,$,9-Star Training Pack
+109,1250 Gems pack,24.99,$,Gem Pack
+110,Date Preparation Pack,19.99,$,Date Preparation Pack
+10116,Count's Mystery Gift 1,9.99,$,Count's Mystery Gift 1
+10117,Count's Mystery Gift 2,29.99,$,Count's Mystery Gift 2
+10118,Count's Mystery Gift 3,49.99,$,Count's Mystery Gift 3
+10119,Count's Mystery Gift 4,69.99,$,Count's Mystery Gift 4
+120,SP. Energy Card,14.99,$,SP. Energy Card
+121,Luxury Book,14.99,$,Luxury Book
+122,Collector's Book 2,19.99,$,Collector's Book 2
+123,Collector's Book 1,29.99,$,Collector's Book 1
+125,Special Gift Pack 1,4.99,$,Special Gift Pack
+126,Special Gift Pack 2,69.99,$,Special Gift Pack
+127,Sanctuary Privilege,4.99,$,Sanctuary Privilege
+128,Patrol Privilege,4.99,$,Patrol Privilege
+129,Soda Pack,9.99,$,Soda Pack
+130,Magic Gift Box 1,99.99,$,Magic Gift Box 1
+131,Magic Gift Box 2,49.99,$,Magic Gift Box 2
+132,Magic Gift Box 3,19.99,$,Magic Gift Box 3
+133,Magic Gift Box 4,4.99,$,Magic Gift Box 4
+134,Magic Gift Box 5,0.99,$,Magic Gift Box 5
+135,Special Girls Pack 1,49.99,$,Special Girls Pack 1
+136,Special Girls Pack 2,69.99,$,Special Girls Pack 2
+137,Monthly Pass Discount,4.99,$,Monthly Pass Discount
+138,Red Riding Hood's Gift,19.99,$,Red Riding Hood's Gift
+139,Valentine's Limited Pack 1,9.99,$,Valentine's Limited Pack 1
+140,Valentine's Limited Pack 2,9.99,$,Valentine's\nLimited Pack
+141,Test Fund,9.99,$,Test Fund
+142,Test Fund 2,19.99,$,Test Fund 2
+143,Test Fund 3,29.99,$,Test Fund 3
+144,Special Skin Pack 1,4.99,$,Special Skin Pack
+145,Special Skin Pack 2,49.99,$,Special Skin Pack
+146,Special Gift Pack 1,4.99,$,Special Gift Pack
+147,Special Gift Pack 2,69.99,$,Special Gift Pack
+10148,Count's Mystery Gift 5,99.99,$,Count's Mystery Gift 5
+1200101,Crystal Chisel Supply,4.99,$,Crystal Chisel Supply
+1200102,Crystal Chisel Supply,9.99,$,Crystal Chisel Supply
+1200103,Crystal Chisel Supply,19.99,$,Crystal Chisel Supply
+1200104,Crystal Chisel Supply,29.99,$,Crystal Chisel Supply
+1200105,Crystal Chisel Supply,49.99,$,Crystal Chisel Supply
+1300101,Lunchbox Supply,4.99,$,Lunchbox Supply
+1300102,Lunchbox Supply,9.99,$,Lunchbox Supply
+1300103,Lunchbox Supply,19.99,$,Lunchbox Supply
+1300104,Lunchbox Supply,29.99,$,Lunchbox Supply
+1300105,Lunchbox Supply,49.99,$,Lunchbox Supply
+1400101,Servant Cookies Supply,4.99,$,Servant Cookies Supply
+1400102,Servant Cookies Supply,9.99,$,Servant Cookies Supply
+1400103,Servant Cookies Supply,29.99,$,Servant Cookies Supply
+1400104,Servant Cookies Supply,49.99,$,Servant Cookies Supply
+1400201,Servant Cookies Supply,4.99,$,Servant Cookies Supply
+1400202,Servant Cookies Supply,9.99,$,Servant Cookies Supply
+1400203,Servant Cookies Supply,29.99,$,Servant Cookies Supply
+1400204,Servant Cookies Supply,49.99,$,Servant Cookies Supply
+1400301,Servant Cookies Supply,4.99,$,Servant Cookies Supply
+1400302,Servant Cookies Supply,9.99,$,Servant Cookies Supply
+1400303,Servant Cookies Supply,29.99,$,Servant Cookies Supply
+1400304,Servant Cookies Supply,49.99,$,Servant Cookies Supply
+1500101,House Ghost Supply,19.99,$,House Ghost Supply
+1500102,House Ghost Supply,29.99,$,House Ghost Supply
+1500103,House Ghost Supply,49.99,$,House Ghost Supply
+1500104,House Ghost Supply,69.99,$,House Ghost Supply
+1500201,House Human Supply,19.99,$,House Human Supply
+1500202,House Human Supply,29.99,$,House Human Supply
+1500203,House Human Supply,49.99,$,House Human Supply
+1500204,House Human Supply,69.99,$,House Human Supply
+1500301,House Monster Supply,19.99,$,House Monster Supply
+1500302,House Monster Supply,29.99,$,House Monster Supply
+1500303,House Monster Supply,49.99,$,House Monster Supply
+1500304,House Monster Supply,69.99,$,House Monster Supply
+1500401,House Fairy Supply,19.99,$,House Fairy Supply
+1500402,House Fairy Supply,29.99,$,House Fairy Supply
+1500403,House Fairy Supply,49.99,$,House Fairy Supply
+1500404,House Fairy Supply,69.99,$,House Fairy Supply
+1500501,House Demon Supply,19.99,$,House Demon Supply
+1500502,House Demon Supply,29.99,$,House Demon Supply
+1500503,House Demon Supply,49.99,$,House Demon Supply
+1500504,House Demon Supply,69.99,$,House Demon Supply
+1500601,House Angel Supply,19.99,$,House Angel Supply
+1500602,House Angel Supply,29.99,$,House Angel Supply
+1500603,House Angel Supply,49.99,$,House Angel Supply
+1500604,House Angel Supply,69.99,$,House Angel Supply
+1050106,EXP Booster,69.99,$,EXP Booster
+1050107,EXP Booster,99.99,$,EXP Booster
+1060106,Coin Booster,69.99,$,Coin Booster
+1060107,Coin Booster,99.99,$,Coin Booster
+148,Beginner Pack 1,0.99,$,Beginner Pack 1
+149,Beginner Pack 2,1.99,$,Beginner Pack 2
+150,Beginner Pack 3,9.99,$,Beginner Pack 3
+151,Beginner Pack 1,0.99,$,Beginner Pack 1
+152,Beginner Pack 2,4.99,$,Beginner Pack 2
+153,Beginner Pack 3,9.99,$,Beginner Pack 3
+154,Beginner Pack 1,0.99,$,Beginner Pack 1
+155,Beginner Pack 2,4.99,$,Beginner Pack 2
+156,Beginner Pack 3,19.99,$,Beginner Pack 3
+157,Beginner Pack 1,0.99,$,Beginner Pack 1
+158,Beginner Pack 2,4.99,$,Beginner Pack 2
+159,Beginner Pack 3,19.99,$,Beginner Pack 3
+160,Beginner Pack 1,0.99,$,Beginner Pack 1
+161,Beginner Pack 2,4.99,$,Beginner Pack 2
+162,Beginner Pack 3,19.99,$,Beginner Pack 3
+163,Beginner Pack 1,0.99,$,Beginner Pack 1
+164,Beginner Pack 2,9.99,$,Beginner Pack 2
+165,Beginner Pack 3,29.99,$,Beginner Pack 3
+166,Beginner Pack 1,0.99,$,Beginner Pack 1
+167,Beginner Pack 2,19.99,$,Beginner Pack 2
+168,Beginner Pack 3,29.99,$,Beginner Pack 3
+177,May Day Pack 1,49.99,$,May Day Pack 1
+178,May Day Pack 2,99.99,$,May Day Pack 2
+180,Monthly Kick Off 2,29.99,$,Monthly Kick Off 2
+181,Monthly Kick Off 3,49.99,$,Monthly Kick Off 3
+182,Monthly Kick Off 4,69.99,$,Monthly Kick Off 4
+183,Monthly Kick Off 5,99.99,$,Monthly Kick Off 5
+1071001,Stage Pack -1-12,0.99,$,Stage Pack
+1071002,Stage Pack -1-12,4.99,$,Stage Pack
+1071101,Stage Pack -2-10,1.99,$,Stage Pack
+1071102,Stage Pack -2-10,4.99,$,Stage Pack
+184,Beginner Special,0.99,$,Beginner Special
+185,Luvly's Elite Supply,49.99,$,Luvly's Elite Supply
+186,New Year Special,19.99,$,New Year Special
+187,Turin Enhancement,4.99,$,Turin Enhancement
+188,Turin Enhancement,9.99,$,Turin Enhancement
+189,Antique Aid,29.99,$,Antique Aid
+190,Beginner Funds,19.99,$,Beginner Funds
+191,Beginner's Capsule,19.99,$,Beginner's Capsule
+192,Beginner's Capsule,29.99,$,Beginner's Capsule
+193,Beginner's Capsule,49.99,$,Beginner's Capsule
+194,Lucky Bonus,29.99,$,Lucky Bonus
+179,Monthly Kick Off 1,9.99,$,Monthly Kick Off 1
+195,Beginner's Limited Capsule Pack,9.99,$,Beginner's Limited Capsule Pack
+196,Beginner's Limited Capsule Pack,29.99,$,Beginner's Limited Capsule Pack
+197,Beginner's Limited Capsule Pack,49.99,$,Beginner's Limited Capsule Pack
+198,Daily Pack 7,4.99,$,Daily Pack
+199,Monthly Pack 9,99.99,$,Monthly Pack
+200,Weekly Pack 5,79.99,$,Weekly Pack
+201,Weekly Pack 6,99.99,$,Weekly Pack
+202,Valentine's Limited Pack 3,49.99,$,Valentine's Limited Pack 3
+203,Valentine's Limited Pack 4,99.99,$,Valentine's Limited Pack 4
+204,Servant Supply 1,4.99,$,Servant Supply 1
+205,Servant Supply 2,9.99,$,Servant Supply 2
+206,Servant Supply 3,29.99,$,Servant Supply 3
+207,Servant Supply 4,49.99,$,Servant Supply 4
+208,Servant Supply 5,99.99,$,Servant Supply 5
+209,Easter Pack 1,29.99,$,Easter Pack 1
+210,Easter Pack 2,99.99,$,Easter Pack 2
+211,Easter Egg Pack 1,99.99,$,Easter Egg Pack 1
+212,Easter Egg Pack 2,49.99,$,Easter Egg Pack 2
+213,Easter Egg Pack 3,29.99,$,Easter Egg Pack 3
+1600101,Estel's Development 1,4.99,$,Estel's Development 1
+1600102,Estel's Development 2,19.99,$,Estel's Development 2
+1600103,Estel's Development 3,49.99,$,Estel's Development 3
+1600104,Estel's Development 4,49.99,$,Estel's Development 4
+1600105,Estel's Development 5,49.99,$,Estel's Development 5
+1600106,Estel's Development 6,49.99,$,Estel's Development 6
+1600107,Estel's Development 7,79.99,$,Estel's Development 7
+214,Guild Member Special Lv. 10,1.99,$,Guild Member Special Lv. 10
+215,Guild Member Special Lv. 11,1.99,$,Guild Member Special Lv. 11
+216,Guild Member Special Lv. 12,1.99,$,Guild Member Special Lv. 12
+217,Guild Member Special Lv. 13,1.99,$,Guild Member Special Lv. 13
+218,Guild Member Special Lv. 14,1.99,$,Guild Member Special Lv. 14
+219,Guild Member Special Lv. 15,1.99,$,Guild Member Special Lv. 15
+220,Guild Member Special Lv. 16,1.99,$,Guild Member Special Lv. 16
+221,Guild Member Special Lv. 17,1.99,$,Guild Member Special Lv. 17
+222,Guild Member Special Lv. 18,1.99,$,Guild Member Special Lv. 18
+223,Guild Member Special Lv. 19,1.99,$,Guild Member Special Lv. 19
+224,Guild Member Special Lv. 20,1.99,$,Guild Member Special Lv. 20
+225,Guild Member Special Lv. 21,1.99,$,Guild Member Special Lv. 21
+226,Guild Member Special Lv. 22,1.99,$,Guild Member Special Lv. 22
+227,Guild Member Special Lv. 23,1.99,$,Guild Member Special Lv. 23
+228,Guild Member Special Lv. 24,1.99,$,Guild Member Special Lv. 24
+229,Guild Member Special Lv. 25,1.99,$,Guild Member Special Lv. 25
+230,Guild Member Special Lv. 26,1.99,$,Guild Member Special Lv. 26
+231,Guild Member Special Lv. 27,1.99,$,Guild Member Special Lv. 27
+232,Guild Member Special Lv. 28,1.99,$,Guild Member Special Lv. 28
+233,Guild Member Special Lv. 29,1.99,$,Guild Member Special Lv. 29
+234,Guild Member Special Lv. 30,1.99,$,Guild Member Special Lv. 30
+235,Guild Special Lv. 10,49.99,$,Guild Special Lv. 10
+236,Guild Special Lv. 11,49.99,$,Guild Special Lv. 11
+237,Guild Special Lv. 12,49.99,$,Guild Special Lv. 12
+238,Guild Special Lv. 13,49.99,$,Guild Special Lv. 13
+239,Guild Special Lv. 14,49.99,$,Guild Special Lv. 14
+240,Guild Special Lv. 15,49.99,$,Guild Special Lv. 15
+241,Guild Special Lv. 16,49.99,$,Guild Special Lv. 16
+242,Guild Special Lv. 17,49.99,$,Guild Special Lv. 17
+243,Guild Special Lv. 18,49.99,$,Guild Special Lv. 18
+244,Guild Special Lv. 19,49.99,$,Guild Special Lv. 19
+245,Guild Special Lv. 20,49.99,$,Guild Special Lv. 20
+246,Guild Special Lv. 21,49.99,$,Guild Special Lv. 21
+247,Guild Special Lv. 22,49.99,$,Guild Special Lv. 22
+248,Guild Special Lv. 23,49.99,$,Guild Special Lv. 23
+249,Guild Special Lv. 24,49.99,$,Guild Special Lv. 24
+250,Guild Special Lv. 25,49.99,$,Guild Special Lv. 25
+251,Guild Special Lv. 26,49.99,$,Guild Special Lv. 26
+252,Guild Special Lv. 27,49.99,$,Guild Special Lv. 27
+253,Guild Special Lv. 28,49.99,$,Guild Special Lv. 28
+254,Guild Special Lv. 29,49.99,$,Guild Special Lv. 29
+255,Guild Special Lv. 30,49.99,$,Guild Special Lv. 30
+256,Guild Member Special Lv. 4,1.99,$,Guild Member Special Lv. 4
+257,Guild Member Special Lv. 5,1.99,$,Guild Member Special Lv. 5
+258,Guild Member Special Lv. 6,1.99,$,Guild Member Special Lv. 6
+259,Guild Member Special Lv. 7,1.99,$,Guild Member Special Lv. 7
+260,Guild Member Special Lv. 8,1.99,$,Guild Member Special Lv. 8
+261,Guild Member Special Lv. 9,1.99,$,Guild Member Special Lv. 9
+262,Guild Special Lv. 4,49.99,$,Guild Special Lv. 4
+263,Guild Special Lv. 5,49.99,$,Guild Special Lv. 5
+264,Guild Special Lv. 6,49.99,$,Guild Special Lv. 6
+265,Guild Special Lv. 7,49.99,$,Guild Special Lv. 7
+266,Guild Special Lv. 8,49.99,$,Guild Special Lv. 8
+267,Guild Special Lv. 9,49.99,$,Guild Special Lv. 9
+275,Daily Pack 7,4.99,$,Daily Pack
+268,Program Pack 1,4.99,$,Program Pack 1
+269,Program Pack 2,4.99,$,Program Pack 2
+270,Program Pack 3,9.99,$,Program Pack 3
+271,Program Pack 4,19.99,$,Program Pack 4
+276,Magical Supplies 1,29.99,$,Magical Supplies
+277,Magical Supplies 2,69.99,$,Magical Supplies
+278,Magical Supplies 3,99.99,$,Magical Supplies
+279,Customization Pack 1,49.99,$,Customization Pack
+280,Customization Pack 2,19.99,$,Customization Pack
+281,Customization Pack 3,4.99,$,Customization Pack
+282,Monthly Pass,9.99,$,Monthly Pass - First Purchase Discount
+283,Mini Pass,1.99,$,Mini Pass - First Purchase Discount
+284,Test Fund 4,49.99,$,Test Fund 4
+285,Bizarre Supply (Special Offer),19.99,$,Bizarre Supply (Special Offer)
+286,Bizarre Supply 1,4.99,$,Bizarre Supply 1
+287,Bizarre Supply 2,29.99,$,Bizarre Supply 2
+288,Bizarre Supply 3,49.99,$,Bizarre Supply 3
+289,Bizarre Supply 4,79.99,$,Bizarre Supply 4
+290,Bizarre Supply 5,99.99,$,Bizarre Supply 5
+1700101,LV. 25 Customized Supply,1.99,$,LV. 25 Customized Supply
+1700201,LV. 40 Customized Supply,4.99,$,LV. 40 Customized Supply
+1700301,LV. 53 Customized Supply,9.99,$,LV. 53 Customized Supply
+1700401,LV. 68 Customized Supply,19.99,$,LV. 68 Customized Supply
+1700501,LV. 85 Customized Supply,29.99,$,LV. 85 Customized Supply
+1700601,LV. 95 Customized Supply,29.99,$,LV. 95 Customized Supply
+1700701,LV. 110 Customized Supply,49.99,$,LV. 110 Customized Supply
+1700801,LV. 135 Customized Supply,69.99,$,LV. 135 Customized Supply
+1700901,LV. 140 Customized Supply,99.99,$,LV. 140 Customized Supply
+1701001,LV. 155 Customized Supply,79.99,$,LV. 155 Customized Supply
+1701101,LV. 165 Customized Supply,79.99,$,LV. 165 Customized Supply
+1701201,LV. 180 Customized Supply,79.99,$,LV. 180 Customized Supply
+293,Program Pack 1,0.99,$,Program Pack 1
+294,Program Pack 2,4.99,$,Program Pack 2
+295,Program Pack 3,9.99,$,Program Pack 3
+296,Program Pack 4,19.99,$,Program Pack 4
+297,Guild Limited Pack,29.99,$,Guild Limited Pack
+299,Return Customized Growth Pack 1,29.99,$,Return Customized Growth Pack 1
+300,Return Customized Growth Pack 2,49.99,$,Return Customized Growth Pack 2
+301,Return Support,29.99,$,Return Support
+302,Monthly Pass - Return,4.99,$,Monthly Pass - Return
+303,Monthly Event Deluxe Pass - Return,1.99,$,Monthly Event Deluxe Pass - Return
+1701301,LV. 15 Customized Supply,1.99,$,LV. 15 Customized Supply
+1701401,LV. 35 Customized Supply,4.99,$,LV. 35 Customized Supply
+1701501,LV. 48 Customized Supply,9.99,$,LV. 48 Customized Supply
+1701601,LV. 58 Customized Supply,29.99,$,LV. 58 Customized Supply
+1701701,LV. 78 Customized Supply,29.99,$,LV. 78 Customized Supply
+1701801,LV. 90 Customized Supply,29.99,$,LV. 90 Customized Supply
+1701901,LV. 115 Customized Supply,29.99,$,LV. 115 Customized Supply
+1702001,LV. 125 Customized Supply,29.99,$,LV. 125 Customized Supply
+1702101,LV. 100 Customized Supply,49.99,$,LV. 100 Customized Supply
+1702201,LV. 105 Customized Supply,49.99,$,LV. 105 Customized Supply
+1702301,LV. 120 Customized Supply,49.99,$,LV. 120 Customized Supply
+1702401,LV. 130 Customized Supply,49.99,$,LV. 130 Customized Supply
+1702501,LV. 145 Customized Supply,49.99,$,LV. 145 Customized Supply
+1702601,LV. 170 Customized Supply,49.99,$,LV. 170 Customized Supply
+1702701,LV. 150 Customized Supply,69.99,$,LV. 150 Customized Supply
+1702801,LV. 175 Customized Supply,69.99,$,LV. 175 Customized Supply
+1702901,LV. 190 Customized Supply,69.99,$,LV. 190 Customized Supply
+1703001,LV. 195 Customized Supply,79.99,$,LV. 195 Customized Supply
+1703101,LV. 160 Customized Supply,99.99,$,LV. 160 Customized Supply
+1703201,LV. 185 Customized Supply,99.99,$,LV. 185 Customized Supply
+1703301,LV. 200 Customized Supply,99.99,$,LV. 200 Customized Supply
+304,3rd Anniversary\nSpecial Pack 1,9.99,$,3rd Anniversary Special Pack
+305,3rd Anniversary Special Pack 1,19.99,$,3rd Anniversary Special Pack

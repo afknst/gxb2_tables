@@ -1,0 +1,96 @@
+id,name,params,activity_id,function_id,desc
+1,vip_window,{'select':5},5,,-1
+2,activity_window,"{'select':6,'activity_type2':3}",6,,-1
+3,activity_window,"{'select':7,'activity_type2':3}",7,,-1
+4,activity_window,"{'select':12,'activity_type2':1}",12,,-1
+5,activity_window,"{'select':13,'activity_type2':1}",13,,-1
+6,activity_window,"{'select':15,'activity_type2':1}",15,,-1
+7,activity_window,"{'select':16,'activity_type2':1}",16,,-1
+8,activity_window,"{'select':20,'activity_type2':1}",20,,-1
+9,activity_window,"{'select':33,'activity_type2':1}",33,,-1
+10,activity_window,"{'select':36,'activity_ids':[226,227,86,36,224,225,229], 'activity_type':7}",36,,-1
+11,activity_window,"{'select':44,'activity_type2':1}",44,,-1
+12,activity_window,"{'select':45,'activity_type2':1}",45,,-1
+13,activity_window,"{'select':56,'activity_ids':[169,171,86,36,56], 'activity_type':7}",56,,-1
+14,activity_window,"{'select':63,'activity_type2':1}",63,,-1
+15,activity_window,"{'select':69,'activity_type2':3}",69,,-1
+16,activity_window,"{'select':72,'activity_type2':1}",72,,-1
+17,activity_window,"{'select':73,'activity_type2':1}",73,,-1
+18,activity_window,"{'select':89,'activity_type2':1}",89,,-1
+19,activity_window,"{'select':90,'activity_type2':1}",90,,-1
+20,activity_window,"{'select':100,'activity_type2':1}",100,,-1
+21,activity_window,"{'select':101,'activity_type2':1}",101,,-1
+22,activity_sports_window,,102,,-1
+23,activity_window,"{'select':103,'activity_type2':1}",103,,-1
+24,battle_pass_window,{'tag':0},106,,-1
+25,activity_window,"{'select':117,'activity_type2':1}",117,,-1
+26,date_choose_window,{'select':121},121,,-1
+27,activity_window,"{'select':122,'activity_type2':1}",122,,-1
+28,activity_window,"{'select':123,'activity_type2':1}",123,,-1
+29,battle_pass_window,{'tag':0},124,,-1
+30,vip_window,{'select':5},129,,-1
+31,activity_window,"{'select':130,'activity_type2':1}",130,,-1
+32,activity_window,"{'select':131,'activity_type2':1}",131,,-1
+33,activity_window,"{'select':132,'activity_type2':3}",132,,-1
+34,activity_window,"{'select':134,'activity_ids':[134,135,136,149], 'activity_type':0}",134,,-1
+35,activity_window,"{'select':135,'activity_ids':[134,135,136,149], 'activity_type':0}",135,,-1
+36,activity_window,"{'select':140,'activity_type2':1}",140,,-1
+37,activity_window,"{'select':142,'activity_type2':1}",142,,-1
+38,activity_fairy_tale_main,,141,,-1
+39,activity_window,"{'select':143,'activity_type2':1}",143,,-1
+40,activity_window,"{'select':144,'activity_type2':1}",144,,-1
+41,activity_window,"{'select':145,'activity_type2':1}",145,,-1
+42,activity_window,"{'select':146,'activity_type2':3}",146,,-1
+43,activity_window,"{'select':11,'activity_type2':1}",11,,-1
+44,activity_window,"{'select':147,'activity_type2':1}",147,,-1
+45,activity_window,"{'select':148,'activity_type2':1}",148,,-1
+46,activity_window,"{'select':136,'activity_ids':[134,135,136,149], 'activity_type':0}",136,,-1
+47,activity_window,"{'select':149,'activity_ids':[134,135,136,149], 'activity_type':0}",149,,-1
+48,activity_window,"{'select':150,'activity_type2':1}",150,,-1
+49,activity_window,"{'select':66,'activity_type2':1}",66,,-1
+50,activity_window,"{'select':87,'activity_type2':1}",87,,-1
+51,activity_window,"{'select':157,'activity_type':3}",157,,-1
+52,activity_window,"{'select':158,'activity_type2':1}",158,,-1
+53,activity_window,"{'select':159,'activity_type2':1}",159,,-1
+54,activity_window,"{'select':160,'activity_type2':1}",160,,-1
+55,activity_window,"{'select':161,'activity_ids':[161,162,163], 'activity_type':0}",161,,-1
+56,activity_window,"{'select':162,'activity_ids':[161,162,163], 'activity_type':0}",162,,-1
+57,activity_window,"{'select':163,'activity_ids':[161,162,163], 'activity_type':0}",163,,-1
+58,activity_window,"{'select':167,'activity_type2':1}",167,,-1
+59,activity_window,"{'select':170,'activity_ids':[170], 'activity_type':0}",170,,-1
+60,activity_window,"{'select':174,'activity_type2':1}",174,,-1
+61,artifact_shop_warm_up_window,,175,,-1
+62,activity_window,"{'select':176,'activity_type2':1}",176,,-1
+63,activity_window,"{'select':177,'activity_ids':[177,179,180], 'activity_type':7}",177,,-1
+64,activity_window,"{'select':180,'activity_ids':[177,179,180], 'activity_type':7}",180,,-1
+65,activity_window,"{'select':178,'activity_type2':1}",178,,-1
+66,activity_window,"{'select':181,'activity_type2':1}",181,,-1
+67,activity_window,"{'select':182,'activity_type2':1}",182,,-1
+68,activity_window,"{'select':156,'activity_type':3}",156,,-1
+69,chat_gm_window,,,,-1
+70,activity_window,"{'select':183,'activity_type2':1}",183,,-1
+71,activity_window,"{'select':184,'activity_type2':1}",184,,-1
+72,activity_window,{'activity_type':1},,,-1
+73,activity_window,"{'select':179,'activity_ids':[177,179,180], 'activity_type':7}",179,,-1
+74,activity_window,"{'select':186,'activity_type2':1}",186,,-1
+75,activity_window,"{'select':187,'activity_type2':1}",187,,-1
+76,activity_window,"{'select':188,'activity_type2':1}",188,,-1
+77,activity_window,"{'select':189,'activity_type2':1}",189,,-1
+78,activity_window,"{'select':190,'activity_type2':1}",190,,-1
+79,activity_window,"{'select':191,'activity_ids':[191,192,193], 'activity_type':7}",191,,-1
+80,activity_window,"{'select':192,'activity_ids':[191,192,193], 'activity_type':7}",192,,-1
+81,activity_window,"{'select':193,'activity_ids':[191,192,193], 'activity_type':7}",193,,-1
+82,old_school_shop_window,,,,-1
+83,activity_window,"{'select':196,'activity_type2':1}",196,,-1
+84,activity_window,"{'select':197,'activity_type2':1}",197,,-1
+85,activity_window,"{'select':206,'activity_ids':[206,207,208,209], 'activity_type':7}",206,,-1
+86,activity_window,"{'select':207,'activity_ids':[206,207,208,209], 'activity_type':7}",207,,-1
+87,activity_window,"{'select':208,'activity_ids':[206,207,208,209], 'activity_type':7}",208,,-1
+88,activity_window,"{'select':209,'activity_ids':[206,207,208,209], 'activity_type':7}",209,,-1
+89,activity_window,"{'select':210,'activity_type2':1}",210,,-1
+90,activity_window,"{'select':211,'activity_ids':[214,211,212,213], 'activity_type':7}",211,,-1
+91,activity_window,"{'select':212,'activity_ids':[214,211,212,213], 'activity_type':7}",212,,-1
+92,activity_window,"{'select':213,'activity_ids':[214,211,212,213], 'activity_type':7}",213,,-1
+93,activity_window,"{'select':214,'activity_ids':[214,211,212,213], 'activity_type':7}",214,,-1
+94,activity_window,"{'select':224,'activity_ids':[226,227,86,36,224,225,229], 'activity_type':7}",224,,-1
+95,activity_window,"{'select':225,'activity_ids':[226,227,86,36,224,225,229], 'activity_type':7}",225,,-1

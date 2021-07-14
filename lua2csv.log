@@ -1,0 +1,239 @@
+../src_Jul_09/data/tables/battle_target.lua
+../src_Jul_09/data/tables/senpai_dress_slot.lua
+../src_Jul_09/data/tables/fx.lua
+../src_Jul_09/data/tables/effect.lua
+../src_Jul_09/data/tables/activity_gacha.lua
+../src_Jul_09/data/tables/activity_return2_reward.lua
+../src_Jul_09/data/tables/collection.lua
+../src_Jul_09/data/tables/girls_model.lua
+../src_Jul_09/data/tables/activity_popularity_vote_list.lua
+../src_Jul_09/data/tables/dropbox2.lua
+../src_Jul_09/data/tables/activity_black_card.lua
+../src_Jul_09/data/tables/comic.lua
+../src_Jul_09/data/tables/senpai_dress_item.lua
+../src_Jul_09/data/tables/house_partner.lua
+../src_Jul_09/data/tables/shop_hero.lua
+../src_Jul_09/data/tables/getway_item.lua
+../src_Jul_09/data/tables/dropbox_show.lua
+../src_Jul_09/data/tables/sound2.lua
+../src_Jul_09/data/tables/monster8.lua
+../src_Jul_09/data/tables/item.lua
+Ignore: ../src_Jul_09/data/tables/item.lua
+../src_Jul_09/data/tables/shop_skin.lua
+../src_Jul_09/data/tables/shop_hero_new.lua
+../src_Jul_09/data/tables/senpai_dress_group.lua
+../src_Jul_09/data/tables/custom_background.lua
+../src_Jul_09/data/tables/activity_3birthday_dinner.lua
+../src_Jul_09/data/tables/activity_popularity_vote_award.lua
+../src_Jul_09/data/tables/item1.lua
+../src_Jul_09/data/tables/mail.lua
+../src_Jul_09/data/tables/dropbox.lua
+Ignore: ../src_Jul_09/data/tables/dropbox.lua
+../src_Jul_09/data/tables/monster2.lua
+../src_Jul_09/data/tables/model.lua
+../src_Jul_09/data/tables/dropbox1.lua
+../src_Jul_09/data/tables/partner_exskill.lua
+../src_Jul_09/data/tables/skill5.lua
+KeyError: tables/skill5.csv
+Add column 3: unknown_3
+../src_Jul_09/data/tables/misc.lua
+../src_Jul_09/data/tables/activity_3birthday_gamble.lua
+../src_Jul_09/data/tables/server_map.lua
+../src_Jul_09/data/tables/item2.lua
+../src_Jul_09/data/tables/activity_3birthday_dinner_point.lua
+../src_Jul_09/data/tables/skill4.lua
+KeyError: tables/skill4.csv
+Add column 3: unknown_3
+../src_Jul_09/data/tables/skill6.lua
+KeyError: tables/skill6.csv
+Add column 3: unknown_3
+../src_Jul_09/data/tables/gift.lua
+../src_Jul_09/data/tables/getway.lua
+../src_Jul_09/data/tables/giftbox_optional.lua
+../src_Jul_09/data/tables/getway_item copy.lua
+../src_Jul_09/data/tables/equip.lua
+../src_Jul_09/data/tables/activity_shop_hero.lua
+../src_Jul_09/data/tables/battle.lua
+../src_Jul_09/data/tables/sound.lua
+Ignore: ../src_Jul_09/data/tables/sound.lua
+../src_Jul_09/data/tables/window_go_operation_map.lua
+../src_Jul_09/data/tables/senpai_dress_skill_buff.lua
+../src_Jul_09/data/tables/monster.lua
+Ignore: ../src_Jul_09/data/tables/monster.lua
+../src_Jul_09/data/tables/monster1.lua
+../src_Jul_09/data/tables/monster3.lua
+../src_Jul_09/data/tables/activity_popularity_vote_task.lua
+../src_Jul_09/data/tables/battle_trigger.lua
+../src_Jul_09/data/tables/activity_gacha_partner_award.lua
+../src_Jul_09/data/tables/activity.lua
+../src_Jul_09/data/tables/senpai_dress_style.lua
+../src_Jul_09/data/tables/activity_return2_gift_optional.lua
+../src_Jul_09/data/tables/monster4.lua
+../src_Jul_09/data/tables/activity_giftbox.lua
+../src_Jul_09/data/tables/window_go.lua
+../src_Jul_09/data/tables/skin_show_stage.lua
+../src_Jul_09/data/tables/senpai_dress_skill.lua
+../src_Jul_09/data/tables/giftbag.lua
+../src_Jul_09/data/tables/partner.lua
+../src_Jul_09/data/tables/monster6.lua
+../src_Jul_09/data/tables/activity_partner_jackpot.lua
+../src_Jul_09/data/tables/shop_config.lua
+../src_Jul_09/data/tables/skill3.lua
+KeyError: tables/skill3.csv
+Add column 3: unknown_3
+../src_Jul_09/data/tables/skill.lua
+Ignore: ../src_Jul_09/data/tables/skill.lua
+../src_Jul_09/data/tables/activity_3birthday_vip_awards.lua
+../src_Jul_09/data/tables/emoticon_gif.lua
+../src_Jul_09/data/tables/window.lua
+../src_Jul_09/data/tables/activity_turing_task.lua
+../src_Jul_09/data/tables/partner_picture.lua
+../src_Jul_09/data/tables/resource_effect.lua
+../src_Jul_09/data/tables/senpai_dress.lua
+../src_Jul_09/data/tables/monster7.lua
+../src_Jul_09/data/tables/buff.lua
+../src_Jul_09/data/tables/monster5.lua
+../src_Jul_09/data/tables/fr_fr/appointment_partner_data_text_fr_fr.lua
+../src_Jul_09/data/tables/fr_fr/partner_exskill_text_fr_fr.lua
+../src_Jul_09/data/tables/fr_fr/partner_warmup_plot_text_fr_fr.lua
+../src_Jul_09/data/tables/fr_fr/battlepass_mission_text_fr_fr.lua
+../src_Jul_09/data/tables/fr_fr/getway_item_text_fr_fr.lua
+../src_Jul_09/data/tables/fr_fr/activity_popularity_vote_text_fr_fr.lua
+../src_Jul_09/data/tables/fr_fr/skill_text_fr_fr.lua
+KeyError: tables/fr_fr/skill_text_fr_fr.csv
+Add column 2: unknown_2
+../src_Jul_09/data/tables/fr_fr/custom_background_text_fr_fr.lua
+../src_Jul_09/data/tables/fr_fr/setting_text_fr_fr.lua
+../src_Jul_09/data/tables/fr_fr/direct_text_fr_fr.lua
+../src_Jul_09/data/tables/fr_fr/partner_dialog_text_fr_fr.lua
+../src_Jul_09/data/tables/fr_fr/comic_text_fr_fr.lua
+../src_Jul_09/data/tables/fr_fr/giftbag_text_fr_fr.lua
+../src_Jul_09/data/tables/fr_fr/collection_text_fr_fr.lua
+../src_Jul_09/data/tables/fr_fr/mail_text_fr_fr.lua
+../src_Jul_09/data/tables/fr_fr/activity_text_fr_fr.lua
+../src_Jul_09/data/tables/fr_fr/getway_text_fr_fr.lua
+../src_Jul_09/data/tables/fr_fr/item_text_fr_fr.lua
+../src_Jul_09/data/tables/fr_fr/comic_fr_fr.lua
+../src_Jul_09/data/tables/fr_fr/activity_turing_task_text_fr_fr.lua
+../src_Jul_09/data/tables/fr_fr/translation_fr_fr.lua
+../src_Jul_09/data/tables/fr_fr/emoticon_gif_text_fr_fr.lua
+../src_Jul_09/data/tables/fr_fr/girls_model_text_fr_fr.lua
+KeyError: tables/fr_fr/girls_model_text_fr_fr.csv
+Add column 1: unknown_1
+../src_Jul_09/data/tables/fr_fr/daily_mission_text_fr_fr.lua
+../src_Jul_09/data/tables/fr_fr/equip_text_fr_fr.lua
+../src_Jul_09/data/tables/zh_tw/girls_model_text_zh_tw.lua
+../src_Jul_09/data/tables/zh_tw/collection_text_zh_tw.lua
+../src_Jul_09/data/tables/zh_tw/getway_text_zh_tw.lua
+../src_Jul_09/data/tables/zh_tw/activity_text_zh_tw.lua
+../src_Jul_09/data/tables/zh_tw/equip_text_zh_tw.lua
+../src_Jul_09/data/tables/zh_tw/giftbag_text_zh_tw.lua
+../src_Jul_09/data/tables/zh_tw/skill_text_zh_tw.lua
+KeyError: tables/zh_tw/skill_text_zh_tw.csv
+Add column 2: unknown_2
+../src_Jul_09/data/tables/zh_tw/translation_zh_tw.lua
+../src_Jul_09/data/tables/zh_tw/item_text_zh_tw.lua
+../src_Jul_09/data/tables/zh_tw/mail_text_zh_tw.lua
+../src_Jul_09/data/tables/zh_tw/custom_background_text_zh_tw.lua
+../src_Jul_09/data/tables/zh_tw/direct_text_zh_tw.lua
+../src_Jul_09/data/tables/zh_tw/appointment_partner_data_text_zh_tw.lua
+../src_Jul_09/data/tables/zh_tw/activity_turing_task_text_zh_tw.lua
+../src_Jul_09/data/tables/zh_tw/setting_text_zh_tw.lua
+../src_Jul_09/data/tables/zh_tw/comic_zh_tw.lua
+../src_Jul_09/data/tables/zh_tw/getway_item_text_zh_tw.lua
+../src_Jul_09/data/tables/zh_tw/activity_popularity_vote_text_zh_tw.lua
+../src_Jul_09/data/tables/zh_tw/comic_text_zh_tw.lua
+../src_Jul_09/data/tables/zh_tw/emoticon_gif_text_zh_tw.lua
+../src_Jul_09/data/tables/zh_tw/partner_exskill_text_zh_tw.lua
+../src_Jul_09/data/tables/ko_kr/girls_model_text_ko_kr.lua
+../src_Jul_09/data/tables/ko_kr/mail_text_ko_kr.lua
+../src_Jul_09/data/tables/ko_kr/activity_turing_task_text_ko_kr.lua
+../src_Jul_09/data/tables/ko_kr/custom_background_text_ko_kr.lua
+../src_Jul_09/data/tables/ko_kr/comic_text_ko_kr.lua
+../src_Jul_09/data/tables/ko_kr/partner_exskill_text_ko_kr.lua
+../src_Jul_09/data/tables/ko_kr/giftbag_text_ko_kr.lua
+../src_Jul_09/data/tables/ko_kr/direct_text_ko_kr.lua
+../src_Jul_09/data/tables/ko_kr/collection_text_ko_kr.lua
+../src_Jul_09/data/tables/ko_kr/setting_text_ko_kr.lua
+../src_Jul_09/data/tables/ko_kr/activity_popularity_vote_text_ko_kr.lua
+../src_Jul_09/data/tables/ko_kr/item_text_ko_kr.lua
+../src_Jul_09/data/tables/ko_kr/skill_text_ko_kr.lua
+KeyError: tables/ko_kr/skill_text_ko_kr.csv
+Add column 2: unknown_2
+../src_Jul_09/data/tables/ko_kr/comic_ko_kr.lua
+../src_Jul_09/data/tables/ko_kr/equip_text_ko_kr.lua
+../src_Jul_09/data/tables/ko_kr/emoticon_gif_text_ko_kr.lua
+../src_Jul_09/data/tables/ko_kr/appointment_partner_data_text_ko_kr.lua
+../src_Jul_09/data/tables/ko_kr/translation_ko_kr.lua
+../src_Jul_09/data/tables/ko_kr/getway_text_ko_kr.lua
+../src_Jul_09/data/tables/ko_kr/activity_text_ko_kr.lua
+../src_Jul_09/data/tables/ko_kr/getway_item_text_ko_kr.lua
+../src_Jul_09/data/tables/de_de/activity_turing_task_text_de_de.lua
+../src_Jul_09/data/tables/de_de/direct_text_de_de.lua
+../src_Jul_09/data/tables/de_de/skill_text_de_de.lua
+KeyError: tables/de_de/skill_text_de_de.csv
+Add column 2: unknown_2
+../src_Jul_09/data/tables/de_de/partner_exskill_text_de_de.lua
+../src_Jul_09/data/tables/de_de/emoticon_gif_text_de_de.lua
+../src_Jul_09/data/tables/de_de/giftbag_text_de_de.lua
+../src_Jul_09/data/tables/de_de/activity_text_de_de.lua
+../src_Jul_09/data/tables/de_de/collection_text_de_de.lua
+../src_Jul_09/data/tables/de_de/buff_text_de_de.lua
+../src_Jul_09/data/tables/de_de/appointment_partner_data_text_de_de.lua
+../src_Jul_09/data/tables/de_de/mail_text_de_de.lua
+../src_Jul_09/data/tables/de_de/item_text_de_de.lua
+../src_Jul_09/data/tables/de_de/getway_item_text_de_de.lua
+../src_Jul_09/data/tables/de_de/equip_text_de_de.lua
+../src_Jul_09/data/tables/de_de/girls_model_text_de_de.lua
+../src_Jul_09/data/tables/de_de/translation_de_de.lua
+../src_Jul_09/data/tables/de_de/custom_background_text_de_de.lua
+../src_Jul_09/data/tables/de_de/getway_text_de_de.lua
+../src_Jul_09/data/tables/de_de/partner_warmup_plot_text_de_de.lua
+../src_Jul_09/data/tables/de_de/activity_popularity_vote_text_de_de.lua
+../src_Jul_09/data/tables/en_en/direct_text_en_en.lua
+../src_Jul_09/data/tables/en_en/giftbag_text_en_en.lua
+../src_Jul_09/data/tables/en_en/partner_exskill_text_en_en.lua
+../src_Jul_09/data/tables/en_en/girls_model_text_en_en.lua
+../src_Jul_09/data/tables/en_en/mail_text_en_en.lua
+../src_Jul_09/data/tables/en_en/comic_en_en.lua
+../src_Jul_09/data/tables/en_en/appointment_partner_data_text_en_en.lua
+../src_Jul_09/data/tables/en_en/skill_text_en_en.lua
+KeyError: tables/en_en/skill_text_en_en.csv
+Add column 2: unknown_2
+../src_Jul_09/data/tables/en_en/collection_text_en_en.lua
+../src_Jul_09/data/tables/en_en/item_text_en_en.lua
+../src_Jul_09/data/tables/en_en/pet_training_text_en_en.lua
+../src_Jul_09/data/tables/en_en/equip_text_en_en.lua
+../src_Jul_09/data/tables/en_en/getway_text_en_en.lua
+../src_Jul_09/data/tables/en_en/translation_en_en.lua
+../src_Jul_09/data/tables/en_en/getway_item_text_en_en.lua
+../src_Jul_09/data/tables/en_en/partner_warmup_plot_text_en_en.lua
+../src_Jul_09/data/tables/en_en/activity_turing_task_text_en_en.lua
+../src_Jul_09/data/tables/en_en/comic_text_en_en.lua
+../src_Jul_09/data/tables/en_en/custom_background_text_en_en.lua
+../src_Jul_09/data/tables/en_en/emoticon_gif_text_en_en.lua
+../src_Jul_09/data/tables/en_en/activity_popularity_vote_text_en_en.lua
+../src_Jul_09/data/tables/en_en/activity_text_en_en.lua
+../src_Jul_09/data/tables/ja_jp/comic_text_ja_jp.lua
+../src_Jul_09/data/tables/ja_jp/direct_text_ja_jp.lua
+../src_Jul_09/data/tables/ja_jp/getway_item_text_ja_jp.lua
+../src_Jul_09/data/tables/ja_jp/getway_text_ja_jp.lua
+../src_Jul_09/data/tables/ja_jp/activity_turing_task_text_ja_jp.lua
+../src_Jul_09/data/tables/ja_jp/giftbag_text_ja_jp.lua
+../src_Jul_09/data/tables/ja_jp/translation_ja_jp.lua
+../src_Jul_09/data/tables/ja_jp/activity_popularity_vote_text_ja_jp.lua
+../src_Jul_09/data/tables/ja_jp/partner_exskill_text_ja_jp.lua
+../src_Jul_09/data/tables/ja_jp/custom_background_text_ja_jp.lua
+../src_Jul_09/data/tables/ja_jp/comic_ja_jp.lua
+../src_Jul_09/data/tables/ja_jp/mail_text_ja_jp.lua
+../src_Jul_09/data/tables/ja_jp/skill_text_ja_jp.lua
+KeyError: tables/ja_jp/skill_text_ja_jp.csv
+Add column 2: unknown_2
+../src_Jul_09/data/tables/ja_jp/item_text_ja_jp.lua
+../src_Jul_09/data/tables/ja_jp/girls_model_text_ja_jp.lua
+../src_Jul_09/data/tables/ja_jp/equip_text_ja_jp.lua
+../src_Jul_09/data/tables/ja_jp/partner_notation_text_ja_jp.lua
+../src_Jul_09/data/tables/ja_jp/emoticon_gif_text_ja_jp.lua
+../src_Jul_09/data/tables/ja_jp/setting_text_ja_jp.lua
+../src_Jul_09/data/tables/ja_jp/collection_text_ja_jp.lua
+../src_Jul_09/data/tables/ja_jp/activity_text_ja_jp.lua

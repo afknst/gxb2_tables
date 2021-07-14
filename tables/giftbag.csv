@@ -1,0 +1,514 @@
+id,name,desc_1,desc_2,desc_4,desc_5,desc_6,desc_11,activity_id,rank,charge,currency,diamond,first_extra_diamond,extra_diamond,token_amount,vip_exp,gift_id,giftbag_type,gift_type_desc,daily_diamond,days,ios_product_id,price,icon,output_percent,parameter,parameter_vip,previlege,last_time,limit_times,cd,sale_on_web,need_review,price_change
+1,-1,Monthly Card,Carte Mensuelle,-1,-1,월간 패스,Monatskarte,6,1,14.99,NT$,900,,,,750,10001,1,-1,2#370,30,com.carolgames.moemoegirls.30day,14.99,vip_icon07_png,,,,,,,,1,0,0
+2,-1,Mini Monthly Card,Petite Carte Mensuelle,-1,-1,미니 월간 패스,Mini Monatskarte,7,2,4.99,NT$,350,,,,250,10002,1,-1,2#85,30,com.carolgames.moemoegirls.30daymini,4.99,vip_icon08_png,,,,,,,,1,0,0
+3,-1,Weekly Card,Carte Hebdomadaire,-1,-1,주간 패스,Wochenkarte,38,3,0.99,NT$,0,,,,50,10003,13,-1,,7,com.carolgames.moemoegirls.week,0.99,vip_icon10_png,,,,,,,,0,0,0
+4,-1,250 Gems Package,Pack de 250 Gemmes,-1,250ダイヤパック,250 다이아 팩,250 Dias Paket,5,4,4.99,NT$,250,2#250,,250,250,10004,2,-1,,,com.carolgames.moemoegirls.250d,4.99,vip_icon01_png,,,,,,,,1,0,0
+5,-1,500 Gems Package,Pack de 500 Gemmes,-1,500ダイヤパック,500 다이아 팩,500 Dias Paket,5,5,9.99,NT$,500,2#500,50,500,500,10005,2,-1,,,com.carolgames.moemoegirls.500d,9.99,vip_icon02_png,,,,,,,,1,0,0
+6,-1,1000 Gems Package,Pack de 1000 Gemmes,-1,1000ダイヤパック,1000 다이아 팩,1000 Dias Paket,5,6,19.99,NT$,1000,2#1000,200,1000,1000,10006,2,-1,,,com.carolgames.moemoegirls.1000d,19.99,vip_icon03_png,,,,,,,,1,0,0
+7,-1,2500 Gems Package,Pack de 2500 Gemmes,-1,2500ダイヤパック,2500 다이아 팩,2500 Dias Paket,5,7,49.99,NT$,2500,2#2500,750,2500,2500,10007,2,-1,,,com.carolgames.moemoegirls.2500d,49.99,vip_icon04_png,,,,,,,,1,0,0
+8,-1,5000 Gems Package,Pack de 5000 Gemmes,-1,5000ダイヤパック,5000 다이아 팩,5000 Dias Paket,5,9,99.99,NT$,5000,2#5000,2000,5000,5000,10008,2,-1,,,com.carolgames.moemoegirls.5000d,99.99,vip_icon06_png,,,,,,,,1,0,0
+9,-1,LV 24 Package,Pack de Niv.24,-1,レベル24パック,레벨 24 팩,Lv.24 Paket,8,0,1.99,,0,,,100,100,10009,3,-1,,,com.carolgames.moemoegirls.24level,1.99,,,24|31,,,7200,1,,1,0,0
+10,-1,LV 32 Package,Pack de Niv.32,-1,レベル32パック,레벨 32 팩,Lv.32 Paket,8,0,4.99,,0,,,250,250,10010,3,-1,,,com.carolgames.moemoegirls.32level,4.99,,,32|47,,,7200,2,,1,0,0
+11,-1,LV 48 Package,Pack de Niv.48,-1,レベル48パック,레벨 48 팩,Lv.48 Paket,8,0,9.99,,0,,,500,500,10011,3,-1,,,com.carolgames.moemoegirls.48level,9.99,,,48|57,,,14400,2,,1,0,0
+12,-1,LV 58 Package,Pack de Niv.58,-1,レベル58パック,레벨 58 팩,Lv.58 Paket,8,0,29.99,,0,,,1500,1500,10012,3,-1,,,com.carolgames.moemoegirls.58level,29.99,,,58|77,,,72000,1,,1,0,0
+13,-1,LV 78 Package,Pack de Niv.78,-1,レベル78パック,레벨 78 팩,Lv.78 Paket,8,0,49.99,,0,,,2500,2500,10013,3,-1,,,com.carolgames.moemoegirls.78level,49.99,,,78|100,,,72000,1,,1,0,0
+14,-1,4-star Girl Training Package,Pack d'Entraînement de Filles,-1,-1,4성 소녀 소환 팩,4-Sterne-Mädchen-Trainingspaket,9,0,4.99,,0,,,250,250,10014,6,-1,,,com.carolgames.moemoegirls.4starpartner,4.99,,,,,,7200,2,345600,1,0,0
+15,-1,5-star Girl Training Package,Pack d'Entraînement de Filles,-1,-1,5성 소녀 소환 팩,5-Sterne-Mädchen-Trainingspaket,10,0,9.99,,0,,,500,500,10015,7,-1,,,com.carolgames.moemoegirls.5starpartner,9.99,,,,,,14400,2,172800,1,0,0
+16,-1,Monthly Package 1,Pack Mensuel 1,-1,-1,월간 팩 1,Monatspaket 1,2,0,4.99,,0,,,250,250,10016,4,-1,,,com.carolgames.moemoegirls.monthgift1,4.99,,,,,,2592000,1,,1,0,0
+17,-1,Monthly Package 2,Pack Mensuel 2,-1,-1,월간 팩 2,Monatspaket 2,2,0,9.99,,0,,,500,500,10017,4,-1,,,com.carolgames.moemoegirls.monthgift2,9.99,,,,,,2592000,1,,1,0,0
+18,-1,Monthly Package 3,Pack Mensuel 3,-1,-1,월간 팩 3,Monatspaket 3,2,0,29.99,,0,,,1500,1500,10018,4,-1,,,com.carolgames.moemoegirls.monthgift3,29.99,,,,,,2592000,1,,1,0,0
+19,-1,Monthly Package 4,Pack Mensuel 4,-1,-1,월간 팩 4,Monatspaket 4,2,0,49.99,,0,,,2500,2500,10019,4,-1,,,com.carolgames.moemoegirls.monthgift4,49.99,,,,,,2592000,1,,1,0,0
+20,-1,Monthly Package 5,Pack Mensuel 5,-1,-1,월간 팩 5,Monatspaket 5,2,0,69.99,,0,,,3500,3500,10020,4,-1,,,com.carolgames.moemoegirls.monthgift5,69.99,,,,,,2592000,1,,1,0,0
+89,-1,Monthly Package 7,Pack Mensuel 7,-1,-1,월간 팩 7,Monatspaket 7,2,0,99.99,,0,,,5000,5000,10021,4,-1,,,com.carolgames.moemoegirls.monthgift7,99.99,,,,,,2592000,1,,1,0,0
+22,-1,Weekly Package 1,Pack Hebdomadaire 1,-1,-1,주간 팩,Wochenpaket 1,3,0,9.99,,0,,,500,500,10022,5,-1,,,com.carolgames.moemoegirls.weekgift1,9.99,,,,,,604800,3,,1,0,0
+23,-1,Weekly Package 2,Pack Hebdomadaire 2,-1,-1,주간 팩 2,Wochenpaket 2,3,0,19.99,,0,,,1000,1000,10023,5,-1,,,com.carolgames.moemoegirls.weekgift2,19.99,,,,,,604800,3,,1,0,0
+24,-1,Weekly Package 3,Pack Hebdomadaire 3,-1,-1,주간 팩 3,Wochenpaket 3,3,0,49.99,,0,,,2500,2500,10024,5,-1,,,com.carolgames.moemoegirls.weekgift3,49.99,,,,,,604800,2,,1,0,0
+25,-1,Weekly Package 4,Pack Hebdomadaire 4,-1,-1,주간 팩 4,Wochenpaket 4,3,0,69.99,,0,,,3500,3500,10025,5,-1,,,com.carolgames.moemoegirls.weekgift4,69.99,,,,,,604800,1,,1,0,0
+200,-1,Weekly Package 5,Pack Hebdomadaire 5,-1,-1,주간 팩 5,Wochenpaket 5,3,0,79.99,,0,,,4000,4000,10200,5,-1,,,com.carolgames.moemoegirls.weekgift5,79.99,,,,,,604800,1,,1,0,0
+201,-1,Weekly Package 6,Pack Hebdomadaire 6,-1,-1,주간 팩 6,Wochenpaket 6,3,0,99.99,,0,,,5000,5000,10201,5,-1,,,com.carolgames.moemoegirls.weekgift6,99.99,,,,,,604800,1,,1,0,0
+26,-1,Value Package 1,Pack de Grande Valeur 1,-1,-1,슈퍼 팩 1,Superpaket 1,12,0,99.99,,0,,,5000,5000,10026,8,-1,,,com.carolgames.moemoegirls.overflow1,99.99,,,,,,604800,8,,1,0,0
+27,-1,Value Package 2,Pack de Grande Valeur 2,-1,-1,슈퍼 팩 2,Superpaket 2,12,0,69.99,,0,,,3500,3500,10027,8,-1,,,com.carolgames.moemoegirls.overflow2,69.99,,,,,,604800,8,,1,0,0
+28,-1,Value Package 3,Pack de Grande Valeur 3,-1,-1,슈퍼 팩 3,Superpaket 3,12,0,29.99,,0,,,1500,1500,10028,8,-1,,,com.carolgames.moemoegirls.overflow3,29.99,,,,,,604800,8,,1,0,0
+29,-1,Value Package 4,Pack de Grande Valeur 4,-1,-1,슈퍼 팩 4,Superpaket 4,12,0,9.99,,0,,,500,500,10029,8,-1,,,com.carolgames.moemoegirls.overflow4,9.99,,,,,,604800,7,,1,0,0
+30,-1,Value Package 5,Pack de Grande Valeur 5,-1,-1,슈퍼 팩 5,Superpaket 5,12,0,4.99,,0,,,250,250,10030,8,-1,,,com.carolgames.moemoegirls.overflow5,4.99,,,,,,604800,7,,1,0,0
+31,-1,Value Package 1,Pack de Grande Valeur 1,-1,-1,슈퍼 팩 1,Superpaket 1,15,0,99.99,,0,,,5000,5000,10031,9,-1,,,com.carolgames.moemoegirls.overflow_b1,99.99,,,,,,604800,8,,1,0,0
+32,-1,Value Package 2,Pack de Grande Valeur 2,-1,-1,슈퍼 팩 2,Superpaket 2,15,0,69.99,,0,,,3500,3500,10032,9,-1,,,com.carolgames.moemoegirls.overflow_b2,69.99,,,,,,604800,8,,1,0,0
+33,-1,Value Package 3,Pack de Grande Valeur 3,-1,-1,슈퍼 팩 3,Superpaket 3,15,0,29.99,,0,,,1500,1500,10033,9,-1,,,com.carolgames.moemoegirls.overflow_b3,29.99,,,,,,604800,6,,1,0,0
+34,-1,Value Package 4,Pack de Grande Valeur 4,-1,-1,슈퍼 팩 4,Superpaket 4,15,0,19.99,,0,,,1000,1000,10034,9,-1,,,com.carolgames.moemoegirls.overflow_b4,19.99,,,,,,604800,6,,1,0,1
+35,-1,Free Recharge Package,Pack de Recharge Gratuit,-1,-1,무료 구입 커스텀 팩,Gratis Auflade Paket,19,0,1.98,,0,,,100,50,10035,10,-1,,,com.carolgames.moemoegirls.60t,1.98,,,,,,,1,,1,0,0
+36,-1,Value Package 5,Pack de Grande Valeur 5,-1,-1,슈퍼 팩 5,Superpaket 5,15,0,4.99,,0,,,250,250,10036,9,-1,,,com.carolgames.moemoegirls.overflow_b5,4.99,,,,,,604800,5,,1,0,0
+37,-1,Limit 5-star Girl Pack,Pack Limité de Filles 5 étoiles,-1,-1,기간 한정 5성 특가 팩,5-Sterne Paket,31,0,1.99,,0,,,100,50,10035,11,-1,,,com.carolgames.moemoegirls.limittime5star,1.99,,,,,,604800,1,,1,0,0
+38,-1,Coin Subscription,Abonnement,-1,-1,구독,Abonnieren,38,3,0.99,NT$,0,,,,50,10003,13,-1,,7,com.carolgames.moemoegirls.weeksub,0.99,vip_icon10_png,,,,,,,,1,0,0
+39,-1,Black Friday Card,Carte du Vendredi Noir,-1,Xmasパス,블랙 프라이데이 카드,Black Friday-Karte,36,0,9.99,,0,,,500,500,10039,12,-1,,7,com.carolgames.moemoegirls.blackcard,9.99,,,,,,,,,1,0,0
+40,-1,Weekly Subscription,Abonnement Hebdomadaire,-1,-1,주간 구독,Wöchentliches Abonnement,38,3,0.99,NT$,0,,,,50,10040,13,-1,,7,com.carolgames.moemoegirls.sub_week,0.99,,,,,,,,,0,0,0
+41,-1,Monthly Subscription,Mensuel,-1,-1,월간 구독,Monatliches Abonnement,38,3,3.99,NT$,0,,,,200,10041,13,-1,,30,com.carolgames.moemoegirls.sub_month,3.99,,,,,,,,,0,0,0
+42,-1,Quarterly Subscription,Trimestriel,-1,-1,3개월 구독,Vierteljähriges Abonnement,38,3,9.99,NT$,0,,,,500,10042,13,-1,,90,com.carolgames.moemoegirls.sub_quarter,9.99,,,,,,,,,0,0,0
+43,-1,Monthly Package 1,Pack Mensuel 1,-1,-1,월간 팩 1,Monatspaket 1,39,0,4.99,,0,,,250,250,10043,14,-1,,,com.carolgames.moemoegirls.monthgift1,4.99,,,,,,2592000,1,,1,0,0
+44,-1,Monthly Package 2,Pack Mensuel 2,-1,-1,월간 팩 2,Monatspaket 2,39,0,9.99,,0,,,500,500,10044,14,-1,,,com.carolgames.moemoegirls.monthgift2,9.99,,,,,,2592000,1,,1,0,0
+45,-1,Monthly Package 3,Pack Mensuel 3,-1,-1,월간 팩 3,Monatspaket 3,39,0,29.99,,0,,,1500,1500,10045,14,-1,,,com.carolgames.moemoegirls.monthgift3,29.99,,,,,,2592000,1,,1,0,0
+46,-1,Monthly Package 4,Pack Mensuel 4,-1,-1,월간 팩 4,Monatspaket 4,39,0,49.99,,0,,,2500,2500,10046,14,-1,,,com.carolgames.moemoegirls.monthgift4,49.99,,,,,,2592000,1,,1,0,0
+47,-1,Monthly Package 5,Pack Mensuel 5,-1,-1,월간 팩 5,Monatspaket 5,39,0,69.99,,0,,,3500,3500,10047,14,-1,,,com.carolgames.moemoegirls.monthgift5,69.99,,,,,,2592000,1,,1,0,0
+48,-1,Monthly Package 6,Pack Mensuel 6,-1,-1,월간 팩 6,Monatspaket 6,39,0,79.99,,0,,,4000,4000,10048,14,-1,,,com.carolgames.moemoegirls.monthgift6,79.99,,,,,,2592000,1,,1,0,0
+199,-1,Monthly Package 7,Pack Mensuel 7,-1,-1,월간 팩 7,Monatspaket 7,39,0,99.99,,0,,,5000,5000,10199,14,-1,,,com.carolgames.moemoegirls.monthgift7,99.99,,,,,,2592000,1,,1,0,0
+49,-1,Weekly Package 1,Pack Hebdomadaire 1,-1,-1,주간 팩 1,Wochenpaket 1,40,0,9.99,,0,,,500,500,10049,15,-1,,,com.carolgames.moemoegirls.weekgift1,9.99,,,,,,604800,3,,1,0,0
+50,-1,Weekly Package 2,Pack Hebdomadaire 2,-1,-1,주간 팩 2,Wochenpaket 2,40,0,19.99,,0,,,1000,1000,10050,15,-1,,,com.carolgames.moemoegirls.weekgift2,19.99,,,,,,604800,3,,1,0,0
+51,-1,Weekly Package 3,Pack Hebdomadaire 3,-1,-1,주간 팩 3,Wochenpaket 3,40,0,49.99,,0,,,2500,2500,10051,15,-1,,,com.carolgames.moemoegirls.weekgift3,49.99,,,,,,604800,3,,1,0,0
+52,-1,Weekly Package 4,Pack Hebdomadaire 4,-1,-1,주간 팩 4,Wochenpaket 4,40,0,69.99,,0,,,3500,3500,10052,15,-1,,,com.carolgames.moemoegirls.weekgift4,69.99,,,,,,604800,2,,1,0,0
+53,-1,Weekly Subscription,Abonnement Hebdomadaire,-1,-1,주간 구독,Wöchentliches Abonnement,38,3,0.99,NT$,0,,,,50,10040,13,-1,,7,com.carolgames.moemoegirls.sub_week,0.99,,,,,,,,,0,0,0
+54,-1,Monthly Subscription,Mensuel,-1,-1,월간 구독,Monatliches Abonnement,38,3,3.99,NT$,0,,,,200,10041,13,-1,,30,com.carolgames.moemoegirls.sub_month,3.99,,,,,,,,,0,0,0
+55,-1,Quarterly Subscription,Trimestriel,-1,-1,3개월 구독,Vierteljähriges Abonnement,38,3,9.99,NT$,0,,,,500,10042,13,-1,,90,com.carolgames.moemoegirls.sub_quarter,9.99,,,,,,,,,0,0,0
+56,-1,Special Skin Pack 1,Pack Surprise de Skin 1,-1,-1,스페셜 스킨 팩 1,Glückspaket 1,44,0,4.99,,0,,,250,250,10056,16,-1,,,com.carolgames.moemoegirls.skin_pack_a1,4.99,,,,,,604800,1,,1,0,0
+57,-1,Special Skin Pack 1,Pack Surprise de Skin 1,-1,-1,스페셜 스킨 팩 1,Glückspaket 1,45,0,4.99,,0,,,250,250,10057,17,-1,,,com.carolgames.moemoegirls.skin_pack_b1,4.99,,,,,,604800,2,,1,0,0
+58,-1,Free 7-day,7 jours Gratuit(Hebdo),-1,-1,7일 무료,7-tägige kostenlose Testversion,38,3,0,NT$,0,,,,0,40001,13,-1,,7,com.carolgames.moemoegirls.sub_week,0.99,,,,,,,,,0,0,0
+59,-1,Free 7-day,7 jours Gratuit(Mensuel),-1,-1,7일 무료,7-tägige kostenlose Testversion,38,3,0,NT$,0,,,,0,40002,13,-1,,7,com.carolgames.moemoegirls.sub_week,3.99,,,,,,,,,0,0,0
+60,-1,Free 7-day,7 jours Gratuit(Trimestriel),-1,-1,7일 무료,7-tägige kostenlose Testversion,38,3,0,NT$,0,,,,0,40003,13,-1,,7,com.carolgames.moemoegirls.sub_week,9.99,,,,,,,,,0,0,0
+61,-1,Free 7-day,7 jours Gratuit(Hebdo),-1,-1,7일 무료,7-tägige kostenlose Testversion,38,3,0,NT$,0,,,,0,41001,13,-1,,7,com.carolgames.moemoegirls.sub_week,0.99,,,,,,,,,0,0,0
+62,-1,Free 7-day,7 jours Gratuit(Mensuel),-1,-1,7일 무료,7-tägige kostenlose Testversion,38,3,0,NT$,0,,,,0,41002,13,-1,,7,com.carolgames.moemoegirls.sub_week,3.99,,,,,,,,,0,0,0
+63,-1,Free 7-day,7 jours Gratuit(Trimestriel),-1,-1,7일 무료,7-tägige kostenlose Testversion,38,3,0,NT$,0,,,,0,41003,13,-1,,7,com.carolgames.moemoegirls.sub_week,9.99,,,,,,,,,0,0,0
+64,-1,Stage Package,Pack d'Etape,-1,ステージパック,스테이지 팩,Rundenpaket,49,0,9.99,,0,,,500,500,10064,18,-1,,,com.carolgames.moemoegirls.stage,9.99,,,35,,,14400,1,,1,0,0
+65,-1,Special Skin Pack 2 ,Pack Surprise de Skin 2,-1,-1,스페셜 스킨 팩 2,Glückspaket 2,45,0,49.99,,0,,,2500,2500,10065,17,-1,,,com.carolgames.moemoegirls.skin_pack_b2,49.99,,,,,,604800,1,,1,0,1
+66,-1,Oath Ring,Bague de Serment,-1,-1,서약 반지,Ehering,51,0,19.99,,0,,,1000,1000,10066,19,-1,,,com.carolgames.moemoegirls.oath_ring,19.99,,,,,,,,,1,0,0
+67,-1,Growth Pack,Pack de Croissance,-1,-1,육성 팩,Wachstumspaket,57,0,9.99,,0,,,500,500,10067,20,-1,,,com.carolgames.moemoegirls.grow_up_gift1,9.99,,,25,,,2592000,2,,0,0,0
+70,-1,Unlock Special Rewards,Débloquer Récompenses Spéciales,-1,アップグレートボーナス,활성화 특별 보상,Entsperre Deluxe Bonus,62,0,19.99,,0,,,1000,1000,10070,21,-1,,,com.carolgames.moemoegirls.beach_spe_rewards,19.99,,,,,,,1,,1,0,0
+71,-1,Special Skin Pack 2 ,Pack Surprise de Skin 2,-1,-1,스페셜 스킨 팩 2,Glückspaket 2,44,0,49.99,,0,,,2500,2500,10071,16,-1,,,com.carolgames.moemoegirls.skin_pack_a2,49.99,,,,,,604800,1,,1,0,0
+72,-1,3rd Anniversary Gift Card,Carte du 3ème Anniversaire,-1,-1,3주년 축제 카드,Grußkarte zum 3. Jubiläum,36,0,19.99,,0,,,1000,1000,10072,12,-1,,10,com.carolgames.moemoegirls.blackcard1,19.99,,,,,,,1,,1,0,0
+73,-1,Jingle Bell Pack 1,Pack Exclusif de Noël 1,-1,-1,크리스마스 한정 팩 1,Limitierte Pakete zu Weihnachten 1,66,0,49.99,,0,,,2500,2500,10073,22,-1,,,com.carolgames.moemoegirls.korea_pack1,49.99,,,,,,172800,2,,1,0,0
+74,-1,Motivation Program,Programme de Motivation,-1,-1,스터디 프로그램,Studiumplan,69,0,9.99,,0,,,500,500,10074,23,-1,,,com.carolgames.moemoegirls.level_up,9.99,,,,,,,1,,1,0,0
+75,-1,Oath Pack,Pack de Serment,-1,-1,서약 팩,Eid Paket,72,0,29.99,,0,,,1500,1500,10075,24,-1,,7,com.carolgames.moemoegirls.oath_pack,29.99,,,,,,604800,1,,1,0,0
+76,-1,Monthly Quest Extra Awards,Pass de Luxe,-1,フランスβテストギフト,과제 구입,Premium Inhalte,75,0,9.99,,0,,,500,500,10076,25,-1,,30,com.carolgames.moemoegirls.monthly_quest,9.99,,,,,,2592000,1,,1,0,0
+77,-1,Jingle Bell Pack 2,Pack Exclusif de Noël 2,-1,-1,크리스마스 한정 팩 2,Limitierte Pakete zu Weihnachten 1,66,0,99.99,,0,,,5000,5000,10077,22,-1,,,com.carolgames.moemoegirls.korea_pack2,99.99,,,,,,172800,2,,1,0,0
+78,-1,Value Package 1,Pack de Grande Valeur 1,-1,-1,슈퍼 팩 1,Superpaket 1,89,0,99.99,,0,,,5000,5000,10078,33,-1,,,com.carolgames.moemoegirls.overflow_c1,99.99,,,,,,604800,5,,1,0,0
+79,-1,Value Package 2,Pack de Grande Valeur 2,-1,-1,슈퍼 팩 2,Superpaket 2,89,0,69.99,,0,,,3500,3500,10079,33,-1,,,com.carolgames.moemoegirls.overflow_c2,69.99,,,,,,604800,5,,1,0,0
+80,-1,Value Package 3,Pack de Grande Valeur 3,-1,-1,슈퍼 팩 3,Superpaket 3,89,0,29.99,,0,,,1500,1500,10080,33,-1,,,com.carolgames.moemoegirls.overflow_c3,29.99,,,,,,604800,5,,1,0,0
+81,-1,Value Package 4,Pack de Grande Valeur 4,-1,-1,슈퍼 팩 4,Superpaket 4,89,0,9.99,,0,,,500,500,10081,33,-1,,,com.carolgames.moemoegirls.overflow_c4,9.99,,,,,,604800,5,,1,0,0
+82,-1,Value Package 5,Pack de Grande Valeur 5,-1,-1,슈퍼 팩 5,Superpaket 5,89,0,4.99,,0,,,250,250,10082,33,-1,,,com.carolgames.moemoegirls.overflow_c5,4.99,,,,,,604800,5,,1,0,0
+84,-1,Special Gift Pack 1,Pack Surprise 1,-1,-1,스페셜 팩 1,Glückspaket 1,90,0,4.99,,0,,,250,250,10084,34,-1,,,com.carolgames.moemoegirls.skin_pack_c1,4.99,,,,,,604800,1,,1,0,0
+85,-1,Special Gift Pack 2,Pack Surprise 2,-1,-1,스페셜 팩 2,Glückspaket 2,90,0,69.99,,0,,,3500,3500,10085,34,-1,,,com.carolgames.moemoegirls.skin_pack_c2,69.99,,,,,,604800,1,,1,0,0
+86,-1,Free Recharge Package,Pack de Recharge Gratuit,-1,-1,무료 구입 커스텀 팩,Gratis Aufladepaket,91,0,1.98,,0,,,100,50,10035,35,-1,,,com.carolgames.moemoegirls.60t,1.98,,,,,,,1,,1,0,0
+90,-1,Weekly Package 6,Pack Hebdomadaire 6,-1,-1,주간 팩 6,Wochenpaket 6,40,0,99.99,,0,,,5000,5000,10087,15,-1,,,com.carolgames.moemoegirls.weekgift6,99.99,,,,,,604800,1,,1,0,0
+88,-1,4000 Gems Package,Pack de 4000 Gemmes,-1,4000ダイヤパック,4000 다이아,4000 Dias,5,8,79.99,NT$,4000,2#4000,1400,4000,4000,10088,2,-1,,,com.carolgames.moemoegirls.4000d,79.99,vip_icon05_png,,,,,,,,1,0,0
+21,-1,Monthly Package 6,Pack Mensuel 6,-1,-1,월간 팩 6,Monatspaket 6,2,0,79.99,,0,,,4000,4000,10089,4,-1,,,com.carolgames.moemoegirls.monthgift6,79.99,,,,,,2592000,1,,1,0,0
+87,-1,Weekly Package 5,Pack Hebdomadaire 5,-1,-1,주간 팩 5,Wochenpaket 5,40,0,79.99,,0,,,4000,4000,10090,15,-1,,,com.carolgames.moemoegirls.weekgift5,79.99,,,,,,604800,1,,1,0,0
+92,-1,daily Package 1,Pack Quotidien 1,-1,-1,데일리 특가 팩1,Tagespaket 1,104,0,0.99,,0,,,50,50,10092,37,-1,,,com.carolgames.moemoegirls.dailygift1,0.99,,,,,,86400,1,,1,0,0
+93,-1,daily Package 2,Pack Quotidien 2,-1,-1,데일리 특가 팩2,Tagespaket 2,104,0,1.99,,0,,,100,100,10093,37,-1,,,com.carolgames.moemoegirls.dailygift2,1.99,,,,,,86400,1,,1,0,0
+94,-1,daily Package (Coins),Pack Quotidien 3,-1,-1,데일리 특가 팩3,Tagespaket 3,104,0,4.99,,0,,,250,250,10094,37,-1,,,com.carolgames.moemoegirls.dailygift3,4.99,,,,,,86400,1,,1,0,0
+95,-1,daily Package (Exp Juice),Pack Quotidien 4,-1,-1,데일리 특가 팩4,Tagespaket 4,104,0,4.99,,0,,,250,250,10095,37,-1,,,com.carolgames.moemoegirls.dailygift4,4.99,,,,,,86400,1,,1,0,0
+96,-1,daily Package (Lunch Boxes),Pack Quotidien 5,-1,-1,데일리 특가 팩5,Tagespaket 5,104,0,4.99,,0,,,250,250,10096,37,-1,,,com.carolgames.moemoegirls.dailygift5,4.99,,,,,,86400,1,,1,0,0
+97,-1,daily Package (Cookies),Pack Quotidien 6,-1,-1,데일리 특가 팩6,Tagespaket 6,104,0,4.99,,0,,,250,250,10097,37,-1,,,com.carolgames.moemoegirls.dailygift6,4.99,,,,,,86400,1,,1,0,0
+99,-1,daily Package 1,Pack Quotidien 1,-1,-1,데일리 특가 팩1,Tagespaket 1,105,0,0.99,,0,,,50,50,10099,38,-1,,,com.carolgames.moemoegirls.dailygift1,0.99,,,,,,86400,1,,1,0,0
+100,-1,daily Package 2,Pack Quotidien 2,-1,-1,데일리 특가 팩2,Tagespaket 2,105,0,1.99,,0,,,100,100,10100,38,-1,,,com.carolgames.moemoegirls.dailygift2,1.99,,,,,,86400,1,,1,0,0
+101,-1,daily Package (Coins),Pack Quotidien 3,-1,-1,데일리 특가 팩3,Tagespaket 3,105,0,4.99,,0,,,250,250,10101,38,-1,,,com.carolgames.moemoegirls.dailygift3,4.99,,,,,,86400,1,,1,0,0
+102,-1,daily Package (Exp Juice),Pack Quotidien 4,-1,-1,데일리 특가 팩4,Tagespaket 4,105,0,4.99,,0,,,250,250,10102,38,-1,,,com.carolgames.moemoegirls.dailygift4,4.99,,,,,,86400,1,,1,0,0
+103,-1,daily Package (Lunch Boxes),Pack Quotidien 5,-1,-1,데일리 특가 팩5,Tagespaket 5,105,0,4.99,,0,,,250,250,10103,38,-1,,,com.carolgames.moemoegirls.dailygift5,4.99,,,,,,86400,1,,1,0,0
+104,-1,daily Package (Cookies),Pack Quotidien 6,-1,-1,데일리 특가 팩6,Tagespaket 6,105,0,4.99,,0,,,250,250,10104,38,-1,,,com.carolgames.moemoegirls.dailygift6,4.99,,,,,,86400,1,,1,0,0
+105,-1,Admission Prep,Avis d'Admission,-1,-1,입학 세트,Einschulungspaket,103,0,19.99,,0,,,1000,1000,10105,39,-1,,7,com.carolgames.moemoegirls.warmup_pack1,19.99,,,,,,,1,,1,0,0
+106,-1,Luxury Book,Livre Rare,-1,-1,엘리트 수첩,Buch der Weisheit,106,0,14.99,,0,,,750,750,10106,40,-1,,,com.carolgames.moemoegirls.machinist,14.99,,,,,,,1,,1,0,0
+107,-1,Collector's Book 2,Livre Collector 2,-1,-1,소장 수첩2,Buch der Zauber 2,106,0,19.99,,0,,,1000,1000,10107,40,-1,,,com.carolgames.moemoegirls.grandmaster2,19.99,,,,,,,1,,0,0,0
+108,-1,Collector's Book 1,Livre Collector 1,-1,-1,소장 수첩1,Buch der Zauber 1,106,0,29.99,,0,,,1500,1500,10108,40,-1,,,com.carolgames.moemoegirls.grandmaster1,29.99,,,,,,,1,,1,0,0
+110,-1,Date Preparation Pack,Pack d'Amour,-1,ドキドキクリスタルパック,두근두근 크리스탈 팩,Herzkristalle-Paket,121,0,19.99,,0,,,1000,1000,10114,44,-1,,7,com.carolgames.moemoegirls.dategift,19.99,,,,,,604800,1,,1,0,0
+120,-1,Excl. Energy Card,Carte d'énergie SP,-1,ガチャエナジーカード,캡슐 뽑기 에너지 카드,SP Energiekarte,123,0,14.99,,0,,,750,750,10120,46,-1,,,com.carolgames.moemoegirls.energy_card,14.99,,,,,,604800,1,,1,0,0
+121,-1,Luxury Book,Livre Rare,-1,-1,엘리트 수첩,Buch der Weisheit,124,0,14.99,,0,,,750,750,10122,47,-1,,,com.carolgames.moemoegirls.machinist,14.99,,,,,,,1,,1,0,0
+122,-1,Collector's Book 2,Livre Collector 2,-1,-1,소장 수첩2,Buch der Zauber 2,124,0,19.99,,0,,,1000,1000,10123,47,-1,,,com.carolgames.moemoegirls.grandmaster2,19.99,,,,,,,1,,0,0,0
+123,-1,Collector's Book 1,Livre Collector 1,-1,-1,소장 수첩1,Buch der Zauber 1,124,0,29.99,,0,,,1500,1500,10124,47,-1,,,com.carolgames.moemoegirls.grandmaster1,29.99,,,,,,,1,,1,0,0
+125,-1,Special Gift Pack 1,Pack Surprise 1,-1,-1,스페셜 팩 1,Glückspaket 1,130,0,4.99,,0,,,250,250,10125,48,-1,,,com.carolgames.moemoegirls.skin_pack_d1,4.99,,,,,,604800,2,,1,0,0
+126,-1,Special Gift Pack 2,Pack Surprise 2,-1,-1,스페셜 팩 2,Glückspaket 2,130,0,69.99,,0,,,3500,3500,10126,48,-1,,,com.carolgames.moemoegirls.skin_pack_d2,69.99,,,,,,604800,1,,1,0,1
+127,-1,Sanctuary Privilege,Parchemin de Sanctuaire,-1,-1,책의 정령 성역 특권 패스,Buchheiligtum-Vorteilskarte,132,0,4.99,,0,,,250,250,10127,49,-1,,30,com.carolgames.moemoegirls.privileged_card,4.99,,,,,,,,,1,0,0
+128,-1,Patrol Privilege,Permis de Patrouille,-1,-1,학원 순찰 특권 패스,Patrouillen Vorteilskarte,132,0,4.99,,0,,,250,250,10128,49,-1,,30,com.carolgames.moemoegirls.privileged_card,4.99,,,,,,,,,1,0,0
+129,-1,Soda Pack,Pack de Soda,-1,ラムネパック,사이다 팩,Soda-Paket,133,0,9.99,,0,,,500,500,10129,50,-1,,,com.carolgames.moemoegirls.swimsuit,9.99,,,,,,,1,,1,0,0
+130,-1,Magic Gift Box 1,Boîte Magique 1,-1,マジックパック1,매직 팩1,Zauberbox 1,135,0,99.99,,0,,,5000,5000,10130,51,-1,,,com.carolgames.moemoegirls.ice_gift1,99.99,,,,,,,3,86400,1,0,0
+131,-1,Magic Gift Box 2,Boîte Magique 2,-1,マジックパック2,매직 팩2,Zauberbox 2,135,0,49.99,,0,,,2500,2500,10131,51,-1,,,com.carolgames.moemoegirls.ice_gift2,49.99,,,,,,,2,86400,1,0,0
+132,-1,Magic Gift Box 3,Boîte Magique 3,-1,マジックパック3,매직 팩3,Zauberbox 3,135,0,19.99,,0,,,1000,1000,10132,51,-1,,,com.carolgames.moemoegirls.ice_gift3,19.99,,,,,,,2,86400,1,0,0
+133,-1,Magic Gift Box 4,Boîte Magique 4,-1,マジックパック4,매직 팩4,Zauberbox 4,135,0,4.99,,0,,,250,250,10133,51,-1,,,com.carolgames.moemoegirls.ice_gift4,4.99,,,,,,,3,86400,1,0,0
+134,-1,Magic Gift Box 5,Boîte Magique 5,-1,マジックパック5,매직 팩5,Zauberbox 5,135,0,0.99,,0,,,50,50,10134,51,-1,,,com.carolgames.moemoegirls.ice_gift5,0.99,,,,,,,2,86400,1,0,0
+135,-1,Special Girls Pack 1,Packs de Boîte 1,-1,スペシャルパック1,핫이슈 소녀 팩1,Besondere Mädchenbox 1,138,0,49.99,,0,,,2500,2500,10135,52,-1,,,com.carolgames.moemoegirl.hot_girl1,49.99,,,,,,,1,,0,0,0
+136,-1,Special Girls Pack 2,Packs de Boîte 2,-1,スペシャルパック2,핫이슈 소녀 팩2,Besondere Mädchenbox 2,138,0,69.99,,0,,,3500,3500,10136,52,-1,,,com.carolgames.moemoegirl.hot_girl2,69.99,,,,,,,1,,0,0,0
+137,-1,Monthly Pass Discount,Rabais sur\nCarte Mensuelle,-1,-1,월간 패스 할인,Ermäßigte Monatskarte,139,1,4.99,,0,,,750,750,10137,53,-1,,,com.carolgames.moemoegirls.discount_30day,4.99,vip_icon07_png,,,,,,1,,0,0,0
+138,-1,Red Riding Hood's Gift,Panier Du Petit Chaperon Rouge,-1,-1,빨간 모자의 선물,Rotkäppchen-Paket,144,0,19.99,,0,,,1000,1000,10138,54,-1,,7,com.carolgames.moemoegirls.red_gift,19.99,,,,,,,1,,1,0,0
+139,-1,Valentine's Limited Pack 1,Cadeaux de la Saint-Valentin 1,-1,-1,밸런타인데이 한정 팩1,Limitiertes Paket zum Valentinstag 1,145,0,9.99,,0,,,500,500,10139,55,-1,,3,com.carolgames.moemoegirls.valentine1,9.99,,,,,,,1,,1,0,0
+140,-1,Valentine's Limited Pack 2,Cadeaux de la Saint-Valentin 2,-1,-1,밸런타인데이 한정 팩2,Limitiertes Paket zum Valentinstag 2,145,0,9.99,,0,,,500,500,10140,55,-1,,3,com.carolgames.moemoegirls.valentine2,9.99,,,,,,,1,,1,0,1
+202,-1,Valentine's Limited Pack 3,Cadeaux de la Saint-Valentin 3,-1,-1,밸런타인데이 한정 팩3,Limitiertes Paket zum Valentinstag 3,145,0,49.99,,0,,,2500,2500,10202,55,-1,,3,com.carolgames.moemoegirls.valentine3,49.99,,,,,,,2,,1,0,0
+203,-1,Valentine's Limited Pack 4,Cadeaux de la Saint-Valentin 4,-1,-1,밸런타인데이 한정 팩4,Limitiertes Paket zum Valentinstag 4,145,0,99.99,,0,,,5000,5000,10203,55,-1,,3,com.carolgames.moemoegirls.valentine4,99.99,,,,,,,2,,1,0,0
+141,-1,Test Fund 1,Investissement de Test 1,-1,-1,옥상 정복 펀드1,Testfonds 1,146,0,9.99,,0,,,500,500,10141,56,-1,,,com.carolgames.moemoegirls.tower_fund,9.99,,,,,,,1,,1,0,0
+142,-1,Test Fund 2,Investissement de Test 2,-1,-1,옥상 정복 펀드2,Testfonds 2,146,0,19.99,,0,,,1000,1000,10142,56,-1,,,com.carolgames.moemoegirls.tower_fund2,19.99,,,141,,,,1,,1,0,0
+143,-1,Test Fund 3,Investissement de Test 3,-1,-1,옥상 정복 펀드3,Testfonds 3,146,0,29.99,,0,,,1500,1500,10143,56,-1,,,com.carolgames.moemoegirls.tower_fund3,29.99,,,142,,,,1,,1,0,0
+144,-1,Special Skin Pack 1,Pack Surprise de Skin 1,-1,-1,스페셜 스킨 팩 1,Glückspaket 1,147,0,4.99,,0,,,250,250,10144,57,-1,,,com.carolgames.moemoegirls.skin_pack_e1,4.99,,,,,,604800,2,,1,0,0
+145,-1,Special Skin Pack 2 ,Pack Surprise de Skin 2,-1,-1,스페셜 스킨 팩 2,Glückspaket 2,147,0,49.99,,0,,,2500,2500,10145,57,-1,,,com.carolgames.moemoegirls.skin_pack_e2,49.99,,,,,,604800,1,,1,0,0
+146,-1,Special Gift Pack 1,Pack Surprise 1,-1,-1,스페셜 팩 1,Glückspaket 1,148,0,4.99,,0,,,250,250,10146,58,-1,,,com.carolgames.moemoegirls.skin_pack_f1,4.99,,,,,,604800,2,,1,0,0
+147,-1,Special Gift Pack 2,Pack Surprise 2,-1,-1,스페셜 팩 2,Glückspaket 2,148,0,69.99,,0,,,3500,3500,10147,58,-1,,,com.carolgames.moemoegirls.skin_pack_f2,69.99,,,,,,604800,1,,1,0,0
+148,-1,Special Gift Pack 1_1,Pack Surprise 1_1,-1,-1,스페셜 팩 1_1,Glückspaket 1_1,157,0,0.99,,0,,,50,50,10156,70,-1,,,com.carolgames.moemoegirls.skin_pack_f1,0.99,,,,,,604800,1,,1,0,0
+149,-1,Special Gift Pack 1_2,Pack Surprise 1_2,-1,-1,스페셜 팩 1_2,Glückspaket 1_2,157,0,1.99,,0,,,100,100,10157,70,-1,,,com.carolgames.moemoegirls.skin_pack_f1,1.99,,,,,,604800,1,,1,0,0
+150,-1,Special Gift Pack 1_3,Pack Surprise 1_3,-1,-1,스페셜 팩 1_3,Glückspaket 1_3,157,0,9.99,,0,,,500,500,10158,70,-1,,,com.carolgames.moemoegirls.skin_pack_f1,9.99,,,,,,604800,1,,1,0,0
+151,-1,Special Gift Pack 2_1,Pack Surprise 2_1,-1,-1,스페셜 팩 2_1,Glückspaket 2_1,157,0,0.99,,0,,,50,50,10159,70,-1,,,com.carolgames.moemoegirls.skin_pack_f1,0.99,,,,,,604800,1,,1,0,0
+152,-1,Special Gift Pack 2_2,Pack Surprise 2_2,-1,-1,스페셜 팩 2_2,Glückspaket 2_2,157,0,4.99,,0,,,250,250,10160,70,-1,,,com.carolgames.moemoegirls.skin_pack_f1,4.99,,,,,,604800,1,,1,0,0
+153,-1,Special Gift Pack 2_3,Pack Surprise 2_3,-1,-1,스페셜 팩 2_3,Glückspaket 2_3,157,0,9.99,,0,,,500,500,10161,70,-1,,,com.carolgames.moemoegirls.skin_pack_f1,9.99,,,,,,604800,1,,1,0,0
+154,-1,Special Gift Pack 3_1,Pack Surprise 3_1,-1,-1,스페셜 팩 3_1,Glückspaket 3_1,157,0,0.99,,0,,,50,50,10162,70,-1,,,com.carolgames.moemoegirls.skin_pack_f1,0.99,,,,,,604800,1,,1,0,0
+155,-1,Special Gift Pack 3_2,Pack Surprise 3_2,-1,-1,스페셜 팩 3_2,Glückspaket 3_2,157,0,4.99,,0,,,250,250,10163,70,-1,,,com.carolgames.moemoegirls.skin_pack_f1,4.99,,,,,,604800,1,,1,0,0
+156,-1,Special Gift Pack 3_3,Pack Surprise 3_3,-1,-1,스페셜 팩 3_3,Glückspaket 3_3,157,0,19.99,,0,,,1000,1000,10164,70,-1,,,com.carolgames.moemoegirls.skin_pack_f1,19.99,,,,,,604800,1,,1,0,0
+157,-1,Special Gift Pack 4_1,Pack Surprise 4_1,-1,-1,스페셜 팩 4_1,Glückspaket 4_1,157,0,0.99,,0,,,50,50,10165,70,-1,,,com.carolgames.moemoegirls.skin_pack_f1,0.99,,,,,,604800,1,,1,0,0
+158,-1,Special Gift Pack 4_2,Pack Surprise 4_2,-1,-1,스페셜 팩 4_2,Glückspaket 4_2,157,0,4.99,,0,,,250,250,10166,70,-1,,,com.carolgames.moemoegirls.skin_pack_f1,4.99,,,,,,604800,1,,1,0,0
+159,-1,Special Gift Pack 4_3,Pack Surprise 4_3,-1,-1,스페셜 팩 4_3,Glückspaket 4_3,157,0,19.99,,0,,,1000,1000,10167,70,-1,,,com.carolgames.moemoegirls.skin_pack_f1,19.99,,,,,,604800,1,,1,0,0
+160,-1,Special Gift Pack 5_1,Pack Surprise 5_1,-1,-1,스페셜 팩 5_1,Glückspaket 5_1,157,0,0.99,,0,,,50,50,10168,70,-1,,,com.carolgames.moemoegirls.skin_pack_f1,0.99,,,,,,604800,1,,1,0,0
+161,-1,Special Gift Pack 5_2,Pack Surprise 5_2,-1,-1,스페셜 팩 5_2,Glückspaket 5_2,157,0,4.99,,0,,,250,250,10169,70,-1,,,com.carolgames.moemoegirls.skin_pack_f1,4.99,,,,,,604800,1,,1,0,0
+162,-1,Special Gift Pack 5_3,Pack Surprise 5_3,-1,-1,스페셜 팩 5_3,Glückspaket 5_3,157,0,19.99,,0,,,1000,1000,10170,70,-1,,,com.carolgames.moemoegirls.skin_pack_f1,19.99,,,,,,604800,1,,1,0,0
+163,-1,Special Gift Pack 6_1,Pack Surprise 6_1,-1,-1,스페셜 팩 6_1,Glückspaket 6_1,157,0,0.99,,0,,,50,50,10171,70,-1,,,com.carolgames.moemoegirls.skin_pack_f1,0.99,,,,,,604800,1,,1,0,0
+164,-1,Special Gift Pack 6_2,Pack Surprise 6_2,-1,-1,스페셜 팩 6_2,Glückspaket 6_2,157,0,9.99,,0,,,500,500,10172,70,-1,,,com.carolgames.moemoegirls.skin_pack_f1,9.99,,,,,,604800,1,,1,0,0
+165,-1,Special Gift Pack 6_3,Pack Surprise 6_3,-1,-1,스페셜 팩 6_3,Glückspaket 6_3,157,0,29.99,,0,,,1500,1500,10173,70,-1,,,com.carolgames.moemoegirls.skin_pack_f1,29.99,,,,,,604800,1,,1,0,0
+166,-1,Special Gift Pack 7_1,Pack Surprise 7_1,-1,-1,스페셜 팩 7_1,Glückspaket 7_1,157,0,0.99,,0,,,50,50,10174,70,-1,,,com.carolgames.moemoegirls.skin_pack_f1,0.99,,,,,,604800,1,,1,0,0
+167,-1,Special Gift Pack 7_2,Pack Surprise 7_2,-1,-1,스페셜 팩 7_2,Glückspaket 7_2,157,0,19.99,,0,,,1000,1000,10175,70,-1,,,com.carolgames.moemoegirls.skin_pack_f1,19.99,,,,,,604800,1,,1,0,0
+168,-1,Special Gift Pack 7_3,Pack Surprise 7_3,-1,-1,스페셜 팩 7_3,Glückspaket 7_3,157,0,29.99,,0,,,1500,1500,10176,70,-1,,,com.carolgames.moemoegirls.skin_pack_f1,29.99,,,,,,604800,1,,1,0,0
+177,-1,May Day Pack 1,Pack de Vacances 1,-1,-1,캐주얼 쇼핑데이1,Frühsommershopping 1,160,0,49.99,,0,,,2500,2500,10177,71,-1,,,com.carolgames.moemoegirls.blackfriday1,49.99,,,,,,172800,1,,1,0,0
+178,-1,May Day Pack 2,Pack de Vacances 2,-1,-1,캐주얼 쇼핑데이2,Frühsommershopping 2,160,0,99.99,,0,,,5000,5000,10178,71,-1,,,com.carolgames.moemoegirls.blackfriday2,99.99,,,,,,172800,1,,1,0,0
+179,-1,Monthly Kick Off 1,Célébration du Mois 1,-1,-1,월초 선물 1,Geschenk am Monatsanfang 1,159,0,9.99,,0,,,500,500,10180,72,-1,,,com.carolgames.moemoegirls.month.start1,9.99,,,,,,172800,1,,1,0,1
+180,-1,Monthly Kick Off 2,Célébration du Mois 2,-1,-1,월초 선물 2,Geschenk am Monatsanfang 2,159,0,29.99,,0,,,1500,1500,10181,72,-1,,,com.carolgames.moemoegirls.month.start2,29.99,,,,,,172800,1,,1,0,1
+181,-1,Monthly Kick Off 3,Célébration du Mois 3,-1,-1,월초 선물 3,Geschenk am Monatsanfang 3,159,0,49.99,,0,,,2500,2500,10182,72,-1,,,com.carolgames.moemoegirls.month.start2,49.99,,,,,,172800,1,,1,0,1
+182,-1,Monthly Kick Off 4,Célébration du Mois 4,-1,-1,월초 선물 4,Geschenk am Monatsanfang 4,159,0,69.99,,0,,,3500,3500,10183,72,-1,,,com.carolgames.moemoegirls.month.start3,69.99,,,,,,172800,1,,1,0,1
+183,-1,Monthly Kick Off 5,Célébration du Mois 5,-1,-1,월초 선물 5,Geschenk am Monatsanfang 5,159,0,99.99,,0,,,5000,5000,10184,72,-1,,,com.carolgames.moemoegirls.month.start4,99.99,,,,,,172800,1,,1,0,1
+184,-1,Beginner Special,Grand Pack De Débutant,-1,-1,초보자 슈퍼 팩,Anfängerpaket,165,0,0.99,,0,,,100,50,10035,73,-1,,,com.carolgames.moemoegirls.newlimittime5star,0.99,,,,,,604800,1,,1,0,0
+185,-1,Luvly's Elite Supply,Offres de Lavli,-1,-1,러블리 표류기 보급,Reiseversorgung,167,0,49.99,,0,,,2500,2500,10185,74,-1,,,com.carolgames.moemoegirls.luvly,49.99,,,,,,,1,,1,0,0
+186,-1,New Year Special,Résolution du Nouvel An,-1,-1,새해 보너스,Prämien zum Neujahr,170,0,19.99,,0,,,1000,1000,10186,75,-1,,,com.carolgames.moemoegirls.tower_fund,19.99,,,,,,,1,,1,0,0
+187,-1,Turin Enhancement 1,Personnalisation de Turin 1,-1,-1,튜린 스킨&육성1,Personalisiertes Paket für Turin 1,174,0,4.99,,0,,,250,250,10187,76,-1,,,com.carolgames.moemoegirls.turin1,4.99,,,,,,604800,1,,1,0,0
+188,-1,Turin Enhancement 2,Personnalisation de Turin 2,-1,-1,튜린 스킨&육성2,Personalisiertes Paket für Turin 2,174,0,9.99,,0,,,500,500,10188,76,-1,,,com.carolgames.moemoegirls.turin2,9.99,,,,,,604800,1,,1,0,0
+189,-1,Antique Aid,Collection d'Antiquités,-1,-1,혼기 축제,Antiquitätswachstumspaket,175,0,29.99,,0,,,1500,1500,10189,77,-1,,,com.carolgames.moemoegirls.tower_fund,29.99,,,,,,604800,1,,1,0,0
+190,-1,Beginner Funds,Investissement de Débutant,-1,-1,초보자 펀드,Neulingsfonds,176,0,19.99,,0,,,1000,1000,10190,78,-1,,,com.carolgames.moemoegirls.tower_fund2,19.99,,,,,,604800,1,,1,0,0
+191,-1,Beginner's Capsule,Capsules de Débutant,-1,-1,초보자 캡슐 뽑기,Premiumzüge für Anfänger,177,0,19.99,,0,,,1000,1000,10191,79,-1,,,com.carolgames.moemoegirls.newbee10gacha1,19.99,,,,,,604800,1,,1,0,0
+192,-1,Beginner's Capsule,Capsules de Débutant,-1,-1,초보자 캡슐 뽑기,Premiumzüge für Anfänger,177,0,29.99,,0,,,1500,1500,10192,79,-1,,,com.carolgames.moemoegirls.newbee10gacha2,29.99,,,191,,,604800,1,,1,0,0
+193,-1,Beginner's Capsule,Capsules de Débutant,-1,-1,초보자 캡슐 뽑기,Premiumzüge für Anfänger,177,0,49.99,,0,,,2500,2500,10193,79,-1,,,com.carolgames.moemoegirls.newbee10gacha3,49.99,,,192,,,604800,1,,1,0,0
+194,-1,Lucky Bonus,Distribution Chanceuse,-1,ラッキーボーナス,럭키 보너스,Lotto Glücksboni,178,0,29.99,,0,,,1500,1500,10194,80,-1,,,com.carolgames.gamble.plus,29.99,,,,,,604800,1,,1,0,0
+195,-1,Beginner's Limited Capsule Pack,Offres Exclusives de Débutant,-1,-1,초보자 한정 캡슐 뽑기 팩,Kapselpakete für Anfänger,180,0,9.99,,0,,,500,500,10195,81,-1,,,com.carolgames.moemoegirls.newbeegacha1,9.99,,,,,,604800,2,,1,0,0
+196,-1,Beginner's Limited Capsule Pack,Offres Exclusives de Débutant,-1,-1,초보자 한정 캡슐 뽑기 팩,Kapselpakete für Anfänger,180,0,29.99,,0,,,1500,1500,10196,81,-1,,,com.carolgames.moemoegirls.newbeegacha2,29.99,,,,,,604800,2,,1,0,0
+197,-1,Beginner's Limited Capsule Pack,Offres Exclusives de Débutant,-1,-1,초보자 한정 캡슐 뽑기 팩,Kapselpakete für Anfänger,180,0,49.99,,0,,,2500,2500,10197,81,-1,,,com.carolgames.moemoegirls.newbeegacha3,49.99,,,,,,604800,3,,1,0,0
+198,-1,daily Package (Cookies),Pack Quotidien 7,-1,-1,데일리 특가 팩7,Tagespaket 7,105,0,4.99,,0,,,250,250,10198,38,-1,,,com.carolgames.moemoegirls.dailygift7,4.99,,,,,,86400,1,,1,0,0
+204,-1,Servant Supply 1,Évolution du Serviteur 1,-1,-1,사역마 육성 팩1,Diener-Wachstumspaket 1,187,0,4.99,,0,,,250,250,10204,82,-1,,,com.carolgames.moemoegirls.pet.giftbag1,4.99,,,,,,604800,3,,1,0,0
+205,-1,Servant Supply 2,Évolution du Serviteur 2,-1,-1,사역마 육성 팩2,Diener-Wachstumspaket 2,187,0,9.99,,0,,,500,500,10205,82,-1,,,com.carolgames.moemoegirls.pet.giftbag2,9.99,,,,,,604800,3,,1,0,0
+206,-1,Servant Supply 3,Évolution du Serviteur 3,-1,-1,사역마 육성 팩3,Diener-Wachstumspaket 3,187,0,29.99,,0,,,1500,1500,10206,82,-1,,,com.carolgames.moemoegirls.pet.giftbag3,29.99,,,,,,604800,3,,1,0,0
+207,-1,Servant Supply 4,Évolution du Serviteur 4,-1,-1,사역마 육성 팩4,Diener-Wachstumspaket 4,187,0,49.99,,0,,,2500,2500,10207,82,-1,,,com.carolgames.moemoegirls.pet.giftbag4,49.99,,,,,,604800,2,,1,0,0
+208,-1,Servant Supply 5,Évolution du Serviteur 5,-1,-1,사역마 육성 팩5,Diener-Wachstumspaket 5,187,0,99.99,,0,,,5000,5000,10208,82,-1,,,com.carolgames.moemoegirls.pet.giftbag5,99.99,,,,,,604800,1,,1,0,0
+10116,-1,Count's Mystery Gift 1,Cadeaux Mystères 1,-1,-1,백작의 비밀 선물1,Geschenke des Grafen 1,122,0,9.99,,0,,,500,500,10116,45,-1,,,com.carolgames.moemoegirls.chose1,9.99,,,,,,,2,,0,0,0
+10117,-1,Count's Mystery Gift 2,Cadeaux Mystères 2,-1,-1,백작의 비밀 선물2,Geschenke des Grafen 2,122,0,29.99,,0,,,1500,1500,10117,45,-1,,,com.carolgames.moemoegirls.chose2,29.99,,,,,,,2,,0,0,0
+10118,-1,Count's Mystery Gift 3,Cadeaux Mystères 3,-1,-1,백작의 비밀 선물3,Geschenke des Grafen 3,122,0,49.99,,0,,,2500,2500,10118,45,-1,,,com.carolgames.moemoegirls.chose3,49.99,,,,,,,2,,0,0,0
+10119,-1,Count's Mystery Gift 4,Cadeaux Mystères 4,-1,-1,백작의 비밀 선물4,Geschenke des Grafen 4,122,0,69.99,,0,,,3500,3500,10119,45,-1,,,com.carolgames.moemoegirls.chose4,69.99,,,,,,,1,,0,0,0
+10148,-1,Count's Mystery Gift 5,Cadeaux Mystères 5,-1,-1,백작의 비밀 선물5,Geschenke des Grafen 5,122,0,99.99,,0,,,5000,5000,10148,45,-1,,,com.carolgames.moemoegirls.chose5,99.99,,,,,,,1,,0,0,0
+209,-1,Easter Pack 1,Pack de Pâques I,-1,イースターパック1,부활절 팩 1,Paket zu Ostern 1,190,0,29.99,,0,,,1500,1500,10209,83,-1,,,com.carolgames.moemoegirls.easter.giftbag1,29.99,,,,,,172800,1,,0,0,0
+210,-1,Easter Pack 2,Pack de Pâques II,-1,イースターパック2,부활절 팩 2,Paket zu Ostern 2,190,0,99.99,,0,,,5000,5000,10210,83,-1,,,com.carolgames.moemoegirls.easter.giftbag1,99.99,,,,,,172800,1,,0,0,0
+211,-1,Easter Egg Pack 1,Pack d'Œufs I,-1,イースターエッグパック1,부활절 에그 팩 1,Ostereier-Paket 1,192,0,99.99,,0,,,5000,5000,10211,84,-1,,,com.carolgames.moemoegirls.easter_egg1,99.99,,,,,,604800,1,,1,0,0
+212,-1,Easter Egg Pack 2,Pack d'Œufs II,-1,イースターエッグパック2,부활절 에그 팩 2,Ostereier-Paket 2,192,0,49.99,,0,,,2500,2500,10212,84,-1,,,com.carolgames.moemoegirls.easter_egg2,49.99,,,,,,604800,1,,1,0,0
+213,-1,Easter Egg Pack 3,Pack d'Œufs III,-1,イースターエッグパック3,부활절 에그 팩 3,Ostereier-Paket 3,192,0,29.99,,0,,,1500,1500,10213,84,-1,,,com.carolgames.moemoegirls.easter_egg3,29.99,,,,,,604800,1,,1,0,0
+214,-1,Guild Member Special Lv. 10,Colis du Membre Niv.10,-1,-1,개인 한정 팩 Lv.10,Limitiertes Paket für Mitglieder Lv.10,200,0,1.99,,0,,,100,100,10216,86,-1,,,com.carolgames.moemoegirls.chose1,1.99,,,,,,,2,,1,0,0
+215,-1,Guild Member Special Lv. 11,Coli du Membre Niv.11,-1,-1,개인 한정 팩 Lv.11,Limitiertes Paket für Mitglieder Lv.11,200,0,1.99,,0,,,100,100,10217,86,-1,,,com.carolgames.moemoegirls.chose1,1.99,,,,,,,2,,1,0,0
+216,-1,Guild Member Special Lv. 12,Coli du Membre Niv.12,-1,-1,개인 한정 팩 Lv.12,Limitiertes Paket für Mitglieder Lv.12,200,0,1.99,,0,,,100,100,10218,86,-1,,,com.carolgames.moemoegirls.chose1,1.99,,,,,,,2,,1,0,0
+217,-1,Guild Member Special Lv. 13,Coli du Membre Niv.13,-1,-1,개인 한정 팩 Lv.13,Limitiertes Paket für Mitglieder Lv.13,200,0,1.99,,0,,,100,100,10219,86,-1,,,com.carolgames.moemoegirls.chose1,1.99,,,,,,,2,,1,0,0
+218,-1,Guild Member Special Lv. 14,Coli du Membre Niv.14,-1,-1,개인 한정 팩 Lv.14,Limitiertes Paket für Mitglieder Lv.14,200,0,1.99,,0,,,100,100,10220,86,-1,,,com.carolgames.moemoegirls.chose1,1.99,,,,,,,2,,1,0,0
+219,-1,Guild Member Special Lv. 15,Coli du Membre Niv.15,-1,-1,개인 한정 팩 Lv.15,Limitiertes Paket für Mitglieder Lv.15,200,0,1.99,,0,,,100,100,10221,86,-1,,,com.carolgames.moemoegirls.chose1,1.99,,,,,,,2,,1,0,0
+220,-1,Guild Member Special Lv. 16,Coli du Membre Niv.16,-1,-1,개인 한정 팩 Lv.16,Limitiertes Paket für Mitglieder Lv.16,200,0,1.99,,0,,,100,100,10222,86,-1,,,com.carolgames.moemoegirls.chose1,1.99,,,,,,,2,,1,0,0
+221,-1,Guild Member Special Lv. 17,Coli du Membre Niv.17,-1,-1,개인 한정 팩 Lv.17,Limitiertes Paket für Mitglieder Lv.17,200,0,1.99,,0,,,100,100,10223,86,-1,,,com.carolgames.moemoegirls.chose1,1.99,,,,,,,2,,1,0,0
+222,-1,Guild Member Special Lv. 18,Coli du Membre Niv.18,-1,-1,개인 한정 팩 Lv.18,Limitiertes Paket für Mitglieder Lv.18,200,0,1.99,,0,,,100,100,10224,86,-1,,,com.carolgames.moemoegirls.chose1,1.99,,,,,,,2,,1,0,0
+223,-1,Guild Member Special Lv. 19,Coli du Membre Niv.19,-1,-1,개인 한정 팩 Lv.19,Limitiertes Paket für Mitglieder Lv.19,200,0,1.99,,0,,,100,100,10225,86,-1,,,com.carolgames.moemoegirls.chose1,1.99,,,,,,,2,,1,0,0
+224,-1,Guild Member Special Lv. 20,Coli du Membre Niv.20,-1,-1,개인 한정 팩 Lv.20,Limitiertes Paket für Mitglieder Lv.20,200,0,1.99,,0,,,100,100,10226,86,-1,,,com.carolgames.moemoegirls.chose1,1.99,,,,,,,2,,1,0,0
+225,-1,Guild Member Special Lv. 21,Coli du Membre Niv.21,-1,-1,개인 한정 팩 Lv.21,Limitiertes Paket für Mitglieder Lv.21,200,0,1.99,,0,,,100,100,10227,86,-1,,,com.carolgames.moemoegirls.chose1,1.99,,,,,,,2,,1,0,0
+226,-1,Guild Member Special Lv. 22,Coli du Membre Niv.22,-1,-1,개인 한정 팩 Lv.22,Limitiertes Paket für Mitglieder Lv.22,200,0,1.99,,0,,,100,100,10228,86,-1,,,com.carolgames.moemoegirls.chose1,1.99,,,,,,,2,,1,0,0
+227,-1,Guild Member Special Lv. 23,Coli du Membre Niv.23,-1,-1,개인 한정 팩 Lv.23,Limitiertes Paket für Mitglieder Lv.23,200,0,1.99,,0,,,100,100,10229,86,-1,,,com.carolgames.moemoegirls.chose1,1.99,,,,,,,2,,1,0,0
+228,-1,Guild Member Special Lv. 24,Coli du Membre Niv.24,-1,-1,개인 한정 팩 Lv.24,Limitiertes Paket für Mitglieder Lv.24,200,0,1.99,,0,,,100,100,10230,86,-1,,,com.carolgames.moemoegirls.chose1,1.99,,,,,,,2,,1,0,0
+229,-1,Guild Member Special Lv. 25,Coli du Membre Niv.25,-1,-1,개인 한정 팩 Lv.25,Limitiertes Paket für Mitglieder Lv.25,200,0,1.99,,0,,,100,100,10231,86,-1,,,com.carolgames.moemoegirls.chose1,1.99,,,,,,,2,,1,0,0
+230,-1,Guild Member Special Lv. 26,Coli du Membre Niv.26,-1,-1,개인 한정 팩 Lv.26,Limitiertes Paket für Mitglieder Lv.26,200,0,1.99,,0,,,100,100,10232,86,-1,,,com.carolgames.moemoegirls.chose1,1.99,,,,,,,2,,1,0,0
+231,-1,Guild Member Special Lv. 27,Coli du Membre Niv.27,-1,-1,개인 한정 팩 Lv.27,Limitiertes Paket für Mitglieder Lv.27,200,0,1.99,,0,,,100,100,10233,86,-1,,,com.carolgames.moemoegirls.chose1,1.99,,,,,,,2,,1,0,0
+232,-1,Guild Member Special Lv. 28,Coli du Membre Niv.28,-1,-1,개인 한정 팩 Lv.28,Limitiertes Paket für Mitglieder Lv.28,200,0,1.99,,0,,,100,100,10234,86,-1,,,com.carolgames.moemoegirls.chose1,1.99,,,,,,,2,,1,0,0
+233,-1,Guild Member Special Lv. 29,Coli du Membre Niv.29,-1,-1,개인 한정 팩 Lv.29,Limitiertes Paket für Mitglieder Lv.29,200,0,1.99,,0,,,100,100,10235,86,-1,,,com.carolgames.moemoegirls.chose1,1.99,,,,,,,2,,1,0,0
+234,-1,Guild Member Special Lv. 30,Coli du Membre Niv.30,-1,-1,개인 한정 팩 Lv.30,Limitiertes Paket für Mitglieder Lv.30,200,0,1.99,,0,,,100,100,10236,86,-1,,,com.carolgames.moemoegirls.chose1,1.99,,,,,,,2,,1,0,0
+235,-1,Guild Special Lv. 10,Colis de Guilde Niv.10,-1,-1,동아리 한정 팩 Lv.10,Limitiertes Paket für Gilde Lv.10,200,0,49.99,,0,,,2500,2500,10237,86,-1,,,com.carolgames.moemoegirls.chose2,49.99,,,,,,,3,,1,0,0
+236,-1,Guild Special Lv. 11,Colis de Guilde Niv.11,-1,-1,동아리 한정 팩 Lv.11,Limitiertes Paket für Gilde Lv.11,200,0,49.99,,0,,,2500,2500,10238,86,-1,,,com.carolgames.moemoegirls.chose2,49.99,,,,,,,3,,1,0,0
+237,-1,Guild Special Lv. 12,Colis de Guilde Niv.12,-1,-1,동아리 한정 팩 Lv.12,Limitiertes Paket für Gilde Lv.12,200,0,49.99,,0,,,2500,2500,10239,86,-1,,,com.carolgames.moemoegirls.chose2,49.99,,,,,,,3,,1,0,0
+238,-1,Guild Special Lv. 13,Colis de Guilde Niv.13,-1,-1,동아리 한정 팩 Lv.13,Limitiertes Paket für Gilde Lv.13,200,0,49.99,,0,,,2500,2500,10240,86,-1,,,com.carolgames.moemoegirls.chose2,49.99,,,,,,,3,,1,0,0
+239,-1,Guild Special Lv. 14,Colis de Guilde Niv.14,-1,-1,동아리 한정 팩 Lv.14,Limitiertes Paket für Gilde Lv.14,200,0,49.99,,0,,,2500,2500,10241,86,-1,,,com.carolgames.moemoegirls.chose2,49.99,,,,,,,3,,1,0,0
+240,-1,Guild Special Lv. 15,Colis de Guilde Niv.15,-1,-1,동아리 한정 팩 Lv.15,Limitiertes Paket für Gilde Lv.15,200,0,49.99,,0,,,2500,2500,10242,86,-1,,,com.carolgames.moemoegirls.chose2,49.99,,,,,,,3,,1,0,0
+241,-1,Guild Special Lv. 16,Colis de Guilde Niv.16,-1,-1,동아리 한정 팩 Lv.16,Limitiertes Paket für Gilde Lv.16,200,0,49.99,,0,,,2500,2500,10243,86,-1,,,com.carolgames.moemoegirls.chose2,49.99,,,,,,,3,,1,0,0
+242,-1,Guild Special Lv. 17,Colis de Guilde Niv.17,-1,-1,동아리 한정 팩 Lv.17,Limitiertes Paket für Gilde Lv.17,200,0,49.99,,0,,,2500,2500,10244,86,-1,,,com.carolgames.moemoegirls.chose2,49.99,,,,,,,3,,1,0,0
+243,-1,Guild Special Lv. 18,Colis de Guilde Niv.18,-1,-1,동아리 한정 팩 Lv.18,Limitiertes Paket für Gilde Lv.18,200,0,49.99,,0,,,2500,2500,10245,86,-1,,,com.carolgames.moemoegirls.chose2,49.99,,,,,,,3,,1,0,0
+244,-1,Guild Special Lv. 19,Colis de Guilde Niv.19,-1,-1,동아리 한정 팩 Lv.19,Limitiertes Paket für Gilde Lv.19,200,0,49.99,,0,,,2500,2500,10246,86,-1,,,com.carolgames.moemoegirls.chose2,49.99,,,,,,,3,,1,0,0
+245,-1,Guild Special Lv. 20,Colis de Guilde Niv.20,-1,-1,동아리 한정 팩 Lv.20,Limitiertes Paket für Gilde Lv.20,200,0,49.99,,0,,,2500,2500,10247,86,-1,,,com.carolgames.moemoegirls.chose2,49.99,,,,,,,3,,1,0,0
+246,-1,Guild Special Lv. 21,Colis de Guilde Niv.21,-1,-1,동아리 한정 팩 Lv.21,Limitiertes Paket für Gilde Lv.21,200,0,49.99,,0,,,2500,2500,10248,86,-1,,,com.carolgames.moemoegirls.chose2,49.99,,,,,,,3,,1,0,0
+247,-1,Guild Special Lv. 22,Colis de Guilde Niv.22,-1,-1,동아리 한정 팩 Lv.22,Limitiertes Paket für Gilde Lv.22,200,0,49.99,,0,,,2500,2500,10249,86,-1,,,com.carolgames.moemoegirls.chose2,49.99,,,,,,,3,,1,0,0
+248,-1,Guild Special Lv. 23,Colis de Guilde Niv.23,-1,-1,동아리 한정 팩 Lv.23,Limitiertes Paket für Gilde Lv.23,200,0,49.99,,0,,,2500,2500,10250,86,-1,,,com.carolgames.moemoegirls.chose2,49.99,,,,,,,3,,1,0,0
+249,-1,Guild Special Lv. 24,Colis de Guilde Niv.24,-1,-1,동아리 한정 팩 Lv.24,Limitiertes Paket für Gilde Lv.24,200,0,49.99,,0,,,2500,2500,10251,86,-1,,,com.carolgames.moemoegirls.chose2,49.99,,,,,,,3,,1,0,0
+250,-1,Guild Special Lv. 25,Colis de Guilde Niv.25,-1,-1,동아리 한정 팩 Lv.25,Limitiertes Paket für Gilde Lv.25,200,0,49.99,,0,,,2500,2500,10252,86,-1,,,com.carolgames.moemoegirls.chose2,49.99,,,,,,,3,,1,0,0
+251,-1,Guild Special Lv. 26,Colis de Guilde Niv.26,-1,-1,동아리 한정 팩 Lv.26,Limitiertes Paket für Gilde Lv.26,200,0,49.99,,0,,,2500,2500,10253,86,-1,,,com.carolgames.moemoegirls.chose2,49.99,,,,,,,3,,1,0,0
+252,-1,Guild Special Lv. 27,Colis de Guilde Niv.27,-1,-1,동아리 한정 팩 Lv.27,Limitiertes Paket für Gilde Lv.27,200,0,49.99,,0,,,2500,2500,10254,86,-1,,,com.carolgames.moemoegirls.chose2,49.99,,,,,,,3,,1,0,0
+253,-1,Guild Special Lv. 28,Colis de Guilde Niv.28,-1,-1,동아리 한정 팩 Lv.28,Limitiertes Paket für Gilde Lv.28,200,0,49.99,,0,,,2500,2500,10255,86,-1,,,com.carolgames.moemoegirls.chose2,49.99,,,,,,,3,,1,0,0
+254,-1,Guild Special Lv. 29,Colis de Guilde Niv.29,-1,-1,동아리 한정 팩 Lv.29,Limitiertes Paket für Gilde Lv.29,200,0,49.99,,0,,,2500,2500,10256,86,-1,,,com.carolgames.moemoegirls.chose2,49.99,,,,,,,3,,1,0,0
+255,-1,Guild Special Lv. 30,Colis de Guilde Niv.30,-1,-1,동아리 한정 팩 Lv.30,Limitiertes Paket für Gilde Lv.30,200,0,49.99,,0,,,2500,2500,10257,86,-1,,,com.carolgames.moemoegirls.chose2,49.99,,,,,,,3,,1,0,0
+256,-1,Guild Member Special Lv. 4,Coli du Membre Niv.4,-1,-1,개인 한정 팩 Lv.4,Limitiertes Paket für Mitglieder Lv.4,200,0,1.99,,0,,,100,100,10259,86,-1,,,com.carolgames.moemoegirls.chose2,1.99,,,,,,,2,,1,0,0
+257,-1,Guild Member Special Lv. 5,Coli du Membre Niv.5,-1,-1,개인 한정 팩 Lv.5,Limitiertes Paket für Mitglieder Lv.5,200,0,1.99,,0,,,100,100,10260,86,-1,,,com.carolgames.moemoegirls.chose3,1.99,,,,,,,2,,1,0,0
+258,-1,Guild Member Special Lv. 6,Coli du Membre Niv.6,-1,-1,개인 한정 팩 Lv.6,Limitiertes Paket für Mitglieder Lv.6,200,0,1.99,,0,,,100,100,10261,86,-1,,,com.carolgames.moemoegirls.chose4,1.99,,,,,,,2,,1,0,0
+259,-1,Guild Member Special Lv. 7,Coli du Membre Niv.7,-1,-1,개인 한정 팩 Lv.7,Limitiertes Paket für Mitglieder Lv.7,200,0,1.99,,0,,,100,100,10262,86,-1,,,com.carolgames.moemoegirls.chose5,1.99,,,,,,,2,,1,0,0
+260,-1,Guild Member Special Lv. 8,Coli du Membre Niv.8,-1,-1,개인 한정 팩 Lv.8,Limitiertes Paket für Mitglieder Lv.8,200,0,1.99,,0,,,100,100,10263,86,-1,,,com.carolgames.moemoegirls.chose6,1.99,,,,,,,2,,1,0,0
+261,-1,Guild Member Special Lv. 9,Coli du Membre Niv.9,-1,-1,개인 한정 팩 Lv.9,Limitiertes Paket für Mitglieder Lv.9,200,0,1.99,,0,,,100,100,10264,86,-1,,,com.carolgames.moemoegirls.chose7,1.99,,,,,,,2,,1,0,0
+262,-1,Guild Special Lv. 4,Colis de Guilde Niv.4,-1,-1,동아리 한정 팩 Lv.4,Limitiertes Paket für Gilde Lv.4,200,0,49.99,,0,,,2500,2500,10265,86,-1,,,com.carolgames.moemoegirls.chose8,49.99,,,,,,,3,,1,0,0
+263,-1,Guild Special Lv. 5,Colis de Guilde Niv.5,-1,-1,동아리 한정 팩 Lv.5,Limitiertes Paket für Gilde Lv.5,200,0,49.99,,0,,,2500,2500,10266,86,-1,,,com.carolgames.moemoegirls.chose9,49.99,,,,,,,3,,1,0,0
+264,-1,Guild Special Lv. 6,Colis de Guilde Niv.6,-1,-1,동아리 한정 팩 Lv.6,Limitiertes Paket für Gilde Lv.6,200,0,49.99,,0,,,2500,2500,10267,86,-1,,,com.carolgames.moemoegirls.chose10,49.99,,,,,,,3,,1,0,0
+265,-1,Guild Special Lv. 7,Colis de Guilde Niv.7,-1,-1,동아리 한정 팩 Lv.7,Limitiertes Paket für Gilde Lv.7,200,0,49.99,,0,,,2500,2500,10268,86,-1,,,com.carolgames.moemoegirls.chose11,49.99,,,,,,,3,,1,0,0
+266,-1,Guild Special Lv. 8,Colis de Guilde Niv.8,-1,-1,동아리 한정 팩 Lv.8,Limitiertes Paket für Gilde Lv.8,200,0,49.99,,0,,,2500,2500,10269,86,-1,,,com.carolgames.moemoegirls.chose12,49.99,,,,,,,3,,1,0,0
+267,-1,Guild Special Lv. 9,Colis de Guilde Niv.9,-1,-1,동아리 한정 팩 Lv.9,Limitiertes Paket für Gilde Lv.9,200,0,49.99,,0,,,2500,2500,10270,86,-1,,,com.carolgames.moemoegirls.chose13,49.99,,,,,,,3,,1,0,0
+268,-1,Program Pack 1,Pack d'Études I,-1,-1,커리큘럼 팩1,Kursplan-Paket 1,203,0,4.99,,0,,,250,250,10271,87,-1,,,com.carolgames.moemoegirls.courselearning1,4.99,,,,,,,1,86400,1,0,0
+269,-1,Program Pack 2,Pack d'Études II,-1,-1,커리큘럼 팩2,Kursplan-Paket 2,203,0,4.99,,0,,,250,250,10272,87,-1,,,com.carolgames.moemoegirls.courselearning2,4.99,,,,,,,1,86400,1,0,0
+270,-1,Program Pack 3,Pack d'Études III,-1,-1,커리큘럼 팩3,Kursplan-Paket 3,203,0,9.99,,0,,,500,500,10273,87,-1,,,com.carolgames.moemoegirls.courselearning3,9.99,,,,,,,1,86400,1,0,0
+271,-1,Program Pack 4,Pack d'Études IV,-1,-1,커리큘럼 팩4,Kursplan-Paket 4,203,0,19.99,,0,,,1000,1000,10274,87,-1,,,com.carolgames.moemoegirls.courselearning4,19.99,,,,,,,1,86400,1,0,0
+275,-1,daily Package (Cookies),Pack Quotidien 7,-1,-1,데일리 특가 팩7,Tagespaket 7,104,0,4.99,,0,,,250,250,10275,37,-1,,,com.carolgames.moemoegirls.dailygift7,4.99,,,,,,86400,1,,1,0,0
+276,-1,Magical Supplies 1,Offres Magiques 1,-1,-1,마력 보급1,Magische Reserven 1,209,0,29.99,,0,,,1500,1500,10276,88,-1,,,com.carolgames.moemoegirls.magicgift1,29.99,,,,,,604800,3,,1,0,0
+277,-1,Magical Supplies 2,Offres Magiques 2,-1,-1,마력 보급2,Magische Reserven 2,209,0,69.99,,0,,,3500,3500,10277,88,-1,,,com.carolgames.moemoegirls.magicgift2,69.99,,,,,,604800,2,,1,0,0
+278,-1,Magical Supplies 3,Offres Magiques 3,-1,-1,마력 보급3,Magische Reserven 3,209,0,99.99,,0,,,5000,5000,10278,88,-1,,,com.carolgames.moemoegirls.magicgift3,99.99,,,,,,604800,1,,1,0,0
+279,-1,Customization Pack 1,Pack Personnalisé 1,-1,オーダーメイド1,커스텀 팩1,Personalisiertes Paket 1,210,0,49.99,,0,,,2500,2500,10279,89,-1,,,com.carolgames.moemoegirls.optional1,49.99,,,,,,604800,2,,1,0,0
+280,-1,Customization Pack 2,Pack Personnalisé 2,-1,オーダーメイド2,커스텀 팩2,Personalisiertes Paket 2,210,0,19.99,,0,,,1000,1000,10280,89,-1,,,com.carolgames.moemoegirls.optional2,19.99,,,,,,604800,2,,1,0,0
+281,-1,Customization Pack 3,Pack Personnalisé 3,-1,オーダーメイド3,커스텀 팩3,Personalisiertes Paket 3,210,0,4.99,,0,,,250,250,10281,89,-1,,,com.carolgames.moemoegirls.optional3,4.99,,,,,,604800,2,,1,0,0
+282,-1,Monthly Card,Carte Mensuelle,-1,-1,월간 패스,Monatskarte,6,1,9.99,NT$,900,,,,750,10001,1,-1,2#370,30,com.carolgames.moemoegirls.30day,9.99,vip_icon07_png,,,,,,1,,1,0,0
+283,-1,Mini Monthly Card,Petite Carte Mensuelle,-1,-1,미니 월간 패스,Mini Monatskarte,7,2,1.99,NT$,350,,,,250,10002,1,-1,2#85,30,com.carolgames.moemoegirls.30daymini,1.99,vip_icon08_png,,,,,,1,,1,0,0
+284,-1,Test Fund 4,Investissement de Test 4,-1,-1,옥상 정복 펀드4,Testfonds 4,146,0,49.99,,0,,,2500,2500,10282,56,-1,,,com.carolgames.moemoegirls.tower_fund4,49.99,,,143,,,,1,,1,0,0
+285,-1,Bizarre Supply (Special Offer),Provision d'Aventure,-1,-1,이계 보급,Sondernachschub (empfohlen),211,0,19.99,NT$,0,,,1000,1000,10285,90,-1,,,com.carolgames.moemoegirls.dailygift7,19.99,,,,,,,1,,1,0,0
+286,-1,Bizarre Supply 1,Provision d'Aventure 1,-1,-1,이계 보급1,Sondernachschub 1,211,0,4.99,NT$,0,,,250,250,10286,90,-1,,,com.carolgames.moemoegirls.magicgift1,4.99,,,,,,604800,2,,1,0,0
+287,-1,Bizarre Supply 2,Provision d'Aventure 2,-1,-1,이계 보급2,Sondernachschub 2,211,0,29.99,NT$,0,,,1500,1500,10287,90,-1,,,com.carolgames.moemoegirls.magicgift2,29.99,,,,,,604800,2,,1,0,0
+288,-1,Bizarre Supply 3,Provision d'Aventure 3,-1,-1,이계 보급3,Sondernachschub 3,211,0,49.99,NT$,0,,,2500,2500,10288,90,-1,,,com.carolgames.moemoegirls.magicgift3,49.99,,,,,,604800,2,,1,0,0
+289,-1,Bizarre Supply 4,Provision d'Aventure 4,-1,-1,이계 보급4,Sondernachschub 4,211,0,79.99,NT$,0,,,4000,4000,10289,90,-1,,,com.carolgames.moemoegirls.magicgift4,79.99,,,,,,604800,3,,1,0,0
+290,-1,Bizarre Supply 5,Provision d'Aventure 5,-1,-1,이계 보급5,Sondernachschub 5,211,0,99.99,NT$,0,,,5000,5000,10290,90,-1,,,com.carolgames.moemoegirls.magicgift5,99.99,,,,,,604800,4,,1,0,0
+293,-1,Program Pack 1,Pack d'Études I,-1,-1,커리큘럼 팩1,Kursplan-Paket 1,217,0,0.99,,0,,,50,50,10293,92,-1,,,com.carolgames.moemoegirls.courselearning11,0.99,,,,,,,5,604800,1,0,0
+294,-1,Program Pack 2,Pack d'Études II,-1,-1,커리큘럼 팩2,Kursplan-Paket 2,217,0,4.99,,0,,,250,250,10294,92,-1,,,com.carolgames.moemoegirls.courselearning21,4.99,,,,,,,7,604800,1,0,0
+295,-1,Program Pack 3,Pack d'Études III,-1,-1,커리큘럼 팩3,Kursplan-Paket 3,217,0,9.99,,0,,,500,500,10295,92,-1,,,com.carolgames.moemoegirls.courselearning31,9.99,,,,,,,8,604800,1,0,0
+296,-1,Program Pack 4,Pack d'Études IV,-1,-1,커리큘럼 팩4,Kursplan-Paket 4,217,0,19.99,,0,,,1000,1000,10296,92,-1,,,com.carolgames.moemoegirls.courselearning41,19.99,,,,,,,8,604800,1,0,0
+297,-1,Guild Special,Colis de Guilde,-1,-1,동아리 한정 팩,Limitiertes Paket für Gilde,200,0,29.99,,0,,,1500,1500,10297,86,-1,,,com.carolgames.moemoegirls.chose2,29.99,,,,,,,3,,1,0,0
+299,-1,Return Customized Growth Pack 1,Pack de la Rentrée Scolaire I,-1,-1,컴백 선택 팩1,Rückkehrer-Wachstumspaket 1,220,0,29.99,,0,,,1500,1500,10299,93,-1,,,com.carolgames.moemoegirls.chose1,29.99,,,,,,,2,,0,0,0
+300,-1,Return Customized Growth Pack 2,Pack de la Rentrée Scolaire II,-1,-1,컴백 선택 팩2,Rückkehrer-Wachstumspaket 2,220,0,49.99,,0,,,2500,2500,10300,93,-1,,,com.carolgames.moemoegirls.chose2,49.99,,,,,,,1,,0,0,0
+301,-1,Return Support,Retour à l'Académie,-1,-1,컴백 축제,Paket zur Rückkehrer-Hilfe,219,0,29.99,,0,,,1500,1500,10301,94,-1,,,com.carolgames.moemoegirls.tower_fund,29.99,,,,,,,1,,1,0,0
+302,-1,Monthly Pass - Return,Carte Mensuelle (Retour),-1,-1,월간 패스-컴백,Rückkehrer-Monatskarte,222,1,4.99,,900,,,,750,10302,95,-1,2#370,30,com.carolgames.moemoegirls.30day,4.99,vip_icon07_png,,,,,,1,,1,0,0
+303,-1,Monthly Event Deluxe Pass - Return,Passe de Luxe (Retour),-1,-1,월간 과제-컴백,Rückkehrer-Monatsthema,222,0,1.99,,0,,,500,500,10303,95,-1,,30,com.carolgames.moemoegirls.monthly_quest,1.99,,,,,,,1,,1,0,0
+304,-1,3rd Anniversary Special Pack 1,Pack du 3ème Anniversaire 1,-1,-1,3주년 기념 팩,Paket zum 3. Jubiläum 1,224,0,9.99,,0,,,500,500,10304,96,-1,,,com.carolgames.moemoegirls.anniversary_giftbag3_1,9.99,,,,,,,1,,1,0,0
+305,-1,3rd Anniversary Special Pack 2,Pack du 3ème Anniversaire 2,-1,-1,3주년 기념 팩,Paket zum 3. Jubiläum 2,225,0,19.99,,0,,,1000,1000,10305,97,-1,,,com.carolgames.moemoegirls.anniversary_giftbag3_2,19.99,,,,,,,1,,1,0,0
+1010101,-1,LV 24 Package,Pack de Niv.24,-1,レベル24パック,레벨 24 팩,Lv.24 Paket,80,0,1.99,NT$,0,,,100,100,1010101,26,-1,,,com.carolgames.moemoegirls.24levelv0,1.99,,,24|31,0,,7200,1,,1,0,0
+1010201,-1,LV 32 Package,Pack de Niv.32,-1,レベル32パック,레벨 32 팩,Lv.32 Paket,80,0,4.99,NT$,0,,,250,250,1010201,26,-1,,,com.carolgames.moemoegirls.32levelv0,4.99,,,32|47,0,,7200,2,,1,0,0
+1010301,-1,LV 48 Package,Pack de Niv.48,-1,レベル48パック,레벨 48 팩,Lv.48 Paket,80,0,9.99,NT$,0,,,500,500,1010301,26,-1,,,com.carolgames.moemoegirls.48levelv0,9.99,,,48|57,0,,14400,2,,1,0,0
+1010401,-1,LV 58 Package,Pack de Niv.58,-1,レベル58パック,레벨 58 팩,Lv.58 Paket,80,0,9.99,NT$,0,,,500,500,1010401,26,-1,,,com.carolgames.moemoegirls.58levelv0,9.99,,,58|77,0,,72000,1,,1,0,0
+1010402,-1,LV 58 Package,Pack de Niv.58,-1,レベル58パック,레벨 58 팩,Lv.58 Paket,80,0,29.99,NT$,0,,,1500,1500,1010402,26,-1,,,com.carolgames.moemoegirls.58levelv4,29.99,,,58|77,4,,72000,1,,1,0,0
+1010403,-1,LV 58 Package,Pack de Niv.58,-1,レベル58パック,레벨 58 팩,Lv.58 Paket,80,0,49.99,NT$,0,,,2500,2500,1010403,26,-1,,,com.carolgames.moemoegirls.58levelv6,49.99,,,58|77,6,,72000,1,,1,0,0
+1010404,-1,LV 58 Package,Pack de Niv.58,-1,レベル58パック,레벨 58 팩,Lv.58 Paket,80,0,69.99,NT$,0,,,3500,3500,1010404,26,-1,,,com.carolgames.moemoegirls.58levelv8,69.99,,,58|77,8,,72000,1,,1,0,0
+1010501,-1,LV 78 Package,Pack de Niv.78,-1,レベル78パック,레벨 78 팩,Lv.78 Paket,80,0,9.99,NT$,0,,,500,500,1010501,26,-1,,,com.carolgames.moemoegirls.78levelv0,9.99,,,78|99,0,,72000,1,,1,0,0
+1010502,-1,LV 78 Package,Pack de Niv.78,-1,レベル78パック,레벨 78 팩,Lv.78 Paket,80,0,29.99,NT$,0,,,1500,1500,1010502,26,-1,,,com.carolgames.moemoegirls.78levelv4,29.99,,,78|99,4,,72000,1,,1,0,0
+1010503,-1,LV 78 Package,Pack de Niv.78,-1,レベル78パック,레벨 78 팩,Lv.78 Paket,80,0,49.99,NT$,0,,,2500,2500,1010503,26,-1,,,com.carolgames.moemoegirls.78levelv6,49.99,,,78|99,6,,72000,1,,1,0,0
+1010504,-1,LV 78 Package,Pack de Niv.78,-1,レベル78パック,레벨 78 팩,Lv.78 Paket,80,0,69.99,NT$,0,,,3500,3500,1010504,26,-1,,,com.carolgames.moemoegirls.78levelv8,69.99,,,78|99,8,,72000,1,,1,0,0
+1010601,-1,LV 100 Package,Pack de Niv.100,-1,レベル100パック,레벨 100 팩,Lv.100 Paket,80,0,9.99,NT$,0,,,500,500,1010601,26,-1,,,com.carolgames.moemoegirls.100levelv1,9.99,,,100|124,0,,86400,1,,1,0,0
+1010602,-1,LV 100 Package,Pack de Niv.100,-1,レベル100パック,레벨 100 팩,Lv.100 Paket,80,0,29.99,NT$,0,,,1500,1500,1010602,26,-1,,,com.carolgames.moemoegirls.100levelv4,29.99,,,100|124,4,,86400,1,,1,0,0
+1010603,-1,LV 100 Package,Pack de Niv.100,-1,レベル100パック,레벨 100 팩,Lv.100 Paket,80,0,49.99,NT$,0,,,2500,2500,1010603,26,-1,,,com.carolgames.moemoegirls.100levelv6,49.99,,,100|124,6,,86400,1,,1,0,0
+1010604,-1,LV 100 Package,Pack de Niv.100,-1,レベル100パック,레벨 100 팩,Lv.100 Paket,80,0,69.99,NT$,0,,,3500,3500,1010604,26,-1,,,com.carolgames.moemoegirls.100levelv8,69.99,,,100|124,8,,86400,1,,1,0,0
+1010701,-1,LV 125 Package,Pack de Niv.125,-1,レベル125パック,레벨 125 팩,Lv.125 Paket,80,0,9.99,NT$,0,,,500,500,1010701,26,-1,,,com.carolgames.moemoegirls.125levelv1,9.99,,,125|149,1,,86400,1,,1,0,0
+1010702,-1,LV 125 Package,Pack de Niv.125,-1,レベル125パック,레벨 125 팩,Lv.125 Paket,80,0,29.99,NT$,0,,,1500,1500,1010702,26,-1,,,com.carolgames.moemoegirls.125levelv4,29.99,,,125|149,4,,86400,1,,1,0,0
+1010703,-1,LV 125 Package,Pack de Niv.125,-1,レベル125パック,레벨 125 팩,Lv.125 Paket,80,0,49.99,NT$,0,,,2500,2500,1010703,26,-1,,,com.carolgames.moemoegirls.125levelv6,49.99,,,125|149,6,,86400,1,,1,0,0
+1010704,-1,LV 125 Package,Pack de Niv.125,-1,レベル125パック,레벨 125 팩,Lv.125 Paket,80,0,69.99,NT$,0,,,3500,3500,1010704,26,-1,,,com.carolgames.moemoegirls.125levelv8,69.99,,,125|149,8,,86400,1,,1,0,0
+1010801,-1,LV 150 Package,Pack de Niv.150,-1,レベル150パック,레벨 150 팩,Lv.150 Paket,80,0,9.99,NT$,0,,,500,500,1010801,26,-1,,,com.carolgames.moemoegirls.150levelv1,9.99,,,150|174,1,,86400,1,,1,0,0
+1010802,-1,LV 150 Package,Pack de Niv.150,-1,レベル150パック,레벨 150 팩,Lv.150 Paket,80,0,29.99,NT$,0,,,1500,1500,1010802,26,-1,,,com.carolgames.moemoegirls.150levelv4,29.99,,,150|174,4,,86400,1,,1,0,0
+1010803,-1,LV 150 Package,Pack de Niv.150,-1,レベル150パック,레벨 150 팩,Lv.150 Paket,80,0,49.99,NT$,0,,,2500,2500,1010803,26,-1,,,com.carolgames.moemoegirls.150levelv6,49.99,,,150|174,6,,86400,1,,1,0,0
+1010804,-1,LV 150 Package,Pack de Niv.150,-1,レベル150パック,레벨 150 팩,Lv.150 Paket,80,0,69.99,NT$,0,,,3500,3500,1010804,26,-1,,,com.carolgames.moemoegirls.150levelv8,69.99,,,150|174,8,,86400,1,,1,0,0
+1010901,-1,LV 175 Package,Pack de Niv.175,-1,レベル175パック,레벨 175 팩,Lv.175 Paket,80,0,9.99,NT$,0,,,500,500,1010901,26,-1,,,com.carolgames.moemoegirls.175levelv1,9.99,,,175|199,1,,86400,1,,1,0,0
+1010902,-1,LV 175 Package,Pack de Niv.175,-1,レベル175パック,레벨 175 팩,Lv.175 Paket,80,0,29.99,NT$,0,,,1500,1500,1010902,26,-1,,,com.carolgames.moemoegirls.175levelv4,29.99,,,175|199,4,,86400,1,,1,0,0
+1010903,-1,LV 175 Package,Pack de Niv.175,-1,レベル175パック,레벨 175 팩,Lv.175 Paket,80,0,49.99,NT$,0,,,2500,2500,1010903,26,-1,,,com.carolgames.moemoegirls.175levelv6,49.99,,,175|199,6,,86400,1,,1,0,0
+1010904,-1,LV 175 Package,Pack de Niv.175,-1,レベル175パック,레벨 175 팩,Lv.175 Paket,80,0,69.99,NT$,0,,,3500,3500,1010904,26,-1,,,com.carolgames.moemoegirls.175levelv8,69.99,,,175|199,8,,86400,1,,1,0,0
+1011001,-1,LV 200 Package,Pack de Niv.200,-1,レベル200パック,레벨 200 팩,Lv.200 Paket,80,0,9.99,NT$,0,,,500,500,1011001,26,-1,,,com.carolgames.moemoegirls.200levelv1,9.99,,,200|249,1,,86400,1,,1,0,0
+1011002,-1,LV 200 Package,Pack de Niv.200,-1,レベル200パック,레벨 200 팩,Lv.200 Paket,80,0,29.99,NT$,0,,,1500,1500,1011002,26,-1,,,com.carolgames.moemoegirls.200levelv4,29.99,,,200|249,4,,86400,1,,1,0,0
+1011003,-1,LV 200 Package,Pack de Niv.200,-1,レベル200パック,레벨 200 팩,Lv.200 Paket,80,0,49.99,NT$,0,,,2500,2500,1011003,26,-1,,,com.carolgames.moemoegirls.200levelv6,49.99,,,200|249,6,,86400,1,,1,0,0
+1011004,-1,LV 200 Package,Pack de Niv.200,-1,レベル200パック,레벨 200 팩,Lv.200 Paket,80,0,69.99,NT$,0,,,3500,3500,1011004,26,-1,,,com.carolgames.moemoegirls.200levelv8,69.99,,,200|249,8,,86400,1,,1,0,0
+1030101,-1,4-star Girl Training Package,Pack d'Entraînement de Filles 4 étoiles,-1,-1,소녀 육성 팩,Ausbildungspaket,81,0,4.99,NT$,0,,,250,250,1030101,27,-1,,,com.carolgames.moemoegirls.4starpartnerv0,4.99,,,30,0,,7200,2,172800,1,0,0
+1030102,-1,4-star Girl Training Package,Pack d'Entraînement de Filles 4 étoiles,-1,-1,소녀 육성 팩,Ausbildungspaket,81,0,9.99,NT$,0,,,500,500,1030102,27,-1,,,com.carolgames.moemoegirls.4starpartnerv4,9.99,,,30,4,,7200,2,172800,1,0,0
+1030103,-1,4-star Girl Training Package,Pack d'Entraînement de Filles 4 étoiles,-1,-1,소녀 육성 팩,Ausbildungspaket,81,0,19.99,NT$,0,,,1000,1000,1030103,27,-1,,,com.carolgames.moemoegirls.4starpartnerv8,19.99,,,30,8,,7200,2,172800,1,0,0
+1040101,-1,5-star Girl Training Package,Pack d'Entraînement de Filles 5 étoiles,-1,-1,소녀 육성 팩,Ausbildungspaket,82,0,9.99,NT$,0,,,500,500,1040101,28,-1,,,com.carolgames.moemoegirls.5starpartnerv0,9.99,,,30,0,,14400,2,86400,1,0,0
+1040102,-1,5-star Girl Training Package,Pack d'Entraînement de Filles 5 étoiles,-1,-1,소녀 육성 팩,Ausbildungspaket,82,0,19.99,NT$,0,,,1000,1000,1040102,28,-1,,,com.carolgames.moemoegirls.5starpartnerv4,19.99,,,30,4,,14400,2,86400,1,0,0
+1040103,-1,5-star Girl Training Package,Pack d'Entraînement de Filles 5 étoiles,-1,-1,소녀 육성 팩,Ausbildungspaket,82,0,29.99,NT$,0,,,1500,1500,1040103,28,-1,,,com.carolgames.moemoegirls.5starpartnerv8,29.99,,,30,8,,14400,2,86400,1,0,0
+1050101,-1,EXP Booster,Booster d'EXP,-1,ドリンクパック,경험치 드링크 팩,EXP Booster,76,0,4.99,NT$,0,,,250,250,1050101,29,-1,,,com.carolgames.moemoegirls.expboosterv0,4.99,,,30|60,0,,28800,1,86400,1,0,0
+1050102,-1,EXP Booster,Booster d'EXP,-1,ドリンクパック,경험치 드링크 팩,EXP Booster,76,0,9.99,NT$,0,,,500,500,1050102,29,-1,,,com.carolgames.moemoegirls.expboosterv2,9.99,,,30|80,2,,28800,1,86400,1,0,0
+1050103,-1,EXP Booster,Booster d'EXP,-1,ドリンクパック,경험치 드링크 팩,EXP Booster,76,0,19.99,NT$,0,,,1000,1000,1050103,29,-1,,,com.carolgames.moemoegirls.expboosterv3,19.99,,,30|120,3,,28800,1,86400,1,0,0
+1050104,-1,EXP Booster,Booster d'EXP,-1,ドリンクパック,경험치 드링크 팩,EXP Booster,76,0,29.99,NT$,0,,,1500,1500,1050104,29,-1,,,com.carolgames.moemoegirls.expboosterv4,29.99,,,30|200,4,,28800,1,86400,1,0,0
+1050105,-1,EXP Booster,Booster d'EXP,-1,ドリンクパック,경험치 드링크 팩,EXP Booster,76,0,49.99,NT$,0,,,2500,2500,1050105,29,-1,,,com.carolgames.moemoegirls.expboosterv5,49.99,,,30|250,5,,28800,1,86400,1,0,0
+1050106,-1,EXP Booster,Booster d'EXP,-1,ドリンクパック,경험치 드링크 팩,EXP Booster,76,0,69.99,NT$,0,,,3500,3500,1050106,29,-1,,,com.carolgames.moemoegirls.expboosterv6,69.99,,,30|280,6,,28800,1,86400,1,0,0
+1050107,-1,EXP Booster,Booster d'EXP,-1,ドリンクパック,경험치 드링크 팩,EXP Booster,76,0,99.99,NT$,0,,,5000,5000,1050107,29,-1,,,com.carolgames.moemoegirls.expboosterv8,99.99,,,30|400,8,,28800,1,86400,1,0,0
+1060101,-1,Coin Booster,Booster de Pièces,-1,ゴールドパック,골드 구급 팩,Münzen Booster,77,0,4.99,NT$,0,,,250,250,1060101,30,-1,,,com.carolgames.moemoegirls.coinboosterv0,4.99,,,30|60,0,,28800,1,86400,1,0,0
+1060102,-1,Coin Booster,Booster de Pièces,-1,ゴールドパック,골드 구급 팩,Münzen Booster,77,0,9.99,NT$,0,,,500,500,1060102,30,-1,,,com.carolgames.moemoegirls.coinboosterv2,9.99,,,30|80,2,,28800,1,86400,1,0,0
+1060103,-1,Coin Booster,Booster de Pièces,-1,ゴールドパック,골드 구급 팩,Münzen Booster,77,0,19.99,NT$,0,,,1000,1000,1060103,30,-1,,,com.carolgames.moemoegirls.coinboosterv3,19.99,,,30|120,3,,28800,1,86400,1,0,0
+1060104,-1,Coin Booster,Booster de Pièces,-1,ゴールドパック,골드 구급 팩,Münzen Booster,77,0,29.99,NT$,0,,,1500,1500,1060104,30,-1,,,com.carolgames.moemoegirls.coinboosterv4,29.99,,,30|200,4,,28800,1,86400,1,0,0
+1060105,-1,Coin Booster,Booster de Pièces,-1,ゴールドパック,골드 구급 팩,Münzen Booster,77,0,49.99,NT$,0,,,2500,2500,1060105,30,-1,,,com.carolgames.moemoegirls.coinboosterv5,49.99,,,30|250,5,,28800,1,86400,1,0,0
+1060106,-1,Coin Booster,Booster de Pièces,-1,ゴールドパック,골드 구급 팩,Münzen Booster,77,0,69.99,NT$,0,,,3500,3500,1060106,30,-1,,,com.carolgames.moemoegirls.coinboosterv6,69.99,,,30|280,6,,28800,1,86400,1,0,0
+1060107,-1,Coin Booster,Booster de Pièces,-1,ゴールドパック,골드 구급 팩,Münzen Booster,77,0,99.99,NT$,0,,,5000,5000,1060107,30,-1,,,com.carolgames.moemoegirls.coinboosterv8,99.99,,,30|400,8,,28800,1,86400,1,0,0
+1070101,-1,Stage Package,Pack d'Etape,-1,ステージギフト-3-10,스테이지 팩-3-10,Rundenpaket-3-10,78,0,9.99,NT$,0,,,500,500,1070101,31,-1,,,com.carolgames.moemoegirls.stage32v0,9.99,,,32,0,,14400,1,,1,0,0
+1070102,-1,Stage Package,Pack d'Etape,-1,ステージギフト-3-10,스테이지 팩-3-10,Rundenpaket-3-10,78,0,19.99,NT$,0,,,1000,1000,1070102,31,-1,,,com.carolgames.moemoegirls.stage32v4,19.99,,,32,4,,14400,1,,1,0,0
+1070103,-1,Stage Package,Pack d'Etape,-1,ステージギフト-3-10,스테이지 팩-3-10,Rundenpaket-3-10,78,0,29.99,NT$,0,,,1500,1500,1070103,31,-1,,,com.carolgames.moemoegirls.stage32v8,29.99,,,32,8,,14400,1,,1,0,0
+1070201,-1,Stage Package,Pack d'Etape,-1,ステージギフト-7-10,스테이지 팩-7-10,Rundenpaket-7-10,78,0,9.99,NT$,0,,,500,500,1070201,31,-1,,,com.carolgames.moemoegirls.stage72v2,9.99,,,72,2,,14400,1,,1,0,0
+1070202,-1,Stage Package,Pack d'Etape,-1,ステージギフト-7-10,스테이지 팩-7-10,Rundenpaket-7-10,78,0,19.99,NT$,0,,,1000,1000,1070202,31,-1,,,com.carolgames.moemoegirls.stage72v6,19.99,,,72,6,,14400,1,,1,0,0
+1070203,-1,Stage Package,Pack d'Etape,-1,ステージギフト-7-10,스테이지 팩-7-10,Rundenpaket-7-10,78,0,29.99,NT$,0,,,1500,1500,1070203,31,-1,,,com.carolgames.moemoegirls.stage72v8,29.99,,,72,8,,14400,1,,1,0,0
+1070301,-1,Stage Package,Pack d'Etape,-1,ステージギフト-10-10,스테이지 팩-10-10,Rundenpaket-10-10,78,0,9.99,NT$,0,,,500,500,1070301,31,-1,,,com.carolgames.moemoegirls.stage102v2,9.99,,,102,2,,14400,1,,1,0,0
+1070302,-1,Stage Package,Pack d'Etape,-1,ステージギフト-10-10,스테이지 팩-10-10,Rundenpaket-10-10,78,0,19.99,NT$,0,,,1000,1000,1070302,31,-1,,,com.carolgames.moemoegirls.stage102v6,19.99,,,102,6,,14400,1,,1,0,0
+1070303,-1,Stage Package,Pack d'Etape,-1,ステージギフト-10-10,스테이지 팩-10-10,Rundenpaket-10-10,78,0,49.99,NT$,0,,,2500,2500,1070303,31,-1,,,com.carolgames.moemoegirls.stage102v8,49.99,,,102,8,,14400,1,,1,0,0
+1070401,-1,Stage Package,Pack d'Etape,-1,ステージギフト-15-10,스테이지 팩-15-10,Rundenpaket-15-10,78,0,9.99,NT$,0,,,500,500,1070401,31,-1,,,com.carolgames.moemoegirls.stage152v2,9.99,,,152,2,,14400,1,,1,0,0
+1070402,-1,Stage Package,Pack d'Etape,-1,ステージギフト-15-10,스테이지 팩-15-10,Rundenpaket-15-10,78,0,19.99,NT$,0,,,1000,1000,1070402,31,-1,,,com.carolgames.moemoegirls.stage152v6,19.99,,,152,6,,14400,1,,1,0,0
+1070403,-1,Stage Package,Pack d'Etape,-1,ステージギフト-15-10,스테이지 팩-15-10,Rundenpaket-15-10,78,0,29.99,NT$,0,,,1500,1500,1070403,31,-1,,,com.carolgames.moemoegirls.stage152v8,29.99,,,152,8,,14400,1,,1,0,0
+1070501,-1,Stage Package,Pack d'Etape,-1,ステージギフト-20-10,스테이지 팩-20-10,Rundenpaket-20-10,78,0,9.99,NT$,0,,,500,500,1070501,31,-1,,,com.carolgames.moemoegirls.stage202v2,9.99,,,202,2,,14400,1,,1,0,0
+1070502,-1,Stage Package,Pack d'Etape,-1,ステージギフト-20-10,스테이지 팩-20-10,Rundenpaket-20-10,78,0,19.99,NT$,0,,,1000,1000,1070502,31,-1,,,com.carolgames.moemoegirls.stage202v6,19.99,,,202,6,,14400,1,,1,0,0
+1070503,-1,Stage Package,Pack d'Etape,-1,ステージギフト-20-10,스테이지 팩-20-10,Rundenpaket-20-10,78,0,29.99,NT$,0,,,1500,1500,1070503,31,-1,,,com.carolgames.moemoegirls.stage202v8,29.99,,,202,8,,14400,1,,1,0,0
+1070601,-1,Stage Package,Pack d'Etape,-1,ステージギフト-25-10,스테이지 팩-25-10,Rundenpaket-25-10,78,0,9.99,NT$,0,,,500,500,1070601,31,-1,,,com.carolgames.moemoegirls.stage252v2,9.99,,,252,2,,14400,1,,1,0,0
+1070602,-1,Stage Package,Pack d'Etape,-1,ステージギフト-25-10,스테이지 팩-25-10,Rundenpaket-25-10,78,0,19.99,NT$,0,,,1000,1000,1070602,31,-1,,,com.carolgames.moemoegirls.stage252v6,19.99,,,252,6,,14400,1,,1,0,0
+1070603,-1,Stage Package,Pack d'Etape,-1,ステージギフト-25-10,스테이지 팩-25-10,Rundenpaket-25-10,78,0,49.99,NT$,0,,,2500,2500,1070603,31,-1,,,com.carolgames.moemoegirls.stage252v8,49.99,,,252,8,,14400,1,,1,0,0
+1070701,-1,Stage Package,Pack d'Etape,-1,ステージギフト-28-10,스테이지 팩-28-10,Rundenpaket-28-10,78,0,9.99,NT$,0,,,500,500,1070701,31,-1,,,com.carolgames.moemoegirls.stage282v2,9.99,,,282,2,,14400,1,,1,0,0
+1070702,-1,Stage Package,Pack d'Etape,-1,ステージギフト-28-10,스테이지 팩-28-10,Rundenpaket-28-10,78,0,19.99,NT$,0,,,1000,1000,1070702,31,-1,,,com.carolgames.moemoegirls.stage282v6,19.99,,,282,6,,14400,1,,1,0,0
+1070703,-1,Stage Package,Pack d'Etape,-1,ステージギフト-28-10,스테이지 팩-28-10,Rundenpaket-28-10,78,0,29.99,NT$,0,,,1500,1500,1070703,31,-1,,,com.carolgames.moemoegirls.stage282v8,29.99,,,282,8,,14400,1,,1,0,0
+1070801,-1,Stage Package,Pack d'Etape,-1,ステージギフト-30-10,스테이지 팩-30-10,Rundenpaket-30-10,78,0,9.99,NT$,0,,,500,500,1070801,31,-1,,,com.carolgames.moemoegirls.stage302v2,9.99,,,302,2,,14400,1,,1,0,0
+1070802,-1,Stage Package,Pack d'Etape,-1,ステージギフト-30-10,스테이지 팩-30-10,Rundenpaket-30-10,78,0,19.99,NT$,0,,,1000,1000,1070802,31,-1,,,com.carolgames.moemoegirls.stage302v6,19.99,,,302,6,,14400,1,,1,0,0
+1070803,-1,Stage Package,Pack d'Etape,-1,ステージギフト-30-10,스테이지 팩-30-10,Rundenpaket-30-10,78,0,29.99,NT$,0,,,1500,1500,1070803,31,-1,,,com.carolgames.moemoegirls.stage302v8,29.99,,,302,8,,14400,1,,1,0,0
+1071001,-1,Stage Package,Pack d'Etape,-1,ステージギフト-1-12,스테이지 팩-1-12,Rundenpaket-1-12,78,0,0.99,NT$,0,,,50,50,1071001,31,-1,,,com.carolgames.moemoegirls.stage12v0,0.99,,,12,0,,14400,1,,1,0,0
+1071002,-1,Stage Package,Pack d'Etape,-1,ステージギフト-1-12,스테이지 팩-1-12,Rundenpaket-1-12,78,0,4.99,NT$,0,,,250,250,1071002,31,-1,,,com.carolgames.moemoegirls.stage12v2,4.99,,,12,2,,14400,1,,1,0,0
+1071101,-1,Stage Package,Pack d'Etape,-1,ステージギフト-2-10,스테이지 팩-2-10,Rundenpaket-2-10,78,0,1.99,NT$,0,,,100,100,1071101,31,-1,,,com.carolgames.moemoegirls.stage22v0,1.99,,,22,0,,14400,1,,1,0,0
+1071102,-1,Stage Package,Pack d'Etape,-1,ステージギフト-2-10,스테이지 팩-2-10,Rundenpaket-2-10,78,0,4.99,NT$,0,,,250,250,1071102,31,-1,,,com.carolgames.moemoegirls.stage22v2,4.99,,,22,2,,14400,1,,1,0,0
+1080101,-1,Test Booster,Pack de Test,-1,-1,옥상 정복 부스터 팩-15,Test Paket-15,79,0,9.99,NT$,0,,,500,500,1080101,32,-1,,,com.carolgames.moemoegirls.tower15v2,9.99,,,15,2,,14400,1,,1,0,0
+1080102,-1,Test Booster,Pack de Test,-1,-1,옥상 정복 부스터 팩-15,Test Paket-15,79,0,19.99,NT$,0,,,1000,1000,1080102,32,-1,,,com.carolgames.moemoegirls.tower15v6,19.99,,,15,6,,14400,1,,1,0,0
+1080103,-1,Test Booster,Pack de Test,-1,-1,옥상 정복 부스터 팩-15,Test Paket-15,79,0,29.99,NT$,0,,,1500,1500,1080103,32,-1,,,com.carolgames.moemoegirls.tower15v8,29.99,,,15,8,,14400,1,,1,0,0
+1080201,-1,Test Booster,Pack de Test,-1,-1,옥상 정복 부스터 팩-30,Test Paket-30,79,0,9.99,NT$,0,,,500,500,1080201,32,-1,,,com.carolgames.moemoegirls.tower30v2,9.99,,,30,2,,14400,1,,1,0,0
+1080202,-1,Test Booster,Pack de Test,-1,-1,옥상 정복 부스터 팩-30,Test Paket-30,79,0,19.99,NT$,0,,,1000,1000,1080202,32,-1,,,com.carolgames.moemoegirls.tower30v6,19.99,,,30,6,,14400,1,,1,0,0
+1080203,-1,Test Booster,Pack de Test,-1,-1,옥상 정복 부스터 팩-30,Test Paket-30,79,0,29.99,NT$,0,,,1500,1500,1080203,32,-1,,,com.carolgames.moemoegirls.tower30v8,29.99,,,30,8,,14400,1,,1,0,0
+1080301,-1,Test Booster,Pack de Test,-1,-1,옥상 정복 부스터 팩-100,Test Paket-100,79,0,9.99,NT$,0,,,500,500,1080301,32,-1,,,com.carolgames.moemoegirls.tower100v2,9.99,,,100,2,,14400,1,,1,0,0
+1080302,-1,Test Booster,Pack de Test,-1,-1,옥상 정복 부스터 팩-100,Test Paket-100,79,0,19.99,NT$,0,,,1000,1000,1080302,32,-1,,,com.carolgames.moemoegirls.tower100v6,19.99,,,100,6,,14400,1,,1,0,0
+1080303,-1,Test Booster,Pack de Test,-1,-1,옥상 정복 부스터 팩-100,Test Paket-100,79,0,49.99,NT$,0,,,2500,2500,1080303,32,-1,,,com.carolgames.moemoegirls.tower100v8,49.99,,,100,8,,14400,1,,1,0,0
+1080401,-1,Test Booster,Pack de Test,-1,-1,옥상 정복 부스터 팩-150,Test Paket-150,79,0,9.99,NT$,0,,,500,500,1080401,32,-1,,,com.carolgames.moemoegirls.tower150v2,9.99,,,150,2,,14400,1,,1,0,0
+1080402,-1,Test Booster,Pack de Test,-1,-1,옥상 정복 부스터 팩-150,Test Paket-150,79,0,19.99,NT$,0,,,1000,1000,1080402,32,-1,,,com.carolgames.moemoegirls.tower150v6,19.99,,,150,6,,14400,1,,1,0,0
+1080403,-1,Test Booster,Pack de Test,-1,-1,옥상 정복 부스터 팩-150,Test Paket-150,79,0,29.99,NT$,0,,,1500,1500,1080403,32,-1,,,com.carolgames.moemoegirls.tower150v8,29.99,,,150,8,,14400,1,,1,0,0
+1080501,-1,Test Booster,Pack de Test,-1,-1,옥상 정복 부스터 팩-200,Test Paket-200,79,0,9.99,NT$,0,,,500,500,1080501,32,-1,,,com.carolgames.moemoegirls.tower200v2,9.99,,,200,2,,14400,1,,1,0,0
+1080502,-1,Test Booster,Pack de Test,-1,-1,옥상 정복 부스터 팩-200,Test Paket-200,79,0,19.99,NT$,0,,,1000,1000,1080502,32,-1,,,com.carolgames.moemoegirls.tower200v6,19.99,,,200,6,,14400,1,,1,0,0
+1080503,-1,Test Booster,Pack de Test,-1,-1,옥상 정복 부스터 팩-200,Test Paket-200,79,0,49.99,NT$,0,,,2500,2500,1080503,32,-1,,,com.carolgames.moemoegirls.tower200v8,49.99,,,200,8,,14400,1,,1,0,0
+1080601,-1,Test Booster,Pack de Test,-1,-1,옥상 정복 부스터 팩-250,Test Paket-250,79,0,9.99,NT$,0,,,500,500,1080601,32,-1,,,com.carolgames.moemoegirls.tower250v2,9.99,,,250,2,,14400,1,,1,0,0
+1080602,-1,Test Booster,Pack de Test,-1,-1,옥상 정복 부스터 팩-250,Test Paket-250,79,0,19.99,NT$,0,,,1000,1000,1080602,32,-1,,,com.carolgames.moemoegirls.tower250v6,19.99,,,250,6,,14400,1,,1,0,0
+1080603,-1,Test Booster,Pack de Test,-1,-1,옥상 정복 부스터 팩-250,Test Paket-250,79,0,49.99,NT$,0,,,2500,2500,1080603,32,-1,,,com.carolgames.moemoegirls.tower250v8,49.99,,,250,8,,14400,1,,1,0,0
+1080701,-1,Test Booster,Pack de Test,-1,-1,옥상 정복 부스터 팩-300,Test Paket-300,79,0,9.99,NT$,0,,,500,500,1080701,32,-1,,,com.carolgames.moemoegirls.tower300v2,9.99,,,300,2,,14400,1,,1,0,0
+1080702,-1,Test Booster,Pack de Test,-1,-1,옥상 정복 부스터 팩-300,Test Paket-300,79,0,19.99,NT$,0,,,1000,1000,1080702,32,-1,,,com.carolgames.moemoegirls.tower300v6,19.99,,,300,6,,14400,1,,1,0,0
+1080703,-1,Test Booster,Pack de Test,-1,-1,테스트 부스터 팩-300,Test Paket-300,79,0,29.99,NT$,0,,,1500,1500,1080703,32,-1,,,com.carolgames.moemoegirls.tower300v8,29.99,,,300,8,,14400,1,,1,0,0
+1080801,-1,Test Booster,Pack de Test,-1,-1,옥상 정복 부스터 팩-350,Test Paket-350,79,0,9.99,NT$,0,,,500,500,1080801,32,-1,,,com.carolgames.moemoegirls.tower350v2,9.99,,,350,2,,14400,1,,1,0,0
+1080802,-1,Test Booster,Pack de Test,-1,-1,옥상 정복 부스터 팩-350,Test Paket-350,79,0,19.99,NT$,0,,,1000,1000,1080802,32,-1,,,com.carolgames.moemoegirls.tower350v6,19.99,,,350,6,,14400,1,,1,0,0
+1080803,-1,Test Booster,Pack de Test,-1,-1,옥상 정복 부스터 팩-350,Test Paket-350,79,0,49.99,NT$,0,,,2500,2500,1080803,32,-1,,,com.carolgames.moemoegirls.tower350v8,49.99,,,350,8,,14400,1,,1,0,0
+1080901,-1,Test Booster,Pack de Test,-1,-1,옥상 정복 부스터 팩-400,Test Paket-400,79,0,9.99,NT$,0,,,500,500,1080901,32,-1,,,com.carolgames.moemoegirls.tower400v2,9.99,,,400,2,,14400,1,,1,0,0
+1080902,-1,Test Booster,Pack de Test,-1,-1,옥상 정복 부스터 팩-400,Test Paket-400,79,0,19.99,NT$,0,,,1000,1000,1080902,32,-1,,,com.carolgames.moemoegirls.tower400v6,19.99,,,400,6,,14400,1,,1,0,0
+1080903,-1,Test Booster,Pack de Test,-1,-1,옥상 정복 부스터 팩-400,Test Paket-400,79,0,49.99,NT$,0,,,2500,2500,1080903,32,-1,,,com.carolgames.moemoegirls.tower400v8,49.99,,,400,8,,14400,1,,1,0,0
+1081001,-1,Test Booster,Pack de Test,-1,-1,옥상 정복 부스터 팩-450,Test Paket-450,79,0,9.99,NT$,0,,,500,500,1081001,32,-1,,,com.carolgames.moemoegirls.tower450v2,9.99,,,450,2,,14400,1,,1,0,0
+1081002,-1,Test Booster,Pack de Test,-1,-1,옥상 정복 부스터 팩-450,Test Paket-450,79,0,19.99,NT$,0,,,1000,1000,1081002,32,-1,,,com.carolgames.moemoegirls.tower450v6,19.99,,,450,6,,14400,2,,1,0,0
+1081003,-1,Test Booster,Pack de Test,-1,-1,옥상 정복 부스터 팩-450,Test Paket-450,79,0,49.99,NT$,0,,,2500,2500,1081003,32,-1,,,com.carolgames.moemoegirls.tower450v8,49.99,,,450,8,,14400,1,,1,0,0
+1081101,-1,Test Booster,Pack de Test,-1,-1,옥상 정복 부스터 팩-500,Test Paket-500,79,0,9.99,NT$,0,,,500,500,1081101,32,-1,,,com.carolgames.moemoegirls.tower500v2,9.99,,,500,2,,14400,1,,1,0,0
+1081102,-1,Test Booster,Pack de Test,-1,-1,옥상 정복 부스터 팩-500,Test Paket-500,79,0,19.99,NT$,0,,,1000,1000,1081102,32,-1,,,com.carolgames.moemoegirls.tower500v6,19.99,,,500,6,,14400,2,,1,0,0
+1081103,-1,Test Booster,Pack de Test,-1,-1,옥상 정복 부스터 팩-500,Test Paket-500,79,0,49.99,NT$,0,,,2500,2500,1081103,32,-1,,,com.carolgames.moemoegirls.tower500v8,49.99,,,500,8,,14400,1,,1,0,0
+1081201,-1,Test Booster,Pack de Test,-1,-1,옥상 정복 부스터 팩-550,Test Paket-550,79,0,9.99,NT$,0,,,500,500,1081201,32,-1,,,com.carolgames.moemoegirls.tower550v2,9.99,,,550,2,,14400,1,,1,0,0
+1081202,-1,Test Booster,Pack de Test,-1,-1,옥상 정복 부스터 팩-550,Test Paket-550,79,0,19.99,NT$,0,,,1000,1000,1081202,32,-1,,,com.carolgames.moemoegirls.tower550v6,19.99,,,550,6,,14400,2,,1,0,0
+1081203,-1,Test Booster,Pack de Test,-1,-1,옥상 정복 부스터 팩-550,Test Paket-550,79,0,49.99,NT$,0,,,2500,2500,1081203,32,-1,,,com.carolgames.moemoegirls.tower550v8,49.99,,,550,8,,14400,1,,1,0,0
+1081301,-1,Test Booster,Pack de Test,-1,-1,옥상 정복 부스터 팩-600,Test Paket-600,79,0,9.99,NT$,0,,,500,500,1081301,32,-1,,,com.carolgames.moemoegirls.tower600v2,9.99,,,600,2,,14400,1,,1,0,0
+1081302,-1,Test Booster,Pack de Test,-1,-1,옥상 정복 부스터 팩-600,Test Paket-600,79,0,19.99,NT$,0,,,1000,1000,1081302,32,-1,,,com.carolgames.moemoegirls.tower600v6,19.99,,,600,6,,14400,2,,1,0,0
+1081303,-1,Test Booster,Pack de Test,-1,-1,옥상 정복 부스터 팩-600,Test Paket-600,79,0,49.99,NT$,0,,,2500,2500,1081303,32,-1,,,com.carolgames.moemoegirls.tower600v8,49.99,,,600,8,,14400,1,,1,0,0
+1090101,-1,Capsule Bonus Pack,Pack Surprise de Capsules,-1,ガチャボーナスパック1,캡슐 코인 보너스 팩1,Kapsel Paket 1,92,0,29.99,NT$,0,,,1500,1500,1090101,36,-1,,,com.carolgames.moemoegirls.gachagift1v0,29.99,,,200,0,1,43200,2,432000,1,0,0
+1090102,-1,Capsule Bonus Pack,Pack Surprise de Capsules,-1,ガチャボーナスパック1,캡슐 코인 보너스 팩1,Kapsel Paket 1,92,0,49.99,NT$,0,,,2500,2500,1090102,36,-1,,,com.carolgames.moemoegirls.gachagift1v4,49.99,,,200,4,1,43200,2,432000,1,0,0
+1090103,-1,Capsule Bonus Pack,Pack Surprise de Capsules,-1,ガチャボーナスパック1,캡슐 코인 보너스 팩1,Kapsel Paket 1,92,0,99.99,NT$,0,,,5000,5000,1090103,36,-1,,,com.carolgames.moemoegirls.gachagift1v8,99.99,,,200,6,1,43200,2,432000,1,0,0
+1090201,-1,Capsule Bonus Pack,Pack Surprise de Capsules,-1,ガチャボーナスパック2,캡슐 코인 보너스 팩2,Kapsel Paket 2,92,0,29.99,NT$,0,,,1500,1500,1090201,36,-1,,,com.carolgames.moemoegirls.gachagift2v0,29.99,,,200,0,2,43200,2,432000,1,0,0
+1090202,-1,Capsule Bonus Pack,Pack Surprise de Capsules,-1,ガチャボーナスパック2,캡슐 코인 보너스 팩2,Kapsel Paket 2,92,0,49.99,NT$,0,,,2500,2500,1090202,36,-1,,,com.carolgames.moemoegirls.gachagift2v4,49.99,,,200,4,2,43200,2,432000,1,0,0
+1090203,-1,Capsule Bonus Pack,Pack Surprise de Capsules,-1,ガチャボーナスパック2,캡슐 코인 보너스 팩2,Kapsel Paket 2,92,0,99.99,NT$,0,,,5000,5000,1090203,36,-1,,,com.carolgames.moemoegirls.gachagift2v8,99.99,,,200,6,2,43200,2,432000,1,0,0
+1090301,-1,Capsule Bonus Pack,Pack Surprise de Capsules,-1,ガチャボーナスパック3,캡슐 코인 보너스 팩3,Kapsel Paket 3,92,0,29.99,NT$,0,,,1500,1500,1090301,36,-1,,,com.carolgames.moemoegirls.gachagift3v0,29.99,,,200,0,3,43200,2,432000,1,0,0
+1090302,-1,Capsule Bonus Pack,Pack Surprise de Capsules,-1,ガチャボーナスパック3,캡슐 코인 보너스 팩3,Kapsel Paket 3,92,0,49.99,NT$,0,,,2500,2500,1090302,36,-1,,,com.carolgames.moemoegirls.gachagift3v4,49.99,,,200,4,3,43200,2,432000,1,0,0
+1090303,-1,Capsule Bonus Pack,Pack Surprise de Capsules,-1,ガチャボーナスパック3,캡슐 코인 보너스 팩3,Kapsel Paket 3,92,0,99.99,NT$,0,,,5000,5000,1090303,36,-1,,,com.carolgames.moemoegirls.gachagift3v8,99.99,,,200,6,3,43200,2,432000,1,0,0
+1100101,-1,7-star Girl Training Package,Pack d'Entraînement de Filles 7 étoiles,-1,-1,7성 소녀 육성 팩,7-Sterne Ausbildungspaket,107,0,49.99,NT$,0,,,2500,2500,1100101,41,-1,,,com.carolgames.moemoegirls.7starpartnerv0,49.99,,,1,0,,28800,1,777600,1,0,0
+1100102,-1,7-star Girl Training Package,Pack d'Entraînement de Filles 7 étoiles,-1,-1,7성 소녀 육성 팩,7-Sterne Ausbildungspaket,107,0,49.99,NT$,0,,,2500,2500,1100102,41,-1,,,com.carolgames.moemoegirls.7starpartnerv0,49.99,,,2,0,,28800,1,777600,1,0,0
+1100103,-1,7-star Girl Training Package,Pack d'Entraînement de Filles 7 étoiles,-1,-1,7성 소녀 육성 팩,7-Sterne Ausbildungspaket,107,0,49.99,NT$,0,,,2500,2500,1100103,41,-1,,,com.carolgames.moemoegirls.7starpartnerv0,49.99,,,3,0,,28800,1,777600,1,0,0
+1100104,-1,7-star Girl Training Package,Pack d'Entraînement de Filles 7 étoiles,-1,-1,7성 소녀 육성 팩,7-Sterne Ausbildungspaket,107,0,49.99,NT$,0,,,2500,2500,1100104,41,-1,,,com.carolgames.moemoegirls.7starpartnerv0,49.99,,,4,0,,28800,1,777600,1,0,0
+1100201,-1,7-star Girl Training Package,Pack d'Entraînement de Filles 7 étoiles,-1,-1,7성 소녀 육성 팩,7-Sterne Ausbildungspaket,107,0,69.99,NT$,0,,,3500,3500,1100201,41,-1,,,com.carolgames.moemoegirls.7starpartnerv6,69.99,,,1,6,,28800,1,777600,1,0,0
+1100202,-1,7-star Girl Training Package,Pack d'Entraînement de Filles 7 étoiles,-1,-1,7성 소녀 육성 팩,7-Sterne Ausbildungspaket,107,0,69.99,NT$,0,,,3500,3500,1100202,41,-1,,,com.carolgames.moemoegirls.7starpartnerv6,69.99,,,2,6,,28800,1,777600,1,0,0
+1100203,-1,7-star Girl Training Package,Pack d'Entraînement de Filles 7 étoiles,-1,-1,7성 소녀 육성 팩,7-Sterne Ausbildungspaket,107,0,69.99,NT$,0,,,3500,3500,1100203,41,-1,,,com.carolgames.moemoegirls.7starpartnerv6,69.99,,,3,6,,28800,1,777600,1,0,0
+1100204,-1,7-star Girl Training Package,Pack d'Entraînement de Filles 7 étoiles,-1,-1,7성 소녀 육성 팩,7-Sterne Ausbildungspaket,107,0,69.99,NT$,0,,,3500,3500,1100204,41,-1,,,com.carolgames.moemoegirls.7starpartnerv6,69.99,,,4,6,,28800,1,777600,1,0,0
+1100301,-1,9-star Girl Training Package,Pack 2 d'Entraînement de Filles 9 étoiles- Fantôme,-1,-1,9성 소녀 육성 팩2,9-Sterne Ausbildungspaket 2,110,0,69.99,NT$,0,,,3500,3500,1100301,42,-1,,,com.carolgames.moemoegirls.9starpartner2v0,69.99,,,1,0,,43200,1,1555200,1,0,0
+1100302,-1,9-star Girl Training Package,Pack 2 d'Entraînement de Filles 9 étoiles- Humain,-1,-1,9성 소녀 육성 팩2,9-Sterne Ausbildungspaket 2,110,0,69.99,NT$,0,,,3500,3500,1100302,42,-1,,,com.carolgames.moemoegirls.9starpartner2v0,69.99,,,2,0,,43200,1,1555200,1,0,0
+1100303,-1,9-star Girl Training Package,Pack 2 d'Entraînement de Filles 9 étoiles- Monstre,-1,-1,9성 소녀 육성 팩2,9-Sterne Ausbildungspaket 2,110,0,69.99,NT$,0,,,3500,3500,1100303,42,-1,,,com.carolgames.moemoegirls.9starpartner2v0,69.99,,,3,0,,43200,1,1555200,1,0,0
+1100304,-1,9-star Girl Training Package,Pack 2 d'Entraînement de Filles 9 étoiles- Fée,-1,-1,9성 소녀 육성 팩2,9-Sterne Ausbildungspaket 2,110,0,69.99,NT$,0,,,3500,3500,1100304,42,-1,,,com.carolgames.moemoegirls.9starpartner2v0,69.99,,,4,0,,43200,1,1555200,1,0,0
+1100305,-1,9-star Girl Training Package,Pack 2 d'Entraînement de Filles 9 étoiles- Démon,-1,-1,9성 소녀 육성 팩2,9-Sterne Ausbildungspaket 2,110,0,69.99,NT$,0,,,3500,3500,1100305,42,-1,,,com.carolgames.moemoegirls.9starpartner2v0,69.99,,,5,0,,43200,1,1555200,1,0,0
+1100306,-1,9-star Girl Training Package,Pack 2 d'Entraînement de Filles 9 étoiles- Ange,-1,-1,9성 소녀 육성 팩2,9-Sterne Ausbildungspaket 2,110,0,69.99,NT$,0,,,3500,3500,1100306,42,-1,,,com.carolgames.moemoegirls.9starpartner2v0,69.99,,,6,0,,43200,1,1555200,1,0,0
+1100401,-1,9-star Girl Training Package,Pack 2 d'Entraînement de Filles 9 étoiles,-1,-1,9성 소녀 육성 팩1,9-Sterne Ausbildungspaket 1,111,0,99.99,NT$,0,,,5000,5000,1100401,43,-1,,,com.carolgames.moemoegirls.9starpartner1v0,99.99,,,1,0,,43200,1,1555200,1,0,0
+1100402,-1,9-star Girl Training Package,Pack 2 d'Entraînement de Filles 9 étoiles,-1,-1,9성 소녀 육성 팩1,9-Sterne Ausbildungspaket 1,111,0,99.99,NT$,0,,,5000,5000,1100402,43,-1,,,com.carolgames.moemoegirls.9starpartner1v0,99.99,,,2,0,,43200,1,1555200,1,0,0
+1100403,-1,9-star Girl Training Package,Pack 2 d'Entraînement de Filles 9 étoiles,-1,-1,9성 소녀 육성 팩1,9-Sterne Ausbildungspaket 1,111,0,99.99,NT$,0,,,5000,5000,1100403,43,-1,,,com.carolgames.moemoegirls.9starpartner1v0,99.99,,,3,0,,43200,1,1555200,1,0,0
+1100404,-1,9-star Girl Training Package,Pack 2 d'Entraînement de Filles 9 étoiles,-1,-1,9성 소녀 육성 팩1,9-Sterne Ausbildungspaket 1,111,0,99.99,NT$,0,,,5000,5000,1100404,43,-1,,,com.carolgames.moemoegirls.9starpartner1v0,99.99,,,4,0,,43200,1,1555200,1,0,0
+1100405,-1,9-star Girl Training Package,Pack 2 d'Entraînement de Filles 9 étoiles,-1,-1,9성 소녀 육성 팩1,9-Sterne Ausbildungspaket 1,111,0,99.99,NT$,0,,,5000,5000,1100405,43,-1,,,com.carolgames.moemoegirls.9starpartner1v0,99.99,,,5,0,,43200,1,1555200,1,0,0
+1100406,-1,9-star Girl Training Package,Pack 2 d'Entraînement de Filles 9 étoiles,-1,-1,9성 소녀 육성 팩1,9-Sterne Ausbildungspaket 1,111,0,99.99,NT$,0,,,5000,5000,1100406,43,-1,,,com.carolgames.moemoegirls.9starpartner1v0,99.99,,,6,0,,43200,1,1555200,1,0,0
+1200101,-1,Crystal Chisel Supply,Pack de Ciseau de Cristal,-1,-1,크리스탈 검 보급 팩,Versorgungs kristallmeißel,151,0,4.99,NT$,0,,,250,250,1200101,59,-1,,,com.carolgames.moemoegirls.chisel1v0,4.99,,,60,0,,28800,1,86400,1,0,0
+1200102,-1,Crystal Chisel Supply,Pack de Ciseau de Cristal,-1,-1,크리스탈 검 보급 팩,Versorgungs kristallmeißel,151,0,9.99,NT$,0,,,500,500,1200102,59,-1,,,com.carolgames.moemoegirls.chisel2v3,9.99,,,80,3,,28800,1,86400,1,0,0
+1200103,-1,Crystal Chisel Supply,Pack de Ciseau de Cristal,-1,-1,크리스탈 검 보급 팩,Versorgungs kristallmeißel,151,0,19.99,NT$,0,,,1000,1000,1200103,59,-1,,,com.carolgames.moemoegirls.chisel3v6,19.99,,,120,6,,28800,1,86400,1,0,0
+1200104,-1,Crystal Chisel Supply,Pack de Ciseau de Cristal,-1,-1,크리스탈 검 보급 팩,Versorgungs kristallmeißel,151,0,29.99,NT$,0,,,1500,1500,1200104,59,-1,,,com.carolgames.moemoegirls.chisel4v6,29.99,,,200,6,,28800,1,86400,1,0,0
+1200105,-1,Crystal Chisel Supply,Pack de Ciseau de Cristal,-1,-1,크리스탈 검 보급 팩,Versorgungs kristallmeißel,151,0,49.99,NT$,0,,,2500,2500,1200105,59,-1,,,com.carolgames.moemoegirls.chisel5v6,49.99,,,401,6,,28800,1,86400,1,0,0
+1300101,-1,Lunchbox Supply,Pack de Restauration,-1,-1,도시락 보급 팩,Versorgungs brotdosen,152,0,4.99,NT$,0,,,250,250,1300101,60,-1,,,com.carolgames.moemoegirls.lunchbox1v0,4.99,,,60,0,,28800,1,86400,1,0,0
+1300102,-1,Lunchbox Supply,Pack de Restauration,-1,-1,도시락 보급 팩,Versorgungs brotdosen,152,0,9.99,NT$,0,,,500,500,1300102,60,-1,,,com.carolgames.moemoegirls.lunchbox2v3,9.99,,,80,3,,28800,1,86400,1,0,0
+1300103,-1,Lunchbox Supply,Pack de Restauration,-1,-1,도시락 보급 팩,Versorgungs brotdosen,152,0,19.99,NT$,0,,,1000,1000,1300103,60,-1,,,com.carolgames.moemoegirls.lunchbox3v6,19.99,,,120,6,,28800,1,86400,1,0,0
+1300104,-1,Lunchbox Supply,Pack de Restauration,-1,-1,도시락 보급 팩,Versorgungs brotdosen,152,0,29.99,NT$,0,,,1500,1500,1300104,60,-1,,,com.carolgames.moemoegirls.lunchbox4v6,29.99,,,200,6,,28800,1,86400,1,0,0
+1300105,-1,Lunchbox Supply,Pack de Restauration,-1,-1,도시락 보급 팩,Versorgungs brotdosen,152,0,49.99,NT$,0,,,2500,2500,1300105,60,-1,,,com.carolgames.moemoegirls.lunchbox5v6,49.99,,,401,6,,28800,1,86400,1,0,0
+1400101,-1,Servant Cookies Supply,Pack de Biscuits,-1,-1,비스킷 보급,Versorgungs kekse,153,0,4.99,NT$,0,,,250,250,1400101,61,-1,,,com.carolgames.moemoegirls.cookie1v0,4.99,,,,0,,14400,1,604800,1,0,0
+1400102,-1,Servant Cookies Supply,Pack de Biscuits,-1,-1,비스킷 보급,Versorgungs kekse,153,0,9.99,NT$,0,,,500,500,1400102,61,-1,,,com.carolgames.moemoegirls.cookie1v2,9.99,,,,2,,14400,1,604800,1,0,0
+1400103,-1,Servant Cookies Supply,Pack de Biscuits,-1,-1,비스킷 보급,Versorgungs kekse,153,0,29.99,NT$,0,,,1500,1500,1400103,61,-1,,,com.carolgames.moemoegirls.cookie1v4,29.99,,,,4,,14400,1,604800,1,0,0
+1400104,-1,Servant Cookies Supply,Pack de Biscuits,-1,-1,비스킷 보급,Versorgungs kekse,153,0,49.99,NT$,0,,,2500,2500,1400104,61,-1,,,com.carolgames.moemoegirls.cookie1v8,49.99,,,,8,,14400,1,604800,1,0,0
+1400201,-1,Servant Cookies Supply,Pack de Biscuits,-1,-1,비스킷 보급,Versorgungs kekse,153,0,4.99,NT$,0,,,250,250,1400201,62,-1,,,com.carolgames.moemoegirls.cookie2v0,4.99,,,,0,,14400,1,604800,1,0,0
+1400202,-1,Servant Cookies Supply,Pack de Biscuits,-1,-1,비스킷 보급,Versorgungs kekse,153,0,9.99,NT$,0,,,500,500,1400202,62,-1,,,com.carolgames.moemoegirls.cookie2v2,9.99,,,,2,,14400,1,604800,1,0,0
+1400203,-1,Servant Cookies Supply,Pack de Biscuits,-1,-1,비스킷 보급,Versorgungs kekse,153,0,29.99,NT$,0,,,1500,1500,1400203,62,-1,,,com.carolgames.moemoegirls.cookie2v4,29.99,,,,4,,14400,1,604800,1,0,0
+1400204,-1,Servant Cookies Supply,Pack de Biscuits,-1,-1,비스킷 보급,Versorgungs kekse,153,0,49.99,NT$,0,,,2500,2500,1400204,62,-1,,,com.carolgames.moemoegirls.cookie2v8,49.99,,,,8,,14400,1,604800,1,0,0
+1400301,-1,Servant Cookies Supply,Pack de Biscuits,-1,-1,비스킷 보급,Versorgungs kekse,153,0,4.99,NT$,0,,,250,250,1400301,63,-1,,,com.carolgames.moemoegirls.cookie3v0,4.99,,,,0,,14400,1,604800,1,0,0
+1400302,-1,Servant Cookies Supply,Pack de Biscuits,-1,-1,비스킷 보급,Versorgungs kekse,153,0,9.99,NT$,0,,,500,500,1400302,63,-1,,,com.carolgames.moemoegirls.cookie3v2,9.99,,,,2,,14400,1,604800,1,0,0
+1400303,-1,Servant Cookies Supply,Pack de Biscuits,-1,-1,비스킷 보급,Versorgungs kekse,153,0,29.99,NT$,0,,,1500,1500,1400303,63,-1,,,com.carolgames.moemoegirls.cookie3v4,29.99,,,,4,,14400,1,604800,1,0,0
+1400304,-1,Servant Cookies Supply,Pack de Biscuits,-1,-1,비스킷 보급,Versorgungs kekse,153,0,49.99,NT$,0,,,2500,2500,1400304,63,-1,,,com.carolgames.moemoegirls.cookie3v8,49.99,,,,8,,14400,1,604800,1,0,0
+1500101,-1,House Ghost Supply,Approvisionnement Fantôme,-1,-1,은신 보급,Geister versorgung,154,0,19.99,NT$,0,,,1000,1000,1500101,64,-1,,,com.carolgames.moemoegirls.ghost1,19.99,,,20,0,,43200,1,,1,0,0
+1500102,-1,House Ghost Supply,Approvisionnement Fantôme,-1,-1,은신 보급,Geister versorgung,154,0,29.99,NT$,0,,,1500,1500,1500102,64,-1,,,com.carolgames.moemoegirls.ghost2,29.99,,,40,0,,43200,1,,1,0,0
+1500103,-1,House Ghost Supply,Approvisionnement Fantôme,-1,-1,은신 보급,Geister versorgung,154,0,49.99,NT$,0,,,2500,2500,1500103,64,-1,,,com.carolgames.moemoegirls.ghost3,49.99,,,60,0,,43200,1,,1,0,0
+1500104,-1,House Ghost Supply,Approvisionnement Fantôme,-1,-1,은신 보급,Geister versorgung,154,0,69.99,NT$,0,,,3500,3500,1500104,64,-1,,,com.carolgames.moemoegirls.ghost4,69.99,,,80,0,,43200,1,,1,0,0
+1500201,-1,House Human Supply,Approvisionnement Humain,-1,-1,신위 보급,Menschen versorgung,154,0,19.99,NT$,0,,,1000,1000,1500201,65,-1,,,com.carolgames.moemoegirls.human1,19.99,,,20,0,,43200,1,,1,0,0
+1500202,-1,House Human Supply,Approvisionnement Humain,-1,-1,신위 보급,Menschen versorgung,154,0,29.99,NT$,0,,,1500,1500,1500202,65,-1,,,com.carolgames.moemoegirls.human2,29.99,,,40,0,,43200,1,,1,0,0
+1500203,-1,House Human Supply,Approvisionnement Humain,-1,-1,신위 보급,Menschen versorgung,154,0,49.99,NT$,0,,,2500,2500,1500203,65,-1,,,com.carolgames.moemoegirls.human3,49.99,,,60,0,,43200,1,,1,0,0
+1500204,-1,House Human Supply,Approvisionnement Humain,-1,-1,신위 보급,Menschen versorgung,154,0,69.99,NT$,0,,,3500,3500,1500204,65,-1,,,com.carolgames.moemoegirls.human4,69.99,,,80,0,,43200,1,,1,0,0
+1500301,-1,House Monster Supply,Approvisionnement Monstre,-1,-1,풍견 보급,Monster versorgung,154,0,19.99,NT$,0,,,1000,1000,1500301,66,-1,,,com.carolgames.moemoegirls.monster1,19.99,,,20,0,,43200,1,,1,0,0
+1500302,-1,House Monster Supply,Approvisionnement Monstre,-1,-1,풍견 보급,Monster versorgung,154,0,29.99,NT$,0,,,1500,1500,1500302,66,-1,,,com.carolgames.moemoegirls.monster2,29.99,,,40,0,,43200,1,,1,0,0
+1500303,-1,House Monster Supply,Approvisionnement Monstre,-1,-1,풍견 보급,Monster versorgung,154,0,49.99,NT$,0,,,2500,2500,1500303,66,-1,,,com.carolgames.moemoegirls.monster3,49.99,,,60,0,,43200,1,,1,0,0
+1500304,-1,House Monster Supply,Approvisionnement Monstre,-1,-1,풍견 보급,Monster versorgung,154,0,69.99,NT$,0,,,3500,3500,1500304,66,-1,,,com.carolgames.moemoegirls.monster4,69.99,,,80,0,,43200,1,,1,0,0
+1500401,-1,House Fairy Supply,Approvisionnement Fée,-1,-1,담화 보급,Feen versorgung,154,0,19.99,NT$,0,,,1000,1000,1500401,67,-1,,,com.carolgames.moemoegirls.fairy1,19.99,,,20,0,,43200,1,,1,0,0
+1500402,-1,House Fairy Supply,Approvisionnement Fée,-1,-1,담화 보급,Feen versorgung,154,0,29.99,NT$,0,,,1500,1500,1500402,67,-1,,,com.carolgames.moemoegirls.fairy2,29.99,,,40,0,,43200,1,,1,0,0
+1500403,-1,House Fairy Supply,Approvisionnement Fée,-1,-1,담화 보급,Feen versorgung,154,0,49.99,NT$,0,,,2500,2500,1500403,67,-1,,,com.carolgames.moemoegirls.fairy3,49.99,,,60,0,,43200,1,,1,0,0
+1500404,-1,House Fairy Supply,Approvisionnement Fée,-1,-1,담화 보급,Feen versorgung,154,0,69.99,NT$,0,,,3500,3500,1500404,67,-1,,,com.carolgames.moemoegirls.fairy4,69.99,,,80,0,,43200,1,,1,0,0
+1500501,-1,House Demon Supply,Approvisionnement Démon,-1,-1,수라 보급,Dämonen versorgung,154,0,19.99,NT$,0,,,1000,1000,1500501,68,-1,,,com.carolgames.moemoegirls.demon1,19.99,,,20,0,,43200,1,,1,0,0
+1500502,-1,House Demon Supply,Approvisionnement Démon,-1,-1,수라 보급,Dämonen versorgung,154,0,29.99,NT$,0,,,1500,1500,1500502,68,-1,,,com.carolgames.moemoegirls.demon2,29.99,,,40,0,,43200,1,,1,0,0
+1500503,-1,House Demon Supply,Approvisionnement Démon,-1,-1,수라 보급,Dämonen versorgung,154,0,49.99,NT$,0,,,2500,2500,1500503,68,-1,,,com.carolgames.moemoegirls.demon3,49.99,,,60,0,,43200,1,,1,0,0
+1500504,-1,House Demon Supply,Approvisionnement Démon,-1,-1,수라 보급,Dämonen versorgung,154,0,69.99,NT$,0,,,3500,3500,1500504,68,-1,,,com.carolgames.moemoegirls.demon4,69.99,,,80,0,,43200,1,,1,0,0
+1500601,-1,House Angel Supply,Approvisionnement Ange,-1,-1,진성 보급,Engel versorgung,154,0,19.99,NT$,0,,,1000,1000,1500601,69,-1,,,com.carolgames.moemoegirls.angel1,19.99,,,20,0,,43200,1,,1,0,0
+1500602,-1,House Angel Supply,Approvisionnement Ange,-1,-1,진성 보급,Engel versorgung,154,0,29.99,NT$,0,,,1500,1500,1500602,69,-1,,,com.carolgames.moemoegirls.angel2,29.99,,,40,0,,43200,1,,1,0,0
+1500603,-1,House Angel Supply,Approvisionnement Ange,-1,-1,진성 보급,Engel versorgung,154,0,49.99,NT$,0,,,2500,2500,1500603,69,-1,,,com.carolgames.moemoegirls.angel3,49.99,,,60,0,,43200,1,,1,0,0
+1500604,-1,House Angel Supply,Approvisionnement Ange,-1,-1,진성 보급,Engel versorgung,154,0,69.99,NT$,0,,,3500,3500,1500604,69,-1,,,com.carolgames.moemoegirls.angel4,69.99,,,80,0,,43200,1,,1,0,0
+1600101,-1,Estel's Development 1,Évolutiond'Estelle - 1,-1,-1,졸업하자 피피로1,Mädchen-Wachstumspaket 1,197,0,4.99,NT$,0,,,250,250,1600101,85,-1,,,com.carolgames.moemoegirls.graduate1,4.99,,,6,0,,,2,,1,0,0
+1600102,-1,Estel's Development 2,Évolutiond'Estelle - 2,-1,-1,졸업하자 피피로2,Mädchen-Wachstumspaket 2,197,0,19.99,NT$,0,,,1000,1000,1600102,85,-1,,,com.carolgames.moemoegirls.graduate2,19.99,,,8,0,,,1,,1,0,0
+1600103,-1,Estel's Development 3,Évolutiond'Estelle - 3,-1,-1,졸업하자 피피로3,Mädchen-Wachstumspaket 3,197,0,49.99,NT$,0,,,2500,2500,1600103,85,-1,,,com.carolgames.moemoegirls.graduate3,49.99,,,9,0,,,1,,1,0,0
+1600104,-1,Estel's Development 4,Évolutiond'Estelle - 4,-1,-1,졸업하자 피피로4,Mädchen-Wachstumspaket 4,197,0,49.99,NT$,0,,,2500,2500,1600104,85,-1,,,com.carolgames.moemoegirls.graduate4,49.99,,,10,0,,,1,,1,0,0
+1600105,-1,Estel's Development 5,Évolutiond'Estelle - 5,-1,-1,졸업하자 피피로5,Mädchen-Wachstumspaket 5,197,0,49.99,NT$,0,,,2500,2500,1600105,85,-1,,,com.carolgames.moemoegirls.graduate5,49.99,,,12,0,,,1,,1,0,0
+1600106,-1,Estel's Development 6,Évolutiond'Estelle - 6,-1,-1,졸업하자 피피로6,Mädchen-Wachstumspaket 6,197,0,49.99,NT$,0,,,2500,2500,1600106,85,-1,,,com.carolgames.moemoegirls.graduate6,49.99,,,13,0,,,1,,1,0,0
+1600107,-1,Estel's Development 7,Évolutiond'Estelle - 7,-1,-1,졸업하자 피피로7,Mädchen-Wachstumspaket 7,197,0,79.99,NT$,0,,,4000,4000,1600107,85,-1,,,com.carolgames.moemoegirls.graduate7,79.99,,,14,0,,,1,,1,0,0
+1700101,-1,LV. 25 Customized Supply,Offre Personnalisée Niv.25,-1,-1,Lv.25 맞춤형 보급,Sonderwachstumspaket Lv.25,215,0,1.99,NT$,0,,,100,100,1700101,91,-1,,,com.carolgames.moemoegirls.push.optional1,1.99,,,25,0,,14400,1,,1,0,0
+1700201,-1,LV. 40 Customized Supply,Offre Personnalisée Niv.40,-1,-1,Lv.40 맞춤형 보급,Sonderwachstumspaket Lv.40,215,0,4.99,NT$,0,,,250,250,1700201,91,-1,,,com.carolgames.moemoegirls.push.optional2,4.99,,,40,0,,28800,1,,1,0,0
+1700301,-1,LV. 53 Customized Supply,Offre Personnalisée Niv.53,-1,-1,Lv.53 맞춤형 보급,Sonderwachstumspaket Lv.53,215,0,9.99,NT$,0,,,500,500,1700301,91,-1,,,com.carolgames.moemoegirls.push.optional3,9.99,,,53,0,,28800,1,,1,0,0
+1700401,-1,LV. 68 Customized Supply,Offre Personnalisée Niv.68,-1,-1,Lv.68 맞춤형 보급,Sonderwachstumspaket Lv.68,215,0,19.99,NT$,0,,,1000,1000,1700401,91,-1,,,com.carolgames.moemoegirls.push.optional4,19.99,,,68,0,,72000,1,,1,0,0
+1700501,-1,LV. 85 Customized Supply,Offre Personnalisée Niv.85,-1,-1,Lv.85 맞춤형 보급,Sonderwachstumspaket Lv.85,215,0,29.99,NT$,0,,,1500,1500,1700501,91,-1,,,com.carolgames.moemoegirls.push.optional5,29.99,,,85,2,,72000,1,,1,0,0
+1700601,-1,LV. 95 Customized Supply,Offre Personnalisée Niv.95,-1,-1,Lv.95 맞춤형 보급,Sonderwachstumspaket Lv.95,215,0,29.99,NT$,0,,,1500,1500,1700601,91,-1,,,com.carolgames.moemoegirls.push.optional6,29.99,,,95,2,,86400,1,,1,0,0
+1700701,-1,LV. 110 Customized Supply,Offre Personnalisée Niv.110,-1,-1,Lv.110 맞춤형 보급,Sonderwachstumspaket Lv.110,215,0,49.99,NT$,0,,,2500,2500,1700701,91,-1,,,com.carolgames.moemoegirls.push.optional7,49.99,,,110,2,,86400,1,,1,0,0
+1700801,-1,LV. 135 Customized Supply,Offre Personnalisée Niv.135,-1,-1,Lv.135 맞춤형 보급,Sonderwachstumspaket Lv.135,215,0,69.99,NT$,0,,,3500,3500,1700801,91,-1,,,com.carolgames.moemoegirls.push.optional8,69.99,,,135,2,,86400,1,,1,0,0
+1700901,-1,LV. 140 Customized Supply,Offre Personnalisée Niv.140,-1,-1,Lv.140 맞춤형 보급,Sonderwachstumspaket Lv.140,215,0,99.99,NT$,0,,,5000,5000,1700901,91,-1,,,com.carolgames.moemoegirls.push.optional9,99.99,,,140,2,,86400,1,,1,0,0
+1701001,-1,LV. 155 Customized Supply,Offre Personnalisée Niv.155,-1,-1,Lv.155 맞춤형 보급,Sonderwachstumspaket Lv.155,215,0,79.99,NT$,0,,,4000,4000,1701001,91,-1,,,com.carolgames.moemoegirls.push.optional10,79.99,,,155,3,,86400,1,,1,0,0
+1701101,-1,LV. 165 Customized Supply,Offre Personnalisée Niv.165,-1,-1,Lv.165 맞춤형 보급,Sonderwachstumspaket Lv.165,215,0,79.99,NT$,0,,,4000,4000,1701101,91,-1,,,com.carolgames.moemoegirls.push.optional11,79.99,,,165,3,,86400,1,,1,0,0
+1701201,-1,LV. 180 Customized Supply,Offre Personnalisée Niv.180,-1,-1,Lv.180 맞춤형 보급,Sonderwachstumspaket Lv.180,215,0,79.99,NT$,0,,,4000,4000,1701201,91,-1,,,com.carolgames.moemoegirls.push.optional12,79.99,,,180,3,,86400,1,,1,0,0
+1701301,-1,LV. 15 Customized Supply,Offre Personnalisée Niv.15,-1,-1,Lv.15 맞춤형 보급,Sonderwachstumspaket Lv.15,215,0,1.99,NT$,0,,,100,100,1701301,91,-1,,,com.carolgames.moemoegirls.push.optional13,1.99,,,15,0,,14400,1,,1,0,0
+1701401,-1,LV. 35 Customized Supply,Offre Personnalisée Niv.35,-1,-1,Lv.35 맞춤형 보급,Sonderwachstumspaket Lv.35,215,0,4.99,NT$,0,,,250,250,1701401,91,-1,,,com.carolgames.moemoegirls.push.optional14,4.99,,,35,0,,28800,1,,1,0,0
+1701501,-1,LV. 48 Customized Supply,Offre Personnalisée Niv.48,-1,-1,Lv.48 맞춤형 보급,Sonderwachstumspaket Lv.48,215,0,9.99,NT$,0,,,500,500,1701501,91,-1,,,com.carolgames.moemoegirls.push.optional15,9.99,,,48,0,,28800,1,,1,0,0
+1701601,-1,LV. 58 Customized Supply,Offre Personnalisée Niv.58,-1,-1,Lv.58 맞춤형 보급,Sonderwachstumspaket Lv.58,215,0,29.99,NT$,0,,,1500,1500,1701601,91,-1,,,com.carolgames.moemoegirls.push.optional16,29.99,,,58,0,,72000,1,,1,0,0
+1701701,-1,LV. 78 Customized Supply,Offre Personnalisée Niv.78,-1,-1,Lv.78 맞춤형 보급,Sonderwachstumspaket Lv.78,215,0,29.99,NT$,0,,,1500,1500,1701701,91,-1,,,com.carolgames.moemoegirls.push.optional17,29.99,,,78,1,,72000,1,,1,0,0
+1701801,-1,LV. 90 Customized Supply,Offre Personnalisée Niv.90,-1,-1,Lv.90 맞춤형 보급,Sonderwachstumspaket Lv.90,215,0,29.99,NT$,0,,,1500,1500,1701801,91,-1,,,com.carolgames.moemoegirls.push.optional18,29.99,,,90,2,,86400,1,,1,0,0
+1701901,-1,LV. 115 Customized Supply,Offre Personnalisée Niv.115,-1,-1,Lv.115 맞춤형 보급,Sonderwachstumspaket Lv.115,215,0,29.99,NT$,0,,,1500,1500,1701901,91,-1,,,com.carolgames.moemoegirls.push.optional19,29.99,,,115,2,,86400,1,,1,0,0
+1702001,-1,LV. 125 Customized Supply,Offre Personnalisée Niv.125,-1,-1,Lv.125 맞춤형 보급,Sonderwachstumspaket Lv.125,215,0,29.99,NT$,0,,,1500,1500,1702001,91,-1,,,com.carolgames.moemoegirls.push.optional20,29.99,,,125,2,,86400,1,,1,0,0
+1702101,-1,LV. 100 Customized Supply,Offre Personnalisée Niv.100,-1,-1,Lv.100 맞춤형 보급,Sonderwachstumspaket Lv.100,215,0,49.99,NT$,0,,,2500,2500,1702101,91,-1,,,com.carolgames.moemoegirls.push.optional21,49.99,,,100,2,,86400,1,,1,0,0
+1702201,-1,LV. 105 Customized Supply,Offre Personnalisée Niv.105,-1,-1,Lv.105 맞춤형 보급,Sonderwachstumspaket Lv.105,215,0,49.99,NT$,0,,,2500,2500,1702201,91,-1,,,com.carolgames.moemoegirls.push.optional22,49.99,,,105,2,,86400,1,,1,0,0
+1702301,-1,LV. 120 Customized Supply,Offre Personnalisée Niv.120,-1,-1,Lv.120 맞춤형 보급,Sonderwachstumspaket Lv.120,215,0,49.99,NT$,0,,,2500,2500,1702301,91,-1,,,com.carolgames.moemoegirls.push.optional23,49.99,,,120,2,,86400,1,,1,0,0
+1702401,-1,LV. 130 Customized Supply,Offre Personnalisée Niv.130,-1,-1,Lv.130 맞춤형 보급,Sonderwachstumspaket Lv.130,215,0,49.99,NT$,0,,,2500,2500,1702401,91,-1,,,com.carolgames.moemoegirls.push.optional24,49.99,,,130,2,,86400,1,,1,0,0
+1702501,-1,LV. 145 Customized Supply,Offre Personnalisée Niv.145,-1,-1,Lv.145 맞춤형 보급,Sonderwachstumspaket Lv.145,215,0,49.99,NT$,0,,,2500,2500,1702501,91,-1,,,com.carolgames.moemoegirls.push.optional25,49.99,,,145,2,,86400,1,,1,0,0
+1702601,-1,LV. 170 Customized Supply,Offre Personnalisée Niv.170,-1,-1,Lv.170 맞춤형 보급,Sonderwachstumspaket Lv.170,215,0,49.99,NT$,0,,,2500,2500,1702601,91,-1,,,com.carolgames.moemoegirls.push.optional26,49.99,,,170,2,,86400,1,,1,0,0
+1702701,-1,LV. 150 Customized Supply,Offre Personnalisée Niv.150,-1,-1,Lv.150 맞춤형 보급,Sonderwachstumspaket Lv.150,215,0,69.99,NT$,0,,,3500,3500,1702701,91,-1,,,com.carolgames.moemoegirls.push.optional27,69.99,,,150,2,,86400,1,,1,0,0
+1702801,-1,LV. 175 Customized Supply,Offre Personnalisée Niv.175,-1,-1,Lv.175 맞춤형 보급,Sonderwachstumspaket Lv.175,215,0,69.99,NT$,0,,,3500,3500,1702801,91,-1,,,com.carolgames.moemoegirls.push.optional28,69.99,,,175,2,,86400,1,,1,0,0
+1702901,-1,LV. 190 Customized Supply,Offre Personnalisée Niv.190,-1,-1,Lv.190 맞춤형 보급,Sonderwachstumspaket Lv.190,215,0,69.99,NT$,0,,,3500,3500,1702901,91,-1,,,com.carolgames.moemoegirls.push.optional29,69.99,,,190,2,,86400,1,,1,0,0
+1703001,-1,LV. 195 Customized Supply,Offre Personnalisée Niv.195,-1,-1,Lv.195 맞춤형 보급,Sonderwachstumspaket Lv.195,215,0,79.99,NT$,0,,,4000,4000,1703001,91,-1,,,com.carolgames.moemoegirls.push.optional30,79.99,,,195,3,,86400,1,,1,0,0
+1703101,-1,LV. 160 Customized Supply,Offre Personnalisée Niv.160,-1,-1,Lv.160 맞춤형 보급,Sonderwachstumspaket Lv.160,215,0,99.99,NT$,0,,,5000,5000,1703101,91,-1,,,com.carolgames.moemoegirls.push.optional31,99.99,,,160,3,,86400,1,,1,0,0
+1703201,-1,LV. 185 Customized Supply,Offre Personnalisée Niv.185,-1,-1,Lv.185 맞춤형 보급,Sonderwachstumspaket Lv.185,215,0,99.99,NT$,0,,,5000,5000,1703201,91,-1,,,com.carolgames.moemoegirls.push.optional32,99.99,,,185,3,,86400,1,,1,0,0
+1703301,-1,LV. 200 Customized Supply,Offre Personnalisée Niv.200,-1,-1,Lv.200 맞춤형 보급,Sonderwachstumspaket Lv.200,215,0,99.99,NT$,0,,,5000,5000,1703301,91,-1,,,com.carolgames.moemoegirls.push.optional33,99.99,,,200,3,,86400,1,,1,0,0

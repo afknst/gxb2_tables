@@ -1,0 +1,3196 @@
+id,name,brief,desc
+1,Coin,Currency,Regular Currency
+2,Gem,Currency,The most valuable rare Currency.
+3,EXP,EXP,Use to upgrade Player Level
+4,Guild Coin,Guild Coin,Use to buy items in the Guild Store.
+5,Guild EXP,Guild EXP,Use to upgrade Guild Level.
+6,Coupon,Coupon,Use to buy items in the Lucky Store in Regular Slot.
+7,Class List,Currency for Purchasing Girls,Used to exchange girls in Transfer Store
+8,VIP EXP,VIP EXP,
+9,EXP Juice,Girl Level EXP,Used to upgrade a Girl's level in their attribute screen
+10,Lunch Box,Girl Upgrade Material,Used to upgrade a girl in the Girls section
+11,Heart,Currency for BFF Capsules,Send and claim from Other Players in Friend List. Used to summon Girls in BFF Capsule.
+12,Golden Egg Capsule points,Golden Egg Capsule points,
+13,Test Permit,Tests Hall Pass,Used to fight a battle in Test Hall in Trials
+14,Crystal Chisel,Materials for Upgrading Crystals,Used to upgrade a Crystal in Girl's Gear screen.
+15,Sacred Page,Sanctuary Store Token,Used to exchange items in Sanctuary Store
+16,League Coin,League Store token,Used to exchange items at League Store
+17,League Chest,Open automatically via Mail,"Randomly get Coins, EXP Juice, Lunch Boxes, Legendary Gear, Girl Shards, and other rare items."
+18,Bread,Stamina item,Used to raid a Guild mill.
+19,Portfolio,Girl Exchange Material,Used to exchange Girl in Enroll
+20,Seal,Item used for Summoning Girls,Can summon a 4-star Girl (or higher) or Girl Shards in Enroll
+22,1-star Red Antique Chest,Antique Chest,Randomly get 1-star Red Artifact after purchasing.
+23,1-star Green Antique Chest,Antique Chest,Randomly get 1-star Green Artifact after purchasing.
+24,Internship Scroll,Internship Scroll,Randomly add one 1-star to 4-star available internship after using it in Internship.
+25,Advance Internship Scroll,Internship Scroll,Randomly add one 4-star to 7-star available internship after using it in Internship.
+26,Servant Cookie,Servant Material,"Used to raise, train, and evolve Servants"
+27,Spirit Cookie,Servant Material,Used for upgrading your Servant's Aura
+28,Hourglass,Practical Work Tickets,Used to participate in Practical Work
+29,Super Slot Ticket,Super Slot Ticket,Each round of High Stake Slot Machine costs 1 Super Slot Ticket.
+30,Avatar,Special Avatar,blank
+31,Construction Material,Building Material,Material to construct
+32,Girls exchange material,Girl Exchange Material,Use for replacing 10-star Girl
+33,Capsule Coin,Summoning Item,Used to summon Girls at Regular Capsule
+34,League Ticket,League Ticket,Used to fight League battles.
+35,Slot Ticket,Regular Slot\nMachine Ticket,Each round of Regular Slot Machine costs 1 Slot Ticket.
+36,Adv. Capsule Coin,Summoning Item,Used to summon Girls at Advance Capsule
+37,Cookies,Exchange Material,Event material for exchanging rewards during events.
+38,Moon Cake,Exchange Material,Event material for exchanging rewards during events.
+39,Manual Battery,Event Material,"The Girls made these batteries by hand. They weren't very careful in the process, but it deals heavy damage to any Boss."
+40,Energy,Event Material,Used to move puzzle pieces in jigsaw events
+41,Snowman,Event Material,"Exclusive items that can be exchanged for rewards during events. These items can no longer be exchanged once the event ends, so please use them all during the event."
+42,Christmas Stockings,Event Material,"Exclusive items that can be exchanged for rewards during events. These items can no longer be exchanged once the event ends, so please use them all during the event."
+43,Gift Box,Gift Box,A mysterious box that contains 1 random gift and several gift shards.
+44,Gift Shard,Gift Shard,Shards made of mysterious crystals. They can be acquired from gift boxes to be used as a materials to make various kinds of gifts.
+45,Oath Ring,Oath Item,It can be used in Date to form an oath once Girl's intimacy reaches 100.
+46,Spring Festival Firecracker,Event Material,Material for making exchanges for rewards during events.
+47,Diploma,Girl Replace Material,Used to Exchange or Reverse 10-Star girls
+48,Heart Balloon,Exchange Material,Material for making exchanges for rewards during events.
+49,Bone Biscuit,Event Material,Used for increasing intimacy of your Servant.
+50,Easter Bunny,Event Material,Exclusive item that can be exchanged for rewards during its corresponding event.
+51,Vote Ticket,Event Material,Exclusive items that can be used to vote in Winning Heart.
+52,Decoration Budget,Event Material,The item used to help the girls finish their decoration mission.
+53,Orientation Coupon,Event Material,"The exclusive item to exchange the Orientation Gift. The exchange will be closed after the event is over, please use it in time!"
+54,Gear Supply Card,Event Material,Rare gear can be exchanged for equipment supplies.
+1001,1st. Arena Event Frame,Special Avatar,1st. Limited portrait in Arena.
+1002,Solar Avatar,Special Avatar,Champion Avatar of Elite League.
+1003,Lunar Avatar,Special Avatar,Runner-up Avatar of Elite League.
+1004,Gold Avatar,Special Avatar,Gold Avatar of Elite League.
+1005,Silver Avatar,Special Avatar,Rank 4-10 Avatar of Elite League.
+1006,Bronze Avatar,Special Avatar,Rank 11-20 Avatar of Elite League.
+1007,Halloween Avatar,Special Avatar,Halloween special avatar by finishing all missions in Halloween Arena.
+1008,Jigsaw Special Avatar,Special Avatar,Complete the Jigsaw event to win a special avatar.
+1009,New year avatar,Special Avatar,Limited avatar of new year
+1010,Snow Exclusive,Special Avatar,An exclusive avatar that is acquired once you completed all tasks in League.
+1013,Limited Time Avatar,Special Avatar,An exclusive avatar that is acquired once you completed all tasks in League.
+1014,Spring Festival Exclusive avatar,Special Avatar,Spring Festival Special Avatar
+1015,“Miss Fortune”: Unlucky,Special Avatar,No 5-star girl acquired after 200 consecutive Adv. Capsule draws
+1016,“Miss Fortune”: Poor,Special Avatar,No 5-star girl acquired after 300 consecutive Adv. Capsule draws
+1017,“Miss Fortune”: Cursed,Special Avatar,No 5-star girl acquired after 400 consecutive Adv. Capsule draws
+1018,Spring Exclusive Avatar,Special Avatar,An exclusive avatar that is acquired once you completed all tasks in League.
+1019,Oath Avatar,Special Avatar,An exclusive avatar that is acquired once you completed all tasks in League.
+1020,Easter Avatar,Special Avatar,Special Avatar of Easter
+1023,Mother's Day Avatar,Special Avatar,Special Avatar of Mother's Day
+1024,Opening Ceremony Avatar,Special Avatar,Special Avatar of Opening Ceremony
+1025,Dragon Boat Festival Avatar,Special Avatar,Exclusive avatar acquired by completing all missions of Arena Ace
+2001,Riceball,Item,Heal Girl for (20% of Maximum) HP
+2002,Jujube Riceball,Item,Heal Girl for (50% of Maximum) HP & gain 300 Energy of Girls.
+2003,Meat Riceball,Item,Heal Girl for (100% of Maximum) HP
+2004,Pencil,Item,Add 1.5% Attack
+2005,Eraser,Item,Add 2% Crit DMG
+2006,Ruler,Item,Add 2% Crit Rate
+930000,1-star Skarivine,Summon Girl,Collect 5 shards to summon the girl.
+930001,1-star Cayla,Summon Girl,Collect 5 shards to summon the girl.
+930002,1-star Vanees,Summon Girl,Collect 5 shards to summon the girl.
+930003,1-star Maidam,Summon Girl,Collect 5 shards to summon the girl.
+930004,1-star Aegis,Summon Girl,Collect 5 shards to summon the girl.
+930005,1-star Handana,Summon Girl,Collect 5 shards to summon the girl.
+930006,1-star Lin AI,Summon Girl,Collect 5 shards to summon the girl.
+930007,1-star Witch,Summon Girl,Collect 5 shards to summon the girl.
+930008,1-star Stella,Summon Girl,Collect 5 shards to summon the girl.
+930009,1-star Elloi,Summon Girl,Collect 5 shards to summon the girl.
+930010,1-star Veila,Summon Girl,Collect 5 shards to summon the girl.
+930011,1-star Yuri,Summon Girl,Collect 5 shards to summon the girl.
+930012,2-star Talia,Summon Girl,Collect 10 shards to summon the girl.
+930013,2-star Nasha,Summon Girl,Collect 10 shards to summon the girl.
+930014,2-star Hancer,Summon Girl,Collect 10 shards to summon the girl.
+930015,2-star Nono,Summon Girl,Collect 10 shards to summon the girl.
+930016,2-star Roselle,Summon Girl,Collect 10 shards to summon the girl.
+930017,2-star Hynel,Summon Girl,Collect 10 shards to summon the girl.
+930018,2-star Fleur,Summon Girl,Collect 10 shards to summon the girl.
+930019,2-star Meimi,Summon Girl,Collect 10 shards to summon the girl.
+930020,2-star Boro,Summon Girl,Collect 10 shards to summon the girl.
+930021,2-star Lana,Summon Girl,Collect 10 shards to summon the girl.
+930022,2-star Sasuke,Summon Girl,Collect 10 shards to summon the girl.
+930023,2-star Shamoke,Summon Girl,Collect 10 shards to summon the girl.
+930024,2-star Pyra,Summon Girl,Collect 10 shards to summon the girl.
+930025,2-star Octagirl,Summon Girl,Collect 10 shards to summon the girl.
+930026,2-star Aeris,Summon Girl,Collect 10 shards to summon the girl.
+930027,2-star Puny,Summon Girl,Collect 10 shards to summon the girl.
+930028,3-star Poppi,Summon Girl,Collect 20 shards to summon the girl.
+930029,3-star Jade,Summon Girl,Collect 20 shards to summon the girl.
+930030,3-star Ursula,Summon Girl,Collect 20 shards to summon the girl.
+930031,3-star Kitty,Summon Girl,Collect 20 shards to summon the girl.
+930032,3-star Samurai,Summon Girl,Collect 20 shards to summon the girl.
+930033,3-star Tula,Summon Girl,Collect 20 shards to summon the girl.
+930034,3-star Edward,Summon Girl,Collect 20 shards to summon the girl.
+930035,3-star King,Summon Girl,Collect 20 shards to summon the girl.
+930036,3-star Donna,Summon Girl,Collect 20 shards to summon the girl.
+930037,3-star Nobuna Shard,Summon Girl,Collect 20 shards to summon the girl.
+930038,3-star Annabelle,Summon Girl,Collect 20 shards to summon the girl.
+930039,3-star Harley,Summon Girl,Collect 20 shards to summon the girl.
+930040,3-star Magician,Summon Girl,Collect 20 shards to summon the girl.
+930041,3-star Caitlin,Summon Girl,Collect 20 shards to summon the girl.
+930042,3-star Marynari Shard,Summon Girl,Collect 20 shards to summon the girl.
+930043,3-star Robin,Summon Girl,Collect 20 shards to summon the girl.
+930044,3-star Sisha,Summon Girl,Collect 20 shards to summon the girl.
+930045,3-star Mythra,Summon Girl,Collect 20 shards to summon the girl.
+930046,3-star Athena,Summon Girl,Collect 20 shards to summon the girl.
+930047,3-star Kenshin,Summon Girl,Collect 20 shards to summon the girl.
+930048,3-star Reo,Summon Girl,Collect 20 shards to summon the girl.
+930049,3-star Luna,Summon Girl,Collect 20 shards to summon the girl.
+930050,4-star Zombia,Summon Girl,Collect 30 shards to summon the girl.
+930051,4-star Flash,Summon Girl,Collect 30 shards to summon the girl.
+930052,4-star Werewolf,Summon Girl,Collect 30 shards to summon the girl.
+930053,4-star Nona,Summon Girl,Collect 30 shards to summon the girl.
+930054,4-star Assassin,Summon Girl,Collect 30 shards to summon the girl.
+930055,4-star Ashely,Summon Girl,Collect 30 shards to summon the girl.
+930056,4-star Miya,Summon Girl,Collect 30 shards to summon the girl.
+930057,4-star Bidenty,Summon Girl,Collect 30 shards to summon the girl.
+930058,4-star Boxer,Summon Girl,Collect 30 shards to summon the girl.
+930059,4-star Lily,Summon Girl,Collect 30 shards to summon the girl.
+930060,4-star Nagia,Summon Girl,Collect 30 shards to summon the girl.
+930061,4-star Hypatia,Summon Girl,Collect 30 shards to summon the girl.
+930062,4-star Nun,Summon Girl,Collect 30 shards to summon the girl.
+930063,4-star Diva,Summon Girl,Collect 30 shards to summon the girl.
+930064,4-star Liz,Summon Girl,Collect 30 shards to summon the girl.
+930065,4-star Anna,Summon Girl,Collect 30 shards to summon the girl.
+930066,4-star Omega,Summon Girl,Collect 30 shards to summon the girl.
+930067,4-star Lightin,Summon Girl,Collect 30 shards to summon the girl.
+930068,4-star Beary,Summon Girl,Collect 30 shards to summon the girl.
+930069,4-star Litana,Summon Girl,Collect 30 shards to summon the girl.
+930070,4-star Jelly,Summon Girl,Collect 30 shards to summon the girl.
+930071,4-star Wandy,Summon Girl,Collect 30 shards to summon the girl.
+930072,4-star Elvis,Summon Girl,Collect 30 shards to summon the girl.
+930073,4-star Chainsaw,Summon Girl,Collect 30 shards to summon the girl.
+930074,4-star Toy Girl,Summon Girl,Collect 30 shards to summon the girl.
+930075,4-star Lisa,Summon Girl,Collect 30 shards to summon the girl.
+930076,4-star Androi,Summon Girl,Collect 30 shards to summon the girl.
+930077,4-star Calista,Summon Girl,Collect 30 shards to summon the girl.
+930078,5-star Sapphire,Summon Girl,Collect 50 shards to summon the girl.
+930079,5-star Gambler,Summon Girl,Collect 50 shards to summon the girl.
+930080,5-star Succuba,Summon Girl,Collect 50 shards to summon the girl.
+930081,5-star Dracula,Summon Girl,Collect 50 shards to summon the girl.
+930082,5-star Wu Kong,Summon Girl,Collect 50 shards to summon the girl.
+930083,5-star Fencer,Summon Girl,Collect 50 shards to summon the girl.
+930084,5-star Wildtress,Summon Girl,Collect 50 shards to summon the girl.
+930085,5-star Sakura,Summon Girl,Collect 50 shards to summon the girl.
+930086,5-star Giana,Summon Girl,Collect 50 shards to summon the girl.
+930087,5-star Ennmaya,Summon Girl,Collect 50 shards to summon the girl.
+930088,5-star Hottie,Summon Girl,Collect 50 shards to summon the girl.
+930089,5-star Blowie,Summon Girl,Collect 50 shards to summon the girl.
+930090,5-star Chevalir,Summon Girl,Collect 50 shards to summon the girl.
+930091,5-star Saint,Summon Girl,Collect 50 shards to summon the girl.
+930092,5-star Javelin,Summon Girl,Collect 50 shards to summon the girl.
+930093,5-star Geisha,Summon Girl,Collect 50 shards to summon the girl.
+930094,5-star Sonya,Summon Girl,Collect 50 shards to summon the girl.
+930095,5-star Caitlyn,Summon Girl,Collect 50 shards to summon the girl.
+930096,5-star Guan Yin,Summon Girl,Collect 50 shards to summon the girl.
+930097,5-star Librarian,Summon Girl,Collect 50 shards to summon the girl.
+930098,5-star Priestess,Summon Girl,Collect 50 shards to summon the girl.
+930099,5-star Alice,Summon Girl,Collect 50 shards to summon the girl.
+930100,5-star Nia,Summon Girl,Collect 50 shards to summon the girl.
+930101,5-star Muppet,Summon Girl,Collect 50 shards to summon the girl.
+930102,5-star Nobunaga,Summon Girl,Collect 50 shards to summon the girl.
+930103,5-star Silvia,Summon Girl,Collect 50 shards to summon the girl.
+930104,5-star Turin,Summon Girl,Collect 50 shards to summon the girl.
+930105,5-star Toyo,Summon Girl,Collect 50 shards to summon the girl.
+930106,5-star Masamune,Summon Girl,Collect 50 shards to summon the girl.
+930107,5-star Hexa,Summon Girl,Collect 50 shards to summon the girl.
+930108,5-star Amazon,Summon Girl,Collect 50 shards to summon the girl.
+930109,5-star Bud Elf,Summon Girl,Collect 50 shards to summon the girl.
+930110,5-star Himoto,Summon Girl,Collect 50 shards to summon the girl.
+930111,5-star Nani,Summon Girl,Collect 50 shards to summon the girl.
+930112,5-star Lavia,Summon Girl,Collect 50 shards to summon the girl.
+930113,5-star Susan,Summon Girl,Collect 50 shards to summon the girl.
+930114,5-star Aquaris,Summon Girl,Collect 50 shards to summon the girl.
+930115,5-star KongMing,Summon Girl,Collect 50 shards to summon the girl.
+930116,5-star Pandaria,Summon Girl,Collect 50 shards to summon the girl.
+930117,5-star Linky,Summon Girl,Collect 50 shards to summon the girl.
+930118,5星瓦拉斯基碎片,Summon Girl,Collect 50 shards to summon the girl.
+930119,5-star Amelia,Summon Girl,Collect 50 shards to summon the girl.
+930120,5-star Wraith Shard,Summon Girl,Collect 50 shards to summon the girl.
+930121,5-star Angel,Summon Girl,Collect 50 shards to summon the girl.
+930122,5-star Gabriel,Summon Girl,Collect 50 shards to summon the girl.
+930123,5-star Michael,Summon Girl,Collect 50 shards to summon the girl.
+930125,4-star Ninja,Summon Girl,Collect 30 shards to summon the girl.
+930126,4-star Cynthia,Summon Girl,Collect 30 shards to summon the girl.
+930127,4-star Quinie,Summon Girl,Collect 30 shards to summon the girl.
+930128,4-star Haxie,Summon Girl,Collect 30 shards to summon the girl.
+930129,4-star Iron Fist,Summon Girl,Collect 30 shards to summon the girl.
+930130,4-star Ada,Summon Girl,Collect 30 shards to summon the girl.
+930131,4-star Medusa,Summon Girl,Collect 30 shards to summon the girl.
+930132,4-star Zoe,Summon Girl,Collect 30 shards to summon the girl.
+930133,5-star Zombia,Summon Girl,Collect 50 shards to summon the girl.
+930134,5-star Flash,Summon Girl,Collect 50 shards to summon the girl.
+930135,5-star Miya,Summon Girl,Collect 50 shards to summon the girl.
+930136,5-star Bidenty,Summon Girl,Collect 50 shards to summon the girl.
+930137,5-star Nun,Summon Girl,Collect 50 shards to summon the girl.
+930138,5-star Diva,Summon Girl,Collect 50 shards to summon the girl.
+930139,5-star Beary,Summon Girl,Collect 50 shards to summon the girl.
+930140,5-star Litana,Summon Girl,Collect 50 shards to summon the girl.
+930141,5-star Toy Girl,Summon Girl,Collect 50 shards to summon the girl.
+930142,5-star Lisa,Summon Girl,Collect 50 shards to summon the girl.
+930143,5-star Androi,Summon Girl,Collect 50 shards to summon the girl.
+930144,5-star Calista,Summon Girl,Collect 50 shards to summon the girl.
+930145,5-star Boxer,Summon Girl,Collect 50 shards to summon the girl.
+930146,5-star Lily,Summon Girl,Collect 50 shards to summon the girl.
+930147,5-star Liz,Summon Girl,Collect 50 shards to summon the girl.
+930148,5-star Jelly,Summon Girl,Collect 50 shards to summon the girl.
+930149,5-star Wandy,Summon Girl,Collect 50 shards to summon the girl.
+930150,5-star Werewolf,Summon Girl,Collect 50 shards to summon the girl.
+930151,5-star Ashely,Summon Girl,Collect 50 shards to summon the girl.
+930152,5-star Nagia,Summon Girl,Collect 50 shards to summon the girl.
+930153,5-star Omega,Summon Girl,Collect 50 shards to summon the girl.
+930154,5-star Nona,Summon Girl,Collect 50 shards to summon the girl.
+930155,5-star Assassin,Summon Girl,Collect 50 shards to summon the girl.
+930156,5-star Hypatia,Summon Girl,Collect 50 shards to summon the girl.
+930157,5-star Anna,Summon Girl,Collect 50 shards to summon the girl.
+930158,5-star Lightin,Summon Girl,Collect 50 shards to summon the girl.
+930159,5-star Elvis,Summon Girl,Collect 50 shards to summon the girl.
+930160,5-star Chainsaw,Summon Girl,Collect 50 shards to summon the girl.
+930161,5-star Ninja,Summon Girl,Collect 50 shards to summon the girl.
+930162,5-star Cynthia,Summon Girl,Collect 50 shards to summon the girl.
+930163,5-star Quinie,Summon Girl,Collect 50 shards to summon the girl.
+930164,5-star Haxie,Summon Girl,Collect 50 shards to summon the girl.
+930165,5-star Iron Fist,Summon Girl,Collect 50 shards to summon the girl.
+930166,5-star Ada,Summon Girl,Collect 50 shards to summon the girl.
+930167,5-star Medusa,Summon Girl,Collect 50 shards to summon the girl.
+930168,5-star Zoe,Summon Girl,Collect 50 shards to summon the girl.
+930169,5-star Scythe,Summon Girl,Collect 50 shards to summon the girl.
+930170,4-star Selene,Summon Girl,Collect 30 shards to summon the girl.
+930171,4-star Annie,Summon Girl,Collect 30 shards to summon the girl.
+930172,5-star Selene,Summon Girl,Collect 50 shards to summon the girl.
+930173,5-star Annie,Summon Girl,Collect 50 shards to summon the girl.
+930174,5-star Lucifer,Summon Girl,Collect 50 shards to summon the girl.
+930175,5-star Psychic,Summon Girl,Collect 50 shards to summon the girl.
+930176,5-star Phoenix,Summon Girl,Collect 50 shards to summon the girl.
+940001,4-star Girls Shard,Summon Girl,Collect 30 shards to summon a 4-star girl.
+940002,5-star Girls Shard,Summon Girl,Collect 50 shards to summon a 5-star girl.
+940003,3-star Girls Shard,Summon Girl,Collect 20 shards to summon a 3-star girl.
+940011,5-star Ghost Shard,Summon Girl,Collect 50 shards to summon a 5-star Ghost girl.
+940012,5-star Human Shard,Summon girl,Collect 50 shards to summon a 5-star Human girl.
+940013,5-star Monster Shard,Summon girl,Collect 50 shards to summon a 5-star Monster girl.
+940014,5-star Fairy Shard,Summon girl,Collect 50 shards to summon a 5-star Fairy girl.
+940015,5-star Demon Shard,Summon girl,Collect 50 shards to summon a 5-star Demon girl.
+940016,5-star Angel Shard,Summon girl,Collect 50 shards to summon a 5-star Angel girl.
+940021,4-star Ghost Shard,Summon girl,Collect 30 shards to summon a 4-star Ghost girl.
+940022,4-star Human Shard,Summon girl,Collect 30 shards to summon a 4-star Human girl.
+940023,4-star Monster Shard,Summon girl,Collect 30 shards to summon a 4-star Monster girl.
+940024,4-star Fairy Shard,Summon girl,Collect 30 shards to summon a 4-star Fairy girl.
+940025,4-star Demon Shard,Summon girl,Collect 30 shards to summon a 4-star Demon girl.
+940026,4-star Angel Shard,Summon girl,Collect 30 shards to summon a 4-star Angel girl.
+953001,Purple Antique Shard,Summon Antique,Collect 20 shards to summon Purple Antique.
+954001,Green Antique Shard,Summon Antique,Collect 30 shards to summon Green Antique.
+955001,Red Antique Shard,Summon Antique,Collect 50 shards to summon Red Antique.
+955099,Red Antique Exclusive Shard,Summon Antique,Collect 50 shards to summon Red Exclusive Antique.
+956001,Orange Antique Shard,Summon Antique,Collect 50 shards to summon Orange Antique.
+956099,Orange Antique Exclusive Shard,Summon Antique,Collect 50 shards to summon Orange Exclusive Antique.
+960001,Random Skin Shard,Craft Skin,Collect 10 Shards to forge the skin
+1011,Knight Sword,Weapon,
+2011,Knight Armor,Armor,
+3011,Knight Shield,Accessory,
+4011,Knight Dress,Bottoms,
+1012,Holy Knight Sword,Weapon,
+2012,Holy Knight Armor,Armor,
+3012,Holy Knight Shield,Accessory,
+4012,Holy Knight Dress,Bottoms,
+1021,Volleyball,Weapon,
+2021,Sports Shirt,Armor,
+3021,Sports Headband,Accessory,
+4021,Sports Pants,Bottoms,
+1022,Great Volleyball,Weapon,
+2022,Great Sports Shirt,Armor,
+3022,Great Sports Headband,Accessory,
+4022,Great Sports Pants,Bottoms,
+1031,Beach Gun,Weapon,
+2031,Beach Shirt,Armor,
+3031,Beach Hat,Accessory,
+4031,Beach Suit,Bottoms,
+1032,Great Beach Gun,Weapon,
+2032,Great Beach Shirt,Armor,
+3032,Great Beach Hat,Accessory,
+4032,Great Beach Suit,Bottoms,
+1033,Advance Beach Gun,Weapon,
+2033,Advance Beach Shirt,Armor,
+3033,Advance Beach Hat,Accessory,
+4033,Advance Beach Suit,Bottoms,
+1041,School Textbook,Weapon,
+2041,School Uniform,Armor,
+3041,School Tie,Accessory,
+4041,School Skirt,Bottoms,
+1042,Shiny School Textbook,Weapon,
+2042,Shiny School Uniform,Armor,
+3042,Shiny School Tie,Accessory,
+4042,Shiny School Skirt,Bottoms,
+1043,Bunny Carrot,Weapon,
+2043,Bunny Suit,Armor,
+3043,Bunny Ear,Accessory,
+4043,Bunny Shoes,Bottoms,
+1044,Advance Bunny Carrot,Weapon,
+2044,Advance Bunny Suit,Armor,
+3044,Advance Bunny Ear,Accessory,
+4044,Advance Bunny Shoes,Bottoms,
+1051,Guitar,Weapon,
+2051,Showing Suit,Armor,
+3051,White Mic,Accessory,
+4051,Punk Shoes,Bottoms,
+1052,Maid Cake,Weapon,
+2052,Maid Apron,Armor,
+3052,Maid Headband,Accessory,
+4052,Maid Shoes,Bottoms,
+1053,Adventure Bag,Weapon,
+2053,Adventure Suit,Armor,
+3053,Adventure Glasses,Accessory,
+4053,Adventure Pants,Bottoms,
+1054,Magic Broom,Weapon,
+2054,Magic Suit,Armor,
+3054,Magic Hat,Accessory,
+4054,Magic Boots,Bottoms,
+1061,Feather Fan,Weapon,
+2061,Kimono,Armor,
+3061,Flower Tie,Accessory,
+4061,Hibiscus,Bottoms,
+1062,Classic Umbrella,Weapon,
+2062,Classic Suit,Armor,
+3062,Classic Hair Tie,Accessory,
+4062,Classic Shoes,Bottoms,
+1063,Princess Doll,Weapon,
+2063,Princess Suit,Armor,
+3063,Princess Crown,Accessory,
+4063,Princess Shoes,Bottoms,
+1064,Electronic Sword,Weapon,
+2064,Electronic Suit,Armor,
+3064,Electronic Glasses,Accessory,
+4064,Electronic Shoes,Bottoms,
+1065,Demonic Sickle,Weapon,
+2065,Demonic Suit,Armor,
+3065,Demonic Hair Band,Accessory,
+4065,Demonic Boots,Bottoms,
+1066,Angel Wand,Weapon,
+2066,Angel Suit,Armor,
+3066,Angel Hair Band,Accessory,
+4066,Angel Wings,Bottoms,
+1999,Special Gear 1,Weapon,
+2999,Special Gear 2,Armor,
+3999,Special Gear 3,Accessory,
+4999,Special Gear 4,Bottoms,
+5101,Blue Crystal,,
+5102,Blue Crystal,,
+5103,Blue Crystal,,
+5104,Blue Crystal,,
+5105,Blue Crystal,,
+5106,Blue Crystal,,
+5107,Blue Crystal,,
+5108,Blue Crystal,,
+5109,Blue Crystal,,
+5110,Blue Crystal,,
+5111,Blue Crystal,,
+5112,Blue Crystal,,
+5113,Blue Crystal,,
+5114,Blue Crystal,,
+5115,Blue Crystal,,
+5116,Blue Crystal,,
+5201,Yellow Crystal,,
+5202,Yellow Crystal,,
+5203,Yellow Crystal,,
+5204,Yellow Crystal,,
+5205,Yellow Crystal,,
+5206,Yellow Crystal,,
+5207,Yellow Crystal,,
+5208,Yellow Crystal,,
+5209,Yellow Crystal,,
+5210,Yellow Crystal,,
+5211,Yellow Crystal,,
+5212,Yellow Crystal,,
+5213,Yellow Crystal,,
+5214,Yellow Crystal,,
+5215,Yellow Crystal,,
+5216,Yellow Crystal,,
+5301,Rune Crystal,,
+5302,Rune Crystal,,
+5303,Rune Crystal,,
+5304,Rune Crystal,,
+5305,Rune Crystal,,
+5306,Rune Crystal,,
+5307,Rune Crystal,,
+5308,Rune Crystal,,
+5309,Rune Crystal,,
+5310,Rune Crystal,,
+5311,Rune Crystal,,
+5312,Rune Crystal,,
+5313,Rune Crystal,,
+5314,Rune Crystal,,
+5315,Rune Crystal,,
+5316,Rune Crystal,,
+5317,Rune Crystal,,
+5318,Rune Crystal,,
+5319,Rune Crystal,,
+5320,Rune Crystal,,
+5321,Rune Crystal,,
+5322,Rune Crystal,,
+5323,Rune Crystal,,
+5324,Rune Crystal,,
+5401,Paradise Crystal,,
+5402,Paradise Crystal,,
+5403,Paradise Crystal,,
+5404,Paradise Crystal,,
+5405,Paradise Crystal,,
+5406,Paradise Crystal,,
+5407,Paradise Crystal,,
+5408,Paradise Crystal,,
+5409,Paradise Crystal,,
+5410,Paradise Crystal,,
+5411,Paradise Crystal,,
+5412,Paradise Crystal,,
+5413,Paradise Crystal,,
+5414,Paradise Crystal,,
+5415,Paradise Crystal,,
+5416,Paradise Crystal,,
+5417,Paradise Crystal,,
+5418,Paradise Crystal,,
+5419,Paradise Crystal,,
+5420,Paradise Crystal,,
+5421,Paradise Crystal,,
+5422,Paradise Crystal,,
+5423,Paradise Crystal,,
+5424,Paradise Crystal,,
+5501,Agate Crystal,,
+5502,Agate Crystal,,
+5503,Agate Crystal,,
+5504,Agate Crystal,,
+5505,Agate Crystal,,
+5506,Agate Crystal,,
+5507,Agate Crystal,,
+5508,Agate Crystal,,
+5509,Agate Crystal,,
+5510,Agate Crystal,,
+5511,Agate Crystal,,
+5512,Agate Crystal,,
+5513,Agate Crystal,,
+5514,Agate Crystal,,
+5515,Agate Crystal,,
+5516,Agate Crystal,,
+5517,Agate Crystal,,
+5518,Agate Crystal,,
+5519,Agate Crystal,,
+5520,Agate Crystal,,
+5521,Agate Crystal,,
+5522,Agate Crystal,,
+5523,Agate Crystal,,
+5524,Agate Crystal,,
+5525,Agate Crystal,,
+5526,Agate Crystal,,
+5527,Agate Crystal,,
+5528,Agate Crystal,,
+5529,Agate Crystal,,
+5530,Agate Crystal,,
+5531,Agate Crystal,,
+5532,Agate Crystal,,
+5533,Agate Crystal,,
+5534,Agate Crystal,,
+5535,Agate Crystal,,
+5536,Agate Crystal,,
+5537,Agate Crystal,,
+5538,Agate Crystal,,
+5539,Agate Crystal,,
+5540,Agate Crystal,,
+5541,Agate Crystal,,
+5542,Agate Crystal,,
+5543,Agate Crystal,,
+5544,Agate Crystal,,
+5545,Agate Crystal,,
+5546,Agate Crystal,,
+5601,Dragon Jade,,
+5602,Dragon Jade,,
+5603,Dragon Jade,,
+5604,Dragon Jade,,
+5605,Dragon Jade,,
+5606,Dragon Jade,,
+5607,Dragon Jade,,
+5608,Dragon Jade,,
+5609,Dragon Jade,,
+5610,Dragon Jade,,
+5611,Dragon Jade,,
+5612,Dragon Jade,,
+5613,Dragon Jade,,
+5614,Dragon Jade,,
+5615,Dragon Jade,,
+5616,Dragon Jade,,
+5617,Dragon Jade,,
+5618,Dragon Jade,,
+5619,Dragon Jade,,
+5620,Dragon Jade,,
+5621,Dragon Jade,,
+5622,Dragon Jade,,
+5623,Dragon Jade,,
+5624,Dragon Jade,,
+5625,Dragon Jade,,
+5626,Dragon Jade,,
+5627,Dragon Jade,,
+5628,Dragon Jade,,
+5629,Dragon Jade,,
+5630,Dragon Jade,,
+5631,Dragon Jade,,
+5632,Dragon Jade,,
+5633,Dragon Jade,,
+5634,Dragon Jade,,
+5635,Dragon Jade,,
+5636,Dragon Jade,,
+5637,Dragon Jade,,
+5638,Dragon Jade,,
+5639,Dragon Jade,,
+5640,Dragon Jade,,
+6000,Afterglow,Material for upgrading Antiques,
+6001,Chalk,Antique,
+6002,Stool,Antique,
+6003,Evil Machete,Antique,
+6004,Alarm Lamp,Antique,
+6005,Magic Guide Book,Antique,
+6006,Chalk,Antique,
+6007,Stool,Antique,
+6008,Evil Machete,Antique,
+6009,Alarm Lamp,Antique,
+6010,Magic Guide Book,Antique,
+6011,Chalk,Antique,
+6012,Stool,Antique,
+6013,Evil Machete,Antique,
+6014,Alarm Lamp,Antique,
+6015,Magic Guide Book,Antique,
+6016,Chalk,Antique,
+6017,Stool,Antique,
+6018,Evil Machete,Antique,
+6019,Alarm Lamp,Antique,
+6020,Magic Guide Book,Antique,
+6021,Golden Cube,Antique,
+6022,Silver Crown,Antique,
+6023,Witch Curse,Antique,
+6024,Universal Bag,Antique,
+6025,Advance Magic Guide,Antique,
+6026,Golden Cube,Antique,
+6027,Silver Crown,Antique,
+6028,Witch Curse,Antique,
+6029,Universal Bag,Antique,
+6030,Advance Magic Guide,Antique,
+6031,Golden Cube,Antique,
+6032,Silver Crown,Antique,
+6033,Witch Curse,Antique,
+6034,Universal Bag,Antique,
+6035,Advance Magic Guide,Antique,
+6036,Golden Cube,Antique,
+6037,Silver Crown,Antique,
+6038,Witch Curse,Antique,
+6039,Universal Bag,Antique,
+6040,Advance Magic Guide,Antique,
+6041,Clover,Antique,
+6042,Slingshot,Antique,
+6043,Kiss of Snow,Antique,
+6044,Black Belt,Antique,
+6045,Judo Headband,Antique,
+6046,Clover,Antique,
+6047,Slingshot,Antique,
+6048,Kiss of Snow,Antique,
+6049,Black Belt,Antique,
+6050,Judo Headband,Antique,
+6051,Clover,Antique,
+6052,Slingshot,Antique,
+6053,Kiss of Snow,Antique,
+6054,Black Belt,Antique,
+6055,Judo Headband,Antique,
+6056,Clover,Antique,
+6057,Slingshot,Antique,
+6058,Kiss of Snow,Antique,
+6059,Black Belt,Antique,
+6060,Judo Headband,Antique,
+6061,Clover,Antique,
+6062,Slingshot,Antique,
+6063,Kiss of Snow,Antique,
+6064,Black Belt,Antique,
+6065,Judo Headband,Antique,
+6066,Baseball Bat,Antique,
+6067,Katana,Antique,
+6068,Seals Book,Antique,
+6069,Dragon Teeth,Antique,
+6070,Oil Tank,Antique,
+6071,Leather Shoes,Antique,
+6072,Baseball Bat,Antique,
+6073,Katana,Antique,
+6074,Seals Book,Antique,
+6075,Dragon Teeth,Antique,
+6076,Oil Tank,Antique,
+6077,Leather Shoes,Antique,
+6078,Baseball Bat,Antique,
+6079,Katana,Antique,
+6080,Seals Book,Antique,
+6081,Dragon Teeth,Antique,
+6082,Oil Tank,Antique,
+6083,Leather Shoes,Antique,
+6084,Baseball Bat,Antique,
+6085,Katana,Antique,
+6086,Seals Book,Antique,
+6087,Dragon Teeth,Antique,
+6088,Oil Tank,Antique,
+6089,Leather Shoes,Antique,
+6090,Baseball Bat,Antique,
+6091,Katana,Antique,
+6092,Seals Book,Antique,
+6093,Dragon Teeth,Antique,
+6094,Oil Tank,Antique,
+6095,Leather Shoes,Antique,
+6096,Angel Twig,Antique,
+6097,Flame Feather,Antique,
+6098,Demonic Blade,Antique,
+6099,Angeling Rune,Antique,
+6100,Brave Heart,Antique,
+6101,Lace Stockings,Antique,
+6102,Cherry Blossoms,Antique,
+6103,Dancing Mask,Antique,
+6104,Poker Queen,Antique,
+6105,Axe of Snow,Antique,
+6106,Christmas Tree,Antique,
+6107,Thunder Heart,Antique,
+6108,Super Potion,Antique,
+6109,Soul Pendant,Antique,
+6110,Gabriel's Song,Antique,
+6111,Demonic Book,Antique,
+6112,Fate Cross,Antique,
+6113,Fairy Crown,Antique,
+6114,Cat Hood,Antique,
+6115,Hosiery,Antique,
+6116,Beach Volleyball,Antique,
+6117,Heart Earring,Antique,
+6118,Angel Twig,Antique,
+6119,Flame Feather,Antique,
+6120,Demonic Blade,Antique,
+6121,Angeling Rune,Antique,
+6122,Brave Heart,Antique,
+6123,Lace Stockings,Antique,
+6124,Cherry Blossoms,Antique,
+6125,Dancing Mask,Antique,
+6126,Poker Queen,Antique,
+6127,Axe of Snow,Antique,
+6128,Christmas Tree,Antique,
+6129,Thunder Heart,Antique,
+6130,Super Potion,Antique,
+6131,Soul Pendant,Antique,
+6132,Gabriel's Song,Antique,
+6133,Demonic Book,Antique,
+6134,Fate Cross,Antique,
+6135,Fairy Crown,Antique,
+6136,Cat Hood,Antique,
+6137,Hosiery,Antique,
+6138,Beach Volleyball,Antique,
+6139,Heart Earring,Antique,
+6140,Angel Twig,Antique,
+6141,Flame Feather,Antique,
+6142,Demonic Blade,Antique,
+6143,Angeling Rune,Antique,
+6144,Brave Heart,Antique,
+6145,Lace Stockings,Antique,
+6146,Cherry Blossoms,Antique,
+6147,Dancing Mask,Antique,
+6148,Poker Queen,Antique,
+6149,Axe of Snow,Antique,
+6150,Christmas Tree,Antique,
+6151,Thunder Heart,Antique,
+6152,Super Potion,Antique,
+6153,Soul Pendant,Antique,
+6154,Gabriel's Song,Antique,
+6155,Demonic Book,Antique,
+6156,Fate Cross,Antique,
+6157,Fairy Crown,Antique,
+6158,Cat Hood,Antique,
+6159,Hosiery,Antique,
+6160,Beach Volleyball,Antique,
+6161,Heart Earring,Antique,
+6162,Angel Twig,Antique,
+6163,Flame Feather,Antique,
+6164,Demonic Blade,Antique,
+6165,Angeling Rune,Antique,
+6166,Brave Heart,Antique,
+6167,Lace Stockings,Antique,
+6168,Cherry Blossoms,Antique,
+6169,Dancing Mask,Antique,
+6170,Poker Queen,Antique,
+6171,Axe of Snow,Antique,
+6172,Christmas Tree,Antique,
+6173,Thunder Heart,Antique,
+6174,Super Potion,Antique,
+6175,Soul Pendant,Antique,
+6176,Gabriel's Song,Antique,
+6177,Demonic Book,Antique,
+6178,Fate Cross,Antique,
+6179,Fairy Crown,Antique,
+6180,Cat Hood,Antique,
+6181,Hosiery,Antique,
+6182,Beach Volleyball,Antique,
+6183,Heart Earring,Antique,
+6184,Angel Twig,Antique,
+6185,Flame Feather,Antique,
+6186,Demonic Blade,Antique,
+6187,Angeling Rune,Antique,
+6188,Brave Heart,Antique,
+6189,Lace Stockings,Antique,
+6190,Cherry Blossoms,Antique,
+6191,Dancing Mask,Antique,
+6192,Poker Queen,Antique,
+6193,Axe of Snow,Antique,
+6194,Christmas Tree,Antique,
+6195,Thunder Heart,Antique,
+6196,Super Potion,Antique,
+6197,Soul Pendant,Antique,
+6198,Gabriel's Song,Antique,
+6199,Demonic Book,Antique,
+6200,Fate Cross,Antique,
+6201,Fairy Crown,Antique,
+6202,Cat Hood,Antique,
+6203,Hosiery,Antique,
+6204,Beach Volleyball,Antique,
+6205,Heart Earring,Antique,
+6206,Angel Twig,Antique,
+6207,Flame Feather,Antique,
+6208,Demonic Blade,Antique,
+6209,Angeling Rune,Antique,
+6210,Brave Heart,Antique,
+6211,Lace Stockings,Antique,
+6212,Cherry Blossoms,Antique,
+6213,Dancing Mask,Antique,
+6214,Poker Queen,Antique,
+6215,Axe of Snow,Antique,
+6216,Christmas Tree,Antique,
+6217,Thunder Heart,Antique,
+6218,Super Potion,Antique,
+6219,Soul Pendant,Antique,
+6220,Gabriel's Song,Antique,
+6221,Demonic Book,Antique,
+6222,Fate Cross,Antique,
+6223,Fairy Crown,Antique,
+6224,Cat Hood,Antique,
+6225,Hosiery,Antique,
+6226,Beach Volleyball,Antique,
+6227,Heart Earring,Antique,
+6228,Geisha's Blessing,Antique,
+6229,Soul Censer,Antique,
+6230,Muramasa,Antique,
+6231,Rage of Flame,Antique,
+6232,Recovery All,Antique,
+6233,Power of Wind,Antique,
+6234,Snowball,Antique,
+6235,Black Magic Hat,Antique,
+6236,Fate Guide,Antique,
+6237,Seal Sword·Ghost,Antique,
+6238,Shackle of Pain·Ghost,Antique,
+6239,Spike Shield·Ghost,Antique,
+6240,Sealed Heart·Human,Antique,
+6241,Demon Blood·Human,Antique,
+6242,Bow of Snow,Antique,
+6243,Seal Sword·Monster,Antique,
+6244,Shackle of Pain·Monster,Antique,
+6245,Spike Shield·Monster,Antique,
+6246,Sealed Heart·Fairy,Antique,
+6247,Queen's Crown,Antique,
+6248,Demonic Wings,Antique,
+6249,Fate Mirror,Antique,
+6250,Invisible Cloak,Antique,
+6251,Geisha's Blessing,Antique,
+6252,Soul Censer,Antique,
+6253,Muramasa,Antique,
+6254,Rage of Flame,Antique,
+6255,Recovery All,Antique,
+6256,Power of Wind,Antique,
+6257,Snowball,Antique,
+6258,Black Magic Hat,Antique,
+6259,Fate Guide,Antique,
+6260,Seal Sword·Ghost,Antique,
+6261,Shackle of Pain·Ghost,Antique,
+6262,Spike Shield·Ghost,Antique,
+6263,Sealed Heart·Human,Antique,
+6264,Demon Blood·Human,Antique,
+6265,Bow of Snow,Antique,
+6266,Seal Sword·Monster,Antique,
+6267,Shackle of Pain·Monster,Antique,
+6268,Spike Shield·Monster,Antique,
+6269,Sealed Heart·Fairy,Antique,
+6270,Queen's Crown,Antique,
+6271,Demonic Wings,Antique,
+6272,Fate Mirror,Antique,
+6273,Invisible Cloak,Antique,
+6274,Geisha's Blessing,Antique,
+6275,Soul Censer,Antique,
+6276,Muramasa,Antique,
+6277,Rage of Flame,Antique,
+6278,Recovery All,Antique,
+6279,Power of Wind,Antique,
+6280,Snowball,Antique,
+6281,Black Magic Hat,Antique,
+6282,Fate Guide,Antique,
+6283,Seal Sword·Ghost,Antique,
+6284,Shackle of Pain·Ghost,Antique,
+6285,Spike Shield·Ghost,Antique,
+6286,Sealed Heart·Human,Antique,
+6287,Demon Blood·Human,Antique,
+6288,Bow of Snow,Antique,
+6289,Seal Sword·Monster,Antique,
+6290,Shackle of Pain·Monster,Antique,
+6291,Spike Shield·Monster,Antique,
+6292,Sealed Heart·Fairy,Antique,
+6293,Queen's Crown,Antique,
+6294,Demonic Wings,Antique,
+6295,Fate Mirror,Antique,
+6296,Invisible Cloak,Antique,
+6297,Geisha's Blessing,Antique,
+6298,Soul Censer,Antique,
+6299,Muramasa,Antique,
+6300,Rage of Flame,Antique,
+6301,Recovery All,Antique,
+6302,Power of Wind,Antique,
+6303,Snowball,Antique,
+6304,Black Magic Hat,Antique,
+6305,Fate Guide,Antique,
+6306,Seal Sword·Ghost,Antique,
+6307,Shackle of Pain·Ghost,Antique,
+6308,Spike Shield·Ghost,Antique,
+6309,Sealed Heart·Human,Antique,
+6310,Demon Blood·Human,Antique,
+6311,Bow of Snow,Antique,
+6312,Seal Sword·Monster,Antique,
+6313,Shackle of Pain·Monster,Antique,
+6314,Spike Shield·Monster,Antique,
+6315,Sealed Heart·Fairy,Antique,
+6316,Queen's Crown,Antique,
+6317,Demonic Wings,Antique,
+6318,Fate Mirror,Antique,
+6319,Invisible Cloak,Antique,
+6320,Geisha's Blessing,Antique,
+6321,Soul Censer,Antique,
+6322,Muramasa,Antique,
+6323,Rage of Flame,Antique,
+6324,Recovery All,Antique,
+6325,Power of Wind,Antique,
+6326,Snowball,Antique,
+6327,Black Magic Hat,Antique,
+6328,Fate Guide,Antique,
+6329,Seal Sword·Ghost,Antique,
+6330,Shackle of Pain·Ghost,Antique,
+6331,Spike Shield·Ghost,Antique,
+6332,Sealed Heart·Human,Antique,
+6333,Demon Blood·Human,Antique,
+6334,Bow of Snow,Antique,
+6335,Seal Sword·Monster,Antique,
+6336,Shackle of Pain·Monster,Antique,
+6337,Spike Shield·Monster,Antique,
+6338,Sealed Heart·Fairy,Antique,
+6339,Queen's Crown,Antique,
+6340,Demonic Wings,Antique,
+6341,Fate Mirror,Antique,
+6342,Invisible Cloak,Antique,
+6343,Geisha's Blessing,Antique,
+6344,Soul Censer,Antique,
+6345,Muramasa,Antique,
+6346,Rage of Flame,Antique,
+6347,Recovery All,Antique,
+6348,Power of Wind,Antique,
+6349,Snowball,Antique,
+6350,Black Magic Hat,Antique,
+6351,Fate Guide,Antique,
+6352,Seal Sword·Ghost,Antique,
+6353,Shackle of Pain·Ghost,Antique,
+6354,Spike Shield·Ghost,Antique,
+6355,Sealed Heart·Human,Antique,
+6356,Demon Blood·Human,Antique,
+6357,Bow of Snow,Antique,
+6358,Seal Sword·Monster,Antique,
+6359,Shackle of Pain·Monster,Antique,
+6360,Spike Shield·Monster,Antique,
+6361,Sealed Heart·Fairy,Antique,
+6362,Queen's Crown,Antique,
+6363,Demonic Wings,Antique,
+6364,Fate Mirror,Antique,
+6365,Invisible Cloak,Antique,
+6366,Fruit Cake,Antique,
+6367,Fruit Cake,Antique,
+6368,Fruit Cake,Antique,
+6369,Fruit Cake,Antique,
+6370,Fruit Cake,Antique,
+6371,Magic Brick,Antique,
+6372,Magic Brick,Antique,
+6373,Magic Brick,Antique,
+6374,Magic Brick,Antique,
+6375,Magic Brick,Antique,
+6376,Magic Brick,Antique,
+6377,Sand of Time,Antique,
+6378,Sand of Time,Antique,
+6379,Sand of Time,Antique,
+6380,Sand of Time,Antique,
+6381,Sand of Time,Antique,
+6382,Sand of Time,Antique,
+6383,Gentle Knight,Antique,
+6384,Gentle Knight,Antique,
+6385,Gentle Knight,Antique,
+6386,Gentle Knight,Antique,
+6387,Gentle Knight,Antique,
+6388,Gentle Knight,Antique,
+6389,Opposite,Antique,
+6390,Opposite,Antique,
+6391,Opposite,Antique,
+6392,Opposite,Antique,
+6393,Opposite,Antique,
+6394,Opposite,Antique,
+6395,Key of Mind,Antique,
+6396,Key of Mind,Antique,
+6397,Key of Mind,Antique,
+6398,Key of Mind,Antique,
+6399,Key of Mind,Antique,
+6400,Key of Mind,Antique,
+6401,Swiss Army Knife,Antique,
+6402,Swiss Army Knife,Antique,
+6403,Swiss Army Knife,Antique,
+6404,Swiss Army Knife,Antique,
+6405,Swiss Army Knife,Antique,
+6406,Swiss Army Knife,Antique,
+6407,Perception Watch,Antique,
+6408,Perception Watch,Antique,
+6409,Perception Watch,Antique,
+6410,Perception Watch,Antique,
+6411,Perception Watch,Antique,
+6412,Perception Watch,Antique,
+6413,Judgment Sword,Antique,
+6414,Judgment Sword,Antique,
+6415,Judgment Sword,Antique,
+6416,Judgment Sword,Antique,
+6417,Judgment Sword,Antique,
+6418,Judgment Sword,Antique,
+6419,Balance,Antique,
+6420,Balance,Antique,
+6421,Balance,Antique,
+6422,Balance,Antique,
+6423,Balance,Antique,
+6424,Balance,Antique,
+6425,Key to Heaven,Antique,
+6426,Key to Heaven,Antique,
+6427,Key to Heaven,Antique,
+6428,Key to Heaven,Antique,
+6429,Key to Heaven,Antique,
+6430,Key to Heaven,Antique,
+6431,Fate Crystal,Antique,
+6432,Fate Crystal,Antique,
+6433,Fate Crystal,Antique,
+6434,Fate Crystal,Antique,
+6435,Fate Crystal,Antique,
+6436,Fate Crystal,Antique,
+6437,The Wings of lcarus,Antique,
+6438,The Wings of lcarus,Antique,
+6439,The Wings of lcarus,Antique,
+6440,The Wings of lcarus,Antique,
+6441,The Wings of lcarus,Antique,
+6442,The Wings of lcarus,Antique,
+7001,Sunbath,Skin,Sunbath skin of Iron Fist
+27001,Sunbath,Skin,Sunbath skin of Iron Fist
+7002,No. Alpha,Skin,No. Alpha skin of Saint
+27002,No. Alpha,Skin,No. Alpha skin of Saint
+7003,Sea Princess,Skin,Sea Princess skin of Wildtress
+27003,Sea Princess,Skin,Sea Princess skin of Wildtress
+7004,Lines of Fate,Skin,Lines of Fate skin of Muppet
+27004,Lines of Fate,Skin,Lines of Fate skin of Muppet
+7005,Witch Suit,Skin,Witch Suit skin of Dracula
+27005,Witch Suit,Skin,Witch Suit skin of Dracula
+7006,Battle Elite,Skin,Battle Elite skin of Sonya
+27006,Battle Elite,Skin,Battle Elite skin of Sonya
+7007,Karate MSTR,Skin,Karate MSTR skin of Boxer
+27007,Karate MSTR,Skin,Karate MSTR skin of Boxer
+7008,Alice in Dream,Skin,Alice skin of Gambler
+27008,Alice in Dream,Skin,Alice skin of Gambler
+7009,Frozen Queen,Skin,Frozen Queen skin of Amazon
+27009,Frozen Queen,Skin,Frozen Queen skin of Amazon
+7010,Xmas Carnival,Skin,Xmas Carnival skin of Lucifer
+27010,Xmas Carnival,Skin,Xmas Carnival skin of Lucifer
+7011,Xmas Fairy,Skin,Xmas Fairy skin of Michael
+27011,Xmas Fairy,Skin,Xmas Fairy skin of Michael
+7012,Yukata Party,Skin,Yukata Party skin of Aquaris
+27012,Yukata Party,Skin,Yukata Party skin of Aquaris
+7013,Frost Knight,Skin,Frost Knight skin of Javelin
+27013,Frost Knight,Skin,Frost Knight skin of Javelin
+7014,New Year Dress,Skin,New Year Dress skin of Priestess
+27014,New Year Dress,Skin,New Year Dress skin of Priestess
+7015,Sweetheart,Skin,Sweetheart skin of Hottie
+27015,Sweetheart,Skin,Sweetheart skin of Hottie
+7016,Pink Sweetie,Skin,Pink Sweetie skin of Blowie
+27016,Pink Sweetie,Skin,Pink Sweetie skin of Blowie
+7017,Sakura Rain,Skin,Sakura Rain skin of KongMing
+27017,Sakura Rain,Skin,Sakura Rain skin of KongMing
+7018,Night Rose,Skin,Night Rose skin of Dracula
+27018,Night Rose,Skin,Night Rose skin of Dracula
+7019,Equinox,Skin,Equinox skin of Ennmaya
+27019,Equinox,Skin,Equinox skin of Ennmaya
+7020,Scarlet,Skin,Scarlet skin of Saint
+27020,Scarlet,Skin,Scarlet skin of Saint
+7021,Pink Praise,Skin,Pink Praise skin of Iron Fist
+27021,Pink Praise,Skin,Pink Praise skin of Iron Fist
+7022,Ice Rose,Skin,Ice Rose skin of Fencer
+27022,Ice Rose,Skin,Ice Rose skin of Fencer
+7023,White Rose,Skin,White Rose skin of Michael
+27023,White Rose,Skin,White Rose skin of Michael
+7024,Full Bloom,Skin,Full Bloom skin of Sapphire
+27024,Full Bloom,Skin,Full Bloom skin of Sapphire
+7025,Easter Hunter,Skin,Easter Hunter skin of Angel
+27025,Easter Hunter,Skin,Easter Hunter skin of Angel
+7026,Love Song,Skin,Love Song skin of KongMing
+27026,Love Song,Skin,Love Song skin of KongMing
+7027,Red Rose,Skin,Red Rose skin of Lucifer
+27027,Red Rose,Skin,Red Rose skin of Lucifer
+7028,PJ Party,Skin,PJ Party skin of Bud Elf
+27028,PJ Party,Skin,PJ Party skin of Bud Elf
+7029,Angel Examiner,Skin,Angel Examiner skin of Michael
+27029,Angel Examiner,Skin,Angel Examiner skin of Michael
+7030,Human Examiner,Skin,Human Examiner skin of Saint
+27030,Human Examiner,Skin,Human Examiner skin of Saint
+7031,Zongzi Carrier,Skin,Zongzi Carrier skin of Psychic
+27031,Zongzi Carrier,Skin,Zongzi Carrier skin of Psychic
+88888881,Guild Battle Champion Avatar Frame,Frame,
+88888882,Guild Battle 2nd Place Avatar Frame,Frame,
+88888883,Guild Battle Semi-Finals Avatar Frame,Frame,
+88888884,Guild Battle Final Eight Avatar Frame,Frame,
+88888885,Guild Battle Final Sixteenth Avatar Frame,Frame,
+8006,True Oath,Frame,Avatar frame for acquired from the voting event.
+8007,Default,Frame,
+9001,Sakura Date,Wallpaper Girl Skin,"Iron Fist's Wallpaper Girl Skin, acquired from exclusive event and can be set as a wallpaper girl."
+11001,Skarivine,,
+11002,Cayla,,
+11003,Vanees,,
+12001,Maidam,,
+12002,Aegis,,
+12003,Handana,,
+13001,Lin AI,,
+13002,Witch,,
+13003,Stella,,
+14001,Elloi,,
+14002,Veila,,
+14003,Yuri,,
+21001,Talia,,
+21002,Nasha,,
+21003,Hancer,,
+21004,Nono,,
+22001,Roselle,,
+22002,Hynel,,
+22003,Fleur,,
+22004,Meimi,,
+23001,Boro,,
+23002,Lana,,
+23003,Sasuke,,
+23004,Shamoke,,
+24001,Pyra,,
+24002,Octagirl,,
+24003,Aeris,,
+24004,Puny,,
+31001,Poppi,,
+31002,Jade,,
+31003,Ursula,,
+31004,Kitty,,
+31005,Samurai,,
+32001,Tula,,
+32002,Edward,,
+32003,King,,
+32004,Donna,,
+32005,Nobuna,,
+33001,Annabelle,,
+33002,Harley,,
+33003,Magician,,
+33004,Caitlin,,
+33005,Marynari,,
+34001,Robin,,
+34002,Sisha,,
+34003,Mythra,,
+34004,Athena,,
+34005,Kenshin,,
+35001,Reo,,
+36001,Luna,,
+41001,Zombia,,
+41002,Flash,,
+41003,Werewolf,,
+41004,Nona,,
+41005,Assassin,,
+41006,Ashely,,
+41007,Ninja,,
+41008,Cynthia,,
+42001,Miya,,
+42002,Bidenty,,
+42003,Boxer,,
+42004,Lily,,
+42005,Nagia,,
+42006,Hypatia,,
+42007,Quinie,,
+42008,Haxie,,
+43001,Nun,,
+43002,Diva,,
+43003,Liz,,
+43004,Anna,,
+43005,Omega,,
+43006,Lightin,,
+43007,Iron Fist,,
+43008,Ada,,
+44001,Beary,,
+44002,Litana,,
+44003,Jelly,,
+44004,Wandy,,
+44005,Elvis,,
+44006,Chainsaw,,
+44007,Medusa,,
+44008,Zoe,,
+45001,Toy Girl,,
+45002,Lisa,,
+45003,Annie,,
+46001,Androi,,
+46002,Calista,,
+46003,Selene,,
+51001,Sapphire,,
+51002,Gambler,,
+51003,Succuba,,
+51004,Dracula,,
+51005,Wu Kong,,
+51006,Fencer,,
+51007,Wildtress,,
+51008,Sakura,,
+51009,Giana,,
+51010,Ennmaya,,
+52001,Hottie,,
+52002,Blowie,,
+52003,Chevalir,,
+52004,Saint,,
+52005,Javelin,,
+52006,Geisha,,
+52007,Sonya,,
+52008,Caitlyn,,
+52009,Guan Yin,,
+52010,Librarian,,
+53001,Priestess,,
+53002,Alice,,
+53003,Nia,,
+53004,Muppet,,
+53005,Nobunaga,,
+53006,Silvia,,
+53007,Turin,,
+53008,Toyo,,
+53009,Masamune,,
+53010,Hexa,,
+53011,Psychic,,
+54001,Amazon,,
+54002,Bud Elf,,
+54003,Himoto,,
+54004,Nani,,
+54005,Lavia,,
+54006,Susan,,
+54007,Aquaris,,
+54008,KongMing,,
+54009,Pandaria,,
+54010,Linky,,
+55001,瓦拉斯基,,
+55002,Amelia,,
+55003,Wraith,,
+55004,Scythe,,
+55005,Lucifer,,
+56001,Angel,,
+56002,Gabriel,,
+56003,Michael,,
+56004,Phoenix,,
+541001,Zombia,,
+541002,Flash,,
+541003,Werewolf,,
+541004,Nona,,
+541005,Assassin,,
+541006,Ashely,,
+541007,Ninja,,
+541008,Cynthia,,
+542001,Miya,,
+542002,Bidenty,,
+542003,Boxer,,
+542004,Lily,,
+542005,Nagia,,
+542006,Hypatia,,
+542007,Quinie,,
+542008,Haxie,,
+543001,Nun,,
+543002,Diva,,
+543003,Liz,,
+543004,Anna,,
+543005,Omega,,
+543006,Lightin,,
+543007,Iron Fist,,
+543008,Ada,,
+544001,Beary,,
+544002,Litana,,
+544003,Jelly,,
+544004,Wandy,,
+544005,Elvis,,
+544006,Chainsaw,,
+544007,Medusa,,
+544008,Zoe,,
+545001,Toy Girl,,
+545002,Lisa,,
+545003,Annie,,
+546001,Androi,,
+546002,Calista,,
+546003,Selene,,
+651001,Sapphire,,
+651002,Succuba,,
+651003,Dracula,,
+651004,Wu Kong,,
+651005,Wildtress,,
+651006,Giana,,
+651007,Chevalir,,
+651008,Javelin,,
+651009,Geisha,,
+651010,Caitlyn,,
+651011,Ennmaya,,
+651012,Cynthia,,
+651013,Werewolf,,
+651014,Nona,,
+651015,Gambler,,
+651016,Fencer,,
+651017,Sakura,,
+652001,Guan Yin,,
+652002,Librarian,,
+652003,Nia,,
+652004,Nobunaga,,
+652005,Silvia,,
+652006,Toyo,,
+652007,Masamune,,
+652008,Hexa,,
+652009,Amazon,,
+652010,Bud Elf,,
+652011,Blowie,,
+652012,Lily,,
+652013,Hottie,,
+652014,Saint,,
+652015,Boxer,,
+652016,Haxie,,
+652017,Sonya,,
+653001,Himoto,,
+653002,Lavia,,
+653003,Susan,,
+653004,Pandaria,,
+653005,Amelia,,
+653006,Angel,,
+653011,Alice,,
+653012,Lightin,,
+653013,Diva,,
+653014,Iron Fist,,
+653015,Muppet,,
+653016,Priestess,,
+653017,Psychic,,
+654011,Nani,,
+654012,Elvis,,
+654013,Aquaris,,
+654014,Zoe,,
+654015,Medusa,,
+654016,KongMing,,
+654017,Linky,,
+655011,Scythe,,
+655012,Annie,,
+655013,Lucifer,,
+655014,Wraith,,
+656011,Gabriel,,
+656012,Selene,,
+656013,Michael,,
+656014,Phoenix,,
+751001,Succuba,,
+751002,Dracula,,
+751003,Wildtress,,
+751004,Giana,,
+751005,Sapphire,,
+751006,Wu Kong,,
+751007,Ennmaya,,
+751008,Gambler,,
+751009,Fencer,,
+751010,Sakura,,
+752001,Chevalir,,
+752002,Javelin,,
+752003,Geisha,,
+752004,Caitlyn,,
+752005,Guan Yin,,
+752006,Librarian,,
+752007,Blowie,,
+752008,Hottie,,
+752009,Saint,,
+752010,Sonya,,
+753001,Nia,,
+753002,Nobunaga,,
+753003,Silvia,,
+753004,Toyo,,
+753005,Masamune,,
+753006,Hexa,,
+753007,Alice,,
+753008,Muppet,,
+753009,Priestess,,
+753010,Psychic,,
+754001,Amazon,,
+754002,Bud Elf,,
+754003,Himoto,,
+754004,Lavia,,
+754005,Susan,,
+754006,Pandaria,,
+754007,Nani,,
+754008,Aquaris,,
+754009,KongMing,,
+754010,Linky,,
+755001,Amelia,,
+755002,Scythe,,
+755003,Lucifer,,
+755004,Wraith,,
+756001,Angel,,
+756002,Gabriel,,
+756003,Michael,,
+756004,Phoenix,,
+1000001,Rum,Gift,"Academy's special reserve, it's delicious, also a usual use for large magic rituals. Can be given to girls as present to increase intimacy of you (if they don't hate it)"
+1000002,Pudding,Gift,"Well-made pudding, daily served with black tea for the girls' afternoon tea session. Can be given to girls as present to increase intimacy of you (if they don't hate it)"
+1000003,Mystery Potion,Gift,"The legendary lost treasure of the Fairy Academy, with only one drop, the one who uses it could intensely become more powerful. Can be given to girls as present to increase intimacy of you (if they don't hate it)"
+1000004,Coffee,Gift,"A coffee made with love, made with the heart not the mind, to make it more savory and mellow at taste. Can be given to girls as present to increase intimacy of you (if they don't hate it)"
+1000005,Evil Fruit,Gift,"Legend says that it could grant great evil powers after being consumed, but it might be just a juice mix of some strange fruit. Can be given to girls as present to increase intimacy of you (if they don't hate it)"
+1000006,Croissant,Gift,"Bread which was baked very hard. For ordinary people, it won't be edible before it's soaked in something wet. Usually seen in close quarter combat. Can be given to girls as present to increase intimacy of you (if they don't hate it)"
+1000007,Turkey,Gift,"Daily food provided by school cafeteria, but it is uncertain where the ingredients come from. Can be given to girls as present to increase intimacy of you (if they don't hate it)"
+1000008,French Fries,Gift,"French Fries made by some special girl, according to her, all the calories were burned, so it's technically healthy food. Can be given to girls as present to increase intimacy of you (if they don't hate it)"
+1000009,Canned Fish,Gift,"Before opening, no one realizes the smell it can produce. Can be given to girls as present to increase intimacy of you (if they don't hate it)"
+1000010,Black Tea,Gift,A nice tea set containing black tea and is the first choice drink for many girls. Can be given to girls as present to increase intimacy of you (if they don't hate it)
+1000011,Dinosaur Blocks,Gift,"A green dinosaur made up of building blocks, can be pretty flexible movement under the control of high-rank magic. Can be given to girls as present to increase intimacy of you (if they don't hate it)"
+1000012,Puppet,Gift,"A nice puppet, made by some mysterious materials where the texture is somewhere between cloth and metal, not sure what the purpose of it is. Can be given to girls as present to increase intimacy of you (if they don't hate it)"
+1000013,SF Pistol,Gift,"A pretty fun toy gun, it can shoot water at the max range of 5 meters. Can be given to girls as present to increase intimacy of you (if they don't hate it)"
+1000014,Chess Piece,Gift,"Little chess piece of a Knight, mostly used as the Npc of Gnd, the most famous board game on campus. Can be given to girls as present to increase intimacy of you (if they don't hate it)"
+1000015,Yoyo,Gift,"Toy seems very cheap, can't make complex movements with it, in most situations it can be used as long-range weapons. Can be given to girls as present to increase intimacy of you (if they don't hate it)"
+1000016,Game Controller,Gift,"Old game controller, its shell is made by fluorescent material, it will catch a lot of attention if you use it at night. Can be given to girls as present to increase intimacy of you (if they don't hate it)"
+1000017,Lucky Cat,Gift,"Specialty of the market, rumor says it could bless the customers to buy adv. capsule coins at a special low price when the market is refreshed. Can be given to girls as present to increase intimacy of you (if they don't hate it)"
+1000018,Slingshot,Gift,Luxury toy that uses advanced capsule coins as a bullet. Can be given to girls as present to increase intimacy of you (if they don't hate it)
+1000019,Skull Pillow,Gift,"Pillow with an adorable skeleton painted on it, loved by many girls. Can be given to girls as present to increase intimacy of you (if they don't hate it)"
+1000020,Umbrella,Gift,"Is it an umbrella that looks like a katana, or is it a katana that looks like an umbrella, only the owner will find out. Can be given to girls as present to increase intimacy of you (if they don't hate it)"
+1000021,Mystic Rose,Gift,"It was said that it was formed by a mysterious explosion, anyone who looks at it makes it disappear, but can still smell its fragrance. Can be given to girls as present to increase intimacy of you (if they don't hate it)"
+1000022,Ribbon,Gift,A red bracelet that gives the owner good luck. Can be given to girls as present to increase intimacy of you (if they don't hate it)
+1000023,Headband,Gift,"Is it real or is it just a headband, those ears bring a lot of questions. Can be given to girls as present to increase intimacy of you (if they don't hate it)"
+1000024,Daisy Hairpin,Gift,"People say it brings you joy when you put it on, some even suspect it even could absorb the power of sunlight. Can be given to girls as present to increase intimacy of you (if they don't hate it)"
+1000025,Amulet,Gift,"It allows its wearer to feel the most pure and original power, recommended to use with copy magic. Can be given to girls as present to increase intimacy of you (if they don't hate it)"
+1000026,Angel Halo,Gift,"Gives the wearer the strength of angel for a short time, also the must decoration of an angel. Can be given to girls as present to increase intimacy of you (if they don't hate it)"
+1000027,Vampire Mask,Gift,"A black mask with tusks on it, rumors say that it can't be taken off once its put on, and it also makes the wearer a vampire. Can be given to girls as present to increase intimacy of you (if they don't hate it)"
+1000028,Fox Mask,Gift,"With the bless of Inari, gives true believers a power boost. Can be given to girls as present to increase intimacy of you (if they don't hate it)"
+1000029,Scarf,Gift,Red scarves can give some light to people. Can be given to girls as present to increase intimacy of you (if they don't hate it)
+1000030,SF Glasses,Gift,"Sf glasses with a headset, they make girls feel really cool. Can be given to girls as present to increase intimacy of you (if they don't hate it)"
+1000031,Ecological Bottle,Gift,"A little bottle with a perfect ecological cycle inside, gives you hope in the universe or in the desert. Can be given to girls as present to increase intimacy of you (if they don't hate it)"
+1000032,Pen,Gift,"Smooth pen, but it requires customized ink. Can be given to girls as present to increase intimacy of you (if they don't hate it)"
+1000033,Cactus,Gift,"Green plant that is easy to breed, for the lazy ones. Can be given to girls as present to increase intimacy of you (if they don't hate it)"
+1000034,Story Book,Gift,"The note of a mysterious society, contains many unknown stories. Can be given to girls as present to increase intimacy of you (if they don't hate it)"
+1000035,Camera,Gift,"Many technological innovations lost their place because of magic, camera isn't one of them. Can be given to girls as present to increase intimacy of you (if they don't hate it)"
+1000036,Kunai,Gift,"One of the common weapons for ninjas, and is could be used as decoration on campus. Can be given to girls as present to increase intimacy of you (if they don't hate it)"
+1000037,Repair tool,Gift,"Tool to repair all kinds of machines, demand definitely exceeds supply. Can be given to girls as present to increase intimacy of you (if they don't hate it)"
+1000038,Flashlight,Gift,"A very unique flashlight, nobody knows that the light it gives is for illumination or destruction. Can be given to girls as present to increase intimacy of you (if they don't hate it)"
+1000039,Notebook,Gift,"A legendary notebook that records all kinds of secrets on campus, it's a sacred object in the hands of an intelligent person. Can be given to girls as present to increase intimacy of you (if they don't hate it)"
+1000040,Cherry Fan,Gift,"Fan with a sakura pattern, it is said that it can cast cyclone with a sakura if fanned with magic power. Can be given to girls as present to increase intimacy of you (if they don't hate it)"
+7032,Monster Examiner,Skin,Monster Examiner skin of Nobunaga
+27032,Monster Examiner,Skin,Monster Examiner skin of Nobunaga
+7033,Summer Breeze,Skin,Summer Breeze skin of Amelia
+27033,Summer Breeze,Skin,Summer Breeze skin of Amelia
+1026,Beach Game Avatar,Special Avatar,Beach Game Avatar
+8008,A Cool Summer,Frame,Avatar Frame can be obtained from a limited time event.
+7034,Azure Sea,Skin,Azure Sea skin of Fencer
+27034,Azure Sea,Skin,Azure Sea skin of Fencer
+7035,Demon Examiner,Skin,Demon Examiner skin of Lucifer
+27035,Demon Examiner,Skin,Demon Examiner skin of Lucifer
+55,Challenge Coupon,Character Challenge Ticket,Used to participate in challenges
+56,Cake Coupon,Event Material,Used to exchange rewards in Cake Making event. It cannot be exchanged after the event. Please use it during the event.
+1166,Warrior Sword,Weapon,
+2166,Warrior Armor,Armor,
+3166,Warrior Helmet,Accessory,
+4166,Warrior Greaves,Bottoms,
+1266,Mage Staff,Weapon,
+2266,Mage Robe,Armor,
+3266,Mage Circlet,Accessory,
+4266,Mage Boots,Bottoms,
+1366,Ranger Bow,Weapon,
+2366,Ranger Suit,Armor,
+3366,Ranger Quiver,Accessory,
+4366,Ranger Boots,Bottoms,
+1466,Assassin Dagger,Weapon,
+2466,Assassin Hood,Armor,
+3466,Assassin Ring,Accessory,
+4466,Assassin Boots,Bottoms,
+1566,Priest Potion,Weapon,
+2566,Priest Dress,Armor,
+3566,Priest Cross,Accessory,
+4566,Priest Boots,Bottoms,
+6443,Thorn's Heart,Antique,
+6444,Thorn's Heart,Antique,
+6445,Thorn's Heart,Antique,
+6446,Thorn's Heart,Antique,
+6447,Thorn's Heart,Antique,
+6448,Thorn's Heart,Antique,
+7036,Party Pooper,Skins,Party Pooper skin of Sonya
+27036,Party Pooper,Skins,Party Pooper skin of Sonya
+7037,Honey Goddess,Skins,Honey Goddess skin of Gabriel
+27037,Honey Goddess,Skins,Honey Goddess skin of Gabriel
+57,Anniversary Slot Energy,Event Material,Used to pull the Anniversary Slot Machine in the Anniversary Slot Event.
+58,Anniversary\nSlot Pt,Event Material,Used to exchange rewards in the Anniversary Slot Event Store. The exchange will not be available after the event ends. Please use it during the event!
+7038,Wave Surfer,Skins,Wave Surfer skin of Hexa
+27038,Wave Surfer,Skins,Wave Surfer skin of Hexa
+7039,Divine Bride,Skins,Divine Bride skin of Priestess
+27039,Divine Bride,Skins,Divine Bride skin of Priestess
+1027,Anniversary Exclusive Avatar,Special Avatar,Anniversary Event Exclusive Avatar
+7040,Rose Quartz,Skins,Rose Quartz skin of Hexa
+27040,Rose Quartz,Skins,Rose Quartz skin of Hexa
+1028,Summer Ice Cream Avatar,Special Avatar,Beach Game Avatar
+8009,Pool Party,Frame,Avatar Frame can be obtained from a limited time event.
+7041,Ocean Breeze,Skins,Ocean Breeze skin of Amazon
+27041,Ocean Breeze,Skins,Ocean Breeze skin of Amazon
+7042,Fairy Examiner,Skins,Fairy Examiner skin of KongMing
+27042,Fairy Examiner,Skins,Fairy Examiner skin of KongMing
+7043,Summer Fantasy,Skins,Summer Fantasy skin of Wraith
+27043,Summer Fantasy,Skins,Summer Fantasy skin of Wraith
+7044,White Kimono,Skins,White Kimono skin of Nobunaga
+27044,White Kimono,Skins,White Kimono skin of Nobunaga
+7045,Ghost Examiner,Skins,Ghost Examiner skin of Dracula
+27045,Ghost Examiner,Skins,Ghost Examiner skin of Dracula
+9101,Phoenix·Yay,Chat emoji,「Yay」chat emoji of Phoenix
+9102,Iron Fist·Grievance,Chat emoji,「Grievance」chat emoji of Iron Fist
+9103,Linky·Total Confidence,Chat emoji,「Total Confidence」chat emoji of Linky
+9104,Saint·Contemplating,Chat emoji,「Contemplating」chat emoji of Saint
+7046,Pure Feather,Skins,Pure Feather skin of Angel
+27046,Pure Feather,Skins,Pure Feather skin of Angel
+7047,Alluring Face,Skins,Alluring Face skin of Hottie
+27047,Alluring Face,Skins,Alluring Face skin of Hottie
+7048,Eternal Flame,Skin,Eternal Flame skin of Phoenix
+27048,Eternal Flame,Skin,Eternal Flame skin of Phoenix
+7049,Graceful Veil,Skin,Graceful Veil skin of Wraith
+27049,Graceful Veil,Skin,Graceful Veil skin of Wraith
+59,Festival Lantern,Event Material,Exclusive item that can be exchanged for rewards during its corresponding event.
+1029,Sword of Determination,Special Avatar,Summer Festival Avatar
+930177,5-star CapsuGirl,Summon,Collect 50 shards to summon the girl
+5641,Dragon Jade,,
+5642,Dragon Jade,,
+5643,Dragon Jade,,
+5644,Dragon Jade,,
+5645,Dragon Jade,,
+5646,Dragon Jade,,
+5647,Dragon Jade,,
+5648,Dragon Jade,,
+5649,Dragon Jade,,
+5650,Dragon Jade,,
+5651,Dragon Jade,,
+5652,Dragon Jade,,
+5653,Dragon Jade,,
+5654,Dragon Jade,,
+5655,Dragon Jade,,
+5656,Dragon Jade,,
+5657,Dragon Jade,,
+5658,Dragon Jade,,
+5659,Dragon Jade,,
+5660,Dragon Jade,,
+7050,Soul Music,Skins,Soul Music skin of Lucifer
+27050,Soul Music,Skins,Soul Music skin of Lucifer
+7051,Rock Concert,Skins,Rock Concert skin of Nani
+27051,Rock Concert,Skins,Rock Concert skin of Nani
+8010,Band Performance,Frame,"Exclusive Frame for Live show, acquired via exclusive event"
+52011,CapsuGirl,,
+652018,CapsuGirl,,
+752011,CapsuGirl,,
+7052,Rolling Beat,Skins,Rolling Beat skin of Hexa
+27052,Rolling Beat,Skins,Rolling Beat skin of Hexa
+6449,Fusion Umbrella,,
+6450,Fusion Umbrella,,
+6451,Fusion Umbrella,,
+6452,Fusion Umbrella,,
+6453,Fusion Umbrella,,
+6454,Fusion Umbrella,,
+60,Lunar Dango,Event Material,Exclusive item that can be exchanged for rewards during its corresponding event.
+7053,Ground Bass,Skins,Ground Bass skin of Amazon
+27053,Ground Bass,Skins,Ground Bass skin of Amazon
+7054,Sofa Bunny,Skins,Sofa Bunny skin of Caitlyn
+27054,Sofa Bunny,Skins,Sofa Bunny skin of Caitlyn
+1030,Band Performance,Special Avatar,Live Show Avatar
+20001031,Maple Leaf,Special Avatar,Mid-Autumn Avatar
+7055,Covert Ops,Skins,Covert Ops skin of Linky
+27055,Covert Ops,Skins,Covert Ops skin of Linky
+930178,5-star Valeera,Summon Girl,Collect 50 shards to summon the girl.
+7056,Grimoire,Skin,Grimoire skin of Valeera
+27056,Grimoire,Skin,Grimoire skin of Valeera
+7057,Radiant Plume,Skin,Radiant Plume skin of Phoenix
+27057,Radiant Plume,Skin,Radiant Plume skin of Phoenix
+8011,Senior Scholar,Frame,"Exclusive Frame for Article Research, acquired via exclusive event"
+8012,Ultimate League Top 64,Frame,Complete Challenge: Reach Top 64 in Ultimate League
+8013,Ultimate League Top 8,Frame,Complete Challenge: Reach Top 8 in Ultimate League
+8014,Ultimate League Top 4,Frame,Complete Challenge: Reach Top 4 in Ultimate League
+8015,Ultimate League Champion,Frame,Complete Challenge: Become the Champion in Ultimate League once
+8016,Ultimate League Champion,Frame,Complete Challenge: Become the Champion in Ultimate League twice
+8017,Ultimate League Champion,Frame,Complete Challenge: Become the Champion in Ultimate League for 3 times
+8018,Ultimate League Champion,Frame,Complete Challenge: Become the Champion in Ultimate League for 4 times
+8019,Ultimate League Champion,Frame,Complete Challenge: Become the Champion in Ultimate League for 5 times
+51011,Valeera,,
+651018,Valeera,,
+751011,Valeera,,
+61,Candy,Event Material,Exclusive item that can be exchanged for rewards during its corresponding event.
+62,Maple Leaf,Event Material,Exclusive item that can be exchanged for rewards during its corresponding event.
+7058,Fresh Start,Skins,Fresh Start skin of Iron Fist
+27058,Fresh Start,Skins,Fresh Start skin of Iron Fist
+7059,Autumn Colors,Skins,Autumn Colors skin of Pandaria
+27059,Autumn Colors,Skins,Autumn Colors skin of Pandaria
+7060,Tricky Yokai,Skins,Tricky Yokai skin of Gambler
+27060,Tricky Yokai,Skins,Tricky Yokai skin of Gambler
+67,Pumpkin,Event Material,Used to exchange rewards in Halloween Preparation event. It cannot be exchanged after the event. Please use it during the event.
+999999999,Candy Heist,,Candy Heist skin of Ennmaya
+99999999,Candy Heist,,Candy Heist skin of Ennmaya
+7062,Sweet Magic,Skins,Sweet Magic skin of Lavia
+27062,Sweet Magic,Skins,Sweet Magic skin of Lavia
+68,Book Spirit,Event Material,Exclusive item that can be exchanged for rewards during its corresponding event.
+20001032,Black Cat,Special Avatar,Halloween Avatar for 2019
+1010001,Blank,Furniture,"Regular wallpaper, that's it."
+1010002,Wooden,Furniture,"It makes a sound when being stepped on, just like a sign of welcome."
+1010003,CardBoard,Furniture,It's important to maintain your dorm clean.
+1010004,Carton,Furniture,Remember to prepare some paper boxes if you're moving house.
+1010005,Tiny Table,Furniture,"No dishes on the table, even Sonya cannot cook without material."
+1010006,Paper Stool,Furniture,It's just a temporary replacement for a stool.
+1010007,Straw Mat,Furniture,"Clean and dry, a good pillow will ensure you a good sleep at night."
+1010008,Plant,Furniture,Plants will make your dorm more lively... But remember to pick the breed which is easy to raise.
+1010009,Tea Set,Furniture,It is always a pleasure method to greet a friend from afar.
+1010010,Bucket,Furniture,This is NOT meant to fix the room leaking problem!
+1010011,Cleaning Tool,Furniture,"If you finish cleaning the floor, it will be safe to roll on it."
+1010012,Story Book,Furniture,"The book borrowed from Valeera, remember, not a scratch."
+1010013,Storage Box,Furniture,"When you have too many things to carry, the paper boxes you use will surely occupy a large space."
+1010014,Post-it,Furniture,"The bill received yesterday, some lines wrote sometime earlier today, and the note for yesterday, it's part of our lives."
+1010015,Class List,Furniture,Don't be late.
+1010016,Poster,Furniture,Michael is still shiny like a true angel.
+1010017,Door,Furniture,Remember to lock the door before you leave.
+1010018,Window,Furniture,Ventilation is necessary unless you're using an air-conditioner.
+69,Furniture Coin,Currency for Furniture Store,Used to purchase furniture in Furniture Store
+930179,5-star Turin,Summon,Collect 50 shards to summon the girl
+7063,Frostfire Comet,Skins,Frostfire Comet skin of Javelin
+27063,Frostfire Comet,Skins,Frostfire Comet skin of Javelin
+7064,Shooting Star,Skins,Shooting Star skin of Librarian
+27064,Shooting Star,Skins,Shooting Star skin of Librarian
+70,Mysterious Token,Event Material,Exclusive item that can be exchanged for rewards during its corresponding event.
+1020001,Classroom Wall,Furniture,The bottom part was painted in deep color so nobody will know if any student kicked on the wall.
+1020002,Classroom Floor,Furniture,The pattern aims to remind the students of the order.
+1020003,Desk1,Furniture,Don't hide anything forbidden inside.
+1020004,Desk2,Furniture,There're always some desks awaiting a new owner in the classrooms.
+1020005,Podium,Furniture,This is your teachers' domain.
+1020006,Class Chair1,Furniture,Please don't leave your seat during a class.
+1020007,Class Chair2,Furniture,Please don't leave your seat during a class.
+1020008,Tiny shelf,Furniture,"A public shelf, you can share your books with others by placing them there."
+1020009,Textbook,Furniture,Don't damage the public property!
+1020010,Pen Holder,Furniture,It's important to make your desk in order.
+1020011,Locker,Furniture,Best place for the naughty students to hide their stuff.
+1020012,Cleaning Cabinet,Furniture,It's big enough to become a temporary hideout
+1020013,Pot Plant,Furniture,It's also a part of education to learn patience and circumspection by taking care of it.
+1020014,Cabinet Air Conditioner,Furniture,"Air conditioner with higher energy consumption, remember to shut it down after school."
+1020015,Rubbish Bin,Furniture,Don't leave your garbage anywhere but here!
+1020016,Movable Blackboard,Furniture,"Can be written on both sides, so don't erase anything written by your teacher."
+1020017,Blackboard1,Furniture,"A blackboard fixed on the wall, someone drew on it."
+1020018,Blackboard2,Furniture,Remember to erase whatever you write before the next class begins.
+1020019,Classroom Door,Furniture,"If you are locked inside, wait patiently for the rescue, climbing from the window on top of the door is not a safe option."
+1020020,Clock,Furniture,Runs slow during a class.
+1020021,Speaker on Wall,Furniture,Why it's not making any sound! The class should have been over already!
+1020022,Classroom Window,Furniture,"Window for a classroom, easy to be broken when it's near the playground."
+63,Certificate,Raid Ticket for House Exam,Used to Raid in passed stages of House Exam
+64,Admission Ticket,Challenge Ticket for House Exam,Used to challenge new stages of House Exam
+65,Lunar Badge,House Exam Store Token,Used to purchase items in House Exam Store
+66,Solar Badge,House Exam Store Token,Used to purchase items in House Exam Store
+8020,Turin's Keepsake,Frame,Acquired via passing Turin's Character Challenge
+1030001,Indoor Wallpaper,Furniture,You can ruin it with a stamp of finger.
+1030002,Tatami,Furniture,It's larger than the traditional size…
+1030003,Black Wood Table,Furniture,"Bigger size, bigger fun."
+1030004,Cushion1,Furniture,"Helpful when you have a rest, you can even use it as a pillow."
+1030005,Round Table,Furniture,"You can take a nap with that, but remember to keep your legs warm."
+1030006,Cushion2,Furniture,"Helpful when you have a rest, you can even use it as a pillow."
+1030007,New Teaset,Furniture,You can make it ceremonial when cooking tea.
+1030008,Mega Lunch Box,Furniture,Have a luxury lunch!
+1030009,Flower Art1,Furniture,Proper art that fits the room
+1030010,Flower Art2,Furniture,Proper art that fits the room
+1030011,Floor Lamp,Furniture,"It's used to foil the atmosphere, use other lamps for illumination."
+1030012,Wafuu Bed,Furniture,It feels the best to sleep in the bed--- Cayla.
+1030013,Screen,Furniture,"It's a perfect cover when you're trying to escape from a pursuit, keep that in mind."
+1030014,Landline Phone,Furniture,Cut the communication first when you're trying to capture a dorm.
+1030015,Lucky Painting,Furniture,The cat on the painting is a god of fortune.
+1030016,Wafuu Gate,Furniture,The gate is not opened by pushing (the note is for everyone…)
+1030017,Television,Furniture,You can record the show you want to watch when you're absent.
+1030018,Room Air Conditioner,Furniture,"It can save your life in summer, as long as the electricity is not cut off."
+1030019,Fan-shaped Window,Furniture,It can make your room look better. Don't expect anything more.
+7065,Cyber Strike,Skins,Cyber Strike skin of Turin
+27065,Cyber Strike,Skins,Cyber Strike skin of Turin
+7066,Falling Petals,Skins,Falling Petals skin of Sakura
+27066,Falling Petals,Skins,Falling Petals skin of Sakura
+7067,Light Breeze,Skins,Light Breeze skin of Psychic
+27067,Light Breeze,Skins,Light Breeze skin of Psychic
+7068,Hot Springs,Skins,Hot Springs skin of Bud Elf
+27068,Hot Springs,Skins,Hot Springs skin of Bud Elf
+71,Ceramic Cup,Event Material,Exclusive item that can be exchanged for rewards during its corresponding event.
+653018,Turin,,
+753011,Turin,,
+7069,Tempting Heat,Skins,Tempting Heat skin of Scythe
+27069,Tempting Heat,Skins,Tempting Heat skin of Scythe
+72,Angel Mark,Event Material,Exclusive item that can be exchanged for rewards during its corresponding event
+73,Rune Engraving,Girls Store Token,Used to exchange girls in Cafe
+940004,Elite 5-star Girls Shard,Summon,Collect 50 shards to summon an Elite but non-Angel/Demon Faction 5-star girl
+940005,Elite 5-star Demon Shard,Summon,Collect 50 shards to summon an Elite Demon 5-star girl
+940006,Elite 5-star Angel Shard,Summon,Collect 50 shards to summon an Elite Angel 5-star girl
+9105,Hexa · Shocked,Chat emoji,「Shocked」chat emoji of Hexa
+9106,Valeera · Unpleasant,Chat emoji,「Unpleasant」chat emoji of Valeera
+7070,Hot Bath,Skins,Hot Bath skin of Succuba
+27070,Hot Bath,Skins,Hot Bath skin of Succuba
+7071,Sylph,Skins,Sylph skin of Priestess
+27071,Sylph,Skins,Sylph skin of Priestess
+7072,Atlantean,Skins,Atlantean skin of Aquaris
+27072,Atlantean,Skins,Atlantean skin of Aquaris
+661001,Ghost Doll,,
+662001,Human Doll,,
+663001,Monster Doll,,
+664001,Fairy Doll,,
+665001,Demon Doll,,
+666001,Angel Doll,,
+761001,Ghost Doll,,
+762001,Human Doll,,
+763001,Monster Doll,,
+764001,Fairy Doll,,
+765001,Demon Doll,,
+766001,Angel Doll,,
+74,Costume Ticket,Exchange Material,Used to exchange skins in Skin Store
+75,Elementium,Exchange Material,Used to exchange the Event Materials in exchange-type events
+2000038,Twins of Fate,Background Picture,Can be set as loading picture for battles
+1040001,Christmas Wallpaper,Furniture,"With this wallpaper on, Christmas is never off~"
+7073,Magi's Gift,Skins,Magi's Gift skin of Esau & Jacob
+27073,Magi's Gift,Skins,Magi's Gift skin of Esau & Jacob
+7074,X-Mas Cutie,Skins,X-Mas Cutie skin of Blowie
+27074,X-Mas Cutie,Skins,X-Mas Cutie skin of Blowie
+6455,Echoes,,
+6456,Echoes,,
+6457,Echoes,,
+6458,Echoes,,
+6459,Echoes,,
+6460,Echoes,,
+76,Christmas Ribbon,Event Material,Exclusive item that can be exchanged for rewards during its corresponding event
+1040002,Christmas Floor,Furniture,"Wooden floor colored with dark-red paint, make no mistake, it doesn't make the floor any harder."
+1040003,Christmas Carpet (White),Furniture,"A well-made carpet, easy to get dirty though."
+1040004,Christmas Carpet (Red),Furniture,"Another well-made carpet, and obvious reasons, it doesn't need to be washed as frequently as the other one."
+1040005,Christmas Bed,Furniture,"Now it's Christmas, let's sleep in style."
+1040006,Christmas Couch,Furniture,You can spend a whole night talking with a friend on that couch!
+1040007,Christmas Table,Furniture,Let's dine by that table!
+1040008,Christmas Stool,Furniture,"Sadly, it's still not big enough to seat a reindeer."
+1040009,Steak,Furniture,Meat is the best!
+1040010,Turkey,Furniture,Can't celebrate Christmas without a turkey.
+1040011,Bread,Furniture,Hard enough to be used as a self-defense weapon.
+1040012,Red Wine,Furniture,It's not for the kids!
+1040013,Christmas Tree,Furniture,Please place your Christmas gifts under it.
+1040014,Christmas Gift Box,Furniture,Why does the tip suggest to open this box when alone?
+1040015,Santa Claus Doll,Furniture,Its bag is a perfect place to hide the snacks.
+1040016,Crystal Ball,Furniture,Portable snow-scene simulator.
+1040017,Fireplace,Furniture,It will become more of a decoration when your air-conditioner stops working.
+1040018,Christmas Blessing,Furniture,Merry Christmas!
+1040019,Christmas Window,Furniture,Nothing's outside... Nothing!!!
+1040020,Christmas Decoration,Furniture,Now we can call it a Christmas.
+77,Unlock the 4th Gift,,You will unlock the 4th gift bag in Summer Theatre by purchasing this pack
+930180,5-star Esau & Jacob,Summon,Collect 50 shards to summon the girl
+930181,5-star Raphael,Summon,Collect 50 shards to summon the girl
+55006,Esau & Jacob,,
+655015,Esau & Jacob,,
+755005,Esau & Jacob,,
+56005,Raphael,,
+656015,Raphael,,
+756005,Raphael,,
+8021,Love Bubble,Frame,Avatar frame for acquired from the voting event.
+78,Support Ticket,Event Material,Exclusive items that can be used to vote in Winning Heart.
+79,Support Ticket,Event Material,Exclusive items that can be used to vote in Winning Heart.
+80,Support Ticket,Event Material,Exclusive items that can be used to vote in Winning Heart.
+81,Lucky Gift,Resource Box,Each Contains 100K Coins and 70K Exp Juice
+82,Lovely Gift,Resource Box,"You can get one of the following rewards randomly by opening this box(The chance for each gift is equal)：「Adv. Capsule Coins x1, Seal x1, Super Slot Ticket x1, 5-star Girls Shard x10, Orange Antique Shard x5」"
+7075,Winter Wonder,Skins,Winter Wonder skin of Annie
+27075,Winter Wonder,Skins,Winter Wonder skin of Annie
+20001033,2020 Exclusive avatar,Special Avatars,2020 Exclusive avatar
+20001034,Christmas 2019,Special Avatars,Exclusive Avatar for GXB2- FB Christmas event 2019
+8022,Splendid,Frame,Exclusive frame for winning a top 10 position in GXB2- FB Christmas Event 2019
+83,Snowman MK.II,Event Material,Exclusive item that can be exchanged for rewards during its corresponding event
+84,Gloves,Event Material,Exclusive item that can be exchanged for rewards during its corresponding event
+7076,Icecrown Noble,Skins,Icecrown Noble skin of Fencer
+27076,Icecrown Noble,Skins,Icecrown Noble skin of Fencer
+1050001,New Year Wallpaper,Furniture,Now it feels like we're celebrating something.
+1050002,Snow Field,Furniture,"You can surely have fun, even though it's not real snow."
+1050003,Sleeping Snowman,Furniture,It's a snowman on the ground. Maybe you need more rest than he does.
+1050004,Stone Table,Furniture,"If the table is placed outdoors, you'd better not dine on that."
+1050005,Stone Chair,Furniture,"It can be used to flatten the snows, not your toes."
+1050006,A pot of Tea,Furniture,"Here, warm yourselves."
+1050007,Rock Road 1,Furniture,"Solid ground, even after a snow."
+1050008,Rock Road 2,Furniture,"Solid ground, even after a snow."
+1050009,Pond,Furniture,Will melt in the end!
+1050010,Wintersweet,Furniture,It's no longer the only kind of flower can be seen in winter since they've invented greenhouse~
+1050011,Lion Chair,Furniture,"Made by the tools used in a Lion Dance! Please, take seat."
+1050012,Chinese Snack Store,Furniture,Come get some sugar-coated haws!
+1050013,Breakfast Store,Furniture,Not for those who stay up late.
+1050014,Firework Store,Furniture,"We know that they've developed those called virtual fireworks, but cannot beat a classic."
+1050015,Small Firework,Furniture,"Be cautious, this is still dangerous stuff!"
+1050016,Snowball Cannon,Furniture,This baby can bring anything to the sky!
+1050017,Red Lantern,Furniture,Big and uneatable sugar-coated haws.
+1050018,Spring Gate,Furniture,Welcome Back~
+1050019,Spring Window,Furniture,Happy Year of the Rat!
+1050020,Stone Lantern,Furniture,It will guide your way at night. (Aint this something you want to place indoor?)
+1050021,占位,Furniture,描述占位
+930182,5-star Mio,Summon,Collect 50 shards to summon the girl
+54011,Mio,,
+654018,Mio,,
+754011,Mio,,
+7077,Coffee Break,Skins,Coffee Break skin of Raphael
+27077,Coffee Break,Skins,Coffee Break skin of Raphael
+85,Spring Ticket,Event Material,Exclusive item that can be exchanged for rewards during its corresponding event
+86,Scratch Ticket,Event Material,"Event items used in Luck Contest. Chances to get 5-star Elite Girls Shards, 5-star Girls Shards, 4-star Angel or Demon Shards and 4-Star Girls Shards!"
+7078,Lion Dance,Skins,Lion Dance skin of Mio
+27078,Lion Dance,Skins,Lion Dance skin of Mio
+6461,Burning Blades,,
+6462,Burning Blades,,
+6463,Burning Blades,,
+6464,Burning Blades,,
+6465,Burning Blades,,
+6466,Burning Blades,,
+7079,Twins of Destiny,Skins,Twins of Destiny skin of Esau & Jacob
+27079,Twins of Destiny,Skins,Twins of Destiny skin of Esau & Jacob
+7080,Sky Lantern,Skins,Sky Lantern skin of Muppet
+27080,Sky Lantern,Skins,Sky Lantern skin of Muppet
+87,Bloody Mary,Event Material,Exclusive item that can be exchanged for rewards during its corresponding event
+7081,Queen of Hearts,Skins,Queen of Hearts skin of Saint
+27081,Queen of Hearts,Skins,Queen of Hearts skin of Saint
+52012,Ithil,,
+652019,Ithil,,
+752012,Ithil,,
+930183,5-star Ithil,Summon,Collect 50 shards to summon the girl
+6467,Silver Mirage,,
+6468,Silver Mirage,,
+6469,Silver Mirage,,
+6470,Silver Mirage,,
+6471,Silver Mirage,,
+6472,Silver Mirage,,
+7082,Silverthorn Rose,Skins,Silverthorn Rose skin of Ithil
+27082,Silverthorn Rose,Skins,Silverthorn Rose skin of Ithil
+88,Coffee Ticket,Event Material,Event material for exchanging rewards in Maid Cafe
+89,Strawberry Cake,Event Material,Event material for exchanging rewards in Sweet Bakery. Can be exchanged with Elementium.
+90,Coffee Encyclopedia,Event Material,Event material for exchanging rewards in Coffee Lab.
+91,Coffee Making Table,Event Item,Event item for completing the orders in Coffee Lab.
+1060001,Wall of Cafe,Furniture,"A wall decorated with deep-colored boards and light-colored bricks. Inside, it's the newly opened cafe."
+1060002,Floor Tile,Furniture,Floor Tile tiled with bricks under nonskid surface treatment.
+1060003,Cafe Counter,Furniture,"This is where we put our coffee making equipment, not a bed!"
+1060004,Bar Chair,Furniture,It's also a wise choice to talk with the shop assistant while sitting on such a chair.
+1060005,Dessert Cabinet,Furniture,Desserts on sale!
+1060006,Coffee Machine,Furniture,"If the old way is still not dead, it has a reason, you will soon find out if you try a cup of coffee made with this machine~"
+1060007,Siphon,Furniture,It's a long procedure to make a cup of coffee with water and coffee beans.
+1060008,Cashier,Furniture,Notice for Barista: Remember to let the customers pay for what they've ordered.
+1060009,Coffee Table,Furniture,"Fetch yourself a cup of coffee and relax, you will soon notice, you need a sofa.--- Unknown Customer."
+1060010,A cup of coffee,Furniture,Please add more sugar if you don't like black coffee.
+1060011,Coffee Chair 1,Furniture,"Grab a cup of coffee with your friend, and start a conversation with her, that's what life is all about."
+1060012,Coffee Chair 2,Furniture,"Grab a cup of coffee with your friend, and start a conversation with her, that's what life is all about."
+1060013,Bench,Furniture,"A bench which is more like a long sofa, It's a better place to relax than sitting on any Cafe Counter."
+1060014,Standing Sign,Furniture,Coffee on sale~
+1060015,Decorative Plant,Furniture,You will need some plants in any kind of room!
+1060016,Cat Tree,Furniture,Now it's a Cat café here…
+1060017,Pastries,Furniture,"Hold on, more coming~"
+1060018,Stairs,Furniture,"Stairs to the 2nd floor, if there is one."
+1060019,Bookshelf,Furniture,"Filled with different books, you can grab one to read during your spare time."
+1060020,Shelf,Furniture,"It's usually not used to contain stuff, just like you're not always in the cafe for a cup of coffee."
+1060021,Price List,Furniture,We will not raise the price easily.
+1060022,Coffee Shelf,Furniture,You can find every breed of coffee beans and coffee powder here.
+1060023,Coffee Beans,Furniture,"It's not the best way to store your coffee beans, but it will at least make your cafe look more professional."
+1060024,Wall Picture,Furniture,"Not a part of history, but it will be forgotten."
+7083,Newbie Barista,Skins,Newbie Barista skin of Raphael
+27083,Newbie Barista,Skins,Newbie Barista skin of Raphael
+930184,5-star N-Gen Iron Fist,Summon,Collect 50 shards to summon the girl
+53012,N-Gen Iron Fist,,
+653019,N-Gen Iron Fist,,
+753012,N-Gen Iron Fist,,
+92,Phantom Particle,Event Material,"Special Material, can be used to exchange Phantom Essence in the event ""Pray to the Stars""."
+7084,Maid for a Day,Skins,Maid for a Day skin of Linky
+27084,Maid for a Day,Skins,Maid for a Day skin of Linky
+7085,Coffee Magic,Skins,Coffee Magic skin of Gambler
+27085,Coffee Magic,Skins,Coffee Magic skin of Gambler
+6473,Neutron Blades,,
+6474,Neutron Blades,,
+6475,Neutron Blades,,
+6476,Neutron Blades,,
+6477,Neutron Blades,,
+6478,Neutron Blades,,
+93,Elite Badge,Event Material,Event Material for summoning Girls in Homework-Elite Assembly
+94,The eye of Vulcan,Special Item,"
+A piece of red crystal, one of the ""Antiques"". It\'s the relic of Hunter\'s tribe that grants the Hunters power of fire.
+
+In the legend of Hunter\'s tribe, the crystal used to be the right eye of Azachil, the god of fire and hunt. The story is that Azachil left her right eye to protect her believers from winter and continues her eternal hunt.
+
+There\'s no evidence for the god really exists, but when you look into the crystal, you will feel like a fierce creature inside of it is also staring at you."
+95,Turin's Game,Special Item,"
+Designed by Sivney and Turin, A.K.A Servant Controller. After the last modification, this device can induce or even control the behavior of Servants in a certain area. This device has some hidden features, but Sivney never told anyone how to activate them.
+
+During the war against Chaos, Turin caused great damage to the Hunters Tribe with this device, and she failed to understand what she has taken from them or feel any guilt until she gains her self conscious. This is surely a tragedy, but the good news is, now she has earned a chance to redeem herself.
+
+Tips: ""Servant"" is not a specific kind of creature, all the non-human creatures that can be tamed can be called as ""Servants""."
+96,Cap'n'bells,Event Material,Event material for exchanging rewards in April Fools
+97,Chaos Crystal,Event Material,Event material for spinning Wheel of Fortune in Righteous Liberation
+98,Star Powder,Event Material,"
+Some shining low-gluten flour, perfect for making desserts. But the cake made by that won\'t make you full, no matter how much you eat... Maybe it\'s an advantage?
+
+Used to make desserts in Event Pasty Studio.
+
+※The item will be automatically exchanged into Coins by the system after the event is over."
+7086,Pretty in Pink,Skins,Pretty in Pink skin of Psychic
+27086,Pretty in Pink,Skins,Pretty in Pink skin of Psychic
+3000001,Mineral Water,Referee's Reserve,"It's not something special, but you have to admit it is your best choice after a race."
+3000002,Sushi Set,Referee's Reserve,Set of 3 different types of handmade sushi. You can imagine how pricy it can be with all the fresh materials on it.
+3000003,Energy Chocolate,Referee's Reserve,A bar of Energy Chocolate can supply your energy need for a day.
+3000004,Watermelon,Referee's Reserve,Juicy summer fruit. Imagine how much they have paid to let you have it in this season.
+3000005,Ithil's Riceball,Referee's Reserve,Some said Ithil stayed up very late just to prepare this for a very special person.
+3000006,Popping Candy,Referee's Reserve,Just like solidified pop. Strongly suggest you keep your mouth shut when having one on your tongue.
+3000007,Waterproof Lunchbox,Referee's Reserve,"A luxury lunch for anyone, covered with a waterproof package."
+3000008,Wagashi,Referee's Reserve,Looks like a Sno Ball. But fresher and sweeter.
+3000009,Double Cheese Burger,Referee's Reserve,"A perfect Hamberger with double cheese, it tastes really nice. But make no mistake, it still puts weight in you."
+3000010,Starting Pistol,Referee's Reserve,Starting Pistol for the referee. Don't aim at anyone with this.
+3000011,Referee's Cards,Referee's Reserve,Mostly used in football matches. But you will never want to have one as a football player.
+3000012,Headset,Referee's Reserve,"A Noise-cancelling headset, make sure it's on your head when you need to fire a starting pistol."
+3000013,Locator,Referee's Reserve,A strange device that can record your track.
+3000014,Stopwatch,Referee's Reserve,"An old stopwatch, you'd better read through the instructions before actually using it."
+3000015,Headband,Referee's Reserve,The headband used for cavalry battles. Don't let others take it from you or you will lose.
+3000016,Towel,Referee's Reserve,A big and soft towel. But it won't make you a superhero even if you wear it like a cloak.
+3000017,Whistle,Referee's Reserve,"A customized whistle that can make a great sound, you will find it very useful in many kinds of situations."
+3000018,Baseball Cap,Referee's Reserve,It is firstly designed only for baseball games. But now it's a part of the fashion.
+3000019,S.H Certificate,Referee's Reserve,A Referee's certificate in Scavenger Hunt
+3000020,B.M Certificate,Referee's Reserve,A Referee's certificate in Baseball Match
+3000021,V.M Certificate,Referee's Reserve,A Referee's certificate in Volleyball Match
+3000022,F.M Certificate,Referee's Reserve,A Referee's certificate in Football Match
+3000023,Natatorium Pass,Referee's Reserve,You can enter the Natatorium without reservation if you got this.
+3000024,Schedule,Referee's Reserve,"The schedule for referees of the Archery Competition. If the referee you want to find is not at work, you may still find her among the audience."
+3000025,Application Form,Referee's Reserve,"The Application Form for Jousting Tournament. But before signing up, you will need to find yourself a few teammates."
+3000026,Special Map,Referee's Reserve,"A map specially designed for orienteering, with simple and clear annotations to indicate all the terrain details of the school."
+7087,Sakura Sprite,Skins,Sakura Sprite skin of Turin
+27087,Sakura Sprite,Skins,Sakura Sprite skin of Turin
+99,Easter Egg,Event Material,"
+Elaborately painted and packed Easter Egg. There\'s a mysterious gift hidden inside its white chocolate eggshell. You can get the gift by breaking the shell--- or eating it up.
+
+Used for acquiring rewards in event Eastertide Prep.
+
+※It will be automatically exchanged into Coins when the event ends."
+100,Orange Egg,Event Material,An easter egg inside the counter. Which means it's not for free.
+101,Wax Paint R,Event Material,"Event material, allows you to use red wax paint in event Eastertide Prep."
+102,Wax Paint O,Event Material,"Event material, allows you to use orange wax paint in event Eastertide Prep."
+103,Wax Paint Y,Event Material,"Event material, allows you to use yellow wax paint in event Eastertide Prep."
+104,Wax Paint G,Event Material,"Event material, allows you to use green wax paint in event Eastertide Prep."
+105,Wax Paint C,Event Material,"Event material, allows you to use cyan wax paint in event Eastertide Prep."
+106,Wax Paint B,Event Material,"Event material, allows you to use blue wax paint in event Eastertide Prep."
+107,Wax Paint P,Event Material,"Event material, allows you to use purple wax paint in event Eastertide Prep."
+108,Sports Meeting Medal,Event Material,Acquired by participating in Yume Sports Meeting
+109,Support Ticket,Event Material,"Event material, used to bet on Exhibition Matches of Yume Sports Meeting. Will be automatically exchanged into Coins after the event is over."
+110,Referee Token,Event Material,"Event material, used to exchange Referee Items in Preparation Room. It will be able to be sold after the event is over."
+7088,Flower Maidens,Skins,Flower Maidens skin of Esau & Jacob
+27088,Flower Maidens,Skins,Flower Maidens skin of Esau & Jacob
+7089,Yume Referee,Skins,Yume Referee skin of Valeera
+27089,Yume Referee,Skins,Yume Referee skin of Valeera
+7090,Homerun!,Skins,Homerun! skin of Guan Yin
+27090,Homerun!,Skins,Homerun! skin of Guan Yin
+7091,All-Star Jogger,Skins,All-Star Jogger skin of Sapphire
+27091,All-Star Jogger,Skins,All-Star Jogger skin of Sapphire
+111,Phantom Essence,Event Material,"Event material for exchanging rewards in event ""Pray to the Stars""."
+112,Scavenger's Loot (24H Coins),Coin Box,Use to instantly acquire 24 hours worth of Coins Idle Loot (Based on your current Campaign stage and will not calculate VIP boost).\nNow you can get: Coin * 
+113,Scavenger's Loot (24H Exp Juice),Exp Juice Box,Use to instantly acquire 24 hours worth of Exp Juice Idle Loot (Based on your current Campaign stage and will not calculate VIP boost).\nNow you can get: Exp Juice *
+114,Elemental Orb,Event Material,Event material for exchanging rewards in Atelier Valeera. It can't be exchanged after the event. Please use it during the event.
+115,Scavenger's Loot (8H Coins),Coin Box,Use to instantly acquire 8 hours worth of Coins Idle Loot (Based on your current Campaign stage and will not calculate VIP boost).\nNow you can get: Coin *
+116,Scavenger's Loot (8H Exp Juice),Exp Juice Box,Use to instantly acquire 8 hours worth of Exp Juice Idle Loot (Based on your current Campaign stage and will not calculate VIP boost).\nNow you can get:  Exp Juice *
+930185,5-Star Fenrir,Summon,Collect 50 shards to summon the girl
+51012,Fenrir,,
+651019,Fenrir,,
+751012,Fenrir,,
+8023,Gold Medal Athlete,Frame,Exclusive Frame for Top 10 players in House war of Yume Sports Festival.
+8024,Silver Medal Athlete,Frame,Exclusive Frame for No.11- No.50 players in House war of Yume Sports Festival.
+8025,Bronze Medal Athlete,Frame,Exclusive Frame for No.51- No.100 players in House war of Yume Sports Festival.
+7092,Power Spike,Skins,Power Spike skin of Ithil
+27092,Power Spike,Skins,Power Spike skin of Ithil
+6479,Warg's Bite,,
+6480,Warg's Bite,,
+6481,Warg's Bite,,
+6482,Warg's Bite,,
+6483,Warg's Bite,,
+6484,Warg's Bite,,
+6485,Chainblade Axe,,
+6486,Chainblade Axe,,
+6487,Chainblade Axe,,
+6488,Chainblade Axe,,
+6489,Chainblade Axe,,
+6490,Chainblade Axe,,
+117,Gearwheel,Steampunk Madness Material,Used to promote the Steam Level
+8026,Gear Inspection,Frame,Acquired by purchasing Grandmaster's Diploma in Season 1 of Steampunk Madness
+7093,Steam Musketeer,Skins,Steam Musketeer skin of Mio
+27093,Steam Musketeer,Skins,Steam Musketeer skin of Mio
+118,Baseball Coupon,Event Material,Event Material for exchanging rewards in Champions League
+940031,6-Star Ghost Doll,Summon,Collect 50 shards to summon 6-Star Ghost Doll\nDolls can be used as material of Awake and Limit-Break
+940032,6-Star Human Doll,Summon,Collect 50 shards to summon 6-Star Human Doll\nDolls can be used as material of Awake and Limit-Break
+940033,6-Star Monster Doll,Summon,Collect 50 shards to summon 6-Star Monster Doll\nDolls can be used as material of Awake and Limit-Break
+940034,6-Star Fairy Doll,Summon,Collect 50 shards to summon 6-Star Fairy Doll\nDolls can be used as material of Awake and Limit-Break
+940035,6-Star Demon Doll,Summon,Collect 50 shards to summon 6-Star Demon Doll\nDolls can be used as material of Awake and Limit-Break
+940036,6-Star Angel Doll,Summon,Collect 50 shards to summon 6-Star Angel Doll\nDolls can be used as material of Awake and Limit-Break
+119,Screws,Steampunk Madness Currency,"Regular Currency for Steampunk Madness, acquired by promoting Steam Level, can be used to exchange items in ""Tighten Screws"", will be removed from your account after the event is over."
+120,Mecha Core,Steampunk Madness Currency,"Advanced Currency for Steampunk Madness, acquired by promoting Steam Level, can be used to exchange items in ""Install Cores"", will NOT be removed from your account after the event is over, and can be used in the next season of Steampunk Madness."
+7094,Teacher in White,Skins,Teacher in White skin of Hottie
+27094,Teacher in White,Skins,Teacher in White skin of Hottie
+7095,Moonlight Sonata,Skins,Moonlight Sonata skin of N-Gen Iron Fist
+27095,Moonlight Sonata,Skins,Moonlight Sonata skin of N-Gen Iron Fist
+7096,Blooming Love,Skins,Blooming Love skin of Sakura
+27096,Blooming Love,Skins,Blooming Love skin of Sakura
+1070001,Collector's Wall,Furniture,"A fine grey wall, fortified with metal frames, it is making this room the safest location for any kind of treasure in the world!"
+1070002,Collector's Floor,Furniture,"It is dusty, but that doesn't mean there's nothing valuable inside!"
+1070003,Massage Bed,Furniture,"Lie on the bed and close your eyes, the bed will sing you a lullaby."
+1070004,Screw Table,Furniture,"I mean this table itself is a giant screw, I'm not swearing at all~"
+1070005,Workbench,Furniture,"Okay, according to what's remained on it, someone's trying to develop something. But where's the blueprint?"
+1070006,Work Chair,Furniture,"I know what you're thinking, it's not from the collection."
+1070007,Steam-Powered Lamp,Furniture,"Maybe it still needs improvement, but it's already enough for this room."
+1070008,Typewriter,Furniture,"For most of the students, they don't even know what this is."
+1070009,Difference Engine,Furniture,A model of that legendary machine... So it's just for display.
+1070010,Floor Clock,Furniture,"If you want to know the exact time in a closed space, you're gonna need this."
+1070011,Prop Rack,Furniture,You can place your tools on it.
+1070012,Time Machine,Furniture,"It's a successful machine, but it still needs a successful power source."
+1070013,Robotic Arm,Furniture,"It's a Robotic Arm, but they didn't make it good as Iron Fist's."
+1070014,Steam Forge,Furniture,Mind the pressure!!!
+1070015,Machine Ball,Furniture,I don't know what it's made for.
+1070016,Tools,Furniture,Place the tools on the wall
+1070017,Collector's Gate,Furniture,"Explosion-proof, so it's hard to open."
+1070018,Machine Blueprint,Furniture,"""MetHinks uS nEeds mORe DAKKA!!!!"" What's this supposed to mean?"
+1070019,Steam Pipes,Furniture,These pipes are the key to maintain the energy supply of the Academy.
+1070020,Controller,Furniture,Obviously it's not for television.
+52013,Empress Saint,,
+652020,Empress Saint,,
+752013,Empress Saint,,
+930186,5-star Empress Saint,Summon,Collect 50 shards to summon the girl
+7097,A Fortuitous Love,Skins,A Fortuitous Love skin of CapsuGirl
+27097,A Fortuitous Love,Skins,A Fortuitous Love skin of CapsuGirl
+121,Soulbound Energy,Material,Used to promote in Soulbound
+122,Soulbound Ticket,Soulbound Ticket,Used to start a Soulbound Quest.
+25010001,Unrefined Soul Essence,Soulbound Material,Can be transmuted for little Soulbound Energy
+25010002,Normal Soul Essence,Soulbound Material,Can be transmuted for some Soulbound Energy
+25010003,Improved Soul Essence,Soulbound Material,Can be transmuted for lots of Soulbound Energy
+25050500,[Ultimate Ruby I] Synthetic Stone,Soulbound Synthesis Material,Used to synthesize [Ultimate Ruby I] Soulbound set
+25060600,[Summoner] Synthetic stone,Soulbound Synthesis Material,Used to synthesize [Summoner] Soulbound set
+25060700,[Adjudicator] Synthetic stone,Soulbound Synthesis Material,Used to synthesize [Adjudicator] Soulbound set
+25060800,[Destroyer] Synthetic stone,Soulbound Synthesis Material,Used to synthesize [Destroyer] Soulbound set
+25060900,[Dorminator] Synthetic stone,Soulbound Synthesis Material,Used to synthesize [Dominator] Soulbound set
+25010101,Water,Soulbound,
+25010102,Fire,Soulbound,
+25010103,Wind,Soulbound,
+25010104,Earth,Soulbound,
+25020101,[Regular Topaz I] Water,Soulbound,
+25020102,[Regular Topaz I] Fire,Soulbound,
+25020103,[Regular Topaz Ⅱ] Wind,Soulbound,
+25020104,[Regular Topaz Ⅱ] Earth,Soulbound,
+25030101,[Regular Amethyst I] Water,Soulbound,
+25030102,[Regular Amethyst I] Fire,Soulbound,
+25030103,[Regular Amethyst Ⅱ] Wind,Soulbound,
+25030104,[Regular Amethyst Ⅱ] Earth,Soulbound,
+25030201,[Primary Amethyst I] Water,Soulbound,
+25030202,[Primary Amethyst I] Fire,Soulbound,
+25030203,[Primary Amethyst I] Wind,Soulbound,
+25030204,[Primary Amethyst I] Earth,Soulbound,
+25030205,[Primary Amethyst Ⅱ] Star,Soulbound,
+25030206,[Primary Amethyst Ⅱ] Moon,Soulbound,
+25030301,[Intermediate Amethyst I] Water,Soulbound,
+25030302,[Intermediate Amethyst I] Fire,Soulbound,
+25030303,[Intermediate Amethyst I] Wind,Soulbound,
+25030304,[Intermediate Amethyst I] Earth,Soulbound,
+25030305,[Intermediate Amethyst Ⅱ] Star,Soulbound,
+25030306,[Intermediate Amethyst Ⅱ] Moon,Soulbound,
+25030401,[Advanced Amethyst I] Water,Soulbound,
+25030402,[Advanced Amethyst I] Fire,Soulbound,
+25030403,[Advanced Amethyst I] Wind,Soulbound,
+25030404,[Advanced Amethyst I] Earth,Soulbound,
+25030405,[Advanced Amethyst Ⅱ] Star,Soulbound,
+25030406,[Advanced Amethyst Ⅱ] Moon,Soulbound,
+25040101,[Regular Emerald I] Water,Soulbound,
+25040102,[Regular Emerald I] Fire,Soulbound,
+25040103,[Regular Emerald I] Wind,Soulbound,
+25040104,[Regular Emerald Ⅱ] Earth,Soulbound,
+25040105,[Regular Emerald Ⅲ] Star,Soulbound,
+25040106,[Regular Emerald Ⅲ] Moon,Soulbound,
+25040201,[Primary Emerald I] Water,Soulbound,
+25040202,[Primary Emerald I] Fire,Soulbound,
+25040203,[Primary Emerald I] Wind,Soulbound,
+25040204,[Primary Emerald I] Earth,Soulbound,
+25040205,[Primary Emerald Ⅱ] Star,Soulbound,
+25040206,[Primary Emerald Ⅱ] Moon,Soulbound,
+25040207,[Primary Emerald Ⅱ] Sun,Soulbound,
+25040301,[Intermediate Emerald I] Water,Soulbound,
+25040302,[Intermediate Emerald I] Fire,Soulbound,
+25040303,[Intermediate Emerald I] Wind,Soulbound,
+25040304,[Intermediate Emerald I] Earth,Soulbound,
+25040305,[Intermediate Emerald Ⅱ] Star,Soulbound,
+25040306,[Intermediate Emerald Ⅱ] Moon,Soulbound,
+25040307,[Intermediate Emerald Ⅱ] Sun,Soulbound,
+25040401,[Advanced Emerald I] Water,Soulbound,
+25040402,[Advanced Emerald I] Fire,Soulbound,
+25040403,[Advanced Emerald I] Wind,Soulbound,
+25040404,[Advanced Emerald I] Earth,Soulbound,
+25040405,[Advanced Emerald Ⅱ] Star,Soulbound,
+25040406,[Advanced Emerald Ⅱ] Moon,Soulbound,
+25040407,[Advanced Emerald Ⅱ] Sun,Soulbound,
+25050101,[Regular Ruby I] Water,Soulbound,
+25050102,[Regular Ruby I] Fire,Soulbound,
+25050103,[Regular Ruby Ⅱ] Wind,Soulbound,
+25050104,[Regular Ruby Ⅱ] Earth,Soulbound,
+25050105,[Regular Ruby Ⅲ] Star,Soulbound,
+25050106,[Regular Ruby Ⅲ] Moon,Soulbound,
+25050107,[Regular Ruby Ⅲ] Sun,Soulbound,
+25050201,[Primary Ruby I] Water,Soulbound,
+25050202,[Primary Ruby I] Fire,Soulbound,
+25050203,[Primary Ruby I] Wind,Soulbound,
+25050204,[Primary Ruby I] Earth,Soulbound,
+25050205,[Primary Ruby Ⅱ] Star,Soulbound,
+25050206,[Primary Ruby Ⅱ] Moon,Soulbound,
+25050207,[Primary Ruby Ⅱ] Sun,Soulbound,
+25050301,[Intermediate Ruby I] Water,Soulbound,
+25050302,[Intermediate Ruby I] Fire,Soulbound,
+25050303,[Intermediate Ruby I] Wind,Soulbound,
+25050304,[Intermediate Ruby I] Earth,Soulbound,
+25050305,[Intermediate Ruby Ⅱ] Star,Soulbound,
+25050306,[Intermediate Ruby Ⅱ] Moon,Soulbound,
+25050307,[Intermediate Ruby Ⅱ] Sun,Soulbound,
+25050401,[Advanced Ruby I] Water,Soulbound,
+25050402,[Advanced Ruby I] Fire,Soulbound,
+25050403,[Advanced Ruby I] Wind,Soulbound,
+25050404,[Advanced Ruby I] Earth,Soulbound,
+25050405,[Advanced Ruby I] Star,Soulbound,
+25050406,[Advanced Ruby I] Moon,Soulbound,
+25050407,[Advanced Ruby I] Sun,Soulbound,
+25050501,[Ultimate Ruby I] Water,Soulbound,
+25050502,[Ultimate Ruby I] Fire,Soulbound,
+25050503,[Ultimate Ruby I] Wind,Soulbound,
+25050504,[Ultimate Ruby I] Earth,Soulbound,
+25050505,[Ultimate Ruby I] Star,Soulbound,
+25050506,[Ultimate Ruby I] Moon,Soulbound,
+25050507,[Ultimate Ruby I] Sun,Soulbound,
+25060601,[Summoner] Water,Soulbound,
+25060602,[Summoner] Fire,Soulbound,
+25060603,[Summoner] Wind,Soulbound,
+25060604,[Summoner] Earth,Soulbound,
+25060605,[Summoner] Star,Soulbound,
+25060606,[Summoner] Moon,Soulbound,
+25060607,[Summoner] Sun,Soulbound,
+25060701,[Adjudicator] Water,Soulbound,
+25060702,[Adjudicator] Fire,Soulbound,
+25060703,[Adjudicator] Wind,Soulbound,
+25060704,[Adjudicator] Earth,Soulbound,
+25060705,[Adjudicator] Star,Soulbound,
+25060706,[Adjudicator] Moon,Soulbound,
+25060707,[Adjudicator] Sun,Soulbound,
+25060801,[Destroyer] Water,Soulbound,
+25060802,[Destroyer] Fire,Soulbound,
+25060803,[Destroyer] Wind,Soulbound,
+25060804,[Destroyer] Earth,Soulbound,
+25060805,[Destroyer] Star,Soulbound,
+25060806,[Destroyer] Moon,Soulbound,
+25060807,[Destroyer] Sun,Soulbound,
+25060901,[Dominator] Water,Soulbound,
+25060902,[Dominator] Fire,Soulbound,
+25060903,[Dominator] Wind,Soulbound,
+25060904,[Dominator] Earth,Soulbound,
+25060905,[Dominator] Star,Soulbound,
+25060906,[Dominator] Moon,Soulbound,
+25060907,[Dominator] Sun,Soulbound,
+9201,Default Emoji 1,Chat emoji,
+9202,Default Emoji 2,Chat emoji,
+9203,Default Emoji 3,Chat emoji,
+9204,Default Emoji 4,Chat emoji,
+9205,Default Emoji 5,Chat emoji,
+9206,Default Emoji 6,Chat emoji,
+9207,Default Emoji 7,Chat emoji,
+9208,Default Emoji 8,Chat emoji,
+9209,Default Emoji 9,Chat emoji,
+9210,Default Emoji 10,Chat emoji,
+9211,Default Emoji 11,Chat emoji,
+9212,Default Emoji 12,Chat emoji,
+9213,Default Emoji 13,Chat emoji,
+9214,Default Emoji 14,Chat emoji,
+9215,Default Emoji 15,Chat emoji,
+9216,Default Emoji 16,Chat emoji,
+9217,Default Emoji 17,Chat emoji,
+9218,Default Emoji 18,Chat emoji,
+9219,Default Emoji 19,Chat emoji,
+9220,Default Emoji 20,Chat emoji,
+9221,Default Emoji 21,Chat emoji,
+9222,Default Emoji 22,Chat emoji,
+9223,Default Emoji 23,Chat emoji,
+9224,Default Emoji 24,Chat emoji,
+9301,Halloween Emoji 1,Chat emoji,
+9302,Halloween Emoji 2,Chat emoji,
+9303,Halloween Emoji 3,Chat emoji,
+9304,Halloween Emoji 4,Chat emoji,
+9305,Cartoon Emoji 1,Chat emoji,
+9306,Cartoon Emoji 2,Chat emoji,
+9307,Cartoon Emoji 3,Chat emoji,
+9308,Cartoon Emoji 4,Chat emoji,
+9309,Cartoon Emoji 5,Chat emoji,
+9310,Cartoon Emoji 6,Chat emoji,
+9311,Cartoon Emoji 7,Chat emoji,
+9312,Cartoon Emoji 8,Chat emoji,
+124,Exclusive Stamp,Event Material,Exclusive item that can be exchanged for rewards during its corresponding event
+6491,Punishment Sword,,
+6492,Punishment Sword,,
+6493,Punishment Sword,,
+6494,Punishment Sword,,
+6495,Punishment Sword,,
+6496,Punishment Sword,,
+940041,9-Star Ghost Doll,Summon,Collect 50 shards to summon 9-Star Ghost Doll\nDolls can be used as material of Awake and Limit-Break
+940042,9-Star Human Doll,Summon,Collect 50 shards to summon 9-Star Human Doll\nDolls can be used as material of Awake and Limit-Break
+940043,9-Star Monster Doll,Summon,Collect 50 shards to summon 9-Star Monster Doll\nDolls can be used as material of Awake and Limit-Break
+940044,9-Star Fairy Doll,Summon,Collect 50 shards to summon 9-Star Fairy Doll\nDolls can be used as material of Awake and Limit-Break
+940045,9-Star Demon Doll,Summon,Collect 50 shards to summon 9-Star Demon Doll\nDolls can be used as material of Awake and Limit-Break
+940046,9-Star Angel Doll,Summon,Collect 50 shards to summon 9-Star Angel Doll\nDolls can be used as material of Awake and Limit-Break
+125,Academy Chest,Academy Chest,You can choose one of the rewards after opening this chest.
+123,Collection Points,Collection Points,"Point cards with a trophy picture, will be able to unlock Collection Store when you have collected a certain amount of Collection Points."
+7098,King's Musketeer,Skins,King's Musketeer skin of Empress Saint
+27098,King's Musketeer,Skins,King's Musketeer skin of Empress Saint
+126,Kebab,Event Material,Exclusive item that can be exchanged for rewards during its corresponding event
+127,Ice Cream,Event Material,Exclusive item that can be exchanged for rewards during its corresponding event
+128,Fruit Punch,Event Material,Exclusive item that can be exchanged for rewards during its corresponding event
+8027,Ultimate League Champion,Frame,Complete Challenge: Become the Champion in Ultimate League for 6 times
+8028,Ultimate League Champion,Frame,Complete Challenge: Become the Champion in Ultimate League for 7 times
+8029,Ultimate League Champion,Frame,Complete Challenge: Become the Champion in Ultimate League for 8 times
+8030,Ultimate League Champion,Frame,Complete Challenge: Become the Champion in Ultimate League for 9 times
+8031,Ultimate League Champion,Frame,Complete Challenge: Become the Champion in Ultimate League for 10 times
+8032,Beginner Collector,Frame,Collection Store
+8033,Normal Collector,Frame,Collection Store
+8034,Legendary Collector,Frame,Collection Store
+20001035,Avatar for Beginner Collector,Special Avatars,Exclusive in Collection Store
+20001036,Avatar for Normal Collector,Special Avatars,Exclusive in Collection Store
+20001037,Avatar for Legendary Collector,Special Avatars,Exclusive in Collection Store
+930187,5-star Kratos,Summon,Collect 50 shards to summon the girl
+55007,Kratos,,
+655016,Kratos,,
+755006,Kratos,,
+930188,5-star Nephilim,Summon,Collect 50 shards to summon the girl
+56006,Nephilim,,
+656016,Nephilim,,
+756006,Nephilim,,
+129,Date Fund,Event Material,"Event material for the event ""Lovely Date""."
+130,Love Rose,Event Material,"Event material to exchange items in the store of event ""Lovely Date"""
+131,Heart Crystal,Event Material,"Event material, used to increase your progress in event ""Lovely Date"". You can randomly take 1-3 steps forward for each crystal used."
+132,Heart Crystal X,Event Material,"Event material, used to increase your progress in event ""Lovely Date"". You can choose to take 1-3 steps forward for each crystal used."
+133,Girls Chest,Girls Chest,A mysterious chest that can provide 50 5-Star Kratos shards or 50 5-Star Nephilim shards at your proposal for opening it. The option for 5-Star Nephilim shards will become available after the girl is actually updated into the game
+134,Test Certificate,Event Material,"Event material, used to participate in event ""Entrance Exam""."
+1080001,Penetralium Wall,Furniture,"Wallpaper with strange patterns, provides perfect cover for the penetralium."
+1080002,Penetralium Floor,Furniture,Who cleans up this room anyway?
+1080003,Penetralium Carpet,Furniture,"A thick carpet, I'm sure you can have a sweet dream on it if you don't mind the dust."
+1080004,Penetralium Sofa,Furniture,THIS SOFA IS FORTIFIED!
+1080005,Luxury Screen,Furniture,A screen with a lot of patterns on it.
+1080006,Luxury Storage Box,Furniture,This is the kind of chest royal families would use~
+1080007,Dressing Chair,Furniture,"A chair, don't think it would be something more just because it's inside the penetralium."
+1080008,Dressing Table,Furniture,"I don't think this would appear in a penetralium, unless it's hiding something!"
+1080009,Mirror,Furniture,"I wouldn't say this is unnecessary, but we still need a light."
+1080010,Luxury Curtains,Furniture,Which idiot came up with this idea? This will expose the room!
+135,Gift of Love,Resource Chest,"A precious chest that can randomly provide one of the following rewards: 「10 Orange Antique Shards, 10 Elite 5-Star Girls Shards,  10 Elite 5-Star Demon Shards, 10 Elite 5-Star Angel Shards, 50 5-Star Girls Shards, 30 4-Star Girls Shards」"
+7099,Sun Glitter,Skins,Sun Glitter skin of Phoenix
+27099,Sun Glitter,Skins,Sun Glitter skin of Phoenix
+7100,Tea master,Skins,Tea master skin of KongMing
+27100,Tea master,Skins,Tea master skin of KongMing
+7101,Past Idol,Skins,Past Idol skin of Giana
+27101,Past Idol,Skins,Past Idol skin of Giana
+7102,Summer Outfit,Skins,Summer Outfit skin of Fencer
+27102,Summer Outfit,Skins,Summer Outfit skin of Fencer
+7103,Steam Noble,Skins,Steam Noble skin of Phoenix
+27103,Steam Noble,Skins,Steam Noble skin of Phoenix
+8035,Mecha Flash,Frame,Acquired by purchasing Grandmaster's Diploma in Season 2 of Steampunk Madness
+136,Exclusive Energy,Exclusive Energy,"Event Material, used to summon girls in SP. Capsule Summon."
+137,Carnival Candle,Event Material,It's more than just a lighter in a party. But why it can be found here?
+138,Confetti Ball,Event Material,You can get others attention with one in your hand. But why it can be found here?
+139,Confetti Cracker,Event Material,It's always needed for parties. But why it can be found here?
+140,Carnival Balloon,Event Material,You would always need some balloons for a party. But why it can be found here?
+141,Birthday Hat,Event Material,This is needed when it's someone's birthday. But why it can be found here?
+142,Pennant,Event Material,"If you put it on the plaza, you'll surely attract someone around you. But why it can be found here?"
+143,Anniversary Ticket,Event Material,It can contain the greetings and blessings of others. But why it can be found here?
+144,Birthday Banner,Event Material,At least you need to let them know whose birthday is it. right? But why it can be found here?
+145,Little Cake,Event Material,Put it away from Quinie and Wildtress! But why it can be found here?
+146,Game Card,Event Material,"Event Material, used in event: Lucky Pair"
+7104,Alpha Wolf,Skins,Alpha Wolf skin of Fenrir
+27104,Alpha Wolf,Skins,Alpha Wolf skin of Fenrir
+147,Master Paint,Event Material,"Event material used in event ""Carnival Puzzle"". Can be obtained in event ""Explore the Campus""."
+8036,2nd Anniversary Frame,Frame,"Frame for the 2020 Anniversary event, acquired in Exclusives."
+7105,Party Expert,Skins,Party Expert skin of Dracula
+27105,Party Expert,Skins,Party Expert skin of Dracula
+148,2nd Anniversary Coupon,Event Material,"Event Material, used in event ""2nd Anniversary Cake"""
+20001038,2nd Anniversary Avatar,Special Avatars,Exclusive Avatar for 2nd Anniversary events
+4101001,Customized Girl Chest (Exclusive),Customized Chest,You can select to get 50 shards of a certain 5-Star Girl of Ghost/Human/Monster/Fairy faction from the list after opening this chest. (Tap the magnifying glass in the corner for option details. Contents of this chest will not be updated.)
+4101002,6-Star Doll Chest(2nd Anniversary),Customized Chest,You can choose to get 50 Shards of a 6-Star Doll from Ghost/Human/Monster/Fairy Faction for opening this chest. You will need to merge the shards in Bag-Shards to obtain the Doll.
+4501001,Customized Class Set Chest (Exclusive),Customized Chest,You can choose to get a set of Warrior's/Mage's/Ranger's/Assassin's/Priest's Gear for opening this chest
+4102001,Customized L&D Chest (Exclusive),Customized Chest,Select a 5-Star Girl from Angel/Demon faction from the list after opening this chest. (Tap the magnifying glass in the corner for option details. Contents of this chest will not be updated.)
+4102002,6-Star Doll Chest(2nd Anniversary),Customized Chest,You can choose to get 50 Shards of a 6-Star Doll from Angel/Demon Faction for opening this chest. You will need to merge the shards in Bag-Shards to obtain the Doll.
+9107,Is that it?,Chat emoji,Dracula's 2nd Anniversary Emoji 1
+9108,I see,Chat emoji,Dracula's 2nd Anniversary Emoji 2
+9109,I'm Angry,Chat emoji,Dracula's 2nd Anniversary Emoji 3
+9110,Congratulations!,Chat emoji,Dracula's 2nd Anniversary Emoji 4
+9111,Do you want some?,Chat emoji,Blowie's 2nd Anniversary Emoji 1
+9112,Drinking,Chat emoji,Blowie's 2nd Anniversary Emoji 2
+9113,Have a nice dream,Chat emoji,Blowie's 2nd Anniversary Emoji 3
+9114,Surprise!,Chat emoji,Blowie's 2nd Anniversary Emoji 4
+4102003,Kratos or Nephilim Chest,Customized Chest,A mysterious chest that can provide 50 5-Star Kratos shards or 50 5-Star Nephilim shards at your proposal for opening it.
+149,Warrior's Set,Class Set Chest,You can get a set of Warrior's Gear for opening this chest
+150,Mage's Set,Class Set Chest,You can get a set of Mage's Gear for opening this chest
+151,Ranger's Set,Class Set Chest,You can get a set of Ranger's Gear for opening this chest
+152,Assassin's Set,Class Set Chest,You can get a set of Assassin's Gear for opening this chest
+153,Priest's Set,Class Set Chest,You can get a set of Priest's Gear for opening this chest
+6497,Carnival Staff,,
+6498,Carnival Staff,,
+6499,Carnival Staff,,
+6500,Carnival Staff,,
+6501,Carnival Staff,,
+6502,Carnival Staff,,
+2000042,2nd Anniversary Cake,Background Picture,Can be set as loading picture for battles
+7106,Pop Champagne!,Skins,Pop Champagne! skin of Blowie
+27106,Pop Champagne!,Skins,Pop Champagne! skin of Blowie
+7107,Mistress of War,Skins,Mistress of War skin of Kratos
+27107,Mistress of War,Skins,Mistress of War skin of Kratos
+2000043,Sweet Memory,Background Picture,Can be set as loading picture for battles
+8037,Famous Anchor,Frame,Exclusive frame for Participating in 2nd Anniversary Live Stream Event
+154,Soda,Event Material,"Event Material, used in event ""Summer Heat"""
+8038,Summer Heat,Frame,"Exclusive Frame for event ""Summer Heat"""
+7108,Sea Warrior,Skins,Sea Warrior skin of Chevalir
+27108,Sea Warrior,Skins,Sea Warrior skin of Chevalir
+4102004,Customized Girl Chest (Summer Theatre),Customized Chest,Select a 5-Star Girl from Angel/Demon faction from the list after opening this chest. (Tap the magnifying glass in the corner for option details. Contents of this chest will not be updated.)
+156,True Love's Ticket,Event Material,Exclusive items that can be used to vote in Winning Heart.
+157,True Love's Ticket,Event Material,Exclusive items that can be used to vote in Winning Heart.
+158,True Love's Ticket,Event Material,Exclusive items that can be used to vote in Winning Heart.
+155,Summer Theatre Ticket,Event Material,Exclusive item that can be exchanged for rewards during its corresponding event
+159,Inflatable Hammer,Event Material,"Event Material, used in event ""Ice Cube Secrets"""
+160,Dorayaki,Event Material,Exclusive item that can be exchanged for rewards during its corresponding event
+161,Takoyaki,Event Material,Exclusive item that can be exchanged for rewards during its corresponding event
+162,Mochi,Event Material,Exclusive item that can be exchanged for rewards during its corresponding event
+930189,5-star Krystal,Summon,Collect 50 shards to summon the girl
+54012,Krystal,,
+654019,Krystal,,
+754012,Krystal,,
+1090001,Beach Chair,Furniture,"Even if you can stand the heat, you still need to apply some sunscreen!"
+1090002,Beach Table,Furniture,This is the best place you can think of to put your belongings when you're at a beach.
+1090003,Portable Fridge,Furniture,Come and get an ice-cream!
+1090004,Beach Mat,Furniture,It would be fine for you to lie without a beach chair if there's still a beach mat.
+1090005,Sand Turtle,Furniture,You need to pray the one who buries you in sand doesn't hate you.
+1090006,Lifeguard Stand,Furniture,No lifeguard is allowed to bring a cellphone with her when she's on duty!
+1090007,Sandcastle,Furniture,The art is meant to last forever... If there's no wind and waves.
+1090008,Sand Art Tools,Furniture,Even the best artist cannot make bricks without straw!
+1090009,Volleyball Net,Furniture,Beach volleyball is always a good idea when you're at a beach!
+1090010,Belongings,Furniture,I believe no thief will dare to steal this from a Valkyrie.
+1090011,Palm Tree,Furniture,There's no coconut on this tree!
+1090012,Surfboard,Furniture,Why does Lucifer need 3 surfboards?
+1090013,Watermelons,Furniture,Plenty to go around~
+1090014,Cream Soda,Furniture,Made by Ithil --- It's not something you can drink everyday!
+1090015,Starfish,Furniture,They look really beautiful... Especially when one of them is not on your head.
+1090016,Conch,Furniture,"Beautiful girls will never live in a conch, please stop acting weird."
+1090017,Lifebuoy,Furniture,FRONT TOWARD DROWNING!
+1090018,Boundary 1,Furniture,"Believe it or not, this is necessary for a ball game."
+1090019,Boundary 2,Furniture,"Believe it or not, this is necessary for a ball game."
+1090020,Boundary 3,Furniture,"Believe it or not, this is necessary for a ball game."
+1100001,Transparent Wallpaper,Furniture,No one will doubt you're on a vacation if you take a selfie indoor.
+1100002,Transparent Floor,Furniture,The Emperor's New Floor!
+8039,Eternal Love,Frame,Avatar frame for acquired from the voting event.
+7109,Sea Spells,Skins,Sea Spells skin of Valeera
+27109,Sea Spells,Skins,Sea Spells skin of Valeera
+7110,Beach Pod,Skins,Beach Pod skin of CapsuGirl
+27110,Beach Pod,Skins,Beach Pod skin of CapsuGirl
+7111,Full View,Skins,Full View skin of Turin
+27111,Full View,Skins,Full View skin of Turin
+7112,Wave Mistress,Skins,Wave Mistress skin of Lucifer
+27112,Wave Mistress,Skins,Wave Mistress skin of Lucifer
+7113,Halo Shimmer,Skins,Halo Shimmer skin of Michael
+27113,Halo Shimmer,Skins,Halo Shimmer skin of Michael
+1090021,Boundary 4,Furniture,"Believe it or not, this is necessary for a ball game."
+163,Paper Crane,Event Material,"Event Material, used to exchange items in Return Store, will be available to be sold after the event is over."
+1090022,Beach,Furniture,Enjoy yourself on the beach!
+1100003,Default,Furniture,Don't spend your entire semester indoor!
+1100004,Common Background 1,Furniture,Lovely is watching!
+1100005,Common Background 2,Furniture,Lovely is watching!
+1100006,Common Background 3,Furniture,Lovely is watching!
+164,Party Ticket,Event Material,Exclusive item that can be exchanged for rewards during its corresponding event
+4101003,5-Star Customized Chest,Customized Chest,You can select to get 50 shards of a certain 5-Star Girl from Ghost/Human/Monster/Fairy Faction for opening this chest. (The options for this chest won't be updated in the future)
+7114,Sweet Berry,Skins,Sweet Berry skin of Gambler
+4103001,Special Customized Chest,Customized Chest,Select a reward after opening this chest. (Tap the magnifying glass in the corner for option details. Contents of this chest will not be updated.)
+4103002,Special Customized Pack,Customized Chest,Select a reward after opening this chest. (Tap the magnifying glass in the corner for option details. Contents of this chest will not be updated.)
+9115,Ignore my mistake,Chat emoji,"""Ignore my mistake"" emoji of Krystal"
+7115,Seaside Maid,Skins,Seaside Maid skin of Ithil
+27115,Seaside Maid,Skins,Seaside Maid skin of Ithil
+8040,City of Steam,Frame,Acquired by purchasing Grandmaster's Diploma in Season 3 of Steampunk Madness
+168,Unknown Girl,Special Item,Will be changed to the Shards of the Girl you select in Wish Capsule.
+170,Lucky Crystal,Antique Store Token,Used to purchase Antiques in Antique Store
+165,Chess Ticket,Character Challenge Ticket,"Acquired in the Chess Mode of Character Challenges, can be used to exchange Girls for Chess Mode Challenges."
+6503,Sealed Heart·Ghost,Antique,
+6504,Sealed Heart·Ghost,Antique,
+6505,Sealed Heart·Ghost,Antique,
+6506,Sealed Heart·Ghost,Antique,
+6507,Sealed Heart·Ghost,Antique,
+6508,Sealed Heart·Ghost,Antique,
+6509,Demon Blood·Ghost,Antique,
+6510,Demon Blood·Ghost,Antique,
+6511,Demon Blood·Ghost,Antique,
+6512,Demon Blood·Ghost,Antique,
+6513,Demon Blood·Ghost,Antique,
+6514,Demon Blood·Ghost,Antique,
+6515,Seal Sword·Human,Antique,
+6516,Seal Sword·Human,Antique,
+6517,Seal Sword·Human,Antique,
+6518,Seal Sword·Human,Antique,
+6519,Seal Sword·Human,Antique,
+6520,Seal Sword·Human,Antique,
+6521,Shackle of Pain·Human,Antique,
+6522,Shackle of Pain·Human,Antique,
+6523,Shackle of Pain·Human,Antique,
+6524,Shackle of Pain·Human,Antique,
+6525,Shackle of Pain·Human,Antique,
+6526,Shackle of Pain·Human,Antique,
+6527,Spike Shield·Human,Antique,
+6528,Spike Shield·Human,Antique,
+6529,Spike Shield·Human,Antique,
+6530,Spike Shield·Human,Antique,
+6531,Spike Shield·Human,Antique,
+6532,Spike Shield·Human,Antique,
+6533,Sealed Heart·Monster,Antique,
+6534,Sealed Heart·Monster,Antique,
+6535,Sealed Heart·Monster,Antique,
+6536,Sealed Heart·Monster,Antique,
+6537,Sealed Heart·Monster,Antique,
+6538,Sealed Heart·Monster,Antique,
+6539,Demon Blood·Monster,Antique,
+6540,Demon Blood·Monster,Antique,
+6541,Demon Blood·Monster,Antique,
+6542,Demon Blood·Monster,Antique,
+6543,Demon Blood·Monster,Antique,
+6544,Demon Blood·Monster,Antique,
+6545,Seal Sword·Fairy,Antique,
+6546,Seal Sword·Fairy,Antique,
+6547,Seal Sword·Fairy,Antique,
+6548,Seal Sword·Fairy,Antique,
+6549,Seal Sword·Fairy,Antique,
+6550,Seal Sword·Fairy,Antique,
+6551,Shackle of Pain·Fairy,Antique,
+6552,Shackle of Pain·Fairy,Antique,
+6553,Shackle of Pain·Fairy,Antique,
+6554,Shackle of Pain·Fairy,Antique,
+6555,Shackle of Pain·Fairy,Antique,
+6556,Shackle of Pain·Fairy,Antique,
+6557,Spike Shield·Fairy,Antique,
+6558,Spike Shield·Fairy,Antique,
+6559,Spike Shield·Fairy,Antique,
+6560,Spike Shield·Fairy,Antique,
+6561,Spike Shield·Fairy,Antique,
+6562,Spike Shield·Fairy,Antique,
+6563,Demon Blood·Fairy,Antique,
+6564,Demon Blood·Fairy,Antique,
+6565,Demon Blood·Fairy,Antique,
+6566,Demon Blood·Fairy,Antique,
+6567,Demon Blood·Fairy,Antique,
+6568,Demon Blood·Fairy,Antique,
+6569,Seal Sword·Angel,Antique,
+6570,Seal Sword·Angel,Antique,
+6571,Seal Sword·Angel,Antique,
+6572,Seal Sword·Angel,Antique,
+6573,Seal Sword·Angel,Antique,
+6574,Seal Sword·Angel,Antique,
+6575,Shackle of Pain·Angel,Antique,
+6576,Shackle of Pain·Angel,Antique,
+6577,Shackle of Pain·Angel,Antique,
+6578,Shackle of Pain·Angel,Antique,
+6579,Shackle of Pain·Angel,Antique,
+6580,Shackle of Pain·Angel,Antique,
+6581,Spike Shield·Angel,Antique,
+6582,Spike Shield·Angel,Antique,
+6583,Spike Shield·Angel,Antique,
+6584,Spike Shield·Angel,Antique,
+6585,Spike Shield·Angel,Antique,
+6586,Spike Shield·Angel,Antique,
+6587,Sealed Heart·Angel,Antique,
+6588,Sealed Heart·Angel,Antique,
+6589,Sealed Heart·Angel,Antique,
+6590,Sealed Heart·Angel,Antique,
+6591,Sealed Heart·Angel,Antique,
+6592,Sealed Heart·Angel,Antique,
+6593,Demon Blood·Angel,Antique,
+6594,Demon Blood·Angel,Antique,
+6595,Demon Blood·Angel,Antique,
+6596,Demon Blood·Angel,Antique,
+6597,Demon Blood·Angel,Antique,
+6598,Demon Blood·Angel,Antique,
+6599,Seal Sword·Demon,Antique,
+6600,Seal Sword·Demon,Antique,
+6601,Seal Sword·Demon,Antique,
+6602,Seal Sword·Demon,Antique,
+6603,Seal Sword·Demon,Antique,
+6604,Seal Sword·Demon,Antique,
+6605,Shackle of Pain·Demon,Antique,
+6606,Shackle of Pain·Demon,Antique,
+6607,Shackle of Pain·Demon,Antique,
+6608,Shackle of Pain·Demon,Antique,
+6609,Shackle of Pain·Demon,Antique,
+6610,Shackle of Pain·Demon,Antique,
+6611,Spike Shield·Demon,Antique,
+6612,Spike Shield·Demon,Antique,
+6613,Spike Shield·Demon,Antique,
+6614,Spike Shield·Demon,Antique,
+6615,Spike Shield·Demon,Antique,
+6616,Spike Shield·Demon,Antique,
+6617,Sealed Heart·Demon,Antique,
+6618,Sealed Heart·Demon,Antique,
+6619,Sealed Heart·Demon,Antique,
+6620,Sealed Heart·Demon,Antique,
+6621,Sealed Heart·Demon,Antique,
+6622,Sealed Heart·Demon,Antique,
+6623,Demon Blood·Demon,Antique,
+6624,Demon Blood·Demon,Antique,
+6625,Demon Blood·Demon,Antique,
+6626,Demon Blood·Demon,Antique,
+6627,Demon Blood·Demon,Antique,
+6628,Demon Blood·Demon,Antique,
+6629,Crossbow,Antique,
+6630,Crossbow,Antique,
+6631,Crossbow,Antique,
+6632,Crossbow,Antique,
+6633,Crossbow,Antique,
+6634,Crossbow,Antique,
+6635,Dice of Destiny,Antique,
+6636,Dice of Destiny,Antique,
+6637,Dice of Destiny,Antique,
+6638,Dice of Destiny,Antique,
+6639,Dice of Destiny,Antique,
+6640,Dice of Destiny,Antique,
+6641,Magic Hat,Antique,
+6642,Magic Hat,Antique,
+6643,Magic Hat,Antique,
+6644,Magic Hat,Antique,
+6645,Magic Hat,Antique,
+6646,Magic Hat,Antique,
+6647,Kagura Bell,Antique,
+6648,Kagura Bell,Antique,
+6649,Kagura Bell,Antique,
+6650,Kagura Bell,Antique,
+6651,Kagura Bell,Antique,
+6652,Kagura Bell,Antique,
+6653,Guardian Gauntlet,Antique,
+6654,Guardian Gauntlet,Antique,
+6655,Guardian Gauntlet,Antique,
+6656,Guardian Gauntlet,Antique,
+6657,Guardian Gauntlet,Antique,
+6658,Guardian Gauntlet,Antique,
+6659,Holy Grail,Antique,
+6660,Holy Grail,Antique,
+6661,Holy Grail,Antique,
+6662,Holy Grail,Antique,
+6663,Holy Grail,Antique,
+6664,Holy Grail,Antique,
+6665,AI Teddy Staff,Antique,
+6666,AI Teddy Staff,Antique,
+6667,AI Teddy Staff,Antique,
+6668,AI Teddy Staff,Antique,
+6669,AI Teddy Staff,Antique,
+6670,AI Teddy Staff,Antique,
+6671,Yume Lantern,Antique,
+6672,Yume Lantern,Antique,
+6673,Yume Lantern,Antique,
+6674,Yume Lantern,Antique,
+6675,Yume Lantern,Antique,
+6676,Yume Lantern,Antique,
+6677,Samurai Helmet,Antique,
+6678,Samurai Helmet,Antique,
+6679,Samurai Helmet,Antique,
+6680,Samurai Helmet,Antique,
+6681,Samurai Helmet,Antique,
+6682,Samurai Helmet,Antique,
+6683,Stinger,Antique,
+6684,Stinger,Antique,
+6685,Stinger,Antique,
+6686,Stinger,Antique,
+6687,Stinger,Antique,
+6688,Stinger,Antique,
+6689,Sacred Handbell,Antique,
+6690,Sacred Handbell,Antique,
+6691,Sacred Handbell,Antique,
+6692,Sacred Handbell,Antique,
+6693,Sacred Handbell,Antique,
+6694,Sacred Handbell,Antique,
+6695,Secret Keys,Antique,
+6696,Secret Keys,Antique,
+6697,Secret Keys,Antique,
+6698,Secret Keys,Antique,
+6699,Secret Keys,Antique,
+6700,Secret Keys,Antique,
+7116,Oceanic Twins,Skins,Oceanic Twins skin of Esau & Jacob
+27116,Oceanic Twins,Skins,Oceanic Twins skin of Esau & Jacob
+7117,Bee Mechanic,Skins,Bee Mechanic skin of N-Gen Iron Fist
+27117,Bee Mechanic,Skins,Bee Mechanic skin of N-Gen Iron Fist
+20001039,Trinity's Limited Avatar,Special Avatars,Trinity's Limited Avatar
+169,Percussion Mallet,Event Material,"Event Material, used for event ""Sweet Melody"""
+7118,Sunkissed,Skins,Sunkissed skin of Kratos
+27118,Sunkissed,Skins,Sunkissed skin of Kratos
+53013,Trinity,,
+653020,Trinity,,
+753013,Trinity,,
+930190,5-star Trinity,Summon,Collect 50 shards to summon the girl
+173,Honor Badge,House Exam Store Token,Special item used to exchange Solar Badge and Lunar Badge
+7119,Perfect Dynamic,Skins,Perfect Dynamic of Nephilim
+27119,Perfect Dynamic,Skins,Perfect Dynamic of Nephilim
+4102005,5-Star Customized Chest,Customized Chest,Select a 5-Star Girl from Angel/Demon faction from the list after opening this chest. (Tap the magnifying glass in the corner for option details. Contents of this chest will not be updated.)
+171,Dew,Event Material,"Event Material used in event ""Journey Beyond""."
+6701,Soul Destruction,Antique,
+6702,Soul Destruction,Antique,
+6703,Soul Destruction,Antique,
+6704,Soul Destruction,Antique,
+6705,Soul Destruction,Antique,
+6706,Soul Destruction,Antique,
+166,Golden Leaf,Event Stamina,"Event Stamina, used in event ""Fairytale Land"", can be restored at given times."
+167,Eye of Lazurite,Event Material,"Event material, used to exchange rewards in event ""Fairytale Land""."
+4501002,Customized Class Set Chest,Customized Chest,You can choose to get a set of Warrior's/Mage's/Ranger's/Assassin's/Priest's Gear for opening this chest
+7120,Red Riding Hood,Skins,Red Riding Hood skin of Succuba
+27120,Red Riding Hood,Skins,Red Riding Hood skin of Succuba
+7121,Snow White,Skins,Snow White skin of Wraith
+27121,Snow White,Skins,Snow White skin of Wraith
+20001040,Fairytale Land,Special Avatars,Exclusive avatar for the event Fairytale Land
+174,Nice Love Letter,Event Material,Exclusive item that can be exchanged for rewards during its corresponding event
+175,Eggret's Book,Special Item,"
+The strange book from Valeera’s library now remains still, apart from its eye, it looks like an ordinary old book. Most of its pages have decayed and tattered only leaving a few stories intact. 
+
+The founder of Summoning magic, Eggret, felt an unprecedented crisis in his late years due to the threat of chaos and thus began the research of the most complex subject of all— using magic to create a similar world in order to provide a better place for future generations to live in forever. 
+
+This book was only an experimental product that was created with well-known stories as the cornerstone for its ""world"". It is said that Eggret died for this research without accomplishing it. And now, even these stories are buried in history and the world in the book thus becomes distorted. After all, when reality is lost, an imaginary world means nothing. "
+7122,Cinderfelina,Skins,Cinderfelina skin of Mio
+27122,Cinderfelina,Skins,Cinderfelina skin of Mio
+8041,Immortal Champion,Frame,"The reward for taking the first place in the exam of House Ghost, lasts for 14 days."
+8042,Fierce Warrior,Frame,"The reward for taking the first place in the exam of House Human, lasts for 14 days."
+8043,Monster Conqueror,Frame,"The reward for taking the first place in the exam of House Monster, lasts for 14 days."
+8044,Notorious Victor,Frame,"The reward for taking the first place in the exam of House Fairy, lasts for 14 days."
+8045,Darkness Prevails,Frame,"The reward for taking the first place in the exam of House Demon, lasts for 14 days."
+8046,Light Bringer,Frame,"The reward for taking the first place in the exam of House Angel, lasts for 14 days."
+5701,Nebula Core,,
+5702,Nebula Core,,
+5703,Nebula Core,,
+5704,Nebula Core,,
+5705,Nebula Core,,
+5706,Nebula Core,,
+5707,Nebula Core,,
+5708,Nebula Core,,
+5709,Nebula Core,,
+5710,Nebula Core,,
+5711,Nebula Core,,
+5712,Nebula Core,,
+5713,Nebula Core,,
+5714,Nebula Core,,
+5715,Nebula Core,,
+5716,Nebula Core,,
+5717,Nebula Core,,
+5718,Nebula Core,,
+5719,Nebula Core,,
+5720,Nebula Core,,
+5721,Nebula Core,,
+5722,Nebula Core,,
+5723,Nebula Core,,
+5724,Nebula Core,,
+5725,Nebula Core,,
+5726,Nebula Core,,
+5727,Nebula Core,,
+5728,Nebula Core,,
+5729,Nebula Core,,
+5730,Nebula Core,,
+5731,Nebula Core,,
+5732,Nebula Core,,
+5733,Nebula Core,,
+5734,Nebula Core,,
+5735,Nebula Core,,
+5736,Nebula Core,,
+5737,Nebula Core,,
+5738,Nebula Core,,
+5739,Nebula Core,,
+5740,Nebula Core,,
+5741,Nebula Core,,
+5742,Nebula Core,,
+5743,Nebula Core,,
+5744,Nebula Core,,
+5745,Nebula Core,,
+5746,Nebula Core,,
+5747,Nebula Core,,
+5748,Nebula Core,,
+5749,Nebula Core,,
+5750,Nebula Core,,
+5751,Nebula Core,,
+5752,Nebula Core,,
+5753,Nebula Core,,
+5754,Nebula Core,,
+5755,Nebula Core,,
+5756,Nebula Core,,
+5757,Nebula Core,,
+5758,Nebula Core,,
+5759,Nebula Core,,
+5760,Nebula Core,,
+5761,Nebula Core,,
+5762,Nebula Core,,
+5763,Nebula Core,,
+5764,Nebula Core,,
+5765,Nebula Core,,
+5766,Nebula Core,,
+5767,Nebula Core,,
+5768,Nebula Core,,
+5769,Nebula Core,,
+5770,Nebula Core,,
+5771,Nebula Core,,
+5772,Nebula Core,,
+4102006,5-Star Customized Chest,Customized Chest,Select a 5-Star Girl from Angel/Demon faction from the list after opening this chest. (Tap the magnifying glass in the corner for option details. Contents of this chest will not be updated.)
+4101004,5-Star Customized Chest,Customized Chest,You can select to get 50 shards of a certain 5-Star Girl from Ghost/Human/Monster/Fairy Faction for opening this chest. (The options for this chest won't be updated in the future)
+176,Tasty Mooncake,Event Material,Exclusive item that can be exchanged for rewards during its corresponding event
+177,Dango,Event Material,Exclusive item that can be exchanged for rewards during its corresponding event
+178,Songpyeon,Event Material,Exclusive item that can be exchanged for rewards during its corresponding event
+4202001,Premium Resource Chest,Customized Chest,"You can choose one of the rewards after opening this chest:「60 Adv. Capsule Coins, 18 Seals, 300 Slot Tickets, 36 Super Slot Tickets」"
+7123,Princess Kaguya,Skins,Princess Kaguya skin of Priestess
+27123,Princess Kaguya,Skins,Princess Kaguya skin of Priestess
+20001041,Moon Festival Avatar,Special Avatars,Exclusive Avatar for Moon Festival
+1110001,Fluorescent Wallpaper,Furniture,I want to collect all these stars!
+1110002,Fluorescent Floor,Furniture,"Well, since many of the girls asked for an arcade room on campus..."
+1110003,Claw Crane,Furniture,Nobody can touch it without CapsuGirl's permission!
+1110004,Racing Car,Furniture,This machine is 100% necessary... Especially for the girls who don't have a driving license.
+1110005,Fluorescent Blocks,Furniture,"It's nice, but overusing it in decoration might cause a disaster."
+1110006,Glass Door,Furniture,DO NOT RUSH INSIDE! Otherwise this one will be the 3rd glass door you destroy in this week.
+1110007,Wall Screen,Furniture,It's also fun to watch the competition between the top players!
+1110008,Ranking list,Furniture,Pretty sure Caitlyn will take the first place.
+1110009,Arcade Game,Furniture,Share it with your friends!
+1110010,Bball Arcade Game,Furniture,"It is still a game, don't consider this an exercise!"
+1110011,Dance Pad,Furniture,Don't step on it too hard!
+1110012,Reward Cabinet,Furniture,These rewards are for top players!
+1110013,Arcade Bar,Furniture,"If you need any help, the staff is at the bar."
+1110014,Computer Desk,Furniture,Cutting Edge Computer Is Here! (I didn't mean Turin)
+1110015,Computer Chair,Furniture,"I know you will feel good on this chair, but try not to play computer games for too long."
+1110016,Pink Headset,Furniture,Magic in your ears
+1110017,Green Headset,Furniture,Magic in your ears
+1110018,Portable Console,Furniture,Just don't forget to recharge.
+179,Maple Ticket,Event Material,Exclusive item that can be exchanged for rewards during its corresponding event
+9116,Raphael·Go ahead,Chat emoji,"""Go ahead"" chat emoji of Raphael"
+7124,Autumn Twirl,Skins,Autumn Twirl skin of Giana
+7125,Soul Reflection,Skins,Soul Reflection skin of Nephilim
+7126,Pure Spirit,Skins,Pure Spirit skin of Angel
+27126,Pure Spirit,Skins,Pure Spirit skin of Angel
+7127,Monsieur Bubbles,Skins,Monsieur Bubbles skin of Valeera
+27127,Monsieur Bubbles,Skins,Monsieur Bubbles skin of Valeera
+180,Magic Wand,Event Material,"Event material, used in event ""Magic Card"""
+4102007,6-star Doll Chest,Customized Chest,You can choose to get 50 Shards of a 6-Star Doll from Ghost/Human/Monster/Fairy Faction for opening this chest. You will need to merge the shards in Bag-Shards to obtain the Doll.
+4102008,6-star Doll chest,Customized Chest,You can choose to get 50 Shards of a 6-Star Doll from Angel/Demon Faction for opening this chest. You will need to merge the shards in Bag-Shards to obtain the Doll.
+8047,Chrono Lens,Frame,Acquired by purchasing Grandmaster's Diploma in Season 4 of Steampunk Madness
+7128,Veiled Bride,Skins,Veiled Bride skin of Ithil
+27128,Veiled Bride,Skins,Veiled Bride skin of Ithil
+181,Exhibition Match Ticket,Event Material,"Event material, used to bet on Exhibition Matches of Yume Sports Meeting. Will be automatically exchanged into Coins after the event is over."
+7129,Heavenly Tune,Skins,Heavenly Tune skin of Gabriel
+27129,Heavenly Tune,Skins,Heavenly Tune skin of Gabriel
+52014,Rogue,,
+652021,Rogue,,
+752014,Rogue,,
+930191,5-star Rogue,Summon,Collect 50 shards to summon the girl
+4201001,Customized Resource Chest (small),Customized Chest,"You can choose one of the rewards after opening this chest:「8M Coins, 8M Exp Juice, 6600 Crystal Chisels, 6600 Lunch Boxes, 4000 Servant Cookies, 500 Spirit Cookies」"
+4201002,Customized Resource Chest (big),Customized Chest,"You can choose one of the rewards after opening this chest:「15M Coins, 15M Exp Juice, 12500 Crystal Chisels, 12500 Lunch Boxes, 7500 Servant Cookies, 1000 Spirit Cookies」"
+4301001,Customized Skin Chest,Customized Chest,"You can choose one of the rewards after opening this chest:「Homerun!, All-Star Jogger, Summer Outfit, Past Idol」"
+20001042,SP. Rogue,Special Avatars,Limited edition avatar of Rogue
+20001043,Halloween Lollipop,Special Avatars,Halloween Avatar for 2020
+182,Pumpkin Dagger,Event Material,"Event material, used in event Halloween Pumpkin Patch"
+7130,Pumpkin Kitty,Skins,Pumpkin Kitty skin of Krystal
+27130,Pumpkin Kitty,Skins,Pumpkin Kitty skin of Krystal
+7131,Soul Reaper,Skins,Soul Reaper skin of Nobunaga
+27131,Soul Reaper,Skins,Soul Reaper skin of Nobunaga
+6707,Sacred Vial,Antique,
+6708,Sacred Vial,Antique,
+6709,Sacred Vial,Antique,
+6710,Sacred Vial,Antique,
+6711,Sacred Vial,Antique,
+6712,Sacred Vial,Antique,
+4201003,Customized Resource Chest,Customized Chest,"You can choose one of the rewards after opening this chest:「25M Coins, 25M Exp Juice, 20000 Crystal Chisels, 20000 Lunch Boxes」"
+940047,10-Star Ghost Doll,Summon,Collect 50 shards to summon 10-Star Ghost Doll\nDolls can be used as material of Awake and Limit-Break
+940048,10-Star Human Doll,Summon,Collect 50 shards to summon 10-Star Human Doll\nDolls can be used as material of Awake and Limit-Break
+940049,10-Star Monster Doll,Summon,Collect 50 shards to summon 10-Star Monster Doll\nDolls can be used as material of Awake and Limit-Break
+940050,10-Star Fairy Doll,Summon,Collect 50 shards to summon 10-Star Fairy Doll\nDolls can be used as material of Awake and Limit-Break
+940051,10-Star Demon Doll,Summon,Collect 50 shards to summon 10-Star Demon Doll\nDolls can be used as material of Awake and Limit-Break
+940052,10-Star Angel Doll,Summon,Collect 50 shards to summon 10-Star Angel Doll\nDolls can be used as material of Awake and Limit-Break
+7132,Troublemaker,Skins,Troublemaker skin of Rogue
+27132,Troublemaker,Skins,Troublemaker skin of Rogue
+4101005,Customized Halloween Girl Chest,Customized Chest,"You can choose one of the rewards after opening this chest:「5-star Dracula shard*50, 5-star Ennmaya shard*50, 5-star Girls*50」"
+4302001,Customized Halloween Skin Chest,Customized Chest,"You can choose one of the rewards after opening this chest:「Witch Suit * 1, Candy Heist * 1, Costume Ticket * 120」"
+1167,Warrior Sword,Weapon,
+2167,Warrior Armor,Armor,
+3167,Warrior Helmet,Accessory,
+4167,Warrior Greaves,Bottoms,
+1267,Mage Staff,Weapon,
+2267,Mage Robe,Armor,
+3267,Mage Circlet,Accessory,
+4267,Mage Boots,Bottoms,
+1367,Ranger Bow,Weapon,
+2367,Ranger Suit,Armor,
+3367,Ranger Quiver,Accessory,
+4367,Ranger Boots,Bottoms,
+1467,Assassin Dagger,Weapon,
+2467,Assassin Hood,Armor,
+3467,Assassin Ring,Accessory,
+4467,Assassin Boots,Bottoms,
+1567,Priest Potion,Weapon,
+2567,Priest Dress,Armor,
+3567,Priest Cross,Accessory,
+4567,Priest Boots,Bottoms,
+1168,Warrior Sword,Weapon,
+2168,Warrior Armor,Armor,
+3168,Warrior Helmet,Accessory,
+4168,Warrior Greaves,Bottoms,
+1268,Mage Staff,Weapon,
+2268,Mage Robe,Armor,
+3268,Mage Circlet,Accessory,
+4268,Mage Boots,Bottoms,
+1368,Ranger Bow,Weapon,
+2368,Ranger Suit,Armor,
+3368,Ranger Quiver,Accessory,
+4368,Ranger Boots,Bottoms,
+1468,Assassin Dagger,Weapon,
+2468,Assassin Hood,Armor,
+3468,Assassin Ring,Accessory,
+4468,Assassin Boots,Bottoms,
+1568,Priest Potion,Weapon,
+2568,Priest Dress,Armor,
+3568,Priest Cross,Accessory,
+4568,Priest Boots,Bottoms,
+1169,Warrior Sword,Weapon,
+2169,Warrior Armor,Armor,
+3169,Warrior Helmet,Accessory,
+4169,Warrior Greaves,Bottoms,
+1269,Mage Staff,Weapon,
+2269,Mage Robe,Armor,
+3269,Mage Circlet,Accessory,
+4269,Mage Boots,Bottoms,
+1369,Ranger Bow,Weapon,
+2369,Ranger Suit,Armor,
+3369,Ranger Quiver,Accessory,
+4369,Ranger Boots,Bottoms,
+1469,Assassin Dagger,Weapon,
+2469,Assassin Hood,Armor,
+3469,Assassin Ring,Accessory,
+4469,Assassin Boots,Bottoms,
+1569,Priest Potion,Weapon,
+2569,Priest Dress,Armor,
+3569,Priest Cross,Accessory,
+4569,Priest Boots,Bottoms,
+183,Metal Bearing,Event Material,"Event material, used to exchange items in event: Tech Innovation"
+184,Meteorite Fragment,Event Material,"Special Material, exchanged from event: Tech Innovation, can be used to promote class-set gears in Tech Innovation."
+7061,Candy Heist,Skins,Candy Heist skin of Ennmaya
+27061,Candy Heist,Skins,Candy Heist skin of Ennmaya
+7133,Heavens Descend,Skins,Heavens Descend skin of Nephilim
+21733,Heavens Descend,Skins,Heavens Descend skin of Nephilim
+185,Exploration Ticket,Event Material,"Event material, used to unlock new Exploration Plan in event Old Campus Exploration"
+1100007,School Night,Furniture,"It's time to sleep, you still got class to attend tomorrow"
+20001044,Thanksgiving Avatar,Special Avatars,Exclusive Avatar for Thanksgiving 2020
+4101006,Thanksgiving Customization Chest,Customized Chest,You can choose to acquire 50 5-Star Ghost/Human/Monster/Fairy Shards for opening this chest.(The reward will not be updated)
+186,Pink Balloon,Event Material,"Event Material, used in event: Colorful Balloons"
+7134,Nocturnal Healer,Skins,Nocturnal Healer skin of Raphael
+27134,Nocturnal Healer,Skins,Nocturnal Healer skin of Raphael
+20001045,Limit: Vivian,Special Avatars,Exclusive Avatar of Vivian. May the stars bless you!
+930192,5-star Vivian,Summon,Collect 50 shards to summon the girl
+51013,Vivian,,
+651020,Vivian,,
+751013,Vivian,,
+27124,Autumn Twirl,Skins,Autumn Twirl skin of Giana
+27125,Soul Reflection,Skins,Soul Reflection skin of Nephilim
+930193,5-star Joan,Summon,Collect 50 shards to summon the girl
+54013,Joan,,
+654020,Joan,,
+754013,Joan,,
+187,Special Recruitment Coin,Event Material,Used to get Girls in Special Recruitment
+188,Special Recruitment Ticket,Event Material,Exclusive item that can be exchanged for rewards during its corresponding event
+20001046,Limit: Joan,Special Avatars,Joan’s limited avatar. May your fragrance last forever like the flowers!
+4201004,Customized Resource Chest (normal),Customized Chest,"You can choose one of the rewards after opening this chest:「Coin*180k, Exp Juice*180k, Crystal Chisel*150, Lunch Box*150」"
+4402001,Customized Orange Antique Chest,Customized Chest,"You can choose one of the rewards after opening this chest:「Fate Crystal, The Wings of Icarus, Thorn's Heart, Fusion Umbrella, Echoes, Burning Blades, Neutron Blades, Chainblade Axe, Carnival Staff, Soul Destruction」"
+20001047,Limit-Break 5,Special Avatars,Liberate a Girl to Limit-Break Stage 5
+7135,Ultimate Oath,Skins,Ultimate Oath skin of Kratos
+27135,Ultimate Oath,Skins,Ultimate Oath skin of Kratos
+7136,Gokudō,Skins,Gokudō skin of Rogue
+27136,Gokudō,Skins,Gokudō skin of Rogue
+4101007,Customized Girls Chest (Luvly's Journey S1),Customized Chest,You can select to get 50 shards of a certain 5-Star Girl from Ghost/Human/Monster/Fairy Faction for opening this chest. (The options for this chest won't be updated in the future)
+4101008,9-star Doll Chest,Customized Chest,You can choose to get 50 shards of 9-Star Doll from Ghost/Human/Monster/Fairy Faction for opening this chest.
+4102009,Customized L&D Chest (Luvly's Journey S1),Customized Chest,You can select to get 50 shards of a certain 5-Star Girl from Angel/Demon Faction for opening this chest. (The options for this chest won't be updated in the future)
+4201005,Customized Resource Chest,Customized Chest,"You can select to get one of the following rewards for opening this chest:「Coin * 20M, Exp Juice * 20M, Lunch Box * 15K, Crystal Chisel * 15K, Servant Cookie * 15K, Spirit Cookie * 3K」"
+4302002,Customized Skin Chest (Luvly's Journey S1),Customized Chest,You can select to get a skin for opening this chest.(Tap the magnifying glass in the item for the option details; The options here won't be updated)
+189,Rudder,Event Material,"Event Material, used in event Luvly's Journey"
+190,Advanced Rudder,Event Material,"Event Material, used in event Luvly's Journey"
+7137,Black Hornet,Skins,Black Hornet skin of Linky
+27137,Black Hornet,Skins,Black Hornet skin of Linky
+7138,Devil's Sawtooth,Skins,Devil's Sawtooth skin of Kratos
+27138,Devil's Sawtooth,Skins,Devil's Sawtooth skin of Kratos
+192,Steam Lucky Box,Resource Chest,"You can get a random reward for opening this chest (including Gems, Adv. Capsule Coins, Slot Tickets, Girls Shards, common resources, etc.)"
+8048,Pressure Gage,Frame,Acquired by purchasing Grandmaster's Diploma in Season 5 of Steampunk Madness
+4201006,Customized Resource Chest,Customized Chest,"You can select to get one of the following rewards for opening this chest:「Coin * 4M, Exp Juice * 4M, Lunch Box * 3K, Crystal Chisel * 3K, Servant Cookie * 3K, Spirit Cookie * 600」"
+4403001,Customized Ex.Orange Antique Chest,Customized Chest,Select a reward after opening this chest. (Tap the magnifying glass in the corner for option details)
+191,Coral Branch,Event Material,"Event Material, used in event Luvly's Journey"
+930194,5-star Uriel,Summon,Collect 50 shards to summon the girl
+56007,Uriel,,
+656017,Uriel,,
+756007,Uriel,,
+930195,5-star Izanami,Summon,Collect 50 shards to summon the girl
+55008,Izanami,,
+655017,Izanami,,
+755007,Izanami,,
+7139,Sleepy Reindeer,Skins,Sleepy Reindeer skin of Trinity
+27139,Sleepy Reindeer,Skins,Sleepy Reindeer skin of Trinity
+4101009,5-Star Customized Chest,Customized Chest,You can select to get 50 shards of a certain 5-Star Girl of Ghost/Human/Monster/Fairy faction from the list after opening this chest. (Contents of this chest will not be updated.)
+4102010,Customized L&D Chest,Customized Chest,"Select a 5-Star Girl from Angel/Demon faction from the list after opening this chest. (Once this chest is obtained, the contents of this chest will not be updated.)"
+20001048,Uriel & Izanami Exclusive,Special Avatars,Exclusive Avatar for Uriel and Izanami. Maybe it's the best time to know whose power would prevail?
+193,Bow,Event Material,"Event material, used in Christmas Dollhouse event."
+7140,Santa's Assistant,Skins,Santa's Assistant skin of Uriel
+27140,Santa's Assistant,Skins,Santa's Assistant skin of Uriel
+7141,Santa Deity,Skins,Santa Deity skin of Izanami
+27141,Santa Deity,Skins,Santa Deity skin of Izanami
+6713,Eternal Dawn,Antique,
+6714,Eternal Dawn,Antique,
+6715,Eternal Dawn,Antique,
+6716,Eternal Dawn,Antique,
+6717,Eternal Dawn,Antique,
+6718,Eternal Dawn,Antique,
+9117,Bully,Chat emoji,Trinity's Christmas Emoji
+9118,Face Pinch,Chat emoji,Esau&Jacob's Christmas Emoji
+9119,Onlooker,Chat emoji,Uriel's Christmas Emoji
+9120,How Dare You,Chat emoji,Izanami's Christmas Emoji
+1110019,Computer Chair 2,Furniture,"I know you will feel good on this chair, but try not to play computer games for too long."
+1120001,Party Floor,Furniture,A perfect Christmas party time for the Girls to have here~
+1120002,Party Wallpaper,Furniture,"A party house just for the Girls, even the wallpaper is unique."
+1120003,Snow Scene Window,Furniture,"Party time inside, snow time outside."
+1120004,Red Curtain,Furniture,A red curtain is an exquisite touch to the party!
+1120005,LED Christmas Tree,Furniture,Colorful lights and shining bright. Let's have fun!
+1120006,Candy Train,Furniture,Ice-cream coated candy train is so cool~
+1120007,Green Candy Cart,Furniture,A candy cart full of candy and gingerbread riding through a happy party
+1120008,Blue Candy Cart,Furniture,A candy cart full of candy and gingerbread riding through a happy party
+1120009,Train Track 1,Furniture,A candy loaded train brings lots of joy~
+1120010,Train Track 2,Furniture,A candy loaded train brings lots of joy~
+1120011,Train Track 3,Furniture,A candy loaded train brings lots of joy~
+1120012,Train Track 4,Furniture,A candy loaded train brings lots of joy~
+1120013,Red Nutcracker,Furniture,Nutcracker! Protect the Girls!
+1120014,Blue Nutcracker,Furniture,Nutcracker! Protect the Girls!
+1120015,Round Dining Table,Furniture,A round dining table is often used to place tea sets and cakes
+1120016,Candle Holder,Furniture,A romantic touch to the dining table
+1120017,Tea Set 2,Furniture,"I'm tired, let's drink some tea."
+1120018,Swing,Furniture,Who's favorite will this be?
+1120019,Christmas Cake,Furniture,"Quick, let's cut the cake and enjoy~"
+1120020,Gingerbread House,Furniture,"An ice-cream coated gingerbread house, yum!"
+1120021,Gingerbread Man (Green),Furniture,The gingerbread man is a reminder of our loved ones
+1120022,Gingerbread Man (Red),Furniture,The gingerbread man is a reminder of our loved ones
+1120023,Kids Bed,Furniture,"When the party's over, it's time for bed"
+1120024,Candy Box,Furniture,"A candy box filled with candy, who wouldn't be excited~"
+1120025,Candy Bag,Furniture,"A candy bag filled with candy, who wouldn't be excited~"
+1120026,Christmas Snow,Furniture,"Snowy night and Christmas lights, Merry Christmas!"
+20001049,Exclusive 2020 Christmas Avatar,Special Avatars,Exclusive 2020 Christmas Avatar
+8049,Christmas Reindeer,Frame,2020 Christmas Event
+194,Deer Candy,Event Material,"Event material, used in Christmas Store"
+4202002,Premium Resource Chest,Customized Chest,"You can choose one of the rewards after opening this chest:「15 Adv. Capsule Coins, 5 Seals, 80 Slot Tickets, 10 Super Slot Tickets」"
+195,Unlock the 4th Gift,,Purchase to unlock the 4th gift in event Christmas Gift
+7142,Shrine Visit,Skins,Shrine Visit skin of Sakura
+27142,Shrine Visit,Skins,Shrine Visit skin of Sakura
+196,2021 Lucky Gift,Resource Box,"You can get one of the following rewards randomly by opening this box: 「Coins*388k, Exp Juice*388k, Lunch Box*388, Crystal Chisel*388, Servant Cookies*388, Spirit Cookie*66」"
+197,2021 Lovely Gift,Resource Box,"You can get one of the following rewards randomly by opening this box: 「Adv.Capsule Coin*1, Seal*1, Super Slot Ticket*1, 5-Star Shard*10, Orange Antique Shard*5」"
+20001050,Happy 2021,Special Avatars,Limited 2021 New Year Avatar
+4101010,10-star Doll Chest,Customized Chest,You can choose to get 50 shards of 10-Star Doll from Ghost/Human/Monster/Fairy Faction upon opening this chest.
+4101011,5-Star Customized Chest,Customized Chest,You can select to get 50 shards of a certain 5-Star Girl of Ghost/Human/Monster/Fairy faction from the list after opening this chest. (Contents of this chest will not be updated.)
+198,Standard File,Skills Upgrade Material,Used to upgrade girl elite skill levels
+199,Exclusive File,Skills Upgrade Material,Used to upgrade girl elite skill levels
+7143,Floral Dreams,Skins,Floral Dreams skin of Raphael
+27143,Floral Dreams,Skins,Floral Dreams skin of Raphael
+7144,Cookie Snatcher,Skins,Cookie Snatcher skin of Psychic
+27144,Cookie Snatcher,Skins,Cookie Snatcher skin of Psychic
+930196,5-star Vera,Summon,Collect 50 shards to summon the girl
+54014,Vera,,
+654021,Vera,,
+754014,Vera,,
+7145,Dark Phoenix,Skins,Dark Phoenix skin of Geisha
+27145,Dark Phoenix,Skins,Dark Phoenix skin of Geisha
+4203001,Customized Resource Chest (Regular),Customized Chest,"You can choose one of the rewards after opening this chest: 「Coin*4M, Exp Juice*4M, Lunch Box*3000, Crystal Chisel*3000」"
+8050,Exploration Master,Frame,"Top 10 in Old Campus Exploration Ranking List, lasts for 14 days"
+4101012,Customized Girls Chest (Luvly's Journey S2),Customized Chest,You can select to get 50 shards of a certain 5-Star Girl of Ghost/Human/Monster/Fairy faction from the list after opening this chest. (Contents of this chest will not be updated.)
+4102011,Customized L&D Chest (Luvly's Journey S2),Customized Chest,"Select a 5-Star Girl from Angel/Demon faction from the list after opening this chest. (Once this chest is obtained, the contents of this chest will not be updated.)"
+4302003,Customized Skin Chest (Luvly's Journey S2),Customized Chest,You can select to get a skin for opening this chest.(Tap the magnifying glass in the item for the option details; The options here won't be updated)
+20001051,Limit: Vera,Special Avatars,"Exclusive Avatar of Vera. Senpai, please behave!"
+200,Kitty Macaron,Event Material,"Event material, used in event Yume Tea Party."
+222222221,Ace of Hearts,,
+202,Starter Capsule Coin,Event Material,Used to acquire Girls in Limited Starter Capsule
+7146,Supreme Maid,Skins,Supreme Maid skin of Empress Saint
+27146,Supreme Maid,Skins,Supreme Maid skin of Empress Saint
+4101013,Customized Girl Chest (Limited Starter Capsule),Customized Chest,You can select to get 50 shards of a certain 5-Star Girl of Ghost/Human/Monster/Fairy faction from the list after opening this chest. (Contents of this chest will not be updated.)
+4102012,Customized L&D Chest (Limited Starter Capsule),Customized Chest,"Select a 5-Star Girl from Angel/Demon faction from the list after opening this chest. (Once this chest is obtained, the contents of this chest will not be updated.)"
+4203002,Customized Resource Chest (Regular),Customized Chest,"You can choose one of the rewards after opening this chest: 「Coin*1300K, Exp Juice*1300K, Lunch Box*1000, Crystal Chisel*1000」"
+930197,5-star Apate,Summon,Collect 50 shards to summon the girl
+55009,Apate,,
+655018,Apate,,
+755008,Apate,,
+7147,Tricky Pirate,Skins,Tricky Pirate skin of Rogue
+27147,Tricky Pirate,Skins,Tricky Pirate skin of Rogue
+7148,Fluffy Bond,Skins,Fluffy Bond skin of Psychic
+27148,Fluffy Bond,Skins,Fluffy Bond skin of Psychic
+8051,Mecha Voyage,Frame,Acquired by purchasing Grandmaster's Diploma in Season 6 of Steampunk Madness
+7149,Festive Glory,Skins,Festive Glory skin of Fenrir
+27149,Festive Glory,Skins,Festive Glory skin of Fenrir
+7150,Sweet Panda,Skins,Sweet Panda skin of Pandaria
+27150,Sweet Panda,Skins,Sweet Panda skin of Pandaria
+7151,Gentle Grace,Skins,Gentle Grace skin of Joan
+27151,Gentle Grace,Skins,Gentle Grace skin of Joan
+8001,Guild Battle Champion Avatar Frame,Frame,"Acquired by winning the 1st place of a Guild War, available for 7 days"
+8002,Guild Battle 2nd Place Avatar Frame,Frame,"Acquired by winning the 2nd place of a Guild War, available for 7 days"
+8003,Guild Battle Semi-Finals Avatar Frame,Frame,"Acquired by reaching Top 4 of a Guild War, available for 7 days"
+8004,Guild Battle Final Eight Avatar Frame,Frame,"Acquired by reaching Top 8 of a Guild War, available for 7 days"
+8005,Guild Battle Final Sixteenth Avatar Frame,Frame,"Acquired by reaching Top 16 of a Guild War, available for 7 days"
+930198,5-star Skye,Summon,Collect 50 shards to summon the girl
+53014,Skye,,
+653021,Skye,,
+753014,Skye,,
+4101014,Customized Girls Chest (Luvly's Journey S3),Customized Chest,You can select to get 50 shards of a certain 5-Star Girl from Ghost/Human/Monster/Fairy Faction for opening this chest. (The options for this chest won't be updated in the future)
+4101015,5-Star Customized Chest,Customized Chest,You can select to get 50 shards of a certain 5-Star Girl of Ghost/Human/Monster/Fairy faction from the list after opening this chest. (Contents of this chest will not be updated.)
+4302004,Customized Skin Chest (Luvly's Journey S3),Customized Chest,You can select to get a skin for opening this chest.(Tap the magnifying glass in the item for the option details; The options here won't be updated)
+4102013,Customized L&D Chest (Luvly's Journey S3),Customized Chest,You can select to get 50 shards of a certain 5-Star Girl from Angel/Demon Faction for opening this chest. (The options for this chest won't be updated in the future)
+207,Girls Customized Chest,Academy Chest,Select to acquire 50 shards of Izanami or Uriel for opening this chest.
+7152,Festive Maiden,Skins,Festive Maiden skin of Vivian
+27152,Festive Maiden,Skins,Festive Maiden skin of Vivian
+201,Ace of Hearts,Event Material,"Event Material, used in event Lucky Bonus."
+6719,Deception,Antique,
+6720,Deception,Antique,
+6721,Deception,Antique,
+6722,Deception,Antique,
+6723,Deception,Antique,
+6724,Deception,Antique,
+20001052,Limit: Apate,Special Avatars,Exclusive Avatar of Apate. Submit to my song!
+20001053,Limit: Skye,Special Avatars,Exclusive Avatar of Skye. Do you enjoy the feeling of flight?
+206,Festival Charm,Event Material,"Event material, used in event: Spring Ceremony."
+4402002,Customized Orange Antique Chest,Customized Chest,You can select to get an Exclusive Orange Antique for opening this chest.(Tap the magnifying glass in the item for the option details; The options here won't be updated)
+8052,Amorous Oath,Frame,"Exclusive Avatar for Valentine's Day 2021, obtained from exclusive event."
+203,Tasty Bread,Material,The soft texture and sweet taste always makes you drool. An essential item for exploring on the School Excursion.
+204,Crude Wood,Material,"Hard and heavy, with clear texture, looks like top quality building material. Used to upgrade facilities in School Excursion."
+205,Blue Mineral,Material,"The mineral is clear and blue, revealing incredible power. Used to upgrade girl attribute bonus in School Excursion."
+208,Key of Memory,Story Unlock,Used to unlock stories in Memories
+7153,Violet Prophecy,Skins,Violet Prophecy skin of Amelia
+27153,Violet Prophecy,Skins,Violet Prophecy skin of Amelia
+209,Sky Lantern,Event Material,Exclusive item that can be exchanged for rewards during its corresponding event
+7154,Doll Tradition,Skins,Doll Tradition skin of Ennmaya
+27154,Doll Tradition,Skins,Doll Tradition skin of Ennmaya
+210,Blue Magic Box,Resource Box,"You can get one of the following rewards randomly by opening this box: 「Lunch Box * 15000, Servant Cookie * 6000, Spirit Cookie * 1000, Lunch Box * 20000, Crystal Chisel * 20000, Orange Antique Exclusive Shard * 50」"
+211,Purple Magic Box,Resource Box,"You can get one of the following rewards randomly by opening this box: 「Coin * 15M, Exp Juice * 15M, Coin * 30M, Exp Juice*30M, 3-star Girls Shard * 3000, 5-star Girls Shard *150, Elite 5-star Girls Shard * 100」"
+212,Tamagoyaki,Event Material,Exclusive item that can be exchanged for rewards during its corresponding event
+213,Crepes,Event Material,Exclusive item that can be exchanged for rewards during its corresponding event
+214,Mikan Wagashi,Event Material,Exclusive item that can be exchanged for rewards during its corresponding event
+4102014,Customized L&D Chest,Customized Chest,You can select to get 50 shards of a certain 5-Star Girl from Angel/Demon Faction for opening this chest. (The options for this chest won't be updated in the future)
+7155,Wild Aroma,Skins,Wild Aroma skin of Mio
+27155,Wild Aroma,Skins,Wild Aroma skin of Mio
+930199,5-star Mika,Summon,Collect 50 shards to summon the girl
+52015,Mika,,
+652022,Mika,,
+752015,Mika,,
+930200,5-star Von Helsing,Summon,Collect 50 shards to summon the girl
+51014,Von Helsing,,
+651021,Von Helsing,,
+751014,Von Helsing,,
+4101016,Customized Girls Chest (Luvly's Journey S4),Customized Chest,You can select to get 50 shards of a certain 5-Star Girl of Ghost/Human/Monster/Fairy faction from the list after opening this chest. (Contents of this chest will not be updated.)
+4102015,Customized L&D Chest (Luvly's Journey S4),Customized Chest,"Select a 5-Star Girl from Angel/Demon faction from the list after opening this chest. (Once this chest is obtained, the contents of this chest will not be updated.)"
+4302005,Customized Skin Chest (Luvly's Journey S4),Customized Chest,You can select to get a skin for opening this chest.(Tap the magnifying glass in the item for the option details; The options here won't be updated)
+7156,Serenity,Skins,Serenity skin of N-Gen Iron Fist
+27156,Serenity,Skins,Serenity skin of N-Gen Iron Fist
+20001055,Mika's Limited Avatar,Special Avatars,"Mika's Limited Avatar. I've been wanting to meet you for a long time, Senpai."
+20001056,Von Helsing's Limited Avatar,Special Avatars,Von Helsing's Limited Avatar. A prey that I've set my eyes on can never escape.
+7157,Bonbon,Skins,Bonbon skin of Krystal
+27157,Bonbon,Skins,Bonbon skin of Krystal
+4101017,5-Star Customized Chest,Customized Chest,You can select to get 50 shards of a certain 5-Star Girl of Ghost/Human/Monster/Fairy faction from the list after opening this chest. (Contents of this chest will not be updated.)
+215,Dandelion,Event Material,Used in event: Journey Beyond.
+4102016,Customized L&D Chest,Customized Chest,You can select to get 50 shards of a certain 5-Star Girl from Angel/Demon Faction for opening this chest. (The options for this chest won't be updated in the future)
+217,Clown Puppet,Event Material,"Event material, used in event: Puppet Parade"
+7158,Jester,Skins,Jester skin of Apate
+27158,Jester,Skins,Jester skin of Apate
+7159,Droopy Clown,Skins,Droopy Clown skin of Aquaris
+27159,Droopy Clown,Skins,Droopy Clown skin of Aquaris
+216,Servant Crystal,Servant Material,Used to upgrade the Ulticore of your Servants
+7160,Broadcaster,Skins,Broadcaster skin of CapsuGirl
+27160,Broadcaster,Skins,Broadcaster skin of CapsuGirl
+7161,Easter Parade,Skins,Easter Parade skin of Gabriel
+27161,Easter Parade,Skins,Easter Parade skin of Gabriel
+218,Speckled Egg,Event Material,"Event material, used in event: Egg Surprise"
+219,Jolly Egg,Event Material,"Event material, used in event: Egg Surprise"
+220,Golden Egg,Event Material,"Event material, used in event: Egg Surprise"
+7162,AI Joker,Skins,AI Joker skin of Turin
+27162,AI Joker,Skins,AI Joker skin of Turin
+9121,Cool Down,Chat emoji,「Cool Down」chat emoji of Scythe
+4102017,Customized L&D Chest (Luvly's Journey S5),Customized Chest,"Select a 5-Star Girl from Angel/Demon faction from the list after opening this chest. (Once this chest is obtained, the contents of this chest will not be updated.)"
+4101018,Customized Girls Chest (Luvly's Journey S5),Customized Chest,You can select to get 50 shards of a certain 5-Star Girl of Ghost/Human/Monster/Fairy faction from the list after opening this chest. (Contents of this chest will not be updated.)
+4302006,Customized Skin Chest (Luvly's Journey S5),Customized Chest,You can select to get a skin for opening this chest.(Tap the magnifying glass in the item for the option details; The options here won't be updated)
+221,Floral Stamp,Fantasy Book Currency,"Can be used to exchange rewards in Bookkeeper's Rewards, will be removed from your account after the event is over."
+222,Crystal Leaf,Fantasy Book Currency,"Can be used to exchange rewards in Bookkeeper's Rewards, will NOT be removed from your account after the event is over."
+223,Pages,Fantasy Book Material,Used to promote the Book Level
+1129999,Secret Bag,Furniture,"Seems like this belongs to CapsuGirl, what is she trying to hide from us?"
+4302007,Customized Skin Chest (Easter 2021),Customized Chest,You can select to get a skin for opening this chest.(Tap the magnifying glass in the item for the option details; The options here won't be updated)
+7163,Dreamy Clouds,Skins,Dreamy Clouds skin of Silvia
+27163,Dreamy Clouds,Skins,Dreamy Clouds skin of Silvia
+8053,Afternoon Break,Frame,Purchase Collector's Book
+930201,5-star Estel,Summon,Collect 50 shards to summon the girl
+53015,Estel,,
+653022,Estel,,
+753015,Estel,,
+20001057,Limited: Estel,Special Avatars,Estel's exclusive avatar. Where are we playing today?
+224,Easter Compensation Chest,Special Chest,2021 Egg Surprise event purchase failure compensation chest
+225,Magic Powder,Event Material,"Event material, used in Firework Project event."
+226,Special Firework,Event Material,"Event material, used in Firework Project event."
+7164,Private Trainer,Skins,Private Trainer skin of Uriel
+27164,Private Trainer,Skins,Private Trainer skin of Uriel
+227,Elite Skill Promotion Chest,Resource Chest,Open to obtain 8000 Standard Files and 2500 Exclusive Files.
+4204001,Servant Growth Chest,Customized Chest,"You can choose one of the rewards after opening this chest:「Servant Cookie * 12000, Spirit Cookie * 1500, Servant Crystal * 600」"
+4403011,Customized Ghost Antique Chest,Customized Chest,Select a reward after opening this chest. (Tap the magnifying glass in the corner for option details)
+4403012,Customized Human Antique Chest,Customized Chest,Select a reward after opening this chest. (Tap the magnifying glass in the corner for option details)
+4403013,Customized Monster Antique Chest,Customized Chest,Select a reward after opening this chest. (Tap the magnifying glass in the corner for option details)
+4403014,Customized Fairy Antique Chest,Customized Chest,Select a reward after opening this chest. (Tap the magnifying glass in the corner for option details)
+4403015,Customized Demon Antique Chest,Customized Chest,Select a reward after opening this chest. (Tap the magnifying glass in the corner for option details)
+4403016,Customized Angel Antique Chest,Customized Chest,Select a reward after opening this chest. (Tap the magnifying glass in the corner for option details)
+4204002,Servant Growth Chest,Customized Chest,"You can choose one of the rewards after opening this chest:「Servant Cookie * 4000, Spirit Cookie * 500, Servant Crystal * 200」"
+228,Advanced Resource Chest,Resource Box,"You can get one of the following rewards randomly by opening this box:「Adv. Capsule Coin * 25, Seal * 7, Slot Ticket * 120, Adv. Capsule Coin * 45, Seal * 13, Slot Ticket * 240, Super Slot Ticket * 20」"
+229,Blue Magic Box,Resource Box,"You can get one of the following rewards randomly by opening this box: 「Lunch Box * 15000, Servant Cookie * 6000, Spirit Cookie * 1000, Servant Crystal * 400, Lunch Box * 20000, Crystal Chisel * 20000, Orange Antique Exclusive Shard * 50」"
+230,Guild Chest,Resource Box,"You can get one of the following rewards randomly by opening this box: 「Elite 5-star Angel Shard * 50, Elite 5-star Demon Shard * 50, 5-star Angel Shard * 50, 5-star Demon Shard * 50, 5-star Girls Shard * 50, Angel Wand * 1, Angel Suit * 1, Angel Hair Band * 1, Angel Wings * 1, Seal * 1, Adv. Capsule Coin * 1, Super Slot Ticket * 1, Rune Engraving * 1, Lucky Crystal * 1, Exp Juice * 200000, Crystal Chisel * 100, Lunch Box * 150, Slot Ticket * 2」"
+4202003,Premium Resource Chest,Customized Chest,"You can choose one of the rewards after opening this chest:「8 Adv. Capsule Coins, 2 Seals, 35 Slot Tickets, 4 Super Slot Tickets」"
+4201007,Customized Resource Chest (normal),Customized Chest,"You can choose one of the rewards after opening this chest:「Exp Juice * 600000, Lunch Box * 400, Crystal Chisel * 400, Servant Cookie * 250, Spirit Cookie * 30」"
+7165,Holiday Mode,Skins,Holiday Mode skin of Skye
+27165,Holiday Mode,Skins,Holiday Mode skin of Skye
+231,Study Certificate,Event Material,"Event material, used in event Program Study"
+7166,Magical Haze,Skins,Magical Haze skin of Izanami
+27166,Magical Haze,Skins,Magical Haze skin of Izanami
+7167,Wonder Fish,Skins,Wonder Fish skin of Susan
+27167,Wonder Fish,Skins,Wonder Fish skin of Susan
+930202,5-star Blair,Summon,Collect 50 shards to summon the girl
+51015,Blair,,
+651022,Blair,,
+751015,Blair,,
+930203,5-star Holly,Summon,Collect 50 shards to summon the girl
+54015,Holly,,
+654022,Holly,,
+754015,Holly,,
+4102018,Customized L&D Chest,Customized Chest,You can select to get 50 shards of a certain 5-Star Girl from Angel/Demon Faction for opening this chest. (The options for this chest won't be updated in the future)
+4102019,Customized L&D Chest (Luvly's Journey S6),Customized Chest,"Select a 5-Star Girl from Angel/Demon faction from the list after opening this chest. (Once this chest is obtained, the contents of this chest will not be updated.)"
+4101019,Customized Girls Chest (Luvly's Journey S6),Customized Chest,You can select to get 50 shards of a certain 5-Star Girl of Ghost/Human/Monster/Fairy faction from the list after opening this chest. (Contents of this chest will not be updated.)
+4302008,Customized Skin Chest (Luvly's Journey S6),Customized Chest,You can select to get a skin for opening this chest.(Tap the magnifying glass in the item for the option details; The options here won't be updated)
+4204003,Servant Growth Chest,Customized Chest,"You can choose one of the rewards after opening this chest:「Servant Cookie * 3200, Spirit Cookie * 400, Servant Crystal * 200」"
+4204004,Servant Growth Chest,Customized Chest,"You can choose one of the rewards after opening this chest:「Servant Cookie * 8000, Spirit Cookie * 1000, Servant Crystal * 500」"
+4204005,Servant Growth Chest,Customized Chest,"You can choose one of the rewards after opening this chest:「Servant Cookie * 32000, Spirit Cookie * 4000, Servant Crystal * 2000」"
+232,Shining Pearl,Event Material,"Event Material, used in event Luvly's Journey"
+7168,Counting Sheep,Skins,Counting Sheep skin of Vera
+27168,Counting Sheep,Skins,Counting Sheep skin of Vera
+7169,Wild Vow,Skins,Wild Vow skin of Fenrir
+27169,Wild Vow,Skins,Wild Vow skin of Fenrir
+234,Orientation Ticket,Event Material,"Event material, used in event Orientation Gift"
+20001058,Limit: Blair,Special Avatars,Blair's exclusive avatar. It's a beautiful night for a date~
+233,Unlock the 4th Gift,,Purchase to unlock the 4th gift in event Orientation Gift
+235,Magic Circuit,Event Material,"Event Material, used in event ""The Secret of Time"""
+236,Time Shards,Event Material,"Event Material, used in event ""The Secret of Time"""
+7170,Pure Injection,Skins,Pure Injection skin of Angel
+27170,Pure Injection,Skins,Pure Injection skin of Angel
+7171,Exploding Recovery,Skins,Exploding Recovery skin of Estel
+27171,Exploding Recovery,Skins,Exploding Recovery skin of Estel
+4101020,5-Star Customized Chest,Customized Chest,You can select to get 50 shards of a certain 5-Star Girl of Ghost/Human/Monster/Fairy faction from the list after opening this chest. (Contents of this chest will not be updated.)
+4201008,Regular Customized Resource Chest,Customized Chest,"You can choose one of the rewards after opening this chest:「Exp Juice * 2000000, Lunch Box * 1500, Crystal Chisel * 1500, Servant Cookie * 900, Spirit Cookie * 120」"
+4201009,Regular Customized Resource Chest (Ancient City Battle),Customized Chest,"You can select to get one of the following rewards for opening this chest:「Coin*400000, Exp Juice*400000, Lunch Box*300, Crystal Chisel*300, Servant Cookie*300, Spirit Cookie*60, Servant Crystal*30」"
+20001059,Limit: Holly,Special Avatars,Holly's exclusive avatar. Take this love and make it evergreen!
+7172,Radiant Healer,Skins,Radiant Healer skin of Mika
+27172,Radiant Healer,Skins,Radiant Healer skin of Mika
+4402003,Customized Orange Antique Chest,Customized Chest,You can select to get an Exclusive Orange Antique for opening this chest.(Tap the magnifying glass in the item for the option details; The options here won't be updated)
+6725,Reaper's Voice,Antique,
+6726,Reaper's Voice,Antique,
+6727,Reaper's Voice,Antique,
+6728,Reaper's Voice,Antique,
+6729,Reaper's Voice,Antique,
+6730,Reaper's Voice,Antique,
+4203003,Customized Resource Chest (Regular),Customized Chest,"You can choose one of the rewards after opening this chest: 「Coin*500K, Exp Juice*500K, Lunch Box*360, Crystal Chisel*360」"
+4204006,Servant Growth Chest,Customized Chest,"You can choose one of the rewards after opening this chest:「Servant Cookie * 1800, Spirit Cookie * 220, Servant Crystal * 100」"
+4205001,Customized File Chest,Customized Chest,"You can choose one of the rewards after opening this chest: 「Standard File*1000, Exclusive File*200」"
+7173,Ticking Time,Skins,Ticking Time skin of Nia
+27173,Ticking Time,Skins,Ticking Time skin of Nia
+4204007,Customized Resource Chest,Customized Chest,"You can choose one of the rewards after opening this chest:「 12000 Crystal Chisels, 12000 Lunch Boxes, 7200 Servant Cookies, 900 Spirit Cookies, 450 Servant Crystals」"
+4201010,Customized Resource Chest (normal),Customized Chest,"You can choose one of the rewards after opening this chest:「25M Coins, 25M Exp Juice, 20000 Crystal Chisels, 20000 Lunch Boxes, 20000 Servant Cookies, 4000 Spirit Cookies」"
+7174,Deadly Vines,Skins,Deadly Vines skin of Von Helsing
+27174,Deadly Vines,Skins,Deadly Vines skin of Von Helsing
+1900002,Hunting Crossbow,Furniture,A cold weapon and even more so a delicate artwork.
+8054,Summer Vines,Frame,Acquire by purchasing Collector's Book
+1130001,Church Floor,Furniture,There is no room for stains on a holy church floor!
+1130002,Church Wallpaper,Furniture,This is a glorious and holy church!
+1130003,Wedding Cake,Furniture,A splendid huge cake looks great! And it's sweet! Hope you like the surprise within!
+1130004,Roman Pillar,Furniture,The grand pillars you'd see in a church~
+1130005,Wedding Wall Decor,Furniture,Let's decorate the hall better!
+1130006,Main Wedding Table,Furniture,Let's share this happy ceremonious moment together!
+1130007,Wedding Reception Table,Furniture,Let's share this happy ceremonious moment together!
+1130008,Wedding Chair 1,Furniture,Let's witness this beautiful moment!
+1130009,Wedding Chair 2,Furniture,Let's witness this beautiful moment!
+1130010,Wedding Bench 1,Furniture,Let's watch this happy and joyous ceremony~
+1130011,Wedding Bench 2,Furniture,Let's watch this happy and joyous ceremony~
+1130012,Wedding Arch (Pink),Furniture,The archway to love and happiness!
+1130013,Wedding Arch (Red),Furniture,The archway to love and happiness!
+1130014,Flower Stand (Pink),Furniture,A carefully decorated flower stand~
+1130015,Flower Stand (Red),Furniture,A carefully decorated flower stand~
+1130016,Oath Platform,Furniture,Step onto the platform with your loved one and take your oath!
+1130017,Podium Stand,Furniture,Recite the vows of love together...
+1130018,Grand Piano,Furniture,Would you like to play a piece for the newlyweds?
+1130019,Wedding Carpet,Furniture,Step towards the oath platform!
+1130020,Wedding Stanchion,Furniture,Please make a detour!
+1130021,Tiered Fruit Stand,Furniture,Happiness is the taste of fruits~
+1130022,Dessert,Furniture,It's so sweet! It's really sweet!
+1130023,Champagne,Furniture,Let's open a bottle of champagne to celebrate this joyous day~
+4102020,Customized L&D Chest (Luvly's Journey S7),Customized Chest,You can select to get 50 shards of a certain 5-Star Girl from Angel/Demon Faction for opening this chest. (The options for this chest won't be updated in the future)
+4101021,Customized Girls Chest (Luvly's Journey S7),Customized Chest,You can select to get 50 shards of a certain 5-Star Girl from Ghost/Human/Monster/Fairy Faction for opening this chest. (The options for this chest won't be updated in the future)
+4302009,Customized Skin Chest (Luvly's Journey S7),Customized Chest,You can select to get a skin for opening this chest.(Tap the magnifying glass in the item for the option details; The options here won't be updated)
+237,Void Crystal,Event Material,"Event material, collect Void Crystal in Bizarre Adventures to get rewards!"
+238,Adventure Capsule Coin,Event Material,Used to summon Adventure Girls in Adventure Team Recruitment
+239,Void Ember,Event Material,"Event Material, used to upgrade the Adventure Girls in Bizarre Adventures"
+9999998,Adventure Transfer Order,Event Material,"Event Material, used to acquire a certain Adventure Girl for Bizarre Adventure"
+241,Elite Skill Chest,Resource Chest,Open to obtain 15000 Standard Files and 2000 Exclusive Files.
+4201011,Customized Resource Chest (normal),Customized Chest,"You can choose one of the rewards after opening this chest:「Coin*5000000, Exp Juice*5000000, Lunch Box*4000, Crystal Chisel*4000」"
+4204008,Servant Growth Chest,Customized Chest,"You can choose one of the rewards after opening this chest:「Servant Cookie * 5600, Spirit Cookie * 700, Servant Crystal * 350」"
+7175,Dangerous Gamble,Skins,Dangerous Gamble skin of Rogue
+27175,Dangerous Gamble,Skins,Dangerous Gamble skin of Rogue
+7176,Purity,Skins,Purity skin of Raphael
+27176,Purity,Skins,Purity skin of Raphael
+4202004,Premium Resource Chest,Customized Chest,"You can choose one of the rewards after opening this chest:「10 Adv. Capsule Coins, 3 Seals, 50 Slot Tickets, 6 Super Slot Tickets」"
+4203004,Customized Resource Chest (Regular),Customized Chest,"You can choose one of the rewards after opening this chest: 「Coin*30M, Exp Juice*30M, Lunch Box*22500, Crystal Chisel*22500」"
+4203005,Customized Resource Chest (Regular),Customized Chest,"You can choose one of the rewards after opening this chest: 「Coin*2600K, Exp Juice*2600K, Lunch Box*2000, Crystal Chisel*2000」"
+242,Electronic Set Chest,Gear Set Chest,Open to obtain Electronic Set Gears
+243,Demonic Set Chest,Gear Set Chest,Open to obtain Demonic Set Gears
+244,Angel Set Chest,Gear Set Chest,Open to obtain Angel Set Gears
+4402004,Customized Orange Antique Chest (Bizarre Adventures),Customized Chest,You can select to get an Exclusive Orange Antique for opening this chest.(Tap the magnifying glass in the item for the option details; The options here won't be updated)
+930204,5-star Teresa,Summon,Collect 50 shards to summon the girl
+52016,Teresa,,
+652023,Teresa,,
+752016,Teresa,,
+20001060,Limit: Teresa,Special Avatars,Exclusive Avatar of Teresa. Just walk away when she decides to have some fun!
+240,Exclusive Adventure Girl,Event Material,
+7177,Snack Eater,Skins,Snack Eater skin of Wu Kong
+27177,Snack Eater,Skins,Snack Eater skin of Wu Kong
+4201012,Customized Resource Chest (normal),Customized Chest,"You can select to get one of the following rewards for opening this chest:「Coin * 1000K, Exp Juice * 1000K, Lunch Box * 750, Crystal Chisel * 750, Servant Cookie * 450, Spirit Cookie * 55」"
+8055,Sky Traveler,Frame,"Acquired by from event: ""Sky Island"", available for 28 days"
+7178,Food Prepper,Skins,Food Prepper skin of Holly
+27178,Food Prepper,Skins,Food Prepper skin of Holly
+245,Servant Training Exp,Servant Training Exp,Used to upgrade Servant Training Room
+4201013,Customized Resource Chest (small),Customized Chest,"You can choose one of the rewards after opening this chest: 「Coin*280000, Exp Juice*280000, Lunch Box*200, Crystal Chisel*200」"
+4201014,Customized Resource Chest (normal),Customized Chest,"You can choose one of the rewards after opening this chest: 「Coin*2500000, Exp Juice*2500000, Lunch Box*1800, Crystal Chisel*1800」"
+7179,Orchid Fragrance,Skins,Orchid Fragrance skin of Blair
+27179,Orchid Fragrance,Skins,Orchid Fragrance skin of Blair
+246,Guild Gem Box,Resource Box,"Open to obtain random 1 of the following rewards: 「Gem*50, Gem*150, Gem*300, Gem*500, Gem*1000, Gem*2500, Gem*3000, Gem*3500, Gem*4000, Gem*4500」"
+4202005,Premium Resource Chest,Customized Chest,"You can choose one of the rewards after opening this chest:「10 Adv. Capsule Coins, 3 Seals, 6 Super Slot Tickets」"
+4204009,Servant Growth Chest,Customized Chest,"You can choose one of the rewards after opening this chest:「Servant Cookie * 800, Spirit Cookie * 100, Servant Crystal * 50」"
+7180,Rawr,Skins,Rawr skin of Fenrir
+27180,Rawr,Skins,Rawr skin of Fenrir
+7181,Oopsy Daisy,Skins,Oopsy Daisy skin of Ithil
+27181,Oopsy Daisy,Skins,Oopsy Daisy skin of Ithil
+7182,House Cleaning,Skins,House Cleaning skin of Vera
+27182,House Cleaning,Skins,House Cleaning skin of Vera
+930205,5-star Frexie,Summon,Collect 50 shards to summon the girl
+55010,Frexie,,
+655019,Frexie,,
+755009,Frexie,,
+930206,5-star Angelica,Summon,Collect 50 shards to summon the girl
+56008,Angelica,,
+656018,Angelica,,
+756008,Angelica,,
+4101022,5-Star Customized Chest,Customized Chest,You can select to get 50 shards of a certain 5-Star Girl of Ghost/Human/Monster/Fairy faction from the list after opening this chest. (Contents of this chest will not be updated.)
+4102021,Customized Frexie&Angelica Chest,Customized Chest,You can select to get 50 shards of 5-star Frexie or 50 shards of 5-star Angelica by opening this chest
+4101023,Customized Girls Chest (Luvly's Journey S8),Customized Chest,You can select to get 50 shards of a certain 5-Star Girl of Ghost/Human/Monster/Fairy faction from the list after opening this chest. (Contents of this chest will not be updated.)
+4102022,Customized L&D Chest (Luvly's Journey S8),Customized Chest,You can select to get 50 shards of a certain 5-Star Girl from Angel/Demon Faction for opening this chest. (The options for this chest won't be updated in the future)
+4302010,Customized Skin Chest (Luvly's Journey S8),Customized Chest,You can select to get a skin for opening this chest.(Tap the magnifying glass in the item for the option details; The options here won't be updated)
+7183,Butterfly Effect,Skins,Butterfly Effect skin of Izanami
+27183,Butterfly Effect,Skins,Butterfly Effect skin of Izanami
+20001061,Limit: Frexie & Angelica,Special Avatars,Limited avatar of Frexie and Angelica. They look really nice... when they are not doing anything stupid.
+20001062,3rd Anniversary Avatar,Special Avatars,Exclusive Avatar for 3rd Anniversary events
+4204010,Servant Growth Chest,Customized Chest,"You can choose one of the rewards after opening this chest:「Servant Cookie * 4000, Spirit Cookie * 500, Servant Crystal * 250」"
+7184,Evening Gown,Skins,Evening Gown skin of Kratos
+27184,Evening Gown,Skins,Evening Gown skin of Kratos
+249,Popular Vote Ticket,Event Material,"Event material, used in event: Miss Yume Pageant. ONLY available on the day you acquire and will be removed on the next day."
+250,Support Vote Ticket,Event Material,"Event material, used in event: Miss Yume Pageant. Will not be removed from your account during the event."
+247,Fine Liquor,Event Material,"Event Material, used in event: Yume Tasting."
+248,Rose Pin,"Event Material, used in event: Hidden Cellar","Event Material, used in event: Hidden Cellar"
+9122,Victorious,Chat emoji,「Victorious」 chat emoji of Teresa
+9123,I HATE YOU,Chat emoji,「I HATE YOU」 chat emoji of Teresa
+9124,Pretend to be happy,Chat emoji,「Pretend to be happy」 chat emoji of Vivian
+9125,Oopsy,Chat emoji,「Oopsy」 chat emoji of Vivian
+9126,Jolly Good,Chat emoji,「Jolly Good」 chat emoji of Kratos
+9127,Cheers!,Chat emoji,「Cheer!」 chat emoji of Kratos
+4201015,Customized Resource Chest,Customized Chest,"You can choose one of the rewards after opening this chest: 「Coin*100000, Exp Juice*100000, Lunch Box*70, Crystal Chisel*70」"
+4204011,Servant Growth Chest,Customized Chest,"You can choose one of the rewards after opening this chest:「Servant Cookie * 2400, Spirit Cookie * 300, Servant Crystal * 150」"
+4205002,Customized File Chest,Customized Chest,"You can choose one of the rewards after opening this chest: 「Standard File*3500, Exclusive File*700」"
+4101024,5-Star Customized Chest,Customized Chest,You can select to get 50 shards of a certain 5-Star Girl of Ghost/Human/Monster/Fairy faction from the list after opening this chest. (Contents of this chest will not be updated.)
+4402005,Customized Orange Antique Chest,Customized Chest,You can select to get an Exclusive Orange Antique for opening this chest.(Tap the magnifying glass in the item for the option details; The options here won't be updated)
+7185,Starry Flare,Skins,Starry Flare skin of Vivian
+27185,Starry Flare,Skins,Starry Flare skin of Vivian
+4204012,Servant Growth Chest,Customized Chest,"You can choose one of the rewards after opening this chest:「Servant Cookie * 2000, Spirit Cookie * 250, Servant Crystal * 125」"
+8056,3rd Exclusive Frame - First Meet,Frame,Limited frame for the 3rd anniversary - Lv.1. Can be obtained in 3rd Anniversary Exclusive Events.
+8057,3rd Exclusive Frame - Starlight,Frame,Limited frame for the 3rd anniversary - Lv.2. Can be obtained in 3rd Anniversary Exclusive Events.
+8058,3rd Exclusive Frame - Candles,Frame,Limited frame for the 3rd anniversary - Lv.3. Can be obtained in 3rd Anniversary Exclusive Events.
+8059,3rd Exclusive Frame - Feast,Frame,Limited frame for the 3rd anniversary - Lv.4. Can be obtained in 3rd Anniversary Exclusive Events.
+8060,3rd Exclusive Frame - Stellar,Frame,Limited frame for the 3rd anniversary - Lv.4. Can be obtained in 3rd Anniversary Exclusive Events.
+7186,Party Queen,Skins,Party Queen skin of Teresa
+27186,Party Queen,Skins,Party Queen skin of Teresa

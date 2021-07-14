@@ -1,0 +1,518 @@
+id,name,charge,currency,show_name
+1,Monatskarte,16.99,€,Monatskarte
+2,Mini Monatskarte,5.49,€,Mini Monatskarte
+3,Wochenkarte,1.09,€,Wochenkarte
+4,250 Dias Paket,5.49,€,Dias Paket
+5,500 Dias Paket,10.99,€,Dias Paket
+6,1000 Dias Paket,21.99,€,Dias Paket
+7,2500 Dias Paket,54.99,€,Dias Paket
+8,5000 Dias Paket,109.99,€,Dias Paket
+9,Lv.24 Paket,2.29,€,Lv.24 Paket
+10,Lv.32 Paket,5.49,€,Lv.32 Paket
+11,Lv.48 Paket,10.99,€,Lv.48 Paket
+12,Lv.58 Paket,32.99,€,Lv.58 Paket
+13,Lv.78 Paket,54.99,€,Lv.78 Paket
+14,4-Sterne-Mädchen-Trainingspaket,5.49,€,4-Sterne-Mädchen-Trainingspaket
+15,5-Sterne-Mädchen-Trainingspaket,10.99,€,5-Sterne-Mädchen-Trainingspaket
+16,Monatspaket 1,5.49,€,Monatspaket
+17,Monatspaket 2,10.99,€,Monatspaket
+18,Monatspaket 3,32.99,€,Monatspaket
+19,Monatspaket 4,54.99,€,Monatspaket
+20,Monatspaket 5,74.99,€,Monatspaket
+89,Monatspaket 7,109.99,€,Monatspaket
+22,Wochenpaket 1,10.99,€,Wochenpaket
+23,Wochenpaket 2,21.99,€,Wochenpaket
+24,Wochenpaket 3,54.99,€,Wochenpaket
+25,Wochenpaket 4,74.99,€,Wochenpaket
+26,Superpaket 1,109.99,€,Superpaket
+27,Superpaket 2,74.99,€,Superpaket
+28,Superpaket 3,32.99,€,Superpaket
+29,Superpaket 4,10.99,€,Superpaket
+30,Superpaket 5,5.49,€,Superpaket
+31,Superpaket 1,109.99,€,Superpaket
+32,Superpaket 2,74.99,€,Superpaket
+33,Superpaket 3,32.99,€,Superpaket
+34,Superpaket 4,21.99,€,Superpaket
+36,Superpaket 5,5.49,€,Superpaket
+69,Superpaket 6,5.49,€,Superpaket
+35,Gratis Auflade Paket,2.29,€,Gratis Auflade Paket
+37,5-Sterne Paket,1.09,€,5-Sterne Paket
+38,Abonnieren,0.99,€,Abonnement
+39,Black Friday-Karte,10.99,€,Grußkarte zum 3. Jubiläum
+40,Wöchentliches Abonnement,0.99,€,Wöchentliches Abonnement
+41,Monatliches Abonnement,4.49,€,Monatliches Abonnement
+42,Vierteljähriges Abonnement,10.49,€,Vierteljähriges Abonnement
+43,Monatspaket 1,5.49,€,Monatspaket
+44,Monatspaket 2,10.99,€,Monatspaket
+45,Monatspaket 3,32.99,€,Monatspaket
+46,Monatspaket 4,54.99,€,Monatspaket
+47,Monatspaket 5,74.99,€,Monatspaket
+48,Monatspaket 6,89.99,€,Monatspaket
+49,Wochenpaket 1,10.99,€,Wochenpaket
+50,Wochenpaket 2,21.99,€,Wochenpaket
+51,Wochenpaket 3,54.99,€,Wochenpaket
+52,Wochenpaket 4,74.99,€,Wochenpaket
+53,Wöchentliches Abonnement,0.99,€,Wöchentliches Abonnement
+54,Monatliches Abonnement,4.49,€,Monatliches Abonnement
+55,Vierteljähriges Abonnement,10.49,€,Vierteljähriges Abonnement
+56,Kostümpaket 1,5.49,€,Glückspaket
+57,Glückspaket 1,5.49,€,Glückspaket
+65,Glückspaket 2,54.99,€,Glückspaket
+58,7-tägige kostenlose Testversion,0,€,7-tägige kostenlose Testversion
+59,7-tägige kostenlose Testversion,0,€,7-tägige kostenlose Testversion
+60,7-tägige kostenlose Testversion,0,€,7-tägige kostenlose Testversion
+61,7-tägige kostenlose Testversion,0,€,7-tägige kostenlose Testversion
+62,7-tägige kostenlose Testversion,0,€,7-tägige kostenlose Testversion
+63,7-tägige kostenlose Testversion,0,€,7-tägige kostenlose Testversion
+64,Rundenpaket,10.99,€,Rundenpaket
+66,Ehering,21.99,€,Ehering
+67,Wachstumspaket,10.99,€,Wachstumspaket
+68,Superpaket 6,5.49,€,Superpaket
+70,Entsperre Deluxe Bonus,21.99,€,Deluxe Bonus
+71,Kostümpaket 2,54.99,€,Glückspaket
+72,Grußkarte zum 3. Jubiläum,21.99,€,Grußkarte zum 3. Jubiläum
+73,Weihnachtspaket,54.99,€,Weihnachtspaket
+74,Studiumplan,10.99,€,Studiumplan
+75,Eid Paket,32.99,€,Eid Paket
+76,Premium Inhalte,10.99,€,Premium Inhalte
+1010101,Lv.24 Paket,2.29,€,Lv.24 Paket
+1010201,Lv.32 Paket,5.49,€,Lv.32 Paket
+1010301,Lv.48 Paket,10.99,€,Lv.48 Paket
+1010401,Lv.58 Paket,10.99,€,Lv.58 Paket
+1010402,Lv.58 Paket,32.99,€,Lv.58 Paket
+1010403,Lv.58 Paket,54.99,€,Lv.58 Paket
+1010404,Lv.58 Paket,74.99,€,Lv.58 Paket
+1010501,Lv.78 Paket,10.99,€,Lv.78 Paket
+1010502,Lv.78 Paket,32.99,€,Lv.78 Paket
+1010503,Lv.78 Paket,54.99,€,Lv.78 Paket
+1010504,Lv.78 Paket,74.99,€,Lv.78 Paket
+1010601,Lv.100 Paket,10.99,€,Lv.100 Paket
+1010602,Lv.100 Paket,32.99,€,Lv.100 Paket
+1010603,Lv.100 Paket,54.99,€,Lv.100 Paket
+1010604,Lv.100 Paket,74.99,€,Lv.100 Paket
+1030101,Ausbildungspaket,5.49,€,Ausbildungspaket
+1030102,Ausbildungspaket,10.99,€,Ausbildungspaket
+1030103,Ausbildungspaket,21.99,€,Ausbildungspaket
+1040101,Ausbildungspaket,10.99,€,Ausbildungspaket
+1040102,Ausbildungspaket,21.99,€,Ausbildungspaket
+1040103,Ausbildungspaket,32.99,€,Ausbildungspaket
+1050101,EXP Booster,5.49,€,EXP Booster
+1050102,EXP Booster,10.99,€,EXP Booster
+1050103,EXP Booster,21.99,€,EXP Booster
+1060101,Münzen Booster,5.49,€,Münzen Booster
+1060102,Münzen Booster,10.99,€,Münzen Booster
+1060103,Münzen Booster,21.99,€,Münzen Booster
+1070101,Rundenpaket-3-10,10.99,€,Stufen Paket
+1070102,Rundenpaket-3-10,21.99,€,Stufen Paket
+1070103,Rundenpaket-3-10,32.99,€,Stufen Paket
+1070201,Rundenpaket-7-10,10.99,€,Stufen Paket
+1070202,Rundenpaket-7-10,21.99,€,Stufen Paket
+1070203,Rundenpaket-7-10,32.99,€,Stufen Paket
+1070301,Rundenpaket-10-10,10.99,€,Stufen Paket
+1070302,Rundenpaket-10-10,21.99,€,Stufen Paket
+1070303,Rundenpaket-10-10,54.99,€,Stufen Paket
+1070401,Rundenpaket-15-10,10.99,€,Stufen Paket
+1070402,Rundenpaket-15-10,21.99,€,Stufen Paket
+1070403,Rundenpaket-15-10,32.99,€,Stufen Paket
+1070501,Rundenpaket-20-10,10.99,€,Stufen Paket
+1070502,Rundenpaket-20-10,21.99,€,Stufen Paket
+1070503,Rundenpaket-20-10,32.99,€,Stufen Paket
+1070601,Rundenpaket-25-10,10.99,€,Stufen Paket
+1070602,Rundenpaket-25-10,21.99,€,Stufen Paket
+1070603,Rundenpaket-25-10,54.99,€,Stufen Paket
+1070701,Rundenpaket-28-10,10.99,€,Stufen Paket
+1070702,Rundenpaket-28-10,21.99,€,Stufen Paket
+1070703,Rundenpaket-28-10,32.99,€,Stufen Paket
+1070801,Rundenpaket-30-10,10.99,€,Stufen Paket
+1070802,Rundenpaket-30-10,21.99,€,Stufen Paket
+1070803,Rundenpaket-30-10,32.99,€,Stufen Paket
+1080101,Test Paket-15,10.99,€,Test Paket
+1080102,Test Paket-15,21.99,€,Test Paket
+1080103,Test Paket-15,32.99,€,Test Paket
+1080201,Test Paket-30,10.99,€,Test Paket
+1080202,Test Paket-30,21.99,€,Test Paket
+1080203,Test Paket-30,32.99,€,Test Paket
+1080301,Test Paket-100,10.99,€,Test Paket
+1080302,Test Paket-100,21.99,€,Test Paket
+1080303,Test Paket-100,54.99,€,Test Paket
+1080401,Test Paket-150,10.99,€,Test Paket
+1080402,Test Paket-150,21.99,€,Test Paket
+1080403,Test Paket-150,32.99,€,Test Paket
+1080501,Test Paket-200,10.99,€,Test Paket
+1080502,Test Paket-200,21.99,€,Test Paket
+1080503,Test Paket-200,54.99,€,Test Paket
+1080601,Test Paket-250,10.99,€,Test Paket
+1080602,Test Paket-250,21.99,€,Test Paket
+1080603,Test Paket-250,54.99,€,Test Paket
+1080701,Test Paket-300,10.99,€,Test Paket
+1080702,Test Paket-300,21.99,€,Test Paket
+1080703,Test Paket-300,32.99,€,Test Paket
+1080801,Test Paket-350,10.99,€,Test Paket
+1080802,Test Paket-350,21.99,€,Test Paket
+1080803,Test Paket-350,54.99,€,Test Paket
+1080901,Test Paket-400,10.99,€,Test Paket
+1080902,Test Paket-400,21.99,€,Test Paket
+1080903,Test Paket-400,54.99,€,Test Paket
+77,Weihnachtspaket,109.99,€,Weihnachtspaket
+1010701,Lv.125 Paket,10.99,€,Lv.125 Paket
+1010702,Lv.125 Paket,32.99,€,Lv.125 Paket
+1010703,Lv.125 Paket,54.99,€,Lv.125 Paket
+1010704,Lv.125 Paket,74.99,€,Lv.125 Paket
+1010801,Lv.150 Paket,10.99,€,Lv.150 Paket
+1010802,Lv.150 Paket,32.99,€,Lv.150 Paket
+1010803,Lv.150 Paket,54.99,€,Lv.150 Paket
+1010804,Lv.150 Paket,74.99,€,Lv.150 Paket
+1010901,Lv.175 Paket,10.99,€,Lv.175 Paket
+1010902,Lv.175 Paket,32.99,€,Lv.175 Paket
+1010903,Lv.175 Paket,54.99,€,Lv.175 Paket
+1010904,Lv.175 Paket,74.99,€,Lv.175 Paket
+1011001,Lv.200 Paket,10.99,€,Lv.200 Paket
+1011002,Lv.200 Paket,32.99,€,Lv.200 Paket
+1011003,Lv.200 Paket,54.99,€,Lv.200 Paket
+1011004,Lv.200 Paket,74.99,€,Lv.200 Paket
+1050104,EXP Booster,32.99,€,EXP Booster
+1050105,EXP Booster,54.99,€,EXP Booster
+1060104,Münzen Booster,32.99,€,Münzen Booster
+1060105,Münzen Booster,54.99,€,Münzen Booster
+1081001,Test Paket-450,10.99,€,Test Paket
+1081002,Test Paket-450,21.99,€,Test Paket
+1081003,Test Paket-450,54.99,€,Test Paket
+1081101,Test Paket-500,10.99,€,Test Paket
+1081102,Test Paket-500,21.99,€,Test Paket
+1081103,Test Paket-500,54.99,€,Test Paket
+1081201,Test Paket-550,10.99,€,Test Paket
+1081202,Test Paket-550,21.99,€,Test Paket
+1081203,Test Paket-550,54.99,€,Test Paket
+1081301,Test Paket-600,10.99,€,Test Paket
+1081302,Test Paket-600,21.99,€,Test Paket
+1081303,Test Paket-600,54.99,€,Test Paket
+78,Superpaket 1,109.99,€,Superpaket
+79,Superpaket 2,74.99,€,Superpaket
+80,Superpaket 3,32.99,€,Superpaket
+81,Superpaket 4,10.99,€,Superpaket
+82,Superpaket 5,5.49,€,Superpaket
+83,Superpaket 6,5.49,€,Superpaket
+84,Glückspaket 1,5.49,€,Glückspaket
+85,Glückspaket 2,74.99,€,Glückspaket
+86,Gratis Aufladepaket,2.29,€,Gratis Aufladepaket
+1090101,Kapsel Paket 1,32.99,€,Kapsel Paket
+1090102,Kapsel Paket 1,54.99,€,Kapsel Paket
+1090103,Kapsel Paket 1,109.99,€,Kapsel Paket
+1090201,Kapsel Paket 2,32.99,€,Kapsel Paket
+1090202,Kapsel Paket 2,54.99,€,Kapsel Paket
+1090203,Kapsel Paket 2,109.99,€,Kapsel Paket
+1090301,Kapsel Paket 3,32.99,€,Kapsel Paket
+1090302,Kapsel Paket 3,54.99,€,Kapsel Paket
+1090303,Kapsel Paket 3,109.99,€,Kapsel Paket
+90,Wochenpaket 6,109.99,€,Wochenpaket
+88,4000 Dias,89.99,€,Dias Paket
+21,Monatspaket 6,89.99,€,Monatspaket
+87,Wochenpaket 5,89.99,€,Wochenpaket
+105,Einschulungspaket,21.99,€,Einschulungspaket
+92,Tagespaket 1,1.09,€,Tagespaket
+93,Tagespaket 2,2.29,€,Tagespaket
+94,Tagespaket 3,5.49,€,Tagespaket
+95,Tagespaket 4,5.49,€,Tagespaket
+96,Tagespaket 5,5.49,€,Tagespaket
+97,Tagespaket 6,5.49,€,Tagespaket
+99,Tagespaket 1,1.09,€,Tagespaket
+100,Tagespaket 2,2.29,€,Tagespaket
+101,Tagespaket 3,5.49,€,Tagespaket
+102,Tagespaket 4,5.49,€,Tagespaket
+103,Tagespaket 5,5.49,€,Tagespaket
+104,Tagespaket 6,5.49,€,Tagespaket
+1100101,7-Sterne Ausbildungspaket,54.99,€,Ausbildungspaket
+1100102,7-Sterne Ausbildungspaket,54.99,€,Ausbildungspaket
+1100103,7-Sterne Ausbildungspaket,54.99,€,Ausbildungspaket
+1100104,7-Sterne Ausbildungspaket,54.99,€,Ausbildungspaket
+1100201,7-Sterne Ausbildungspaket,74.99,€,Ausbildungspaket
+1100202,7-Sterne Ausbildungspaket,74.99,€,Ausbildungspaket
+1100203,7-Sterne Ausbildungspaket,74.99,€,Ausbildungspaket
+1100204,7-Sterne Ausbildungspaket,74.99,€,Ausbildungspaket
+106,Buch der Weisheit,16.99,€,Buch der Weisheit
+107,Buch der Zauber 2,21.99,€,Buch der Zauber 2
+108,Buch der Zauber 1,32.99,€,Buch der Zauber 1
+1100301,9-Sterne Ausbildungspaket 2,74.99,€,9-Sterne Ausbildungspaket
+1100302,9-Sterne Ausbildungspaket 2,74.99,€,9-Sterne Ausbildungspaket
+1100303,9-Sterne Ausbildungspaket 2,74.99,€,9-Sterne Ausbildungspaket
+1100304,9-Sterne Ausbildungspaket 2,74.99,€,9-Sterne Ausbildungspaket
+1100305,9-Sterne Ausbildungspaket 2,74.99,€,9-Sterne Ausbildungspaket
+1100306,9-Sterne Ausbildungspaket 2,74.99,€,9-Sterne Ausbildungspaket
+1100401,9-Sterne Ausbildungspaket 1,109.99,€,9-Sterne Ausbildungspaket
+1100402,9-Sterne Ausbildungspaket 1,109.99,€,9-Sterne Ausbildungspaket
+1100403,9-Sterne Ausbildungspaket 1,109.99,€,9-Sterne Ausbildungspaket
+1100404,9-Sterne Ausbildungspaket 1,109.99,€,9-Sterne Ausbildungspaket
+1100405,9-Sterne Ausbildungspaket 1,109.99,€,9-Sterne Ausbildungspaket
+1100406,9-Sterne Ausbildungspaket 1,109.99,€,9-Sterne Ausbildungspaket
+109,1250 Dias Paket,27.99,€,Dias Paket
+110,Herzkristalle-Paket,21.99,€,Herzkristalle-Paket
+10116,Geschenke des Grafen 1,10.99,€,Geschenke des Grafen 1
+10117,Geschenke des Grafen 2,32.99,€,Geschenke des Grafen 2
+10118,Geschenke des Grafen 3,54.99,€,Geschenke des Grafen 3
+10119,Geschenke des Grafen 4,74.99,€,Geschenke des Grafen 4
+120,SP Energiekarte,16.99,€,SP Energiekarte
+121,Buch der Weisheit,16.99,€,Buch der Weisheit
+122,Buch der Zauber 2,21.99,€,Buch der Zauber 2
+123,Buch der Zauber 1,32.99,€,Buch der Zauber 1
+125,Glückspaket 1,5.49,€,Glückspaket
+126,Glückspaket 2,74.99,€,Glückspaket
+127,Buchheiligtum-Vorteilskarte,5.49,€,Buchheiligtum-Vorteilskarte
+128,Patrouillen Vorteilskarte,5.49,€,Patrouillen Vorteilskarte
+129,Soda-Paket,10.99,€,Soda-Pakete
+130,Zauberbox 1,109.99,€,Zauberbox 1
+131,Zauberbox 2,54.99,€,Zauberbox 2
+132,Zauberbox 3,21.99,€,Zauberbox 3
+133,Zauberbox 4,5.49,€,Zauberbox 4
+134,Zauberbox 5,1.09,€,Zauberbox 5
+135,Besondere Mädchenbox 1,54.99,€,Besondere Mädchenbox 1
+136,Besondere Mädchenbox 2,74.99,€,Besondere Mädchenbox 2
+137,Ermäßigte Monatskarte,5.49,€,Ermäßigte Monatskarte
+138,Rotkäppchen-Paket,21.99,€,Rotkäppchen-Paket
+139,Limitiertes Paket zum Valentinstag 1,10.99,€,Limitiertes Paket zum Valentinstag 1
+140,Limitiertes Paket zum Valentinstag 2,10.99,€,Limitiertes Paket zum Valentinstag 2
+141,Testfonds,10.99,€,Testfonds
+142,Testfonds 2,21.99,€,Testfonds 2
+143,Testfonds 3,32.99,€,Testfonds 3
+144,Kostümpaket 1,5.49,€,Kostümpaket
+145,Kostümpaket 2,54.99,€,Kostümpaket
+146,Glückspaket 1,5.49,€,Glückspaket
+147,Glückspaket 2,74.99,€,Glückspaket
+10148,Geschenke des Grafen 5,109.99,€,Geschenke des Grafen 5
+1200101,Versorgungskristallmeißel,5.49,€,Versorgungskristallmeißel
+1200102,Versorgungskristallmeißel,10.99,€,Versorgungskristallmeißel
+1200103,Versorgungskristallmeißel,21.99,€,Versorgungskristallmeißel
+1200104,Versorgungskristallmeißel,32.99,€,Versorgungskristallmeißel
+1200105,Versorgungskristallmeißel,54.99,€,Versorgungskristallmeißel
+1300101,Versorgungsbrotdosen,5.49,€,Versorgungsbrotdosen
+1300102,Versorgungsbrotdosen,10.99,€,Versorgungsbrotdosen
+1300103,Versorgungsbrotdosen,21.99,€,Versorgungsbrotdosen
+1300104,Versorgungsbrotdosen,32.99,€,Versorgungsbrotdosen
+1300105,Versorgungsbrotdosen,54.99,€,Versorgungsbrotdosen
+1400101,Versorgungskekse,5.49,€,Versorgungskekse
+1400102,Versorgungskekse,10.99,€,Versorgungskekse
+1400103,Versorgungskekse,32.99,€,Versorgungskekse
+1400104,Versorgungskekse,54.99,€,Versorgungskekse
+1400201,Versorgungskekse,5.49,€,Versorgungskekse
+1400202,Versorgungskekse,10.99,€,Versorgungskekse
+1400203,Versorgungskekse,32.99,€,Versorgungskekse
+1400204,Versorgungskekse,54.99,€,Versorgungskekse
+1400301,Versorgungskekse,5.49,€,Versorgungskekse
+1400302,Versorgungskekse,10.99,€,Versorgungskekse
+1400303,Versorgungskekse,32.99,€,Versorgungskekse
+1400304,Versorgungskekse,54.99,€,Versorgungskekse
+1500101,Geisterhausversorgung,21.99,€,Geisterhausversorgung
+1500102,Geisterhausversorgung,32.99,€,Geisterhausversorgung
+1500103,Geisterhausversorgung,54.99,€,Geisterhausversorgung
+1500104,Geisterhausversorgung,74.99,€,Geisterhausversorgung
+1500201,Menschenhausversorgung,21.99,€,Menschenhausversorgung
+1500202,Menschenhausversorgung,32.99,€,Menschenhausversorgung
+1500203,Menschenhausversorgung,54.99,€,Menschenhausversorgung
+1500204,Menschenhausversorgung,74.99,€,Menschenhausversorgung
+1500301,Monsterhausversorgung,21.99,€,Monsterhausversorgung
+1500302,Monsterhausversorgung,32.99,€,Monsterhausversorgung
+1500303,Monsterhausversorgung,54.99,€,Monsterhausversorgung
+1500304,Monsterhausversorgung,74.99,€,Monsterhausversorgung
+1500401,Feenhausversorgung,21.99,€,Feenhausversorgung
+1500402,Feenhausversorgung,32.99,€,Feenhausversorgung
+1500403,Feenhausversorgung,54.99,€,Feenhausversorgung
+1500404,Feenhausversorgung,74.99,€,Feenhausversorgung
+1500501,Dämonenhausversorgung,21.99,€,Dämonenhausversorgung
+1500502,Dämonenhausversorgung,32.99,€,Dämonenhausversorgung
+1500503,Dämonenhausversorgung,54.99,€,Dämonenhausversorgung
+1500504,Dämonenhausversorgung,74.99,€,Dämonenhausversorgung
+1500601,Engelhausversorgung,21.99,€,Engelhausversorgung
+1500602,Engelhausversorgung,32.99,€,Engelhausversorgung
+1500603,Engelhausversorgung,54.99,€,Engelhausversorgung
+1500604,Engelhausversorgung,74.99,€,Engelhausversorgung
+1050106,EXP Booster,74.99,€,EXP Booster
+1050107,EXP Booster,109.99,€,EXP Booster
+1060106,Münzen Booster,74.99,€,Münzen Booster
+1060107,Münzen Booster,109.99,€,Münzen Booster
+148,Neulingspaket 1,1.09,€,Neulingspaket 1
+149,Neulingspaket 2,2.29,€,Neulingspaket 2
+150,Neulingspaket 3,10.99,€,Neulingspaket 3
+151,Neulingspaket 1,1.09,€,Neulingspaket 1
+152,Neulingspaket 2,5.49,€,Neulingspaket 2
+153,Neulingspaket 3,10.99,€,Neulingspaket 3
+154,Neulingspaket 1,1.09,€,Neulingspaket 1
+155,Neulingspaket 2,5.49,€,Neulingspaket 2
+156,Neulingspaket 3,21.99,€,Neulingspaket 3
+157,Neulingspaket 1,1.09,€,Neulingspaket 1
+158,Neulingspaket 2,5.49,€,Neulingspaket 2
+159,Neulingspaket 3,21.99,€,Neulingspaket 3
+160,Neulingspaket 1,1.09,€,Neulingspaket 1
+161,Neulingspaket 2,5.49,€,Neulingspaket 2
+162,Neulingspaket 3,21.99,€,Neulingspaket 3
+163,Neulingspaket 1,1.09,€,Neulingspaket 1
+164,Neulingspaket 2,10.99,€,Neulingspaket 2
+165,Neulingspaket 3,32.99,€,Neulingspaket 3
+166,Neulingspaket 1,1.09,€,Neulingspaket 1
+167,Neulingspaket 2,21.99,€,Neulingspaket 2
+168,Neulingspaket 3,32.99,€,Neulingspaket 3
+177,Frühsommershopping 1,54.99,€,Frühsommershopping 1
+178,Frühsommershopping 2,109.99,€,Frühsommershopping 2
+180,Monatsanfangspaket 2,32.99,€,Monatsanfangspaket 2
+181,Monatsanfangspaket 3,54.99,€,Monatsanfangspaket 3
+182,Monatsanfangspaket 4,74.99,€,Monatsanfangspaket 4
+183,Monatsanfangspaket 5,109.99,€,Monatsanfangspaket 5
+1071001,Rundenpaket-1-12,1.09,€,Rundenpaket
+1071002,Rundenpaket-1-12,5.49,€,Rundenpaket
+1071101,Rundenpaket-2-10,2.29,€,Rundenpaket
+1071102,Rundenpaket-2-10,5.49,€,Rundenpaket
+184,Anfängerpaket,1.09,€,Anfängerpaket
+185,Reiseversorgung,54.99,€,Reiseversorgung
+186,Prämien zum Neujahr,21.99,€,Prämien zum Neujahr
+187,Personalisiertes Paket für Turin,5.49,€,Personalisiertes Paket für Turin
+188,Personalisiertes Paket für Turin,10.99,€,Personalisiertes Paket für Turin
+189,Antiquitätswachstumspaket,32.99,€,Antiquitätswachstumspaket
+190,Neulingsfonds,21.99,€,Neulingsfonds
+191,Premiumzüge für Anfänger,21.99,€,Premiumzüge für Anfänger
+192,Premiumzüge für Anfänger,32.99,€,Premiumzüge für Anfänger
+193,Premiumzüge für Anfänger,54.99,€,Premiumzüge für Anfänger
+194,Lotto Glücksboni,32.99,€,Lotto Glücksboni
+179,Monatsanfangspaket 1,10.99,€,Monatsanfangspaket 1
+195,Kapselpakete für Anfänger,10.99,€,Kapselpakete für Anfänger
+196,Kapselpakete für Anfänger,32.99,€,Kapselpakete für Anfänger
+197,Kapselpakete für Anfänger,54.99,€,Kapselpakete für Anfänger
+198,Tagespaket 7,5.49,€,Tagespaket
+199,Monatspaket 9,109.99,€,Monatspaket
+200,Wochenpaket 5,89.99,€,Wochenpaket
+201,Wochenpaket 6,109.99,€,Wochenpaket
+202,Limitiertes Paket zum Valentinstag 3,54.99,€,Limitiertes Paket zum Valentinstag 3
+203,Limitiertes Paket zum Valentinstag 4,109.99,€,Limitiertes Paket zum Valentinstag 4
+204,Diener-Wachstumspaket 1,5.49,€,Diener-Wachstumspaket 1
+205,Diener-Wachstumspaket 2,10.99,€,Diener-Wachstumspaket 2
+206,Diener-Wachstumspaket 3,32.99,€,Diener-Wachstumspaket 3
+207,Diener-Wachstumspaket 4,54.99,€,Diener-Wachstumspaket 4
+208,Diener-Wachstumspaket 5,109.99,€,Diener-Wachstumspaket 5
+209,Paket zu Ostern 1,32.99,€,Paket zu Ostern 1
+210,Paket zu Ostern 2,109.99,€,Paket zu Ostern 2
+211,Ostereier-Paket 1,109.99,€,Ostereier-Paket 1
+212,Ostereier-Paket 2,54.99,€,Ostereier-Paket 2
+213,Ostereier-Paket 3,32.99,€,Ostereier-Paket 3
+1600101,Mädchen-Wachstumspaket 1,5.49,€,Pippis Absolvierungsplan 1
+1600102,Mädchen-Wachstumspaket 2,21.99,€,Pippis Absolvierungsplan 2
+1600103,Mädchen-Wachstumspaket 3,54.99,€,Pippis Absolvierungsplan 3
+1600104,Mädchen-Wachstumspaket 4,54.99,€,Pippis Absolvierungsplan 4
+1600105,Mädchen-Wachstumspaket 5,54.99,€,Pippis Absolvierungsplan 5
+1600106,Mädchen-Wachstumspaket 6,54.99,€,Pippis Absolvierungsplan 6
+1600107,Mädchen-Wachstumspaket 7,89.99,€,Pippis Absolvierungsplan 7
+214,Limitiertes Paket für Mitglieder Lv.10,2.29,€,Limitiertes Paket für Mitglieder Lv.10
+215,Limitiertes Paket für Mitglieder Lv.11,2.29,€,Limitiertes Paket für Mitglieder Lv.11
+216,Limitiertes Paket für Mitglieder Lv.12,2.29,€,Limitiertes Paket für Mitglieder Lv.12
+217,Limitiertes Paket für Mitglieder Lv.13,2.29,€,Limitiertes Paket für Mitglieder Lv.13
+218,Limitiertes Paket für Mitglieder Lv.14,2.29,€,Limitiertes Paket für Mitglieder Lv.14
+219,Limitiertes Paket für Mitglieder Lv.15,2.29,€,Limitiertes Paket für Mitglieder Lv.15
+220,Limitiertes Paket für Mitglieder Lv.16,2.29,€,Limitiertes Paket für Mitglieder Lv.16
+221,Limitiertes Paket für Mitglieder Lv.17,2.29,€,Limitiertes Paket für Mitglieder Lv.17
+222,Limitiertes Paket für Mitglieder Lv.18,2.29,€,Limitiertes Paket für Mitglieder Lv.18
+223,Limitiertes Paket für Mitglieder Lv.19,2.29,€,Limitiertes Paket für Mitglieder Lv.19
+224,Limitiertes Paket für Mitglieder Lv.20,2.29,€,Limitiertes Paket für Mitglieder Lv.20
+225,Limitiertes Paket für Mitglieder Lv.21,2.29,€,Limitiertes Paket für Mitglieder Lv.21
+226,Limitiertes Paket für Mitglieder Lv.22,2.29,€,Limitiertes Paket für Mitglieder Lv.22
+227,Limitiertes Paket für Mitglieder Lv.23,2.29,€,Limitiertes Paket für Mitglieder Lv.23
+228,Limitiertes Paket für Mitglieder Lv.24,2.29,€,Limitiertes Paket für Mitglieder Lv.24
+229,Limitiertes Paket für Mitglieder Lv.25,2.29,€,Limitiertes Paket für Mitglieder Lv.25
+230,Limitiertes Paket für Mitglieder Lv.26,2.29,€,Limitiertes Paket für Mitglieder Lv.26
+231,Limitiertes Paket für Mitglieder Lv.27,2.29,€,Limitiertes Paket für Mitglieder Lv.27
+232,Limitiertes Paket für Mitglieder Lv.28,2.29,€,Limitiertes Paket für Mitglieder Lv.28
+233,Limitiertes Paket für Mitglieder Lv.29,2.29,€,Limitiertes Paket für Mitglieder Lv.29
+234,Limitiertes Paket für Mitglieder Lv.30,2.29,€,Limitiertes Paket für Mitglieder Lv.30
+235,Limitiertes Paket für Gilde Lv.10,54.99,€,Limitiertes Paket für Gilde Lv.10
+236,Limitiertes Paket für Gilde Lv.11,54.99,€,Limitiertes Paket für Gilde Lv.11
+237,Limitiertes Paket für Gilde Lv.12,54.99,€,Limitiertes Paket für Gilde Lv.12
+238,Limitiertes Paket für Gilde Lv.13,54.99,€,Limitiertes Paket für Gilde Lv.13
+239,Limitiertes Paket für Gilde Lv.14,54.99,€,Limitiertes Paket für Gilde Lv.14
+240,Limitiertes Paket für Gilde Lv.15,54.99,€,Limitiertes Paket für Gilde Lv.15
+241,Limitiertes Paket für Gilde Lv.16,54.99,€,Limitiertes Paket für Gilde Lv.16
+242,Limitiertes Paket für Gilde Lv.17,54.99,€,Limitiertes Paket für Gilde Lv.17
+243,Limitiertes Paket für Gilde Lv.18,54.99,€,Limitiertes Paket für Gilde Lv.18
+244,Limitiertes Paket für Gilde Lv.19,54.99,€,Limitiertes Paket für Gilde Lv.19
+245,Limitiertes Paket für Gilde Lv.20,54.99,€,Limitiertes Paket für Gilde Lv.20
+246,Limitiertes Paket für Gilde Lv.21,54.99,€,Limitiertes Paket für Gilde Lv.21
+247,Limitiertes Paket für Gilde Lv.22,54.99,€,Limitiertes Paket für Gilde Lv.22
+248,Limitiertes Paket für Gilde Lv.23,54.99,€,Limitiertes Paket für Gilde Lv.23
+249,Limitiertes Paket für Gilde Lv.24,54.99,€,Limitiertes Paket für Gilde Lv.24
+250,Limitiertes Paket für Gilde Lv.25,54.99,€,Limitiertes Paket für Gilde Lv.25
+251,Limitiertes Paket für Gilde Lv.26,54.99,€,Limitiertes Paket für Gilde Lv.26
+252,Limitiertes Paket für Gilde Lv.27,54.99,€,Limitiertes Paket für Gilde Lv.27
+253,Limitiertes Paket für Gilde Lv.28,54.99,€,Limitiertes Paket für Gilde Lv.28
+254,Limitiertes Paket für Gilde Lv.29,54.99,€,Limitiertes Paket für Gilde Lv.29
+255,Limitiertes Paket für Gilde Lv.30,54.99,€,Limitiertes Paket für Gilde Lv.30
+256,Limitiertes Paket für Mitglieder Lv.4,2.29,€,Limitiertes Paket für Mitglieder Lv.4
+257,Limitiertes Paket für Mitglieder Lv.5,2.29,€,Limitiertes Paket für Mitglieder Lv.5
+258,Limitiertes Paket für Mitglieder Lv.6,2.29,€,Limitiertes Paket für Mitglieder Lv.6
+259,Limitiertes Paket für Mitglieder Lv.7,2.29,€,Limitiertes Paket für Mitglieder Lv.7
+260,Limitiertes Paket für Mitglieder Lv.8,2.29,€,Limitiertes Paket für Mitglieder Lv.8
+261,Limitiertes Paket für Mitglieder Lv.9,2.29,€,Limitiertes Paket für Mitglieder Lv.9
+262,Limitiertes Paket für Gilde Lv.4,54.99,€,Limitiertes Paket für Gilde Lv.4
+263,Limitiertes Paket für Gilde Lv.5,54.99,€,Limitiertes Paket für Gilde Lv.5
+264,Limitiertes Paket für Gilde Lv.6,54.99,€,Limitiertes Paket für Gilde Lv.6
+265,Limitiertes Paket für Gilde Lv.7,54.99,€,Limitiertes Paket für Gilde Lv.7
+266,Limitiertes Paket für Gilde Lv.8,54.99,€,Limitiertes Paket für Gilde Lv.8
+267,Limitiertes Paket für Gilde Lv.9,54.99,€,Limitiertes Paket für Gilde Lv.9
+275,Tagespaket 7,5.49,€,Tagespaket
+268,Kursplan-Paket 1,5.49,€,Kursplan-Paket 1
+269,Kursplan-Paket 2,5.49,€,Kursplan-Paket 2
+270,Kursplan-Paket 3,10.99,€,Kursplan-Paket 3
+271,Kursplan-Paket 4,21.99,€,Kursplan-Paket 4
+276,Magische Reserven 1,32.99,€,Magische Reserven
+277,Magische Reserven 2,74.99,€,Magische Reserven
+278,Magische Reserven 3,109.99,€,Magische Reserven
+279,Personalisiertes Paket 1,54.99,€,Personalisiertes Paket
+280,Personalisiertes Paket 2,21.99,€,Personalisiertes Paket
+281,Personalisiertes Paket 3,5.49,€,Personalisiertes Paket
+282,Monatskarte,10.99,€,Monatskarte - Erstkaufrabatt
+283,Mini Monatskarte,2.29,€,Mini Monatskarte - Erstkaufrabatt
+284,Testfonds 4,54.99,€,Testfonds 4
+285,Sondernachschub (empfohlen),21.99,€,Sondernachschub (empfohlen)
+286,Sondernachschub 1,5.49,€,Sondernachschub 1
+287,Sondernachschub 2,32.99,€,Sondernachschub 2
+288,Sondernachschub 3,54.99,€,Sondernachschub 3
+289,Sondernachschub 4,89.99,€,Sondernachschub 4
+290,Sondernachschub 5,109.99,€,Sondernachschub 5
+1700101,Personalisierter Nachschub Lv.25,2.29,€,Personalisierter Nachschub Lv.25
+1700201,Personalisierter Nachschub Lv.40,5.49,€,Personalisierter Nachschub Lv.40
+1700301,Personalisierter Nachschub Lv.53,10.99,€,Personalisierter Nachschub Lv.53
+1700401,Personalisierter Nachschub Lv.68,21.99,€,Personalisierter Nachschub Lv.68
+1700501,Personalisierter Nachschub Lv.85,32.99,€,Personalisierter Nachschub Lv.85
+1700601,Personalisierter Nachschub Lv.95,32.99,€,Personalisierter Nachschub Lv.95
+1700701,Personalisierter Nachschub Lv.110,54.99,€,Personalisierter Nachschub Lv.110
+1700801,Personalisierter Nachschub Lv.135,74.99,€,Personalisierter Nachschub Lv.135
+1700901,Personalisierter Nachschub Lv.140,109.99,€,Personalisierter Nachschub Lv.140
+1701001,Personalisierter Nachschub Lv.155,89.99,€,Personalisierter Nachschub Lv.155
+1701101,Personalisierter Nachschub Lv.165,89.99,€,Personalisierter Nachschub Lv.165
+1701201,Personalisierter Nachschub Lv.180,89.99,€,Personalisierter Nachschub Lv.180
+293,Kursplan-Paket 1,1.09,€,Kursplan-Paket 1
+294,Kursplan-Paket 2,5.49,€,Kursplan-Paket 2
+295,Kursplan-Paket 3,10.99,€,Kursplan-Paket 3
+296,Kursplan-Paket 4,21.99,€,Kursplan-Paket 4
+297,Limitiertes Gildenpaket,32.99,€,Limitiertes Gildenpaket
+299,Rückkehrer-Wachstumspaket 1,32.99,€,Rückkehrer-Wachstumspaket 1
+300,Rückkehrer-Wachstumspaket 2,54.99,€,Rückkehrer-Wachstumspaket 2
+301,Paket zur Rückkehrer-Hilfe,32.99,€,Paket zur Rückkehrer-Hilfe
+302,Rückkehrer-Monatskarte,5.49,€,Rückkehrer-Monatskarte
+303,Rückkehrer-Monatsthema,2.29,€,Rückkehrer-Monatsthema
+1701301,Personalisierter Nachschub Lv.15,2.29,€,Personalisierter Nachschub Lv.15
+1701401,Personalisierter Nachschub Lv.35,5.49,€,Personalisierter Nachschub Lv.35
+1701501,Personalisierter Nachschub Lv.48,10.99,€,Personalisierter Nachschub Lv.48
+1701601,Personalisierter Nachschub Lv.58,32.99,€,Personalisierter Nachschub Lv.58
+1701701,Personalisierter Nachschub Lv.78,32.99,€,Personalisierter Nachschub Lv.78
+1701801,Personalisierter Nachschub Lv.90,32.99,€,Personalisierter Nachschub Lv.90
+1701901,Personalisierter Nachschub Lv.115,32.99,€,Personalisierter Nachschub Lv.115
+1702001,Personalisierter Nachschub Lv.125,32.99,€,Personalisierter Nachschub Lv.125
+1702101,Personalisierter Nachschub Lv.100,54.99,€,Personalisierter Nachschub Lv.100
+1702201,Personalisierter Nachschub Lv.105,54.99,€,Personalisierter Nachschub Lv.105
+1702301,Personalisierter Nachschub Lv.120,54.99,€,Personalisierter Nachschub Lv.120
+1702401,Personalisierter Nachschub Lv.130,54.99,€,Personalisierter Nachschub Lv.130
+1702501,Personalisierter Nachschub Lv.145,54.99,€,Personalisierter Nachschub Lv.145
+1702601,Personalisierter Nachschub Lv.170,54.99,€,Personalisierter Nachschub Lv.170
+1702701,Personalisierter Nachschub Lv.150,74.99,€,Personalisierter Nachschub Lv.150
+1702801,Personalisierter Nachschub Lv.175,74.99,€,Personalisierter Nachschub Lv.175
+1702901,Personalisierter Nachschub Lv.190,74.99,€,Personalisierter Nachschub Lv.190
+1703001,Personalisierter Nachschub Lv.195,89.99,€,Personalisierter Nachschub Lv.195
+1703101,Personalisierter Nachschub Lv.160,109.99,€,Personalisierter Nachschub Lv.160
+1703201,Personalisierter Nachschub Lv.185,109.99,€,Personalisierter Nachschub Lv.185
+1703301,Personalisierter Nachschub Lv.200,109.99,€,Personalisierter Nachschub Lv.200
+304,Paket zum 3. Jubiläum,10.99,€,Paket zum 3. Jubiläum
+305,Paket zum 3. Jubiläum,21.99,€,Paket zum 3. Jubiläum

@@ -1,0 +1,518 @@
+id,name,charge,currency,show_name
+1,Carte Mensuelle,16.99,€,Carte Mensuelle
+2,Petite Carte Mensuelle,5.49,€,Petite Carte Mensuelle
+3,Carte Hebdomadaire,1.09,€,Carte Hebdomadaire
+4,Pack de 250 Gemmes,5.49,€,Pack de Gemmes
+5,Pack de 500 Gemmes,10.99,€,Pack de Gemmes
+6,Pack de 1000 Gemmes,21.99,€,Pack de Gemmes
+7,Pack de 2500 Gemmes,54.99,€,Pack de Gemmes
+8,Pack de 5000 Gemmes,109.99,€,Pack de Gemmes
+9,Pack de Niv.24,2.29,€,Pack de Niv.24
+10,Pack de Niv.32,5.49,€,Pack de Niv.32
+11,Pack de Niv.48,10.99,€,Pack de Niv.48
+12,Pack de Niv.58,32.99,€,Pack de Niv.58
+13,Pack de Niv.78,54.99,€,Pack de Niv.78
+14,Pack d'Entraînement de Filles 4 étoiles,5.49,€,Pack d'Entraînement de Filles 4 étoiles
+15,Pack d'Entraînement de Filles 5 étoiles,10.99,€,Pack d'Entraînement de Filles 5 étoiles
+16,Pack Mensuel 1,5.49,€,Pack\nMensuel
+17,Pack Mensuel 2,10.99,€,Pack\nMensuel
+18,Pack Mensuel 3,32.99,€,Pack\nMensuel
+19,Pack Mensuel 4,54.99,€,Pack\nMensuel
+20,Pack Mensuel 5,74.99,€,Pack\nMensuel
+89,Pack Mensuel 7,109.99,€,Pack\nMensuel
+22,Pack Hebdomadaire 1,10.99,€,Pack Hebdomadaire
+23,Pack Hebdomadaire 2,21.99,€,Pack Hebdomadaire
+24,Pack Hebdomadaire 3,54.99,€,Pack Hebdomadaire
+25,Pack Hebdomadaire 4,74.99,€,Pack Hebdomadaire
+26,Pack de Grande Valeur 1,109.99,€,Pack de Grande Valeur
+27,Pack de Grande Valeur 2,74.99,€,Pack de Grande Valeur
+28,Pack de Grande Valeur 3,32.99,€,Pack de Grande Valeur
+29,Pack de Grande Valeur 4,10.99,€,Pack de Grande Valeur
+30,Pack de Grande Valeur 5,5.49,€,Pack de Grande Valeur
+31,Pack de Grande Valeur 1,109.99,€,Pack de Grande Valeur
+32,Pack de Grande Valeur 2,74.99,€,Pack de Grande Valeur
+33,Pack de Grande Valeur 3,32.99,€,Pack de Grande Valeur
+34,Pack de Grande Valeur 4,21.99,€,Pack de Grande Valeur
+36,Pack de Grande Valeur 5,5.49,€,Pack de Grande Valeur
+69,Pack de Grande Valeur 6,5.49,€,Pack de Grande Valeur
+35,Pack de Recharge Gratuit,2.29,€,Pack de Recharge Gratuit
+37,Pack Limité de Filles 5 étoiles,1.09,€,Pack Limité de Filles 5 étoiles
+38,Abonnement,0.99,€,Abonnement
+39,Carte du Vendredi Noir,10.99,€,Carte du 3ème Anniversaire
+40,Abonnement Hebdomadaire,0.99,€,Abonnement Hebdomadaire
+41,Mensuel,4.49,€,Mensuel
+42,Trimestriel,10.49,€,Trimestriel
+43,Pack Mensuel 1,5.49,€,Pack\nMensuel
+44,Pack Mensuel 2,10.99,€,Pack\nMensuel
+45,Pack Mensuel 3,32.99,€,Pack\nMensuel
+46,Pack Mensuel 4,54.99,€,Pack\nMensuel
+47,Pack Mensuel 5,74.99,€,Pack\nMensuel
+48,Pack Mensuel 6,89.99,€,Pack\nMensuel
+49,Pack Hebdomadaire 1,10.99,€,Pack Hebdomadaire
+50,Pack Hebdomadaire 2,21.99,€,Pack Hebdomadaire
+51,Pack Hebdomadaire 3,54.99,€,Pack Hebdomadaire
+52,Pack Hebdomadaire 4,74.99,€,Pack Hebdomadaire
+53,Abonnement Hebdomadaire,0.99,€,Abonnement Hebdomadaire
+54,Mensuel,4.49,€,Mensuel
+55,Trimestriel,10.49,€,Trimestriel
+56,Pack Surprise de Skin 1,5.49,€,Pack\nSurprise
+57,Pack\nSurprise 1,5.49,€,Pack\nSurprise
+65,Pack\nSurprise 2,54.99,€,Pack\nSurprise
+58,7 jours Gratuit,0,€,7 jours Gratuit
+59,7 jours Gratuit,0,€,7 jours Gratuit
+60,7 jours Gratuit,0,€,7 jours Gratuit
+61,7 jours Gratuit,0,€,7 jours Gratuit
+62,7 jours Gratuit,0,€,7 jours Gratuit
+63,7 jours Gratuit,0,€,7 jours Gratuit
+64,Pack d'Etape,10.99,€,Pack d'Etape
+66,Bague de Serment,21.99,€,Bague de Serment
+67,Pack de Croissance,10.99,€,Pack de Croissance
+68,Pack de Grande Valeur 6,5.49,€,Pack de Grande Valeur
+70,Débloquer Récompenses Spéciales,21.99,€,Débloquer des Récompenses Spéciales
+71,Pack Surprise de Skin 2,54.99,€,Pack\nSurprise
+72,Carte du 3ème Anniversaire,21.99,€,Carte du 3ème Anniversaire
+73,Pack Exclusif de Noël,54.99,€,Pack Exclusif de Noël
+74,Programme de Motivation,10.99,€,Programme de Motivation
+75,Pack de Serment,32.99,€,Pack de Serment
+76,Pass de Luxe,10.99,€,Pass de Luxe
+1010101,Pack de Niv.24,2.29,€,Pack de Niv.24
+1010201,Pack de Niv.32,5.49,€,Pack de Niv.32
+1010301,Pack de Niv.48,10.99,€,Pack de Niv.48
+1010401,Pack de Niv.58,10.99,€,Pack de Niv.58
+1010402,Pack de Niv.58,32.99,€,Pack de Niv.58
+1010403,Pack de Niv.58,54.99,€,Pack de Niv.58
+1010404,Pack de Niv.58,74.99,€,Pack de Niv.58
+1010501,Pack de Niv.78,10.99,€,Pack de Niv.78
+1010502,Pack de Niv.78,32.99,€,Pack de Niv.78
+1010503,Pack de Niv.78,54.99,€,Pack de Niv.78
+1010504,Pack de Niv.78,74.99,€,Pack de Niv.78
+1010601,Pack de Niv.100,10.99,€,Pack de Niv.100
+1010602,Pack de Niv.100,32.99,€,Pack de Niv.100
+1010603,Pack de Niv.100,54.99,€,Pack de Niv.100
+1010604,Pack de Niv.100,74.99,€,Pack de Niv.100
+1030101,Pack d'Entraînement de Filles,5.49,€,Pack d'Entraînement de Filles
+1030102,Pack d'Entraînement de Filles,10.99,€,Pack d'Entraînement de Filles
+1030103,Pack d'Entraînement de Filles,21.99,€,Pack d'Entraînement de Filles
+1040101,Pack d'Entraînement de Filles,10.99,€,Pack d'Entraînement de Filles
+1040102,Pack d'Entraînement de Filles,21.99,€,Pack d'Entraînement de Filles
+1040103,Pack d'Entraînement de Filles,32.99,€,Pack d'Entraînement de Filles
+1050101,Booster d'EXP,5.49,€,Booster d'EXP
+1050102,Booster d'EXP,10.99,€,Booster d'EXP
+1050103,Booster d'EXP,21.99,€,Booster d'EXP
+1060101,Booster de Pièces,5.49,€,Booster de Pièces
+1060102,Booster de Pièces,10.99,€,Booster de Pièces
+1060103,Booster de Pièces,21.99,€,Booster de Pièces
+1070101,Pack d'Etape,10.99,€,Pack d'Etape
+1070102,Pack d'Etape,21.99,€,Pack d'Etape
+1070103,Pack d'Etape,32.99,€,Pack d'Etape
+1070201,Pack d'Etape,10.99,€,Pack d'Etape
+1070202,Pack d'Etape,21.99,€,Pack d'Etape
+1070203,Pack d'Etape,32.99,€,Pack d'Etape
+1070301,Pack d'Etape,10.99,€,Pack d'Etape
+1070302,Pack d'Etape,21.99,€,Pack d'Etape
+1070303,Pack d'Etape,54.99,€,Pack d'Etape
+1070401,Pack d'Etape,10.99,€,Pack d'Etape
+1070402,Pack d'Etape,21.99,€,Pack d'Etape
+1070403,Pack d'Etape,32.99,€,Pack d'Etape
+1070501,Pack d'Etape,10.99,€,Pack d'Etape
+1070502,Pack d'Etape,21.99,€,Pack d'Etape
+1070503,Pack d'Etape,32.99,€,Pack d'Etape
+1070601,Pack d'Etape,10.99,€,Pack d'Etape
+1070602,Pack d'Etape,21.99,€,Pack d'Etape
+1070603,Pack d'Etape,54.99,€,Pack d'Etape
+1070701,Pack d'Etape,10.99,€,Pack d'Etape
+1070702,Pack d'Etape,21.99,€,Pack d'Etape
+1070703,Pack d'Etape,32.99,€,Pack d'Etape
+1070801,Pack d'Etape,10.99,€,Pack d'Etape
+1070802,Pack d'Etape,21.99,€,Pack d'Etape
+1070803,Pack d'Etape,32.99,€,Pack d'Etape
+1080101,Pack de Test-15,10.99,€,Booster de Test
+1080102,Pack de Test-15,21.99,€,Booster de Test
+1080103,Pack de Test-15,32.99,€,Booster de Test
+1080201,Pack de Test-30,10.99,€,Booster de Test
+1080202,Pack de Test-30,21.99,€,Booster de Test
+1080203,Pack de Test-30,32.99,€,Booster de Test
+1080301,Pack de Test-100,10.99,€,Booster de Test
+1080302,Pack de Test-100,21.99,€,Booster de Test
+1080303,Pack de Test-100,54.99,€,Booster de Test
+1080401,Pack de Test-150,10.99,€,Booster de Test
+1080402,Pack de Test-150,21.99,€,Booster de Test
+1080403,Pack de Test-150,32.99,€,Booster de Test
+1080501,Pack de Test-200,10.99,€,Booster de Test
+1080502,Pack de Test-200,21.99,€,Booster de Test
+1080503,Pack de Test-200,54.99,€,Booster de Test
+1080601,Pack de Test-250,10.99,€,Booster de Test
+1080602,Pack de Test-250,21.99,€,Booster de Test
+1080603,Pack de Test-250,54.99,€,Booster de Test
+1080701,Pack de Test-300,10.99,€,Booster de Test
+1080702,Pack de Test-300,21.99,€,Booster de Test
+1080703,Pack de Test-300,32.99,€,Booster de Test
+1080801,Pack de Test-350,10.99,€,Booster de Test
+1080802,Pack de Test-350,21.99,€,Booster de Test
+1080803,Pack de Test-350,54.99,€,Booster de Test
+1080901,Pack de Test-400,10.99,€,Booster de Test
+1080902,Pack de Test-400,21.99,€,Booster de Test
+1080903,Pack de Test-400,54.99,€,Booster de Test
+77,Pack Exclusif de Noël,109.99,€,Pack Exclusif de Noël
+1010701,Pack de Niv.125,10.99,€,Pack de Niv.125
+1010702,Pack de Niv.125,32.99,€,Pack de Niv.125
+1010703,Pack de Niv.125,54.99,€,Pack de Niv.125
+1010704,Pack de Niv.125,74.99,€,Pack de Niv.125
+1010801,Pack de Niv.150,10.99,€,Pack de Niv.150
+1010802,Pack de Niv.150,32.99,€,Pack de Niv.150
+1010803,Pack de Niv.150,54.99,€,Pack de Niv.150
+1010804,Pack de Niv.150,74.99,€,Pack de Niv.150
+1010901,Pack de Niv.175,10.99,€,Pack de Niv.175
+1010902,Pack de Niv.175,32.99,€,Pack de Niv.175
+1010903,Pack de Niv.175,54.99,€,Pack de Niv.175
+1010904,Pack de Niv.175,74.99,€,Pack de Niv.175
+1011001,Pack de Niv.200,10.99,€,Pack de Niv.200
+1011002,Pack de Niv.200,32.99,€,Pack de Niv.200
+1011003,Pack de Niv.200,54.99,€,Pack de Niv.200
+1011004,Pack de Niv.200,74.99,€,Pack de Niv.200
+1050104,Booster d'EXP,32.99,€,Booster d'EXP
+1050105,Booster d'EXP,54.99,€,Booster d'EXP
+1060104,Booster de Pièces,32.99,€,Booster de Pièces
+1060105,Booster de Pièces,54.99,€,Booster de Pièces
+1081001,Pack de Test-450,10.99,€,Booster de Test
+1081002,Pack de Test-450,21.99,€,Booster de Test
+1081003,Pack de Test-450,54.99,€,Booster de Test
+1081101,Pack de Test-500,10.99,€,Booster de Test
+1081102,Pack de Test-500,21.99,€,Booster de Test
+1081103,Pack de Test-500,54.99,€,Booster de Test
+1081201,Pack de Test-550,10.99,€,Booster de Test
+1081202,Pack de Test-550,21.99,€,Booster de Test
+1081203,Pack de Test-550,54.99,€,Booster de Test
+1081301,Pack de Test-600,10.99,€,Booster de Test
+1081302,Pack de Test-600,21.99,€,Booster de Test
+1081303,Pack de Test-600,54.99,€,Booster de Test
+78,Pack de Grande Valeur 1,109.99,€,Pack de Grande Valeur
+79,Pack de Grande Valeur 2,74.99,€,Pack de Grande Valeur
+80,Pack de Grande Valeur 3,32.99,€,Pack de Grande Valeur
+81,Pack de Grande Valeur 4,10.99,€,Pack de Grande Valeur
+82,Pack de Grande Valeur 5,5.49,€,Pack de Grande Valeur
+83,Pack de Grande Valeur 6,5.49,€,Pack de Grande Valeur
+84,Pack Surprise 1,5.49,€,Pack\nSurprise
+85,Pack\nSurprise 2,74.99,€,Pack\nSurprise
+86,Pack de Recharge Gratuit,2.29,€,Pack de Recharge Gratuit
+1090101,Pack Surprise de Capsules,32.99,€,Pack Bonus de Capsules
+1090102,Pack Surprise de Capsules,54.99,€,Pack Bonus de Capsules
+1090103,Pack Surprise de Capsules,109.99,€,Pack Bonus de Capsules
+1090201,Pack Surprise de Capsules,32.99,€,Pack Bonus de Capsules
+1090202,Pack Surprise de Capsules,54.99,€,Pack Bonus de Capsules
+1090203,Pack Surprise de Capsules,109.99,€,Pack Bonus de Capsules
+1090301,Pack Surprise de Capsules,32.99,€,Pack Bonus de Capsules
+1090302,Pack Surprise de Capsules,54.99,€,Pack Bonus de Capsules
+1090303,Pack Surprise de Capsules,109.99,€,Pack Bonus de Capsules
+90,Pack Hebdomadaire 6,109.99,€,Pack Hebdomadaire
+88,4000 Diamants,89.99,€,Pack de Gemmes
+21,Pack Mensuel 6,89.99,€,Pack\nMensuel
+87,Pack Hebdomadaire 5,89.99,€,Pack Hebdo
+105,Avis d'Admission,21.99,€,Avis d'Admission
+92,Pack\nQuotidien 1,1.09,€,Pack\nQuotidien
+93,Pack\nQuotidien 2,2.29,€,Pack\nQuotidien
+94,Pack\nQuotidien 3,5.49,€,Pack\nQuotidien
+95,Pack\nQuotidien 4,5.49,€,Pack\nQuotidien
+96,Pack\nQuotidien 5,5.49,€,Pack\nQuotidien
+97,Pack\nQuotidien 6,5.49,€,Pack\nQuotidien
+99,Pack\nQuotidien 1,1.09,€,Pack\nQuotidien
+100,Pack\nQuotidien 2,2.29,€,Pack\nQuotidien
+101,Pack\nQuotidien 3,5.49,€,Pack\nQuotidien
+102,Pack\nQuotidien 4,5.49,€,Pack\nQuotidien
+103,Pack\nQuotidien 5,5.49,€,Pack\nQuotidien
+104,Pack\nQuotidien 6,5.49,€,Pack\nQuotidien
+1100101,Pack d'Entraînement de Filles 7 étoiles,54.99,€,Pack d'Entraînement de Filles
+1100102,Pack d'Entraînement de Filles 7 étoiles,54.99,€,Pack d'Entraînement de Filles
+1100103,Pack d'Entraînement de Filles 7 étoiles,54.99,€,Pack d'Entraînement de Filles
+1100104,Pack d'Entraînement de Filles 7 étoiles,54.99,€,Pack d'Entraînement de Filles
+1100201,Pack d'Entraînement de Filles 7 étoiles,74.99,€,Pack d'Entraînement de Filles
+1100202,Pack d'Entraînement de Filles 7 étoiles,74.99,€,Pack d'Entraînement de Filles
+1100203,Pack d'Entraînement de Filles 7 étoiles,74.99,€,Pack d'Entraînement de Filles
+1100204,Pack d'Entraînement de Filles 7 étoiles,74.99,€,Pack d'Entraînement de Filles
+106,Livre Rare,16.99,€,Livre Rare
+107,Livre Collector 2,21.99,€,Livre Collector 2
+108,Livre Collector 1,32.99,€,Livre Collector 1
+1100301,Pack 2 d'Entraînement de Filles 9 étoiles,74.99,€,Pack de Développement
+1100302,Pack 2 d'Entraînement de Filles 9 étoiles,74.99,€,Pack de Développement
+1100303,Pack 2 d'Entraînement de Filles 9 étoiles,74.99,€,Pack de Développement
+1100304,Pack 2 d'Entraînement de Filles 9 étoiles,74.99,€,Pack de Développement
+1100305,Pack 2 d'Entraînement de Filles 9 étoiles,74.99,€,Pack de Développement
+1100306,Pack 2 d'Entraînement de Filles 9 étoiles,74.99,€,Pack de Développement
+1100401,Pack 1 d'Entraînement de Filles 9 étoiles,109.99,€,Pack de Développement
+1100402,Pack 1 d'Entraînement de Filles 9 étoiles,109.99,€,Pack de Développement
+1100403,Pack 1 d'Entraînement de Filles 9 étoiles,109.99,€,Pack de Développement
+1100404,Pack 1 d'Entraînement de Filles 9 étoiles,109.99,€,Pack de Développement
+1100405,Pack 1 d'Entraînement de Filles 9 étoiles,109.99,€,Pack de Développement
+1100406,Pack 1 d'Entraînement de Filles 9 étoiles,109.99,€,Pack de Développement
+109,Pack de 1250 Gemmes,27.99,€,Pack de Gemmes
+110,Pack d'Amour,21.99,€,Pack d'Amour
+10116,Cadeaux Mystères 1,10.99,€,Cadeaux Mystères 1
+10117,Cadeaux Mystères 2,32.99,€,Cadeaux Mystères 2
+10118,Cadeaux Mystères 3,54.99,€,Cadeaux Mystères 3
+10119,Cadeaux Mystères 4,74.99,€,Cadeaux Mystères 4
+120,Carte d'Énergie SP,16.99,€,Carte d'Énergie SP
+121,Livre Rare,16.99,€,Livre Rare
+122,Livre Collector 2,21.99,€,Livre Collector 2
+123,Livre Collector 1,32.99,€,Livre Collector 1
+125,Pack Surprise 1,5.49,€,Pack Surprise
+126,Pack Surprise 2,74.99,€,Pack Surprise
+127,Parchemin de Sanctuaire,5.49,€,Parchemin de Sanctuaire
+128,Permis de Patrouille,5.49,€,Permis de Patrouille
+129,Pack de\nSoda,10.99,€,Pack de\nSoda
+130,Boîte Magique 1,109.99,€,Boîte Magique 1
+131,Boîte Magique 2,54.99,€,Boîte Magique 2
+132,Boîte Magique 3,21.99,€,Boîte Magique 3
+133,Boîte Magique 4,5.49,€,Boîte Magique 4
+134,Boîte Magique 5,1.09,€,Boîte Magique 5
+135,Packs de Boîte 1,54.99,€,Packs de Boîte 1
+136,Packs de Boîte 2,74.99,€,Packs de Boîte 2
+137,Rabais sur\nCarte Mensuelle,5.49,€,Rabais sur\nCarte Mensuelle
+138,Panier du Chaperon Rouge,21.99,€,Panier du Chaperon Rouge
+139,Cadeaux de la Saint-Valentin 1,10.99,€,Cadeaux de la Saint-Valentin 1
+140,Cadeaux de la Saint-Valentin 2,10.99,€,Cadeaux de la Saint-Valentin 2
+141,Investissement de Test,10.99,€,Investissement de Test
+142,Investissement de Test 2,21.99,€,Investissement de Test 2
+143,Investissement de Test 3,32.99,€,Investissement de Test 3
+144,Pack Surprise de Skin 1,5.49,€,Pack Surprise de Skin
+145,Pack Surprise de Skin 2,54.99,€,Pack Surprise de Skin
+146,Pack Surprise 1,5.49,€,Pack Surprise
+147,Pack Surprise 2,74.99,€,Pack Surprise
+10148,Cadeaux Mystères 5,109.99,€,Cadeaux Mystères 5
+1200101,Pack de Ciseau de Cristal,5.49,€,Pack de Ciseau de Cristal
+1200102,Pack de Ciseau de Cristal,10.99,€,Pack de Ciseau de Cristal
+1200103,Pack de Ciseau de Cristal,21.99,€,Pack de Ciseau de Cristal
+1200104,Pack de Ciseau de Cristal,32.99,€,Pack de Ciseau de Cristal
+1200105,Pack de Ciseau de Cristal,54.99,€,Pack de Ciseau de Cristal
+1300101,Pack de Restauration,5.49,€,Pack de Restauration
+1300102,Pack de Restauration,10.99,€,Pack de Restauration
+1300103,Pack de Restauration,21.99,€,Pack de Restauration
+1300104,Pack de Restauration,32.99,€,Pack de Restauration
+1300105,Pack de Restauration,54.99,€,Pack de Restauration
+1400101,Pack de Biscuits,5.49,€,Pack de Biscuits
+1400102,Pack de Biscuits,10.99,€,Pack de Biscuits
+1400103,Pack de Biscuits,32.99,€,Pack de Biscuits
+1400104,Pack de Biscuits,54.99,€,Pack de Biscuits
+1400201,Pack de Biscuits,5.49,€,Pack de Biscuits
+1400202,Pack de Biscuits,10.99,€,Pack de Biscuits
+1400203,Pack de Biscuits,32.99,€,Pack de Biscuits
+1400204,Pack de Biscuits,54.99,€,Pack de Biscuits
+1400301,Pack de Biscuits,5.49,€,Pack de Biscuits
+1400302,Pack de Biscuits,10.99,€,Pack de Biscuits
+1400303,Pack de Biscuits,32.99,€,Pack de Biscuits
+1400304,Pack de Biscuits,54.99,€,Pack de Biscuits
+1500101,Approvisionnement Fantôme,21.99,€,Approvisionnement Fantôme
+1500102,Approvisionnement Fantôme,32.99,€,Approvisionnement Fantôme
+1500103,Approvisionnement Fantôme,54.99,€,Approvisionnement Fantôme
+1500104,Approvisionnement Fantôme,74.99,€,Approvisionnement Fantôme
+1500201,Approvisionnement Humain,21.99,€,Approvisionnement Humain
+1500202,Approvisionnement Humain,32.99,€,Approvisionnement Humain
+1500203,Approvisionnement Humain,54.99,€,Approvisionnement Humain
+1500204,Approvisionnement Humain,74.99,€,Approvisionnement Humain
+1500301,Approvisionnement Monstre,21.99,€,Approvisionnement Monstre
+1500302,Approvisionnement Monstre,32.99,€,Approvisionnement Monstre
+1500303,Approvisionnement Monstre,54.99,€,Approvisionnement Monstre
+1500304,Approvisionnement Monstre,74.99,€,Approvisionnement Monstre
+1500401,Approvisionnement Fée,21.99,€,Approvisionnement Fée
+1500402,Approvisionnement Fée,32.99,€,Approvisionnement Fée
+1500403,Approvisionnement Fée,54.99,€,Approvisionnement Fée
+1500404,Approvisionnement Fée,74.99,€,Approvisionnement Fée
+1500501,Approvisionnement Démon,21.99,€,Approvisionnement Démon
+1500502,Approvisionnement Démon,32.99,€,Approvisionnement Démon
+1500503,Approvisionnement Démon,54.99,€,Approvisionnement Démon
+1500504,Approvisionnement Démon,74.99,€,Approvisionnement Démon
+1500601,Approvisionnement Ange,21.99,€,Approvisionnement Ange
+1500602,Approvisionnement Ange,32.99,€,Approvisionnement Ange
+1500603,Approvisionnement Ange,54.99,€,Approvisionnement Ange
+1500604,Approvisionnement Ange,74.99,€,Approvisionnement Ange
+1050106,Booster d'EXP,74.99,€,Booster d'EXP
+1050107,Booster d'EXP,109.99,€,Booster d'EXP
+1060106,Booster de Pièces,74.99,€,Booster de Pièces
+1060107,Booster de Pièces,109.99,€,Booster de Pièces
+148,Pack Quotidien de Débutant 1,1.09,€,Pack Quotidien de Débutant 1
+149,Pack Quotidien de Débutant 2,2.29,€,Pack Quotidien de Débutant 2
+150,Pack Quotidien de Débutant 3,10.99,€,Pack Quotidien de Débutant 3
+151,Pack Quotidien de Débutant 1,1.09,€,Pack Quotidien de Débutant 1
+152,Pack Quotidien de Débutant 2,5.49,€,Pack Quotidien de Débutant 2
+153,Pack Quotidien de Débutant 3,10.99,€,Pack Quotidien de Débutant 3
+154,Pack Quotidien de Débutant 1,1.09,€,Pack Quotidien de Débutant 1
+155,Pack Quotidien de Débutant 2,5.49,€,Pack Quotidien de Débutant 2
+156,Pack Quotidien de Débutant 3,21.99,€,Pack Quotidien de Débutant 3
+157,Pack Quotidien de Débutant 1,1.09,€,Pack Quotidien de Débutant 1
+158,Pack Quotidien de Débutant 2,5.49,€,Pack Quotidien de Débutant 2
+159,Pack Quotidien de Débutant 3,21.99,€,Pack Quotidien de Débutant 3
+160,Pack Quotidien de Débutant 1,1.09,€,Pack Quotidien de Débutant 1
+161,Pack Quotidien de Débutant 2,5.49,€,Pack Quotidien de Débutant 2
+162,Pack Quotidien de Débutant 3,21.99,€,Pack Quotidien de Débutant 3
+163,Pack Quotidien de Débutant 1,1.09,€,Pack Quotidien de Débutant 1
+164,Pack Quotidien de Débutant 2,10.99,€,Pack Quotidien de Débutant 2
+165,Pack Quotidien de Débutant 3,32.99,€,Pack Quotidien de Débutant 3
+166,Pack Quotidien de Débutant 1,1.09,€,Pack Quotidien de Débutant 1
+167,Pack Quotidien de Débutant 2,21.99,€,Pack Quotidien de Débutant 2
+168,Pack Quotidien de Débutant 3,32.99,€,Pack Quotidien de Débutant 3
+177,Pack de Vacances 1,54.99,€,Pack de Vacances 1
+178,Pack de Vacances 2,109.99,€,Pack de Vacances 2
+180,Célébration du Mois 2,32.99,€,Célébration du Mois 2
+181,Célébration du Mois 3,54.99,€,Célébration du Mois 3
+182,Célébration du Mois 4,74.99,€,Célébration du Mois 4
+183,Célébration du Mois 5,109.99,€,Célébration du Mois 5
+1071001,Pack d'Étape-1-12,1.09,€,Pack d'Étape
+1071002,Pack d'Étape-1-12,5.49,€,Pack d'Étape
+1071101,Pack d'Étape-2-10,2.29,€,Pack d'Étape
+1071102,Pack d'Étape-2-10,5.49,€,Pack d'Étape
+184,Grand Pack de Débutant,1.09,€,Grand Pack de Débutant
+185,Offres de Lavli,54.99,€,Offres de Lavli
+186,Résolution du Nouvel An,21.99,€,Résolution du Nouvel An
+187,Pack de Personnalisation de Turin,5.49,€,Pack de Personnalisation de Turin
+188,Pack de Personnalisation de Turin,10.99,€,Pack de Turin
+189,Collection d'Antiquités,32.99,€,Collection d'Antiquités
+190,Investissement de Débutant,21.99,€,Investissement de Débutant
+191,Capsules de Débutant,21.99,€,Capsules de Débutant
+192,Capsules de Débutant,32.99,€,Capsules de Débutant
+193,Capsules de Débutant,54.99,€,Capsules de Débutant
+194,Distribution Chanceuse,32.99,€,Distribution Chanceuse
+179,Célébration du Mois 1,10.99,€,Célébration du Mois 1
+195,Offres Exclusives de Débutant,10.99,€,Offres Exclusives de Débutant
+196,Offres Exclusives de Débutant,32.99,€,Offres Exclusives de Débutant
+197,Offres Exclusives de Débutant,54.99,€,Offres Exclusives de Débutant
+198,Pack\nQuotidien 7,5.49,€,Pack\nQuotidien
+199,Pack Mensuel 9,109.99,€,Pack Mensuel
+200,Pack Hebdomadaire 5,89.99,€,Pack Hebdomadaire
+201,Pack Hebdomadaire 6,109.99,€,Pack Hebdomadaire
+202,Cadeaux de la Saint-Valentin 3,54.99,€,Cadeaux de la Saint-Valentin 3
+203,Cadeaux de la Saint-Valentin 4,109.99,€,Cadeaux de la Saint-Valentin 4
+204,Évolution du Serviteur 1,5.49,€,Évolution du Serviteur 1
+205,Évolution du Serviteur 2,10.99,€,Évolution du Serviteur 2
+206,Évolution du Serviteur 3,32.99,€,Évolution du Serviteur 3
+207,Évolution du Serviteur 4,54.99,€,Évolution du Serviteur 4
+208,Évolution du Serviteur 5,109.99,€,Évolution du Serviteur 5
+209,Pack de Pâques I,32.99,€,Pack de Pâques I
+210,Pack de Pâques II,109.99,€,Pack de Pâques II
+211,Pack d'Œufs I,109.99,€,Pack d'Œufs I
+212,Pack d'Œufs II,54.99,€,Pack d'Œufs II
+213,Pack d'Œufs III,32.99,€,Pack d'Œufs III
+1600101,Évolution d'Estelle - I,5.49,€,Évolution d'Estelle I
+1600102,Évolution d'Estelle - II,21.99,€,Évolution d'Estelle II
+1600103,Évolution d'Estelle - III,54.99,€,Évolution d'Estelle III
+1600104,Évolution d'Estelle - IV,54.99,€,Évolution d'Estelle IV
+1600105,Évolution d'Estelle - V,54.99,€,Évolution d'Estelle V
+1600106,Évolution d'Estelle - VI,54.99,€,Évolution d'Estelle VI
+1600107,Évolution d'Estelle - VII,89.99,€,Évolution d'Estelle VII
+214,Colis du Membre Niv.10,2.29,€,Colis du Membre Niv.10
+215,Coli du Membre Niv.11,2.29,€,Coli du Membre Niv.11
+216,Coli du Membre Niv.12,2.29,€,Coli du Membre Niv.12
+217,Coli du Membre Niv.13,2.29,€,Coli du Membre Niv.13
+218,Coli du Membre Niv.14,2.29,€,Coli du Membre Niv.14
+219,Coli du Membre Niv.15,2.29,€,Coli du Membre Niv.15
+220,Coli du Membre Niv.16,2.29,€,Coli du Membre Niv.16
+221,Coli du Membre Niv.17,2.29,€,Coli du Membre Niv.17
+222,Coli du Membre Niv.18,2.29,€,Coli du Membre Niv.18
+223,Coli du Membre Niv.19,2.29,€,Coli du Membre Niv.19
+224,Coli du Membre Niv.20,2.29,€,Coli du MembreNiv.20
+225,Coli du Membre Niv.21,2.29,€,Coli du MembreNiv.21
+226,Coli du Membre Niv.22,2.29,€,Coli du Membre Niv.22
+227,Coli du Membre Niv.23,2.29,€,Coli du Membre Niv.23
+228,Coli du Membre Niv.24,2.29,€,Coli du Membre Niv.24
+229,Coli du Membre Niv.25,2.29,€,Coli du Membre Niv.25
+230,Coli du Membre Niv.26,2.29,€,Coli du Membre Niv.26
+231,Coli du Membre Niv.27,2.29,€,Coli du Membre Niv.27
+232,Coli du Membre Niv.28,2.29,€,Coli du Membre Niv.28
+233,Coli du Membre Niv.29,2.29,€,Coli du Membre Niv.29
+234,Coli du Membre Niv.30,2.29,€,Colis du Membre Niv.30
+235,Colis de Guilde Niv.10,54.99,€,Colis de Guilde Niv.10
+236,Colis de Guilde Niv.11,54.99,€,Colis de Guilde Niv.11
+237,Colis de Guilde Niv.12,54.99,€,Colis de Guilde Niv.12
+238,Colis de Guilde Niv.13,54.99,€,Colis de Guilde Niv.13
+239,Colis de Guilde Niv.14,54.99,€,Colis de Guilde Niv.14
+240,Colis de Guilde Niv.15,54.99,€,Colis de Guilde Niv.15
+241,Colis de Guilde Niv.16,54.99,€,Colis de Guilde Niv.16
+242,Colis de Guilde Niv.17,54.99,€,Colis de Guilde Niv.17
+243,Colis de Guilde Niv.18,54.99,€,Colis de Guilde Niv.18
+244,Colis de Guilde Niv.19,54.99,€,Colis de Guilde Niv.19
+245,Colis de Guilde Niv.20,54.99,€,Colis de Guilde Niv.20
+246,Colis de Guilde Niv.21,54.99,€,Colis de Guilde Niv.21
+247,Colis de Guilde Niv.22,54.99,€,Colis de Guilde Niv.22
+248,Colis de Guilde Niv.23,54.99,€,Colis de Guilde Niv.23
+249,Colis de Guilde Niv.24,54.99,€,Colis de Guilde Niv.24
+250,Colis de Guilde Niv.25,54.99,€,Colis de Guilde Niv.25
+251,Colis de Guilde Niv.26,54.99,€,Colis de Guilde Niv.26
+252,Colis de Guilde Niv.27,54.99,€,Colis de Guilde Niv.27
+253,Colis de Guilde Niv.28,54.99,€,Colis de Guilde Niv.28
+254,Colis de Guilde Niv.29,54.99,€,Colis de Guilde Niv.29
+255,Colis de Guilde Niv.30,54.99,€,Colis de Guilde Niv.30
+256,Coli du Membre Niv.4,2.29,€,Coli du Membre Niv.4
+257,Coli du Membre Niv.5,2.29,€,Coli du Membre Niv.5
+258,Coli du Membre Niv.6,2.29,€,Coli du Membre Niv.6
+259,Coli du Membre Niv.7,2.29,€,Coli du Membre Niv.7
+260,Coli du Membre Niv.8,2.29,€,Coli du Membre Niv.8
+261,Coli du Membre Niv.9,2.29,€,Coli du Membre Niv.9
+262,Colis de Guilde Niv.4,54.99,€,Colis de Guilde Niv.4
+263,Colis de Guilde Niv.5,54.99,€,Colis de Guilde Niv.5
+264,Colis de Guilde Niv.6,54.99,€,Colis de Guilde Niv.6
+265,Colis de Guilde Niv.7,54.99,€,Colis de Guilde Niv.7
+266,Colis de Guilde Niv.8,54.99,€,Colis de Guilde Niv.8
+267,Colis de Guilde Niv.9,54.99,€,Colis de Guilde Niv.9
+275,Pack Quotidien 7,5.49,€,Pack Quotidien
+268,Pack d'Études I,5.49,€,Pack d'Études I
+269,Pack d'Études II,5.49,€,Pack d'Études II
+270,Pack d'Études III,10.99,€,Pack d'Études III
+271,Pack d'Études IV,21.99,€,Pack d'Études IV
+276,Offres Magiques 1,32.99,€,Offres Magiques 1
+277,Offres Magiques 2,74.99,€,Offres Magiques 2
+278,Offres Magiques 3,109.99,€,Offres Magiques 3
+279,Pack Personnalisé 1,54.99,€,Pack Personnalisé 1
+280,Personnalisé 2,21.99,€,Pack Personnalisé 2
+281,Pack Personnalisé 3,5.49,€,Pack Personnalisé 3
+282,Carte Mensuelle,10.99,€,Carte Mensuelle - Réduc. du 1er achat
+283,Petite Carte Mensuelle,2.29,€,Petite Carte Mensuelle - Réduc. du 1er achat
+284,Investissement de Test 4,54.99,€,Investissement de Test 4
+285,Provision d'Aventure,21.99,€,Provision d'Aventure
+286,Provision d'Aventure 1,5.49,€,Provision d'Aventure 1
+287,Provision d'Aventure 2,32.99,€,Provision d'Aventure 2
+288,Provision d'Aventure 3,54.99,€,Provision d'Aventure 3
+289,Provision d'Aventure 4,89.99,€,Provision d'Aventure 4
+290,Provision d'Aventure 5,109.99,€,Provision d'Aventure 5
+1700101,Offre Personnalisée Niv.25,2.29,€,Offre Personnalisée Niv.25
+1700201,Offre Personnalisée Niv.40,5.49,€,Offre Personnalisée Niv.40
+1700301,Offre Personnalisée Niv.53,10.99,€,Offre Personnalisée Niv.53
+1700401,Offre Personnalisée Niv.68,21.99,€,Offre Personnalisée Niv.68
+1700501,Offre Personnalisée Niv.85,32.99,€,Offre Personnalisée Niv.85
+1700601,Offre Personnalisée Niv.95,32.99,€,Offre Personnalisée Niv.95
+1700701,Offre Personnalisée Niv.110,54.99,€,Offre Personnalisée Niv.110
+1700801,Offre Personnalisée Niv.135,74.99,€,Offre Personnalisée Niv.135
+1700901,Offre Personnalisée Niv.140,109.99,€,Offre Personnalisée Niv.140
+1701001,Offre Personnalisée Niv.155,89.99,€,Offre Personnalisée Niv.155
+1701101,Offre Personnalisée Niv.165,89.99,€,Offre Personnalisée Niv.165
+1701201,Offre Personnalisée Niv.180,89.99,€,Offre Personnalisée Niv.180
+293,Pack d'Études I,1.09,€,Pack d'Études I
+294,Pack d'Études II,5.49,€,Pack d'Études II
+295,Pack d'Études III,10.99,€,Pack d'Études III
+296,Pack d'Études IV,21.99,€,Pack d'Études IV
+297,Offre de Guilde,32.99,€,Offre de Guilde
+299,Pack de la Rentrée Scolaire I,32.99,€,Pack de la Rentrée Scolaire I
+300,Pack de la Rentrée Scolaire II,54.99,€,Pack de la Rentrée Scolaire II
+301,Retour à l'Académie,32.99,€,Retour à l'Académie
+302,Carte Mensuelle (Retour),5.49,€,Carte Mensuelle (Retour)
+303,Passe de Luxe (Retour),2.29,€,Passe de Luxe (Retour)
+1701301,Offre Personnalisée Niv.15,2.29,€,Offre Personnalisée Niv.15
+1701401,Offre Personnalisée Niv.35,5.49,€,Offre Personnalisée Niv.35
+1701501,Offre Personnalisée Niv.48,10.99,€,Offre Personnalisée Niv.48
+1701601,Offre Personnalisée Niv.58,32.99,€,Offre Personnalisée Niv.58
+1701701,Offre Personnalisée Niv.78,32.99,€,Offre Personnalisée Niv.78
+1701801,Offre Personnalisée Niv.90,32.99,€,Offre Personnalisée Niv.90
+1701901,Offre Personnalisée Niv.115,32.99,€,Offre Personnalisée Niv.115
+1702001,Offre Personnalisée Niv.125,32.99,€,Offre Personnalisée Niv.125
+1702101,Offre Personnalisée Niv.100,54.99,€,Offre Personnalisée Niv.100
+1702201,Offre Personnalisée Niv.105,54.99,€,Offre Personnalisée Niv.105
+1702301,Offre Personnalisée Niv.120,54.99,€,Offre Personnalisée Niv.120
+1702401,Offre Personnalisée Niv.130,54.99,€,Offre Personnalisée Niv.130
+1702501,Offre Personnalisée Niv.145,54.99,€,Offre Personnalisée Niv.145
+1702601,Offre Personnalisée Niv.170,54.99,€,Offre Personnalisée Niv.170
+1702701,Offre Personnalisée Niv.150,74.99,€,Offre Personnalisée Niv.150
+1702801,Offre Personnalisée Niv.175,74.99,€,Offre Personnalisée Niv.175
+1702901,Offre Personnalisée Niv.190,74.99,€,Offre Personnalisée Niv.190
+1703001,Offre Personnalisée Niv.195,89.99,€,Offre Personnalisée Niv.195
+1703101,Offre Personnalisée Niv.160,109.99,€,Offre Personnalisée Niv.160
+1703201,Offre Personnalisée Niv.185,109.99,€,Offre Personnalisée Niv.185
+1703301,Offre Personnalisée Niv.200,109.99,€,Offre Personnalisée Niv.200
+304,Pack du 3ème Anniversaire,10.99,€,Pack du 3ème Anniversaire
+305,Pack du 3ème Anniversaire,21.99,€,Pack du 3ème Anniversaire

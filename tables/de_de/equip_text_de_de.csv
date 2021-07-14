@@ -1,0 +1,1674 @@
+id,name,suit_name,skin_text
+1011,Ritterschwert,,
+2011,Ritterrüstung,,
+3011,Ritterschild,,
+4011,Ritterrock,,
+1012,Heiliges Ritterschwert,,
+2012,Heilige Ritterrüstung,,
+3012,Heiliges Ritterschild,,
+4012,Heiliger Ritterrock,,
+1021,Volleyball,,
+2021,Sport Shirt,,
+3021,Sport Haarband,,
+4021,Sport Höschen,,
+1022,Super Volleyball,,
+2022,Super Sport Shirt,,
+3022,Super Sport Haarband,,
+4022,Super Sport Höschen,,
+1031,Wasserpistole,,
+2031,Bikini,,
+3031,Strand Hut,,
+4031,Schwimmhosen,,
+1032,Super Wasserpistole,,
+2032,Super Bikini,,
+3032,Großer Strand-Hut,,
+4032,Super Schwimmhöschen,,
+1033,Elite Wasserpistole,,
+2033,Elite Bikini,,
+3033,Elite Strandhut,,
+4033,Elite Schwimmhöschen,,
+1041,Schulbuch,,
+2041,Schuluniform,,
+3041,Schulfliege,,
+4041,Schulrock,,
+1042,Glänzendes Schulbuch,,
+2042,Glänzende Schuluniform,,
+3042,Glänzende Schulfliege,,
+4042,Glänzender Schulrock,,
+1043,Möhre,Häschenset,
+2043,Häschen Kostüm,Häschenset,
+3043,Häschen Ohren,Häschenset,
+4043,Häschen Schuhe,Häschenset,
+1044,Super Möhre,Super Häschenset,
+2044,Super Häschen Kostüm,Super Häschenset,
+3044,Super Häschen Ohren,Super Häschenset,
+4044,Super Häschen Schuhe,Super Häschenset,
+1051,Gitarre,Idol Set,
+2051,Konzert-Outfit,Idol Set,
+3051,Weiße Kopfhörer,Idol Set,
+4051,Punk-Schuhe,Idol Set,
+1052,Kuchen,Dienstmädchen-Set,
+2052,Schürze,Dienstmädchen-Set,
+3052,Dienstmädchen Haarband,Dienstmädchen-Set,
+4052,Dienstmädchen Schuhe,Dienstmädchen-Set,
+1053,Super Rucksack,Abenteuer Set,
+2053,Abenteuer Kostüm,Abenteuer Set,
+3053,Abenteuer Sonnenbrille,Abenteuer Set,
+4053,Abenteuer Hosen,Abenteuer Set,
+1054,Magischer Besen,Magisches Set,
+2054,Magisches Kleid,Magische Set,
+3054,Magischer Hut,Magisches Set,
+4054,Magische Schuhe,Magisches Set,
+1061,Federfächer,Kimono Set,
+2061,Feder Kimono,Kimono Set,
+3061,Feder Krawatte,Kimono Set,
+4061,Feder Sandalen,Kimono Set,
+1062,Klassischer Regenschirm,Klassisches Set,
+2062,Klassisches Kleid,Klassisches Set,
+3062,Klassische Haarnadel,Klassisches Set,
+4062,Klassische Schuhe,Klassisches Set,
+1063,Teddybär,Prinzessin Set,
+2063,Prinzessin Kleid,Prinzessin Set,
+3063,Prinzessin Krone,Prinzessin Set,
+4063,Prinzessin Schuhe,Prinzessin Set,
+1064,Elektrisches Schwert,Elektrik Set,
+2064,Elektrischer Anzug,Elektrik Set,
+3064,Elektrische Brille,Elektrik Set,
+4064,Elektrische Schuhe,Elektrik Set,
+1065,Dämonische Sichel,Dämonen Set,
+2065,Dämonischer Anzug,Dämonen Set,
+3065,Dämonische Haarnadel,Dämonen Set,
+4065,Dämonische Schuhe,Dämonen Set,
+1066,Engelsstab,Engels Set,
+2066,Engels Kleid,Engels Set,
+3066,Engels Band,Engels Set,
+4066,Engels Flügel,Engels Set,
+1999,Spezialausrüstung1,Spezialausrüstung,
+2999,Spezialausrüstung2,Spezialausrüstung,
+3999,Spezialausrüstung3,Spezialausrüstung,
+4999,Spezialausrüstung4,Spezialausrüstung,
+5101,Blauer Kristall,,
+5102,Blauer Kristall,,
+5103,Blauer Kristall,,
+5104,Blauer Kristall,,
+5105,Blauer Kristall,,
+5106,Blauer Kristall,,
+5107,Blauer Kristall,,
+5108,Blauer Kristall,,
+5109,Blauer Kristall,,
+5110,Blauer Kristall,,
+5111,Blauer Kristall,,
+5112,Blauer Kristall,,
+5113,Blauer Kristall,,
+5114,Blauer Kristall,,
+5115,Blauer Kristall,,
+5116,Blauer Kristall,,
+5201,Gelber Kristall,,
+5202,Gelber Kristall,,
+5203,Gelber Kristall,,
+5204,Gelber Kristall,,
+5205,Gelber Kristall,,
+5206,Gelber Kristall,,
+5207,Gelber Kristall,,
+5208,Gelber Kristall,,
+5209,Gelber Kristall,,
+5210,Gelber Kristall,,
+5211,Gelber Kristall,,
+5212,Gelber Kristall,,
+5213,Gelber Kristall,,
+5214,Gelber Kristall,,
+5215,Gelber Kristall,,
+5216,Gelber Kristall,,
+5301,Runenkristall,,
+5302,Runenkristall,,
+5303,Runenkristall,,
+5304,Runenkristall,,
+5305,Runenkristall,,
+5306,Runenkristall,,
+5307,Runenkristall,,
+5308,Runenkristall,,
+5309,Runenkristall,,
+5310,Runenkristall,,
+5311,Runenkristall,,
+5312,Runenkristall,,
+5313,Runenkristall,,
+5314,Runenkristall,,
+5315,Runenkristall,,
+5316,Runenkristall,,
+5317,Runenkristall,,
+5318,Runenkristall,,
+5319,Runenkristall,,
+5320,Runenkristall,,
+5321,Runenkristall,,
+5322,Runenkristall,,
+5323,Runenkristall,,
+5324,Runenkristall,,
+5401,Paradies-Kristall,,
+5402,Paradies-Kristall,,
+5403,Paradies-Kristall,,
+5404,Paradies-Kristall,,
+5405,Paradies-Kristall,,
+5406,Paradies-Kristall,,
+5407,Paradies-Kristall,,
+5408,Paradies-Kristall,,
+5409,Paradies-Kristall,,
+5410,Paradies-Kristall,,
+5411,Paradies-Kristall,,
+5412,Paradies-Kristall,,
+5413,Paradies-Kristall,,
+5414,Paradies-Kristall,,
+5415,Paradies-Kristall,,
+5416,Paradies-Kristall,,
+5417,Paradies-Kristall,,
+5418,Paradies-Kristall,,
+5419,Paradies-Kristall,,
+5420,Paradies-Kristall,,
+5421,Paradies-Kristall,,
+5422,Paradies-Kristall,,
+5423,Paradies-Kristall,,
+5424,Paradies-Kristall,,
+5501,Roter Achatkristall,,
+5502,Roter Achatkristall,,
+5503,Roter Achatkristall,,
+5504,Roter Achatkristall,,
+5505,Roter Achatkristall,,
+5506,Roter Achatkristall,,
+5507,Roter Achatkristall,,
+5508,Roter Achatkristall,,
+5509,Roter Achatkristall,,
+5510,Roter Achatkristall,,
+5511,Roter Achatkristall,,
+5512,Roter Achatkristall,,
+5513,Roter Achatkristall,,
+5514,Roter Achatkristall,,
+5515,Roter Achatkristall,,
+5516,Roter Achatkristall,,
+5517,Roter Achatkristall,,
+5518,Roter Achatkristall,,
+5519,Roter Achatkristall,,
+5520,Roter Achatkristall,,
+5521,Roter Achatkristall,,
+5522,Roter Achatkristall,,
+5523,Roter Achatkristall,,
+5524,Roter Achatkristall,,
+5525,Roter Achatkristall,,
+5526,Roter Achatkristall,,
+5527,Roter Achatkristall,,
+5528,Roter Achatkristall,,
+5529,Roter Achatkristall,,
+5530,Roter Achatkristall,,
+5531,Roter Achatkristall,,
+5532,Roter Achatkristall,,
+5533,Roter Achatkristall,,
+5534,Roter Achatkristall,,
+5535,Roter Achatkristall,,
+5536,Roter Achatkristall,,
+5537,Roter Achatkristall,,
+5538,Roter Achatkristall,,
+5539,Roter Achatkristall,,
+5540,Roter Achatkristall,,
+5541,Roter Achatkristall,,
+5542,Roter Achatkristall,,
+5543,Roter Achatkristall,,
+5544,Roter Achatkristall,,
+5545,Roter Achatkristall,,
+5546,Roter Achatkristall,,
+5601,Drachenjade,,
+5602,Drachenjade,,
+5603,Drachenjade,,
+5604,Drachenjade,,
+5605,Drachenjade,,
+5606,Drachenjade,,
+5607,Drachenjade,,
+5608,Drachenjade,,
+5609,Drachenjade,,
+5610,Drachenjade,,
+5611,Drachenjade,,
+5612,Drachenjade,,
+5613,Drachenjade,,
+5614,Drachenjade,,
+5615,Drachenjade,,
+5616,Drachenjade,,
+5617,Drachenjade,,
+5618,Drachenjade,,
+5619,Drachenjade,,
+5620,Drachenjade,,
+5621,Drachenjade,,
+5622,Drachenjade,,
+5623,Drachenjade,,
+5624,Drachenjade,,
+5625,Drachenjade,,
+5626,Drachenjade,,
+5627,Drachenjade,,
+5628,Drachenjade,,
+5629,Drachenjade,,
+5630,Drachenjade,,
+5631,Drachenjade,,
+5632,Drachenjade,,
+5633,Drachenjade,,
+5634,Drachenjade,,
+5635,Drachenjade,,
+5636,Drachenjade,,
+5637,Drachenjade,,
+5638,Drachenjade,,
+5639,Drachenjade,,
+5640,Drachenjade,,
+6000,Abendrot,,
+6001,Kreide,,
+6002,Hocker,,
+6003,Böse Machete,,
+6004,Warnleuchte,,
+6005,Zauberbuch für Anfänger,,
+6006,Kreide,,
+6007,Hocker,,
+6008,Böse Machete,,
+6009,Warnleuchte,,
+6010,Zauberbuch für Anfänger,,
+6011,Kreide,,
+6012,Hocker,,
+6013,Böse Machete,,
+6014,Warnleuchte,,
+6015,Zauberbuch für Anfänger,,
+6016,Kreide,,
+6017,Hocker,,
+6018,Böse Machete,,
+6019,Warnleuchte,,
+6020,Zauberbuch für Anfänger,,
+6021,Goldener Würfel,,
+6022,Silberne Krone,,
+6023,Hexenfluch,,
+6024,Universaltasche,,
+6025,Fortgeschrittener Zauberführer,,
+6026,Goldener Würfel,,
+6027,Silberne Krone,,
+6028,Hexenfluch,,
+6029,Universaltasche,,
+6030,Fortgeschrittener Zauberführer,,
+6031,Goldener Würfel,,
+6032,Silberne Krone,,
+6033,Hexenfluch,,
+6034,Universaltasche,,
+6035,Fortgeschrittener Zauberführer,,
+6036,Goldener Würfel,,
+6037,Silberne Krone,,
+6038,Hexenfluch,,
+6039,Universaltasche,,
+6040,Fortgeschrittener Zauberführer,,
+6041,Kleeblatt,,
+6042,Schleuder,,
+6043,Kuss des Schnees,,
+6044,Schwarzer Gürtel,,
+6045,Judo-Stirnband,,
+6046,Kleeblatt,,
+6047,Schleuder,,
+6048,Kuss des Schnees,,
+6049,Schwarzer Gürtel,,
+6050,Judo-Stirnband,,
+6051,Kleeblatt,,
+6052,Schleuder,,
+6053,Kuss des Schnees,,
+6054,Schwarzer Gürtel,,
+6055,Judo-Stirnband,,
+6056,Kleeblatt,,
+6057,Schleuder,,
+6058,Kuss des Schnees,,
+6059,Schwarzer Gürtel,,
+6060,Judo-Stirnband,,
+6061,Kleeblatt,,
+6062,Schleuder,,
+6063,Kuss des Schnees,,
+6064,Schwarzer Gürtel,,
+6065,Judo-Stirnband,,
+6066,Baseballschläger,,
+6067,Katana,,
+6068,Gedichte,,
+6069,Drachenzähne,,
+6070,Öltank,,
+6071,Lederschuhe,,
+6072,Baseballschläger,,
+6073,Katana,,
+6074,Gedichte,,
+6075,Drachenzähne,,
+6076,Öltank,,
+6077,Lederschuhe,,
+6078,Baseballschläger,,
+6079,Katana,,
+6080,Gedichte,,
+6081,Drachenzähne,,
+6082,Öltank,,
+6083,Lederschuhe,,
+6084,Baseballschläger,,
+6085,Katana,,
+6086,Gedichte,,
+6087,Drachenzähne,,
+6088,Öltank,,
+6089,Lederschuhe,,
+6090,Baseballschläger,,
+6091,Katana,,
+6092,Gedichte,,
+6093,Drachenzähne,,
+6094,Öltank,,
+6095,Lederschuhe,,
+6096,Engelsstab,,
+6097,Flammenfeder,,
+6098,Dämonische Klinge,,
+6099,Blitz-Rune,,
+6100,Mutiges Herz,,
+6101,Spitzen-Strumpf,,
+6102,Kirschblüten,,
+6103,Tanzende Maske,,
+6104,Königin des Pokers,,
+6105,Axt des Schnees,,
+6106,Weihnachtsbaum,,
+6107,Donnerherz,,
+6108,Supertrank,,
+6109,Seelenanhänger,,
+6110,Gabriels Lied,,
+6111,Dämonisches Buch,,
+6112,Schicksalskreuz,,
+6113,Feenhafte Krone,,
+6114,Katzenhut,,
+6115,Strumpfband,,
+6116,Beachvolleyball,,
+6117,Herz-Ohrring,,
+6118,Engelsstab,,
+6119,Flammenfeder,,
+6120,Dämonische Klinge,,
+6121,Blitz-Rune,,
+6122,Mutiges Herz,,
+6123,Spitzen-Strumpf,,
+6124,Kirschblüten,,
+6125,Tanzende Maske,,
+6126,Königin des Pokers,,
+6127,Axt des Schnees,,
+6128,Weihnachtsbaum,,
+6129,Donnerherz,,
+6130,Supertrank,,
+6131,Seelenanhänger,,
+6132,Gabriels Lied,,
+6133,Dämonisches Buch,,
+6134,Schicksalskreuz,,
+6135,Feenhafte Krone,,
+6136,Katzenhut,,
+6137,Strumpfband,,
+6138,Beachvolleyball,,
+6139,Herz-Ohrring,,
+6140,Engelsstab,,
+6141,Flammenfeder,,
+6142,Dämonische Klinge,,
+6143,Blitz-Rune,,
+6144,Mutiges Herz,,
+6145,Spitzen-Strumpf,,
+6146,Kirschblüten,,
+6147,Tanzende Maske,,
+6148,Königin des Pokers,,
+6149,Axt des Schnees,,
+6150,Weihnachtsbaum,,
+6151,Donnerherz,,
+6152,Supertrank,,
+6153,Seelenanhänger,,
+6154,Gabriels Lied,,
+6155,Dämonisches Buch,,
+6156,Schicksalskreuz,,
+6157,Feenhafte Krone,,
+6158,Katzenhut,,
+6159,Strumpfband,,
+6160,Beachvolleyball,,
+6161,Herz-Ohrring,,
+6162,Engelsstab,,
+6163,Flammenfeder,,
+6164,Dämonische Klinge,,
+6165,Blitz-Rune,,
+6166,Mutiges Herz,,
+6167,Spitzen-Strumpf,,
+6168,Kirschblüten,,
+6169,Tanzende Maske,,
+6170,Königin des Pokers,,
+6171,Axt des Schnees,,
+6172,Weihnachtsbaum,,
+6173,Donnerherz,,
+6174,Supertrank,,
+6175,Seelenanhänger,,
+6176,Gabriels Lied,,
+6177,Dämonisches Buch,,
+6178,Schicksalskreuz,,
+6179,Feenhafte Krone,,
+6180,Katzenhut,,
+6181,Strumpfband,,
+6182,Beachvolleyball,,
+6183,Herz-Ohrring,,
+6184,Engelsstab,,
+6185,Flammenfeder,,
+6186,Dämonische Klinge,,
+6187,Blitz-Rune,,
+6188,Mutiges Herz,,
+6189,Spitzen-Strumpf,,
+6190,Kirschblüten,,
+6191,Tanzende Maske,,
+6192,Königin des Pokers,,
+6193,Axt des Schnees,,
+6194,Weihnachtsbaum,,
+6195,Donnerherz,,
+6196,Supertrank,,
+6197,Seelenanhänger,,
+6198,Gabriels Lied,,
+6199,Dämonisches Buch,,
+6200,Schicksalskreuz,,
+6201,Feenhafte Krone,,
+6202,Katzenhut,,
+6203,Strumpfband,,
+6204,Beachvolleyball,,
+6205,Herz-Ohrring,,
+6206,Engelsstab,,
+6207,Flammenfeder,,
+6208,Dämonische Klinge,,
+6209,Blitz-Rune,,
+6210,Mutiges Herz,,
+6211,Spitzen-Strumpf,,
+6212,Kirschblüten,,
+6213,Tanzende Maske,,
+6214,Königin des Pokers,,
+6215,Axt des Schnees,,
+6216,Weihnachtsbaum,,
+6217,Donnerherz,,
+6218,Supertrank,,
+6219,Seelenanhänger,,
+6220,Gabriels Lied,,
+6221,Dämonisches Buch,,
+6222,Schicksalskreuz,,
+6223,Feenhafte Krone,,
+6224,Katzenhut,,
+6225,Strumpfband,,
+6226,Beachvolleyball,,
+6227,Herz-Ohrring,,
+6228,Geishas Segen,,
+6229,Räucherfass,,
+6230,Muramasa,,
+6231,Wut der Flamme,,
+6232,Allheilmittel,,
+6233,Kraft des Windes,,
+6234,Schneeball,,
+6235,Schwarzer magischer Hut,,
+6236,Schicksalsführer,,
+6237,Siegelschwert·Geister,,
+6238,Schmerzfessel·Geister,,
+6239,Dornenschild·Geister,,
+6240,Siegelherz·Mensch,,
+6241,Dämonenblut·Mensch,,
+6242,Bogen aus Schnee,,
+6243,Siegelschwert·Monster,,
+6244,Schmerzfessel·Monster,,
+6245,Dornenschild·Monster,,
+6246,Siegelherz·Fee,,
+6247,Krone der Königin,,
+6248,Dämonische Flügel,,
+6249,Schicksalsspiegel,,
+6250,Unsichtbarer Umhang,,
+6251,Geishas Segen,,
+6252,Räucherfass,,
+6253,Muramasa,,
+6254,Wut der Flamme,,
+6255,Allheilmittel,,
+6256,Kraft des Windes,,
+6257,Schneeball,,
+6258,Schwarzer magischer Hut,,
+6259,Schicksalsführer,,
+6260,Siegelschwert·Geister,,
+6261,Schmerzfessel·Geister,,
+6262,Dornenschild·Geister,,
+6263,Siegelherz·Mensch,,
+6264,Dämonenblut·Mensch,,
+6265,Bogen aus Schnee,,
+6266,Siegelschwert·Monster,,
+6267,Schmerzfessel·Monster,,
+6268,Dornenschild·Monster,,
+6269,Siegelherz·Fee,,
+6270,Krone der Königin,,
+6271,Dämonische Flügel,,
+6272,Schicksalsspiegel,,
+6273,Unsichtbarer Umhang,,
+6274,Geishas Segen,,
+6275,Räucherfass,,
+6276,Muramasa,,
+6277,Wut der Flamme,,
+6278,Allheilmittel,,
+6279,Kraft des Windes,,
+6280,Schneeball,,
+6281,Schwarzer magischer Hut,,
+6282,Schicksalsführer,,
+6283,Siegelschwert·Geister,,
+6284,Schmerzfessel·Geister,,
+6285,Dornenschild·Geister,,
+6286,Siegelherz·Mensch,,
+6287,Dämonenblut·Mensch,,
+6288,Bogen aus Schnee,,
+6289,Siegelschwert·Monster,,
+6290,Schmerzfessel·Monster,,
+6291,Dornenschild·Monster,,
+6292,Siegelherz·Fee,,
+6293,Krone der Königin,,
+6294,Dämonische Flügel,,
+6295,Schicksalsspiegel,,
+6296,Unsichtbarer Umhang,,
+6297,Geishas Segen,,
+6298,Räucherfass,,
+6299,Muramasa,,
+6300,Wut der Flamme,,
+6301,Allheilmittel,,
+6302,Kraft des Windes,,
+6303,Schneeball,,
+6304,Schwarzer magischer Hut,,
+6305,Schicksalsführer,,
+6306,Siegelschwert·Geister,,
+6307,Schmerzfessel·Geister,,
+6308,Dornenschild·Geister,,
+6309,Siegelherz·Mensch,,
+6310,Dämonenblut·Mensch,,
+6311,Bogen aus Schnee,,
+6312,Siegelschwert·Monster,,
+6313,Schmerzfessel·Monster,,
+6314,Dornenschild·Monster,,
+6315,Siegelherz·Fee,,
+6316,Krone der Königin,,
+6317,Dämonische Flügel,,
+6318,Schicksalsspiegel,,
+6319,Unsichtbarer Umhang,,
+6320,Geishas Segen,,
+6321,Räucherfass,,
+6322,Muramasa,,
+6323,Wut der Flamme,,
+6324,Allheilmittel,,
+6325,Kraft des Windes,,
+6326,Schneeball,,
+6327,Schwarzer magischer Hut,,
+6328,Schicksalsführer,,
+6329,Siegelschwert·Geister,,
+6330,Schmerzfessel·Geister,,
+6331,Dornenschild·Geister,,
+6332,Siegelherz·Mensch,,
+6333,Dämonenblut·Mensch,,
+6334,Bogen aus Schnee,,
+6335,Siegelschwert·Monster,,
+6336,Schmerzfessel·Monster,,
+6337,Dornenschild·Monster,,
+6338,Siegelherz·Fee,,
+6339,Krone der Königin,,
+6340,Dämonische Flügel,,
+6341,Schicksalsspiegel,,
+6342,Unsichtbarer Umhang,,
+6343,Geishas Segen,,
+6344,Räucherfass,,
+6345,Muramasa,,
+6346,Wut der Flamme,,
+6347,Allheilmittel,,
+6348,Kraft des Windes,,
+6349,Schneeball,,
+6350,Schwarzer magischer Hut,,
+6351,Schicksalsführer,,
+6352,Siegelschwert·Geister,,
+6353,Schmerzfessel·Geister,,
+6354,Dornenschild·Geister,,
+6355,Siegelherz·Mensch,,
+6356,Dämonenblut·Mensch,,
+6357,Bogen aus Schnee,,
+6358,Siegelschwert·Monster,,
+6359,Schmerzfessel·Monster,,
+6360,Dornenschild·Monster,,
+6361,Siegelherz·Fee,,
+6362,Krone der Königin,,
+6363,Dämonische Flügel,,
+6364,Schicksalsspiegel,,
+6365,Unsichtbarer Umhang,,
+6366,Obstkuchen,,
+6367,Obstkuchen,,
+6368,Obstkuchen,,
+6369,Obstkuchen,,
+6370,Obstkuchen,,
+6371,Magischer Ziegel,,
+6372,Magischer Ziegel,,
+6373,Magischer Ziegel,,
+6374,Magischer Ziegel,,
+6375,Magischer Ziegel,,
+6376,Magischer Ziegel,,
+6377,Sand der Zeit,,
+6378,Sand der Zeit,,
+6379,Sand der Zeit,,
+6380,Sand der Zeit,,
+6381,Sand der Zeit,,
+6382,Sand der Zeit,,
+6383,Sanfter Ritter,,
+6384,Sanfter Ritter,,
+6385,Sanfter Ritter,,
+6386,Sanfter Ritter,,
+6387,Sanfter Ritter,,
+6388,Sanfter Ritter,,
+6389,Leben und Tod,,
+6390,Leben und Tod,,
+6391,Leben und Tod,,
+6392,Leben und Tod,,
+6393,Leben und Tod,,
+6394,Leben und Tod,,
+6395,Schlüssel der Gedanken,,
+6396,Schlüssel der Gedanken,,
+6397,Schlüssel der Gedanken,,
+6398,Schlüssel der Gedanken,,
+6399,Schlüssel der Gedanken,,
+6400,Schlüssel der Gedanken,,
+6401,Schweizer Taschenmesser,,
+6402,Schweizer Taschenmesser,,
+6403,Schweizer Taschenmesser,,
+6404,Schweizer Taschenmesser,,
+6405,Schweizer Taschenmesser,,
+6406,Schweizer Taschenmesser,,
+6407,Wahrnehmungsuhr,,
+6408,Wahrnehmungsuhr,,
+6409,Wahrnehmungsuhr,,
+6410,Wahrnehmungsuhr,,
+6411,Wahrnehmungsuhr,,
+6412,Wahrnehmungsuhr,,
+6413,Richtschwert,,
+6414,Richtschwert,,
+6415,Richtschwert,,
+6416,Richtschwert,,
+6417,Richtschwert,,
+6418,Richtschwert,,
+6419,Gleichgewicht,,
+6420,Gleichgewicht,,
+6421,Gleichgewicht,,
+6422,Gleichgewicht,,
+6423,Gleichgewicht,,
+6424,Gleichgewicht,,
+6425,Schlüssel zum Himmel,,
+6426,Schlüssel zum Himmel,,
+6427,Schlüssel zum Himmel,,
+6428,Schlüssel zum Himmel,,
+6429,Schlüssel zum Himmel,,
+6430,Schlüssel zum Himmel,,
+6431,Schicksalskristall,,
+6432,Schicksalskristall,,
+6433,Schicksalskristall,,
+6434,Schicksalskristall,,
+6435,Schicksalskristall,,
+6436,Schicksalskristall,,
+6437,Die Flügel des Ikarus,,
+6438,Die Flügel des Ikarus,,
+6439,Die Flügel des Ikarus,,
+6440,Die Flügel des Ikarus,,
+6441,Die Flügel des Ikarus,,
+6442,Die Flügel des Ikarus,,
+7001,Sonnenbaden,,Bitte... unterbrich mich nicht... ich möchte mich nur entspannen... den ganzen Tag.
+7002,Nr. Alpha,,"Die Kraft, die fähig ist, die Welt zu erschaffen und umzugestalten, wird mir helfen, den Campus zu erobern."
+7003,Seeprinzessin,,Fisch ist immer noch Fleisch!
+7004,Schicksalslinie,,Schicksal…eine rote Linie… Heißt das Glück?
+7005,Hexenanzug,,Neues Festivalkostüm? Sieht gut aus... Lass uns nachdem Blutbeutel sehen.
+7006,Kampfelite,,Hey du! Willst du kämpfen?! Lass dich von meiner Granate in die Luft jagen!
+7007,Karate Meister,,Du willst Karate lernen? Lass mich dich unterrichten ~
+7008,Wunderland,,Es gibt so viele fantastische Kuriositäten im Kaninchenbau! Warte... Träume ich?
+7009,Eisprinzessin,,"Es ist mir egal, was sie sagen, lass den Sturm wüten! Die Kälte hat mich sowieso nie gestört!"
+7010,Weihnachtsmarkt,,"Komm her und hilf mir, diesen Weihnachtsbaum zu schmücken. Ich werde Michaela ~ überraschen"
+7011,Wichtelelf,,Hier ist dein Weihnachtsgeschenk! Halte es mit beiden Händen fest ~
+7012,Winterland,,Da! Ein Baum aus Eis! Natur kann so schön sein!
+7013,Frostige Ritterin,,Ritter kämpfen für ihre Träume. Ich kämpfe um die Welt zu schützen.
+7014,Neujahrskleid,,Es ist wirklich eine schöne Nacht und wir speisen bei Kerzenlicht.
+7015,Schatz,,Dank dir bin ich dieses Mal nicht allein!
+7016,Rosa Schatz,,"Hmmm, ich denke du brauchst eine Lektion ~ Komm her!!"
+7017,Kirschblüten-Regen,,Wie schnell fallen Kirschblüten auf die Straße? Auch das habe ich in meine Berechnungen mit einbezogen.
+7018,Nachtrose,,Die Rosen bei Nacht sehen wirklich schön aus ~
+7019,Tagundnachtgleiche,,"Danke, dass du mir Licht bringst. Ich mag es wirklich ~"
+7020,Scharlachrot,,"Da du mich geschlagen hast, werde ich mein Versprechen einhalten, und einen Eid leisten!"
+7021,Pinkes Lob,,"Danke, dass du dich immer um mich gekümmert hast. Sen.... Senpai. Ich hoffe du hilfst mir weiterhin ~"
+7022,Eisrose,,"Du und ich sind fürs Leben, wir werden immer füreinander da sein."
+7023,Weiße Rose,,"Mit diesem Ring gebe ich dir mein Herz, du sollst niemals mehr alleine sein."
+7024,Blüte,,"Liebenswerter Fuchs, bist du wegen den Kirschblüten hier? Komm und trinke Wein mit mir!"
+7025,Osterjägerin,,Fühle die Wärme des Frühlings durch die Ostereier~
+7026,Liebeslied,,Diese leichte Brise trägt einen Hauch von Romantik.
+7027,Rote Rose,,Ein Weg führt zu einem Garten voller Rosen. Der andere führt direkt in die Hölle. Welchen Weg wirst du nehmen?
+7028,Miau-Killer,,"Miau ~ Wenn du meine Hilfe brauchst, frag einfach ~\n(= ￣ω￣ =)"
+7029,Engelsprüferin,,"Ich bin Michaela, die Engelsprüferin, wenn du Fragen hast, zögere nicht!"
+7030,Menschenprüferin,,"Also bist du der nächste? Du hast keine Zeit dich auf meine Test vorzubereiten, Versprochen!"
+7031,Zongzi-Trägerin,,"Was für köstliche Reisbällchen! Willst du etwas essen? ~~ Warte, Bruno, es ist heiß!"
+7032,Monsterprüferin,,Komm! Zeig mir was du hast!
+7033,Sommerwind,,Willst du mit mir Volleyball spielen? Ich werde keine Gnade zeigen!
+7034,Azurblaues Meer,,Badeanzug? Es passt gut zum Meer. Willst du mit Wasser spielen?
+7035,Dämonenprüferin,,"Die Prüfung beginnt jetzt! Ich freue mich darauf zu sehen, wie deine Seele leidet..."
+1166,Kriegerschwert,,
+2166,Krieger Rüstung,,
+3166,Krieger Helm,,
+4166,Krieger-Beinschienen,,
+1266,Magier Sachen,,
+2266,Magier Kleidung,,
+3266,Magier Zubehör,,
+4266,Magier Flügel,,
+1366,Ranger Sachen,,
+2366,Ranger Kleidung,,
+3366,Ranger-Zubehör,,
+4366,Ranger Flügel,,
+1466,Mörder Dolch,,
+2466,Mörder Haube,,
+3466,Mörder Ring,,
+4466,Mörder Schuhe,,
+1566,Priestertrank,,
+2566,Priester-Robe,,
+3566,Priester-Kreuz,,
+4566,Priester-Schuhe,,
+6443,Dornenherz,,
+6444,Dornenherz,,
+6445,Dornenherz,,
+6446,Dornenherz,,
+6447,Dornenherz,,
+6448,Dornenherz,,
+7036,Spielverderber,,Was? Party? Ich bin dabei!
+7037,Honig-Göttin,,Komm! Nimm was du willst ~
+7038,Wellenreiterin,,Meine Klinge ist nicht aufzuhalten! Nicht einmal die Welle kann ihr standhalten!
+7039,Göttliche Braut,,"Es ist das Schicksal, das uns zusammenbringt, und der Moment, in dem wir uns begegnet sind, der eine Ewigkeit an Dauert."
+7040,Rosenquarz,,"Ich hoffe du magst dieses Kleid... ich habe nie eins gebraucht, bis ich dich traf."
+7041,Meeresbrise,,Meine Pfeile finden immer ihr Ziel- auch eine Welle kann ihnen nichts entgegensetzen.
+7042,Feenprüferin,,"Der Test wird nicht einfach, bist du bereit?"
+7043,Sommerfantasie,,"Schau nicht so! Es so peinlich, so gesehen zu werden..."
+7044,Weißer Kimono,,"Du gibst mir so einen Mantel, weißt du was es bedeutet, nein?"
+7045,Geisterprüferin,,Warum muss ich den Test durchführen?
+7046,Reine Feder,,Warum bist du so überrascht? Passt dieses Kleid nicht zu mir?
+7047,Verlockung,,"Wer zuerst betrunken ist, muss dem anderen einen Wunsch erfüllen ~"
+7048,Ewige Flamme,,Mein Herz ist voller Liebe... spürst du diese Hitze auch?
+7049,Anmutiger Schleier,,"Ich möchte wirklich nicht von so vielen Menschen gesehen werden, aber ich werde... nur für dich."
+5641,Drachenjade,,
+5642,Drachenjade,,
+5643,Drachenjade,,
+5644,Drachenjade,,
+5645,Drachenjade,,
+5646,Drachenjade,,
+5647,Drachenjade,,
+5648,Drachenjade,,
+5649,Drachenjade,,
+5650,Drachenjade,,
+5651,Drachenjade,,
+5652,Drachenjade,,
+5653,Drachenjade,,
+5654,Drachenjade,,
+5655,Drachenjade,,
+5656,Drachenjade,,
+5657,Drachenjade,,
+5658,Drachenjade,,
+5659,Drachenjade,,
+5660,Drachenjade,,
+7050,Düstere Musik,,"Es lohnt sich nicht, sich zu verstecken oder so zu tun! Meine Musik offenbart meinen inneren Wahnsinn!"
+7051,Rock-Konzert,,"Ich gehöre zu dem Künstler, in dem sich die alten Wege dem neuen angeschlossen haben!"
+7052,Trommel rollen,,"Wenn meine Trommelstöcke auf der Oberfläche der Trommeln landen, berühren sie auch die Seelen der Zuhörer!"
+6449,Fusionsschirm,,"
+Der Legende nach wurde diese künstliche Antiquität vom Handwerker Alberta hergestellt. Neben Yume-Technologie wurden noch andere unbekannte und gefährliche Technologien verwandt. 
+
+Dieser Schirm kann seine Form verändern und sich somit den verschiedenen Situation einer Schlacht anpassen. Wenn der Schirm geöffnet ist, kann man die von Alberta auf die Innenseite gemalte Sternenkarte sehen. 
+
+Die eigentliche Aufgabe eines Schirms ist es uns von Dingen, die vom Himmel kommen, zu beschützen. Mit dem Bemalen der Sternenkarte im Regenschirm möchte Alberta die Tatsache zum Ausdruck bringen, dass der wahre Feind von jenseits des Himmels kommt."
+6450,Fusionsschirm,,"
+Der Legende nach wurde diese künstliche Antiquität vom Handwerker Alberta hergestellt. Neben Yume-Technologie wurden noch andere unbekannte und gefährliche Technologien verwandt. 
+
+Dieser Schirm kann seine Form verändern und sich somit den verschiedenen Situation einer Schlacht anpassen. Wenn der Schirm geöffnet ist, kann man die von Alberta auf die Innenseite gemalte Sternenkarte sehen. 
+
+Die eigentliche Aufgabe eines Schirms ist es uns von Dingen, die vom Himmel kommen, zu beschützen. Mit dem Bemalen der Sternenkarte im Regenschirm möchte Alberta die Tatsache zum Ausdruck bringen, dass der wahre Feind von jenseits des Himmels kommt."
+6451,Fusionsschirm,,"
+Der Legende nach wurde diese künstliche Antiquität vom Handwerker Alberta hergestellt. Neben Yume-Technologie wurden noch andere unbekannte und gefährliche Technologien verwandt. 
+
+Dieser Schirm kann seine Form verändern und sich somit den verschiedenen Situation einer Schlacht anpassen. Wenn der Schirm geöffnet ist, kann man die von Alberta auf die Innenseite gemalte Sternenkarte sehen. 
+
+Die eigentliche Aufgabe eines Schirms ist es uns von Dingen, die vom Himmel kommen, zu beschützen. Mit dem Bemalen der Sternenkarte im Regenschirm möchte Alberta die Tatsache zum Ausdruck bringen, dass der wahre Feind von jenseits des Himmels kommt."
+6452,Fusionsschirm,,"
+Der Legende nach wurde diese künstliche Antiquität vom Handwerker Alberta hergestellt. Neben Yume-Technologie wurden noch andere unbekannte und gefährliche Technologien verwandt. 
+
+Dieser Schirm kann seine Form verändern und sich somit den verschiedenen Situation einer Schlacht anpassen. Wenn der Schirm geöffnet ist, kann man die von Alberta auf die Innenseite gemalte Sternenkarte sehen. 
+
+Die eigentliche Aufgabe eines Schirms ist es uns von Dingen, die vom Himmel kommen, zu beschützen. Mit dem Bemalen der Sternenkarte im Regenschirm möchte Alberta die Tatsache zum Ausdruck bringen, dass der wahre Feind von jenseits des Himmels kommt."
+6453,Fusionsschirm,,"
+Der Legende nach wurde diese künstliche Antiquität vom Handwerker Alberta hergestellt. Neben Yume-Technologie wurden noch andere unbekannte und gefährliche Technologien verwandt. 
+
+Dieser Schirm kann seine Form verändern und sich somit den verschiedenen Situation einer Schlacht anpassen. Wenn der Schirm geöffnet ist, kann man die von Alberta auf die Innenseite gemalte Sternenkarte sehen. 
+
+Die eigentliche Aufgabe eines Schirms ist es uns von Dingen, die vom Himmel kommen, zu beschützen. Mit dem Bemalen der Sternenkarte im Regenschirm möchte Alberta die Tatsache zum Ausdruck bringen, dass der wahre Feind von jenseits des Himmels kommt."
+6454,Fusionsschirm,,"
+Der Legende nach wurde diese künstliche Antiquität vom Handwerker Alberta hergestellt. Neben Yume-Technologie wurden noch andere unbekannte und gefährliche Technologien verwandt. 
+
+Dieser Schirm kann seine Form verändern und sich somit den verschiedenen Situation einer Schlacht anpassen. Wenn der Schirm geöffnet ist, kann man die von Alberta auf die Innenseite gemalte Sternenkarte sehen. 
+
+Die eigentliche Aufgabe eines Schirms ist es uns von Dingen, die vom Himmel kommen, zu beschützen. Mit dem Bemalen der Sternenkarte im Regenschirm möchte Alberta die Tatsache zum Ausdruck bringen, dass der wahre Feind von jenseits des Himmels kommt."
+7053,Tiefes Brüllen,,Der Klang meines Basses wird dich überwältigen!
+7054,Haus-Kaninchen,,"Ah! Ich muss den Mondkuchen aufessen, bevor eine neue Runde beginnt!"
+7055,Geheime Operation,,"Ich bin mächtig, ich bin Gerechtigkeit!"
+7056,Grimoire,,"Mach noch einen Schritt und ich werde nicht zögern, dich einzufrieren oder zu sprengen!"
+7057,Strahlende Feder,,In meinem Feuer werden eure Sünden verbrennen!
+7058,Neubeginn,,Iron Fist Neubeginn-Kostüm
+7059,Herbst,,"Willst du mit mir den roten Ahorn bewundern gehen, wenn der Regen vorbei ist, Senpai?"
+7060,Hasenöhrchen,,Senpai willst du unter den Kastanienbäumen und den goldroten Herbstblättern mit mir spielen?
+7061,Süßes oder Saures,,"Süßes oder Saures! Senpai, schnell gib mir deine Süßigkeiten!"
+7062,Charmante Zauberin,,"Senpai, willst du den fantastischen Ausblick vom Himmel aus genießen? Nur du und ich~"
+7063,Komet,,"Warum kann man mit einer Flamme andere einfrieren? Senpai, du weißt so viele Dinge."
+7064,Sternschnuppe,,"Senpai, die Sternschnuppen werden mir verraten, welchen Wunsch du an sie geschickt hast."
+7065,Cyberangriff,,Alle Feinde müssen zerstört werden!
+7066,Fallende Blüten,,"Senpai, das ist das erste Mal, dass ich so ein Kleid trage. Gefällt es dir…?"
+7067,Leichte Brise,,Du bist wohl nicht gewöhnt in heißen Quellen zu baden? Mein Fächer kann dir eine kühle Brise spenden!
+7068,Heiße Quellen,,"Keine Sorge, es ist nur Kokosnusssaft!"
+7069,Verlockende Hitze,,"Willst du auch ein Glas trinken?… Ah~Tut mir leid, ich habe den Wein verschütttet. Kannst du mir helfen es abzuwaschen~"
+7070,Heißes Bad,,Kannst du mir bitte mein Kleid reichen~
+7071,Sylphe,,Fliegt meine Vögelchen! Ihr alle seid meine Flügel!
+7072,Nymphe,,Das Ende der Reise ist am Ende des Meeres~
+7073,Xmas Geschenke,,Wir haben dir das Beste Geschenk von allen gebracht. Unsere Gesellschaft~
+7074,Xmas-Mädchen,,Es ist wirklich ein kaltes Weihnachten~Deine Hände sind schon ganz rot vor Kälte. Lass sie mich dir wärmen~Sei nicht schüchtern und entspann dich~
+6455,Zwillingsstäbe,,"
+Zwei Zauberstäbe, die von den Zwillingen Esau und Jakob verwendet werden. Wie ihre Besitzer verkörpern die beiden Zauberstäbe komplett unterschiedliche Magie. 
+
+Es ist allen auf dem Campus gekannt, dass unterschiedliche magische Kräfte nicht koexitieren können. Dennoch ist die Magie von Esau und Jakob eng miteinander verschlungen. Dies ist natürlich mit einem hohen Preis verbunden, aber dessen sind sich die Beiden bewusst. 
+
+Vielleicht ist es ihr ""Schicksal"" auf einer fremden Bühne eine Rolle, die sie nicht selber wählten, zu spielen."
+6456,Zwillingsstäbe,,"
+Zwei Zauberstäbe, die von den Zwillingen Esau und Jakob verwendet werden. Wie ihre Besitzer verkörpern die beiden Zauberstäbe komplett unterschiedliche Magie. 
+
+Es ist allen auf dem Campus gekannt, dass unterschiedliche magische Kräfte nicht koexitieren können. Dennoch ist die Magie von Esau und Jakob eng miteinander verschlungen. Dies ist natürlich mit einem hohen Preis verbunden, aber dessen sind sich die Beiden bewusst. 
+
+Vielleicht ist es ihr ""Schicksal"" auf einer fremden Bühne eine Rolle, die sie nicht selber wählten, zu spielen."
+6457,Zwillingsstäbe,,"
+Zwei Zauberstäbe, die von den Zwillingen Esau und Jakob verwendet werden. Wie ihre Besitzer verkörpern die beiden Zauberstäbe komplett unterschiedliche Magie. 
+
+Es ist allen auf dem Campus gekannt, dass unterschiedliche magische Kräfte nicht koexitieren können. Dennoch ist die Magie von Esau und Jakob eng miteinander verschlungen. Dies ist natürlich mit einem hohen Preis verbunden, aber dessen sind sich die Beiden bewusst. 
+
+Vielleicht ist es ihr ""Schicksal"" auf einer fremden Bühne eine Rolle, die sie nicht selber wählten, zu spielen."
+6458,Zwillingsstäbe,,"
+Zwei Zauberstäbe, die von den Zwillingen Esau und Jakob verwendet werden. Wie ihre Besitzer verkörpern die beiden Zauberstäbe komplett unterschiedliche Magie. 
+
+Es ist allen auf dem Campus gekannt, dass unterschiedliche magische Kräfte nicht koexitieren können. Dennoch ist die Magie von Esau und Jakob eng miteinander verschlungen. Dies ist natürlich mit einem hohen Preis verbunden, aber dessen sind sich die Beiden bewusst. 
+
+Vielleicht ist es ihr ""Schicksal"" auf einer fremden Bühne eine Rolle, die sie nicht selber wählten, zu spielen."
+6459,Zwillingsstäbe,,"
+Zwei Zauberstäbe, die von den Zwillingen Esau und Jakob verwendet werden. Wie ihre Besitzer verkörpern die beiden Zauberstäbe komplett unterschiedliche Magie. 
+
+Es ist allen auf dem Campus gekannt, dass unterschiedliche magische Kräfte nicht koexitieren können. Dennoch ist die Magie von Esau und Jakob eng miteinander verschlungen. Dies ist natürlich mit einem hohen Preis verbunden, aber dessen sind sich die Beiden bewusst. 
+
+Vielleicht ist es ihr ""Schicksal"" auf einer fremden Bühne eine Rolle, die sie nicht selber wählten, zu spielen."
+6460,Zwillingsstäbe,,"
+Zwei Zauberstäbe, die von den Zwillingen Esau und Jakob verwendet werden. Wie ihre Besitzer verkörpern die beiden Zauberstäbe komplett unterschiedliche Magie. 
+
+Es ist allen auf dem Campus gekannt, dass unterschiedliche magische Kräfte nicht koexitieren können. Dennoch ist die Magie von Esau und Jakob eng miteinander verschlungen. Dies ist natürlich mit einem hohen Preis verbunden, aber dessen sind sich die Beiden bewusst. 
+
+Vielleicht ist es ihr ""Schicksal"" auf einer fremden Bühne eine Rolle, die sie nicht selber wählten, zu spielen."
+7075,Winterprinzessin,,Der Winter ist wirklich eine schöne Jahreszeit. Willst du auch im Schneesturm tanzen?
+7076,Eiskönigin,,"Bald wirst du herausfinden, dass mein Speer kälter ist als Eis!"
+7077,Kaffeepause,,"Im kalten Winter eine heiße Tasse Kaffee zu trinken, lässt einen wirklich entspannen~Willst du mal probieren? Hier nimm diese Tasse, ich mache mir noch einen~"
+7078,Löwentanz,,"Rarrr! Die kleinen Mäuse laufen vor mir in alle Himmelsrichtungen davon! Miao, Haha~"
+6461,Brennende Klinge,,"
+Mit Ketten verbundene Sicheln, die im heiligen Feuer geschmiedet wurden und ihre wahre Kraft nur entfalten, wenn Kira sie verwendet. 
+
+Kiras Kampfstil erinnert an einen Tanz geprägt durch grazile Sprünge und Drehungen, der eine Feuerspur in der Luft hinterlässt. Diese Bewegungen sind geprägt durch das Leben mit den Jägern im Wald. 
+
+Zwar ist der Wald bereits verschwunden, doch erlischt das Feuer der Jäger niemals. Auch Kira ist mit dem Herzen immer bei ihrem Gott——Vielleicht ist auch der tanzende Kampfstil ein Opfer für ihren Gott. Selbst in der dunkelsten Stunde beschwert sich Kira nicht, sondern schwingt ihre Sicheln, um ihre Geschwister zu beschützen und das Chaos zu besiegen. Auch hofft sie zutiefst auf die Rückkehr ihre Gottes."
+6462,Brennende Klinge,,"
+Mit Ketten verbundene Sicheln, die im heiligen Feuer geschmiedet wurden und ihre wahre Kraft nur entfalten, wenn Kira sie verwendet. 
+
+Kiras Kampfstil erinnert an einen Tanz geprägt durch grazile Sprünge und Drehungen, der eine Feuerspur in der Luft hinterlässt. Diese Bewegungen sind geprägt durch das Leben mit den Jägern im Wald. 
+
+Zwar ist der Wald bereits verschwunden, doch erlischt das Feuer der Jäger niemals. Auch Kira ist mit dem Herzen immer bei ihrem Gott——Vielleicht ist auch der tanzende Kampfstil ein Opfer für ihren Gott. Selbst in der dunkelsten Stunde beschwert sich Kira nicht, sondern schwingt ihre Sicheln, um ihre Geschwister zu beschützen und das Chaos zu besiegen. Auch hofft sie zutiefst auf die Rückkehr ihre Gottes."
+6463,Brennende Klinge,,"
+Mit Ketten verbundene Sicheln, die im heiligen Feuer geschmiedet wurden und ihre wahre Kraft nur entfalten, wenn Kira sie verwendet. 
+
+Kiras Kampfstil erinnert an einen Tanz geprägt durch grazile Sprünge und Drehungen, der eine Feuerspur in der Luft hinterlässt. Diese Bewegungen sind geprägt durch das Leben mit den Jägern im Wald. 
+
+Zwar ist der Wald bereits verschwunden, doch erlischt das Feuer der Jäger niemals. Auch Kira ist mit dem Herzen immer bei ihrem Gott——Vielleicht ist auch der tanzende Kampfstil ein Opfer für ihren Gott. Selbst in der dunkelsten Stunde beschwert sich Kira nicht, sondern schwingt ihre Sicheln, um ihre Geschwister zu beschützen und das Chaos zu besiegen. Auch hofft sie zutiefst auf die Rückkehr ihre Gottes."
+6464,Brennende Klinge,,"
+Mit Ketten verbundene Sicheln, die im heiligen Feuer geschmiedet wurden und ihre wahre Kraft nur entfalten, wenn Kira sie verwendet. 
+
+Kiras Kampfstil erinnert an einen Tanz geprägt durch grazile Sprünge und Drehungen, der eine Feuerspur in der Luft hinterlässt. Diese Bewegungen sind geprägt durch das Leben mit den Jägern im Wald. 
+
+Zwar ist der Wald bereits verschwunden, doch erlischt das Feuer der Jäger niemals. Auch Kira ist mit dem Herzen immer bei ihrem Gott——Vielleicht ist auch der tanzende Kampfstil ein Opfer für ihren Gott. Selbst in der dunkelsten Stunde beschwert sich Kira nicht, sondern schwingt ihre Sicheln, um ihre Geschwister zu beschützen und das Chaos zu besiegen. Auch hofft sie zutiefst auf die Rückkehr ihre Gottes."
+6465,Brennende Klinge,,"
+Mit Ketten verbundene Sicheln, die im heiligen Feuer geschmiedet wurden und ihre wahre Kraft nur entfalten, wenn Kira sie verwendet. 
+
+Kiras Kampfstil erinnert an einen Tanz geprägt durch grazile Sprünge und Drehungen, der eine Feuerspur in der Luft hinterlässt. Diese Bewegungen sind geprägt durch das Leben mit den Jägern im Wald. 
+
+Zwar ist der Wald bereits verschwunden, doch erlischt das Feuer der Jäger niemals. Auch Kira ist mit dem Herzen immer bei ihrem Gott——Vielleicht ist auch der tanzende Kampfstil ein Opfer für ihren Gott. Selbst in der dunkelsten Stunde beschwert sich Kira nicht, sondern schwingt ihre Sicheln, um ihre Geschwister zu beschützen und das Chaos zu besiegen. Auch hofft sie zutiefst auf die Rückkehr ihre Gottes."
+6466,Brennende Klinge,,"
+Mit Ketten verbundene Sicheln, die im heiligen Feuer geschmiedet wurden und ihre wahre Kraft nur entfalten, wenn Kira sie verwendet. 
+
+Kiras Kampfstil erinnert an einen Tanz geprägt durch grazile Sprünge und Drehungen, der eine Feuerspur in der Luft hinterlässt. Diese Bewegungen sind geprägt durch das Leben mit den Jägern im Wald. 
+
+Zwar ist der Wald bereits verschwunden, doch erlischt das Feuer der Jäger niemals. Auch Kira ist mit dem Herzen immer bei ihrem Gott——Vielleicht ist auch der tanzende Kampfstil ein Opfer für ihren Gott. Selbst in der dunkelsten Stunde beschwert sich Kira nicht, sondern schwingt ihre Sicheln, um ihre Geschwister zu beschützen und das Chaos zu besiegen. Auch hofft sie zutiefst auf die Rückkehr ihre Gottes."
+7079,Schicksal,,"Das letzte, was die Feinde sehen, sind glitzernde schwarze und weiße Sterne am Himmel."
+7080,Fliegende Laterne,,Für das neue Jahr wünsche ich dir von ganzem Herzen alles Gute!
+7081,Königin der Herzen,,Verbeugt euch vor eurer Königin!
+6467,Silbermond-Klinge,,"
+Die Walküre des Lichts, Anastasia, nutzt ein Messer mit einer silbernen Klinge. Das Messer blitzt im Mondlicht hell. 
+
+Für viele Killer, die sich im dunklen heimlich an ihre Beute heranschleichen, ist diese Waffe deshalb zu gefährlich. Tatsächlich hinterlässt Anastasias Messer in der Luft eine Spur hellen Lichts. Aber Anastasia vertraut auf ihre Fähigkeiten und vor allem will sie Licht zu denen die es am Meisten benötigen bringen. 
+
+In einer dunklen Nacht kann nur das Licht des Mondes des Weg weisen."
+6468,Silbermond-Klinge,,"
+Die Walküre des Lichts, Anastasia, nutzt ein Messer mit einer silbernen Klinge. Das Messer blitzt im Mondlicht hell. 
+
+Für viele Killer, die sich im dunklen heimlich an ihre Beute heranschleichen, ist diese Waffe deshalb zu gefährlich. Tatsächlich hinterlässt Anastasias Messer in der Luft eine Spur hellen Lichts. Aber Anastasia vertraut auf ihre Fähigkeiten und vor allem will sie Licht zu denen die es am Meisten benötigen bringen. 
+
+In einer dunklen Nacht kann nur das Licht des Mondes des Weg weisen."
+6469,Silbermond-Klinge,,"
+Die Walküre des Lichts, Anastasia, nutzt ein Messer mit einer silbernen Klinge. Das Messer blitzt im Mondlicht hell. 
+
+Für viele Killer, die sich im dunklen heimlich an ihre Beute heranschleichen, ist diese Waffe deshalb zu gefährlich. Tatsächlich hinterlässt Anastasias Messer in der Luft eine Spur hellen Lichts. Aber Anastasia vertraut auf ihre Fähigkeiten und vor allem will sie Licht zu denen die es am Meisten benötigen bringen. 
+
+In einer dunklen Nacht kann nur das Licht des Mondes des Weg weisen."
+6470,Silbermond-Klinge,,"
+Die Walküre des Lichts, Anastasia, nutzt ein Messer mit einer silbernen Klinge. Das Messer blitzt im Mondlicht hell. 
+
+Für viele Killer, die sich im dunklen heimlich an ihre Beute heranschleichen, ist diese Waffe deshalb zu gefährlich. Tatsächlich hinterlässt Anastasias Messer in der Luft eine Spur hellen Lichts. Aber Anastasia vertraut auf ihre Fähigkeiten und vor allem will sie Licht zu denen die es am Meisten benötigen bringen. 
+
+In einer dunklen Nacht kann nur das Licht des Mondes des Weg weisen."
+6471,Silbermond-Klinge,,"
+Die Walküre des Lichts, Anastasia, nutzt ein Messer mit einer silbernen Klinge. Das Messer blitzt im Mondlicht hell. 
+
+Für viele Killer, die sich im dunklen heimlich an ihre Beute heranschleichen, ist diese Waffe deshalb zu gefährlich. Tatsächlich hinterlässt Anastasias Messer in der Luft eine Spur hellen Lichts. Aber Anastasia vertraut auf ihre Fähigkeiten und vor allem will sie Licht zu denen die es am Meisten benötigen bringen. 
+
+In einer dunklen Nacht kann nur das Licht des Mondes des Weg weisen."
+6472,Silbermond-Klinge,,"
+Die Walküre des Lichts, Anastasia, nutzt ein Messer mit einer silbernen Klinge. Das Messer blitzt im Mondlicht hell. 
+
+Für viele Killer, die sich im dunklen heimlich an ihre Beute heranschleichen, ist diese Waffe deshalb zu gefährlich. Tatsächlich hinterlässt Anastasias Messer in der Luft eine Spur hellen Lichts. Aber Anastasia vertraut auf ihre Fähigkeiten und vor allem will sie Licht zu denen die es am Meisten benötigen bringen. 
+
+In einer dunklen Nacht kann nur das Licht des Mondes des Weg weisen."
+7082,Blutrote Rose,,"Selbst in einem Leben mit harten Widrigkeiten kann eine Rose die Kraft finden, wieder zu blühen."
+7083,Barista,,"Trinkst du ein Glas mit mir? Ah~das ist nur goldenes Sprudelwasser, das macht nichts~"
+7084,Gouvernante,,Du befiehlst mir aufzuräumen. Ich werde dir eine Lektion erteilen!
+7085,Aristokratisch,,Der Moment in dem du blinzelst ist auch der Moment in dem du stirbst.
+6473,Illusions-Klingen,,"
+Klingenpaar, das von der aus dem Albtraum wiedergeborenen Iron Fist verwendet wird. Der prothesische Arm von Iron Fist ist eine von Menschen kreierte Antiquität und wurde von Alberta hergestellt. Neben Yume-Technologie wurden noch andere unbekannte und gefährliche Technologien verwandt. 
+
+Im Alptraum sah Iron Fist einen Lichtstrahl und schöpfte Hoffnung daraus. Als sie ihre Flügel erhielt bekam sie auch diese Klingen. Das große Messer symbolisiert den Willen, den Konkon zu durchbrechen. Das kleine Messer steht für den Wunsch fliegen zu können. 
+
+In Iron Fists Erinnerung gibt es eine winzige Kreatur, das dem Lichtstrahl hinterherjagt. Vielleicht hatte dies einen Einfluss darauf, dass sie auch dem Licht hinterherjagt."
+6474,Illusions-Klingen,,"
+Klingenpaar, das von der aus dem Albtraum wiedergeborenen Iron Fist verwendet wird. Der prothesische Arm von Iron Fist ist eine von Menschen kreierte Antiquität und wurde von Alberta hergestellt. Neben Yume-Technologie wurden noch andere unbekannte und gefährliche Technologien verwandt. 
+
+Im Alptraum sah Iron Fist einen Lichtstrahl und schöpfte Hoffnung daraus. Als sie ihre Flügel erhielt bekam sie auch diese Klingen. Das große Messer symbolisiert den Willen, den Konkon zu durchbrechen. Das kleine Messer steht für den Wunsch fliegen zu können. 
+
+In Iron Fists Erinnerung gibt es eine winzige Kreatur, das dem Lichtstrahl hinterherjagt. Vielleicht hatte dies einen Einfluss darauf, dass sie auch dem Licht hinterherjagt."
+6475,Illusions-Klingen,,"
+Klingenpaar, das von der aus dem Albtraum wiedergeborenen Iron Fist verwendet wird. Der prothesische Arm von Iron Fist ist eine von Menschen kreierte Antiquität und wurde von Alberta hergestellt. Neben Yume-Technologie wurden noch andere unbekannte und gefährliche Technologien verwandt. 
+
+Im Alptraum sah Iron Fist einen Lichtstrahl und schöpfte Hoffnung daraus. Als sie ihre Flügel erhielt bekam sie auch diese Klingen. Das große Messer symbolisiert den Willen, den Konkon zu durchbrechen. Das kleine Messer steht für den Wunsch fliegen zu können. 
+
+In Iron Fists Erinnerung gibt es eine winzige Kreatur, das dem Lichtstrahl hinterherjagt. Vielleicht hatte dies einen Einfluss darauf, dass sie auch dem Licht hinterherjagt."
+6476,Illusions-Klingen,,"
+Klingenpaar, das von der aus dem Albtraum wiedergeborenen Iron Fist verwendet wird. Der prothesische Arm von Iron Fist ist eine von Menschen kreierte Antiquität und wurde von Alberta hergestellt. Neben Yume-Technologie wurden noch andere unbekannte und gefährliche Technologien verwandt. 
+
+Im Alptraum sah Iron Fist einen Lichtstrahl und schöpfte Hoffnung daraus. Als sie ihre Flügel erhielt bekam sie auch diese Klingen. Das große Messer symbolisiert den Willen, den Konkon zu durchbrechen. Das kleine Messer steht für den Wunsch fliegen zu können. 
+
+In Iron Fists Erinnerung gibt es eine winzige Kreatur, das dem Lichtstrahl hinterherjagt. Vielleicht hatte dies einen Einfluss darauf, dass sie auch dem Licht hinterherjagt."
+6477,Illusions-Klingen,,"
+Klingenpaar, das von der aus dem Albtraum wiedergeborenen Iron Fist verwendet wird. Der prothesische Arm von Iron Fist ist eine von Menschen kreierte Antiquität und wurde von Alberta hergestellt. Neben Yume-Technologie wurden noch andere unbekannte und gefährliche Technologien verwandt. 
+
+Im Alptraum sah Iron Fist einen Lichtstrahl und schöpfte Hoffnung daraus. Als sie ihre Flügel erhielt bekam sie auch diese Klingen. Das große Messer symbolisiert den Willen, den Konkon zu durchbrechen. Das kleine Messer steht für den Wunsch fliegen zu können. 
+
+In Iron Fists Erinnerung gibt es eine winzige Kreatur, das dem Lichtstrahl hinterherjagt. Vielleicht hatte dies einen Einfluss darauf, dass sie auch dem Licht hinterherjagt."
+6478,Illusions-Klingen,,"
+Klingenpaar, das von der aus dem Albtraum wiedergeborenen Iron Fist verwendet wird. Der prothesische Arm von Iron Fist ist eine von Menschen kreierte Antiquität und wurde von Alberta hergestellt. Neben Yume-Technologie wurden noch andere unbekannte und gefährliche Technologien verwandt. 
+
+Im Alptraum sah Iron Fist einen Lichtstrahl und schöpfte Hoffnung daraus. Als sie ihre Flügel erhielt bekam sie auch diese Klingen. Das große Messer symbolisiert den Willen, den Konkon zu durchbrechen. Das kleine Messer steht für den Wunsch fliegen zu können. 
+
+In Iron Fists Erinnerung gibt es eine winzige Kreatur, das dem Lichtstrahl hinterherjagt. Vielleicht hatte dies einen Einfluss darauf, dass sie auch dem Licht hinterherjagt."
+6479,Gezackte Zähne,,"
+Hammer mit gezackten Zähnen, der von Fenrir verwendet wird. Nach äußerst rauer Bearbeitung wurde er zu einer leicht zu haltenden Waffe. 
+
+Es gibt niemanden, der Fenrirs Kraft standhalten kann. Dieser Hammer wurde von ihr Jahrelang geschwunden und ist dennoch nicht kapputt gegangen. Aus diesem Grund liebt ihn Fenrir sehr. 
+
+Die Kreisförmigen Wachstumsspuren am Hammer zeigen, dass er ursprünglich Teil einer riesigen und alten Kreatur war. Vielleicht kann sie auf das Zeitalter der ""vergessenen Götter"" zurückgeführt werden."
+6480,Gezackte Zähne,,"
+Hammer mit gezackten Zähnen, der von Fenrir verwendet wird. Nach äußerst rauer Bearbeitung wurde er zu einer leicht zu haltenden Waffe. 
+
+Es gibt niemanden, der Fenrirs Kraft standhalten kann. Dieser Hammer wurde von ihr Jahrelang geschwunden und ist dennoch nicht kapputt gegangen. Aus diesem Grund liebt ihn Fenrir sehr. 
+
+Die Kreisförmigen Wachstumsspuren am Hammer zeigen, dass er ursprünglich Teil einer riesigen und alten Kreatur war. Vielleicht kann sie auf das Zeitalter der ""vergessenen Götter"" zurückgeführt werden."
+6481,Gezackte Zähne,,"
+Hammer mit gezackten Zähnen, der von Fenrir verwendet wird. Nach äußerst rauer Bearbeitung wurde er zu einer leicht zu haltenden Waffe. 
+
+Es gibt niemanden, der Fenrirs Kraft standhalten kann. Dieser Hammer wurde von ihr Jahrelang geschwunden und ist dennoch nicht kapputt gegangen. Aus diesem Grund liebt ihn Fenrir sehr. 
+
+Die Kreisförmigen Wachstumsspuren am Hammer zeigen, dass er ursprünglich Teil einer riesigen und alten Kreatur war. Vielleicht kann sie auf das Zeitalter der ""vergessenen Götter"" zurückgeführt werden."
+6482,Gezackte Zähne,,"
+Hammer mit gezackten Zähnen, der von Fenrir verwendet wird. Nach äußerst rauer Bearbeitung wurde er zu einer leicht zu haltenden Waffe. 
+
+Es gibt niemanden, der Fenrirs Kraft standhalten kann. Dieser Hammer wurde von ihr Jahrelang geschwunden und ist dennoch nicht kapputt gegangen. Aus diesem Grund liebt ihn Fenrir sehr. 
+
+Die Kreisförmigen Wachstumsspuren am Hammer zeigen, dass er ursprünglich Teil einer riesigen und alten Kreatur war. Vielleicht kann sie auf das Zeitalter der ""vergessenen Götter"" zurückgeführt werden."
+6483,Gezackte Zähne,,"
+Hammer mit gezackten Zähnen, der von Fenrir verwendet wird. Nach äußerst rauer Bearbeitung wurde er zu einer leicht zu haltenden Waffe. 
+
+Es gibt niemanden, der Fenrirs Kraft standhalten kann. Dieser Hammer wurde von ihr Jahrelang geschwunden und ist dennoch nicht kapputt gegangen. Aus diesem Grund liebt ihn Fenrir sehr. 
+
+Die Kreisförmigen Wachstumsspuren am Hammer zeigen, dass er ursprünglich Teil einer riesigen und alten Kreatur war. Vielleicht kann sie auf das Zeitalter der ""vergessenen Götter"" zurückgeführt werden."
+6484,Gezackte Zähne,,"
+Hammer mit gezackten Zähnen, der von Fenrir verwendet wird. Nach äußerst rauer Bearbeitung wurde er zu einer leicht zu haltenden Waffe. 
+
+Es gibt niemanden, der Fenrirs Kraft standhalten kann. Dieser Hammer wurde von ihr Jahrelang geschwunden und ist dennoch nicht kapputt gegangen. Aus diesem Grund liebt ihn Fenrir sehr. 
+
+Die Kreisförmigen Wachstumsspuren am Hammer zeigen, dass er ursprünglich Teil einer riesigen und alten Kreatur war. Vielleicht kann sie auf das Zeitalter der ""vergessenen Götter"" zurückgeführt werden."
+6485,Steinklingen-Axt,,
+6486,Steinklingen-Axt,,
+6487,Steinklingen-Axt,,
+6488,Steinklingen-Axt,,
+6489,Steinklingen-Axt,,
+6490,Steinklingen-Axt,,
+6491,Jadeschatten,,
+6492,Jadeschatten,,
+6493,Jadeschatten,,
+6494,Jadeschatten,,
+6495,Jadeschatten,,
+6496,Jadeschatten,,
+7086,Blumiger Tanz,,Ich warte darauf in der Krischblüten-Saison auf dich zu treffen~
+7087,Weiß-Rosa Kimono,,"Wo gehen wir dieses Jahr hin, um die Kirschblüten anzuschauen?…Kyoto~das ist ein Ort mit sehr viel Geschichte~"
+7088,Doppeltes Glück,,Zwei Hände zu halten bedeuted doppeltes Glück und doppelte Verantwortung zur gleichen Zeit.
+7089,Schiedsrichter,,"Schiedsrichterin Fenek hat einen Eid geleistet! Ich werde im Wettkampf niemals den Mut verlieren und niemals einen Termin verpassen…Ah, Aua, ich hab mir auf die Zunge gebissen~"
+7090,Baseballstar,,"Wenn du bei einem Spiel zuschaust, kannst du meinen Home Run bewundern!"
+7091,Sprinterin,,Sie sollte abnehmen! Fast hätte sie nicht gewonnen~
+7092,Volleyballprofi,,"Bereite dich auf einen blauen Fleck vor, wenn du diesen Ball blockst!"
+7093,Revolverheldin,,"Willst du die Kraft meiner neuen Waffe testen? Ich stelle dich gern zufrieden, Miao!"
+7094,Ewige Liebe,,Unsere Liebe ist unendlich：unerschütterlich und treu!
+7095,Gei­gen­vir­tu­o­sin,,"Senpai, dieses Stück habe ich extra für dich eingeübt. Bitte hör gut zu~"
+7096,Blumige Liebe,,Kennst du die Bedeutung der Kirschblüte? Sie symbolisiert Liebe und Hoffnung. Tanze mit ihr.
+7097,Vorteilshafte Liebe,,So Jemand wie mich gibt es nicht so oft!
+7098,Musketier,,Der Tanz mit dem Degen muss geübt sein. Willst du mal seine scharfen Kanten testen?
+7099,Sommergefühle,,"Auch wenn es nicht ganz einfach ist, ist es im Grundegenommen nicht schwer sich im Wasser treiben zu lassen~"
+7100,Tee-Masterin,,"Ah, die Teestiele in meinem Glas stehen nach oben… das muss ein guter Tag heute sein~"
+7101,Elegante Dame,,"Das Leben auf der Bühne ist beendet, aber das Leben abseits der Bühne beginnt gerade erst. Wirst du mich bei diesem Theaterstück bis zum Ende begleiten?"
+7102,Sommerlust,,"Ah, so etwas süßes ist wirklich eine Sünde… versteh mich nicht falsch. Ich liebe dein Eis!"
+7103,Flügel der Zeit,,Die Verbindung von Technologie und Magie ist wunderbar. Ich hoffe du genießt sie auch so~
+7104,Alpha-Wolf,,Ahhh!! Kommt heraus und kämpft! Es wird nicht besser wenn ihr darauf wartet von mir gefunden zu werden!
+7105,Geburtstags-Magie,,"Schaut alle her, ihr Menschen! Das Spektakel beginnt!"
+6497,Festlicher Zauberstab,,
+6498,Festlicher Zauberstab,,
+6499,Festlicher Zauberstab,,
+6500,Festlicher Zauberstab,,
+6501,Festlicher Zauberstab,,
+6502,Festlicher Zauberstab,,
+7106,Lila Champagner,,"Willst du etwas vom Champagner, Senpai? Mach dir keine Sorgen, er ist nicht so stark~"
+7107,Kriegsgöttin,,Du willst eine neue Waffe? Dann halte nur eine Runde gegen meinen kleinen Hund statt und ich schenke dir diesen Revolver. Wie ist es? Willst du es mal probieren?
+7108,Meeresbrise,,Sonne! Strand! Öffne den Sonnenschirm und schlafe eine Runde in der angenehmen Meeresbrise~ So sehen perfekte Ferien aus~
+7109,Wasserkönigin,,Wow~Anastasias Eis ist wirklich super lecker! Yay~wirklich gut~Sommer~
+7110,Sommerfrische,,"Ahhh~So ein weiches Wasserkissen! Oh... Master, seit wann bist du hier~du sollst nicht einfach heimlich herkommen und mich beobachten ohne etwas zu sagen!"
+7111,Taufrisch,,Ja! Wirkliche Ferien! Wirkliches Meer! Eine wirklich tolle Erfahrung!
+7112,Wellenreiterin,,Ha! Ihr dummen Menschen liegt nur am Strand herum. Schaut schnell wie toll ich bin!
+7113,Schwimmendes Gold,,"Hast du gedacht, dass beim Tauchen die Flügel im Weg sind? Das ist kein bisschen so~"
+7114,Süße Beere,,"Du musst nur die Zahl auf der Spielkarte erraten, dann kriegst du ein Erdbeereis~"
+7115,Mitsommerschatten,,"Es gibt genug Snacks und Getränke. Wähle, was dir gefällt…Das Eis geht nicht. Das ist für Fenek~"
+6503,Siegelherz·Geister,,
+6504,Siegelherz·Geister,,
+6505,Siegelherz·Geister,,
+6506,Siegelherz·Geister,,
+6507,Siegelherz·Geister,,
+6508,Siegelherz·Geister,,
+6509,Dämonenblut·Geister,,
+6510,Dämonenblut·Geister,,
+6511,Dämonenblut·Geister,,
+6512,Dämonenblut·Geister,,
+6513,Dämonenblut·Geister,,
+6514,Dämonenblut·Geister,,
+6515,Siegelschwert·Mensch,,
+6516,Siegelschwert·Mensch,,
+6517,Siegelschwert·Mensch,,
+6518,Siegelschwert·Mensch,,
+6519,Siegelschwert·Mensch,,
+6520,Siegelschwert·Mensch,,
+6521,Schmerzfessel·Mensch,,
+6522,Schmerzfessel·Mensch,,
+6523,Schmerzfessel·Mensch,,
+6524,Schmerzfessel·Mensch,,
+6525,Schmerzfessel·Mensch,,
+6526,Schmerzfessel·Mensch,,
+6527,Dornenschild·Mensch,,
+6528,Dornenschild·Mensch,,
+6529,Dornenschild·Mensch,,
+6530,Dornenschild·Mensch,,
+6531,Dornenschild·Mensch,,
+6532,Dornenschild·Mensch,,
+6533,Siegelherz·Monster,,
+6534,Siegelherz·Monster,,
+6535,Siegelherz·Monster,,
+6536,Siegelherz·Monster,,
+6537,Siegelherz·Monster,,
+6538,Siegelherz·Monster,,
+6539,Dämonenblut·Monster,,
+6540,Dämonenblut·Monster,,
+6541,Dämonenblut·Monster,,
+6542,Dämonenblut·Monster,,
+6543,Dämonenblut·Monster,,
+6544,Dämonenblut·Monster,,
+6545,Siegelschwert·Fee,,
+6546,Siegelschwert·Fee,,
+6547,Siegelschwert·Fee,,
+6548,Siegelschwert·Fee,,
+6549,Siegelschwert·Fee,,
+6550,Siegelschwert·Fee,,
+6551,Schmerzfessel·Fee,,
+6552,Schmerzfessel·Fee,,
+6553,Schmerzfessel·Fee,,
+6554,Schmerzfessel·Fee,,
+6555,Schmerzfessel·Fee,,
+6556,Schmerzfessel·Fee,,
+6557,Dornenschild·Fee,,
+6558,Dornenschild·Fee,,
+6559,Dornenschild·Fee,,
+6560,Dornenschild·Fee,,
+6561,Dornenschild·Fee,,
+6562,Dornenschild·Fee,,
+6563,Dämonenblut·Fee,,
+6564,Dämonenblut·Fee,,
+6565,Dämonenblut·Fee,,
+6566,Dämonenblut·Fee,,
+6567,Dämonenblut·Fee,,
+6568,Dämonenblut·Fee,,
+6569,Siegelschwert·Engel,,
+6570,Siegelschwert·Engel,,
+6571,Siegelschwert·Engel,,
+6572,Siegelschwert·Engel,,
+6573,Siegelschwert·Engel,,
+6574,Siegelschwert·Engel,,
+6575,Schmerzfessel·Engel,,
+6576,Schmerzfessel·Engel,,
+6577,Schmerzfessel·Engel,,
+6578,Schmerzfessel·Engel,,
+6579,Schmerzfessel·Engel,,
+6580,Schmerzfessel·Engel,,
+6581,Dornenschild·Engel,,
+6582,Dornenschild·Engel,,
+6583,Dornenschild·Engel,,
+6584,Dornenschild·Engel,,
+6585,Dornenschild·Engel,,
+6586,Dornenschild·Engel,,
+6587,Siegelherz·Engel,,
+6588,Siegelherz·Engel,,
+6589,Siegelherz·Engel,,
+6590,Siegelherz·Engel,,
+6591,Siegelherz·Engel,,
+6592,Siegelherz·Engel,,
+6593,Dämonenblut·Engel,,
+6594,Dämonenblut·Engel,,
+6595,Dämonenblut·Engel,,
+6596,Dämonenblut·Engel,,
+6597,Dämonenblut·Engel,,
+6598,Dämonenblut·Engel,,
+6599,Siegelschwert·Dämon,,
+6600,Siegelschwert·Dämon,,
+6601,Siegelschwert·Dämon,,
+6602,Siegelschwert·Dämon,,
+6603,Siegelschwert·Dämon,,
+6604,Siegelschwert·Dämon,,
+6605,Schmerzfessel·Dämon,,
+6606,Schmerzfessel·Dämon,,
+6607,Schmerzfessel·Dämon,,
+6608,Schmerzfessel·Dämon,,
+6609,Schmerzfessel·Dämon,,
+6610,Schmerzfessel·Dämon,,
+6611,Dornenschild·Dämon,,
+6612,Dornenschild·Dämon,,
+6613,Dornenschild·Dämon,,
+6614,Dornenschild·Dämon,,
+6615,Dornenschild·Dämon,,
+6616,Dornenschild·Dämon,,
+6617,Siegelherz·Dämon,,
+6618,Siegelherz·Dämon,,
+6619,Siegelherz·Dämon,,
+6620,Siegelherz·Dämon,,
+6621,Siegelherz·Dämon,,
+6622,Siegelherz·Dämon,,
+6623,Dämonenblut·Dämon,,
+6624,Dämonenblut·Dämon,,
+6625,Dämonenblut·Dämon,,
+6626,Dämonenblut·Dämon,,
+6627,Dämonenblut·Dämon,,
+6628,Dämonenblut·Dämon,,
+6629,Armbrust,,
+6630,Armbrust,,
+6631,Armbrust,,
+6632,Armbrust,,
+6633,Armbrust,,
+6634,Armbrust,,
+6635,Schicksalswürfel,,
+6636,Schicksalswürfel,,
+6637,Schicksalswürfel,,
+6638,Schicksalswürfel,,
+6639,Schicksalswürfel,,
+6640,Schicksalswürfel,,
+6641,Zauberzylinder,,
+6642,Zauberzylinder,,
+6643,Zauberzylinder,,
+6644,Zauberzylinder,,
+6645,Zauberzylinder,,
+6646,Zauberzylinder,,
+6647,Kagura-Glocke,,
+6648,Kagura-Glocke,,
+6649,Kagura-Glocke,,
+6650,Kagura-Glocke,,
+6651,Kagura-Glocke,,
+6652,Kagura-Glocke,,
+6653,Schutzhandschuh,,
+6654,Schutzhandschuh,,
+6655,Schutzhandschuh,,
+6656,Schutzhandschuh,,
+6657,Schutzhandschuh,,
+6658,Schutzhandschuh,,
+6659,Heiliger Pokal,,
+6660,Heiliger Pokal,,
+6661,Heiliger Pokal,,
+6662,Heiliger Pokal,,
+6663,Heiliger Pokal,,
+6664,Heiliger Pokal,,
+6665,Hammerbär,,
+6666,Hammerbär,,
+6667,Hammerbär,,
+6668,Hammerbär,,
+6669,Hammerbär,,
+6670,Hammerbär,,
+6671,Yume-Laterne,,
+6672,Yume-Laterne,,
+6673,Yume-Laterne,,
+6674,Yume-Laterne,,
+6675,Yume-Laterne,,
+6676,Yume-Laterne,,
+6677,Samuraihelm,,
+6678,Samuraihelm,,
+6679,Samuraihelm,,
+6680,Samuraihelm,,
+6681,Samuraihelm,,
+6682,Samuraihelm,,
+6683,Bienenstachel,,
+6684,Bienenstachel,,
+6685,Bienenstachel,,
+6686,Bienenstachel,,
+6687,Bienenstachel,,
+6688,Bienenstachel,,
+6689,Heilige Schelle,,
+6690,Heilige Schelle,,
+6691,Heilige Schelle,,
+6692,Heilige Schelle,,
+6693,Heilige Schelle,,
+6694,Heilige Schelle,,
+6695,Geheimschlüssel,,
+6696,Geheimschlüssel,,
+6697,Geheimschlüssel,,
+6698,Geheimschlüssel,,
+6699,Geheimschlüssel,,
+6700,Geheimschlüssel,,
+7116,Sonnenlegende,,Die Zwillinge genießen gerade ihre Ferien am Strand. Aber es wird ein Tag voller Überraschung sein...
+7117,Bienentanz,,Dreh das Uhrwerk hinter mir. Dann würde ich dich zum Tanz einladen~
+7118,Strandurlaub,,"In den Ferien vergisst man all seinen Kummer. Senpai, machen wir einen Mittagsschalf?"
+7119,Perfekte Dynamik,,"Schwarz und weiß, eine elegante Symetrie~"
+6701,Geistergewehr,,"
+Das Geistergewehr das Trinity nutzt ist eine von Alberta kreierte Antiquität. Neben den Technicken der Yume enthält sie noch viele weitere gefährliche Techniken.
+
+Dieses magische Scharfschützengewehr funktioniert eigentlich nicht durch Magie, sondern entzieht dem Körper des Benutzers magische Kraft und aggregiert und moduliert sie zu einem magischen Strahl großer Kraft. Übermäßiger Gebrauch kann jedoch zu unzureichender magischer Kraft führen, was zu verschiedenen Symptomen wie Lethargie und Schwindel führen kann.
+
+Als Trinity diese Antiquität bekam, wusste sie nichts über ihre Nebenwirkungen. Aber sie benutzt diese Antiquität schon lange und hätte sich dessen bewusst sein müssen. Trotzdem wollte sie diese Antiquität nicht aufgeben, wahrscheinlich wegen ihrer Gefühle für Alberta... Nein, vermutlich ist es nur wegen ihres unnötigen Stolzes."
+6702,Geistergewehr,,"
+Das Geistergewehr das Trinity nutzt ist eine von Alberta kreierte Antiquität. Neben den Technicken der Yume enthält sie noch viele weitere gefährliche Techniken.
+
+Dieses magische Scharfschützengewehr funktioniert eigentlich nicht durch Magie, sondern entzieht dem Körper des Benutzers magische Kraft und aggregiert und moduliert sie zu einem magischen Strahl großer Kraft. Übermäßiger Gebrauch kann jedoch zu unzureichender magischer Kraft führen, was zu verschiedenen Symptomen wie Lethargie und Schwindel führen kann.
+
+Als Trinity diese Antiquität bekam, wusste sie nichts über ihre Nebenwirkungen. Aber sie benutzt diese Antiquität schon lange und hätte sich dessen bewusst sein müssen. Trotzdem wollte sie diese Antiquität nicht aufgeben, wahrscheinlich wegen ihrer Gefühle für Alberta... Nein, vermutlich ist es nur wegen ihres unnötigen Stolzes."
+6703,Geistergewehr,,"
+Das Geistergewehr das Trinity nutzt ist eine von Alberta kreierte Antiquität. Neben den Technicken der Yume enthält sie noch viele weitere gefährliche Techniken.
+
+Dieses magische Scharfschützengewehr funktioniert eigentlich nicht durch Magie, sondern entzieht dem Körper des Benutzers magische Kraft und aggregiert und moduliert sie zu einem magischen Strahl großer Kraft. Übermäßiger Gebrauch kann jedoch zu unzureichender magischer Kraft führen, was zu verschiedenen Symptomen wie Lethargie und Schwindel führen kann.
+
+Als Trinity diese Antiquität bekam, wusste sie nichts über ihre Nebenwirkungen. Aber sie benutzt diese Antiquität schon lange und hätte sich dessen bewusst sein müssen. Trotzdem wollte sie diese Antiquität nicht aufgeben, wahrscheinlich wegen ihrer Gefühle für Alberta... Nein, vermutlich ist es nur wegen ihres unnötigen Stolzes."
+6704,Geistergewehr,,"
+Das Geistergewehr das Trinity nutzt ist eine von Alberta kreierte Antiquität. Neben den Technicken der Yume enthält sie noch viele weitere gefährliche Techniken.
+
+Dieses magische Scharfschützengewehr funktioniert eigentlich nicht durch Magie, sondern entzieht dem Körper des Benutzers magische Kraft und aggregiert und moduliert sie zu einem magischen Strahl großer Kraft. Übermäßiger Gebrauch kann jedoch zu unzureichender magischer Kraft führen, was zu verschiedenen Symptomen wie Lethargie und Schwindel führen kann.
+
+Als Trinity diese Antiquität bekam, wusste sie nichts über ihre Nebenwirkungen. Aber sie benutzt diese Antiquität schon lange und hätte sich dessen bewusst sein müssen. Trotzdem wollte sie diese Antiquität nicht aufgeben, wahrscheinlich wegen ihrer Gefühle für Alberta... Nein, vermutlich ist es nur wegen ihres unnötigen Stolzes."
+6705,Geistergewehr,,"
+Das Geistergewehr das Trinity nutzt ist eine von Alberta kreierte Antiquität. Neben den Technicken der Yume enthält sie noch viele weitere gefährliche Techniken.
+
+Dieses magische Scharfschützengewehr funktioniert eigentlich nicht durch Magie, sondern entzieht dem Körper des Benutzers magische Kraft und aggregiert und moduliert sie zu einem magischen Strahl großer Kraft. Übermäßiger Gebrauch kann jedoch zu unzureichender magischer Kraft führen, was zu verschiedenen Symptomen wie Lethargie und Schwindel führen kann.
+
+Als Trinity diese Antiquität bekam, wusste sie nichts über ihre Nebenwirkungen. Aber sie benutzt diese Antiquität schon lange und hätte sich dessen bewusst sein müssen. Trotzdem wollte sie diese Antiquität nicht aufgeben, wahrscheinlich wegen ihrer Gefühle für Alberta... Nein, vermutlich ist es nur wegen ihres unnötigen Stolzes."
+6706,Geistergewehr,,"
+Das Geistergewehr das Trinity nutzt ist eine von Alberta kreierte Antiquität. Neben den Technicken der Yume enthält sie noch viele weitere gefährliche Techniken.
+
+Dieses magische Scharfschützengewehr funktioniert eigentlich nicht durch Magie, sondern entzieht dem Körper des Benutzers magische Kraft und aggregiert und moduliert sie zu einem magischen Strahl großer Kraft. Übermäßiger Gebrauch kann jedoch zu unzureichender magischer Kraft führen, was zu verschiedenen Symptomen wie Lethargie und Schwindel führen kann.
+
+Als Trinity diese Antiquität bekam, wusste sie nichts über ihre Nebenwirkungen. Aber sie benutzt diese Antiquität schon lange und hätte sich dessen bewusst sein müssen. Trotzdem wollte sie diese Antiquität nicht aufgeben, wahrscheinlich wegen ihrer Gefühle für Alberta... Nein, vermutlich ist es nur wegen ihres unnötigen Stolzes."
+7120,Rotkäppchen,,Ah~Autsch...die Pilze sind alle auf den Boden gefallen. Die habe ich für Senpai vorbereitet~
+7121,Schneewittchen,,Bleibst du bei mir während ich tief und fest schlafe?
+7122,Cinderella,,Würdest du mich beim nächsten Ball nochmal zum Tanz einladen?
+5701,Nebel-Kristall,,
+5702,Nebel-Kristall,,
+5703,Nebel-Kristall,,
+5704,Nebel-Kristall,,
+5705,Nebel-Kristall,,
+5706,Nebel-Kristall,,
+5707,Nebel-Kristall,,
+5708,Nebel-Kristall,,
+5709,Nebel-Kristall,,
+5710,Nebel-Kristall,,
+5711,Nebel-Kristall,,
+5712,Nebel-Kristall,,
+5713,Nebel-Kristall,,
+5714,Nebel-Kristall,,
+5715,Nebel-Kristall,,
+5716,Nebel-Kristall,,
+5717,Nebel-Kristall,,
+5718,Nebel-Kristall,,
+5719,Nebel-Kristall,,
+5720,Nebel-Kristall,,
+5721,Nebel-Kristall,,
+5722,Nebel-Kristall,,
+5723,Nebel-Kristall,,
+5724,Nebel-Kristall,,
+5725,Nebel-Kristall,,
+5726,Nebel-Kristall,,
+5727,Nebel-Kristall,,
+5728,Nebel-Kristall,,
+5729,Nebel-Kristall,,
+5730,Nebel-Kristall,,
+5731,Nebel-Kristall,,
+5732,Nebel-Kristall,,
+5733,Nebel-Kristall,,
+5734,Nebel-Kristall,,
+5735,Nebel-Kristall,,
+5736,Nebel-Kristall,,
+5737,Nebel-Kristall,,
+5738,Nebel-Kristall,,
+5739,Nebel-Kristall,,
+5740,Nebel-Kristall,,
+5741,Nebel-Kristall,,
+5742,Nebel-Kristall,,
+5743,Nebel-Kristall,,
+5744,Nebel-Kristall,,
+5745,Nebel-Kristall,,
+5746,Nebel-Kristall,,
+5747,Nebel-Kristall,,
+5748,Nebel-Kristall,,
+5749,Nebel-Kristall,,
+5750,Nebel-Kristall,,
+5751,Nebel-Kristall,,
+5752,Nebel-Kristall,,
+5753,Nebel-Kristall,,
+5754,Nebel-Kristall,,
+5755,Nebel-Kristall,,
+5756,Nebel-Kristall,,
+5757,Nebel-Kristall,,
+5758,Nebel-Kristall,,
+5759,Nebel-Kristall,,
+5760,Nebel-Kristall,,
+5761,Nebel-Kristall,,
+5762,Nebel-Kristall,,
+5763,Nebel-Kristall,,
+5764,Nebel-Kristall,,
+5765,Nebel-Kristall,,
+5766,Nebel-Kristall,,
+5767,Nebel-Kristall,,
+5768,Nebel-Kristall,,
+5769,Nebel-Kristall,,
+5770,Nebel-Kristall,,
+5771,Nebel-Kristall,,
+5772,Nebel-Kristall,,
+7123,Kaguya,,Ich warte auf die Vollmondnacht... Ich werde einen Helden treffen~
+7124,Herbstblatt,,"Schon wieder färben sich die Blätter rot. Ob derjenige, an den ich denke, auch an mich denkt?"
+7125,Spiegelbild,,Das reine Weiß oder das böse Schwarz? Nein. Wir werden einen neuen Weg aufmachen!
+7126,Innige Liebe,,Ich werde deinen Körper von allem Schmutz reinigen. Dich selber natürlich auch!
+7127,Bubble-Gentlemen,,"Ein Gentleman sollte genauso wie ein Gentleman aussehen. Stock, Zylinder und Pfeife... Huh? Fragst du dich, was ich da herausgepustet habe?"
+7128,Rosa Braut,,Gefalle ich dir so...?
+7129,Himmlische Rhapsodie,,Phantasie? Musik? Welch eine schöne Kombination~
+7130,Mitternachtskatze,,Süßes oder Saures miao~ Nein... Ich bin doch kein Kürbis!
+7131,Seelenbesitzerin,,Mit dem neu geschliffenen Geisterschwert nehme ich die einsamen Seelen in Besitz.
+6707,Heiliges Licht,,"
+Isabella, der Engel für Heilung hat ihren Zaubertrank in dieser Kristallflasche aufbewahrt. Der Zaubertrank strahlt durch den Kristall damit die Flasche wie ein Juwel aussieht. Aber die Zauberkraft ist auf keinen Fall nur ein einfacher Schmuck.
+
+Isabella hat mit ihrer eigenen Kraft den Zaubertrank hergestellt, weswegen der Trank in einer Flasche aus Kristall bewahrt werden muss, um die Wirkung des Mittels zu verlängern. Wenn Isabella ihre Kraft in die Flasche eingießt, verwandelt sich der Trank in dampfenden Nebel. In diesem Nebel strahlt Isabellas heiliges Licht.
+
+Isabellas Zauber kann die Kreaturen beleben. So eine Fähigkeit ermöglicht Isabella, wirksame Medikamente herzustellen, aber natürlich auch giftige Mittel, was sie zum furchteinflößensten Mädchen gemacht hat. Aber sie hat nichts Böses gemacht und kümmert sich nur um die Verletzten. Auch das Betäubungsmittel verwendet sie nur für Operationen ---- Die Ärztin hat ihr eigenes Bekenntnis. Der Zaubertrank wurde mit Isabellas magischer Kraft hergestellt und sobald man ihn genommen hat, fühlt man sich sofort besser. Pass auf und werde nicht süchtig davon."
+6708,Heiliges Licht,,"
+Isabella, der Engel für Heilung hat ihren Zaubertrank in dieser Kristallflasche aufbewahrt. Der Zaubertrank strahlt durch den Kristall damit die Flasche wie ein Juwel aussieht. Aber die Zauberkraft ist auf keinen Fall nur ein einfacher Schmuck.
+
+Isabella hat mit ihrer eigenen Kraft den Zaubertrank hergestellt, weswegen der Trank in einer Flasche aus Kristall bewahrt werden muss, um die Wirkung des Mittels zu verlängern. Wenn Isabella ihre Kraft in die Flasche eingießt, verwandelt sich der Trank in dampfenden Nebel. In diesem Nebel strahlt Isabellas heiliges Licht.
+
+Isabellas Zauber kann die Kreaturen beleben. So eine Fähigkeit ermöglicht Isabella, wirksame Medikamente herzustellen, aber natürlich auch giftige Mittel, was sie zum furchteinflößensten Mädchen gemacht hat. Aber sie hat nichts Böses gemacht und kümmert sich nur um die Verletzten. Auch das Betäubungsmittel verwendet sie nur für Operationen ---- Die Ärztin hat ihr eigenes Bekenntnis. Der Zaubertrank wurde mit Isabellas magischer Kraft hergestellt und sobald man ihn genommen hat, fühlt man sich sofort besser. Pass auf und werde nicht süchtig davon."
+6709,Heiliges Licht,,"
+Isabella, der Engel für Heilung hat ihren Zaubertrank in dieser Kristallflasche aufbewahrt. Der Zaubertrank strahlt durch den Kristall damit die Flasche wie ein Juwel aussieht. Aber die Zauberkraft ist auf keinen Fall nur ein einfacher Schmuck.
+
+Isabella hat mit ihrer eigenen Kraft den Zaubertrank hergestellt, weswegen der Trank in einer Flasche aus Kristall bewahrt werden muss, um die Wirkung des Mittels zu verlängern. Wenn Isabella ihre Kraft in die Flasche eingießt, verwandelt sich der Trank in dampfenden Nebel. In diesem Nebel strahlt Isabellas heiliges Licht.
+
+Isabellas Zauber kann die Kreaturen beleben. So eine Fähigkeit ermöglicht Isabella, wirksame Medikamente herzustellen, aber natürlich auch giftige Mittel, was sie zum furchteinflößensten Mädchen gemacht hat. Aber sie hat nichts Böses gemacht und kümmert sich nur um die Verletzten. Auch das Betäubungsmittel verwendet sie nur für Operationen ---- Die Ärztin hat ihr eigenes Bekenntnis. Der Zaubertrank wurde mit Isabellas magischer Kraft hergestellt und sobald man ihn genommen hat, fühlt man sich sofort besser. Pass auf und werde nicht süchtig davon."
+6710,Heiliges Licht,,"
+Isabella, der Engel für Heilung hat ihren Zaubertrank in dieser Kristallflasche aufbewahrt. Der Zaubertrank strahlt durch den Kristall damit die Flasche wie ein Juwel aussieht. Aber die Zauberkraft ist auf keinen Fall nur ein einfacher Schmuck.
+
+Isabella hat mit ihrer eigenen Kraft den Zaubertrank hergestellt, weswegen der Trank in einer Flasche aus Kristall bewahrt werden muss, um die Wirkung des Mittels zu verlängern. Wenn Isabella ihre Kraft in die Flasche eingießt, verwandelt sich der Trank in dampfenden Nebel. In diesem Nebel strahlt Isabellas heiliges Licht.
+
+Isabellas Zauber kann die Kreaturen beleben. So eine Fähigkeit ermöglicht Isabella, wirksame Medikamente herzustellen, aber natürlich auch giftige Mittel, was sie zum furchteinflößensten Mädchen gemacht hat. Aber sie hat nichts Böses gemacht und kümmert sich nur um die Verletzten. Auch das Betäubungsmittel verwendet sie nur für Operationen ---- Die Ärztin hat ihr eigenes Bekenntnis. Der Zaubertrank wurde mit Isabellas magischer Kraft hergestellt und sobald man ihn genommen hat, fühlt man sich sofort besser. Pass auf und werde nicht süchtig davon."
+6711,Heiliges Licht,,"
+Isabella, der Engel für Heilung hat ihren Zaubertrank in dieser Kristallflasche aufbewahrt. Der Zaubertrank strahlt durch den Kristall damit die Flasche wie ein Juwel aussieht. Aber die Zauberkraft ist auf keinen Fall nur ein einfacher Schmuck.
+
+Isabella hat mit ihrer eigenen Kraft den Zaubertrank hergestellt, weswegen der Trank in einer Flasche aus Kristall bewahrt werden muss, um die Wirkung des Mittels zu verlängern. Wenn Isabella ihre Kraft in die Flasche eingießt, verwandelt sich der Trank in dampfenden Nebel. In diesem Nebel strahlt Isabellas heiliges Licht.
+
+Isabellas Zauber kann die Kreaturen beleben. So eine Fähigkeit ermöglicht Isabella, wirksame Medikamente herzustellen, aber natürlich auch giftige Mittel, was sie zum furchteinflößensten Mädchen gemacht hat. Aber sie hat nichts Böses gemacht und kümmert sich nur um die Verletzten. Auch das Betäubungsmittel verwendet sie nur für Operationen ---- Die Ärztin hat ihr eigenes Bekenntnis. Der Zaubertrank wurde mit Isabellas magischer Kraft hergestellt und sobald man ihn genommen hat, fühlt man sich sofort besser. Pass auf und werde nicht süchtig davon."
+6712,Heiliges Licht,,"
+Isabella, der Engel für Heilung hat ihren Zaubertrank in dieser Kristallflasche aufbewahrt. Der Zaubertrank strahlt durch den Kristall damit die Flasche wie ein Juwel aussieht. Aber die Zauberkraft ist auf keinen Fall nur ein einfacher Schmuck.
+
+Isabella hat mit ihrer eigenen Kraft den Zaubertrank hergestellt, weswegen der Trank in einer Flasche aus Kristall bewahrt werden muss, um die Wirkung des Mittels zu verlängern. Wenn Isabella ihre Kraft in die Flasche eingießt, verwandelt sich der Trank in dampfenden Nebel. In diesem Nebel strahlt Isabellas heiliges Licht.
+
+Isabellas Zauber kann die Kreaturen beleben. So eine Fähigkeit ermöglicht Isabella, wirksame Medikamente herzustellen, aber natürlich auch giftige Mittel, was sie zum furchteinflößensten Mädchen gemacht hat. Aber sie hat nichts Böses gemacht und kümmert sich nur um die Verletzten. Auch das Betäubungsmittel verwendet sie nur für Operationen ---- Die Ärztin hat ihr eigenes Bekenntnis. Der Zaubertrank wurde mit Isabellas magischer Kraft hergestellt und sobald man ihn genommen hat, fühlt man sich sofort besser. Pass auf und werde nicht süchtig davon."
+7132,Kürbisüberraschung,,Haha! Ich bins im Kürbis! Hab ich dich erschreckt?
+1167,Kriegerschwert,Krieger-Set,
+2167,Kriegerrüstung,Krieger-Set,
+3167,Kriegerhelm,Krieger-Set,
+4167,Krieger-Beinschienen,Krieger-Set,
+1267,Magier-Zauberstab,Magier-Set,
+2267,Magier-Robe,Magier-Set,
+3267,Magier-Krone,Magier-Set,
+4267,Magier-Stiefel,Magier-Set,
+1367,Langbogen,Ranger-Set,
+2367,Ranger-Mantel,Ranger-Set,
+3367,Ranger-Köcher,Ranger-Set,
+4367,Ranger-Boots,Ranger-Set,
+1467,Mörder-Dolch,Mörder-Set,
+2467,Mörder-Haube,Mörder-Set,
+3467,Mörder-Ring,Mörder-Set,
+4467,Mörder-Schuhe,Mörder-Set,
+1567,Priester-Trank,Priester-Set,
+2567,Priester-Robe,Priester-Set,
+3567,Priester-Kreuz,Priester-Set,
+4567,Priester-Schuhe,Priester-Set,
+1168,Kriegerschwert,Krieger-Set,
+2168,Kriegerrüstung,Krieger-Set,
+3168,Kriegerhelm,Krieger-Set,
+4168,Krieger-Beinschienen,Krieger-Set,
+1268,Magier-Zauberstab,Magier-Set,
+2268,Magier-Robe,Magier-Set,
+3268,Magier-Krone,Magier-Set,
+4268,Magier-Stiefel,Magier-Set,
+1368,Langbogen,Ranger-Set,
+2368,Ranger-Mantel,Ranger-Set,
+3368,Ranger-Köcher,Ranger-Set,
+4368,Ranger-Boots,Ranger-Set,
+1468,Mörder-Dolch,Mörder-Set,
+2468,Mörder-Haube,Mörder-Set,
+3468,Mörder-Ring,Mörder-Set,
+4468,Mörder-Schuhe,Mörder-Set,
+1568,Priester-Trank,Priester-Set,
+2568,Priester-Robe,Priester-Set,
+3568,Priester-Kreuz,Priester-Set,
+4568,Priester-Schuhe,Priester-Set,
+1169,Kriegerschwert,Krieger-Set,
+2169,Kriegerrüstung,Krieger-Set,
+3169,Kriegerhelm,Krieger-Set,
+4169,Krieger-Beinschienen,Krieger-Set,
+1269,Magier-Zauberstab,Magier-Set,
+2269,Magier-Robe,Magier-Set,
+3269,Magier-Krone,Magier-Set,
+4269,Magier-Stiefel,Magier-Set,
+1369,Langbogen,Ranger-Set,
+2369,Ranger-Mantel,Ranger-Set,
+3369,Ranger-Köcher,Ranger-Set,
+4369,Ranger-Boots,Ranger-Set,
+1469,Mörder-Dolch,Mörder-Set,
+2469,Mörder-Haube,Mörder-Set,
+3469,Mörder-Ring,Mörder-Set,
+4469,Mörder-Schuhe,Mörder-Set,
+1569,Priester-Trank,Priester-Set,
+2569,Priester-Robe,Priester-Set,
+3569,Priester-Kreuz,Priester-Set,
+4569,Priester-Schuhe,Priester-Set,
+7133,Liebesgericht,,"Es sollte dir eine Ehre sein, doppelte Liebe zu erhalten."
+7134,Mafia-Lady,,Leiste mir Gesellschaft und ich bringe dir bei wie man sich benimmt~~
+7135,Blaue Rose,,"Auch wenn die ganze Welt dich aufgegeban hat, lasse ich dich nicht im Stich. Lass uns zusammen die Welt kontrollieren."
+7136,Tokyo-Erinnerung,,Willst du mich von der Vergangenheit erzählen hören?
+7137,Billardspielerin,,Pass auf! Ich übernehme keine Verantwortung für einen Spielunfall~
+7138,Dunkle Sägerin,,"Das ist meine neue Waffe. Hast du Angst davor? Keine Sorge, du wirst nicht das Versuchkaninchen sein."
+7139,Weihnachtsgeschenk,,Danke für dein Geschenk. Kann ich hier mit ihm im Arm schlafen?
+7140,Weihnachtself,,"Oh du hast mich entdeckt... Ich wollte nur allen einige Geschenke überbringen... Frohe Weihnachten, Senpai!"
+7141,Explosionsfeier,,Weihnachten ohne eine Explosion bringt keine Überraschung!
+6713,Ewiges Morgengrauen,,"
+Ein schneeweißer Schild von Uriel, der heiligen Ritterin, wurde in einer eleganten Form gestaltet und sieht deswegen hart und zuverlässig aus. Im Vergleich zu Uriels schlanken Körper scheint dieser Schild zu schwer zu sein.
+
+Genauso wie Uriel hat dieser Schild nach zahlreichen heftigen Kämpfen immer eine schöne Äußerlichkeit. Aber innerlich gibt es bestimmt schon viele Risse, da er schon lange unter Stress gestanden hat. Trotzdem versucht er sein Bestes zu geben um Uriel nicht zu enttäuschen.
+
+Warte... Warten wir auf das Morgengrauen."
+6714,Ewiges Morgengrauen,,"
+Ein schneeweißer Schild von Uriel, der heiligen Ritterin, wurde in einer eleganten Form gestaltet und sieht deswegen hart und zuverlässig aus. Im Vergleich zu Uriels schlanken Körper scheint dieser Schild zu schwer zu sein.
+
+Genauso wie Uriel hat dieser Schild nach zahlreichen heftigen Kämpfen immer eine schöne Äußerlichkeit. Aber innerlich gibt es bestimmt schon viele Risse, da er schon lange unter Stress gestanden hat. Trotzdem versucht er sein Bestes zu geben um Uriel nicht zu enttäuschen.
+
+Warte... Warten wir auf das Morgengrauen."
+6715,Ewiges Morgengrauen,,"
+Ein schneeweißer Schild von Uriel, der heiligen Ritterin, wurde in einer eleganten Form gestaltet und sieht deswegen hart und zuverlässig aus. Im Vergleich zu Uriels schlanken Körper scheint dieser Schild zu schwer zu sein.
+
+Genauso wie Uriel hat dieser Schild nach zahlreichen heftigen Kämpfen immer eine schöne Äußerlichkeit. Aber innerlich gibt es bestimmt schon viele Risse, da er schon lange unter Stress gestanden hat. Trotzdem versucht er sein Bestes zu geben um Uriel nicht zu enttäuschen.
+
+Warte... Warten wir auf das Morgengrauen."
+6716,Ewiges Morgengrauen,,"
+Ein schneeweißer Schild von Uriel, der heiligen Ritterin, wurde in einer eleganten Form gestaltet und sieht deswegen hart und zuverlässig aus. Im Vergleich zu Uriels schlanken Körper scheint dieser Schild zu schwer zu sein.
+
+Genauso wie Uriel hat dieser Schild nach zahlreichen heftigen Kämpfen immer eine schöne Äußerlichkeit. Aber innerlich gibt es bestimmt schon viele Risse, da er schon lange unter Stress gestanden hat. Trotzdem versucht er sein Bestes zu geben um Uriel nicht zu enttäuschen.
+
+Warte... Warten wir auf das Morgengrauen."
+6717,Ewiges Morgengrauen,,"
+Ein schneeweißer Schild von Uriel, der heiligen Ritterin, wurde in einer eleganten Form gestaltet und sieht deswegen hart und zuverlässig aus. Im Vergleich zu Uriels schlanken Körper scheint dieser Schild zu schwer zu sein.
+
+Genauso wie Uriel hat dieser Schild nach zahlreichen heftigen Kämpfen immer eine schöne Äußerlichkeit. Aber innerlich gibt es bestimmt schon viele Risse, da er schon lange unter Stress gestanden hat. Trotzdem versucht er sein Bestes zu geben um Uriel nicht zu enttäuschen.
+
+Warte... Warten wir auf das Morgengrauen."
+6718,Ewiges Morgengrauen,,"
+Ein schneeweißer Schild von Uriel, der heiligen Ritterin, wurde in einer eleganten Form gestaltet und sieht deswegen hart und zuverlässig aus. Im Vergleich zu Uriels schlanken Körper scheint dieser Schild zu schwer zu sein.
+
+Genauso wie Uriel hat dieser Schild nach zahlreichen heftigen Kämpfen immer eine schöne Äußerlichkeit. Aber innerlich gibt es bestimmt schon viele Risse, da er schon lange unter Stress gestanden hat. Trotzdem versucht er sein Bestes zu geben um Uriel nicht zu enttäuschen.
+
+Warte... Warten wir auf das Morgengrauen."
+7142,Teufelsbeschwörerin,,"Gott, bitte lass Senpai gesund und froh bleiben!"
+7143,Käfigschaukel,,Magst du meinen Rock heute? Wenn ja würde ich mich öfter so anziehen.
+7144,Winterleckerei,,"Geh weg, Bruno! Du hast doch deine eigenen Kekse!"
+7145,Zither Spielerin,,Für diese Aufführung habe ich speziell ein Kostüm angefertigt. Gefällt es dir?
+7146,Unerfahrene Magd,,"Wenn Anastasia nicht da ist, bin natürlich ich das oberste Dienstmädchen...! Hey, hör doch mal zu!"
+7147,Schiffzerstörer,,"Das ist kein Überfall! Aber wenn ich schon mal auf deinem Schiff bin, dann kann ich mir doch auch ein kleines Andenken mitnehmen…"
+7148,Frühlingsgefühle,,Senpai! Ich habe schon auf dich gewartet. Gehen wir?
+7149,Glückskarpfen,,"Ahahahaha! Hier, ein Geschenk zum Frühlingsfest! Gefällt es dir?"
+7150,Neujahrsgrüße,,"Eine laue Frühlingsbrise weht vorbei und etwas Feierliches liegt in der Luft... Alles Gute zum Frühlingsfest, Senpai!"
+7151,Frühlingsduft,,"Und schon ist der Frühling wieder da! Senpai, willst du mit mir den Duft der Pfirsichblüten genießen?"
+7152,Feierliche Röte,,"Senpai, ich habe gehört, dass zu einem schönen Sternenhimmel ein Feuerwerk passt... Heute habe ich extra für dich ein Feuerwerk vorbereitet. Gefällt dir dieses Frühlingsfest?"
+6719,Illusorische Klänge,,"
+Der neue außergewöhnliche Zauberstab, genutzt von der Dämonin der Täuschung - Apate. Sein Aussehen gleicht der Waffe, die die mysteriösen Kämpfer, die sich ""Idole"" nennen, auf dem Kampffeld nutzen. 
+
+Apate kennt die ""Idole"" nur vom Hörensagen, weshalb sie einiges über diese ""Idole"" auch missverstanden hat. Apate sagt, dass die Idole die Aufgabe haben, die Menschen mithilfe von Gesang zu verführen. Und aus dieser Idee heraus entwickelte sich auch der neue Zauberstab, mit dem Apate die Menschen noch mehr in ihren Bann ziehen kann. Auch wenn Apate das alles falsch verstanden hat, so haben die beiden Zauberstäbe dennoch die gleiche Funktion: Sie kreieren eine Illusion, auf die man sich bereitwillig einlässt. 
+
+Auch wenn es eigentlich nur eine Illusion ist, das Glücksgefühl, das man in ihr erlebt, ist dennoch echt... Oder?"
+6720,Illusorische Klänge,,"
+Der neue außergewöhnliche Zauberstab, genutzt von der Dämonin der Täuschung - Apate. Sein Aussehen gleicht der Waffe, die die mysteriösen Kämpfer, die sich ""Idole"" nennen, auf dem Kampffeld nutzen. 
+
+Apate kennt die ""Idole"" nur vom Hörensagen, weshalb sie einiges über diese ""Idole"" auch missverstanden hat. Apate sagt, dass die Idole die Aufgabe haben, die Menschen mithilfe von Gesang zu verführen. Und aus dieser Idee heraus entwickelte sich auch der neue Zauberstab, mit dem Apate die Menschen noch mehr in ihren Bann ziehen kann. Auch wenn Apate das alles falsch verstanden hat, so haben die beiden Zauberstäbe dennoch die gleiche Funktion: Sie kreieren eine Illusion, auf die man sich bereitwillig einlässt. 
+
+Auch wenn es eigentlich nur eine Illusion ist, das Glücksgefühl, das man in ihr erlebt, ist dennoch echt... Oder?"
+6721,Illusorische Klänge,,"
+Der neue außergewöhnliche Zauberstab, genutzt von der Dämonin der Täuschung - Apate. Sein Aussehen gleicht der Waffe, die die mysteriösen Kämpfer, die sich ""Idole"" nennen, auf dem Kampffeld nutzen. 
+
+Apate kennt die ""Idole"" nur vom Hörensagen, weshalb sie einiges über diese ""Idole"" auch missverstanden hat. Apate sagt, dass die Idole die Aufgabe haben, die Menschen mithilfe von Gesang zu verführen. Und aus dieser Idee heraus entwickelte sich auch der neue Zauberstab, mit dem Apate die Menschen noch mehr in ihren Bann ziehen kann. Auch wenn Apate das alles falsch verstanden hat, so haben die beiden Zauberstäbe dennoch die gleiche Funktion: Sie kreieren eine Illusion, auf die man sich bereitwillig einlässt. 
+
+Auch wenn es eigentlich nur eine Illusion ist, das Glücksgefühl, das man in ihr erlebt, ist dennoch echt... Oder?"
+6722,Illusorische Klänge,,"
+Der neue außergewöhnliche Zauberstab, genutzt von der Dämonin der Täuschung - Apate. Sein Aussehen gleicht der Waffe, die die mysteriösen Kämpfer, die sich ""Idole"" nennen, auf dem Kampffeld nutzen. 
+
+Apate kennt die ""Idole"" nur vom Hörensagen, weshalb sie einiges über diese ""Idole"" auch missverstanden hat. Apate sagt, dass die Idole die Aufgabe haben, die Menschen mithilfe von Gesang zu verführen. Und aus dieser Idee heraus entwickelte sich auch der neue Zauberstab, mit dem Apate die Menschen noch mehr in ihren Bann ziehen kann. Auch wenn Apate das alles falsch verstanden hat, so haben die beiden Zauberstäbe dennoch die gleiche Funktion: Sie kreieren eine Illusion, auf die man sich bereitwillig einlässt. 
+
+Auch wenn es eigentlich nur eine Illusion ist, das Glücksgefühl, das man in ihr erlebt, ist dennoch echt... Oder?"
+6723,Illusorische Klänge,,"
+Der neue außergewöhnliche Zauberstab, genutzt von der Dämonin der Täuschung - Apate. Sein Aussehen gleicht der Waffe, die die mysteriösen Kämpfer, die sich ""Idole"" nennen, auf dem Kampffeld nutzen. 
+
+Apate kennt die ""Idole"" nur vom Hörensagen, weshalb sie einiges über diese ""Idole"" auch missverstanden hat. Apate sagt, dass die Idole die Aufgabe haben, die Menschen mithilfe von Gesang zu verführen. Und aus dieser Idee heraus entwickelte sich auch der neue Zauberstab, mit dem Apate die Menschen noch mehr in ihren Bann ziehen kann. Auch wenn Apate das alles falsch verstanden hat, so haben die beiden Zauberstäbe dennoch die gleiche Funktion: Sie kreieren eine Illusion, auf die man sich bereitwillig einlässt. 
+
+Auch wenn es eigentlich nur eine Illusion ist, das Glücksgefühl, das man in ihr erlebt, ist dennoch echt... Oder?"
+6724,Illusorische Klänge,,"
+Der neue außergewöhnliche Zauberstab, genutzt von der Dämonin der Täuschung - Apate. Sein Aussehen gleicht der Waffe, die die mysteriösen Kämpfer, die sich ""Idole"" nennen, auf dem Kampffeld nutzen. 
+
+Apate kennt die ""Idole"" nur vom Hörensagen, weshalb sie einiges über diese ""Idole"" auch missverstanden hat. Apate sagt, dass die Idole die Aufgabe haben, die Menschen mithilfe von Gesang zu verführen. Und aus dieser Idee heraus entwickelte sich auch der neue Zauberstab, mit dem Apate die Menschen noch mehr in ihren Bann ziehen kann. Auch wenn Apate das alles falsch verstanden hat, so haben die beiden Zauberstäbe dennoch die gleiche Funktion: Sie kreieren eine Illusion, auf die man sich bereitwillig einlässt. 
+
+Auch wenn es eigentlich nur eine Illusion ist, das Glücksgefühl, das man in ihr erlebt, ist dennoch echt... Oder?"
+7153,Lila Blütentraum,,"Ich kenne das Schicksal einer jeden Blume hier. Rate mal, welche Blume für dich bestimmt ist?"
+7154,Hina-Matsuri,,Das gibt es nur für uns Mädchen an einem ganz bestimmten Feiertag. Bist du neidisch?
+7155,Feurige Liebe,,Dieses glitzernde Ding hier... Ist das für mich? Kann man das essen?
+7156,Lotosblume,,"Der Mond spiegelt sich auf der Wasseroberfläche und die Spitzen der Lotosblüten glänzen seinem Schein... Setz dich doch zu mir, Senpai!"
+7157,Geschmolzene Liebe,,"Diese Schokoladen sind alle für dich, Senpai~ Und diese hier habe ich extra für dich gemacht. Ich hoffe, sie schmeckt dir~"
+7158,Kartenzauber,,"Hahaha, mit meiner Magie kann ich das Publikum verzaubern! Oh, wer ist das? Aquaris und Turin? Ich weiß es nicht~"
+7159,Showmasterin,,"Senpai, ich hab eine Show für den 1. April vorbereitet. Hoffentlich gefällt sie dir!"
+7160,Radiosprecherin,,An alle Studierenden! Begebt euch schnell zur Kapselmaschine! Dort erwartet euch heute großes Glück!
+7161,Osterhäschen,,"Wo ich wohl meine Ostereier versteckt habe? Komm her, ich verrate es dir~"
+7162,Systemstörung,,Ohhhjeeee! Ein Systemfehler!!
+7163,Frühlingsregen,,"Ein Schleier aus Wolken bedeckt diesen Traum, und gleichend einer Perle im schwachen Wind drückt sich ein Tropfen durch seinen Saum."
+7164,Personal Trainerin,,"Ab sofort bin ich für das Training verantwortlich... Ohh, diese Peitsche liegt aber wirklich gut in der Hand..."
+7165,Frühlingsbrise,,"Hast du das gehört, Senpai? Der Wind ruft dich nach Hause!"
+7166,Trunkenheit,,Wein und Rauch betören meine Sinne. Ich lasse los und treibe ziellos vor mir hin...
+7167,Fröhliches Fischlein,,"Die Fischlein springen hin und her, tauchen mit mir ein ins tiefe Meer~"
+7168,Schläfriges Schäfchen,,"Wahhh~ Ich bin sooo müde... Senpai, hast du mich etwa heimlich beim Schlafen beobachtet?"
+7169,Treueschwur,,"Was ist denn das für ein Kleid? Heiraten?! Hahahaha! Lass uns doch lieber was abschlachten gehen, Senpai!"
+7170,Befreiende Spritze,,"Ein Körper geplagt von Krankheit und Schmerz? Komm her, diese Spritze wird dich von allem befreien..."
+7171,Genesung,,"Aua, mein verletztes Auge tut immer noch so weh… Hahaha! Reingelegt! Tut überhaupt nicht mehr weh!"
+7172,Privatärztin,,"Oh, das sieht aber gar nicht gut aus. Komm doch morgen zu mir in die Sprechstunde~"
+6725,Ruf des Todes,,"
+Sensinas Waffe wird auch die Sense der Kälte genannt. Ursprünglich war es eine ganz normale Sense, doch nachdem Sensina mit ihr mehr und mehr Leben nahm, begannen langsam die Seelen der Verstorbenen um die Schneide der Sense zu kreisen. 
+
+Die toten Seelen können sich nicht mehr befreien von ihr und zirkulieren unaufhaltsam um sie herum und murmeln vor sich hin. Sensina lässt sich davon nicht beeindrucken. Ganz im Gegenteil: Sie genießt sogar den, wie sie es nennt, „Gesang der toten Seelen“. Mit der Zeit geriet dieses Phänomen in Vergessenheit und die Menschen, die die Sense sahen, dachten, dass dieses Geräusch einfach ein Säuseln des Windes sei, der sich um die Sense windet. 
+
+Lass deinen Blick bloß nicht allzu lange auf der Sense ruhen, sonst wirst auch du bald die Stimme der Göttin des Todes in deinem Kopf säuseln hören."
+6726,Ruf des Todes,,"
+Sensinas Waffe wird auch die Sense der Kälte genannt. Ursprünglich war es eine ganz normale Sense, doch nachdem Sensina mit ihr mehr und mehr Leben nahm, begannen langsam die Seelen der Verstorbenen um die Schneide der Sense zu kreisen. 
+
+Die toten Seelen können sich nicht mehr befreien von ihr und zirkulieren unaufhaltsam um sie herum und murmeln vor sich hin. Sensina lässt sich davon nicht beeindrucken. Ganz im Gegenteil: Sie genießt sogar den, wie sie es nennt, „Gesang der toten Seelen“. Mit der Zeit geriet dieses Phänomen in Vergessenheit und die Menschen, die die Sense sahen, dachten, dass dieses Geräusch einfach ein Säuseln des Windes sei, der sich um die Sense windet. 
+
+Lass deinen Blick bloß nicht allzu lange auf der Sense ruhen, sonst wirst auch du bald die Stimme der Göttin des Todes in deinem Kopf säuseln hören."
+6727,Ruf des Todes,,"
+Sensinas Waffe wird auch die Sense der Kälte genannt. Ursprünglich war es eine ganz normale Sense, doch nachdem Sensina mit ihr mehr und mehr Leben nahm, begannen langsam die Seelen der Verstorbenen um die Schneide der Sense zu kreisen. 
+
+Die toten Seelen können sich nicht mehr befreien von ihr und zirkulieren unaufhaltsam um sie herum und murmeln vor sich hin. Sensina lässt sich davon nicht beeindrucken. Ganz im Gegenteil: Sie genießt sogar den, wie sie es nennt, „Gesang der toten Seelen“. Mit der Zeit geriet dieses Phänomen in Vergessenheit und die Menschen, die die Sense sahen, dachten, dass dieses Geräusch einfach ein Säuseln des Windes sei, der sich um die Sense windet. 
+
+Lass deinen Blick bloß nicht allzu lange auf der Sense ruhen, sonst wirst auch du bald die Stimme der Göttin des Todes in deinem Kopf säuseln hören."
+6728,Ruf des Todes,,"
+Sensinas Waffe wird auch die Sense der Kälte genannt. Ursprünglich war es eine ganz normale Sense, doch nachdem Sensina mit ihr mehr und mehr Leben nahm, begannen langsam die Seelen der Verstorbenen um die Schneide der Sense zu kreisen. 
+
+Die toten Seelen können sich nicht mehr befreien von ihr und zirkulieren unaufhaltsam um sie herum und murmeln vor sich hin. Sensina lässt sich davon nicht beeindrucken. Ganz im Gegenteil: Sie genießt sogar den, wie sie es nennt, „Gesang der toten Seelen“. Mit der Zeit geriet dieses Phänomen in Vergessenheit und die Menschen, die die Sense sahen, dachten, dass dieses Geräusch einfach ein Säuseln des Windes sei, der sich um die Sense windet. 
+
+Lass deinen Blick bloß nicht allzu lange auf der Sense ruhen, sonst wirst auch du bald die Stimme der Göttin des Todes in deinem Kopf säuseln hören."
+6729,Ruf des Todes,,"
+Sensinas Waffe wird auch die Sense der Kälte genannt. Ursprünglich war es eine ganz normale Sense, doch nachdem Sensina mit ihr mehr und mehr Leben nahm, begannen langsam die Seelen der Verstorbenen um die Schneide der Sense zu kreisen. 
+
+Die toten Seelen können sich nicht mehr befreien von ihr und zirkulieren unaufhaltsam um sie herum und murmeln vor sich hin. Sensina lässt sich davon nicht beeindrucken. Ganz im Gegenteil: Sie genießt sogar den, wie sie es nennt, „Gesang der toten Seelen“. Mit der Zeit geriet dieses Phänomen in Vergessenheit und die Menschen, die die Sense sahen, dachten, dass dieses Geräusch einfach ein Säuseln des Windes sei, der sich um die Sense windet. 
+
+Lass deinen Blick bloß nicht allzu lange auf der Sense ruhen, sonst wirst auch du bald die Stimme der Göttin des Todes in deinem Kopf säuseln hören."
+6730,Ruf des Todes,,"
+Sensinas Waffe wird auch die Sense der Kälte genannt. Ursprünglich war es eine ganz normale Sense, doch nachdem Sensina mit ihr mehr und mehr Leben nahm, begannen langsam die Seelen der Verstorbenen um die Schneide der Sense zu kreisen. 
+
+Die toten Seelen können sich nicht mehr befreien von ihr und zirkulieren unaufhaltsam um sie herum und murmeln vor sich hin. Sensina lässt sich davon nicht beeindrucken. Ganz im Gegenteil: Sie genießt sogar den, wie sie es nennt, „Gesang der toten Seelen“. Mit der Zeit geriet dieses Phänomen in Vergessenheit und die Menschen, die die Sense sahen, dachten, dass dieses Geräusch einfach ein Säuseln des Windes sei, der sich um die Sense windet. 
+
+Lass deinen Blick bloß nicht allzu lange auf der Sense ruhen, sonst wirst auch du bald die Stimme der Göttin des Todes in deinem Kopf säuseln hören."
+7173,Auf der Durchreise,,Was gibt es denn? Ist es dringend? Ich bin eigentlich etwas in Eile…
+7174,Rose des Todes,,"Blutrote Rosen umgeben mich und betören meine Sinne, doch mein Bolzen trifft präziser denn je."
+7175,All-In,,Bist du bereit alles auf eine Karte zu setzen?
+7176,Kinderärztin,,"Ich hätte nicht gedacht, dass ich hier auf dich treffe. Komm, setz dich doch zu mir~"
+7177,Zuckeräffchen,,"Nur noch einen kleinen Bissen, dann hab ich auch genug! Ich schwör’s!"
+7178,Dattelküchlein,,"Datteln, Bambusblätter, Reis... So und jetzt zusammenwickeln? Wah! Jetzt hab ich mich selbst eingewickelt!"
+7179,Drachenreiterin,,"Steig auf mein Drachenboot, Senpai, und wir lassen uns treiben... Weit, weit weg, bis in die Unendlichkeit, nur wir zwei~"
+7180,Frechdachs,,"Nee, das darfst du nicht! Nur ich darf das! Heee... Wenn du nicht aufhörst mich zu ärgern, dann weine ich ganz laut los!"
+7181,Tollpatsch,,Nimm dir doch noch ein Macaron! Und vielleicht noch eine Tasse warmen Kakao dazu? Ahhh! Vorsicht!
+7182,Frühjahrsputz,,台詞佔位
+7183,Schmetterlingseffekt,,"Dein Ring und deine Geste haben einen Sturm der Liebe in mir entfacht! Und er wird nicht mehr abflauen und uns beide tragen, bis in alle Ewigkeit!"
+7184,Weinkönigin,,"Es freut mich, dich auf dieser Party zu sehen, Senpai. Willst du auch ein Glas Rotwein?"
+7185,Tanz der Sterne,,Lass uns gemeinsam die Sternschnuppen zählen~
+7186,Ballkönigin,,"Es ist genug Wein für alle da! Ihr braucht euch nicht zurückhalten, trinkt so viel ihr wollt! Heute wird gefeiert!"

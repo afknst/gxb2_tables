@@ -1,0 +1,813 @@
+id,name,desc
+10001,Sunbath,Skin Store
+10002,No.Alpha,Skin Store
+10003,Sea Princess,Skin Store
+10004,Lines of Fate,Skin Store
+10005,Witch Suit,Skin Store
+10006,Battle Elite,Skin Store
+10007,Karate MSTR,Skin Store
+10008,Alice in Dream,Skin Store
+10009,Frozen Queen,Skin Store
+10010,Xmas Carnival,Skin Store
+10011,Xmas Fairy,Skin Store
+10012,Yukata Party,Skin Store
+10013,Frost Knight,Skin Store
+10014,New Year Dress,Exclusives
+10015,Sweetheart,Skin Store
+10016,Pink Sweetie,Skin Store
+10017,Sakura Rain,Skin Store
+10018,Night Rose,Oath
+10019,Equinox,Oath
+10020,Scarlet,Oath
+10021,Pink Praise,Oath
+10022,Ice Rose,Oath
+10023,White Rose,Oath
+10024,Full Bloom,Skin Store
+10025,Easter Hunter,Skin Store
+10026,Love Song,Oath
+10027,Red Rose,Oath
+10028,PJ Party,Skin Store
+10029,Angel Examiner,Skin Store
+10030,Human Examiner,Skin Store
+10031,Zongzi Carrier,Exclusives
+10032,Monster Examiner,Skin Store
+10033,Summer Breeze,Exclusives
+10034,Azure Sea,Exclusives
+10035,Demon Examiner,Exclusives
+10036,Party Pooper,Skin Store
+10037,Honey Goddess,Skin Store
+10038,Wave Surfer,Exclusives
+10039,Divine Bride,Oath
+10040,Rose Quartz,Oath
+10041,Ocean Breeze,Exclusives
+10042,Fairy Examiner,Exclusives
+10043,Summer Fantasy,Exclusives
+10044,White Kimono,Oath
+10045,Ghost Examiner,Exclusives
+10046,Pure Feather,Oath
+10047,Alluring Face,Hottie's Character Challenge
+10048,Eternal Flame,Oath
+10049,Graceful Veil,Oath
+10050,Soul Music,Exclusives
+10051,Rock Concert,"Exclusives, Skin Store"
+10052,Rolling Beat,"Exclusives, Skin Store"
+10053,Ground Bass,Exclusives
+10054,Sofa Bunny,Exclusives
+10055,Covert Ops,"Exclusives, Skin Store"
+10056,Grimoire,Exclusives
+10057,Radiant Plume,Exclusives
+10058,Fresh Start,Complete Fresh Start Missions of Iron Fist
+10059,Autumn Colors,Skin Store
+10060,Tricky Yokai,Exclusives
+10061,Candy Heist,Exclusives
+10062,Sweet Magic,Exclusives
+10063,Frostfire Comet,Exclusives
+10064,Shooting Star,"Exclusives, Skin Store"
+10065,Cyber Strike,Exclusives
+10066,Falling Petals,Exclusives
+10067,Light Breeze,Exclusives
+10068,Hot Springs,"Exclusives, Skin Store"
+10069,Tempting Heat,Exclusives
+10070,Hot Bath,Skin Store
+10071,Sylph,Exclusives
+10072,Atlantean,Exclusives
+10073,Magi's Gift,Exclusives
+10074,X-Mas Cutie,Exclusives
+10075,Winter Wonder,Exclusives
+10076,Icecrown Noble,Exclusives
+10077,Coffee Break,Exclusives
+10078,Lion Dance,Exclusives
+10079,Twins of Destiny,Exclusives
+10080,Sky Lantern,Exclusives
+10081,Queen of Hearts,Exclusives
+10082,Silverthorn Rose,Exclusives
+10083,Newbie Barista,Exclusives
+10084,Maid for a Day,Exclusives
+10085,Coffee Magic,Exclusives
+10086,Pretty in Pink,Exclusives
+10087,Sakura Sprite,Exclusives
+10088,Flower Maidens,Oath
+10089,Yume Referee,Exclusives
+10090,Homerun!,Exclusives
+10091,All-Star Jogger,Exclusives
+10092,Power Spike,Exclusives
+10093,Steam Musketeer,Exclusives
+10094,Teacher in White,Oath
+10095,Moonlight Sonata,Exclusives
+10096,Blooming Love,Oath
+10097,A Fortuitous Love,Oath
+21001,Afterglow,Antique Upgrade
+21002,Chalk,Campaign Loot
+21003,Stool,Campaign Loot
+21004,Wicked Machete,Campaign Loot
+21005,Alarm Light,Campaign Loot
+21006,Magic Guide Book,Campaign Loot
+22001,Golden Cube,Campaign Loot
+22002,Silver Crown,Campaign Loot
+22003,Witch Curse,Campaign Loot
+22004,Universal Bag,Campaign Loot
+22005,Advance Magic Guide,Campaign Loot
+23001,Clover,"Campaign Loot, Summon with Shards, Slot Machine"
+23002,Slingshot,"Campaign Loot, Summon with Shards, Slot Machine"
+23003,Kiss of Snow,"Campaign Loot, Summon with Shards, Slot Machine"
+23004,Black Belt,"Campaign Loot, Summon with Shards, Slot Machine"
+23005,Judo Headband,"Campaign Loot, Summon with Shards, Slot Machine"
+24001,Baseball Bat,"Summon with Shards, Market"
+24002,Katana,"Summon with Shards, Market"
+24003,Seals Book,"Summon with Shards, Market"
+24004,Dragon Teeth,"Summon with Shards, Market"
+24005,Oil Tank,"Summon with Shards, Market"
+24006,Leather Shoes,"Summon with Shards, Market"
+24007,Fruit Cake,"Summon with Shards, Market"
+25001,Angel Twig,"Summon with Shards, Market"
+25002,Flame Feather,"Summon with Shards, Market"
+25003,Demonic Blade,"Summon with Shards, Market"
+25004,Lighting Rune,"Summon with Shards, Market"
+25005,Brave Heart,"Summon with Shards, Market"
+25006,Lace Stockings,"Summon with Shards, Market"
+25007,Cherry Blossoms,"Summon with Shards, Market"
+25008,Dancing Mask,"Summon with Shards, Market"
+25009,Poker Queen,"Summon with Shards, Market"
+25010,Axe of Snow,"Summon with Shards, Market"
+25011,Christmas Tree,"Summon with Shards, Market"
+25012,Thunder Heart,"Summon with Shards, Market"
+25013,Super Potion,"Summon with Shards, Market"
+25014,Soul Pendant,"Summon with Shards, Market"
+25015,Gabriel's Song,"Summon with Shards, Market"
+25016,Demonic Book,"Summon with Shards, Market"
+25017,Fate Cross,"Summon with Shards, Market"
+25018,Fairy Crown,"Summon with Shards, Market"
+25019,Cat Hood,"Summon with Shards, Market"
+25020,Hosiery,"Summon with Shards, Market"
+25021,Beach Volleyball,"Summon with Shards, Market"
+25022,Heart Earring,"Summon with Shards, Market"
+25023,Magic Brick,"Summon with Shards, Market"
+25024,Sand of Time,"Summon with Shards, Market"
+25025,Gentle Knight,"Summon with Shards, Market"
+25026,Opposite,"Summon with Shards, Market"
+25027,Key of Mind,"Summon with Shards, Market"
+26001,Geisha's Blessing,Summon with Shards
+26002,Soul Censer,Summon with Shards
+26003,Muramasa,Summon with Shards
+26004,Rage of Flame,Summon with Shards
+26005,Recovery All,Summon with Shards
+26006,Power of Wind,Summon with Shards
+26007,Snowball,Summon with Shards
+26008,Black Magic Hat,Summon with Shards
+26009,Fate Guide,Summon with Shards
+26010,Seal Sword·Ghost,"Summon with Shards, Antique Store"
+26011,Shackle of Pain·Ghost,"Summon with Shards, Antique Store"
+26012,Spike Shield·Ghost,"Summon with Shards, Antique Store"
+26013,Sealed Heart·Human,"Summon with Shards, Antique Store"
+26014,Demon Blood·Human,"Summon with Shards, Antique Store"
+26015,Bow of Snow,"Summon with Shards, Antique Store"
+26016,Seal Sword·Monster,"Summon with Shards, Antique Store"
+26017,Shackle of Pain·Monster,"Summon with Shards, Antique Store"
+26018,Spike Shield·Monster,"Summon with Shards, Antique Store"
+26019,Sealed Heart·Fairy,"Summon with Shards, Antique Store"
+26020,Queen's Crown,"Summon with Shards, Antique Store"
+26021,Demonic Wings,"Summon with Shards, Antique Store"
+26022,Fate Mirror,"Summon with Shards, Antique Store"
+26023,Invisible Cloak,"Summon with Shards, Antique Store"
+26024,Swiss Army Knife,Summon with Shards
+26025,Perception Watch,Summon with Shards
+26026,Judgment Sword,"Summon with Shards, Antique Store"
+26027,Balance,"Summon with Shards, Antique Store"
+26028,Key to Heaven,"Summon with Shards, Antique Store"
+26029,Fate Crystal,Exclusives
+26030,The Wings of Icarus,Exclusives
+26031,Thorn's Heart,Exclusives
+26032,Fusion Umbrella,Exclusives
+26033,Echoes,Exclusives
+26034,Burning Blades,Exclusives
+26035,Silver Mirage,Exclusives
+26036,Neutron Blades,Exclusives
+26037,Warg's Bite,Exclusives
+26038,Chainblade Axe,Exclusives
+31001,1st League Event avatar,Exclusives
+31002,Solar Avatar,Champion of Elite League
+31003,Lunar Avatar,Second Place of Elite League
+31004,Gold Avatar,Third Place of Elite League
+31005,Silver Avatar,No.4-10 of Elite League
+31006,Bronze Avatar,No.11-20 of Elite League
+31007,Halloween Avatar,Exclusives
+31008,Jigsaw Special Avatar,Exclusives
+31009,New Year Avatar,Exclusives
+31010,Snow Exclusive,Exclusives
+31011,Limited Time Avatar,Exclusives
+31012,Spring Festival Exclusive avatar,Exclusives
+31013,“Miss Fortune”: Unlucky,Trophies
+31014,“Miss Fortune”: Poor,Trophies
+31015,“Miss Fortune”: Cursed,Trophies
+31016,Spring Exclusive Avatar,Exclusives
+31017,Oath Avatar,Exclusives
+31018,Easter Avatar,Exclusives
+31019,Mother's Day Avatar,Exclusives
+31020,Opening Ceremony Avatar,Exclusives
+31021,Dragon Boat Festival Avatar,Exclusives
+31022,Beach Game Avatar,Exclusives
+31023,Anniversary Exclusive Avatar,Exclusives
+31024,Summer Ice Cream Avatar,Exclusives
+31025,Sword of Determination,Exclusives
+31026,Band Performance,Exclusives
+31027,Maple Leaf,Exclusives
+31028,Black Cat,Exclusives
+31029,2020 Exclusive avatar,Exclusives
+31030,Exclusive Avatar for GXB2- FB Christmas event 2019,Media Event
+32001,Guild Battle Champion Avatar Frame,Guild War Champion
+32002,Guild Battle 2nd Place Avatar Frame,Guild War 2nd place
+32003,Guild Battle Semi-Finals Avatar Frame,Guild War Top 4
+32004,Guild Battle Final Eight Avatar Frame,Guild War Top 8
+32005,Guild Battle Final Sixteenth Avatar Frame,Guild War Top 16
+32006,True Oath,Exclusives
+32008,A Cool Summer,Exclusives
+32009,Pool Party,Exclusives
+32010,Band Performance,Exclusives
+32011,Senior Scholar,Exclusives
+32012,Ultimate League Top 64,Reach Top 64 in Ultimate League
+32013,Ultimate League Top 8,Reach Top 8 in Ultimate League
+32014,Ultimate League Top 4,Reach Top 4 in Ultimate League
+32015,Ultimate League Champion,Become the Champion in Ultimate League once
+32016,Ultimate League Champion,Become the Champion in Ultimate League twice
+32017,Ultimate League Champion,Become the Champion in Ultimate League for 3 times
+32018,Ultimate League Champion,Become the Champion in Ultimate League for 4 times
+32019,Ultimate League Champion,Become the Champion in Ultimate League for 5 times
+32020,Turin's Keepsake,Turin's Character Challenge
+32021,Love Bubble,Exclusives
+32022,Splendid,Media Event
+32023,Gold Medal Athlete,Exclusives
+32024,Silver Medal Athlete,Exclusives
+32025,Bronze Medal Athlete,Exclusives
+32026,Gear Inspection,Exclusives
+40001,Blank,Default
+40002,Wooden,Default
+40003,CardBoard,Furniture Store
+40004,Carton,Furniture Store
+40005,Tiny Table,Furniture Store
+40006,Paper Stool,Furniture Store
+40007,Straw Mat,Furniture Store
+40008,Plant,Furniture Store
+40009,Tea Set,Furniture Store
+40010,Bucket,Furniture Store
+40011,Cleaning Tool,Furniture Store
+40012,Story Book,Furniture Store
+40013,Storage Box,Furniture Store
+40014,Post-it,Furniture Store
+40015,Class List,Furniture Store
+40016,Poster,Furniture Store
+40017,Door,Furniture Store
+40018,Window,Furniture Store
+40019,Classroom Wall,Furniture Store
+40020,Classroom Floor,Furniture Store
+40021,Desk1,Furniture Store
+40022,Desk2,Furniture Store
+40023,Podium,Furniture Store
+40024,Class Chair1,Furniture Store
+40025,Class Chair2,Furniture Store
+40026,Tiny shelf,Furniture Store
+40027,Textbook,Furniture Store
+40028,Pen Holder,Furniture Store
+40029,Locker,Furniture Store
+40030,Cleaning Cabinet,Furniture Store
+40031,Pot Plant,Furniture Store
+40032,Cabinet Air Conditioner,Furniture Store
+40033,Rubbish Bin,Furniture Store
+40034,Movable Blackboard,Furniture Store
+40035,Blackboard1,Furniture Store
+40036,Blackboard2,Furniture Store
+40037,Classroom Door,Furniture Store
+40038,Clock,Furniture Store
+40039,Speaker on Wall,Furniture Store
+40040,Classroom Window,Furniture Store
+40041,Indoor Wallpaper,Furniture Store
+40042,Tatami,Furniture Store
+40043,Black Wood Table,Furniture Store
+40044,Cushion1,Furniture Store
+40045,Round Table,Furniture Store
+40046,Cushion2,Furniture Store
+40047,New Teaset,Furniture Store
+40048,Mega Lunch Box,Furniture Store
+40049,Flower Art1,Furniture Store
+40050,Flower Art2,Furniture Store
+40051,Floor Lamp,Furniture Store
+40052,Wafuu Bed,Furniture Store
+40053,Screen,Furniture Store
+40054,Landline Phone,Furniture Store
+40055,Lucky Painting,Furniture Store
+40056,Wafuu Gate,Furniture Store
+40057,Television,Furniture Store
+40058,Room Air Conditioner,Furniture Store
+40059,Fan-shaped Window,Furniture Store
+40060,Christmas Wallpaper,Furniture Store
+40061,Christmas Floor,Furniture Store
+40062,Christmas Carpet (White),Furniture Store
+40063,Christmas Carpet (Red),Furniture Store
+40064,Christmas Bed,Furniture Store
+40065,Christmas Couch,"Exclusives, Collection Store"
+40066,Christmas Table,Furniture Store
+40067,Christmas Stool,Furniture Store
+40068,Steak,Furniture Store
+40069,Turkey,Furniture Store
+40070,Bread,Furniture Store
+40071,Red Wine,Furniture Store
+40072,Christmas Tree,Furniture Store
+40073,Christmas Gift Box,Furniture Store
+40074,Santa Claus Doll,Furniture Store
+40075,Crystal Ball,"Exclusives, Collection Store"
+40076,Fireplace,Furniture Store
+40077,Christmas Blessing,Furniture Store
+40078,Christmas Window,Furniture Store
+40079,Christmas Decoration,Furniture Store
+40080,New Year Wallpaper,Furniture Store
+40081,Snow Field,Furniture Store
+40082,Sleeping Snowman,Furniture Store
+40083,Stone Table,Furniture Store
+40084,Stone Chair,Furniture Store
+40085,A pot of Tea,Furniture Store
+40086,Rock Road 1,Furniture Store
+40087,Rock Road 2,Furniture Store
+40088,Pond,Furniture Store
+40089,Wintersweet,Furniture Store
+40090,Lion Chair,Exclusives
+40091,Chinese Snack Store,Furniture Store
+40092,Breakfast Store,Furniture Store
+40093,Firework Store,Furniture Store
+40094,Small Firework,Furniture Store
+40095,Snowball Cannon,Exclusives
+40096,Red Lantern,Furniture Store
+40097,Spring Gate,Furniture Store
+40098,Spring Window,Furniture Store
+40099,Stone Lantern,Furniture Store
+40100,Wall of Cafe,Furniture Store
+40101,Floor Tile,Furniture Store
+40102,Cafe Counter,Furniture Store
+40103,Bar Chair,Furniture Store
+40104,Dessert Cabinet,Furniture Store
+40105,Coffee Machine,Furniture Store
+40106,Siphon,Furniture Store
+40107,Cashier,Furniture Store
+40108,Coffee Table,Furniture Store
+40109,A cup of coffee,Furniture Store
+40110,Coffee Chair 1,Furniture Store
+40111,Coffee Chair 2,Furniture Store
+40112,Bench,Furniture Store
+40113,Standing Sign,Furniture Store
+40114,Decorative Plant,Furniture Store
+40115,Cat Tree,Exclusives
+40116,Pastries,Furniture Store
+40117,Stairs,Furniture Store
+40118,Bookshelf,Furniture Store
+40119,Shelf,Furniture Store
+40120,Price List,Furniture Store
+40121,Coffee Shelf,Furniture Store
+40122,Coffee Beans,Furniture Store
+40123,Wall Picture,Furniture Store
+40124,Collector's Wall,Furniture Store
+40125,Collector's Floor,Furniture Store
+40126,Massage Bed,Furniture Store
+40127,Screw Table,Furniture Store
+40128,Workbench,Furniture Store
+40129,Work Chair,Furniture Store
+40130,Steam-Powered Lamp,Furniture Store
+40131,Typewriter,Furniture Store
+40132,Difference Engine,Furniture Store
+40133,Floor Clock,Furniture Store
+40134,Prop Rack,Furniture Store
+40136,Robotic Arm,Furniture Store
+40137,Steam Forge,Furniture Store
+40138,Machine Ball,Furniture Store
+40139,Tools,Furniture Store
+40140,Collector's Gate,Furniture Store
+40141,Machine Blueprint,Furniture Store
+40142,Steam Pipes,Furniture Store
+40143,Controller,Furniture Store
+50001,默認背景-教學樓前,Default
+50002,教學樓前-夜晚,Default
+50003,學校內部,Reach level 30
+50004,學園風景,Default
+50005,默認戰鬥載入圖1,Default
+50006,默認戰鬥載入圖2,Default
+50007,默認戰鬥載入圖3,Default
+50008,默認戰鬥載入圖4,Default
+50009,默認戰鬥載入圖5,Default
+50010,默認戰鬥載入圖6,Default
+50011,默認戰鬥載入圖7,Default
+50012,默認戰鬥載入圖8,Default
+50013,默認戰鬥載入圖9,Default
+50014,默認戰鬥載入圖10,Default
+50015,教堂內部,Oath
+50016,Playground,Purchase with Coins
+50017,Dracula's Castle,Graduate Dracula
+50018,House Ghost,Clear Chapter 3 of Campaign
+50019,Ghost Background,Purchase with Coins
+50020,Human Background,Purchase with Coins
+50021,Monster Background,Purchase with Coins
+50022,Fairy Background,Purchase with Coins
+50023,Demon Background,Purchase with Coins
+50024,Angel Background,Purchase with Coins
+50025,隱蹤學院路西法,Clear Chapter 3 of Campaign
+50026,愛德華照片,Clear Chapter 4 of Campaign
+50027,重生炎姬,Purchase with Gem
+50028,婚紗loading圖,"Form an Oath with Michael, Lucifer, Ennmaya, KongMing, Iron Fist, Fencer, Saint, Dracula"
+50029,周年慶loading圖,Purchase with Gem
+50030,沙灘loading圖,Purchase with Gem
+50031,聖誕loading圖,Purchase with Gem
+50032,水鏡&加百列loading圖,Purchase with Gem
+50033,新年loading圖,Purchase with Gem
+50034,沙滩主界面,Purchase with Gem
+50035,音乐节loading图,Purchase with Gem
+50036,女武神loading图,Purchase with Gem
+50037,温泉loading图,Purchase with Gem
+50038,Twins of Fate,Easu & Jacob's Character Challenge
+50039,炉边圣诞,Purchase with Gem
+50040,赤莲春节,Purchase with Gem
+50041,运动会桌面,Purchase with Gem
+60001,The eye of Vulcan,Exclusives
+60002,Turin's Game,Exclusives
+71001,Hey there!,Default
+71002,Cute!,Default
+71003,Hug me! Now!,Default
+71004,Get Over there!,Default
+71005,Me?,Default
+71006,Oh well..,Default
+71007,That's The Last Straw!!!,Default
+71008,How could you?!,Default
+71009,Leave me alone QAQ,Default
+71010,Coming To Help!,Default
+71011,So hot,Default
+71012,*Blush*,Default
+71013,Well..You got me..,Default
+71014,Hello? Police?,Default
+71015,*Poker Face*,Default
+71016,...,Default
+71017,I'm spying on you!,Default
+71018,Taa-daa! It's me!,Default
+71019,Wanna play?,Default
+71020,I'll pass.,Default
+71021,Let's Do This!,Default
+71022,Here Goes Nothing!,Default
+71023,*Ouch*,Default
+71024,Thx!,Default
+72001,Happy Halloween!,"Default, available during corresponding festival"
+72002,Trick or Treat!,"Default, available during corresponding festival"
+72003,Boo!,"Default, available during corresponding festival"
+72004,Do you have more candy?,"Default, available during corresponding festival"
+72005,OK,Default
+72006,I love it!,Default
+72007,Explain that one to me,Default
+72008,I'll remember that!,Default
+72009,I'm sleepy,Default
+72010,HI~,Default
+72011,*Tear*,Default
+72012,I see you,Default
+72013,Yay,Character Challenge·Phoenix
+72014,Grievance,Character Challenge·Iron Fist
+72015,Total Confidence,Character Challenge·Linky
+72017,Shocked,Trophies
+72018,Unpleasant,Trophies
+10098,King's Musketeer,Exclusives
+32027,Ultimate League Champion,Become the Champion in Ultimate League for 6 times
+32028,Ultimate League Champion,Become the Champion in Ultimate League for 7 times
+32029,Ultimate League Champion,Become the Champion in Ultimate League for 8 times
+32030,Ultimate League Champion,Become the Champion in Ultimate League for 9 times
+32031,Ultimate League Champion,Become the Champion in Ultimate League for 10 times
+32032,Beginner Collector,Collection Store
+32033,Normal Collector,Collection Store
+32034,Legendary Collector,Collection Store
+31031,Avatar for Beginner Collector,Collection Store
+31032,Avatar for Normal Collector,Collection Store
+31033,Avatar for Legendary Collector,Collection Store
+40135,Time Machine,Steampunk Madness - S2
+40144,Penetralium Wall,Steampunk Madness - S2
+40145,Penetralium Floor,Steampunk Madness - S2
+40146,Penetralium Carpet,Furniture Store
+40147,Penetralium Sofa,Steampunk Madness - S2
+40148,Luxury Screen,Furniture Store
+40149,Luxury Storage Box,Furniture Store
+40150,Dressing Chair,Furniture Store
+40151,Dressing Table,Furniture Store
+40152,Mirror,Furniture Store
+40153,Luxury Curtains,Steampunk Madness - S2
+10100,Tea master,Exclusives
+10101,Past Idol,Exclusives
+10102,Summer Outfit,Exclusives
+32035,Mecha Flash,Steampunk Madness - S2
+10103,Steam Noble,Steampunk Madness - S2
+10104,Alpha Wolf,Exclusives
+10105,Party Expert,Exclusives
+32036,2nd Anniversary Frame,Exclusives
+31034,2nd Anniversary Avatar,Exclusives
+72021,Is that it?,Exclusives
+72022,I see,Exclusives
+72023,I'm Angry,Exclusives
+72024,Congratulations!,Exclusives
+72025,Do you want some?,Exclusives
+72026,Drinking,Exclusives
+72027,Have a nice dream,Exclusives
+72028,Surprise!,Exclusives
+26040,Carnival Staff,Exclusives
+50042,2nd Anniversary Cake,Exclusives: 2nd Anniversary Puzzle
+10106,Pop Champagne!,Exclusives
+10107,Mistress of War,Exclusives
+32037,Famous Anchor,Media Event
+32038,Summer Heat,Exclusives
+10099,Sun Glitter,Exclusives
+10108,Sea Warrior,Exclusives
+40154,Beach Chair,Furniture Store
+40155,Beach Table,Furniture Store
+40156,Portable Fridge,Furniture Store
+40157,Beach Mat,Furniture Store
+40158,Sand Turtle,Furniture Store
+40159,Lifeguard Stand,Furniture Store
+40160,Sandcastle,Furniture Store
+40161,Sand Art Tools,Furniture Store
+40162,Volleyball Net,Furniture Store
+40163,Belongings,Furniture Store
+40164,Palm Tree,Furniture Store
+40165,Surfboard,Furniture Store
+40166,Watermelons,Furniture Store
+40167,Cream Soda,Furniture Store
+40168,Starfish,Furniture Store
+40169,Conch,Furniture Store
+40170,Lifebuoy,Furniture Store
+40171,Boundary 1,Furniture Store
+40172,Boundary 2,Furniture Store
+40173,Boundary 3,Furniture Store
+40174,Transparent Wallpaper,Furniture Store
+40175,Transparent Floor,Furniture Store
+32039,Eternal Love,Exclusives
+10109,Sea Spells,Exclusives
+10110,Beach Pod,Exclusives
+10111,Full View,Exclusives
+10112,Wave Mistress,Exclusives
+10113,Halo Shimmer,Exclusives
+40176,Boundary 4,Furniture Store
+40177,Beach,Default
+40178,Default Background,Default
+40179,Common Background 1,Furniture Store
+40180,Common Background 2,Furniture Store
+40181,Common Background 3,Furniture Store
+10114,Sweet Berry,Exclusives
+72019,Ignore my mistake,Krystal's Character Challenge
+10115,Seaside Maid,Exclusives
+10116,Oceanic Twins,Exclusives
+10117,Bee Mechanic,Steampunk Madness - S3
+31035,Trinity's Limited Avatar,Admission Prep
+32040,City of Steam,Steampunk Madness - S3
+50043,Sweet Memory,Purchase with Gem
+50044,House Ghost,Unlock 45 Ghost-Faction Girls' Card in Gallery
+50045,House Human,Unlock 45 Human-Faction Girls' Card in Gallery
+50046,House Monster,Unlock 45 Monster-Faction Girls' Card in Gallery
+50047,House Fairy,Unlock 45 Fairy-Faction Girls' Card in Gallery
+50048,House Demon,Unlock 18 Demon-Faction Girls' Card in Gallery
+50049,House Angel,Unlock 18 Angel-Faction Girls' Card in Gallery
+10118,Sunkissed,Exclusives
+10119,Perfect Dynamic,Exclusives
+26041,Soul Destruction,Exclusives
+10120,Red Riding Hood,Exclusives
+10121,Snow White,Exclusives
+31036,Fairytale Land,Exclusives
+60003,Eggret's Book,Exclusives
+10122,Cinderfelina,Exclusives
+32041,Immortal Champion,Earn the first place in the Exam of House Ghost
+32042,Fierce Warrior,Earn the first place in the Exam of House Human
+32043,Monster Conqueror,Earn the first place in the Exam of House Monster
+32044,Notorious Victor,Earn the first place in the Exam of House Fairy
+32045,Darkness Prevails,Earn the first place in the Exam of House Demon
+32046,Light Bringer,Earn the first place in the Exam of House Angel
+10123,Princess Kaguya,Exclusives
+31037,Moon Festival Avatar,Exclusives
+40182,Fluorescent Wallpaper,Furniture Store
+40183,Floor,Furniture Store
+40184,Claw Crane,Furniture Store
+40185,Racing Car,Furniture Store
+40186,Fluorescent Blocks,Furniture Store
+40187,Glass Door,Furniture Store
+40188,Wall Screen,Furniture Store
+40189,Ranking list,Furniture Store
+40190,Arcade Game,Furniture Store
+40191,Bball Arcade Game,Furniture Store
+40192,Dance Pad,Furniture Store
+40193,Reward Cabinet,Furniture Store
+40194,Arcade Bar,Furniture Store
+40195,Computer Desk,Furniture Store
+40196,Computer Chair,Furniture Store
+40197,Pink Headset,Furniture Store
+40198,Green Headset,Furniture Store
+40199,Portable Console,Furniture Store
+72020,Go ahead,Character Challenge·Raphael
+10124,Autumn Twirl,Exclusives
+10125,Soul Reflection,Exclusives
+10126,Pure Spirit,Exclusives
+10127,Monsieur Bubbles,Steampunk Madness - S4
+32047,Chrono Lens,Steampunk Madness - S4
+10128,Veiled Bride,Oath
+10129,Heavenly Tune,Exclusives
+31038,SP. Rogue,Exclusives
+31039,Halloween Lollipop,Exclusives
+10130,Pumpkin Kitty,Exclusives
+10131,Soul Reaper,Exclusives
+26042,Sacred Vial,Exclusives
+10132,Troublemaker,Exclusives
+10133,Heavens Descend,Oath
+40200,School Night,Furniture Store
+31040,Thanksgiving Avatar,Exclusives
+10134,Nocturnal Healer,Exclusives
+31041,Limit: Vivian,Exclusives
+31042,Limit: Joan,Exclusives
+31043,Limit-Break 5,Trophies
+10135,Ultimate Oath,Oath
+10136,Gokudō,Exclusives
+10137,Black Hornet,Exclusives
+10138,Devil's Sawtooth,Steampunk Madness - S5
+32048,Pressure Gage,Steampunk Madness - S5
+10139,Sleepy Reindeer,Exclusives
+31044,Uriel & Izanami Exclusive,Exclusives
+10140,Santa's Assistant,Exclusives
+10141,Santa Deity,Exclusives
+26043,Eternal Dawn,Exclusives
+72029,Bully,Exclusives
+72030,Face Pinch,Exclusives
+72031,Onlooker,Exclusives
+72032,How Dare You,Exclusives
+40201,Computer Chair 2,Furniture Store
+40202,Party Floor,Furniture Store
+40203,Party Wallpaper,Furniture Store
+40204,Snow Scene Window,Furniture Store
+40205,Red Curtain,Furniture Store
+40206,LED Christmas Tree,Furniture Store
+40207,Candy Train,Furniture Store
+40208,Green Candy Cart,Furniture Store
+40209,Blue Candy Cart,Furniture Store
+40210,Train Track 1,Furniture Store
+40211,Train Track 2,Furniture Store
+40212,Train Track 3,Furniture Store
+40213,Train Track 4,Furniture Store
+40214,Red Nutcracker,Furniture Store
+40215,Blue Nutcracker,Furniture Store
+40216,Round Dining Table,Furniture Store
+40217,Candle Holder,Furniture Store
+40218,Tea Set 2,Furniture Store
+40219,Swing,Furniture Store
+40220,Christmas Cake,Furniture Store
+40221,Gingerbread House,Furniture Store
+40222,Gingerbread Man (Green),Furniture Store
+40223,Gingerbread Man (Red),Furniture Store
+40224,Kids Bed,Furniture Store
+40225,Candy Box,Furniture Store
+40226,Candy Bag,Furniture Store
+40227,Christmas Snow,Furniture Store
+31045,Exclusive 2020 Christmas Avatar,Exclusives
+32049,Christmas Reindeer,Exclusives
+50050,Forest (night),Purchase with Coins
+50051,Forest,Purchase with Coins
+50052,Among the stars,Clear Chapter 11 of Campaign
+50053,Grand Library Ulbricht,Clear Chapter 12 of Campaign
+50054,Dojo,Win 100 Battles in Junior Varsity
+50055,Summer Festival,Clear Chapter 4 of Campaign
+50056,Beach Holiday,Purchase with Gem
+50057,Secret Society,Purchase with Gem
+10142,Shrine Visit,Exclusives
+31046,Happy 2021,Exclusives
+10143,Floral Dreams,Oath
+10144,Cookie Snatcher,Exclusives
+10145,Dark Phoenix,Exclusives
+32050,Exploration Master,Top 10 in Old Campus Exploration
+31047,Limit: Vera,Exclusives
+26044,Sealed Heart·Ghost,"Summon with Shards, Antique Store"
+26045,Demon Blood·Ghost,"Summon with Shards, Antique Store"
+26046,Seal Sword·Human,"Summon with Shards, Antique Store"
+26047,Shackle of Pain·Human,"Summon with Shards, Antique Store"
+26048,Spike Shield·Human,"Summon with Shards, Antique Store"
+26049,Sealed Heart·Monster,"Summon with Shards, Antique Store"
+26050,Demon Blood·Monster,"Summon with Shards, Antique Store"
+26051,Seal Sword·Fairy,"Summon with Shards, Antique Store"
+26052,Shackle of Pain·Fairy,"Summon with Shards, Antique Store"
+26053,Spike Shield·Fairy,"Summon with Shards, Antique Store"
+26054,Demon Blood·Fairy,"Summon with Shards, Antique Store"
+26055,Seal Sword·Angel,"Summon with Shards, Antique Store"
+26056,Shackle of Pain·Angel,"Summon with Shards, Antique Store"
+26057,Spike Shield·Angel,"Summon with Shards, Antique Store"
+26058,Sealed Heart·Angel,"Summon with Shards, Antique Store"
+26059,Demon Blood·Angel,"Summon with Shards, Antique Store"
+26060,Seal Sword·Demon,"Summon with Shards, Antique Store"
+26061,Shackle of Pain·Demon,"Summon with Shards, Antique Store"
+26062,Spike Shield·Demon,"Summon with Shards, Antique Store"
+26063,Sealed Heart·Demon,"Summon with Shards, Antique Store"
+26064,Demon Blood·Demon,"Summon with Shards, Antique Store"
+26065,Crossbow,"Summon with Shards, Antique Store"
+26066,Dice of Destiny,"Summon with Shards, Antique Store"
+26067,Magic Hat,"Summon with Shards, Antique Store"
+26068,Kagura Bell,"Summon with Shards, Antique Store"
+26069,Guardian Gauntlet,"Summon with Shards, Antique Store"
+26070,Holy Grail,"Summon with Shards, Antique Store"
+26071,AI Teddy Staff,"Summon with Shards, Antique Store"
+26072,Yume Lantern,"Summon with Shards, Antique Store"
+26073,Samurai Helmet,"Summon with Shards, Antique Store"
+26074,Stinger,"Summon with Shards, Antique Store"
+26075,Sacred Handbell,"Summon with Shards, Antique Store"
+26076,Secret Keys,"Summon with Shards, Antique Store"
+10146,Supreme Maid,Exclusives
+10147,Tricky Pirate,Steampunk Madness - S6
+10148,Fluffy Bond,Oath
+50058,Christmas Party,Purchase with Gem
+32051,Mecha Voyage,Steampunk Madness - S6
+10149,Festive Glory,Exclusives
+10150,Sweet Panda,Exclusives
+10151,Gentle Grace,Exclusives
+10152,Festive Maiden,Exclusives
+31048,Limit: Apate,Exclusives
+31049,Limit: Skye,Exclusives
+26077,Deception,Exclusives
+32052,Amorous Oath,Exclusives
+10153,Violet Prophecy,Exclusives
+10154,Doll Tradition,Exclusives
+10155,Wild Aroma,Oath
+10156,Serenity,Exclusives
+31050,Mika's Limited Avatar,Exclusives
+31051,Von Helsing's Limited Avatar,Exclusives
+10157,Bonbon,Exclusives
+10158,Jester,Exclusives
+10159,Droopy Clown,Exclusives
+50059,Lucky Koi,Purchase with Gem
+10160,Broadcaster,Fantasy Book
+10161,Easter Parade,Exclusives
+10162,AI Joker,Exclusives
+72033,Cool Down,Character Challenge·Scythe
+40228,Secret Bag,Fantasy Book
+10163,Dreamy Clouds,Exclusives
+32053,Afternoon Break,Fantasy Book
+31052,Limit: Estel,Exclusives
+10164,Private Trainer,Exclusives
+10165,Holiday Mode,Exclusives
+10166,Magical Haze,Exclusives
+10167,Wonder Fish,Exclusives
+10168,Counting Sheep,Exclusives
+10169,Wild Vow,Oath
+31053,Limit: Blair,Exclusives
+10170,Pure Injection,Exclusives
+10171,Exploding Recovery,Exclusives
+31054,Limit: Holly,Exclusives
+10172,Radiant Healer,Exclusives
+26078,Reaper's Voice,Exclusives
+10173,Ticking Time,Exclusives
+10174,Deadly Vines,Fantasy Book
+40230,Church Floor,Furniture Store
+40231,Church Wallpaper,Furniture Store
+40232,Wedding Cake,Furniture Store
+40233,Roman Pillar,Furniture Store
+40234,Wedding Wall Decor,Furniture Store
+40235,Main Wedding Table,Furniture Store
+40236,Wedding Reception Table,Furniture Store
+40237,Wedding Chair 1,Furniture Store
+40238,Wedding Chair 2,Furniture Store
+40239,Wedding Bench 1,Furniture Store
+40240,Wedding Bench 2,Furniture Store
+40241,Wedding Arch (Pink),Furniture Store
+40242,Wedding Arch (Red),Furniture Store
+40243,Flower Stand (Pink),Furniture Store
+40244,Flower Stand (Red),Furniture Store
+40245,Oath Platform,Furniture Store
+40246,Podium Stand,Furniture Store
+40247,Grand Piano,Furniture Store
+40248,Wedding Carpet,Furniture Store
+40249,Wedding Stanchion,Furniture Store
+40250,Fruit Tarts,Furniture Store
+40251,Dessert,Furniture Store
+40252,Champagne,Furniture Store
+32054,Summer Vines,Fantasy Book
+40229,Hunting Crossbow,Fantasy Book
+31055,Limit: Teresa,Exclusives
+10175,Dangerous Gamble,Oath
+10176,Purity,Exclusives
+32055,Sky Traveler,Sky Island
+10178,Food Prepper,Exclusives
+10177,Snack Eater,Exclusives
+10179,Orchid Fragrance,Exclusives
+10180,Rawr,Exclusives
+10181,Oopsy Daisy,Exclusives
+10182,House Cleaning,Exclusives
+10183,Butterfly Effect,Oath
+50060,Bedroom,Purchase with Coins
+50061,Pedestrian Bridge,Purchase with Coins
+50062,Dorm Building (Inside),Purchase with Coins
+50063,Secret Lab,Purchase with Coins
+50064,Training Field,Purchase with Coins
+50065,Opening Ceremony (Outside)  ,Purchase with Coins
+31056,Limit: Frexie & Angelica,Exclusives
+31057,3rd Anniversary Avatar,Exclusives
+10184,Evening Gown,Exclusives
+72034,Victorious,Exclusives
+72035,I HATE YOU,Exclusives
+72036,Pretend to be happy,Exclusives
+72037,Oopsy,Exclusives
+72038,Jolly Good,Exclusives
+72039,Cheers!,Exclusives
+10185,Starry Flare,Exclusives
+50066,Party of Clowns,Purchase with Gem
+32056,3rd Exclusive Frame - First Meet,Exclusives
+32057,3rd Exclusive Frame - Starlight,Exclusives
+32058,3rd Exclusive Frame - Candles,Exclusives
+32059,3rd Exclusive Frame - Feast,Exclusives
+32060,3rd Exclusive Frame - Stellar,Exclusives
+10186,Party Queen,Exclusives

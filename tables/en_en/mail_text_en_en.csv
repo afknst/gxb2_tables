@@ -1,0 +1,196 @@
+id,name,from,content
+1,Daily League Rewards,League Mail,Congratulations on achieving rank {2} in League of {1}. Your rewards will be sent to you by Mail on the FrontPage.
+2,End of Season Rewards,League Mail,"As the Principal of the Yume Academy, I would like to congratulate you for achieving rank {1} in Junior Varsity. Your excellent skills and bravery have won you the following rewards."
+3,New Server Bonus,System Message,"Login every day during the event and you will receive Gems x 50, Normal Slot Tickets x 2, League Tickets x 2. Your rewards are attached."
+4,Monthly Pass,Monthly Pass,"Congratulations! From {1}, you will get 370 gems each day at 00:00 am (UTC/GMT 0). The Gems from the first day will be sent immediately after purchasing the Monthly Pass."
+5,Monthly Pass Rewards,Monthly Pass,"Dear VIP {1} player, please collect the following rewards in time. Your Monthly Pass will expire in {2} days."
+6,Monthly Pass Expired,Monthly Pass,"Dear Senpai, your Monthly Pass has expired. Please visit the Homework section to renew your Monthly Pass. As a reminder, the Monthly pass is 13 times cheaper than buying Gems individually!"
+7,Mini Pass,Mini Pass,"Congratulations! From {1}, you will get 85 gems each day at 00:00 am (UTC/GMC 0). The Gems from the first day will be sent immediately after purchasing the Mini Pass."
+8,Mini Pass Rewards,Mini Pass,"Dear Senpai, please collect the following rewards in time. Your Mini Pass will expire in {1} day(s)."
+9,Mini Pass Expired,Mini Pass,"Dear Senpai, your Mini Pass has expired. Please visit the Homework section to renew your Mini Pass. As a reminder, the Mini pass is 10 times cheaper than buying Gems individually!"
+10,Summon Girl Rewards,Summon Rewards,Congratulations on summoning {1} during the event. Your rewards are available in Mail on the FrontPage.
+11,Daily Rewards,System Message,Login daily during the event to get Adv. Capsule Coin x3. Your rewards are attached.
+12,Capsule Reward,System Message,"Congratulations, you've completed {1} Adv. Capsule Draws during event Girls X Capsule Points, here's your reward."
+13,Daily Rewards,System Message,Login every day during the event and you will receive Seal x 1. Your rewards are attached.
+14,Enroll Rewards,System Message,Congratulations on reaching {1} points during the Enroll event. Here are your rewards~!
+15,Boss Fight Rewards,System Message,Congratulations on defeating your friend's Boss. You have received the following rewards for your service!
+16,Boss Fight Rewards,System Message,The friend BOSS you found has been defeated. You have received the following rewards for your help!
+17,Co-op Rank Rewards,System Message,Congratulations! You achieved rank {1} for helping with Friend Battles. Here are your rewards~!
+18,Girls Assembly Rewards,System Message,Congratulations! You reached a goal during the Girls Assembly Event. The following are your rewards.
+19,Beta Period Reload Rebate,System Message,Thank you for purchasing {1}. Here is your bonus reward for supporting us during the testing phase!
+20,Lottery Rewards,System Message,Congratulations! You reached {1} points during the Slot Machine Event! Here are your rewards~!
+21,Daily Rewards,System Message,"Login daily during the event to get Super Slot Ticket x 1, Elemental Orb x 100, Percussion Mallet x 1. Your rewards are attached."
+22,Internship Rewards,System Message,Congratulations! You've completed {1} star internship quest during the Internship Event! Here are your rewards.
+23,Reload Notice,System Message,Thank you for purchasing {1}. Your items are available in Bag. Have a look~!
+24,Daily Rewards,System Message,"Login every day during the event and you will receive Rudder x 5, Gem x 150, Scratch Ticket x 1. Your rewards are attached."
+25,League Battle Rewards,System Message,Congratulations! You reached a goal during the League event. Here are your rewards~!
+26,Subscription,Subscription,Congratulations! You are a Weekly Pass holder. Your Coin Loot will increase by 100% for the next 168 hours. This benefit is combined with VIP benefits.
+27,Weekly Pass will expire,Weekly Pass,Your Weekly Pass expires today. Please renew your Weekly Pass to continue enjoying the benefits. Looting Coin is increased 100% while the pass is active~!
+28,Graduate & Awake,System Message,Congratulations! You Graduated {1} to 5-stars. Your rewards are attached~!
+29,Graduate & Awake,System Message,Congratulations! You Graduated {1} to 6-stars. Here are your rewards!
+30,Guild Boss Rank Rewards,Guild Mail,Congratulations! The Guild Boss has been defeated. Here are your rewards.
+31,Defeat Guild Boss Rewards,Guild Mail,Congratulations! The Guild Boss has been defeated. Here are your rewards.
+32,Guild Boss,Guild Mail,You have defeated this Boss multiple times. There are no more rewards available.
+33,Leader Nomination,Guild Mail,{1} is no longer the Guild leader. {2} is the new leader of Guild {3}
+34,Deputy Leader Nomination,Guild Mail,You have been appointed the Deputy Leader of Guild {1}
+35,Deputy Leader Recall,Guild Mail,Now you are no longer the Deputy Leader of Guild {1}.
+36,Expelled from Guild,Guild Mail,You have been expelled. You are no longer a member of Guild {1}
+37,Guild Dissolution,Guild Mail,{1} has been dissolved. You no longer belong to any Guild.
+38,Join Guild,Guild Mail,Congratulations. You have successfully joined Guild {1}. Remember to sign in daily~!
+39,Daily Rewards,System Message,"Login every day during the event and you will receive Elemental Orb x 100, Game Card x 1. Your rewards are attached."
+40,End of Season Rewards,League Mail,"As the Principal of the Girls Academy, I would like to congratulate you for achieving rank {1} in Varsity. Your excellent skills and bravery have won you the following rewards."
+41,Varsity,System Message,"Dear Senpai, Varsity is available in League Arena. Here are 5 tickets. Good luck on your fight for glory!"
+42,Part-time Job Rewards,System Message,Congratulations! You achieved rank {1} in Part-time Job! Here are your rewards~!
+43,Part-time Job Rewards,System Message,You finished the Part-time Job! Here are your rewards~!
+44,Handmade Crafting Rewards,System Message,You have completed the Handmade Craft! Here are your rewards~!
+45,Exploration Rewards,System Message,You have completely explored the wilderness! Here are your rewards~!
+46,Varsity League Will End,System Message,"Dear Senpai, Varsity will be ending in less than 24 hours! Please quickly go to Varsity League Arena and defend your glory!"
+47,Voice Actress Share Rewards,System Message,Thank you for participating in the Voice Of Love event! Here are your rewards!
+48,Daily Rewards,System Message,"Login every day during the event and you will receive Super Slot Ticket x 1, Hourglass x 5. Your rewards are attached."
+49,Part-time Job,System Message,"Senpai! The Practical Work is starting! Here, use this Hourglass x 4 so you can join the event!"
+50,Elite League Available,League Mail,Senpai! Elite League is now available! Come over and join the battle at Elite League!
+51,Elite League Ending,League Mail,Senpai! The Elite League is ending in under 24 hours! Come fight at Elite League to earn rewards!
+52,End of Season Rewards,League Mail,"As the Principal of the Yume Academy, I would like to congratulate you for achieving rank {1} in Elite League. Your excellent skills and bravery have won you the following rewards."
+53,Apply Approved,League Mail,Dear Senpai! Your application to join an Elite League team has been approved! Hurry to Elite League and check out your team!
+54,Change Leader,League Mail,Dear Senpai! You are the team leader now! Get to work and perform your duties as a team leader in Elite League!
+55,Expulsion Notification,League Mail,"Dear Senpai, The team leader kicked you off the team. Please create or join a new team!"
+56,Weekly Pass Subscribed,Weekly Pass Subscription,"Congratulations! You have successfully subscribed to the Weekly Pass! From now on, your Auto-Battle will earn you 100% more Coins. This benefit stacks with your VIP Coin bonuses! After 1 week, the cost of your subscription will be deducted automatically. If you cancel the Weekly Pass, you will still receive benefits for the rest of the week. The subscription must be canceled manually. To manage your subscription, go to Homework and tap Pass."
+57,Guild War Points Race,System Message,Congratulations! Your guild ranked No.{1} in the Guild War Points Race. Here are your rewards!
+58,Guild War Final Round,System Message,Congratulations! Your guild is ranked in Top {1} in the Final Round of the Guild War. Here are your rewards!
+59,Guild War Final Round,System Message,"Congratulations! Your guild was the runner up in the Guild War Final Round! To reward your skill and valor, here is your prize!"
+60,Guild War Final Round,System Message,"Congratulations! Your guild was the champion in the Guild War Final Round! To reward your skill and valor, here is your prize!"
+61,3rd Anniversary Gift Card,System Message,You are a Lv. {1} user and you get the following rewards today. Your 3rd Anniversary Card still has {3} days to expire!
+62,Monthly Pass just renewed,Monthly Pass,Thank you for renewing your Monthly Pass. Your current subscription expires in {1} days.
+63,Mini Pass just renewed,Mini Pass,Thank you for renewing your Mini Pass. Your current subscription expires in {1} days.
+64,Jigsaw Puzzle Event,Event Mail,Congratulations! You completed {1} Jigsaw Puzzles. You've earned the following rewards!
+65,Dear Senpai!,System Message,"As your love to our game grow faster and faster! We present you a [c][f95e6a]FB Group[-][/c] that we can talk about anything you interested in our game! You can check our [c][f95e6a]Game Functions[-][/c], [c][f95e6a]Events[-][/c] in our [url=""https://www.facebook.com/groups/2440464579303244""][c][87e1fe]FB Group[-][/c][/url]. Come and join our big family!\n\n                   [url=""https://www.facebook.com/groups/2440464579303244""][c][87e1fe]Tap to FB Group[-][/c][/url]"
+66,Graduate & Awake,System Message,Congratulations on awakening 9-star {1} during the event. Your reward is attached!
+67,Graduate & Awake,System Message,Congratulations on awakening 10-star {1} during the event. Your reward is attached!
+68,Intimacy Event,System Message,You have reached 80 intimacy points with your girls during the event! Please claim the rewards below!
+69,Intimacy Event,System Message,You have reached 100 intimacy points with your girls during the event! Please claim the rewards below!
+70,Sakura Date Festival,System Message,Congratulations on unlocking {1} endings of Date. Please claim the rewards in mail
+71,Winning Heart,System Message,Congratulations! You've used {1} True Love's Tickets! Here's your reward!
+72,Dorm Decoration event,System Message,"With your help, the new dormitory is completed! Please accept this as our gift of gratitude!"
+73,Ninja's Gift of Gratitude,System Message,"With your help, Ninja has completed all her decoration mission! Please accept this as her gift of gratitude!"
+74,Iron Fist's Gift of Gratitude,System Message,"With your help, Iron Fist has completed all her decoration mission! Please accept this as her gift of gratitude!"
+75,Pandaria's Gift of Gratitude,System Message,"With your help, Pandaria has completed all her decoration mission! Please accept this as her gift of gratitude!"
+76,New Server Capsule Event,System Message,"Senpai, you have acquired {1} points in New Server Capsule Event. Here are your rewards:"
+77,Story of Yume Academy,System Message,"Congratulations for reaching Chapter {1} of the main story, Senpai! You will receive the following awards!"
+78,Gear Supply Reward,System Message,"Congratulations for reaching {1} points in Gear Supply event, the rewards are attached:"
+79,Anniversary Slot Pt. Prize,System Message,"Congratulations for acquiring {1} points from pulling the Anniversary Slot Machine, the rewards are attached:"
+80,Reward for Purification,System Message,"You are defeated by the Chaos Boss, get the supply and keep attacking!"
+81,Reward for Purification,System Message,"You have dealt great damage to Chaos Boss, and he's retreating for now, please claim your reward and pursue"
+82,Reward for Purification,System Message,"You have successfully purified the Chaos Boss and have entered a more dangerous area, please claim your reward."
+83,Questionnaire Reward,System Message,Thanks for completing the questionnaire! The rewards are attached:
+84,Music Festival,System Message,"Congratulations for completing the puzzle of the Music Festival and successfully acquired the Rock Concert skin of Nani, your reward is attached!"
+85,Motivation Program,System Message,"Congratulations for reaching level {1}, here's the compliment from Hottie! Please make persistent efforts!"
+86,Rewards for Live Show,System Message,"Congratulations for unlocking the hard mode for all the songs in Live Show, you've successfully acquired the Rolling Beat skin of Hexa!"
+87,Live Show Rank Reward,System Message,"Congratulations for reaching rank {1} in the Hard mode of all the songs in Live Show, your rewards are attached!"
+88,Ultimate League Open,System Message,"Dear Senpai, the new season of Ultimate League has started! You can join in the bet after Qualifying Round starts~"
+89,Group Match Qualified,System Message,Congratulations! You are qualified for the Group Match in Ultimate League! Set up your team lineup now~
+90,Bet Lost,System Message,"Unfortunately, player {1} failed to win this round in the Ultimate League. Please stay tuned to the following matches!"
+91,Bet Won,System Message,"Congratulations, player {1} won in this round! Please collect your rewards for winning the bet~"
+92,Chapter Clear Reward,System Message,"Congratulations! You have cleared Chapter {1} in Observer in Library, here are your rewards!"
+93,Article Research Prize,System Message,"Congratulations! You have reached rank {1} in one minigame in Article Research, here are your rewards!"
+94,Article Research Pt. Prize,System Message,"Congratulations! You have obtained {1} Research Points in Article Research, here are your rewards!"
+95,Questionnaire Reward,System Message,Thanks for completing the questionnaire! The rewards are attached:
+96,New skin Unlocked,System Message,"Dear senpai, you've successfully unlocked {2} skin of {1}, please check it out!"
+97,"""Hecrum's Deep"" Reward",System Message,"Congratulations for passing Chapter {1} in event Hecrum's Deep, here is your reward:"
+98,Monthly Events,System Message,"Congratulations for completing Intern Prize in Monthly Event, your reward is attached."
+99,Monthly Events,System Message,"Congratulations for completing Arena Ace in Monthly Event, your reward is attached."
+100,Monthly Events,System Message,"Congratulations for completing Graduate & Awake in Monthly Event, your reward is attached."
+101,Monthly Events,System Message,"Congratulations for completing Practical Experience in Monthly Event, your reward is attached."
+102,Deluxe Bonus,System Message,"Congratulations for completing Intern Prize in Monthly Event, your Deluxe Bonus is attached."
+103,Deluxe Bonus,System Message,"Congratulations for completing Arena Ace in Monthly Event, your Deluxe Bonus is attached."
+104,Deluxe Bonus,System Message,"Congratulations for completing Graduate & Awake in Monthly Event, your Deluxe Bonus is attached."
+105,Deluxe Bonus,System Message,"Congratulations for completing Practical Experience in Monthly Event, your Deluxe Bonus is attached."
+106,Story Unlock Rewards,System Message,"Dear Senpai,\nCongratulations! You have unlocked Stage {1} of the Character Challenge ""Moonlight""! Here are your rewards!"
+107,Removal Hint,System Message,"Dear Senpai, you've been removed from Guild ""{1}"" by its Leader/Deputy Leader, please join another Guild or create your own Guild!"
+108,Coffee Upgrade,System Message,"Congratulations, Senpai. You've improved your proficiency to level {1} in the event Coffee Lab, the rewards are attached:"
+109,Pray Rewards,System Message,"Congratulations Senpai, you've completed requested times of rituals in event Pray to the Stars, your rewards are attached."
+110,Speed Challenge Reward,System Message,"Congratulations Senpai, you are No.{1} in the ranking list of Speed Challenge, your reward is attached!"
+111,Test Objective Reward,System Message,"Dear Senpai,\n\nCongratulations on completing the Test Objectives, here are your rewards!"
+112,Event Item Retrieve,System Message,"Dear Senpai, the event: {1} is over, the {2} {3}s you have are retrieved, here's your reward."
+113,Girls Reward,System Message,"Congratulations for acquiring {1} Frexie or Angelica during the event, here's your reward!"
+114,Colorful Balloon Reward,System Message,Congratulations for getting {1} Intimacy Points in event: Colorful Balloon. Here's your reward.
+115,First Audition Reward,System Message,"Congratulations for becoming No.{1} in First Audition, your rewards are attached!"
+116,First Audition Reward,System Message,"Congratulations on being in the first {1}% in First Audition, your rewards are attached!"
+117,Runoff Reward,System Message,"Senpai, congratulations for becoming No.{1} in Runoff of Yume Sports Meeting, you've won {2} points for your House! Here's your reward!"
+118,Sports Meeting Reward,System Message,"Congratulations, Senpai! Your House has become No.{1} in Yume Sports Meeting, your rewards are attached!"
+119,Admission Reward,Event Mail,"Senpai, currently {1} Battles are completed, here's your reward."
+120,Friend Boss Support,System Message,"Dear Senpai, the Girl you set On Duty helped your friends to defeat {1} Friend Bosses, your rewards are attached!"
+121,Monthly Events,System Message,"Congratulations for completing Secret Santuary in Monthly Event, your reward is attached."
+122,Deluxe Bonus,System Message,"Congratulations for completing Secret Sanctuary in Monthly Event, your Deluxe Bonus is attached."
+123,Secret Sanctuary,System Message,"Congratulations for completing a task in Secret Sanctuary, your reward is attached."
+124,Entrance Exam reward,System Message,"Congratulations on being No. {1} in Entrance Exam, your rewards are attached!"
+125,Entrance Exam reward,System Message,"Congratulations on becoming one of the top {1}% players of Entrance Exam, your rewards are attached!"
+126,Lovely Date Supply,Event Mail,"Dear Senpai, here are your Heart Crystals and Heart Crystal Xs for today."
+127,Exploration Reward,System Message,"Senpai, congratulations! You've collected {1} hidden items in event ""Explore the Campus"", here's your reward!"
+128,Summer Heat reward,System Message,Congratulations! You've passed chapter {1} in event Summer Heat. Here's your reward!
+129,Welcome Back Reward,System Message,Congratulations for completing the Welcome Back Task! Here's your reward!
+130,Welcome Back Reward,System Message,Congratulations for completing the Welcome Back Task with your friend! Here's your reward!
+131,Wish Capsule Reward,System Message,"Congratulations, you've drawn {1} times from Wish Capsule, here's your reward!"
+132,Daily Rewards,System Message,Login every day during the event and you will receive Percussion Mallet x 1. Your rewards are attached.
+133,Adventure Reward,System Message,Congratulations for reaching event-level {1} in Fairy Tale Land! Here's your reward!
+134,Leadership transfer,Guild Message,The leadership is removed from player {1} who has been absent for 7 continuous days. Now player {2} has become the new leader of Guild {3}.
+135,Junior Varsity Hint,Arena Mail,"Dear Senpai, Varsity will be ending in less than 24 hours! Please quickly go to Varsity League Arena and defend your glory!"
+136,Red Riding Hood,Event Mail,"Thanks for purchasing Red Riding Hood's Gift, here's your reward for today. Your Premium-grade reward will expire in {1} days!"
+137,Red Riding Hood,Event Mail,"Thanks for purchasing Red Riding Hood's Gift, here's your reward for today. Your Coin-grade reward will expire in {1} days!"
+138,Red Riding Hood,Event Mail,"Thanks for purchasing Red Riding Hood's Gift, here's your reward for today. Your Gem-grade reward will expire in {1} days!"
+139,House Exams Reward,System Message,"Congratulations for reaching {1} points in the last season of House Exams, here's your reward!"
+140,House Exams Reward,System Message,"Congratulations! You have won the first place in the Exam of House {1}. Please take the ""{2}"" as a reward for your valor and technique!"
+141,Test Fund,System Message,"Congratulations! You've passed stage {1} in Tests, here's your reward!"
+142,Guild War Message,System Message,"Dear Senpai, the Qualifying round of Guild war will end in less than 24 hours! Prove yourself in Playground!"
+143,Limit Break Ceremony,System Message,"Congratulations for getting a 14-Star {1} during the event, here's your reward!"
+144,Limit Break Ceremony,System Message,"Congratulations for getting a 15-Star {1} during the event, here's your reward!"
+145,Exploration Level Reward,System Message,"Congratulations for passing {2} Stage(s) in {1} in event Old Campus Exploration, here's your reward!"
+146,Exploration Area Reward,System Message,"Congratulations for passing {1} in event Old Campus Exploration, here's your reward!"
+147,Exploration Point Reward,System Message,"Congratulations, you've won {1} Points in event Old Campus Exploration, here's your reward!"
+148,Exploration Ranking Reward,System Message,"Congratulations, you've achieved No.{1} on the ranking list of event Old Campus Exploration, here's your reward!"
+149,Newbie Benefit Reward,System Message,"Senpai, congratulations for completing the task. Here's the reward you forgot to claim at the event page!"
+150,Newbie Benefit Progress,System Message,"Senpai, congratulations for getting {1} points in Newbie Benefit! Here's the reward you forgot to claim in the event page!"
+151,Luvly's Reward,Event Mail,"Senpai, congratulations for collecting {1} Coral Branch(es), here's your reward!"
+152,Daily Rewards,System Message,"Login every day during the event and you will receive Rudder x 4, Gem x 150, Scratch Ticket x 1. Your rewards are attached."
+153,Event Item Retrieve,System Message,"Dear Senpai, event: {1} is ended, {2} x {3} of yours have been retrieved."
+154,Exploration Ranking Reward,System Message,"Congratulations, Senpai! You're No. {1} in this season of Old Campus Exploration, here's your reward!"
+155,Exploration Reward,System Message,"Dear Senpai, the event: Old Campus Exploration has ended, here's your unclaimed reward!"
+156,Exploration Ranking Reward,System Message,"Congratulations, Senpai! You're No. {1} in this season of Old Campus Exploration, please take the ""{2}"" as your reward! It will be available for 14 days!"
+157,Antique Aid,Event Mail,"Dear Senpai, congratulations for getting {1} Antique Points, here's your Basic Reward!"
+158,Antique Aid,Event Mail,"Dear Senpai, congratulations for getting {1} Antique Points, here's your Additional Reward!"
+159,Beginner's Capsule,System Message,"Dear Senpai, Beginner's Capsule is over, here's your unclaimed rewards in the event!"
+160,Limited Starter Capsule,System Message,"Dear Senpai, the event: Limited Starter Capsule is over, here's your unclaimed reward in the event!"
+161,Spring Ceremony,System Message,"Congratulations, Senpai! You've exchanged {1} Girls in event Spring Ceremony, here's your reward!"
+162,New Oath skin unlocked,System Message,Congratulations! You have unlocked {1} 's Oath Skin! She is now wearing a wedding dress! Do you want to review this memorable moment with her? (You can review your Oath moment in Date)
+163,Recharge Addition,System Message,"Dear Senpai, congratulations for getting {1} points in event ""Recharge Addition"", here's your reward!"
+164,Holiday Break,System Message,"Dear Senpai, the event: Holiday Break will end in less than 24 hours, don't forget to exchange your rewards in time!"
+165,Purchase Error,Important Message,"
+Dear Senpai,
+
+Yuki has found that your purchase payment on a ${1} pack has been successful but the gift pack was unfortunately sent unsuccessfully.
+
+Please tap the “Check” icon below to head over to Gift Packs and select a pack of the same price (by tapping the purchase icon, the pack will be claimed for free).
+
+Yuki apologizes for the inconvenience, for any further queries, please don’t hesitate to contact Yuki~"
+166,Servant Challenge,Event Mail,"Dear Senpai, congratulations on taming Crystal Golem during the event Servant Challenge, here's your reward!"
+167,Servant Challenge,Event Mail,"Dear Senpai, congratulations on upgrading Crystal Golem to Lv.{1} during the event Servant Challenge, here's your reward!"
+168,Servant Challenge,Event Mail,"Dear Senpai, congratulations on upgrading Crystal Golem’s Servant Aura to a total level of {1} in the event, Servant Challenge. Here’s your reward!"
+169,Event Rewards,System Message,"Dear Senpai, event: {1} is over, here's your unclaimed reward!"
+170,Enroll Bonus,System Message,"Congratulations for acquiring {2} Point(s) for House {1}, here's your reward!"
+171,Puppet Parade,System Message,Congratulations for collecting {1} Clown Puppet(s) during event: Puppet Parade! Here's your reward!
+172,Egg Surprise,System Message,"Dear Senpai, congratulations for opening {1} {2}(s) in the event: Egg Surprise, here's your reward!"
+173,Limited Missions Rewards,System Message,Congratulations on reaching a goal in the Limited Missions event. Here are your rewards~
+174,Sky Island Starting Soon,System Message,"Sky Island is starting soon, join forces with your Guild members to defeat powerful BOSSES that appear.\nExiting or disbanding Guild will not be applicable during this period, so please prepare for battle in advance!\nFor actual time, check the Sky Island icon on the top right corner in Guild."
+175,Sky Island Boss Rank Rewards,System Message,"Dear Senpai, Sky Island is now over, here's your reward for reaching No. {2} in the ranking of Boss {1}!"
+176,Sky Island Guild Rank Rewards,System Message,Congratulations to your Guild for ranking {1} in Sky Island! Here are your rewards!
+177,Old Campus Store Notice,System Message,"Dear Senpai, the seasonal merchandise in Old Campus Store will expire in less than 24 hours. Check out the store if you're planning on making purchases!"
+178,Sky Island Boss Defeat Rewards,System Message,"Congratulations, the BOSS has been defeated! Here are your rewards!"
+179,Guild Special Reward,System Message,"Dear Senpai, [c][0069cc]{1}[-][/c] has purchased a pack from Traveling Merchant and has sent a gift to all Guild Members!"
+180,Ancient City Reward,System Message,"Congratulations for becoming No. {1} in the event: Ancient City Battle, here's your reward!"
+181,Event Reminder,System Message,"Dear Senpai, {1} event will end soon, this is your last chance to get rewards that you want from this event!"
+182,Crystal collection Reward,Event Mail,"Dear Senpai, you've collected {1} Void Crystals in the event: Bizarre Adventures! Here's your reward!"
+183,Sky Island Guild Rank Rewards,System Message,"Dear Senpai, your Guild reaches No. {1} in Sky Island, please take this limited frame ""{2}"" as reward! The frame will be available for 28 days!"
+184,Return Support - Basic,Event Mail,"Dear Senpai, congratulations for getting {1} Return Points, here's your Basic Reward!"
+185,Return Support - Advanced,Event Mail,"Dear Senpai, congratulations for getting {1} Return Points, here's your Additional Reward!"
+186,Entrance Exam Bet,System Message,"Congratulations, the team you support in Entrance Exam has won the battle! Here's your bet reward~"
+187,Miss Yume Pageant - Vote Reward,Event Mail,"Dear Senpai, congratulations, you completed the voting task in ""Miss Yume Pageant"". Here's your reward!"
+188,Blessings from the Stars,Event Mail,"Dear Senpai, please accept the gift from Vivian! Hope you enjoy the life in Yume Academy like always!"

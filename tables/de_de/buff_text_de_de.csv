@@ -1,0 +1,200 @@
+name,desc,desc1
+atk,Angriff,Angriff
+hp,HP,生命上限百分比燃烧伤害
+arm,Rüstung,Rüstung
+spd,Speed,Speed
+sklP,Skill-Schad.,Skill-Schad.
+hit,Präzision,Präzision
+miss,Blockade,Ausweichen
+crit,Krit.,Krit.
+critTime,Krit. Schaden,暴击伤害值
+brk,Rüstungsbruch,Rüstungsbruch
+free,Kontrollimmunität,Immunität gegen Kontrolle
+trueAtk,Heiliger Schaden,Heiliger Schaden
+energy,Energie,Energie
+decDmg,Schadensred.,Schadensred.
+stun,Betäuben,Betäuben
+ice,Einfrieren,Einfrieren
+stone,Versteinern,Versteinern
+forbid,Stilllegen,Stille
+hurt,Direkter Schaden,Direkter Schaden
+dot,Kontinuierlicher Schaden,Schäden im Laufe der Zeit (Markieren und Bluten)
+heal,Direkte Heilung,Direkte Heilung
+hot,Kontinuierliche Heilung,Anhaltende Heilung
+healP,HP-Erholung,恢复%生命
+trueHurt,Heiliger Schaden,Heiliger Schaden
+dotPoison,Gift,Gift
+dotBlood,Bluten,Bluten
+dotFire,Brennen,Brennen
+atkP,Angriff,Angriff
+hpP,HP,生命（按%加生命）
+armP,Rüstung,Rüstung
+addhurt,Attacke hinzufügen,Attacke hinzufügen
+revive,Wiederbeleben,wiederbeleben
+siphonAtk,Prozentualen Angriff gestohlen ,Prozentualer Angriff gestohlen 
+siphonHp,Prozentuale HP gestohlen,Prozent HP gestohlen
+siphonArm,Prozentuale Rüstung gestohlen,Prozent Rüstung gestohlen
+shield,抵挡护盾,抵挡护盾
+brier,Schaden um x% reduziert,Reduziert den Schaden um x%
+rImpress,Rundes Zeichen,Markenverzögerung
+cImpress,Krit. Zeichen,Krit. Markierung
+rImpressB,Explosion Rundes Zeichens,Markierungs Explosion
+cImpressB,Explosion Krit. Zeichens,Krit. Markierungs Explosion
+fImpress,Blitzzeichen,Blitzschlag
+oImpress,Zeichen des Beobachters,Zeichen des Beobachters
+weak,Schwächen,Schwächen
+atkPos,Angriff erhöht,Position erhöht die Trefferquote
+hpPos,位置增加生命率,位置增加生命率
+armPos,Rüstung erhöht,Die Position erhöht die Rüstung
+spdPos,Geschwindigkeit erhöht,Position erhöht die Geschwindigkeit
+hitPos,Präzision erhöht,Erhöht die Präzision der Position
+missPos,Dodge erhöht,Ausweichen erhöht
+critPos,Krit. erhöht,Krit. erhöht
+critTimePos,Kritischen Multiplikator erhöht,erhöht den kritischen Multiplikator
+stunB,Betäubungsschaden erhöht,Erhöht den Betäubungs-Schaden
+iceB,Einfrierungsschaden erhöht,Erhöht den Einfrierungs-Schaden
+stoneB,Versteinerungsschaden erhöht,Erhöht den Versteinerungs-Schaden
+dotFireB,Brennschaden erhöht,Erhöht den Brenn-Schaden
+dotPoisonB,Giftschaden erhöht,Erhöht den Schaden bei Vergiftung
+dotBloodB,Blutschaden erhöht,Blutung erhöhen
+zs,Schad. an Kriegern,Schad. an Kriegern
+fs,Schad. an Magiern,Schad. an Magiern
+ms,Schad. an Priestern,Schad. an Priestern
+ck,Schad. an Mördern,Schad. an Mördern
+yx,Schad. an Rangern,Schad. an Rangern
+changeCombat,Standard Angriff ändern,Normalen Angriff ändern
+fsStun,Betäubt Magier,Betäubt Magier
+fsDotBlood,Lässt Magier bluten,Lässt Magier bluten
+zsIce,Friert Krieger ein,Friert Krieger ein
+zsStun,Betäubt Krieger,Betäubt Krieger
+zsForbid,Bringt Krieger zu schweigen,Bringt Krieger zu schweigen
+zsHurt,Zusätzlicher Schaden an Kriegern,Zusätzlicher Schaden an Kriegern
+zsArmP,Reduziert die Rüstung der Krieger,Reduziert die Rüstung der Krieger
+ckStone,Versteinert Mörder,Versteinert Attentäter
+ckForbid,Bringt die Mörder zum Schweigen,Bringt die Attentäter zum Schweigen
+ckHurt,Zusätzlicher Schaden an Mörder,Zusätzlicher Schaden an Attentäter
+msForbid,Bringt die Priester zum Schweigen,Bringt die Priester zum Schweigen
+yxHurt,Extra Schaden an Ranger,Extra Schaden an Ranger
+yxAtkP,Reduziert Rangers Angriff,Reduziert den Angriff eines Rangers
+zsHpPO,HP erhöht,HP erhöht
+zsAtkPO,Angriff erhöht,Krieger Angriff erhöhen
+zsCritO,Krit. erhöht,Erhöht den Krit. des Kriegers
+zsMissO,Blockade erhöht,Erhöht das Ausweichen des Kriegers
+zsSklPO,Skill-Schaden up,Erhöht den Schaden der Kriegerfähigkeiten
+fsHpPO,HP erhöht,Magier HP erhöhen
+fsAtkPO,Angriff erhöht,Magier Angriff erhöhen
+fsCritO,Krit. erhöht,Erhöht den Krit. der Magier
+fsHitO,Präzision erhöht,Erhöht Magier-Präzision
+fsSklPO,Skill-Schaden up,Magier Fertigkeitsschaden erhöht
+ckHpPO,HP erhöht,Mörder HP erhöht
+ckCritTimeO,Krit. Schaden erhöht,Mörder Krit. erhöht
+ckCritO,Krit. erhöht,Mörder Krit. Schaden erhöht
+ckBrkO,Rüstungsbruch erhöht,Mörder Rüstungsbruch erhöht
+ckSklPO,Skill-Schaden up,Mörder Fertigkeitsschaden erhöht
+yxHpPO,HP erhöht,Ranger HP erhöht
+yxAtkPO,Angriff erhöht,Ranger Angriff erhöht
+yxMissO,Blockade erhöht,Ranger Ausweichen erhöht
+yxHitO,Präzision erhöht,Erhöht Ranger-Präzision
+yxSklPO,Skill-Schaden up,Ranger Fertigkeitsschaden erhöht
+msHpPO,HP erhöht,Priester HP erhöht
+msMissO,Blockade erhöht,Priester Ausweichen erhöht
+msCritO,Krit. erhöht,Priester Krit. erhöht
+msSpdO,Speed erhöht,Priester Geschwindigkeit erhöht
+msSklPO,Skill-Schaden up,Erhöht den Fähigkeitsschaden des Priesters
+ckStun,Betäubt Mörder,Betäubt Mörder
+mhurt,Verursacht direkten Schaden,Verursacht direkten Schaden
+mdotFire,Fügt im Laufe der Zeit Schaden zu (Verbrennungen),Fügt im Laufe der Zeit Schaden zu (Verbrennungen)
+mdotPoison,Fügt im Laufe der Zeit Schaden zu (Vergiftung),Fügt im Laufe der Zeit Schaden zu (Vergiftung)
+mdotBlood,Fügt im Laufe der Zeit Schaden zu (Blutung),Fügt im Laufe der Zeit Schaden zu (Blutung)
+yxDotBlood,Lässt Ranger bluten,Ranger erleiden Blutschaden
+phurt,"Wenn der HP des Ziels niedriger ist, wird % direkter Schaden verursacht","Wenn der HP des Ziels niedriger ist, wird % direkter Schaden verursacht"
+addHurtd,Fügt Zielen mit geringerer Selbstverteidigung einen zusätzlichen Angriff zu,Fügt Zielen mit geringerer Selbstverteidigung einen zusätzlichen Angriff zu
+zsDotFire,Verbrennt Krieger,Verbrennt Krieger
+yxStun,Betäubt Ranger,Betäubt Ranger
+fsForbid,Bringt Magier zum Schweigen,Betäubt Magier
+ckDotPoison,Vergiftet Mörder,Vergiftet Mörder
+msStun,Betäubt Priester,Betäubt Priester
+msDotFire,Verbrennt Priester,Verbrennt Priester
+zsSpdO,Speed erhöht,Erhöht die Geschwindigkeit der Krieger
+fsSpdO,Speed erhöht,Geschwindigkeit der Magier erhöht
+ckSpdO,Speed erhöht,Geschwindigkeit der Magier erhöht
+ckAtkPO,Angriff erhöht,Angriff der Mörder erhöht
+yxSpdO,Speed erhöht,Geschwindigkeit der Ranger erhöht
+msAtkPO,Angriff erhöht,Angriff der Priester erhöht
+iceless,Immun gegen Einfrierung,Immun gegen Einfrierung
+stoneless,Immun gegen Versteinerungen,Immun gegen Versteinerungen
+stunless,Immun gegen Betäubung,Immun gegen Betäubung
+forbidless,Immun gegen Stilllegen,Immun gegen Betäubung
+stunH,生命不低于自己的目标眩晕,生命不低于自己的目标眩晕
+hurtH,生命低于自己的目标额外伤害,生命低于自己的目标额外伤害
+msHurt,Zusätzlicher Schaden gegen Priester,Zusätzlicher Schaden gegen Priester
+forbidH,生命不高于自己的目标禁魔,生命不高于自己的目标禁魔
+phurtH,生命高于自己的目标额外造成该目标生命上限x%的伤害,生命高于自己的目标额外造成该目标生命上限x%的伤害
+rddot,"Zufälliger Schaden im laufe der Zeit (Vergiften, Verbrennen, Bluten)","Zufälliger Schaden im laufe der Zeit (Vergiften, Verbrennen, Bluten)"
+rdcontrol,"Zufälliger Kontrolleffekt (Betäuben, Einfrieren, Versteinern)","Zufälliger Kontrolleffekt (Betäuben, Einfrieren, Versteinern)"
+hurtmaxM,Fügt Ziel einen Schaden in Höhe der HPx% des Verbündeten mit der höchsten HP zu,Fügt Ziel einen Schaden in Höhe der HPx% des Verbündeten mit der höchsten HP zu
+hurtmaxH,Fügt Ziel einen Schaden dessen maximaler HPx% zu,Fügt Ziel einen Schaden dessen maximaler HPx% zu
+healB,Geheilt,被治疗效果增强x%
+被治疗效果增强x%,所有友军分担伤害,所有友军分担伤害
+exhurt,额外进行一次普攻,额外进行一次普攻
+hurtB,普攻伤害增加x%,普攻伤害增加x%
+newRound,击杀角色获得新回合,击杀角色获得新回合
+overflow,伤害平摊,伤害平摊
+buffExloded,引爆buff,引爆buff
+mindControl,Mind Control,心灵控制
+transformBK,祭献转化成分身,祭献转化成分身
+atkPBK,黑骑士攻击buff,黑骑士攻击buff
+brkBK,黑骑士破甲buff,黑骑士破甲buff
+sw,神威學院傷害提升,神威學院傷害提升
+yz,隱蹤學院傷害提升,隱蹤學院傷害提升
+th,曇華學院傷害提升,曇華學院傷害提升
+fj,風見學院傷害提升,風見學院傷害提升
+cx,辰星學院傷害提升,辰星學院傷害提升
+xl,修羅學院傷害提升,修羅學院傷害提升
+critDef,受到暴击伤害,受到暴击伤害
+debuffClean,清除减益效果,清除减益效果
+surAtkP,存活战姬数*1.2%攻击力,存活战姬数*1.2%攻击力
+hurtLhurtP,生命高于自己，额外伤害量x%的伤害,生命高于自己，额外伤害量x%的伤害
+healI,Heilung,造成治疗效果增强x%
+healPlose,恢复已损失生命%生命,恢复已损失生命%生命
+rowFArmP,对前排护甲,对前排护甲
+rowFStone,对前排石化,对前排石化
+rowBAtkP,对后排攻击,对后排攻击
+rowBSpd,对后排速度,对后排速度
+dotTwins,双子持续伤害,双子持续伤害
+rowFHpP,hpPos-前排,hpPos-前排
+rowBHpP,hpPos-后排,hpPos-前排
+rowBArmP,armPos-后排,armPos-后排
+rowFHit,hitPos-前排,hitPos-前排
+rowBMiss,missPos-后排,missPos-后排
+rowBCrit,critPos-后排,critPos-后排
+hotHuatuo,持续回血（每回合回血）,持续回血（每回合回血）
+reviveINF,无限复活（立刻复活）,无限复活（立刻复活）
+reviveINFbuff,无限复活累加buff,无限复活累加buff
+dotFireMaxHp,生命上限百分比燃烧伤害,生命上限百分比燃烧伤害
+atkUnable,无法攻击,无法攻击
+free_harm,免死护盾,免死护盾
+aggression,杀意buff,杀意buff
+aggressionHarm,杀意伤害,杀意伤害
+stunSober,对未眩晕敌人眩晕,对未眩晕敌人眩晕
+critStun,对已眩晕敌人暴击伤害（配置攻击百分比、此伤害必定暴击）,对已眩晕敌人暴击伤害（配置攻击百分比、此伤害必定暴击）
+hurtmaxHLimit15,对目标造成其生命上限x%的伤害（不超過15倍攻擊）,对目标造成其生命上限x%的伤害（不超過15倍攻擊）
+unfree,Extra Kontrollrate,Extra Kontrollrate
+incDmg,增伤率,增伤率
+incDmgGroupCom,Mehr Schaden gegen Geister/Menschen/Monster/Feen,增伤率-四系
+incDmgGroupSpe,Mehr Schaden gegen Dämonen/Engel,增伤率-光暗
+incDmgGroupChaos,Mehr Schaden gegen Chaos,增伤率-混沌
+decDmgGroupCom,Weniger Schaden aus Geister/Menschen/Monster/Feen,减伤率-四系
+decDmgGroupSpe,Weniger Schaden aus Dämonen/Engel,减伤率-光暗
+decDmgGroupChaos,Weniger Schaden aus Chaos,减伤率-混沌
+incDmgSkl,Mehr Skill-Schaden,增伤率-技能
+decDmgSkl,Weniger erlittener Schaden,减伤率-技能
+incDmgNorAtk,Mehr Standarfangriff-Schaden,增伤率-普攻
+decDmgNorAtk,Weniger erlittener Standardangriff-Schaden,减伤率-普攻
+allHarmDec,Schadensreduzierung aller Schäden,Schadensreduzierung aller Schäden (inkl. prozentualem Schaden)
+unCrit,Krit.-Widerstand,Krit.-Widerstand
+resist_zs,Red. Kriegerschad.,Red. Kriegerschad.
+resist_fs,Red. Magierschad.,Red. Magierschad.
+resist_yx,Red. Rangerschad,Red. Rangerschad
+resist_ck,Red. Mörderschad.,Red. Mörderschad.
+resist_ms,Red. Priesterschad.,Red. Priesterschad.

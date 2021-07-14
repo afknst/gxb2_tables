@@ -1,0 +1,813 @@
+id,name,desc
+10001,Sonnenbaden,Kostümladen
+10002,Nr. Alpha,Kostümladen
+10003,Seeprinzessin,Kostümladen
+10004,Schicksalslinie,Kostümladen
+10005,Hexenanzug,Kostümladen
+10006,Kampfelite,Kostümladen
+10007,Karatemeisterin,Kostümladen
+10008,Wunderland,Kostümladen
+10009,Eisprinzessin,Kostümladen
+10010,Weihnachtsmarkt,Kostümladen
+10011,Wichtelelf,Kostümladen
+10012,Winterland,Kostümladen
+10013,Frostige Ritterin,Kostümladen
+10014,Neujahrskleid,Limitierte Events
+10015,Schatz,Kostümladen
+10016,Rosa Schatz,Kostümladen
+10017,Kirschblüten-Regen,Kostümladen
+10018,Nachtrose,Eid leisten
+10019,Tagundnachtgleiche,Eid leisten
+10020,Scharlachrot,Eid leisten
+10021,Pinkes Lob,Eid leisten
+10022,Eisrose,Eid leisten
+10023,Weiße Rose,Eid leisten
+10024,Blüte,Kostümladen
+10025,Osterjägerin,Kostümladen
+10026,Liebeslied,Eid leisten
+10027,Rote Rose,Eid leisten
+10028,Katzen PJ,Kostümladen
+10029,Engelsprüferin,Kostümladen
+10030,Menschenprüferin,Kostümladen
+10031,Zongzi-Trägerin,Limitierte Events
+10032,Monsterprüferin,Kostümladen
+10033,Sommerwind,Limitierte Events
+10034,Azurblaues Meer,Limitierte Events
+10035,Dämonenprüferin,Limitierte Events
+10036,Spielverderber,Kostümladen
+10037,Honig-Göttin,Kostümladen
+10038,Wellenreiterin,Limitierte Events
+10039,Göttliche Braut,Eid leisten
+10040,Rosenquarz,Eid leisten
+10041,Meeresbrise,Limitierte Events
+10042,Feenprüferin,Limitierte Events
+10043,Sommerfantasie,Limitierte Events
+10044,Weißer Kimono,Eid leisten
+10045,Geisterprüferin,Limitierte Events
+10046,Reine Feder,Eid leisten
+10047,Verlockung,Mädchen Aufgaben·Hottie
+10048,Ewige Flamme,Eid leisten
+10049,Anmutiger Schleier,Eid leisten
+10050,Düstere Musik,Limitierte Events
+10051,Rock-Konzert,"Limitierte Events, Kostümladen"
+10052,Trommel schlagen,"Limitierte Events, Kostümladen"
+10053,Tiefes Brüllen,Limitierte Events
+10054,Haus-Kaninchen,Limitierte Events
+10055,Geheime Operation,"Limitierte Events, Kostümladen"
+10056,Grimoire,Limitierte Events
+10057,Strahlende Feder,Limitierte Events
+10058,Neubeginn,Schließe die Neubeginn-Aufgabe von Iron Fist ab
+10059,Herbst,Kostümladen
+10060,Hasenöhrchen,Limitierte Events
+10061,Süßes oder Saures,Limitierte Events
+10062,Charmante Zauberin,Limitierte Events
+10063,Komet,Limitierte Events
+10064,Sternschnuppe,"Limitierte Events, Kostümladen"
+10065,Cyberangriff,Limitierte Events
+10066,Fallende Blüten,Limitierte Events
+10067,Leichte Brise,Limitierte Events
+10068,Heiße Quellen,"Limitierte Events, Kostümladen"
+10069,Verlockende Hitze,Limitierte Events
+10070,Heißes Bad,Kostümladen
+10071,Sylphe,Limitierte Events
+10072,Nymphe,Limitierte Events
+10073,Weihnachtsgeschenke,Limitierte Events
+10074,Xmas-Mädchen,Limitierte Events
+10075,Winterprinzessin,Limitierte Events
+10076,Eiskönigin,Limitierte Events
+10077,Kaffeepause,Limitierte Events
+10078,Löwentanz,Limitierte Events
+10079,Schicksal,Limitierte Events
+10080,Fliegende Laterne,Limitierte Events
+10081,Königin der Herzen,Limitierte Events
+10082,Blutrote Rose,Limitierte Events
+10083,Barista,Limitierte Events
+10084,Gouvernante,Limitierte Events
+10085,Aristokratisch,Limitierte Events
+10086,Blumiger Tanz,Limitierte Events
+10087,Weiß-Rosa Kimono,Limitierte Events
+10088,Doppeltes Glück,Eid leisten
+10089,Schiedsrichter,Limitierte Events
+10090,Baseballstar,Limitierte Events
+10091,Sprinterin,Limitierte Events
+10092,Volleyballprofi,Limitierte Events
+10093,Revolverheldin,Limitierte Events
+10094,Ewige Liebe,Eid leisten
+10095,Gei­gen­vir­tu­o­sin,Limitierte Events
+10096,Blumige Liebe,Eid leisten
+10097,Vorteilshafte Liebe,Eid leisten
+21001,Abendrot,Überflüssige EXP beim Leveln der Antiquitäten
+21002,Kreide,Kampfausbeute
+21003,Hocker,Kampfausbeute
+21004,Böse Machete,Kampfausbeute
+21005,Warnleuchte,Kampfausbeute
+21006,Zauberbuch für Anfänger,Kampfausbeute
+22001,Goldener Würfel,Kampfausbeute
+22002,Silberne Krone,Kampfausbeute
+22003,Hexenfluch,Kampfausbeute
+22004,Universaltasche,Kampfausbeute
+22005,Fortgeschrittener Zauberführer,Kampfausbeute
+23001,Kleeblatt,"Kampfausbeute, Synthetisieren, Glücksautomat"
+23002,Schleuder,"Kampfausbeute, Synthetisieren, Glücksautomat"
+23003,Kuss des Schnees,"Kampfausbeute, Synthetisieren, Glücksautomat"
+23004,Schwarzer Gürtel,"Kampfausbeute, Synthetisieren, Glücksautomat"
+23005,Judo-Stirnband,"Kampfausbeute, Synthetisieren, Glücksautomat"
+24001,Baseballschläger,"Synthetisieren, Markt"
+24002,Katana,"Synthetisieren, Laden"
+24003,Gedichte,"Synthetisieren, Laden"
+24004,Drachenzähne,"Synthetisieren, Laden"
+24005,Öltank,"Synthetisieren, Laden"
+24006,Lederschuhe,"Synthetisieren, Laden"
+24007,Obstkuchen,"Synthetisieren, Laden"
+25001,Engelsstab,"Synthetisieren, Laden"
+25002,Flammenfeder,"Synthetisieren, Laden"
+25003,Dämonische Klinge,"Synthetisieren, Laden"
+25004,Blitz-Rune,"Synthetisieren, Laden"
+25005,Mutiges Herz,"Synthetisieren, Laden"
+25006,Spitzen-Strumpf,"Synthetisieren, Laden"
+25007,Kirschblüten,"Synthetisieren, Laden"
+25008,Tanzende Maske,"Synthetisieren, Laden"
+25009,Königin des Pokers,"Synthetisieren, Laden"
+25010,Axt des Schnees,"Synthetisieren, Laden"
+25011,Weihnachtsbaum,"Synthetisieren, Laden"
+25012,Donnerherz,"Synthetisieren, Laden"
+25013,Supertrank,"Synthetisieren, Laden"
+25014,Seelenanhänger,"Synthetisieren, Laden"
+25015,Gabriels Lied,"Synthetisieren, Laden"
+25016,Dämonisches Buch,"Synthetisieren, Laden"
+25017,Schicksalskreuz,"Synthetisieren, Laden"
+25018,Feenhafte Krone,"Synthetisieren, Laden"
+25019,Katzenhut,"Synthetisieren, Laden"
+25020,Strumpfband,"Synthetisieren, Laden"
+25021,Beachvolleyball,"Synthetisieren, Laden"
+25022,Herz-Ohrring,"Synthetisieren, Laden"
+25023,Magischer Ziegel,"Synthetisieren, Laden"
+25024,Sand der Zeit,"Synthetisieren, Laden"
+25025,Sanfter Ritter,"Synthetisieren, Laden"
+25026,Leben und Tod,"Synthetisieren, Laden"
+25027,Schlüssel der Gedanken,"Synthetisieren, Laden"
+26001,Geishas Segen,Synthetisieren
+26002,Räucherfass,Synthetisieren
+26003,Muramasa,Synthetisieren
+26004,Wut der Flamme,Synthetisieren
+26005,Allheilmittel,Synthetisieren
+26006,Kraft des Windes,Synthetisieren
+26007,Schneeball,Synthetisieren
+26008,Schwarzer magischer Hut,Synthetisieren
+26009,Schicksalsführer,Synthetisieren
+26010,Siegelschwert·Geister,"Synthetisieren, Antiquitätsladen"
+26011,Schmerzfessel·Geister,"Synthetisieren, Antiquitätsladen"
+26012,Dornenschild·Geister,"Synthetisieren, Antiquitätsladen"
+26013,Siegelherz·Mensch,"Synthetisieren, Antiquitätsladen"
+26014,Dämonenblut·Mensch,"Synthetisieren, Antiquitätsladen"
+26015,Bogen aus Schnee,"Synthetisieren, Antiquitätsladen"
+26016,Siegelschwert·Monster,"Synthetisieren, Antiquitätsladen"
+26017,Schmerzfessel·Monster,"Synthetisieren, Antiquitätsladen"
+26018,Dornenschild·Monster,"Synthetisieren, Antiquitätsladen"
+26019,Siegelherz·Fee,"Synthetisieren, Antiquitätsladen"
+26020,Krone der Königin,"Synthetisieren, Antiquitätsladen"
+26021,Dämonische Flügel,"Synthetisieren, Antiquitätsladen"
+26022,Schicksalsspiegel,"Synthetisieren, Antiquitätsladen"
+26023,Unsichtbarer Umhang,"Synthetisieren, Antiquitätsladen"
+26024,Schweizer Taschenmesser,Synthetisieren
+26025,Wahrnehmungsuhr,Synthetisieren
+26026,Richtschwert,"Synthetisieren, Antiquitätsladen"
+26027,Gleichgewicht,"Synthetisieren, Antiquitätsladen"
+26028,Schlüssel zum Himmel,"Synthetisieren, Antiquitätsladen"
+26029,Schicksalskristall,Limitierte Events
+26030,Die Flügel des Ikarus,Limitierte Events
+26031,Dornenherz,Limitierte Events
+26032,Fusionsschirm,Limitierte Events
+26033,Zwillingsstäbe,Limitierte Events
+26034,Brennende Klinge,Limitierte Events
+26035,Silbermond-Klinge,Limitierte Events
+26036,Illusions-Klingen,Limitierte Events
+26037,Gezackte Zähne,Limitierte Events
+26038,Steinklingen-Axt,Limitierte Events
+31001,1. Kampf der Arena limitierter Avatar,Limitierte Events
+31002,Sonnen Avatar,Champion der Elite Liga
+31003,Mond Avatar,2ter Platz der Elite Liga
+31004,Gold Avatar,3ter Platz der Elite Liga
+31005,Silberner Avatar,Besten 4-10 der Elite Liga
+31006,Bronze Avatar,Besten 11-20 der Elite Liga
+31007,Halloween Avatar,Limitierte Events
+31008,Puzzel Avatar,Limitierte Events
+31009,Neujahr Avatar,Limitierte Events
+31010,Limitierter Schneeflocken Avatar,Limitierte Events
+31011,Limitierter Avatar,Limitierte Events
+31012,Limitierter Frühlingsfest Avatar,Limitierte Events
+31013,Pech,Erfolge erreichen
+31014,Großes Pech,Erfolge erreichen
+31015,Extrem großes Pech,Erfolge erreichen
+31016,Limitierter Frühlings Avatar,Limitierte Events
+31017,Eid Avatar,Limitierte Events
+31018,Oster Avatar,Limitierte Events
+31019,Muttertags Avatar,Limitierte Events
+31020,Eröffnungszeremonie Avatar,Limitierte Events
+31021,Drachbott Fest Avatar,Limitierte Events
+31022,Strandspiel Avatar,Limitierte Events
+31023,Exklusiver Jubiläums Avatar,Limitierte Events
+31024,Sommereis Avatar,Limitierte Events
+31025,Schwert der Entschlossenheit,Limitierte Events
+31026,Konzertauftritt,Limitierte Events
+31027,Ahornblatt,Limitierte Events
+31028,Schwarze Katze,Limitierte Events
+31029,2020 Exklusiver Avatar,Limitierte Events
+31030,Weihnachten 2019 Avatar,Facebook Event
+32001,Gildenkampf-Champion-Avatar-Rahmen,Champion im Gildenkampf
+32002,Gildenkampf 2ter Platz-Avatar-Rahmen,2ter Platz im Gildenkampf
+32003,Gildenkampf Viertelfinale Avatar-Rahmen,Besten 4 im Gildenkampf
+32004,Gildenkampf Achtelfinale Avatar-Rahmen,Besten 8 im Gildenkampf
+32005,Gildenkampf der letzten Sechszehn Avatar-Rahmen,Besten 16 im Gildenkampf
+32006,Wahrer Eid,Limitierte Events
+32008,Kalter Sommer,Limitierte Events
+32009,Pool Party,Limitierte Events
+32010,Konzertauftritt,Limitierte Events
+32011,Erfahrener Wissenschaftler,Limitierte Events
+32012,Ultimative Arena Besten 64,Werde Besten 64 in der Ultimativen Arena
+32013,Ultimative Arena Besten 8,Werde Besten 8 in der Ultimativen Arena
+32014,Ultimative Arena Besten 4,Werde Besten 4 in der Ultimativen Arena
+32015,Ultimative Arena Champion,Werde 1 Mal der Champion der Ultimativen Arena
+32016,Ultimative Arena Champion,Werde 2 Mal der Champion der Ultimativen Arena
+32017,Ultimative Arena Champion,Werde 3 Mal der Champion der Ultimativen Arena
+32018,Ultimative Arena Champion,Werde 4 Mal der Champion der Ultimativen Arena
+32019,Ultimative Arena Champion,Werde 5 Mal der Champion der Ultimativen Arena
+32020,Turins Souvenir,Mädchen Aufgaben·Turin
+32021,Liebeskugel,Limitierte Events
+32022,Herrlich,Facebook Event
+32023,Gold Medaillien Athlete,Limitierte Events
+32024,Silber Medaillien Athlete,Limitierte Events
+32025,Bronze Medaillien Athlete,Limitierte Events
+32026,Ausrüstungsinspektion,Limitierte Events
+40001,Leerer Hintergrund,Standard-Item
+40002,Parkett,Standard-Item
+40003,Karton,Möbelladen
+40004,Kartonkiste,Möbelladen
+40005,Kleiner Tisch,Möbelladen
+40006,Papierhocker,Möbelladen
+40007,Stroh Teppich,Möbelladen
+40008,Pflanze,Möbelladen
+40009,Tee-Set,Möbelladen
+40010,Eimer,Möbelladen
+40011,Reinigungswerkzeug,Möbelladen
+40012,Geschichtenbuch,Möbelladen
+40013,Aufbewahrungskiste,Möbelladen
+40014,Post-it,Möbelladen
+40015,Klassenliste,Möbelladen
+40016,Poster,Möbelladen
+40017,Tür,Möbelladen
+40018,Fenster,Möbelladen
+40019,Klassenzimmerwand,Möbelladen
+40020,Klassenzimmer Boden,Möbelladen
+40021,Tisch 1,Möbelladen
+40022,Tisch 2,Möbelladen
+40023,Podium,Möbelladen
+40024,Klassenstuhl 1,Möbelladen
+40025,Klassenstuhl 2,Möbelladen
+40026,Kleines Regal,Möbelladen
+40027,Heft,Möbelladen
+40028,Stifthalter,Möbelladen
+40029,Schließfach,Möbelladen
+40030,Besenschrank,Möbelladen
+40031,Topfpflanze,Möbelladen
+40032,Klimaanlage,Möbelladen
+40033,Mülleimer,Möbelladen
+40034,Verschiebare Tafel,Möbelladen
+40035,Tafel 1,Möbelladen
+40036,Tafel 2,Möbelladen
+40037,Klassenzimmer Tür,Möbelladen
+40038,Uhr,Möbelladen
+40039,Wandlautsprecher,Möbelladen
+40040,Klassenzimmer Fenster,Möbelladen
+40041,Zimmer Tapete,Möbelladen
+40042,Tatami,Möbelladen
+40043,Schwarzer hölzener Tisch,Möbelladen
+40044,Kissen 1,Möbelladen
+40045,Runder Tisch,Möbelladen
+40046,Kissen 2,Möbelladen
+40047,Neues Teeset,Möbelladen
+40048,Super Brotdose,Möbelladen
+40049,Blumendeko 1,Möbelladen
+40050,Blumendeko 2,Möbelladen
+40051,Stehlampe,Möbelladen
+40052,Japanisches Bett,Möbelladen
+40053,Paravent,Möbelladen
+40054,Fest installiertes Telefon,Möbelladen
+40055,Glücksfarbe,Möbelladen
+40056,Japanische Tür,Möbelladen
+40057,Fernseher,Möbelladen
+40058,Klimaanlage,Möbelladen
+40059,Fächerhaftes Fenster,Möbelladen
+40060,Weihnachts Tapete,Möbelladen
+40061,Weihnachtsboden,Möbelladen
+40062,Weihnachtsteppich (Weiß),Möbelladen
+40063,Weihnachtsteppich (Rot),Möbelladen
+40064,Weihnachtsbett,Möbelladen
+40065,Weihnachts Couch,"Limitierte Events, Sammlungsladen"
+40066,Weihnachtstisch,Möbelladen
+40067,Weihnachtsstuhl,Möbelladen
+40068,Steak,Möbelladen
+40069,Truthahn,Möbelladen
+40070,Brot,Möbelladen
+40071,Rotwein,Möbelladen
+40072,Weihnachtsbaum,Möbelladen
+40073,Weihnachtsgeschenkbox,Möbelladen
+40074,Weihnachtsmann Puppe,Möbelladen
+40075,Kristallkugel,"Limitierte Events, Sammlungsladen"
+40076,Kamin,Möbelladen
+40077,Weihnachtswünsche,Möbelladen
+40078,Weihnachtsfenster,Möbelladen
+40079,Feiertagsdeko,Möbelladen
+40080,Neujahrs Tapete,Möbelladen
+40081,Neujahrs Tapete,Möbelladen
+40082,Schlafender Schneemann,Möbelladen
+40083,Steintisch,Möbelladen
+40084,Steinstuhl,Möbelladen
+40085,Tee Kanne,Möbelladen
+40086,Steinstraße 1,Möbelladen
+40087,Steinstraße 2,Möbelladen
+40088,Teich,Möbelladen
+40089,Eingefrorene Rose,Möbelladen
+40090,Löwen Stuhl,Limitierte Events
+40091,Süßigkeiten Laden,Möbelladen
+40092,Frühstücksladen,Möbelladen
+40093,Feuerwerksladen,Möbelladen
+40094,Kleines Feuerwerk,Möbelladen
+40095,Schneeballkanone,Limitierte Events
+40096,Rote Laterne,Möbelladen
+40097,Frühlingstor,Möbelladen
+40098,Frühlingsfenster,Möbelladen
+40099,Stein Laterne,Möbelladen
+40100,Café Wand,Möbelladen
+40101,Café Backsteine,Möbelladen
+40102,Café Bar,Möbelladen
+40103,Barhocker,Möbelladen
+40104,Nachtisch Vitrine,Möbelladen
+40105,Kaffeemaschine,Möbelladen
+40106,Siphon,Möbelladen
+40107,Kasse,Möbelladen
+40108,Kaffeetisch,Möbelladen
+40109,Eine Tasse Kaffee,Möbelladen
+40110,Kaffeehocker 1,Möbelladen
+40111,Kaffeehocker 2,Möbelladen
+40112,Bank,Möbelladen
+40113,Menu des Cafés,Möbelladen
+40114,Dekorative Pflanze,Möbelladen
+40115,Katzenbaum,Limitierte Events
+40116,Teilchen,Möbelladen
+40117,Treppen,Möbelladen
+40118,Buchregal,Möbelladen
+40119,Regal,Möbelladen
+40120,Preisliste,Möbelladen
+40121,Kaffeeregal,Möbelladen
+40122,Kaffeebohnen,Möbelladen
+40123,Wandbild,Möbelladen
+40124,Geheimwand,Möbelladen
+40125,Geheimboden,Möbelladen
+40126,Dampfbett,Möbelladen
+40127,Zahnradtisch,Möbelladen
+40128,Werkbank,Möbelladen
+40129,Arbeitshocker,Möbelladen
+40130,Dampflampe,Möbelladen
+40131,Schreibmaschine,Möbelladen
+40132,Differenzmaschine,Möbelladen
+40133,Standuhr,Möbelladen
+40134,Abstellregal,Möbelladen
+40136,Roboterarm,Möbelladen
+40137,Dampfofen,Möbelladen
+40138,Sphärisches Instrument,Möbelladen
+40139,Werkzeug,Möbelladen
+40140,Geheimes Tor,Möbelladen
+40141,Maschinenbauplan,Möbelladen
+40142,Dampfrohre,Möbelladen
+40143,Regler,Möbelladen
+50001,Vor dem Unterrichtsgebäude,Standard-Item
+50002,Vor dem Unterrischtsgebäude - In der Nacht,Standard-Item
+50003,In der Schule,Level 30 erreichen
+50004,Schule,Standard-Item
+50005,默認戰鬥載入圖1,Standard-Item
+50006,默認戰鬥載入圖2,Standard-Item
+50007,默認戰鬥載入圖3,Standard-Item
+50008,默認戰鬥載入圖4,Standard-Item
+50009,默認戰鬥載入圖5,Standard-Item
+50010,默認戰鬥載入圖6,Standard-Item
+50011,默認戰鬥載入圖7,Standard-Item
+50012,默認戰鬥載入圖8,Standard-Item
+50013,默認戰鬥載入圖9,Standard-Item
+50014,默認戰鬥載入圖10,Standard-Item
+50015,Im Klassenzimmer,Eid leisten
+50016,Sportplatz,Mit Münzen kaufen
+50017,Draculas Schloss,Lass Dracula absolvieren
+50018,Haus der Geister,Schließe Kapitel 3 im Abenteuer ab
+50019,Geister Hintergrund,Mit Münzen kaufen
+50020,Menschen Hintergrund,Mit Münzen kaufen
+50021,Monster Hintergrund,Mit Münzen kaufen
+50022,Feen Hintergrund,Mit Münzen kaufen
+50023,Dämonen Hintergrund,Mit Münzen kaufen
+50024,Engel Hintergrund,Mit Münzen kaufen
+50025,Lucifer,Schließe Kapitel 3 im Abenteuer ab
+50026,Edwards Foto,Schließe Kapitel 4 im Abenteuer ab
+50027,Wiedergeburt,Mit Dias kaufen
+50028,Brautkleid Ladebild,"Lege einen Eid ab mit: Michaela, Lucifer, Minos, KongMing, Iron Fist, Fencer, Historia und Dracula"
+50029,Jubiläumsladebild,Mit Dias kaufen
+50030,Strand Ladebild,Mit Dias kaufen
+50031,Weihnachtsladebild,Mit Dias kaufen
+50032,Angel&Gabriel Ladebild,Mit Dias kaufen
+50033,Neujahrsladebild,Mit Dias kaufen
+50034,Strand Hauptseite,Mit Dias kaufen
+50035,Musikfestival Ladebild,Mit Dias kaufen
+50036,Walküre Ladebild,Mit Dias kaufen
+50037,Heiße Quelle Ladebild,Mit Dias kaufen
+50038,Schicksalsschwestern,Mädchen Aufgaben·Esau&Jakob
+50039,Weihnacht am Kamin,Mit Dias kaufen
+50040,Kiras Neujahrsgruß,Mit Dias kaufen
+50041,Sport Fest,Mit Dias kaufen
+60001,Vulkan Auge,Limitierte Events
+60002,Turins Spiel,Limitierte Events
+71001,Hey du da!,Standard-Item
+71002,Ich bin noch ein Kind!,Standard-Item
+71003,Umarme mich jetzt!,Standard-Item
+71004,Geh dorthin!,Standard-Item
+71005,Ich?,Standard-Item
+71006,Ahh.. na gut..,Standard-Item
+71007,Vulgär,Standard-Item
+71008,Wie auch immer!,Standard-Item
+71009,Wie konntest du nur!,Standard-Item
+71010,Ich kann dir helfen,Standard-Item
+71011,(blutet aus der Nase),Standard-Item
+71012,Errötet,Standard-Item
+71013,Nun... du hast mich...,Standard-Item
+71014,Hallo? Polizei?,Standard-Item
+71015,*Poker Face*,Standard-Item
+71016,...,Standard-Item
+71017,Ich spioniere dich aus!,Standard-Item
+71018,Taa-daa! Ich bins!,Standard-Item
+71019,Willst du spielen?,Standard-Item
+71020,Ich setzte aus...,Standard-Item
+71021,Las es uns machen!,Standard-Item
+71022,Hier geht nichts!,Standard-Item
+71023,*Auha*,Standard-Item
+71024,Danke!,Standard-Item
+72001,Fröhliches Halloween!,"Standard-Item, nutzbar mit Zeitlimit"
+72002,Süßes sonst gibts Saures!,"Standard-Item, nutzbar mit Zeitlimit"
+72003,Boo!,"Standard-Item, nutzbar mit Zeitlimit"
+72004,Süßigkeiten aufgegessen... hast du noch welche?,"Standard-Item, nutzbar mit Zeitlimit"
+72005,OK,Standard-Item
+72006,Ich liebe es!,Standard-Item
+72007,Erkläre mir das Mal,Standard-Item
+72008,Ich werde mich daran erinnern!,Standard-Item
+72009,Ich bin müde!,Standard-Item
+72010,hi~,Standard-Item
+72011,Weinend,Standard-Item
+72012,Wir sehen uns!,Standard-Item
+72013,Yeah!,Mädchen Aufgaben · Phönix
+72014,Unschuldig,Mädchen Aufgaben·Iron Fist
+72015,Völliges Vertrauen,Mädchen Aufgaben·Leila
+72017,Schockiert,Erfolge
+72018,Unangenehm,Erfolge
+10098,Musketier,Limitierte Events
+32027,Ultimative Arena Champion,Werde 6 Mal der Champion der Ultimativen Arena
+32028,Ultimative Arena Champion,Werde 7 Mal der Champion der Ultimativen Arena
+32029,Ultimative Arena Champion,Werde 8 Mal der Champion der Ultimativen Arena
+32030,Ultimative Arena Champion,Werde 9 Mal der Champion der Ultimativen Arena
+32031,Ultimative Arena Champion,Werde 10 Mal der Champion der Ultimativen Arena
+32032,Anfänger Sammler,Sammlungsladen
+32033,Normaler Sammler,Sammlungsladen
+32034,Legendärer Sammler,Sammlungsladen
+31031,Avatar für Anfänger Sammler,Sammlungsladen
+31032,Avatar für Normalen Sammler,Sammlungsladen
+31033,Avatar für Legendären Sammler,Sammlungsladen
+40135,Zeitmaschine,Dampffestival - 2. Saison
+40144,Bourbon Wand,Dampffestival - 2. Saison
+40145,Bourbon Boden,Dampffestival - 2. Saison
+40146,Bourbon Teppich,Möbelladen
+40147,Bourbon Sofa,Dampffestival - 2. Saison
+40148,Bourbon Paravent,Möbelladen
+40149,Kommode,Möbelladen
+40150,Ankleidehocker,Möbelladen
+40151,Schminktisch,Möbelladen
+40152,Spiegel,Möbelladen
+40153,Bourbon Vorhänge,Dampffestival - 2. Saison
+10100,Tee-Masterin,Limitierte Events
+10101,Elegante Dame,Limitierte Events
+10102,Sommerlust,Limitierte Events
+32035,Mechanischer Schimmer,Dampffestival - 2. Saison
+10103,Flügel der Zeit,Dampffestival - 2. Saison
+10104,Alpha-Wolf,Limitierte Events
+10105,Geburtstags-Magie,Limitierte Events
+32036,Rahmen zum 2ten Jubiläum,Limitierte Events
+31034,Avatar zum 2ten Jubiläum,Limitierte Events
+72021,Ist es das?,Limitierte Events
+72022,Ich verstehe,Limitierte Events
+72023,Ich bin böse,Limitierte Events
+72024,Herzlichen Glückwunsch,Limitierte Events
+72025,Isst du auch was?,Limitierte Events
+72026,"Gluck, gluck",Limitierte Events
+72027,Träum schön,Limitierte Events
+72028,Überraschung,Limitierte Events
+26040,Festlicher Zauberstab,Limitierte Events
+50042,Feiertagskuchen zum 2. Jubiläum,Limitiertes Event - Puzzle im Fest
+10106,Lila Champagner,Limitierte Events
+10107,Kriegsgöttin,Limitierte Events
+32037,Populärer Anker,Facebook Event
+32038,Sommerhitze,Limitierte Events
+10099,Sommergefühle,Limitierte Events
+10108,Meeresbrise,Limitierte Events
+40154,Strandstuhl,Möbelladen
+40155,Strandtisch,Möbelladen
+40156,Kühltasche,Möbelladen
+40157,Strandmatte,Möbelladen
+40158,Stranschildkröte,Möbelladen
+40159,Stuhl der Rettungswache,Möbelladen
+40160,Sandburg,Möbelladen
+40161,Strandspielzeug,Möbelladen
+40162,Volleyballnetz,Möbelladen
+40163,Persönliche Gegenstände,Möbelladen
+40164,Palme,Möbelladen
+40165,Surfboard,Möbelladen
+40166,Wassermelone,Möbelladen
+40167,Sommereis,Möbelladen
+40168,Seestern,Möbelladen
+40169,Concha,Möbelladen
+40170,Rettungsring,Möbelladen
+40171,Begrenzungslinie 1,Möbelladen
+40172,Begrenzungslinie 2,Möbelladen
+40173,Begrenzungslinie 3,Möbelladen
+40174,Transparente Tapete,Möbelladen
+40175,Transparenter Boden,Möbelladen
+32039,Unendliche Liebe,Limitierte Events
+10109,Wasserkönigin,Limitierte Events
+10110,Sommerfrische,Limitierte Events
+10111,Taufrisch,Limitierte Events
+10112,Wellenreiterin,Limitierte Events
+10113,Schwimmendes Gold,Limitierte Events
+40176,Begrenzungslinie 4,Möbelladen
+40177,Strand-Hintergrund,Standard-Item
+40178,Standard-Hintergrund,Standard-Item
+40179,Allgemeiner Hintergrund 1,Möbelladen
+40180,Allgemeiner Hintergrund 2,Möbelladen
+40181,Allgemeiner Hintergrund,Möbelladen
+10114,Süße Beere,Limitierte Events
+72019,Vergiss es,Mädchen Aufgaben·Krystal
+10115,Mitsommerschatten,Limitierte Events
+10116,Sonnenlegende,Limitierte Events
+10117,Bienentanz,Dampffestival - 3. Saison
+31035,Trinitys Avatar,Einschulungspaket
+32040,Regen in der Altstadt,Dampffestival - 3. Saison
+50043,Süße Erinnerung,Mit Dias kaufen
+50044,Haus der Geister,Entsperre 45 Mädchen der Geister Fraktion auf der Galerie
+50045,Haus der Menschen,Entsperre 45 Mädchen der Menschen Fraktion auf der Galerie
+50046,Haus der Monster,Entsperre 45 Mädchen der Monster Fraktion auf der Galerie
+50047,Haus der Feen,Entsperre 45 Mädchen der Feen Fraktion auf der Galerie
+50048,Haus der Dämonen,Entsperre 18 Mädchen der Dämonen Fraktion auf der Galerie
+50049,Haus der Engel,Entsperre 18 Mädchen der Engel Fraktion auf der Galerie
+10118,Strandurlaub,Limitierte Events
+10119,Perfekte Dynamik,Limitierte Events
+26041,Geistergewehr,Limitierte Events
+10120,Rotkäppchen,Limitierte Events
+10121,Schneewittchen,Limitierte Events
+31036,Märchentraumwelt,Limitierte Events
+60003,Eggretes Buch,Limitierte Events
+10122,Cinderella,Limitierte Events
+32041,Elite Geist,Abschlussbelohnung für Champion der Prüfung im Geister-Haus
+32042,Elite Mensch,Abschlussbelohnung für Champion der Prüfung im Menschen-Haus
+32043,Elite Monster,Abschlussbelohnung für Champion der Prüfung im Monster-Haus
+32044,Elite Fee,Abschlussbelonung für Champion der Prüfung im Feen-Haus
+32045,Elite Dämon,Abschlussbelohnung für Champion der Prüfung im Dämonen-Haus
+32046,Elite Engel,Abschlussbelohnung für Champion der Prüfung im Engel-Haus
+10123,Kaguya,Limitierte Events
+31037,Mondfestival-Avatar,Limitierte Events
+40182,Fluoreszenztapete,Möbelladen
+40183,Boden,Möbelladen
+40184,Greifautomat,Möbelladen
+40185,Rennwagen,Möbelladen
+40186,Fluoreszenzsteine,Möbelladen
+40187,Glastür,Möbelladen
+40188,Wandbildschirm,Möbelladen
+40189,Rangliste,Möbelladen
+40190,Arcaden-Spiel,Möbelladen
+40191,Basketball-Spiel,Möbelladen
+40192,Tanzmaschine,Möbelladen
+40193,Belohnungsschrank,Möbelladen
+40194,Spielhallenbar,Möbelladen
+40195,Computertisch,Möbelladen
+40196,Computerstuhl,Möbelladen
+40197,Kopfhörer (rosa),Möbelladen
+40198,Kopfhörer (grün),Möbelladen
+40199,Handy,Möbelladen
+72020,Ich mische mich nicht ein,Mädchen Aufgaben·Isabella
+10124,Herbstblatt,Limitierte Events
+10125,Spiegelbild,Limitierte Events
+10126,Innige Liebe,Limitierte Events
+10127,Bubble-Gentlemen,Dampffestival - 4. Saison
+32047,Spiegel der Zeit,Dampffestival - 4. Saison
+10128,Rosa Braut,Eid leisten
+10129,Himmlische Rhapsodie,Limitierte Events
+31038,Ronjas limitierter Avatar,Limitierte Events
+31039,Halloween Bonbon,Limitierte Events
+10130,Mitternachtskatze,Limitierte Events
+10131,Seelenbesitzerin,Limitierte Events
+26042,Heiliges Licht,Limitierte Events
+10132,Kürbisüberraschung,Limitierte Events
+10133,Liebesgericht,Eid leisten
+40200,Nacht in der Schule,Möbelladen
+31040,Avatar zu Thanksgiving,Limitierte Events
+10134,Mafia-Lady,Limitierte Events
+31041,Vivians limitierter Avatar,Limitierte Events
+31042,Joans limitierter Avatar,Limitierte Events
+31043,Avatar für 15-Sterne,Erfolge erreichen
+10135,Blaue Rose,Eid leisten
+10136,Tokyo-Erinnerung,Limitierte Events
+10137,Billardspielerin,Limitierte Events
+10138,Dunkle Sägerin,Dampffestival - 5. Saison
+32048,Kupferuhr am Ofen,Dampffestival - 5. Saison
+10139,Weihnachtsgeschenk,Limitierte Events
+31044,Limitierter Avatar von Uriel&Izanami,Limitierte Events
+10140,Weihnachtself,Limitierte Events
+10141,Explosionsfeier,Limitierte Events
+26043,Ewiges Morgengrauen,Limitierte Events
+72029,Du bist böse,Limitierte Events
+72030,Kneift dein Gesicht,Limitierte Events
+72031,Schaulustiger...,Limitierte Events
+72032,Wie kannst du es wagen!,Limitierte Events
+40201,Computerstuhl 2,Möbelladen
+40202,Party-Boden,Möbelladen
+40203,Party-Wandteppich,Möbelladen
+40204,Schneelandschaft,Möbelladen
+40205,Rote Gardine,Möbelladen
+40206,Weihnachtsbaum,Möbelladen
+40207,Bonbonlokomotive,Möbelladen
+40208,Bonbon-Abteil (grün),Möbelladen
+40209,Bonbon-Abteil (blau),Möbelladen
+40210,Gleise 1,Möbelladen
+40211,Gleise 2,Möbelladen
+40212,Gleise 3,Möbelladen
+40213,Gleise 4,Möbelladen
+40214,Nussknacker (rot),Möbelladen
+40215,Nussknacker (blau),Möbelladen
+40216,Runder Esstisch,Möbelladen
+40217,Leuchter,Möbelladen
+40218,Teegeschirr,Möbelladen
+40219,Schaukel,Möbelladen
+40220,Weihnachtskuchen,Möbelladen
+40221,Pfefferkuchenhäuschen,Möbelladen
+40222,Pfefferkuchen (grün),Möbelladen
+40223,Pfefferkuchen (rot),Möbelladen
+40224,Kinderbett,Möbelladen
+40225,Bonbonbox,Möbelladen
+40226,Bonbonsack,Möbelladen
+40227,Weihnachtsschneenacht,Möbelladen
+31045,Limitierter Avatar zu Weihnachten 2020,Limitierte Events
+32049,Weihnachtshirsch-Gruß,Limitierte Events
+50050,Wald (in der Nacht),Mit Münzen kaufen
+50051,Wald,Mit Münzen kaufen
+50052,Sternenhimmel,Schließe Kapitel 11 im Abenteuer ab
+50053,Ulbricht-Bibliothek,Schließe Kapitel 12 im Abenteuer ab
+50054,Dojo,Gewinne 100 Kämpfe in der Arena
+50055,Sommerfest,Schließe Kapitel 4 im Abenteuer ab
+50056,Strandferien,Mit Dias kaufen
+50057,Nacht voller Gefahr,Mit Dias kaufen
+10142,Teufelsbeschwörerin,Limitierte Events
+31046,Limitierter Avatar zum Neujahr 2021,Limitierte Events
+10143,Käfigschaukel,Eid leisten
+10144,Winterleckerei,Limitierte Events
+10145,Zither Spielerin,Limitierte Events
+32050,Schulerkunder,TOP10 in Schulerkundung
+31047,Veras limitierter Avatar,Limitierte Events
+26044,Siegelherz·Geister,"Synthetisieren, Antiquitätsladen"
+26045,Dämonenblut·Geister,"Synthetisieren, Antiquitätsladen"
+26046,Siegelschwert·Mensch,"Synthetisieren, Antiquitätsladen"
+26047,Schmerzfessel·Mensch,"Synthetisieren, Antiquitätsladen"
+26048,Dornenschild·Mensch,"Synthetisieren, Antiquitätsladen"
+26049,Siegelherz·Monster,"Synthetisieren, Antiquitätsladen"
+26050,Dämonenblut·Monster,"Synthetisieren, Antiquitätsladen"
+26051,Siegelschwert·Fee,"Synthetisieren, Antiquitätsladen"
+26052,Schmerzfessel·Fee,"Synthetisieren, Antiquitätsladen"
+26053,Dornenschild·Fee,"Synthetisieren, Antiquitätsladen"
+26054,Dämonenblut·Fee,"Synthetisieren, Antiquitätsladen"
+26055,Siegelschwert·Engel,"Synthetisieren, Antiquitätsladen"
+26056,Schmerzfessel·Engel,"Synthetisieren, Antiquitätsladen"
+26057,Dornenschild·Engel,"Synthetisieren, Antiquitätsladen"
+26058,Siegelherz·Engel,"Synthetisieren, Antiquitätsladen"
+26059,Dämonenblut·Engel,"Synthetisieren, Antiquitätsladen"
+26060,Siegelschwert·Dämon,"Synthetisieren, Antiquitätsladen"
+26061,Schmerzfessel·Dämon,"Synthetisieren, Antiquitätsladen"
+26062,Dornenschild·Dämon,"Synthetisieren, Antiquitätsladen"
+26063,Siegelherz·Dämon,"Synthetisieren, Antiquitätsladen"
+26064,Dämonenblut·Dämon,"Synthetisieren, Antiquitätsladen"
+26065,Armbrust,"Synthetisieren, Antiquitätsladen"
+26066,Schicksalswürfel,"Synthetisieren, Antiquitätsladen"
+26067,Zauberzylinder,"Synthetisieren, Antiquitätsladen"
+26068,Kagura-Glocke,"Synthetisieren, Antiquitätsladen"
+26069,Schutzhandschuh,"Synthetisieren, Antiquitätsladen"
+26070,Heiliger Pokal,"Synthetisieren, Antiquitätsladen"
+26071,Hammerbär,"Synthetisieren, Antiquitätsladen"
+26072,Yume-Laterne,"Synthetisieren, Antiquitätsladen"
+26073,Samuraihelm,"Synthetisieren, Antiquitätsladen"
+26074,Bienenstachel,"Synthetisieren, Antiquitätsladen"
+26075,Heilige Schelle,"Synthetisieren, Antiquitätsladen"
+26076,Geheimschlüssel,"Synthetisieren, Antiquitätsladen"
+10146,Unerfahrene Magd,Limitierte Events
+10147,Schiffzerstörer,Dampffestival - 6. Saison
+10148,Frühlingsgefühle,Eid leisten
+50058,Weihnachtsparty,Mit Dias kaufen
+32051,Maschinenraum,Dampffestival - 6. Saison
+10149,Glückskarpfen,Limitierte Events
+10150,Neujahrsgrüße,Limitierte Events
+10151,Frühlingsduft,Limitierte Events
+10152,Feierliche Röte,Limitierte Events
+31048,Apates limitierter Avatar,Limitierte Events
+31049,Skyes limitierter Avatar,Limitierte Events
+26077,Illusorische Klänge,Limitierte Events
+32052,Blauer Schwur,Limitierte Events
+10153,Lila Blütentraum,Limitierte Events
+10154,Hina-Matsuri,Limitierte Events
+10155,Feurige Liebe,Eid leisten
+10156,Lotosblume,Limitierte Events
+31050,Glimmers limitierter Avatar,Limitierte Events
+31051,Van Helsings limitierter Avatar,Limitierte Events
+10157,Geschmolzene Liebe,Limitierte Events
+10158,Kartenzauber,Limitierte Events
+10159,Showmasterin,Limitierte Events
+50059,Jahr des Karpfens,Mit Dias kaufen
+10160,Radiosprecherin,Buch der Illusion
+10161,Osterhäschen,Limitierte Events
+10162,Systemstörung,Limitierte Events
+72033,Beruhige dich,Mädchen-Aufgabe · Sensina
+40228,Geheimrucksack,Buch der Illusion
+10163,Frühlingsregen,Limitierte Events
+32053,Tagtraum,Buch der Illusion
+31052,Pippis limitierter Avatar,Limitierte Events
+10164,Personal Trainerin,Limitierte Events
+10165,Frühlingsbrise,Limitierte Events
+10166,Trunkenheit,Limitierte Events
+10167,Fröhliches Fischlein,Limitierte Events
+10168,Schläfriges Schäfchen,Limitierte Events
+10169,Treueschwur,Eid leisten
+31053,Moonies limitierter Avatar,Limitierte Events
+10170,Befreiende Spritze,Limitierte Events
+10171,Genesung,Limitierte Events
+31054,Hollys limitierter Avatar,Limitierte Events
+10172,Privatärztin,Limitierte Events
+26078,Ruf des Todes,Limitierte Events
+10173,Auf der Durchreise,Limitierte Events
+10174,Rose des Todes,Buch der Illusion
+40230,Kirchenfußboden,Möbelladen
+40231,Kirchenwand,Möbelladen
+40232,Hochzeitstorte,Möbelladen
+40233,Römische Säulen,Möbelladen
+40234,Hochzeitsdeko,Möbelladen
+40235,Hochzeitstisch 1,Möbelladen
+40236,Hochzeitstisch 2,Möbelladen
+40237,Hochzeitsstuhl 1,Möbelladen
+40238,Hochzeitsstuhl 2,Möbelladen
+40239,Hochzeitsbank 1,Möbelladen
+40240,Hochzeitsbank 2,Möbelladen
+40241,Rosa Bogengang,Möbelladen
+40242,Roter Bogengang,Möbelladen
+40243,Blumenstrauß (rosa),Möbelladen
+40244,Blumenstrauß (rot),Möbelladen
+40245,Hochzeitsplateau,Möbelladen
+40246,Traualtar,Möbelladen
+40247,Klavier,Möbelladen
+40248,Hochzeitsteppich,Möbelladen
+40249,Hochzeitsabsperrung,Möbelladen
+40250,Obstplatte,Möbelladen
+40251,Dessert,Möbelladen
+40252,Champagner,Möbelladen
+32054,Entspannter Sommerabend,Buch der Illusion
+40229,Armbrust der Liebe,Buch der Illusion
+31055,Teresas limitierter Avatar,Limitierte Events
+10175,All-In,Eid leisten
+10176,Kinderärztin,Limitierte Events
+32055,Himmelsreisende,Himmelsinsel
+10178,Dattelküchlein,Limitierte Events
+10177,Zuckeräffchen,Limitierte Events
+10179,Drachenreiterin,Limitierte Events
+10180,Frechdachs,Limitierte Events
+10181,Tollpatsch,Limitierte Events
+10182,Frühjahrsputz,Limitierte Events
+10183,Schmetterlingseffekt,Eid leisten
+50060,Wohnzimmer,Mit Münzen kaufen
+50061,Stahlbrücke,Mit Münzen kaufen
+50062,Im Wohnheimgebäude,Mit Münzen kaufen
+50063,Labor,Mit Münzen kaufen
+50064,Trainingsplatz,Mit Münzen kaufen
+50065,Eröffnungsfeier (im Freien),Mit Münzen kaufen
+31056,Limitierter Avatar von Fiona & Angie,Limitierte Events
+31057,Limitierter Avatar zum 3. Jubiläum,Limitierte Events
+10184,Weinkönigin,Limitierte Events
+72034,Yeeesssss!!,Limitierte Events
+72035,Ich hasse dich,Limitierte Events
+72036,Ich bin froh... Wirklich...,Limitierte Events
+72037,Oh?,Zeitlich limitiertes Event
+72038,Nicht schlecht~,Limitierte Events
+72039,Prost!,Limitierte Events
+10185,Tanz der Sterne,Limitierte Events
+50066,Clown-Party,Mit Dias kaufen
+32056,Limitierter Rahmen zum 3. Jubiläum - Erstes Treffen,Limitierte Events
+32057,Limitierter Rahmen zum 3. Jubiläum - Sternenlicht,Limitierte Events
+32058,Limitierter Rahmen zum 3. Jubiläum - Kerzenlicht,Limitierte Events
+32059,Limitierter Rahmen zum 3. Jubiläum - Bankett,Limitierte Events
+32060,Limitierter Rahmen zum 3. Jubiläum - Funkelnde Momente,Limitierte Events
+10186,Ballkönigin,Limitierte Events
