@@ -1,0 +1,712 @@
+id,text
+1,Really not satisfied
+2,Not satisfied
+3,Normal
+4,Impressive
+5,Very Impressive
+6,Game forum
+7,Facebook
+8,Browsing app store
+9,Recommendation from a friend or co-worker
+10,Gaming website or other media
+11,Social platform such as Line
+12,I am not that interested in the sub-culture/ I don't like the sub-culture
+13,"I kind of like the sub-culture. I mainly read, play or watch popular or classic anime, manga and games"
+14,I like the sub-culture. There is a specific genre that I like and I like watching or reading a lot of them.
+15,I really like the sub-culture. I read and watch a wide variety of ACG stuff and I know a lot more than most people. Call me a senior otaku.
+16,Smartphone games
+17,PC client games
+18,Computer website games
+19,"Console games(PS, Xbox, Switch, etc.)"
+20,I don't play other games often
+21,Idle games
+22,Turn-based RPG (FGO)
+23,Action(Honkai Impact 3rd)
+24,Real-time strategy (Clash Royale)
+25,"Shooting (PUBG, Fortnite, etc.)"
+26,MMORPG
+27,Music-themed or rhythm
+28,Less than 75
+29,76-150
+30,151-750
+31,751-1500
+32,More than 1500
+33,Experience: Playing the game is a fun and interesting experience.
+34,"Collect：Collect the characters, items and skins to complete the collection"
+35,Plot: Experience and immersing in the plot and storyline of the game.
+36,Strategy: Solving challenging problems and puzzles in the game
+37,Competition: Playing to climb the ranks and for glory.
+38,Character Development: Growing a role or character in the game. Companionship
+39,Leisure: Relaxing and killing the time.
+40,Social: Making friends and/or playing with friends in game.
+41,I don't know/ I play whatever I want. There's no main motivation.
+42,Listening to music
+43,Reading comic books
+44,Reading novels
+45,Listening to radio and podcast
+46,Watching TV/movies
+47,"Browsing anime, manga and game related websites"
+48,Watching cartoons
+49,Browsing game forums
+50,Others(You can fill in the blank)
+51,Male
+52,Female
+53,Under 16
+54,16-18 years old
+55,19-22 years old
+56,23-25 years old
+57,Over 25
+58,I'm a student.
+59,I'm currently working
+60,Other
+61,Collecting characters
+62,Upgrading Crystals
+63,Training Servants
+64,Tests
+65,Others(You can fill in the blank)
+66,Others
+67,Not disclosed
+68,Less than 1 month
+69,1-3 months
+70,3-6 months
+71,6-12 months
+72,More than 1 year
+73,Level 70-79
+74,Level 80-89
+75,Level 90-99
+76,Level 100-109
+77,Level 110-119
+78,Higher than Level 120
+79,I almost play everyday
+80,I could get online about 5-6 days in a week
+81,I could get online about 3-4 days in a week
+82,I could only be playing the game in 1-2 of the days in a week or less
+83,I need to go to school
+84,I have other games to play
+85,The game content is not enough
+86,The game gets boring for me
+87,Others(You can fill in the blank)
+88,NICE!
+89,Like
+90,Normal
+91,Don't like
+92,NOPE
+93,The events are interesting
+94,The event rewards are good
+95,Nice skins are updated
+96,New characters are adorable
+97,Others(You can fill in the blank)
+98,It's P2W
+99,It requires too much effort for the events
+100,The event reward is not enough
+101,New skin doesn't look nice
+102,The new character could be better
+103,Others(You can fill in the blank)
+104,"I don't watch the story, I just skipped that all"
+105,"I sometimes watched that, but also skipped some of them"
+106,"I read all the stories without skipping, but not very attentive."
+107,I read all the stories in detail.
+108,YES
+109,NO
+110,I don't like how the event works
+111,I don't like the event reward
+112,I don't have enough time to play it
+113,The rules are too complicated for me
+114,Others(You can fill in the blank)
+115,YES
+116,NO
+117,I like the new graphic
+118,The old design is better
+119,Both of them are great
+120,I don't like either of them
+121,It doesn't matter
+122,I don't like how the event works
+123,I don't like the event reward
+124,I don't have enough time to play it
+125,The rules are too complicated for me
+126,Others(You can fill in the blank)
+127,YES
+128,NO
+129,I don't like how it works
+130,The reward is not attractive
+131,The rules are too complicated for me
+132,I don't have enough time for that
+133,Others(You can fill in the blank)
+134,LINE
+135,FACEBOOK
+136,Twitter
+137,Discord
+138,巴哈姆特
+139,Others(You can fill in the blank)
+140,I don't use any of those above
+141,New story
+142,New series of skins
+143,More new characters
+144,New events
+145,Others(You can fill in the blank)
+146,NOPE
+147,Don't like
+148,Normal
+149,Like
+150,NICE!
+151,Really?
+152,No
+153,Normal
+154,Kinda
+155,Agree
+156,Less than 1 month
+157,1-3 months
+158,3-6 months
+159,6-12 months
+160,More than 1 year
+161,Impressive
+162,Like
+163,Normal
+164,Don't like
+165,Really Bad
+166,"Yes, I have."
+167,I don't think I've been spending more time.
+168,"No, I think I spent less time on the game."
+169,I need to spend more time at work/school
+170,I have other games to play
+171,The game gets boring for me
+172,I'm not very satisfied with the recent updates
+173,It's too hard to promote the girls I have
+174,I cannot get the girl I want
+175,I cannot pass a certain stage in Tests or Patrol
+176,I don't like how the League works
+177,I feel there're fewer players in the game than before
+178,Others(You can fill in the blank)
+179,Dorm
+180,House Exams
+181,Security Squad
+182,Strategies
+183,Shopping Street
+184,Monthly Events
+185,Others(You can fill in the blank)
+186,"It's good, but you should still update more furniture pieces"
+187,The rule is too hard for me to understand
+188,"I need an easier way to manage my Dorm, the current OS is complicated"
+189,I want more room for my girls to stay
+190,Others(You can fill in the blank)
+191,"It's attractive, I'm now trying to get further"
+192,It's too hard for me to pass each stage
+193,"It's hard to operate in the feature, I've mis-clicked something wrong many times."
+194,"I have no idea how to play it well, I hope there could be some help"
+195,I've not played this feature yet
+196,I cannot find a proper teammate
+197,"It's good, I've got nothing to complain"
+198,The rule is too hard for me to understand
+199,"I've only met 1 kind of boss in this feature, hope there will be more different enemies"
+200,I've not played this feature yet
+201,Others(You can fill in the blank)
+202,I don't like teaming up with others
+203,My friends' squads are full
+204,It's hard to find someone in the same Security level to team up
+205,No one replied to my application or invitation
+206,What? I can team up with others?
+207,It becomes more complicated than before
+208,I hope Skin Store can show the skins are available to be bought with Costume Tickets clearly
+209,"It's nice, I hope there will be more stores added to this feature in the future"
+210,"I'm a new player, but I don't feel anything wrong about this feature"
+211,"I'm a new player, but I feel this feature is complicated"
+212,It's more convenient than waiting for the events to be updated every week
+213,"I don't like it, as it lowers my anticipation to the upcoming events"
+214,I hope more tasks could be added to Monthly Events
+215,The tasks in the Monthly Event are too hard to be completed
+216,I cannot find where to enter this feature
+217,Others(You can fill in the blank)
+218,It helps me a lot
+219,There are still some improvements can be made
+220,"It's bad, many descriptions of the Girls are not accurate"
+221,I haven't checked this feature yet
+222,I like them
+223,I don't hate them
+224,I think the ones you made in the past updates are better
+225,New Girls
+226,New Skins
+227,New Features
+228,New Events
+229,Very
+230,Kind of
+231,Neutral
+232,No
+233,Noooo!!!
+234,"It's very interesting, and absolutely increases the playability of the game"
+235,"I think it's okay, but there's still a lot you can improve."
+236,"I don't like it, it's boring and hard to understand."
+237,I haven't checked this feature yet
+238,Others(You can fill in the blank)
+239,"Very good, it's better than the old ones"
+240,"It's okay, but I still like the ones I'm using in the Official Server"
+241,It's bad and hard to activate.
+242,I haven't checked this feature yet
+243,Others(You can fill in the blank)
+244,Absolutely!
+245,I do.
+246,I will if I can remember.
+247,"No, not again"
+248,I don't feel it makes the game better as I find it hard to understand the rules.
+249,I feel it doesn't make the game better as it doesn't fit the game's play style.
+250,"I don't feel it makes the game better, it just makes the game more complicated."
+251,Male
+252,Female
+253,Secret
+254,Under 18
+255,18-22 years old
+256,23-25 years old
+257,26-30 years old
+258,Over 30
+259,Less than 1 month
+260,More than 1 month
+261,More than 3 months
+262,More than 6 months
+263,More than 1 year
+264,Less than 1 Hour
+265,1 to 3 hours
+266,3 to 6 hours
+267,More than 6 Hours
+268,Impressive
+269,Like
+270,Neutral
+271,Don't like
+272,Really Bad
+273,Steampunk Madness
+274,Yume Collection
+275,Sanctuary
+276,Furniture
+277,Others (Please fill in the blank)
+278,Steampunk Madness
+279,Yume Collection
+280,Sanctuary
+281,Co - op
+282,Furniture
+283,Others (Please fill in the blank)
+284,The reward is good
+285,The rule is too hard for me to understand
+286,It doesn't suit this game
+287,I haven't checked this feature yet
+288,Others (Please fill in the blank)
+289,It helps me a lot when I try to check the detail of the items
+290,The classification can still be optimized
+291,I want more merchandise in the Store
+292,I haven't checked this feature yet
+293,Others (Please fill in the blank)
+294,More interesting than Hiking and provides better reward
+295,I hope there can be more Boss
+296,It's too hard for me to complete
+297,I haven't checked this feature yet
+298,Others (Please fill in the blank)
+299,Space Shuttle
+300,Arcade
+301,Metro Station
+302,Bar
+303,Palace
+304,Others(You can fill in the blank)
+305,I like them
+306,I don't hate them
+307,I think the ones you made in the past updates are better
+308,New Girls
+309,New Skins
+310,New Features
+311,New Events
+312,New Stories
+313,Others (Please fill in the blank)
+314,School Life
+315,The World outside the Academy
+316,The history of Gap World
+317,The Girls' Adventure
+318,The Girls' Past
+319,The Stories of the Servants
+320,The Stories of the Antiques
+321,Others (Please fill in the blank)
+322,"Perfect, can be used in most situations"
+323,"Good, but I still think the past ones are better"
+324,"Normal, I won't feel depressed if I don't get them"
+325,"Not good, I don't think I will need it"
+326,I have no idea
+327,Others(You can fill in the blank)
+328,"Perfect, I love it!"
+329,"Good, I won't get bored easily"
+330,"Normal, it relies too much on luck"
+331,"Normal, the resource provided in this mode to get the Girls is too limited"
+332,"Normal, I think it will become better after a few optimizations"
+333,"Bad, need to redesign it"
+334,"Bad, the rules are hard to understand"
+335,I haven't checked this feature yet
+336,Others(You can fill in the blank)
+337,Male
+338,Female
+339,Confidential
+340,Under 18
+341,18-22 years old
+342,23-25 years old
+343,26-30 years old
+344,Over 30
+345,Less than 1 month
+346,More than 1 month
+347,More than 3 months
+348,More than 6 months
+349,More than 1 year
+350,Less than 1 Hour
+351,More than 1 Hour
+352,More than 3 Hours
+353,More than 6 Hours
+354,Impressed
+355,Satisfied
+356,Average
+357,Unsatisfied
+358,Unimpressed
+359,"Awesome, increased my battle experience"
+360,Resources were insufficient
+361,Increased my strategy
+362,Hope to see more changes
+363,Haven't tried it
+364,Other (fill out impression)
+365,Rules were complicated to understand
+366,Great rewards
+367,Too difficult
+368,Fun to play
+369,Haven't played it
+370,Other (fill out impression)
+371,Hope to see more of this in future
+372,Limited Recruitment Girls weren't strong
+373,Had practical benefits
+374,Haven't played it
+375,Other (fill out impression)
+376,Character
+377,Drawing
+378,CV
+379,Backstory
+380,Strength
+381,Other (fill out)
+382,Prideful
+383,Fragile
+384,Cold Beauty
+385,Idealistic
+386,Headstrong
+387,Harsh spoken
+388,Dark
+389,Queenlike
+390,Expressionless
+391,Innocent
+392,Gentle
+393,Energetic
+394,Other (fill out)
+395,Elf
+396,Cyborg
+397,Puppet
+398,Kemonomimi
+399,Vampire
+400,Demon
+401,Angel
+402,Human
+403,Dragon
+404,Other (fill out)
+405,Samurai
+406,Ninja
+407,Knight
+408,Witch
+409,Professor
+410,None
+411,Army
+412,Detective
+413,Nurse
+414,Maid
+415,Idol
+416,None
+417,Psychic
+418,Nun
+419,Magician
+420,Princess
+421,Student
+422,None
+423,Other (fill out)
+424,Japanese
+425,English
+426,No preference
+427,Both
+428,Male
+429,Female
+430,Secret
+431,Under 18
+432,18-22 years old
+433,22-25 years old
+434,25-30 years old
+435,Over 30
+436,Less than 1 Hour
+437,More than 1 Hour
+438,More than 3 Hours
+439,More than 6 Hours
+440,Impressive
+441,Satisfied
+442,Neutral
+443,Unsatisfied
+444,Unimpressed
+445,School Excursion
+446,Memory Update
+447,Elite Skills
+448,Antique Store
+449,Old Campus Exploration
+450,Yume Study Session
+451,YES
+452,NO
+453,The stages are too hard
+454,Need more Exploration Plans to choose from
+455,The extra score provided by Exploration Plans is improper
+456,The enemy lineup on each stage can be more changeable
+457,Need more updates/adjustments on Exploration Plans
+458,Others(You can fill in the blank)
+459,YES
+460,NO
+461,"Skill increases are average, expected more effects"
+462,"Skill increases are overpowering, breaking the balance"
+463,Too little resources gained and requires a long time to upgrade
+464,Other (fill out)
+465,Yes
+466,No
+467,"Too little resources gained, takes too much time to read. Hoping for a resource increase."
+468,"The current stories are too little, hoping to see more content added."
+469,The function to replay previous stories are great.
+470,Other (fill out)
+471,Yes
+472,No
+473,This event helped me to learn more about the features in the game.
+474,It helped me to understand more about the story plot and settings.
+475,The rewards that can be obtained are satisfactory.
+476,Other (fill out)
+477,Yes
+478,No
+479,The rewards that can be obtained are tempting
+480,The gameplay is interesting and has made the game more fun.
+481,The gameplay is complicated and confusing
+482,Other (fill out)
+483,Magician
+484,Casual Clothes
+485,Dreamland
+486,Racetrack Girl
+487,Idol
+488,Sporty
+489,Doctor and Patient
+490,Banquet Gown
+491,Other (fill out)
+492,Would purchase for the Skin and not the resources
+493,Would purchase for the resources and not the Skin
+494,Would only purchase if the Skin and resources both attractive
+495,Never bought a Special Skin Pack before
+496,Doll Tradition (Ennmaya)
+497,Violet Prophecy (Amelia)
+498,Festive Maiden (Vivian)
+499,Gentle Grace (Joan)
+500,Sweet Panda (Pandaria)
+501,Festive Glory (Fenrir)
+502,Tricky Pirate (Rogue)
+503,Supreme Maid (Empress Saint)
+504,Dark Phoenix (Geisha)
+505,Cookie Snatcher (Psychic)
+506,Shrine Visit (Sakura)
+507,Santa Deity (Izanami)
+508,Santa's Assistant (Uriel)
+509,Sleepy Reindeer (Trinity)
+510,Devil's Sawtooth (Kratos)
+511,Black Hornet (Linky)
+512,I'm not interested in the skins above
+513,Fruit Party
+514,Theatre
+515,Wedding Scene
+516,Garden
+517,Kitchen
+518,Others(You can fill in the blank)
+519,School Life
+520,Adventure
+521,Detective
+522,Romance
+523,Others(You can fill in the blank)
+524,Main Story
+525,Event Story
+526,Character Challenge
+527,Antique Descriptions
+528,Character Files
+529,Servant Stories
+530,Not interested in the plot
+531,Other (fill out)
+532,Yume Academy (Episode 1)
+533,Return of the Valkyrie (Episode 2)
+534,Tyrant of the Volcano (Episode 3)
+535,Music Festival
+536,Unpleasant Vacation
+537,Moonlight (Ithil's character challenge)
+538,A Doctor's Rule (Raphael's character challenge)
+539,The First Supervisor (Turin's character challenge)
+540,Reborn (Phoenix's character challenge)
+541,Para Bellem (Linky's character challenge)
+542,A Crystal Miracle (Krystal's character challenge)
+543,Diary (Iron Fist's character challenge)
+544,Leave No Girl Behind (Hottie's character challenge)
+545,Secret File (KongMing's character challenge)
+546,The Follower (Aquaris' character challenge)
+547,Justice Bringer (Hexa's character challenge)
+548,The Mystic (Valeera's character challenge)
+549,Twins of Fate (Esau & Jacob's character challenge)
+550,Not interested in the plot
+551,Others(You can fill in the blank)
+552,Simple events with simple rules
+553,"Events with bigger gameplay (Fairytale Land, Old Campus Exploration, etc.)"
+554,"Events with different gameplay from the usual ones (Sweet Melody, other small games, etc.)"
+555,"Events with side stories (Declaration of Love, Summer Heat, etc.)"
+556,Events with more storyline such as Fairytale Land
+557,Other (fill out)
+558,Too many daily tasks to complete
+559,The gameplay takes up too much time
+560,Both takes up a lot of time
+561,It's perfect just the way it is
+562,Can still create more content that requires more time
+563,RPG+Collection
+564,Boardgame
+565,Sandbox
+566,Moba
+567,Casual
+568,ACT
+569,MMORPG
+570,Sports
+571,TCG
+572,SIM
+573,Strategy Game
+574,Idle
+575,Casual Strategy
+576,Battle Royale
+577,Music
+578,Others(You can fill in the blank)
+579,Empathy (I pay more attention to the characters and story)
+580,Communication (I feel more comfortable when playing with other players)
+581,Competition (I enjoy competing with other players)
+582,Adventure (I enjoy discovering new features)
+583,Creative (I find it interesting to create stuff)
+584,Development (I feel satisfied when my character grows stronger)
+585,Interaction (I like games where I need to pay full attention when playing)
+586,Simulation (I like games that look more realistic)
+587,Puzzle Solving (I get great satisfaction from solving problems)
+588,Strategy (I believe a good strategy is the key to victory in games)
+589,Research (I enjoy analyzing details in games)
+590,Collection (I enjoy collecting unique items in games)
+591,Other (fill out)
+592,Don't Know
+593,Don't like
+594,Neutral
+595,Like
+596,Impressive
+597,Male
+598,Female
+599,Confidential
+600,Under 18
+601,18 - 21
+602,22 - 25
+603,26 - 30
+604,Above 30
+605,<1h
+606,1-3hrs
+607,3-6hrs
+608,>6hrs
+609,Highly Satisfied
+610,Satisfied
+611,Average
+612,Unsatisfied
+613,Highly Unsatisfied
+614,Servant Enhancement
+615,Valentine's Again
+616,Fantasy Book
+617,Sky Island
+618,Ancient City Battle
+619,Yes
+620,No
+621,"It’s great, I get to enhance my Servants."
+622,Attribute increases are too little.
+623,Hard to acquire enough resources and takes too long to upgrade.
+624,Lower level attributes unlocked are too weak and higher level attributes unlocked are too strong.
+625,Other (fill out)
+626,Yes
+627,No
+628,I loved it and hope to see more similar events!
+629,"Not interested in the story, but I liked the skin reward."
+630,Didn’t really care about the story or the rewards.
+631,Didn’t enjoy it and don’t recommend it further.
+632,Other (fill out)
+633,Yes
+634,No
+635,I would pay to get the new skins and frames.
+636,I would pay to get the valuable rewards.
+637,I would consider paying for the new skins and rewards.
+638,I wouldn’t pay as the rewards and skins aren’t attractive.
+639,Other (fill out)
+640,Yes
+641,No
+642,The event icon is hidden and hard to find.
+643,The enemies are strong and the damage dealt is not satisfactory.
+644,It’s time consuming and a daily burden.
+645,No motivation to climb the ranks as rewards are too little.
+646,I love it and hope it opens again.
+647,Other (fill out)
+648,Yes
+649,No
+650,The rewards that can be obtained are attractive.
+651,The gameplay is interesting and has made the game more fun.
+652,The gameplay is complicated and hard to understand.
+653,Not interested in participating as it depends on luck.
+654,It’s time consuming and a daily burden.
+655,Other (fill out)
+656,Damage Dealer (PVE)
+657,Damage Dealer (PVP)
+658,Tank
+659,Support
+660,Any
+661,Other (fill out)
+662,Prideful
+663,Serious
+664,Eighth-grade syndrome
+665,Dimwit
+666,Natural airhead
+667,Devious
+668,Dark
+669,Tomboy
+670,Fragile
+671,Gentle
+672,Energetic
+673,Other (fill out)
+674,Ponytail
+675,Pigtail
+676,Short hair
+677,Long hair
+678,Braids
+679,Curls
+680,Straight hair
+681,Other (fill out)
+682,Lolita & Gothic
+683,Casual wear
+684,"Special materials (e.g. leather, armor)"
+685,Gown
+686,Other (fill out)
+687,Witch
+688,Samurai
+689,Ninja
+690,Phantom Thief
+691,Mystical creature
+692,Others
+693,Maid
+694,Nurse
+695,Artist
+696,Class representative
+697,Science geek
+698,Others
+699,Feline
+700,Canine
+701,Tentacles
+702,Fish
+703,Insects
+704,Plants
+705,Don't prefer any non-human characteristics
+706,Other (fill out)
+707,A
+708,E
+709,D
+710,C
+711,B

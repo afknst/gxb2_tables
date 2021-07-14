@@ -1,0 +1,200 @@
+name,desc,desc1
+atk,Attack,Attack
+hp,HP,生命上限百分比燃烧伤害
+arm,Armor,Armor
+spd,Speed,Speed
+sklP,Skill Damage,Skill Damage
+hit,Precision,Precision
+miss,Block,Dodge
+crit,Crit,Crit
+critTime,Crit Damage,Crit Damage
+brk,Armor Break,Armor Break
+free,Immune Ctrl,Immune Ctrl
+trueAtk,Holy Damage,Holy Damage
+energy,Energy,Energy
+decDmg,DMG Reduction,DMG Reduction
+stun,Stun,Stun
+ice,Freeze,Freeze
+stone,Petrify,Petrify
+forbid,Silence,Silence
+hurt,Direct Damage,Direct Damage
+dot,Damage over time,Damage over time (marks and bleeding)
+heal,Direct Heal,Direct Heal
+hot,Heal over time,Sustained Heal
+healP,恢復%生命,恢复%生命
+trueHurt,Holy Damage,Holy Damage
+dotPoison,Poison,Poison
+dotBlood,Bleeding,Bleeding
+dotFire,Burning,Burning
+atkP,Attack,Attack
+hpP,HP,生命（按%加生命）
+armP,Armor,Armor
+addhurt,Add Attack,Add Attack
+revive,revive,revive
+siphonAtk,Percentage Attack Siphoned,Percentage Attack Stolened
+siphonHp,Percentage HP Stolen,Percentage HP Stolen
+siphonArm,Percentage Armor Stolen,Percentage Armor Stolen
+shield,抵挡护盾,抵挡护盾
+brier,reduce x% of damage,reduce x% of damage
+rImpress,Round Mark,Round Mark
+cImpress,Crit Mark,Crit Mark
+rImpressB,Explosive Round Mark,Explosive Round Mark
+cImpressB,Explosive Crit Mark,Explosive Crit Mark
+fImpress,Shock Streak,Shock Streak
+oImpress,Mark of the Observer,Mark of the Observer
+weak,Weaken,Weaken
+atkPos,position increases attack,position increases attack
+hpPos,位置增加生命率,位置增加生命率
+armPos,armPos,armPos
+spdPos,position increases speed,position increases speed
+hitPos,位置增加精準,位置增加精準
+missPos,dodge increase,dodge increase
+critPos,Crit Increase,Crit Increase
+critTimePos,increases crit multiplier,increases crit multiplier
+stunB,increase damage when stunned,increase damage when stunned
+iceB,increase damage when frozen,increase damage when frozen
+stoneB,increase damage when petrified,increase damage when petrified
+dotFireB,increase damage when burned,increase damage when burned
+dotPoisonB,increase damage when poisoned,increase damage when poisoned
+dotBloodB,Increase Bleed,Increase Bleed
+zs,Extra Damage to Warrior,Extra Damage to Warrior
+fs,Extra Damage to Mage,Extra Damage to Mage
+ms,Extra Damage to Priest,Extra Damage to Priest
+ck,Extra Damage to Assassin,Extra Damage to Assassin
+yx,Extra Damage to Ranger,Extra Damage to Ranger
+changeCombat,Change Normal Attack,Change Normal Attack
+fsStun,Stun against Mages,Stun against Mages
+fsDotBlood,Bleeds Mages,Bleeds Mages
+zsIce,Freezes Warriors,Freezes Warriors
+zsStun,Stun Warriors,Stun Warriors
+zsForbid,Silence Warriors,Silence Warriors
+zsHurt,Extra damage to Warriors,Extra damage to Warriors
+zsArmP,Reduces Armor to Warriors,Reduces Armor to Warriors
+ckStone,Petrifies Assassins,Petrifies Assassins
+ckForbid,Silence Assassins,Silence Assassins
+ckHurt,Extra damage to Assassin,Extra damage to Assassin
+msForbid,Silence Priests,Silence Priests
+yxHurt,Extra Damage to Rangers,Extra Damage to Rangers
+yxAtkP,Reduces a Ranger's Attack,Reduces a Ranger's Attack
+zsHpPO,HP Adds,HP Adds
+zsAtkPO,Attack Adds,Attack Adds
+zsCritO,Crit Adds,Crit Adds
+zsMissO,Block Adds,Block Adds
+zsSklPO,Skill DMG Adds,Skill DMG Adds
+fsHpPO,HP Adds,HP Adds
+fsAtkPO,Attack Adds,Attack Adds
+fsCritO,Crit Adds,Crit Adds
+fsHitO,Precision Adds,Precision Adds
+fsSklPO,Skill DMG Adds,Skill DMG Adds
+ckHpPO,HP Adds,HP Adds
+ckCritTimeO,Crit DMG Adds,Crit DMG Adds
+ckCritO,Crit Adds,Crit Adds
+ckBrkO,ArmorBreak Adds,ArmorBreak Adds
+ckSklPO,Skill DMG Adds,Skill DMG Adds
+yxHpPO,HP Adds,HP Adds
+yxAtkPO,Attack Adds,Attack Adds
+yxMissO,Block Adds,Block Adds
+yxHitO,Precision Adds,Precision Adds
+yxSklPO,Skill DMG Adds,Skill DMG Adds
+msHpPO,HP Adds,HP Adds
+msMissO,Block Adds,Block Adds
+msCritO,Crit Adds,Crit Adds
+msSpdO,Speed Adds,Speed Adds
+msSklPO,Skill DMG Adds,Skill DMG Adds
+ckStun,Stun Assassins,Stun Assassins
+mhurt,Direct DMG,Direct DMG
+mdotFire,Direct (Burning) DMG,Direct (Burning) DMG
+mdotPoison,Direct (Poison) DMG,Direct (Poison) DMG
+mdotBlood,Direct (Bleed) DMG,Direct (Bleed) DMG
+yxDotBlood,Bleed DMG to Rangers,Bleed DMG to Rangers
+phurt,Less than self HP deals (HP%) DMG,Less than self HP deals (HP%) DMG
+addHurtd,Less than self Armor deals extra hit,Less than self Armor deals extra hit
+zsDotFire,Burning DMG on Warrior,Burning DMG on Warrior
+yxStun,Stun on Ranger,Stun on Ranger
+fsForbid,Silence on Mage,Silence on Mage
+ckDotPoison,Poison on Assassin,Poison on Assassin
+msStun,Stun on Priest,Stun on Priest
+msDotFire,Burning DMG on Priest,Burning DMG on Priest
+zsSpdO,Speed Adds,Speed Adds
+fsSpdO,Speed Adds,Speed Adds
+ckSpdO,Speed Adds,Speed Adds
+ckAtkPO,Attack Adds,Attack Adds
+yxSpdO,Speed Adds,Speed Adds
+msAtkPO,Attack Adds,Attack Adds
+iceless,Immune to Freeze,Immune to Freeze
+stoneless,Immune to Petrify,Immune to Petrify
+stunless,Immune to Stun,Immune to Stun
+forbidless,Immune to Silence,Immune to Silence
+stunH,生命不低于自己的目标眩晕,生命不低于自己的目标眩晕
+hurtH,生命低于自己的目标额外伤害,生命低于自己的目标额外伤害
+msHurt,Extra Damage to Priests,Extra Damage to Priests
+forbidH,生命不高于自己的目标禁魔,生命不高于自己的目标禁魔
+phurtH,Deal extra x% damage to the target's max HP if target's HP is lower than self.,Deal extra x% damage to the target's max HP if target's HP is lower than self.
+rddot,"Random DoT damage (Poison, Burn, Bleed)","Random DoT damage (Poison, Burn, Bleed)"
+rdcontrol,"Random Control effect (Stun, Freeze, Petrify)","Random Control effect (Stun, Freeze, Petrify)"
+hurtmaxM,对目标造成己方最高生命上限x%的伤害,对目标造成己方最高生命上限x%的伤害
+hurtmaxH,对目标造成其生命上限x%的伤害,对目标造成其生命上限x%的伤害
+healB,Heal Received,被治疗效果增强x%
+hurtshare,所有友军分担伤害,所有友军分担伤害
+exhurt,额外进行一次普攻,额外进行一次普攻
+hurtB,普攻伤害增加x%,普攻伤害增加x%
+newRound,击杀角色获得新回合,击杀角色获得新回合
+overflow,伤害平摊,伤害平摊
+buffExloded,引爆buff,引爆buff
+mindControl,Mind Control,心灵控制
+transformBK,祭献转化成分身,祭献转化成分身
+atkPBK,黑骑士攻击buff,黑骑士攻击buff
+brkBK,黑骑士破甲buff,黑骑士破甲buff
+sw,神威學院傷害提升,神威學院傷害提升
+yz,隱蹤學院傷害提升,隱蹤學院傷害提升
+th,曇華學院傷害提升,曇華學院傷害提升
+fj,風見學院傷害提升,風見學院傷害提升
+cx,辰星學院傷害提升,辰星學院傷害提升
+xl,修羅學院傷害提升,修羅學院傷害提升
+critDef,受到暴击伤害,受到暴击伤害
+debuffClean,清除减益效果,清除减益效果
+surAtkP,存活战姬数*1.2%攻击力,存活战姬数*1.2%攻击力
+hurtLhurtP,生命高于自己，额外伤害量x%的伤害,生命高于自己，额外伤害量x%的伤害
+healI,Heal Amount,造成治疗效果增强x%
+healPlose,恢复已损失生命%生命,恢复已损失生命%生命
+rowFArmP,对前排护甲,对前排护甲
+rowFStone,对前排石化,对前排石化
+rowBAtkP,对后排攻击,对后排攻击
+rowBSpd,对后排速度,对后排速度
+dotTwins,双子持续伤害,双子持续伤害
+rowFHpP,hpPos-前排,hpPos-前排
+rowBHpP,hpPos-后排,hpPos-后排
+rowBArmP,armPos-后排,armPos-后排
+rowFHit,hitPos-前排,hitPos-前排
+rowBMiss,missPos-后排,missPos-后排
+rowBCrit,critPos-后排,critPos-后排
+hotHuatuo,持续回血（每回合回血）,持续回血（每回合回血）
+reviveINF,无限复活（立刻复活）,无限复活（立刻复活）
+reviveINFbuff,无限复活累加buff,无限复活累加buff
+dotFireMaxHp,生命上限百分比燃烧伤害,生命上限百分比燃烧伤害
+atkUnable,无法攻击,无法攻击
+free_harm,免死护盾,免死护盾
+aggression,杀意buff,杀意buff
+aggressionHarm,杀意伤害,杀意伤害
+stunSober,对未眩晕敌人眩晕,对未眩晕敌人眩晕
+critStun,对已眩晕敌人暴击伤害（配置攻击百分比、此伤害必定暴击）,对已眩晕敌人暴击伤害（配置攻击百分比、此伤害必定暴击）
+hurtmaxHLimit15,对目标造成其生命上限x%的伤害（不超過15倍攻擊）,对目标造成其生命上限x%的伤害（不超過15倍攻擊）
+unfree,Extra Control Rate,Extra Control Rate
+incDmg,增伤率,增伤率
+incDmgGroupCom,Damage to Non-Angel/Demon,增伤率-四系
+incDmgGroupSpe,Damage to Demon/Angel,增伤率-光暗
+incDmgGroupChaos,Damage to Chaos,增伤率-混沌
+decDmgGroupCom,Dmg. Red. Non-Angel/Demon,减伤率-四系
+decDmgGroupSpe,Dmg. Red. Angel/Demon,减伤率-光暗
+decDmgGroupChaos,Dmg. Red. Chaos,减伤率-混沌
+incDmgSkl,Increase Skill Damage,增伤率-技能
+decDmgSkl,Reduce Skill Damage,减伤率-技能
+incDmgNorAtk,Increase Basic Attack damage,增伤率-普攻
+decDmgNorAtk,Reduce Basic Attack damage,减伤率-普攻
+allHarmDec,Damage\nDepletion,Damage Reduction (all damages)
+unCrit,Crit Resist,Crit Resist
+resist_zs,W DMGR,W DMGR
+resist_fs,M DMGR,M DMGR
+resist_yx,R DMGR,R DMGR
+resist_ck,A DMGR,A DMGR
+resist_ms,P DMGR,P DMGR

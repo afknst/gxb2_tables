@@ -1,0 +1,11 @@
+id,battle_id,skill_ids,reward,chapter_icon,fort_img
+1,801001,403201|403202,2#10,hero_challenge_28,btn_h_challenge_11
+2,801001,403301|403302,2#20,hero_challenge_2,
+3,801001,403601,2#30,hero_challenge_2,
+4,801001,404001,2#50,hero_challenge_28,
+5,801001,404101,2#70,hero_challenge_28,
+6,801001,404201|404202,2#90,hero_challenge_7,
+7,801001,404301,2#110,hero_challenge_7,
+8,801001,403901,2#130,hero_challenge_22,
+9,801001,401901,2#140,hero_challenge_23,
+10,801001,403501,2#150,hero_challenge_28,

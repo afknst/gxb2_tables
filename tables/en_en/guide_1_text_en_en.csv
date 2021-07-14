@@ -1,0 +1,128 @@
+id,desc,mask_icon,icon_offset,mask_icon_h5,icon_offset_h5
+1,"Welcome back to [c][d76500]Yume Academy[-][/c]!\n\nSince today's the first day of school, let me show you around!",,,,
+2,"Now, let's give you a tour to help you become familiar with the campus~!",,,,
+3,Tap here to check out [c][d76500]Capsules[-][/c]!,buttoncrop_1,0|0,,
+4,[c][d76500]Regular Capsules [-][/c] can be used to summon most girls (1-5 Stars). Regular Capsules require [c][d76500]Regular Capsule Coins [-][/c]!,,,,
+5,"You're in luck, Senpai!\nThere's a free capsule available... Let's try it out!",buttoncrop_4,0|0,,
+6,,,,,
+7,[c][d76500]Advanced Capsule Machine[-][/c] can be used to summon girls with [c][d76500]more Stars[-][/c]. They require [c][d76500]Gems[-][/c] or [c][d76500]Advanced Capsule Coins[-][/c] to obtain.,,,,
+8,"Wow, here's also a free Advanced Capsule Coin! Give it a try~",buttoncrop_6,0|0,,
+9,,,,,
+10,,buttoncrop_1,0|0,,
+11,Great! It looks like you are getting the hang of summoning Girls. Let's focus now on the [c][d76500]Campaign![-][/c],,,,
+12,"Look, Senpai!~\nThe [c][d76500]Campaign [-][/c] is over here~",buttoncrop_2,0|0,buttoncrop_2_h5,0|-4
+13,"Wow! The [c][d76500]battle[-][/c] is about to begin! Senpai, let's go check it out!",buttoncrop_17,0|0,,
+14,"First, you need to choose which Girls to take into battle~!",buttoncrop_3,0|0,,
+15,,buttoncrop_3,0|0,,
+16,"Ok, we're ready!\nLet's start the fight~!",buttoncrop_5,0|0,,
+17,Each girl belongs to a [c][d76500]Faction [-][/c]~ \nEach Faction has a [c][d76500]rival[-][/c] that they are more effective at fighting. \nTap the button below to see how this works!,,,,
+18,,buttoncrop_18,0|0,,
+19,,,,,
+20,,,,,
+21,"Hey Senpai, you've collected some [c][d76500]Girl Shards [-][/c]!\nTap on your Bag to put them together.",buttoncrop_1,0|0,,
+22,"Here, you can [c][d76500]Summon[-][/c] Girls with shards!",buttoncrop_11,0|2,,
+23,"When you have enough Girl Shards, you can tap the icon to summon the corresponding Girl.",,,,
+24,,,,,
+25,,,,,
+26,,,,,
+27,Senpai~!! The Girls need to get stronger!,buttoncrop_1,0|0,,
+28,Tap the [c][d76500]Campus[-][/c] icon.,buttoncrop_8,-1|-1,buttoncrop_8_h5,-1|-1
+29,"Senpai, let's try the [c][d76500]Transfer[-][/c] feature~!",buttoncrop_9,0|-1,,
+30,"If you transfer Girls, you will receive [c][d76500]Exp Juice[-][/c], which is important for leveling up your Girls!",,,,
+31,Select a Girl you want to transfer~,buttoncrop_3,0|0,,
+32,,buttoncrop_19,0|0,,
+33,,,,,
+34,Great!\nLet's go [c][d76500]Level Up[-][/c] your Girls.,buttoncrop_1,0|0,,
+35,,buttoncrop_10,0|0,,
+36,"After you get enough Exp Juice,\nyou can tap here to Level Up a Girl.",,,,
+37,WOW~! Let's try that again!,,,,
+38,Senpai is so smart!\nLet's do it one more time!,,,,
+39,Your Girl is getting much stronger! Let's do it one last time~!,,,,
+40,Now it's time to equip some [c][d76500]Gear[-][/c]~!,buttoncrop_11,0|0,,
+41,Tap here to equip your Girl with a weapon.,buttoncrop_12,0|0,,
+42,,,,,
+43,,,,,
+44,"Wow, that's amazing!\nYour Girl is even stronger than before!",,,,
+45,,buttoncrop_13,0|0,,
+46,,buttoncrop_1,0|0,,
+47,"Let's go, Senpai~!\nIt's time to continue our adventure.",buttoncrop_2,0|0,buttoncrop_2_h5,0|-4
+48,"Tap here to go to the next stage, Senpai!",buttoncrop_20,-16|0,,
+49,,,,,
+50,"Loot accumulates automatically, tap here to claim your loot!",buttoncrop_21,0|2,,
+51,Let's start another battle!,buttoncrop_17,0|0,,
+52,Tap a Girl's avatar to add them to your lineup.,buttoncrop_3,0|0,,
+53,You can [c][d76500]drag[-][/c] a Girl's avatar to change positions with another Girl.,buttoncrop_22,0|-62,,
+54,,buttoncrop_5,0|0,,
+55,,,,,
+56,"Senpai, we've collected more loot!\nTap here to collect it.",buttoncrop_21,0|2,,
+57,Great work!\nYou're ready for the next stage!,buttoncrop_20,-16|0,,
+58,,,,,
+59,"You're doing well, Senpai, but don't forget to collect your auto-loot. After [c][d76500]10 hours[-][/c], Auto-Battle will stop collecting auto-loot.",,,,
+60,"Something has happened on the [c][d76500]FrontPage[-][/c].\nLet's go take a look, Senpai~!",buttoncrop_1,0|0,,
+61,Tap on [c][d76500]Newbie Benefits[-][/c] to claim [c][d76500]online rewards[-][/c] now~,buttoncrop_15,0|0,buttoncrop_14_h5,0|0
+62,Tap here to collect your [c][d76500]online rewards[-][/c]!,buttoncrop_35,0|0,,
+63,,buttoncrop_1,0|0,,
+64,Tap [c][d76500]Events[-][/c] to collect [c][d76500]Sign-in[-][/c] Rewards.,buttoncrop_15,0|0,buttoncrop_15_h5,4|2
+65,,buttoncrop_36,1|1,,
+66,The [c][d76500]FrontPage[-][/c] has some items to collect as well~!,buttoncrop_1,0|0,,
+67,Come and check out [c][d76500]what is on sale[-][/c] at the [c][d76500]Market[-][/c]~,buttoncrop_8,-1|-1,buttoncrop_8_h5,-1|-1
+68,Let's go and check out the [c][d76500]Shopping Street[-][/c]~,buttoncrop_16,0|1,,
+69,There is a great selection of things to buy at the [c][d76500]Market[-][/c].,buttoncrop_30,-14|-1,,
+70,Wow! Looks like there are some [c][d76500]Advanced Capsule Coins[-][/c] for sale! Go ahead and buy some now!,buttoncrop_24,0|60,,
+71,,,,,
+72,,,,,
+73,Now let's try to use your [c][d76500]Advanced Capsule Coin[-][/c].,buttoncrop_1,0|0,,
+74,An [c][d76500]Advanced Capsule Coin[-][/c] is used to draw from the Advanced Capsule. Try it out~!,buttoncrop_6,0|1,,
+75,,,,,
+76,"Oh no! Quick, Senpai, we're running late~!",buttoncrop_1,0|0,,
+77,Let's get to the Opening Ceremony. Michael will be mad if we're late!,buttoncrop_2,0|0,buttoncrop_2_h5,0|-4
+78,,buttoncrop_17,0|0,,
+79,,buttoncrop_3,0|0,,
+80,,,,,
+81,,buttoncrop_8,-1|-1,buttoncrop_8_h5,-1|-1
+82,,,,,
+83,,,,,
+84,,buttoncrop_26,0|0,buttoncrop_26_h5,0|0
+85,,,,,
+86,,buttoncrop_27,0|0,buttoncrop_27_h5,0|0
+87,,,,,
+88,,,,,
+89,Over here~! Tap the [c][d76500]Guild[-][/c] icon to join or create a Guild~!,,,,
+90,,,,,
+91,,buttoncrop_27,0|0,buttoncrop_27_h5,0|0
+92,,,,,
+93,,,,,
+94,,buttoncrop_8,-1|-1,buttoncrop_8_h5,-1|-1
+95,,,,,
+96,,,,,
+97,,buttoncrop_8,-1|-1,buttoncrop_8_h5,-1|-1
+98,,,,,
+99,,,,,
+100,,buttoncrop_26,0|0,buttoncrop_26_h5,0|0
+101,,,,,
+102,,buttoncrop_27,-1|-1,buttoncrop_27_h5,0|0
+103,,,,,
+104,,,,,
+105,,,,,
+106,,buttoncrop_27,-1|-1,buttoncrop_27_h5,0|0
+107,,,,,
+108,,,,,
+109,Over here~! Tap the [c][d76500]Guild[-][/c] icon to join or create a Guild~!,,,,
+110,"Wow, Senpai! Yuki senses a unique charm in you. You must be the ""Chosen One!""",buttoncrop_26,0|0,,
+111,"Lucky for you, the Guilds are recruiting right now. How about creating your own guild. As the ""Chosen One,"" you can create your own Guild for free!",,,,
+112,Hey Senpai. You've collected some [c][d76500]Girl Shards[-][/c]!\nTap your bag to piece them together.,buttoncrop_27,-1|-1,buttoncrop_27_h5,0|0
+113,"Here, you can [c][d76500]Summon[-][/c] Girls with shards!",buttoncrop_11,0|6,,
+114,,,,,
+115,,buttoncrop_27,0|0,buttoncrop_27_h5,0|0
+116,,,,,
+117,,old_school_guide_mask,0|0,,
+119,Senpai! It's time for [c][d76500]School Excursion[-][/c],buttoncrop_26,0|0,buttoncrop_26_h5,0|0
+120,Let's check out the Main Center!,travel_guide_1,18|32,travel_guide_1,18|32
+121,Tap the slot!,,,,
+122,Set girls to obtain corresponding attribute increase!,,,,
+123,Upgrade Main Center to unlock more slots!,,,,
+125,Let's check out the Food Truck~,travel_guide_2,-3|-8,travel_guide_2,-3|-8
+126,Set girls in production facilities to increase rewards!,travel_guide_3,0|0,travel_guide_3,0|0
+128,Upgrade Food Truck to unlock more slots!,,,,
+130,"Each facility produces different rewards, tap [c][d76500]Claim All[-][/c] now!",,,,
+131,Tap here and explore to get various rewards!,travel_guide_4,0|5,travel_guide_4,0|5

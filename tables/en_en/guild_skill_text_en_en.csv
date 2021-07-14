@@ -1,0 +1,81 @@
+id,name
+1101,HP
+1201,ATK
+1301,Crit
+1401,Block
+1501,Skill DMG
+1601,SPD
+1701,Physique
+1801,Valor
+2101,HP
+2201,ATK
+2301,Crit
+2401,Precision
+2501,Skill DMG
+2601,SPD
+2701,Physique
+2801,Valor
+3101,HP
+3201,ATK
+3301,Block
+3401,Precision
+3501,Skill DMG
+3601,SPD
+3701,Physique
+3801,Valor
+4101,HP
+4201,Crit DMG
+4301,Crit
+4401,Armor Break
+4501,Skill DMG
+4601,SPD
+4701,Physique
+4801,Valor
+5101,HP
+5201,Block
+5301,Crit
+5401,SPD
+5501,Skill DMG
+5601,SPD
+5701,Physique
+5801,Valor
+10101,DMG UP\nvs. Mage
+10201,DMG UP\nvs. Ranger
+10301,DMG UP\nvs. Assassin
+10401,DMG UP\nvs. Priest
+10501,Mage DMG\nResist
+10601,Ranger DMG\nResist
+10701,Assassin DMG\nResist
+10801,Priest DMG\nResist
+11101,DMG UP\nvs. Warrior
+11201,DMG UP\nvs. Ranger
+11301,DMG UP\nvs. Assassin
+11401,DMG UP\nvs. Priest
+11501,Warrior DMG\nResist
+11601,Ranger DMG\nResist
+11701,Assassin DMG\nResist
+11801,Priest DMG\nResist
+12101,DMG UP\nvs. Warrior
+12201,DMG UP\nvs. Mage
+12301,DMG UP\nvs. Assassin
+12401,DMG UP\nvs. Priest
+12501,Warrior DMG\nResist
+12601,Mage DMG\nResist
+12701,Assassin DMG\nResist
+12801,Priest DMG\nResist
+13101,DMG UP\nvs. Warrior
+13201,DMG UP\nvs. Mage
+13301,DMG UP\nvs. Ranger
+13401,DMG UP\nvs. Priest
+13501,Warrior DMG\nResist
+13601,Mage DMG\nResist
+13701,Ranger DMG\nResist
+13801,Priest DMG\nResist
+14101,DMG UP\nvs. Warrior
+14201,DMG UP\nvs. Mage
+14301,DMG UP\nvs. Ranger
+14401,DMG UP\nvs. Assassin
+14501,Warrior DMG\nResist
+14601,Mage DMG\nResist
+14701,Ranger DMG\nResist
+14801,Assassin DMG\nResist

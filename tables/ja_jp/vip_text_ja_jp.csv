@@ -1,0 +1,15 @@
+id,title,text
+1,vip_awards,指定のVIPレベルで、以下を獲得できる：
+2,vip_giftbox,指定のVIPレベルで、以下を購入できる：
+3,month_card_awards_show,月間パスの毎日追加ボーナス：
+4,gacha_box,プレミアムガチャの金卵エナジー機能がアンロック
+5,gamble,普通販売機の10連機能がアンロック
+7,partners_limit,戦姫の所持上限：＋
+8,extra_midas,換金所で獲得できるゴールド：＋
+10,extra_output,オートのゴールド、Exp、EXPドリンク収益：＋
+11,pub_mission_num,バイトミッションの最大回数：
+12,battle_speed,戦闘の4倍速機能がアンロック
+13,quiz_buy_times,テストクエストの購入回数：＋
+9,midas_buy_times,換金所でダイヤ購入の毎日上限：
+14,travel_buy_time_limit,おいしいパン購入上限：
+6,gamble_up,高級販売機の10連機能がアンロック

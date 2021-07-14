@@ -1,12 +1,15 @@
 import re
 import json
 import csv
+from datetime import datetime
 from pathlib import Path
 
 import luadata
 
 MAIN_DIR = Path("../src_Jul_09/data/tables/")
 LUA_FILES = list(MAIN_DIR.glob('**/*.lua'))
+IGNORE = ["de_de", "ko_kr", "fr_fr"]
+NOW = datetime.now()
 
 DIST = Path("./tables/")
 DIST.mkdir(parents=True, exist_ok=True)
@@ -38,6 +41,18 @@ def save2json(_file_path, _dict):
 
 
 def lua_convert(_file_path, _out=".csv"):
+    _str_file_path = str(_file_path).lower()
+    for _i in IGNORE:
+        if _i in _str_file_path:
+            print(f"Ignore: {_file_path}")
+            return
+
+    if "activity" in _str_file_path:
+        _mtime = datetime.fromtimestamp(_file_path.stat().st_mtime)
+        if (NOW - _mtime).days > 13:
+            print(f"Ignore: {_file_path}")
+            return
+
     _out = _out.lower()
     assert _out in [".csv", ".json"]
 
@@ -54,11 +69,12 @@ def lua_convert(_file_path, _out=".csv"):
         _dist.rmdir()
 
     with open(_file_path, 'r') as _file:
-        _data = _file.read().replace('return table', '')
+        _data = _file.read()
         if " = import(" in _data:
             print(f"Ignore: {_file_path}")
             return
 
+        _data = _data.replace('return table', '')
         _to_sub = re.findall(r'(?s)\[\[(.*?)\]\]', _data)
         for _s in _to_sub:
             _new_s = _s.replace("'", r"\'").replace('"', r'\"')
