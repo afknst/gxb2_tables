@@ -1,4 +1,3 @@
-import os
 import re
 import json
 import csv
@@ -10,12 +9,10 @@ MAIN_DIR = Path("../src_Jul_09/data/tables/")
 LUA_FILES = list(MAIN_DIR.glob('**/*.lua'))
 
 DIST = Path("./tables/")
-if not DIST.exists():
-    os.mkdir(DIST)
+DIST.mkdir(parents=True, exist_ok=True)
 
 
 def save2csv(_file_path, _dict):
-    _nk = len(_dict["keys"])
     _rk = {_i: _k for _k, _i in _dict["keys"].items()}
     _nk_real = max(_rk.keys())
     assert _nk_real == len(next(iter(_dict["rows"].items()))[1])
@@ -25,7 +22,7 @@ def save2csv(_file_path, _dict):
             print(f"KeyError: {_file_path}")
             print(f"Add column {_i}: {_rk[_i]}")
 
-    _keys = [_rk[_i + 1] for _i in range(_nk)]
+    _keys = [_rk[_i + 1] for _i in range(_nk_real)]
     with open(_file_path, 'w') as _file:
         _writer = csv.writer(_file)
         _writer.writerow(_keys)
