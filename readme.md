@@ -1,6 +1,6 @@
 # gxb2_tables
 
-Current version: `Jul_09`.
+Current version: `Jul_15_2021`.
 
 # References
 
