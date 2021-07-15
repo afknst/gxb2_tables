@@ -1,6 +1,8 @@
-id,name,image,resource,pos,slot,cost
-1000101,,,,1,,
-1000102,,,,1,,1#1
-1000201,,,,2,,1#1
-1000202,,,,2,,1#1
-1000301,,,,3,,
+id,name,dress_id,image,resource,pos,slot,cost,offset,scale,rotation
+1000101,-1,101001,dress_1000101,senpai_dress01_head_02,1,,,,,
+1000102,-1,101001,dress_1000102,senpai_dress01_head_01,1,,,,,
+1000201,-1,101002,dress_1000201,senpai_dress01_body_02,2,,,,,
+1000202,-1,101002,dress_1000202,senpai_dress01_body_01,2,,,,,
+1000301,-1,101003,dress_1000301,senpai_dress01_foot_02,3,,,,,
+1000302,-1,101003,dress_1000302,senpai_dress01_foot_01,3,,,,,
+1000401,-1,101004,dress_1000401,yanjing01,4,face_slot01,,68|22,1|1,279

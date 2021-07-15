@@ -4409,6 +4409,12 @@ id,type,buff,num,round,prob
 1032004,1032,revive,0.6,1,1
 1032005,1032,revive,0.9,1,1
 1032006,1032,revive,1,1,1
+1032007,1032,revive,0.25,1,1
+1032008,1032,revive,0.3,1,1
+1032009,1032,revive,0.35,1,1
+1032010,1032,revive,0.4,1,1
+1032011,1032,revive,0.5,1,1
+1032012,1032,revive,0.6,1,1
 1033001,1033,siphonAtk,0.14,99,1
 1033002,1033,siphonAtk,0.18,99,1
 1033003,1033,siphonAtk,0.2,99,1
@@ -5225,6 +5231,11 @@ id,type,buff,num,round,prob
 1067002,1067,zsIce,0,2,0.11
 1067003,1067,zsIce,0,2,0.14
 1067004,1067,zsIce,0,2,0.19
+1067005,1067,zsIce,0,2,0.167
+1067006,1067,zsIce,0,2,0.193
+1067007,1067,zsIce,0,2,0.16
+1067008,1067,zsIce,0,2,0.2
+1067009,1067,zsIce,0,2,0.215
 1068001,1068,zsStun,0,2,0.4
 1068002,1068,zsStun,0,2,0.6
 1069001,1069,zsForbid,0,2,0.75
@@ -8800,9 +8811,9 @@ id,type,buff,num,round,prob
 1388001,1388,allTargetChange,0,1,0.5
 1388002,1388,allTargetChange,0,1,0.7
 1388003,1388,allTargetChange,0,1,1
-1388004,1388,allTargetChange,0,2,0.5
-1388005,1388,allTargetChange,0,2,0.7
-1388006,1388,allTargetChange,0,2,1
+1388004,1388,allTargetChange,0,1,0.5
+1388005,1388,allTargetChange,0,1,0.7
+1388006,1388,allTargetChange,0,1,1
 1389001,1389,sunArrowShoot,1,0,1
 1389002,1389,sunArrowShoot,2,0,1
 1389003,1389,sunArrowShoot,3,0,1

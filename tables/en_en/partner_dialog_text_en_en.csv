@@ -4849,7 +4849,7 @@ id,text
 560061502,-1
 560061503,-1
 560061504,-1
-560061601,<0>[c][d2a300]Nephilim: [-][/c]Chosen by Darkness and blessed by Light. You are quite lucky to have both.
+560061601,[c][d2a300]Nephilim: [-][/c]Chosen by Darkness and blessed by Light. You are quite lucky to have both.
 560061701,[c][d2a300]Nephilim: [-][/c]Do you need my help?
 560061801,"[c][d2a300]Nephilim: [-][/c]A room for me? Although I wouldn't always exist, thanks anyway~"
 560061901,[c][d2a300]Nephilim: [-][/c]You didn't have enough sleep… It must be a hard time… You should rely more on us… Maybe the responsibility is inside your nature~
@@ -5256,7 +5256,7 @@ Ok, if that\'s the case... Of course! But! Don\'t think that you can leave all t
 520160301,Time to kick some ass! What do you mean a nun needs to watch her language at all times? I'm pretty sure God isn't watching right now!
 520160401,"I'm Teresa, from the Church of Violence. It's just not my style to talk face to face, so let's ""talk"" fist to fist!"
 520160601,Sinners will be condemned.
-520160701,"Althought I love spicy fish and liquor more, but this drink isn't so bad either!"
+520160701,"Although I love spicy fish and liquor more, this drink isn't bad either!"
 520160801,That must be what they call the happiness of growth! I can even feel the presence of God!
 520160901,That's not something you can learn from a church~
 520161001,"I can feel the overwhelming power flowing through my vains, that feels awesome!"
@@ -5275,8 +5275,90 @@ Ok, if that\'s the case... Of course! But! Don\'t think that you can leave all t
 520162001,"Intern? That sounds so troublesome... But since you've pled so sincerely, I will help you."
 520162101,I was expecting more for all that work...
 520162201,New challenges? I will do my best.
-520162301,"Perfect, you've just showed up while I was looking for my next live dummy!"
+520162301,
 520162401,Okay.
 520162501,This is nice. You know me quite well! Do you want some of my spicy fish in return?
 520162601,"Senpai, I've waited for you for soooo long! Hmmmm... Maybe not that long."
 520162801,"Warm up is over, now it's time to get real!"
+560050206,"Please, don't be afraid to take pills from a person who is sure to become a famous doctor--- besides, I've followed every step in the book to make this, so nothing can go wrong."
+560050207,What’s this mess about? Of course it’s… I’m creating a new medicine~ But I think it has failed. I better clear this up. Shhh… you didn’t see this!
+560050208,Why do they say my expression looks scary at times? Maybe I should smile more?
+560050209,"Take this injection if you feel down? Don’t worry, I’ve practiced for a long time, I won’t inject it in the wrong place."
+560050210,"Please drink this cup of tea when you feel tired ♪. Don't worry, I didn't add anything harmful♪."
+560050602,"Those who speak ill of me won't end well. Don't look at me like that, or I will show you what I'm going to do to these people--- In a gentle way of course."
+520120206,"Here goes nothing... Oh, Senpai! I didn't break these plates, the culprit went that way!"
+520120207,"One day, I will become a perfect maid and everyone will admire me!"
+520120208,The key to perfect cleaning is... is... Let me review the instruction book one more time.
+520120209,"Hello, my name is Ithil, and my dream is to become the most reliable maid at Yume Academy!"
+520120210,"Where is my schedule... Oh no, I've lost my schedule!!!QAQ"
+520120602,"For a perfect maid, it's also necessary to maintain gracefulness in battles! I shall keep that in mind!"
+510120206,(Sniff…) I didn't lose the battle! Stop showing sympathy!
+510120207,"I'm Fenrir, the conqueror of Yume Academy... in the near future."
+510120208,Ouch! Could you be more gentle when you're applying medicine to my wound? Now it burns like hell!
+510120209,"I, Fenrir, is the queen of all kids here. If you call me boss, I'll protect you as well."
+510120210,"I'm not the one who got beaten, you're the one who got beaten!"
+510120602,"Take my Ultimate Hit!!!--- What? That didn't hurt at all?! Yep, it usually needs some time to take effect."
+550100201,*Humming* What song is this? Why do you ask? Are you charmed by my beautiful voice too?
+550100202,Why are you looking at me like that? Is there anything on my face?
+550100203,"What do you think you're doing? We're just temporary partners, not friends, no need to get all touchy-feely."
+550100204,Do you want to hear about my great plan? Have you finally acknowledged my pranking talents?
+550100205,I'm Lucifer's trusted sidekick! Not just one of the mob in the background!
+550100301,This would be a nice workout for me~
+550100401,"Good day! I am Frexie, the cleverest person you will ever meet…What? You never heard about me? But I'm a follower of the famous Lucifer!"
+550100601,Don't you think I'm awesome?
+550100701,I am definitely better than Dracula now!
+550100801,"Oooh, I didn't know that! I should try this trick on Estel and Apate!"
+550100901,"People say that it's never too old to learn…but I'm too smart for studying, right?"
+550101001,I can feel my strength growing…!
+550101101,What's this? Is this edible?
+550101102,"Hmm, so this is something to make me stronger…too bad it's not edible."
+550102801,I always give my all when it comes to fights.
+550101301,Hurray! I won! Did you see that?
+550101401,"*Sniffs* Stop trying to comfort me, I didn't lose back there! This is merely a strategic retreat!"
+550101501,-1
+550101502,-1
+550101503,-1
+550101504,-1
+550101601,"Senpai, you must be so grateful that you're falling to your knees and sobbing uncontrollably right now for sharing an Oath with me. But don't worry, I'm feeling more or less the same as you do, so that makes the two of us!"
+550101701,"Senpai, you're just in time for my new plan! It involves various different experiences in life…hey, why are you escaping?"
+550101801,"Well, it's an average room. You should be glad that I don't have impossible standards for my living quarters."
+550101901,"What a peaceful day, and my mind is at peace as well. It's the perfect time for thinking up a new prank!"
+550102001,"Internships? Are they even more interesting than pulling pranks? Wait, there are internships for pranking others? I would love to try that!"
+550102101,"Wooh, the paycheck is a lot bigger than I expected. I guess there are some merits to the boring internships after all."
+550102201,"Unlike pranks, enemies should be taken seriously."
+550102301,"Ugh, what is this thing…I think Estel would like this. Why don't you gift this to her instead?"
+550102401,Thanks.
+550102501,"Wow, Senpai, you know me so well! I love this!!"
+550102601,"Here, Senpai, this is for you…Oops, it exploded way too early. Are you taken by surprise?"
+560080201,Hands off. No one said you could touch me.
+560080202,What is it?
+560080203,"Stop disturbing me, I'm busy. What am I doing? I'm concentrating on staying concentrated! No, I'm not joking."
+560080204,"The heat of the sun evaporates everything, and staring into the sun burns away your eyesight. But the gentle light of the moon does nothing of these…I like the moon better…"
+560080205,I miss the gentle glow of the moon…
+560080301,I shall shoot down the sun!
+560080401,"My name is Angelica. Would you mind telling me which class is Luna in, or bring me to her?"
+560080601,My arrows shall bring me honor!
+560080701,Your efforts will never betray you.
+560080801,I have a better grasp of my archery skills now.
+560080901,"Knowledge is important for warriors too, not just for scholars. Senpai, why don't you join me in this training of the mind?"
+560081001,"I understand now. I shall follow my heart's lead, so shall the arrows I let fly."
+560081101,"Hmm, this isn't restricting at all. Not bad."
+560081102,Hmm? Pulling the bowstring seems easier with this on. Not to mention this seems to contain more arrows…Thank you.
+560082801,I swear to my bow that I will bring you victory.
+560081301,Faith can move mountains.
+560081401,This is caused by my oversight. This shall not happen again.
+560081501,-1
+560081502,-1
+560081503,-1
+560081504,-1
+560081601,"I was betrayed once, and believed that I will not be able to trust again. Thank you for showing me otherwise."
+560081701,"Oh, it's you. If possible, do remember to bring Luna with you next time."
+560081801,"Hmm, this is a spacious room. Let's see…there should be a target here for archery practice…"
+560081901,I wonder…what is Luna up to right now?
+560082001,Helping others is not a bad thing. Even something small could brighten up someone's day.
+560082101,I don't need any of these. What I really want…is to meet Luna again.
+560082201,A new challenge? I am always prepared for it.
+560082301,"I appreciate your sincerity, but please refrain from giving this again."
+560082401,"Thank you, though I have no idea why did you give this to me."
+560082501,"…Oh my, I didn't see this coming. In this case, I should pay you back by helping you with archery training next time."
+560082601,"Good day, Senpai. Have you finished your training regimen today? "

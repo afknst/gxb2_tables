@@ -6,7 +6,7 @@ from pathlib import Path
 
 import luadata
 
-MAIN_DIR = Path("../src_Jul_09/data/tables/")
+MAIN_DIR = Path("../src_Jul_15/data/tables/")
 LUA_FILES = list(MAIN_DIR.glob('**/*.lua'))
 IGNORE = ["de_de", "ko_kr", "fr_fr"]
 NOW = datetime.now()

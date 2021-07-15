@@ -40,7 +40,7 @@ first_charge_awards,930146#50|1#200000|1042#1|3042#1,-1
 talk_level,4,-1
 talk_cd,10,-1
 qa_content_length,500,-1
-tower_top,900,-1
+tower_top,1000,-1
 dungeon_top,600,-1
 activity_gacha_partner_awards,53012#20002,-1
 activity_gacha_partners,55010|56008,-1
@@ -454,7 +454,7 @@ act_summon_energy_cost,2000,-1
 act_summon_energy_limit,200|500,-1
 act_summon_energy_num,10|10,-1
 is_unity_initial_background_girl,27030,-1
-activity_45_hero_model,anyue_pifu01_lihui01|480|-1230|0.7|5101502|7179,-1
+activity_45_hero_model,teleisha_pifu01_lihui01|470|-1670|0.7|5201602|7186,-1
 act_summon_energy_item,136,-1
 activity_chose_gift_free,10115|10121,-1
 activity_date_buydice_limit,3,-1
@@ -770,9 +770,9 @@ activity_return2_time2,1814400,-1
 activity_return2_time3,1209600,-1
 activity_return2_time4,1814400,-1
 activity_return2_time5,1209600,-1
-activity_return2_limit,60|30,-1
-activity_return2_limit_add,10|30,-1
-activity_popularity_vote_grouping,1|11|6|16|2|12|5|11|3|9|8|14|4|10|7|13,-1
+activity_return2_limit,60|1,-1
+activity_return2_limit_add,1|30,-1
+activity_popularity_vote_grouping,1|11|6|16|2|12|5|15|3|9|8|14|4|10|7|13,-1
 activity_popularity_vote_stagetime,2|4|6|8|10|12|14|16|19|21,-1
 activity_warmup_arena_guess_cost,1#500000|1#1000000|1#3000000,-1
 activity_warmup_arena_guess_award,1#1000000|1#2000000|1#6000000,-1
@@ -788,3 +788,7 @@ annual3_review_friends,15,-1
 annual3_review_partners_lack,0.2,-1
 annual3_review_partners_plenty,0.9,-1
 activity_3birthday_dinner_batch,10,-1
+max_dress_style,5,-1
+max_guild_limit,1000000,-1
+min_guild_limit,0,-1
+change_guild_limit,1000,-1

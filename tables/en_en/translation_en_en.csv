@@ -480,7 +480,7 @@ VIP_TEXT04,Benefit
 VIP_TEXT05,plus
 VIP_TEXT06,Total
 MONTH_CARD,Monthly|Pass
-MINI_MONTH_CARD,Mini Monthly Pass
+MINI_MONTH_CARD,Mini Pass
 RETAIN,Remaining:
 ARENA_BATTLE_TIPS,Move Defense Girls to the Front
 HEAD_POS,Front
@@ -498,7 +498,7 @@ MINI_MONTH_CARD_TEXT03,2900 Gems in Total
 MINI_MONTH_CARD_TEXT04,Original Price: $4.99
 PERSON_CREATE_NAME,Choose a Name
 MONTH_CARD_HELP1,"After purchasing the Monthly Pass, you will immediately receive 900 gems and 750 VIP points.|In addition, you will receive 370 Gems in Mail every day after purchasing, which will last for 30 days.|A combined total of 12000 Gems! This is by far the best deal in the game!|You will get a special discount for your first purchase on Monthly Pass!"
-MONTH_CARD_HELP2,"After purchasing the Mini Monthly Pass, you will receive 350 Gems and 250 VIP Exp immediately.|In addition, you will receive 85 Gems in Mail each day for the next 30 days.|The Mini Monthly Pass doesn't include daily VIP bonus, which is only awarded with the regular Monthly Pass.|You will get a special discount for your first purchase on Mini Pass!"
+MONTH_CARD_HELP2,"After purchasing the Pass, you will receive 350 Gems and 250 VIP Exp immediately.|In addition, you will receive 85 Gems in Mail each day for the next 30 days.|The Mini Pass doesn't include daily VIP bonus, which is only awarded with the regular Monthly Pass.|You will get a special discount for your first purchase on Mini Pass!"
 RESET,Reset
 BUY_GIFTBAG_LIMIT,Limit：{1}
 GOTO,Go to
@@ -596,7 +596,7 @@ FACEBOOK_REGISTER,Link to Facebook
 GOOGLE_REGISTER,Link to Google
 BATTLE_ERROR,Cannot fight
 EXIT_GAME_TIPS,Do you really wish to quit?
-PROPHET_SUMMON_GIFTBAG_TEXT01,Each Seal used will give 1 point. Event rewards will be sent via Mail after you've acquired enough points. You can receive rewards 4 times during the event!
+PROPHET_SUMMON_GIFTBAG_TEXT01,Each Seal used will give 1 point. Event rewards will be sent via Mail after you've acquired enough points. You can receive rewards twice during the event!
 PARTNER_GRADEUP,Girls Upgrade
 FRIEND_NAME_1,List
 FRIEND_NAME_2,Search
@@ -2445,8 +2445,8 @@ ACTIVITY_WORLD_BOSS_LEVEL_TIPS,Level {1}
 SUMMON_CONFIRM,"{1} Draws will cost you {2} Gems, are you sure to continue?"
 TURING_TASK_LIMIT,Limit
 TURING_TASK_TEXT01,Complete the tasks during the event to get Fine Liquor. The rewards will be sent directly to Bag.
-WELFARE_TEXT01,Unlock the chance to purchase the limited pack with gems by drawing certain times from Slot Machine!
-WELFARE_TEXT02,Draw {1} times from Slot Machine to unlock
+WELFARE_TEXT01,Unlock the chance to purchase the limited pack with gems by enrolling certain times in Enroll!
+WELFARE_TEXT02,Unlock after Enroll {1} times during the event
 BEGINNER_QUEST_LOCKED,Locked
 BEGINNER_QUEST_TITLE,Newbie\nBenefits
 BEGINNER_QUEST_MISSION,Complete all missions
@@ -3016,11 +3016,11 @@ ATTACK_POWER,Attack: +{1}%%
 DEFENSE,Hp: {1}%%
 ACTIVITY_DRAGON_BOAT_PRICE,Free Pack
 DRAGON_BOAT_SELECT,Select
-ACTIVITY_DRAGON_BOAT_AWARD_SELECT_WINDOW,Private Custom
+ACTIVITY_DRAGON_BOAT_AWARD_SELECT_WINDOW,Private Customization Pack
 ACTIVITY_DRAGON_BOAT_AWARD_SELECT_WINDOW_SECOND_TITLE,Select
 NEXT,Next
 GO_TO_SELECT,Please select the item you want the pack to provide.
-ACTIVITY_DRAGON_BOAT_DESC,Customize your own Gift Packs!
+ACTIVITY_DRAGON_BOAT_DESC,Customization Pack for 3rd Anniversary is available\nCome and customize your own gift pack!
 ACTIVITY_ENERGY_SUMMON_DESC_0,"
 You will get the following benefits for purchasing SP. Energy Card:
 1. You will be able to perform more SP. Capsule draws.
@@ -3036,7 +3036,7 @@ ACTIVITY_ENERGY_SUMMON_HAS_SUMMON,Summoned:
 ACTIVITY_ENERGY_SUMMON_DESC,A random girl in this list for each 2000 Exclusive Energy consumed:
 ENERGY_NOT_ENOUGH,Need more Exclusive Energy
 ACTIVITY_DRAGON_BOAT_PRICE_2,{1}{2}
-ACTIVITY_DRAGON_BOAT_HELP,"1. You can choose the resource you want the pack provide by tapping ""Select"" button.|2. If you have changed your mind about the resource you set for the pack, you can adjust your selection by tapping the buttons at the top right corner of the items' icons.|3. After confirming the items for the pack is your really want, you will be able to purchase the pack."
+ACTIVITY_DRAGON_BOAT_HELP,"1. You can choose the resource you want the pack provide by tapping ""Select"" button.|2. If you have changed your mind about the resource you set for the pack, you can adjust your selection by tapping the buttons at the top right corner of the items' icons.|3. After confirming the items for the pack is your really want, you will be able to purchase the pack.| Each pack on this page can only be purchased once."
 DATECHOOSEWINDOW_HELP,"1. The event will last for 14 days. You can acquire Love Roses from this event and exchange rewards in the event store with them.|2. you will be able to move forward on the event map with Heart Crystal and Heart Crystal X.||Heart Crystal: you can randomly take 1-3 steps forward for each crystal used. You are able to get 15 Heart Crystals via Mail at 0:00 (GMT0), you can also acquire this item from other methods (You can check these other methods by checking the detail of the item).|Heart Crystal X: you can choose to take 1-3 steps forward for each crystal used. You are able to get5 Heart Crystal Xs via Mail at 0:00 (GMT0), you can also acquire this item from other methods (You can check these other methods by checking the detail of the item).|3. At the beginning of the event, you only have the access to Yume Academy. But after raising the Intimacy Pt. of the 3 girls in the event, you will be able to unlock their exclusive scenarios.|4. After the Intimacy Pt of a girl is raised to a certain amount, the Boss Challenge will be unlocked, you will be awarded by completing the corresponding challenges.||Event types|1. Battles: You will need to complete a battle after stepping into a Battle block. You will be able to get Intimacy Pt. for the corresponding girl(based on the scenario you're in or the choices you make), Buff and Love Rose if you win the battle; But if you lose, you will only get Intimacy Pt. for the corresponding girl.|2. You will unlock corresponding stories and need to make choices in the story after stepping into a ""Date"" block, and you will not be able to move again until you've made your choices. Some of the choices will cost you Date Funds to enable to make you acquire more rewards(Intimacy Pts for the corresponding girl, Love Roses and Buffs), but this doesn't mean the choices that cost more Date Funds are always the best choice (best choice means the choice will provide the most rewards). And if you make the best decision, the story you're in will be unlocked in Memories.|3. Encounters: You will also unlock some stories and make choices when stepping into an ""Encounter"" block, and you will not be able to move again until you've made your choices. But these blocks provide Date Fund instead. And the amount of Date Fund provided is based on the choices you make."
 ACTIVITY_DATE_BUYDICE,Purchase with Gems
 ACTIVITY_DATE_DICEBAG,Date Preparation Pack
@@ -4495,7 +4495,7 @@ ACTIVITY_3BIRTHDAY_TEXT03,"Once the number of Fine liquors you’ve given out ha
 ACTIVITY_3BIRTHDAY_TEXT04,"You will get Rose pin every time you give away Fine Liquor, has 15%% chance to Crit and get 150%% rewards."
 ACTIVITY_3BIRTHDAY_TEXT05,Get random one of the rewards every time you give away Fine Liquor
 ACTIVITY_3BIRTHDAY_TEXT06,Give out {1} Times
-ACTIVITY_3BIRTHDAY_HELP,"1. During the event, you can get rewards by giving away Fine Liquors.|2. You will get 6 Rose Pins every time you give away 10 Fine Liquors, there's a chance for you to trigger Crit and get 150%% reward. Girls will react differently when you give Fine Liquors to them. Kratos provides a doubled Crit chance and Teresa increases the Crit reward to 200%%.|3. Once you’ve given out Fine Liquor and have reached a certain amount, additional rewards can be obtained.|4. Rose Pins you acquired by giving away Fine Liquors can be used in event: Hidden Cellar."
+ACTIVITY_3BIRTHDAY_HELP,"1. During the event, you can get rewards by giving away Fine Liquors.|2. You will get 6 Rose Pins every time you give away 10 Fine Liquors, there's a chance for you to trigger Crit and get 150%% reward. Girls will react differently when you give Fine Liquors to them. Kratos provides a doubled Crit chance and Teresa increases the Crit reward to 200%%.|3. Once you’ve given out Fine Liquor and have reached a certain amount, additional rewards can be obtained.|4. Rose Pins you acquired by giving away Fine Liquors can be used in event: Hidden Cellar.|5. Once the event ends, the remaining Fine Liquors and Rose Pins will automatically be recycled into Coins at a rate of 50k per Fine Liquor and 100k per Rose Pin."
 ACTIVITY_3BIRTHDAY_GAMBLE_HELP,"1. During the event, you can use Rose Pins to draw rewards from Cabinets.|2. Luxury Cabinet will cost you more Rose Pins than Normal Cabinets but can provide better rewards. You can tap on the maginfying glass button to check out the reward details."
 ACTIVITY_POPULARITY_VOTE_HELPTEXT01,"1. During the event, you vote for your favorite Girl with vote tickets that can be obtained by completing Daily Tasks.|2. There are 2 types of vote tickets, Popular Vote Tickets can only be used on the day you get them. Support Vote Tickets have a longer expiration date and can be used anytime during the event.|3. This event has Group Matches, Knockout Stage and Results Phase. The Top 4 Girls in each group can get to the Knockout Stage. After the final winner is concluded, the event will enter a Results Phase and display the final champion. You will not be able to vote for Girls or get more vote tickets during this period.|4. You can out the detailed schedule in Schedule.|5. You can get additional rewards by voting for the Girls.|6. An exclusive NEW SKIN will be designed for the champion Girl of this event.|7. All vote tickets will be removed after the event is over."
 ACTIVITY_POPULARITY_VOTE_HELPTEXT02,"The TOP100 players who vote the most during ""Miss Yume Pageant"" are displayed on the supporter ranking list."
@@ -4504,8 +4504,8 @@ ACTIVITY_POPULARITY_VOTE_TIMETEXT01,Group Match (Group A)
 ACTIVITY_POPULARITY_VOTE_TIMETEXT02,Group Match (Group B)
 ACTIVITY_POPULARITY_VOTE_TIMETEXT03,Group Match (Group C)
 ACTIVITY_POPULARITY_VOTE_TIMETEXT04,Group Match (Group D)
-ACTIVITY_POPULARITY_VOTE_TIMETEXT05,Round of 16\n(Part 1)
-ACTIVITY_POPULARITY_VOTE_TIMETEXT06,Round of 16\n(Part 2)
+ACTIVITY_POPULARITY_VOTE_TIMETEXT05,Round of 16 (part 1)
+ACTIVITY_POPULARITY_VOTE_TIMETEXT06,Round of 16 (part 2)
 ACTIVITY_POPULARITY_VOTE_TIMETEXT07,Quarter Finals
 ACTIVITY_POPULARITY_VOTE_TIMETEXT08,Semi Finals
 ACTIVITY_POPULARITY_VOTE_TIMETEXT09,Finals
@@ -4523,7 +4523,7 @@ STAGES,Stage
 ACTIVITY_POPULARITY_VOTE_TITLETEXT9,Daily Task Refresh
 ACTIVITY_POPULARITY_VOTE_TITLETEXT10,The reward will be sent via Mail
 ANNUAL3_REVIEW_MAIL_TITLE,3rd Anniversary - Exclusive for you
-ANNUAL3_REVIEW_SKIP,Tap the screen to move on to the next page
+ANNUAL3_REVIEW_SKIP,Tap on the screen to the next stage
 ANNUAL3_REVIEW_1_1,Your own game story
 ANNUAL3_REVIEW_1_2,And
 ANNUAL3_REVIEW_1_3,3rd Anniversary
@@ -4540,7 +4540,7 @@ ANNUAL3_REVIEW_3_6,"You haven't joined a Guild yet.\nBut someday, you will find 
 ANNUAL3_REVIEW_4_1,As the only Senpai in Yume Academy.\nYou've unlocked [c][size=30][fa9563]{1}[-][/c] 5-star Girl(s) in Gallery\nYou collection progress has reached [c][size=30][fa9563]{2}[-][/c].
 ANNUAL3_REVIEW_4_2,Many Girls in Yume Academy are still looking for a chance to meet you.
 ANNUAL3_REVIEW_4_3,Tales of your stories are told all over the campus.
-ANNUAL3_REVIEW_4_4,"You've also unlocked [c][size=30][fa9563]{1}[-][/c] 10-star Girl(s) in Gallery, the collection progress has reached [c][size=30][fa9563]{2}[-][/c]."
+ANNUAL3_REVIEW_4_4,"You've also unlocked [c][size=30][fa9563]{1}[-][/c] 10-star Girl(s) in Gallery,\nthe collection progress has reached [c][size=30][fa9563]{2}[-][/c]."
 ANNUAL3_REVIEW_4_5,"In the church of Yume Academy,\nyou've formed an oath with [c][size=30][fa9563]{1}[-][/c] Girl(s)."
 ANNUAL3_REVIEW_4_6,"Please also remember,\nthere're still [c][size=30][fa9563]{1}[-][/c] Girls waiting for you to offer them your Oath Ring(s)..."
 ANNUAL3_REVIEW_4_7,"According to a survey,\nthere're [c][size=30][fa9563]{1}[-][/c] Girls waiting for you to offer them your Oath Ring(s)..."
@@ -4585,9 +4585,56 @@ ACTIVITY_POPULARITY_VOTE_TITLETEXT18,Group Match (Group A)
 ACTIVITY_POPULARITY_VOTE_TITLETEXT19,Group Match (Group B)
 ACTIVITY_POPULARITY_VOTE_TITLETEXT20,Group Match (Group C)
 ACTIVITY_POPULARITY_VOTE_TITLETEXT21,Group Match (Group D)
-ACTIVITY_POPULARITY_VOTE_TITLETEXT22,Round of 16 (Part 1)
-ACTIVITY_POPULARITY_VOTE_TITLETEXT23,Round of 16 (Part 2)
+ACTIVITY_POPULARITY_VOTE_TITLETEXT22,Round of 16 (part 1)
+ACTIVITY_POPULARITY_VOTE_TITLETEXT23,Round of 16 (part 2)
 ACTIVITY_POPULARITY_VOTE_TITLETEXT24,Quarter Finals
 ACTIVITY_POPULARITY_VOTE_TITLETEXT25,Semi Finals
 ACTIVITY_POPULARITY_VOTE_TITLETEXT26,Finals
 ACTIVITY_POPULARITY_VOTE_TITLETEXT27,Results Phase
+PERSON_INFO_LABEL_1,Personal Info
+PERSON_INFO_LABEL_2,Settings
+PERSON_INFO_LABEL_3,Adjust
+PERSON_DRESS_ATTR_1,Courage
+PERSON_DRESS_ATTR_2,Charisma
+PERSON_DRESS_ATTR_3,Knowledge
+PERSON_DRESS_MAIN_1,Locker Room
+PERSON_DRESS_MAIN_2,Closet
+PERSON_DRESS_MAIN_3,Showcase
+PERSON_DRESS_MAIN_4,Head
+PERSON_DRESS_MAIN_5,Body
+PERSON_DRESS_MAIN_6,Legs
+PERSON_DRESS_MAIN_7,Headwear
+PERSON_DRESS_MAIN_8,Accessories
+PERSON_DRESS_MAIN_9,Set
+PERSON_DRESS_MAIN_10,Attribute bonus
+PERSON_DRESS_MAIN_11,Special Bonus
+PERSON_DRESS_MAIN_12,Attribute Boost
+PERSON_DRESS_MAIN_13,No Special Boost yet
+PERSON_DRESS_MAIN_14,Attribute Description
+PERSON_DRESS_MAIN_HELP,"1. Courage, Charisma and Knowledge will only take effect in the battles mentioned: Junior Varsity, Varsity, Elite League, Ultimate League and Guild War.|2. During the battles mentioned above, the system will respectively compare your 3 attributes with those of the opponent. The player with the higher attribute will receive Attribute Bonus and the player with the lower attribute will receive Attribute Debuff."
+PERSON_DRESS_HELP,"1. You can check and adjust what you’re wearing and display it to other players on your profile.|2. You can get different Outfit pieces for Head, Body, Legs, Headwear, and Accessories. You MUST equip Outfit pieces for Head, Body and Legs.|3. Each piece of Outfit might have 1 or more Styles. Some of the Styles are unlocked once you acquire the piece of Outfit, but the rest of them need to be unlocked with Gems. You can switch between unlocked Styles freely.|4. By obtaining different Outfits pieces, you're able to get additional Courage, Charisma and Knowledge attributes (you do not have to equip corresponding outfits to get their attribute bonus, you will get the attribute bonus once you obtain the Outfit pieces). You can increase the attribute bonus of the Outfit pieces by upgrading them in Closet.|5. There are Special Boosts for some single Outfit pieces or sets of Outfits.|6. Currently only the default Outfit is available, methods to acquire other Outfits will be updated soon."
+PERSON_DRESS_MAIN_15,Gallery
+PERSON_DRESS_MAIN_16,No Outfit available
+PERSON_DRESS_MAIN_17,No Head Outfit available
+PERSON_DRESS_MAIN_18,No Body Outfit available
+PERSON_DRESS_MAIN_19,No Legs Outfit available
+PERSON_DRESS_MAIN_20,No Headwear Outfit available
+PERSON_DRESS_MAIN_21,No Accessories Outfit available
+PERSON_DRESS_MAIN_22,Set
+SHOP_SKIN_TEXT10,Girls owned
+SHOP_SKIN_TEXT11,Skins don't have
+SHOP_SKIN_TEXT12,Filter
+PERSON_DRESS_STYLE_CHOOSE,Confirm to adjust your Outfit?
+PERSON_DRESS_MAIN_23,Change Style
+PERSON_DRESS_MAIN_24,Style {1}
+LIFE,Life
+PERSON_DRESS,Outfit
+LIFE_DES1,Purchase Furnitures and decorate the Dorm for your Girls
+LIFE_DES2,Send Gifts and date with your Girls to increase their Intimacy
+LIFE_DES3,Adjust your Outfits in the Locker Room!
+PERSON_DRESS_TIPS_1,This Outfit is currently not available
+SETTING_UP_VOLUME,Sound
+PERSON_DRESS_MAIN_25,Replace
+PERSON_DRESS_MAIN_26,Take off
+PERSON_DRESS_MAIN_27,Equip
+LIFE_2,Life
