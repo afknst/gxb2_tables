@@ -143,3 +143,4 @@ id,name,lv_limit,function_id,stage,go_window,go_params,is_close,close_win_name,l
 144,-1,0,,,activity_window,"select:166,activity_type2:1",1,,,
 145,-1,0,,,activity_window,"select:226,large_series:1",1,,,
 146,-1,0,,,activity_window,"select:227,large_series:1",1,,,
+147,-1,17,13,,battle_pass_window,"tag:0,open_buy_window:1",1,,,
