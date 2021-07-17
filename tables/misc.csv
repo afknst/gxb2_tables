@@ -770,8 +770,8 @@ activity_return2_time2,1814400,-1
 activity_return2_time3,1209600,-1
 activity_return2_time4,1814400,-1
 activity_return2_time5,1209600,-1
-activity_return2_limit,60|1,-1
-activity_return2_limit_add,1|30,-1
+activity_return2_limit,60|30,-1
+activity_return2_limit_add,10|30,-1
 activity_popularity_vote_grouping,1|11|6|16|2|12|5|15|3|9|8|14|4|10|7|13,-1
 activity_popularity_vote_stagetime,2|4|6|8|10|12|14|16|19|21,-1
 activity_warmup_arena_guess_cost,1#500000|1#1000000|1#3000000,-1

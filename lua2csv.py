@@ -9,7 +9,7 @@ from pathlib import Path
 import luadata
 import pandas as pd
 
-VERSION = "Jul_16_2021"
+VERSION = "Jul_17_2021"
 MAIN_DIR = Path(f"../src_{VERSION}/data/tables/")
 IGNORE = ["de_de", "ko_kr", "fr_fr"]
 TO_COMBINE = ["dropbox", "item", "main_plot", "monster", "skill", "sound"]
