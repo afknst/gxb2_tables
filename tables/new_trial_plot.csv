@@ -1,0 +1,7 @@
+id,next_id,select_next_ids,select,plot,name,image_path,is_memory,res_path,scale,partner_picture_xy,type,show_type,disappear_type,show_time,disappear_time,position_move,swap_overlap,map_swap,image_mirror,cg_show,cg_path,cg_scale,cg_layer,cg_show_type,cg_start_xy,cg_show_time,cg_show_xy,cg_disappear_type,cg_disappear_xy,cg_disappear_time,sound,music,expression,face,face_pos,face_scale,bubble_mirror,bubble_xy,bubble_expression,no_click_time,effect,effect_scale,effect_xy,effect_layer,effect_count,jitter,image_xy,image_move,dialog_type,partner_avatar,picture,picture_xy,picture_scale
+1,2,,,-1,-1,trial_bg01,,partner_picture_51011,1,0|0,0,1,6,1,1,0|0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,3,,,,-1,trial_bg01,,partner_picture_51011,1,0|0,0,1,6,1,1,0|0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,4,,,,-1,trial_bg01,,partner_picture_51011,1,0|0,0,1,6,1,1,0|0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,-1,,,,-1,trial_bg01,,partner_picture_51011,1,0|0,0,1,6,1,1,0|0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+101,102,,,-1,-1,bg_volcano_erupt,,partner_picture_51011,1,0|0,0,1,6,1,1,0|0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+102,-1,,,,-1,bg_volcano_erupt,,partner_picture_51011,1,0|0,0,1,6,1,1,0|0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

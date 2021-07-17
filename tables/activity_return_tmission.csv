@@ -1,0 +1,10 @@
+id,mission_desc,complete_value1,complete_value2,award1,award2,go_window,rank
+1,-1,50,50,163#200,36#3,arena_window,1
+2,-1,10,10,163#250,36#3,arena_3v3_window,2
+3,-1,50,50,163#250,36#3,campaign_window,3
+4,-1,50,50,163#300,20#2,daily_quiz_window,4
+5,-1,50,50,163#400,20#2,trial_enter_window,5
+6,-1,10,10,163#400,940004#20,,6
+7,-1,10,10,163#600,940005#10,summon_window,7
+8,-1,5,5,163#800,940006#10,shenxue_window,8
+9,-1,8,8,163#800,956001#10,,9

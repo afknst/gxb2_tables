@@ -72,3 +72,4 @@ id,artifact_name,artifact_desc
 6664,Holy Grail,"Provides Hp and Speed, increases its owner's survivability while allowing her to move earlier in each round of a battle;\nIf its owner belongs to Human Faction, it will also provide Attack."
 6634,Crossbow,"Provides Attack and Crit;\nIf its owner belongs to Ghost Faction, it will also provide HP."
 6718,Eternal Dawn,"Provides HP and Damage Depletion, greatly increases owner's survival ability;\nProvides Attack, icreases owner's offensive ability."
+6730,Reaper's Voice,"Provides additional Energy, enables the owner to trigger her Active skill earlier;\nProvides additional Immunity, grants the owner ability to resist Control Skills."

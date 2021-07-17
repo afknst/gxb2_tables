@@ -1,0 +1,12 @@
+id,weather_name,weather_desc,weather_icon,skill,is_new
+1,-1,-1,weather_icon_4,,0
+2,-1,-1,weather_icon_5,200101,0
+3,-1,-1,weather_icon_7,200201,0
+4,-1,-1,weather_icon_2,200301,0
+5,-1,-1,weather_icon_6,200401,0
+6,-1,-1,weather_icon_1,200501,0
+7,-1,-1,weather_icon_3,200601,0
+8,-1,-1,weather_icon_8,200701|200702,1
+9,-1,-1,weather_icon_9,200801,1
+10,-1,-1,weather_icon_10,200901,1
+11,-1,-1,weather_icon_11,201001|201002,1

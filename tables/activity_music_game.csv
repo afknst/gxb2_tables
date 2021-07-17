@@ -1,0 +1,31 @@
+id,music,name,difficulty,next_id,next_unlock,bpm,max_hit,background,default_hero,available_hero,end_time,awards
+1,short_song_kei_vegalost_mp3,vegalost,1,2,2,60,110,xxxxx.png,1,1,85.4,43#3
+2,short_song_kei_vegalost_mp3,vegalost,2,3,3,60,215,xxxxx.png,1,1,85.4,43#3
+3,short_song_kei_vegalost_mp3,vegalost,3,-1,0,60,314,xxxxx.png,1,1,85.4,43#3
+4,bgm_maoudamashii_neorock82_mp3,-1,1,5,2,144,121,yyyyy.png,3,3,103.9,43#3
+5,bgm_maoudamashii_neorock82_mp3,-1,2,6,3,144,175,yyyyy.png,3,3,103.9,43#3
+6,bgm_maoudamashii_neorock82_mp3,-1,3,-1,0,,423,,3,3,103.9,43#3
+7,song_karin_12345_mp3,12345,1,8,2,,246,,1,1,209,43#3
+8,song_karin_12345_mp3,12345,2,9,3,,471,,1,1,209,43#3
+9,song_karin_12345_mp3,12345,3,-1,0,,791,,1,1,209,43#3
+10,short_song_kyoko_feels_happiness_mp3,feel happiness,1,11,2,,182,,4,4,125.4,43#3
+11,short_song_kyoko_feels_happiness_mp3,feel happiness,2,12,3,,253,,4,4,125.4,43#3
+12,short_song_kyoko_feels_happiness_mp3,feel happiness,3,-1,0,,440,,4,4,125.4,43#3
+13,song_minami_karenaihana_mp3,karenaihana,1,14,2,,342,,2,2,237.6,43#3
+14,song_minami_karenaihana_mp3,karenaihana,2,15,3,,482,,2,2,237.6,43#3
+15,song_minami_karenaihana_mp3,karenaihana,3,-1,0,,720,,2,2,237.6,43#3
+16,short_song_rei_shirogane_no_kobune_mp3,shirogane,1,17,2,,84,,2,2,76.1,43#3
+17,short_song_rei_shirogane_no_kobune_mp3,shirogane,2,18,3,,173,,2,2,76.1,43#3
+18,short_song_rei_shirogane_no_kobune_mp3,shirogane,3,-1,0,,272,,2,2,76.1,43#3
+19,short_song_kei_burning_heart_mp3,burning heart,1,20,2,,176,,1,1,111.6,43#3
+20,short_song_kei_burning_heart_mp3,burning heart,2,21,3,,286,,1,1,111.6,43#3
+21,short_song_kei_burning_heart_mp3,burning heart,3,-1,0,,460,,1,1,111.6,43#3
+22,short_song_kei_recuerdo_mp3,recuedo,1,23,2,,88,,3,3,87.2,43#3
+23,short_song_kei_recuerdo_mp3,recuedo,2,24,3,,175,,3,3,87.2,43#3
+24,short_song_kei_recuerdo_mp3,recuedo,3,-1,0,,299,,3,3,87.2,43#3
+25,short_song_shiho_shining_star_mp3,shining_star,1,26,2,,107,,4,4,88.5,43#3
+26,short_song_shiho_shining_star_mp3,shining_star,2,27,3,,225,,4,4,88.5,43#3
+27,short_song_shiho_shining_star_mp3,shining_star,3,-1,0,,304,,4,4,88.5,43#3
+28,short_song_kei_still_mp3,still,1,29,2,,130,,3,3,110.3,43#3
+29,short_song_kei_still_mp3,still,2,30,3,,204,,3,3,110.3,43#3
+30,short_song_kei_still_mp3,still,3,-1,0,,341,,3,3,110.3,43#3

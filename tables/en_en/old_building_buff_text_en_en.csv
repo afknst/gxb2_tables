@@ -16,7 +16,7 @@ id,name,desc
 15,Thorns,The enemies reflect 100% of Basic Attack and Active skill damage they take to the attackers
 16,Full Attack,"At the beginning of battle, all enemies have 200 Energy. During the first 2 rounds of battle, all enemies recover 100 Energy at the end of each round. Starting from the 3rd round, all enemies recover 50 Energy at the end of each round."
 17,Well Protected,"You enemies will be immune to all debuffs at the 1st round, they will also be immune to damage in the first 2 rounds."
-18,Tiredness,"Reduces your Warriors' Block rate by 20%, your Mages' and Rangers' Precision by 20%, your Assassins' Armor Break by 25%, your Priestesses' Heal amount by 15%"
+18,Tiredness,"Reduces your Warriors' Block rate by 20%, your Mages' and Rangers' Precision by 20%, your Assassins' Armor Break by 25%, your Priests' Heal amount by 15%"
 19,Disinfectant Spray,All your enemies will randomly remove 3 debuffs from themselves at the end of each round
 20,Regroup,The first 2 enemies who takes lethal damage will heal themselves by 100% of their Maximum HP
 21,Energy Potion,Heal 1 random enemy in front-line for 8% of Maximum HP and increase Attack of 1 random enemy in back-line by 20% for 2 rounds at the end of each round.
@@ -24,12 +24,12 @@ id,name,desc
 23,Infestation Pandemic,"In odd the rounds, the damage dealt by your Girls in odd positions is reduced by 15%, in the even rounds, the healing effect received by your Girls in even positions is reduced by 30%."
 24,Victor Rush,"At the start of battle, the damage the girl with the lowest HP in your team received increases by 20% for 3 rounds. Your enemies will target this girl when picking their target."
 25,Faint,Lower the Attack of the Girls in your team by 10%
-26,Back Waters,Your enemies will take 20% less damage after they have less than 50% HP.
+26,Back Waters,Enemy takes 30% less damage when HP is lower than 50%.
 27,Painless,"Reduces damage taken by enemies by 70%, at end of turn they will receive additional damage equal to 25% of previous damage reduced for 4 turns. (Cannot be transferred or purified)"
 28,Poor Health,Lower the HP of the Girls in your team by 15%
 29,Low Morale,Your Girl's Crit Attributes will be lowered to 0.
-30,Revenge,"When an enemy is defeated, all enemies remaining will heal themselves for (20% of self maximum HP), and increase their Attack, Precision, Block Rate and Crit by 20% for 3 rounds."
-31,Invisibility,"Each enemy will gain Invisibility (they will be able to dodge attacks that target 1 enemy or target random enemy, lower the damage taken by 50% and gain 100% extra Crit) for 2 rounds when their HP is lower than 50% (can trigger only once)"
+30,Revenge,"When an enemy is defeated, all enemies remaining will heal themselves for (30% of self maximum HP), and increase their Attack, Precision, Block Rate and Crit by 30% for 3 rounds."
+31,Invisibility,"Each enemy will gain Invisibility (they will be able to dodge attacks that target 1 enemy or target random enemy, lower the damage taken by 50% and gain 100% extra Crit) for 4 rounds when their HP is lower than 50% (can trigger only once)"
 32,Exile,"Banish the Girl with the highest HP in your team from battle. (The Girl banished won't be able to move, targeted or receive buffs and debuffs, if she's the only Girl left in your team, you will lose the battle.)"
 33,Healing Curse,All your Girls gain 3 stacks of Healing Curse at the beginning of battle. Each Stack of Healing Curse removed without being triggered will deal 10% of maximum HP to the target.
-34,Insufficient Energy,"Reduce the energy your Girls get by 50%. If your Girls have no Energy, they won't be able to deal damage. If your Girls have Energy more than 50, they will only deal 80% of damage. If your Girls have Energy lower than 20, their Energy will be removed at the end of each round."
+34,Insufficient Energy,"Reduce the energy your Girls get by 50%. If your Girls have no Energy, they won't be able to deal damage. If your Girls have Energy more than 50, they will only deal 80% of damage. If your Girls have Energy lower than 50, their Energy will be removed at the end of each round."

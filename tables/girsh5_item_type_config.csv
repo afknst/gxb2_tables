@@ -1,0 +1,5 @@
+id,type_column,exchange_column
+1001,type|id,
+1002,type|qlt,
+1003,type,
+1004,type|icon,para

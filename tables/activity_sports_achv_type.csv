@@ -1,0 +1,5 @@
+id,start_achievement,end_achievement,desc,type,show_rank,show_rank_done
+1,1,5,-1,2,1,1
+2,6,12,-1,2,2,2
+3,13,15,-1,2,3,3
+4,16,18,-1,1,4,4

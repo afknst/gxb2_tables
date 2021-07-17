@@ -1,0 +1,6 @@
+id,mark,obj_id,no_click,record,mask_type,mask_icon,icon_offset,obj_scale,hand_type,is_transition,is_black,dialog_type,position,flip_x,finger_flip,sound,is_dragonbones,window_name,delay_frame
+1,,-1,1,0,2,,,,,,,1,0|0,,,0,0,pet_detail_window,
+2,,btnExSkill,0,0,2,partner_exskill_guide_1,0|0,,,,,1,293|-230,1,,0,0,pet_detail_window,20
+3,,groupMiddle,1,0,2,pet_exskill_guide_1,0|0,,,,,1,0|-470,,,0,0,pet_evolution_window,
+4,,groupCost,1,0,2,pet_exskill_guide_2,0|0,,,,,1,0|-200,,,0,0,pet_evolution_window,
+5,,helpBtn,1,0,2,partner_exskill_guide_5,0|0,,,,,1,292|-136,1,,0,0,pet_evolution_window,

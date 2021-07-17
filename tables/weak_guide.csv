@@ -1,0 +1,5 @@
+id,next,window_name,condition_name,obj,obj_type,obj_uncertain,offset,offset_xiaogan
+1,2,campaign_window,CAN_LEV_UP,getHangResBtn,,,84|30,0|-100
+2,3,main_window,CAN_LEV_UP,MainwinBottomBtn_2,,,80|50,0|-100
+3,4,slot_window,,partnersGroup|SlotPartnerCard,1,1,100|100,
+4,-1,partner_detail_window,,btnLevUp,,,45|20,

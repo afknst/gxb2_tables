@@ -1,0 +1,8 @@
+id,mark,obj_id,no_click,record,mask_type,mask_icon,icon_offset,obj_scale,hand_type,is_transition,is_black,dialog_type,position,flip_x,finger_flip,sound,is_dragonbones,window_name,delay_frame
+1,,-1,1,0,2,,,,,,,1,0|-100,,,0,0,partner_detail_window,
+2,,btnExSkill,0,0,2,partner_exskill_guide_1,0|0,,,,,1,200|20,1,,0,0,partner_detail_window,10
+3,,descGroup,1,0,2,partner_exskill_guide_2,0|0,,,,,1,0|-360,,,0,0,exskill_grade_up_window,
+4,,previewGroup,1,0,2,partner_exskill_guide_3,0|0,,,,,1,0|-250,,,0,0,exskill_grade_up_window,
+5,,costResGroup,1,0,2,partner_exskill_guide_4,0|0,,,,,1,-100|-30,,,0,0,exskill_grade_up_window,
+6,,resetBtn,1,0,2,partner_exskill_guide_5,0|0,,,,,1,-200|-200,,,0,0,exskill_grade_up_window,
+7,,helpBtn,1,0,2,partner_exskill_guide_5,0|0,,,,,1,200|-200,1,,0,0,exskill_grade_up_window,

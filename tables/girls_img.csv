@@ -1,0 +1,5 @@
+id,desc,resource,enter_dialog,enter_dialog_time,enter_dialog_scale,click_dialog1,click_dialog1_time,click_dialog1_scale,click_dialog2,click_dialog2_time,click_dialog2_scale,click_dialog3,click_dialog3_time,click_dialog3_scale,click_dialog4,click_dialog4_time,click_dialog4_scale,click_dialog5,click_dialog5_time,click_dialog5_scale,chosen_dialog1,chosen_dialog1_time,chosen_dialog1_scale
+1,-1,partner_picture_5400803_png,-1,5000,260|145,-1,5000,260|145,-1,5000,280|165,-1,5000,260|145,-1,5000,300|205,-1,5000,280|165,-1,5000,260|145
+2,-1,partner_picture_752009_png,-1,5000,260|145,-1,5000,260|145,-1,5000,260|145,-1,5000,260|145,-1,5000,260|145,-1,5000,260|145,-1,5000,260|145
+3,-1,partner_picture_34004_png,-1,5000,260|145,-1,5000,260|145,-1,5000,260|145,-1,5000,300|185,-1,5000,280|165,-1,5000,300|185,-1,5000,260|145
+4,-1,partner_picture_12001_png,-1,5000,260|145,-1,5000,300|160,-1,5000,260|145,-1,5000,260|145,-1,5000,260|145,-1,5000,300|180,-1,5000,260|145

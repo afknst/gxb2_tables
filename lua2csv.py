@@ -10,9 +10,17 @@ import luadata
 import pandas as pd
 
 VERSION = "Jul_17_2021"
-MAIN_DIR = Path(f"../src_{VERSION}/data/tables/")
-IGNORE = ["de_de", "ko_kr", "fr_fr"]
-TO_COMBINE = ["dropbox", "item", "main_plot", "monster", "skill", "sound"]
+MAIN_DIR = Path("../src/data/tables/")
+TO_COMBINE = [
+    "dropbox",
+    "item",
+    "main_plot",
+    "monster",
+    "partner_plot",
+    "partner_warmup_plot",
+    "skill",
+    "sound",
+]
 NOW = datetime.now()
 
 LOGGER = logging.getLogger()
@@ -53,10 +61,6 @@ def save2json(_file_path, _dict):
 
 def lua_convert(_file_path, _out=".csv"):
     _str_file_path = str(_file_path).lower()
-    for _i in IGNORE:
-        if _i in _str_file_path:
-            log_and_print(f"[IGNORED] {_file_path}")
-            return
 
     if "activity" in _str_file_path:
         _mtime = datetime.fromtimestamp(_file_path.stat().st_mtime)
@@ -94,7 +98,8 @@ def lua_convert(_file_path, _out=".csv"):
         _data = _data.replace('[[', '"').replace(']]', '"')
 
         _dict = luadata.unserialize(_data, encoding="utf-8", multival=False)
-        if "keys" in _dict and "rows" in _dict:
+        if "keys" in _dict and "rows" in _dict and len(
+                _dict["keys"]) > 0 and len(_dict["rows"]) > 0:
             _converter(_dist, _dict)
             log_and_print(f"[CONVERTED] {_file_path}")
         else:

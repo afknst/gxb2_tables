@@ -1,0 +1,7 @@
+id,name,desc
+1,Plain Riceball,Heals 20%% of HP
+2,Jujube Riceball,Heals 50%% of HP & Adds 300 Energy
+3,Salmon Riceball,Heals 100%% of HP
+4,Pencil,Adds {1}%% Attack
+5,Eraser,Adds {1}%% Crit DMG
+6,Protractor,Adds {1}%% Crit Rate

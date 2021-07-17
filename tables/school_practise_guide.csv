@@ -1,0 +1,9 @@
+id,mark,obj_id,no_click,record,mask_type,mask_icon,icon_offset,obj_scale,hand_type,is_transition,is_black,dialog_type,position,flip_x,finger_flip,sound,is_dragonbones,wnd_name
+1,,-1,1,0,2,,,,,,,1,0|0,0,,0,0,academy_assessment_window
+2,,scroller_guide|AcademyAssessmentItem1,0,0,2,school_practise_guide_crop1,0|0,,,,,1,0|-300,0,,0,0,academy_assessment_window
+3,,-1,1,0,2,,,,,,,,0|0,,,,,academy_assessment_detail_window
+4,,scroller_guide|fightBtn|AcademyAssessmentDetailItem1,0,0,2,school_practise_guide_crop2,-2|-1,,,,,,0|-400,,,,,academy_assessment_detail_window
+5,,-1,1,0,2,,,,,,,1,0|0,0,,0,0,academy_assessment_window
+6,,scroller_guide|AcademyAssessmentItem1,0,0,2,school_practise_guide_crop1,0|0,,,,,1,0|-300,0,,0,0,academy_assessment_window
+7,,-1,1,0,2,,,,,,,,0|0,,,,,academy_assessment_detail_window2
+8,,scroller_guide|fightBtn|enemyInfoBtn|AcademyAssessmentDetailItem1,0,0,2,school_practise_guide_crop2,-2|-1,,,,,,0|-400,,,,,academy_assessment_detail_window2

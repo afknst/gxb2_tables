@@ -1,0 +1,7 @@
+id,show_partner,show_fx,awards,partner_cost,item_cost,bg_source,partner_picture_xy,partner_picture_scale,partner_picture_offset,partner_picture_offset_unity
+1,51008,,930085#50|2064#1|3064#1|189#5,41399#4|51999#1,,shelter_giftbag_bg03_png,524#687,0.9,0#-120,-345#190
+2,52011,,930177#50|1064#1|4064#1|189#5,42299#4|52999#1,,shelter_giftbag_bg06_png,513#717,0.9,20#-140,-310#190
+3,53007,,930179#50|2064#1|3064#1|189#5,43199#4|53999#1,,shelter_giftbag_bg07_png,608#687,0.9,20#-130,-370#185
+4,54008,,930115#50|1064#1|4064#1|189#5,44599#4|54999#1,,shelter_giftbag_bg05_png,515#690,0.9,0#-250,-330#180
+5,55003,,930120#50|86#5,55999#2,1#30000000|2#3000,shelter_giftbag_bg02_png,525#685,1,0#-260,-365#215
+6,56004,,930176#50|86#5,56999#2,1#30000000|2#3000,shelter_giftbag_bg04_png,525#730,0.9,20#-180,-320#215

@@ -1,0 +1,17 @@
+id,mark,obj_id,type,no_click,record,mask_type,mask_icon,icon_offset,obj_scale,hand_type,is_transition,is_black,dialog_type,position,flip_x,finger_flip,sound,is_dragonbones
+1,,-1,2,1,0,,,,,,,,1,0|0,0,,0,0
+2,,gPlayers,2,1,0,2,friend_team_boss_crop1,0|0,,,,,1,80|20,1,,0,0
+3,,btnInvite,2,1,0,2,friend_team_boss_crop2,0|1,,,,,1,-120|0,0,,0,0
+4,,gBoss,2,1,0,2,friend_team_boss_crop3,0|0,,,,,1,0|-220,0,,0,0
+5,,gBoss,2,1,0,2,friend_team_boss_crop3,0|0,,,,,1,0|-220,0,,0,0
+6,,gCountDown,2,1,0,2,friend_team_boss_crop4,0|1,,,,,1,-40|-220,0,,0,0
+7,,btnAward,2,1,0,2,friend_team_boss_crop5,0|1,,,,,1,-120|-220,0,,0,0
+8,,helpBtn,2,1,0,2,friend_team_boss_crop5,0|1,,,,,1,-200|-220,0,,0,0
+9,,-1,1,1,0,,,,,,,,1,0|0,0,,0,0
+10,,gPlayers,1,1,0,2,friend_team_boss_crop1,0|0,,,,,1,80|20,1,,0,0
+11,,btnInvite,1,1,0,2,friend_team_boss_crop2,0|1,,,,,1,-120|0,0,,0,0
+12,,gBoss,1,1,0,2,friend_team_boss_crop3,0|0,,,,,1,0|-220,0,,0,0
+13,,gBoss,1,1,0,2,friend_team_boss_crop3,0|0,,,,,1,0|-220,0,,0,0
+14,,gCountDown,1,1,0,2,friend_team_boss_crop4,0|1,,,,,1,-40|-220,0,,0,0
+15,,btnAward,1,1,0,2,friend_team_boss_crop5,0|1,,,,,1,-120|-220,0,,0,0
+16,,helpBtn,1,1,0,2,friend_team_boss_crop5,0|1,,,,,1,-200|-220,0,,0,0

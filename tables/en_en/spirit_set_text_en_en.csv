@@ -1,0 +1,33 @@
+id,name,desc_effect_num1,desc_effect_num2,desc_effect_num3,desc_effect_num4
+201,[Regular Topaz I],,,,
+202,[Regular Topaz Ⅱ],,,,
+301,[Regular Amethyst I],,,,
+302,[Regular Amethyst Ⅱ],,,,
+401,[Primary Amethyst I],,,,
+402,[Primary Amethyst Ⅱ],,,,
+501,[Intermediate Amethyst I],,,,
+502,[Intermediate Amethyst Ⅱ],,,,
+601,[Advanced Amethyst I],,,,
+602,[Advanced Amethyst Ⅱ],,,,
+701,[Regular Emerald I],,,,
+702,[Regular Emerald Ⅱ],,,,
+703,[Regular Emerald Ⅲ],,,,
+801,[Primary Emerald I],,,,
+802,[Primary Emerald Ⅱ],,,,
+901,[Intermediate Emerald I],,,,
+902,[Intermediate Emerald Ⅱ],,,,
+1001,[Advanced Emerald I],,,,
+1002,[Advanced Emerald Ⅱ],,,,
+1101,[Regular Ruby I],,,,
+1102,[Regular Ruby Ⅱ],,,,
+1103,[Regular Ruby Ⅲ],,,,
+1201,[Primary Ruby I],,,,
+1202,[Primary Ruby Ⅱ],,,,
+1301,[Intermediate Ruby I],,,,
+1302,[Intermediate Ruby Ⅱ],,,,
+1401,[Advanced Ruby I],,,,
+1501,[Ultimate Ruby I],,,,
+1601,[Summoner],,,,All enemies' HP Recovery effects are reduced by 15% for the first 5 rounds
+1701,[Adjudicator],,,,Girls in the front-line will immune 2 control effects after battle starts.
+1801,[Destroyer],,,,Girls will get 50% more energy when taking damage for the first 5 rounds.
+1901,[Dominator],,,,2 random back-line enemies will be affected by random control effects that last for 2 rounds when battle starts.

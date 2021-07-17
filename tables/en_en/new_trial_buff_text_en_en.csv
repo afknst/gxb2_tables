@@ -1,0 +1,16 @@
+id,name,desc
+1,Quench,Increases your girls' Attack by 10%
+2,Heart Drilling,"When battle starts, all enemies take random DoT lasting for 3 rounds. DoT (Bleeding & Poisoning & Burning) taken by the enemies increases by 25%."
+3,Dual Blade,"Allies' Basic Attack damage increases by 100%. Whenever an ally performs a Basic Attack, there is 50% chance to perform an additional Basic Attack."
+4,Potency Evocation,"Increases Crit by 25%, Crit Damage by 25% to all your girls."
+5,Way of Shura,"When a girl takes damage, she has 75% chance to counterattack, dealing (100% of Attack) Damage, must hit."
+6,Overgrowth,Increases your girls' Maximum Hp by 20%
+7,Cloudy Storm,"Allies' HP healing amount will  be increased by 25%. All enemies' HP healing amount will be decreased by 75%. Whenever a girl is healed, the enemy with the highest HP will take damage(5% of the Max HP of the girl who was healed) (no more than 80000), must hit."
+8,Unified Body,"Your girls gain 25% Damage Reduce Rate. Whenever a girl takes damage, it will have 50% chance to distribute evenly among all allies."
+9,Immunity,Increases your girls' Control Immune by 40%
+10,Shields Up,Increases your girls' Block rate by 30%
+11,Dreadnought,"Increases the Armor of Girls in Front-line by 25%, and allows them to receive 200% Healing amount when healed"
+12,Multicast,Your girls has a 25% chance to trigger their Active Skills again
+13,Evil Ritual,"When battle starts, your girls have 90% HP and 200 Energy."
+14,Blood Thirst,Heals your Girls for 15% of attack damage they dealt
+15,Sanctuary,Allows your girls to immune from a lethal damage (can stack with the same type of effect girls get from antiques)

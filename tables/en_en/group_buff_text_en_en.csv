@@ -1,0 +1,26 @@
+id,name,desc
+1,Ghost,Deploy 6 Girls from [c][0195c5]Ghost Faction[-][/c] to get a bonus aura to your team.
+2,Human,Deploy 6 Girls from [c][0069cc]Human Faction[-][/c] to get a bonus aura to your team.
+3,Monster,Deploy 6 Girls from [c][cc0011]Monster Faction[-][/c] to get a bonus aura to your team.
+4,Fairy,Deploy 6 Girls from [c][369900]Fairy Faction[-][/c] to get a bonus aura to your
+5,Demon,Deploy 6 Girls from [c][9227cc]Demon Faction[-][/c] to get a bonus aura to your team.
+6,Angel,Deploy 6 Girls from [c][d76500]Angel Faction[-][/c] to get a bonus aura to your team.
+7,Rainbow,Deploy 6 Girls from 6 [c][000000]Different Factions[-][/c] to get a bonus aura to your team.
+8,Heaven & Earth,Deploy 3 Girls from [c][9227cc]Demon Faction [-][/c] and 3 Girls from [c][d76500]Angel Faction [-][/c] to get a bonus aura to your team.
+9,Dark,"Deploy 2 Girls from [c][9227cc]Demon Faction[-][/c], 2 Girls from [c][0195c5]Ghost Faction[-][/c], and 2 Girls from [c][cc0011]Monster Faction[-][/c] to get a bonus aura to your team."
+10,Light,"Deploy 2 Girls from [c][d76500]Angel Faction[-][/c], 2 Girls from [c][0069cc]Human Faction[-][/c], and 2 Girls from [c][369900]Fairy Faction[-][/c] to get a bonus aura to your team."
+11,Balance,Deploy 3 Girls from [c][0069cc]Human Faction[-][/c] and 3 Girls from [c][369900]Fairy Faction[-][/c] to get a bonus aura to your team.
+12,Specter,Deploy 3 Girls from [c][0195c5]Ghost Faction[-][/c] and 3 Girls from [c][cc0011]Monster Faction[-][/c] to get a bonus aura to your team.
+13,Contagion,Deploy 3 Girls from [c][cc0011]Monster Faction[-][/c] and 3 Girls from [c][369900]Fairy Faction[-][/c] to get a bonus aura to your team.
+14,Mutation,Deploy 3 Girls from [c][0069cc]Human Faction[-][/c] and 3 Girls from [c][cc0011]Monster Faction[-][/c] to get a bonus aura to your team.
+15,Symbiosis,Deploy 3 Girls from [c][0195c5]Ghost Faction[-][/c] and 3 Girls from [c][369900]Fairy Faction[-][/c] to get a bonus aura to your team.
+16,Life & Death,Deploy 3 Girls from [c][0195c5]Ghost Faction[-][/c] and 3 Girls from [c][0069cc]Human Faction[-][/c] to get a bonus aura to your team.
+17,Chaos,"Deploy 3 girls from [c][d76500]Angel Faction[-][/c] or [c][9227cc]Demon Faction[-][/c] and 3 girls from [c][0195c5]Ghost Faction[-][/c], [c][0069cc]Human Faction[-][/c], [c][cc0011]Monster Faction[-][/c] or[c][369900] Fairy Faction[-][/c] but not in the same faction in your lineup to gain great attribute boost for your team"
+18,Disguise,"Deploy 3 girls from [c][0195c5]Ghost Faction[-][/c], 2 girls from[c][369900] Fairy Faction[-][/c] and 1 girl from [c][cc0011]Monster Faction[-][/c] to get great attribute boost for your team."
+19,Tenacity,"Deploy 3 girls from [c][0069cc]Human Faction[-][/c], 2 girls from [c][cc0011]Monster Faction [-][/c]and 1 girl from [c][369900]Fairy Faction[-][/c] to get great attribute boost for your team."
+20,Fusion,"Deploy 3 girls from [c][cc0011]Monster Faction[-][/c], 2 girls from [c][0195c5]Ghost Faction[-][/c] and 1 girl from [c][0069cc]Human Faction[-][/c] to get great attribute boost for your team."
+21,Tranquility,"Deploy 3 girls from [c][369900]Fairy Faction[-][/c], 2 girls from [c][0069cc]Human Faction[-][/c] and 1 girl from [c][0195c5]Ghost Faction[-][/c] to get great attribute boost for your team."
+22,Resistance,"Deploy 2 girls from [c][369900]Fairy Faction[-][/c], 2 girls from [c][0195c5]Ghost Faction[-][/c] and 2 girls from [c][0069cc]Human Faction[-][/c] to get great attribute boost for your team."
+23,Unity,"Deploy 2 girls from [c][0195c5]Ghost Faction[-][/c], 2 girls from[c][0069cc] Human Faction[-][/c] and 2 girls from [c][cc0011]Monster Faction[-][/c] to get great attribute boost for your team."
+24,Evolution,"Deploy 2 girls from [c][0069cc]Human Faction[-][/c], 2 girls from [c][cc0011]Monster Faction [-][/c]and 2 girls from [c][369900]Fairy Faction[-][/c] to get great attribute boost for your team."
+25,Reborn,"Deploy 2 girls from [c][cc0011]Monster Faction[-][/c], 2 girls from[c][369900] Fairy Faction[-][/c] and 2 girls from [c][0195c5]Ghost Faction[-][/c] to get great attribute boost for your team."

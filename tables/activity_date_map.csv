@@ -1,0 +1,11 @@
+id,name,partner_id,partner_name,need_favor,start_cell_id,image_path
+1,-1,,,0,1,date_map_public
+2,-1,51009,-1,51009#100,41,date_map_shopstreet
+3,-1,51009,-1,51009#100,61,date_map_shopstreet_evening
+4,-1,51009,-1,51009#100,81,date_map_shopstreet
+5,-1,51006,-1,51006#100,101,date_map_amusement
+6,-1,51006,-1,51006#100,121,date_map_shopstreet
+7,-1,51006,-1,51006#100,141,date_map_shopstreet_evening
+8,-1,54008,-1,54008#100,161,date_map_garden
+9,-1,54008,-1,54008#100,181,date_map_shopstreet
+10,-1,54008,-1,54008#100,201,date_map_amusement

@@ -1,0 +1,5 @@
+id,mission_des,complete_value,award1,award2,award3,go_window
+1,-1,1,156#1,157#1,158#1,campaign_window
+2,-1,1,156#1,157#1,158#1,tavern_window
+3,-1,1,156#1,157#1,158#1,arena_window
+4,-1,1,156#1,157#1,158#1,dates_list_window

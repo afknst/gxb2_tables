@@ -1,0 +1,4 @@
+id,mission_des,is_limit,complete_value,award,go_window
+1,-1,1,1,2#20|108#20,activity_sports_fight_window
+2,-1,1,1,2#30|109#1,activity_sports_fight_window
+3,-1,0,1,109#1|108#10,activity_sports_shows_window

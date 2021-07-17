@@ -1,0 +1,15 @@
+name,prename,guide_number,guide_size,hide_mask,skin_name,label_number,label_name,icon_number
+tavern_window,tavern,2,656|952,0,Tavern,6|5,TAVERN_,1|1
+prophet_window,prophet,2,656|952,0,Prophet,3|5,PROPHET_,3|5
+gamble_window,gamble,1,656|952,0,Gamble,7,GAMBLE_,1
+tower_window,tower,1,656|952,0,Tower,4,TOWER_,4
+daily_mission_window,daily_mission,1,656|793,1,DailyMission,3,DAILY_MISSION_,3
+arena_window,arena,2,656|952,0,Arena,4|4,ARENA_,4|4
+shenxue_window,shenxue,1,656|952,0,ShenXue,7,SHENXUE_,1
+treasure_guide,crystal,3,656|952,0,Crystal,3|5|4,CRYSTAL_,3|2|2
+friend_boss_guide,friend_boss,1,656|951,0,FriendBoss,5,BOSS_,4
+dates_window,date,3,656|952,0,Date,3|4|2,DATES_,3|5|3
+beach_window,beach,2,656|952,0,Beach,5|5,BEACH_,5|1
+hero_challenge_detail_guide,challenge,2|1,656|952,0,Challenge,5|4|4,CHALLENGE_,1|2|1
+music_game_window,music_game,2,656|952,0,MusicGame,4|7,MUSIC_GAME_,1|0
+jump_game_window,jump_game,2,656|952,0,JumpGame,4|6,JUMP_GAME_,1|0

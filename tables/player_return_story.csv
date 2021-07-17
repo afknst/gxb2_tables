@@ -1,0 +1,8 @@
+id,next_id,select_next_ids,select,plot,name,is_memory,res_path,scale,partner_picture_xy,image_path,type,show_type,disappear_type,show_time,disappear_time,position_move,swap_overlap,map_swap,image_mirror,cg_show,cg_path,cg_scale,cg_layer,cg_show_type,cg_start_xy,cg_show_time,cg_show_xy,cg_disappear_type,cg_disappear_xy,cg_disappear_time,sound,music,face,face_pos,bubble_mirror,bubble_xy,bubble_expression,effect,effect_scale,effect_xy,effect_layer,effect_count,jitter
+1,2,,,,-1,,partner_picture_56003,1,0|0,new_school,0,1,6,1,1,0|0,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,3,,,,-1,,partner_picture_655013,1,0|0,new_school,0,1,6,1,1,0|0,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,4,,,,-1,,partner_picture_51004,1,0|0,new_school,0,1,6,1,1,0|0,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,5,,,,-1,,partner_picture_652014,1,0|0,new_school,0,1,6,1,1,0|0,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,6,,,,-1,,partner_picture_54008,1,0|0,new_school,0,1,6,1,1,0|0,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,7,,,,-1,,partner_picture_54008,1,0|0,new_school,0,1,6,1,1,0|0,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,-1,,,,-1,,partner_picture_54008,1,0|0,new_school,0,1,6,1,1,0|0,,,,,,,,,,,,,,,,,,,,,,,,,,,

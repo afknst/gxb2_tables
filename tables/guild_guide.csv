@@ -1,0 +1,7 @@
+id,mark,obj_id,no_click,record,mask_type,mask_icon,icon_offset,obj_scale,hand_type,is_transition,is_black,dialog_type,position,flip_x,finger_flip,sound,is_dragonbones
+1,21,img02,1,0,2,guild_territory_icon03_mask,0|0,,,1,,1,-320|-15,,,0,0
+2,,img06,1,0,2,guild_territory_icon04_mask,0|0,,,,,1,625|-40,1,,0,0
+3,,img03,1,0,2,guild_territory_icon05_mask,0|0,,,,,1,-375|-45,0,,0,0
+4,,groupShopTouch,1,1,2,guild_territory_shop_mask,4|20,,,,,1,491|-18,1,,0,1
+5,,img04,1,0,2,guild_territory_icon06_mask,0|0,,,,,1,-319|-47,0,,0,0
+6,,img05,1,0,2,guild_territory_icon01_mask,0|0,,,,,1,670|-35,1,,0,0
