@@ -17,6 +17,10 @@ TO_COMBINE = [
     "skill",
     "sound",
 ]
+TABLES = Path("./tables/")
+TABLES.mkdir(parents=True, exist_ok=True)
+COMBINED_TABLES = Path("./combined_tables/")
+COMBINED_TABLES.mkdir(parents=True, exist_ok=True)
 
 
 def save2csv(_file_path, _dict):
@@ -83,23 +87,21 @@ def lua_convert(_file_path, _out=".csv"):
             print(f"[IGNORED] {_file_path}")
 
 
-if __name__ == "__main__":
-    TABLES = Path("./tables/")
-    TABLES.mkdir(parents=True, exist_ok=True)
-    COMBINED_TABLES = Path("./combined_tables/")
-    COMBINED_TABLES.mkdir(parents=True, exist_ok=True)
+def combine(_t):
+    _csv_files = sorted(TABLES.glob(f'./{_t}?.csv'))
+    print("[TO COMBINE]", *_csv_files)
+    _combined_csv = pd.concat([pd.read_csv(_) for _ in _csv_files])
+    _combined_csv.sort_values("id", inplace=True)
+    _combined_csv.set_index("id", inplace=True)
+    _combined_csv.to_csv(COMBINED_TABLES / f"{_t}.csv")
+    print("[COMBINED]", COMBINED_TABLES / f"{_t}.csv")
 
+
+if __name__ == "__main__":
     LUA_FILES = sorted(MAIN_DIR.glob('**/*.lua'))
+
     for _lua_file in LUA_FILES:
         lua_convert(_lua_file)
 
     for _t in TO_COMBINE:
-        CSV_FILES = sorted(TABLES.glob(f'./{_t}?.csv'))
-        print("[TO COMBINE]", *CSV_FILES)
-
-        COMBINED_CSV = pd.concat([pd.read_csv(_) for _ in CSV_FILES])
-        COMBINED_CSV.sort_values("id", inplace=True)
-        COMBINED_CSV.set_index("id", inplace=True)
-        COMBINED_CSV.to_csv(COMBINED_TABLES / f"{_t}.csv")
-
-        print("[COMBINED]", COMBINED_TABLES / f"{_t}.csv")
+        combine(_t)
