@@ -2727,12 +2727,12 @@ A control effect. During this effect, girls affected will not be able to deal Ba
 100002700,,,
 100002702,,,
 100002703,,,
-646101,Burning Blade 1,Antique Skill,"Prevents a lethal damage (including DoTs, Skills, and Basic Attacks, excluding damage from Marks)"
-646201,Burning Blade 2,Antique Skill,"Prevents a lethal damage (including DoTs, Skills, and Basic Attacks, excluding damage from Marks)"
-646301,Burning Blade 3,Antique Skill,"Prevents 2 lethal damages (including DoTs, Skills, and Basic Attacks, excluding damage from Marks)"
-646401,Burning Blade 4,Antique Skill,"Prevents 2 lethal damages (including DoTs, Skills, and Basic Attacks, excluding damage from Marks)"
-646501,Burning Blade 5,Antique Skill,"Prevents 3 lethal damages (including DoTs, Skills, and Basic Attacks, excluding damage from Marks)"
-646601,Burning Blade 6,Antique Skill,"Prevents 3 lethal damages (including DoTs, Skills, and Basic Attacks, excluding damage from Marks)"
+646101,Burning Blade 1,Antique Skill,Provides a shield that can prevent direct damage or DoT damage for 1 time when owner takes a lethal damage
+646201,Burning Blade 2,Antique Skill,Provides a shield that can prevent direct damage or DoT damage for 1 time when owner takes a lethal damage
+646301,Burning Blade 3,Antique Skill,Provides a shield that can prevent direct damage or DoT damage for 2 times when owner takes a lethal damage
+646401,Burning Blade 4,Antique Skill,Provides a shield that can prevent direct damage or DoT damage for 2 times when owner takes a lethal damage
+646501,Burning Blade 5,Antique Skill,Provides a shield that can prevent direct damage or DoT damage for 3 times when owner takes a lethal damage
+646601,Burning Blade 6,Antique Skill,Provides a shield that can prevent direct damage or DoT damage for 3 times when owner takes a lethal damage
 5201200,Ithil,Basic Attack,Basic Attack
 65201900,Ithil,Basic Attack,Basic Attack
 75201200,Ithil,Basic Attack,Basic Attack
@@ -3385,7 +3385,7 @@ A Damage over Time. Damage is dealt once when bleed is inflicted and during the 
 100402,Potential- Stage 4,Potential：Attack,Increases ATK by 8%
 100403,Potential- Stage 4,Potential：Speed,"Increases SPD by 20, HP by 5% and ATK by 3%"
 100501,Potential- Stage 5,Potential: Coordination,"When Basic attack or Active skill do not deal Crit, 30% extra damage will be dealt; when a Basic Attack or Active Skill can deal Crit, can heal self for 15% damage dealt."
-100502,Potential- Stage 5,Potential: Shield,"When taking lethal damage, get a shield that prevents damages for 4 times (including DoTs, Active Skills, and Basic Attacks, excluding damage from Marks)"
+100502,Potential- Stage 5,Potential: Shield,Provides a shield that can prevent direct damage or DoT damage for 3 times when owner takes a lethal damage
 100503,Potential- Stage 5,Potential: Willpower,"Can be triggered 1 time each round: After getting attacked, if HP is above 50%,deal (4% of Maximum HP) damage to the attacker; if HP is below 50%, heals self by 4% of Maximum HP"
 5201400,Rogue,Basic Attack,Basic Attack
 65202100,Rogue,Basic Attack,Basic Attack
@@ -8644,3 +8644,14 @@ The sun\'s rays will burn away everything you hold dear, and you shall crush the
 Control Effect, enemies affected by Dazed will compulsively target 1 random target when Active Skills, Basic Attacks or Passive Skills that targets enemies are triggered (however, this effect can be replaced by Taunt)
 [c][e28002]Sun Slayer: [-][/c]
 Skill Effect, Angelica will Hunt the enemy with lowest HP percentage the same number of times as the stacks of Sun Slayer that she has when she triggers Active Skills and Basic Attacks, dealing (330% of Attack) damage each time. The stacks of Sun Slayer will not be removed after use (the damage can trigger Crit)."
+672501,Antique: Nightshade,Antique Skill,Revives owner with 25% of Maximum HP and 10 Energy after owner is defeated. (Can be triggered only once in each battle)
+672502,Antique: Nightshade,Antique Skill,Revives owner with 30% of Maximum HP and 25 Energy after owner is defeated. (Can be triggered only once in each battle)
+672503,Antique: Nightshade,Antique Skill,Revives owner with 35% of Maximum HP and 40 Energy after owner is defeated. (Can be triggered only once in each battle)
+672504,Antique: Nightshade,Antique Skill,Revives owner with 40% of Maximum HP and 55 Energy after owner is defeated. (Can be triggered only once in each battle)
+672505,Antique: Nightshade,Antique Skill,Revives owner with 50% of Maximum HP and 70 Energy after owner is defeated. (Can be triggered only once in each battle)
+672506,Antique: Nightshade,Antique Skill,Revives owner with 60% of Maximum HP and 85 Energy after owner is defeated. (Can be triggered only once in each battle)
+501103,Sky Island,Immunity,Enemies are Immune to all Debuffs.
+501104,Sky Island,Energy Recovery,All enemies recover their Energy by 100 at the end of each round
+502105,天空島,Battle Spirit,"Starting from the 3rd round, all enemies increase their Attack by 10% at the end of each round."
+503105,天空島,Focus Fire,The Girl with the lowest HP will become a prioritized target when enemies are picking random target(s)
+503106,天空島,Lullaby,"Starting from the 3rd round, exerts Lullaby on all enemies for 2 rounds at the end of each round."

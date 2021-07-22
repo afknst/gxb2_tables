@@ -59,7 +59,7 @@ gacha_ensure_partner,55010#655019#755009|56008#656018#756008,-1
 gacha_ensure_partner_handbook,55010#655019#755009|56008#656018#756008,-1
 daily_mail_awards_gacha,2,-1
 daily_mail_awards_tree,3,-1
-daily_mail_awards_gamble,4|18|24,-1
+daily_mail_awards_gamble,4|18,-1
 daily_mail_awards_drift,30|8|19,-1
 daily_mail_awards_week,18|22,-1
 daily_mail_awards_arena,30|8|19,-1
@@ -305,7 +305,7 @@ first_all_server_arena_time,1570406400,-1
 funopen_all_server_arena_time,1570406400,-1
 nsshaft_bgm,8006,-1
 new_questionnaire_begin_time,1621555200,-1
-new_questionnaire_end_time,1621814400,-1
+new_questionnaire_end_time,,-1
 new_questionnaire_award,2#100|36#1,-1
 new_questionnaire_level_limit,70,-1
 new_questionnaire_type,7,-1
@@ -488,7 +488,7 @@ activity_privileged_card_trial_rewards,1*2000|15*2000,-1
 activity_privileged_card_dungeon_rewards,1*1000|2*1000|10*1000|26*1000|27*1000,-1
 activity_privileged_card_dungeon_drugs,2,-1
 activity_birthday_colour_progress_bit,0.1,-1
-merge_server_now_next,442|458|1626679800,-1
+merge_server_now_next,458|474|1627889400,-1
 activity_privileged_card_ui_type,0#0|1#0,-1
 arena_revenge_cd,300,-1
 activity_swimsuit_cost,154#1,-1
@@ -555,7 +555,7 @@ partner_challenge_chess_award2,10,-1
 partner_challenge_chess_hp,50,-1
 partner_challenge_chess_sell,2|7,-1
 entrance_test_slot_sort_type_show_list,9|4|5|6|7|0|1|8,-1
-activity_147_hero_model,fenlier_pifu04_lihui01|470|-900|0.7|5101205|7180,-1
+activity_147_hero_model,liubei_pifu02_lihui01|620|-1770|0.7|5401303|7190,-1
 school_practise_ticket02_default_2,25,-1
 school_practise_new_help_tips,2,-1
 plot_fade_time,0.5,-1
@@ -591,7 +591,7 @@ tower_giftbag_floors4,620|680|740|800,-1
 level_fund_window_lvl,40|50|60,-1
 battle_pass_time,7|3|1,-1
 battle_pass_level,10,-1
-battle_pass_item_light,2|120|222|940002|940004|7174|7160|1129999|1900002,-1
+battle_pass_item_light,2|120|222|940002|940004|7174|7191|1129999|1900002|1900004,-1
 battle_speed_up,1|1.8|2.5,-1
 battle_skip_level,30,-1
 treasures_refresh_gurantee,4,-1
@@ -688,7 +688,7 @@ pet_exlevel_unlock_cost,1#1000000|27#5|216#10,-1
 guild_competition_time,3|7|1,-1
 guild_competition_boss_limit,30,-1
 guild_competition_personal_limit,3,-1
-guild_competition_boss_model,751015|752016|754015,-1
+guild_competition_boss_model,755009|751010|756008,-1
 activity_puppet_item,217,-1
 pet_exskill_open_level,120,-1
 bp_lottery_cost,221#50,-1
@@ -732,7 +732,7 @@ activity_time_giftbag_cost,2#2500@235#9|940014#50|9#3000000,-1
 partner_signature_length_limit,3,-1
 activity_fair_arena_battle_time,6|1,-1
 monthly_card_offer_giftbag,282|283,-1
-battlepass_106_hero_model,luxun_pifu01_lihui03|420|-1440|0.7,-1
+battlepass_106_hero_model,yixienamei_pifu04_lihui01|-195|-755|-0.55,-1
 battlepass_124_hero_model,fanhexin_pifu01_lihui01|-180|-345|-0.55,-1
 questionnaire_other_limit,200|12,-1
 space_explore_dropbox,40004,-1
@@ -760,7 +760,7 @@ pet_training_energy_buy_limit,2,-1
 pet_training_energy_buy_cost,2#80|2#120,-1
 pet_training_lesson_award,0#1|300#1.1|400#1.2|450#1.3|500#1.4|540#1.5,-1
 pet_training_boss_level,120,-1
-guild_competition_frame_time,1626652800,-1
+guild_competition_frame_time,1630281600,-1
 activity_course_learning_2_cost,231#10,-1
 activity_course_learning_2_award1,800020,-1
 activity_course_learning_2_award2,0.008#1000|0.009#3500|0.01#4000|0.011#1485|1#15,-1
@@ -792,3 +792,5 @@ max_dress_style,5,-1
 max_guild_limit,1000000,-1
 min_guild_limit,0,-1
 change_guild_limit,1000,-1
+gacha_record_amount,50,-1
+gacha_record_time_limit,7,-1

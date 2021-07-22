@@ -73,12 +73,12 @@ id,name,brief,desc
 1023,Mother's Day Avatar,Special Avatar,Special Avatar of Mother's Day
 1024,Opening Ceremony Avatar,Special Avatar,Special Avatar of Opening Ceremony
 1025,Dragon Boat Festival Avatar,Special Avatar,Exclusive avatar acquired by completing all missions of Arena Ace
-2001,Riceball,Item,Heal Girl for (20% of Maximum) HP
+2001,Plain Riceball,Item,Heal Girl for (20% of Maximum) HP
 2002,Jujube Riceball,Item,Heal Girl for (50% of Maximum) HP & gain 300 Energy of Girls.
-2003,Meat Riceball,Item,Heal Girl for (100% of Maximum) HP
+2003,Salmon Riceball,Item,Heal Girl for (100% of Maximum) HP
 2004,Pencil,Item,Add 1.5% Attack
 2005,Eraser,Item,Add 2% Crit DMG
-2006,Ruler,Item,Add 2% Crit Rate
+2006,Protractor,Item,Add 2% Crit Rate
 930000,1-star Skarivine,Summon Girl,Collect 5 shards to summon the girl.
 930001,1-star Cayla,Summon Girl,Collect 5 shards to summon the girl.
 930002,1-star Vanees,Summon Girl,Collect 5 shards to summon the girl.
@@ -3219,9 +3219,19 @@ This book was only an experimental product that was created with well-known stor
 3100022,Black Frame Glasses,Outfit,"Headwear part of ""School Uniform"" Set"
 3100023,Black Frame Glasses,Outfit,"Headwear part of ""School Uniform"" Set"
 3100024,Black Frame Glasses,Outfit,"Headwear part of ""School Uniform"" Set"
-6731,黃泉挽香,Antique,
-6732,黃泉挽香,Antique,
-6733,黃泉挽香,Antique,
-6734,黃泉挽香,Antique,
-6735,黃泉挽香,Antique,
-6736,黃泉挽香,Antique,
+6731,Nightshade,Antique,
+6732,Nightshade,Antique,
+6733,Nightshade,Antique,
+6734,Nightshade,Antique,
+6735,Nightshade,Antique,
+6736,Nightshade,Antique,
+7190,Nature's Gift,Skins,Nature's Gift skin of Joan
+27190,Nature's Gift,Skins,Nature's Gift skin of Joan
+1900004,Artificial Hot Spring,Furniture,Careful! Don't swallow the water!
+8061,Beach Scenery,Frame,Purchase Collector's Book
+7189,Surfing Champion,Skins,Surfing Champion skin of Guan Yin
+27189,Surfing Champion,Skins,Surfing Champion skin of Guan Yin
+251,Holiday Ticket,Event Material,"Event material, used in event: ""Summer Gift"""
+252,Unlock the 3rd Summer Gift,,"You can unlock the 3rd Gift in event: ""Summer Gift"" by purchasing this pack and get 「1 Holiday Ticket, 5 Adv. Capsule Coins and 500 Gems」each day from the 3rd Gift."
+7191,After Rain,Skins,After Rain skin of Izanami
+27191,After Rain,Skins,After Rain skin of Izanami

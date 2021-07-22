@@ -1607,7 +1607,7 @@ PERSON_MUSIC2,課間漫步
 PERSON_BTN_7,音樂
 NORMAL_SLOT_MACHINE,普通販賣機
 HIGH_SLOT_MACHINE,高級販賣機
-ACTIVITY_SCHOOL_GIFTBAG_HELP_TEXT,1.每個禮物每日都會進行補充，每天登入即可領取已解鎖的禮物。|2.未解鎖的禮物盒會保存禮物，在解鎖後將一次領取解鎖前的所有禮物。|3.點擊禮物盒即可查看禮物袋的內容物。|4.第四個禮物盒將會在購買第二檔特惠禮包後解鎖。
+ACTIVITY_SCHOOL_GIFTBAG_HELP_TEXT,1.每個禮物每日都會進行補充，每天登入即可領取已解鎖的禮物。|2.未解鎖的禮物盒會保存禮物，在解鎖後將一次領取解鎖前的所有禮物。|3.點擊禮物盒即可查看禮物袋的內容物。|4.第三個禮物盒將會在購買第二檔特惠禮包後解鎖。
 CHAPTER_COUNT,第{1}章
 CHAPTER_TITLE,{1}-{2} {3}
 LOCK_STORY_LIST,章節尚未解鎖
@@ -4080,12 +4080,14 @@ PET_EVOLUTION_WINDOW_HELP,1.使魔等級達到120級後，可解鎖其專屬核�
 PET_EVOLUTION_WINDOW,使魔專屬核心
 UNCRIT,暴擊抵抗
 GUILD_COMPETITION_HELP,"
-天空島中可與社團的小夥伴協力挑戰強大的敵人|天空島開放期間的限制|天空島開放期間，不能離開社團、開除成員或解散社團。加入或創建社團則不受限制。|積分規則|各敵人每周目積分均為100000，按實際造成傷害占敵人總血量的百分比計算得分。|挑戰次數|1.每名社團成員每天最多可以挑戰「3次」。
+天空島中可與社團的小夥伴協力挑戰強大的敵人|天空島開放期間的限制|天空島開放期間，不能離開社團、開除成員或解散社團。加入或創建社團則不受限制。|社團總排名積分規則|各敵人每周目積分均為100000，按實際造成傷害占敵人總血量的百分比計算得分。|挑戰次數|1.每名社團成員每天最多可以挑戰「3次」。
 2.每個敵人每天最多可被挑戰「30次」。|實戰及模擬戰|1.挑戰敵人時，有「實戰」和「模擬戰」兩種模式。
 2.「實戰」：消耗挑戰次數進行戰鬥，戰鬥結束後獲得積分及獎勵。
 3.「模擬戰」：不消耗挑戰次數進行的練習戰鬥，無法獲得積分及戰鬥獎勵。即使當前挑戰次數為0也可進行模擬戰。模擬戰開始時，敵人的生命值為當前敵人實際所剩餘的生命值。|獎勵|1.戰鬥獎勵：每次戰鬥結束後，獲得獎勵。
-2.傷害排名獎勵：按照所屬社團成員們在天空島期間的總得分進行排名，每個敵人單獨計算排名並發放獎勵。（透過信件發放）
-3.社團排名獎勵：對各社團在天空島實戰中獲得的總分數進行排名，天空島關閉後，根據排名對獲得分數不為0的社團成員發放獎勵（頭像框將直接發放，其他獎勵透過信件發放，天空島關閉後離開社團、被開除或社團解散仍可獲得獎勵）。"
+2.擊殺獎勵：敵人被擊殺時，所有參與挑戰的社團成員均可獲得獎勵。
+3.傷害排名獎勵：按照所屬社團成員們在天空島期間的總傷害進行排名，每個敵人單獨計算排名並發放獎勵。（透過信件發放）
+  當社團內參與天空島的成員數低於10人時，每少1人，獲得的傷害排名獎勵將減少10%%（最低至10%%）。
+4.社團排名獎勵：對各社團在天空島實戰中獲得的總分數進行排名，天空島關閉後，根據排名對獲得分數不為0的社團成員發放獎勵（頭像框將直接發放，其他獎勵透過信件發放，天空島關閉後離開社團、被開除或社團解散仍可獲得獎勵）。"
 BP_TAGS,綺幻手冊|任務|兌換|成就
 BP_MISSION_TAGS,今日|本週|額外
 BP_SHOP_TAGS,印花兌換|純晶兌換|書中花
@@ -4339,7 +4341,7 @@ FAIR_ARENA_GOTO_EXPLORE,繼續探索
 FAIR_ARENA_GOTO_DEMO,前往
 ACTIVITY_TIME_REFRESH_TIPS,獎勵已自動刷新！
 FAIR_ARENA_TITLE_GIFT,{1}級寶箱
-MONTHLY_CARD_OFFER_FIRST,首購優惠
+MONTHLY_CARD_OFFER_FIRST,首購\n優惠
 ACADEMY_ASSESSMENT_FORMATION_TIPS,點擊戰姬頭像可以查看詳情
 ACTIVITY_GIFTBAG_OPTIONAL_TEXT01,可從下列物品中選擇4項
 ACTIVITY_GIFTBAG_OPTIONAL_TEXT02,最多可選擇4個道具
@@ -4634,13 +4636,13 @@ LIFE_DES3,在更衣室中搭配裝扮，改變自己的個人形象
 PERSON_DRESS_TIPS_1,該裝扮暫時無法穿戴
 SETTING_UP_VOLUME,音量調節
 GUILD_POLICY_BTN_LABEL,選擇方針
-GUILD_OPEN_TYPE1,不可加入
-GUILD_OPEN_TYPE2,審核加入
-GUILD_OPEN_TYPE3,自動加入
+GUILD_OPEN_TYPE3,不可加入
+GUILD_OPEN_TYPE1,審核加入
+GUILD_OPEN_TYPE2,自動加入
 GUILD_OPEN_TYPE_LABEL,驗證方式:
 GUILD_OPWER_LIMIT_LABEL,戰力限制:
 GUILD_POLICY_TEXT1,歡迎新手
-GUILD_POLICY_TEXT2,悠閑地遊玩
+GUILD_POLICY_TEXT2,悠閒地遊玩
 GUILD_POLICY_TEXT3,認真地遊玩
 GUILD_POLICY_TEXT4,每日登入
 GUILD_POLICY_TEXT5,積極交流
@@ -4650,3 +4652,22 @@ PERSON_DRESS_MAIN_26,脫下
 PERSON_DRESS_MAIN_27,穿上
 LIFE_2,生活
 GUILD_POLICY_TITLE,請選擇社團主要方針
+GUILD_NUM_TIPS,社團人數:
+GUILD_LANG_TIPS,社團主要語言:
+GUILD_POLICY_TIPS,社團方針:
+GUILD_APPLY_NO_ACCEPUT,此社團目前不接受新成員
+GUILD_APPLY_NEED_POWER,當前戰力不符合社團要求
+GUILD_CHOOSE_FLAG,選擇旗幟
+TRAVEL_MAIN_TEXT67,普通敵人
+TRAVEL_MAIN_TEXT68,精英敵人
+TRAVEL_MAIN_TEXT69,野外寶箱
+TRAVEL_MAIN_TEXT70,高級寶箱
+TRAVEL_MAIN_TEXT71,求助者
+TRAVEL_MAIN_TEXT72,集市
+MONTH_CARD_TEXT001,購買獲得
+MONTH_CARD_TEXT002,每日福利
+MONTH_CARD_TEXT003,月卡每日額外獎勵
+MONTH_CARD_TEXT004,1.當購買月卡後：|你將會立即得到900鑽石和750VIP經驗。在之後的30天內，每天將在信箱中獲得370鑽石。總共有12000鑽石！|此外，當VIP等級達到2級后，還會獲得額外每日月卡獎勵，VIP等級越高獲得的額外每日獎勵越豐富！|2.當購買小月卡後：|你將會立即得到350鑽石和250VIP經驗。在之後的30天內，每天將在信箱中獲得85鑽石。|小月卡沒有VIP額外每日獎勵，可以和月卡一起購買！|3.首次購買小月卡或者月卡時，都將提供一個特別優惠。購買過一次後，價格將變回原價。
+GUILD_POLICY_CHANGED_TIP,社團主要方針已成功更改
+GUILD_OPEN_TYPE_LABEL2,驗證方式
+GUILD_OPWER_LIMIT_LABEL2,戰力限制

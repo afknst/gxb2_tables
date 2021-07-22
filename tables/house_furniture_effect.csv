@@ -24,3 +24,4 @@ id,name,effect_name,scale,pos,hero_pos,count,action,next_action,type,is_clip,cli
 23,-1,marry_cake,1,12|30,,0,texiao01,,1,,,,1,,,,,,,,
 24,-1,marry_cake,1,12|30,,0,idle,,1,,,,1,,,,,,,,
 25,-1,viewing_deck,0.5,17|26,,0,idle,,1,,,,,,,,,,,,
+26,-1,wenquanyuchi_zhuangshi,0.5,-20|-3.6,,0,texiao01,,1,,,,,,,,,,,,

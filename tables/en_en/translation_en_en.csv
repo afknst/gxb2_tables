@@ -596,7 +596,7 @@ FACEBOOK_REGISTER,Link to Facebook
 GOOGLE_REGISTER,Link to Google
 BATTLE_ERROR,Cannot fight
 EXIT_GAME_TIPS,Do you really wish to quit?
-PROPHET_SUMMON_GIFTBAG_TEXT01,Each Seal used will give 1 point. Event rewards will be sent via Mail after you've acquired enough points. You can receive rewards twice during the event!
+PROPHET_SUMMON_GIFTBAG_TEXT01,Each Seal used will give 1 point. Event rewards will be sent via Mail after you've acquired enough points. You can receive rewards 6 times during the event!
 PARTNER_GRADEUP,Girls Upgrade
 FRIEND_NAME_1,List
 FRIEND_NAME_2,Search
@@ -1596,7 +1596,7 @@ PERSON_MUSIC2,Classic
 PERSON_BTN_7,Music
 NORMAL_SLOT_MACHINE,Slot Machine
 HIGH_SLOT_MACHINE,High Stakes Slot Machine
-ACTIVITY_SCHOOL_GIFTBAG_HELP_TEXT,1. There are abundant rewards in each Gift Bag. Players can claim rewards in unlocked Gift Bags by signing in daily. |2. Locked Gift Bags will still hold their rewards. Players can claim all rewards stacked in them once when they're unlocked. |3. Click the Gift Bag to check the rewards. |4. The 4th Gift Bag will be unlocked once the 2nd Special Gift Pack is purchased.
+ACTIVITY_SCHOOL_GIFTBAG_HELP_TEXT,1. There are abundant rewards in each Gift Bag. Players can claim rewards in unlocked Gift Bags by signing in daily. |2. Locked Gift Bags will still hold their rewards. Players can claim all rewards stacked in them once when they're unlocked. |3. Click the Gift Bag to check the rewards. |4. The 3rd Gift Bag will be unlocked once the 2nd Special Gift Pack is purchased.
 CHAPTER_COUNT,Chapter {1}
 CHAPTER_TITLE,{1}-{2} {3}
 LOCK_STORY_LIST,This Chapter is locked.
@@ -4079,12 +4079,14 @@ PET_EVOLUTION_WINDOW_HELP,"1. Ulticore can be unlocked once servant reaches leve
 PET_EVOLUTION_WINDOW,Servant Ulticore
 UNCRIT,Crit Resist
 GUILD_COMPETITION_HELP,"
-Join forces with Guild members to defeat powerful enemies in Sky Island.|Sky Island Rules:|When Sky Island begins, players cannot quit Guild, remove a Guild member or disband Guild. Joining or creating a Guild is unaffected.|Score Rule|Each enemy can provide 100K Points in total, you will win their points according to the damage you deal.|Challenge Chances:|1. Each Guild member has a maximum of 3 Challenges a day.
-2. Each enemy can be challenged up to 30 times a day.|Real Battle vs Demo Battle|1. There are two battle modes that can be selected when battling enemies, Real Battle and Demo Battle.
-2. Real Battle: Consumes Challenges to battle; rewards and points can be earned when battle ends.
-3. Demo Battle: No Challenges consumed for this training battle, and no rewards or points can be earned in this mode. Demo Battle is still available even when Challenge chances have reached 0. When Demo Battle begins, the HP of enemies in this mode is the actual amount of HP the enemy has left in Real Battle.|Rewards:|1. Battle Rewards: Rewards can be obtained after each battle.
-2. Damage Rank Rewards: Guild members will be ranked according to points obtained from attacking enemies. The ranking of points obtained from enemies with different names will be calculated separately (e.g. the points you obtained by attacking Teresa from Lv1 to the highest level you reach will be calculated in a separate ranking list from the other 2 ranking lists made for the other 2 enemies), additional rewards according to ranking will be sent via Mail.
-3. Guild Rank Rewards: Guilds will be ranked according to the total points earned from Real Battle. Once Sky Island ends, rewards will be sent via Mail and according to rank to Guild members with more than 0 points (if players quit a Guild, are removed from their Guild or the Guild is disband, rewards can still be obtained)."
+Join forces with Guild members to defeat powerful enemies in Sky Island.|Member Restrictions:|When Sky Island begins, players cannot quit Guild, remove a Guild member or disband Guild. Joining or creating a Guild is unaffected.|Score Rule|Each enemy can provide 100K Points in total, you will win their points according to the damage you deal. Points will be calculated based on the HP percentage of the enemy that was lowered in the Real Battle.|Challenge Chances:|1. Each Guild member has a maximum of 3 Challenges per day.
+2. Each enemy can be challenged up to 30 times per day.|Real Battle vs Demo Battle|1. There are two battle modes that can be selected when battling enemies, Real Battle and Demo Battle.
+2. Real Battle: Consumes Challenges to battle; rewards and points can be earned when the battle ends.
+3. Demo Battle: No Challenges are consumed for this training battle, and no rewards or points can be earned in this mode. Demo Battle is still available even when Challenge chances have reached 0. When Demo Battle begins, the HP of enemies in this mode is the actual amount of HP the enemy has left in Real Battle.|Rewards:|1. Battle Rewards: Rewards can be obtained after each battle.
+2. Boss Defeat Rewards: Guild Members who participated in defeating the enemy will receive rewards when the enemy is defeated.
+3. Damage Rank Rewards: Guild members will be ranked according to points obtained from attacking enemies. The ranking of points obtained from enemies with different names will be calculated separately (e.g. the points you obtained by attacking one enemy from Lv1 to the highest level you reach will be calculated in a separate ranking list from the other 2 ranking lists made for the other 2 enemies). The Damage Rank Rewards will be sent via Mail after Sky Island ends.
+  When there are less than 10 participants of Sky Island in a Guild, the Damage Rank Rewards obtained will be lowered by 10%% for each participant missing. The Damage Rank Rewards will be lowered for at most 90%%.
+4. Guild Rank Rewards: Guilds will be ranked according to the total points earned from Real Battle. Once Sky Island ends, rewards according to rank will be sent to Guild members with more than 0 points. Frames will be added directly to the players’ accounts, and other rewards will still need to be claimed via Mail. (If players quit a Guild, are removed from their Guild or the Guild is disbanded, rewards can still be obtained)"
 BP_TAGS,Progress|Task|Exchange|Trophies
 BP_MISSION_TAGS,Daily|Weekly|Extra
 BP_SHOP_TAGS,Floral Stamp|Crystal Leaf|Flora Bookmark
@@ -4504,8 +4506,8 @@ ACTIVITY_POPULARITY_VOTE_TIMETEXT01,Group Match (Group A)
 ACTIVITY_POPULARITY_VOTE_TIMETEXT02,Group Match (Group B)
 ACTIVITY_POPULARITY_VOTE_TIMETEXT03,Group Match (Group C)
 ACTIVITY_POPULARITY_VOTE_TIMETEXT04,Group Match (Group D)
-ACTIVITY_POPULARITY_VOTE_TIMETEXT05,Round of 16 (part 1)
-ACTIVITY_POPULARITY_VOTE_TIMETEXT06,Round of 16 (part 2)
+ACTIVITY_POPULARITY_VOTE_TIMETEXT05,Elimination Round (part 1)
+ACTIVITY_POPULARITY_VOTE_TIMETEXT06,Elimination Round (part 2)
 ACTIVITY_POPULARITY_VOTE_TIMETEXT07,Quarter Finals
 ACTIVITY_POPULARITY_VOTE_TIMETEXT08,Semi Finals
 ACTIVITY_POPULARITY_VOTE_TIMETEXT09,Finals
@@ -4585,8 +4587,8 @@ ACTIVITY_POPULARITY_VOTE_TITLETEXT18,Group Match (Group A)
 ACTIVITY_POPULARITY_VOTE_TITLETEXT19,Group Match (Group B)
 ACTIVITY_POPULARITY_VOTE_TITLETEXT20,Group Match (Group C)
 ACTIVITY_POPULARITY_VOTE_TITLETEXT21,Group Match (Group D)
-ACTIVITY_POPULARITY_VOTE_TITLETEXT22,Round of 16 (part 1)
-ACTIVITY_POPULARITY_VOTE_TITLETEXT23,Round of 16 (part 2)
+ACTIVITY_POPULARITY_VOTE_TITLETEXT22,Elimination Round (part 1)
+ACTIVITY_POPULARITY_VOTE_TITLETEXT23,Elimination Round (part 2)
 ACTIVITY_POPULARITY_VOTE_TITLETEXT24,Quarter Finals
 ACTIVITY_POPULARITY_VOTE_TITLETEXT25,Semi Finals
 ACTIVITY_POPULARITY_VOTE_TITLETEXT26,Finals
@@ -4634,7 +4636,39 @@ LIFE_DES2,Send Gifts and date with your Girls to increase their Intimacy
 LIFE_DES3,Adjust your Outfits in the Locker Room!
 PERSON_DRESS_TIPS_1,This Outfit is currently not available
 SETTING_UP_VOLUME,Sound
+GUILD_POLICY_BTN_LABEL,Priority
+GUILD_OPEN_TYPE3,Can't join
+GUILD_OPEN_TYPE1,After Confirm
+GUILD_OPEN_TYPE2,Auto Pass
+GUILD_OPEN_TYPE_LABEL,Verification:
+GUILD_OPWER_LIMIT_LABEL,Power Limit:
+GUILD_POLICY_TEXT1,For Newbies
+GUILD_POLICY_TEXT2,EZ Game
+GUILD_POLICY_TEXT3,To the Top
+GUILD_POLICY_TEXT4,Daily Login
+GUILD_POLICY_TEXT5,Communication
+GUILD_POLICY_TEXT6,Grow Stronger
 PERSON_DRESS_MAIN_25,Replace
 PERSON_DRESS_MAIN_26,Take off
 PERSON_DRESS_MAIN_27,Equip
 LIFE_2,Life
+GUILD_POLICY_TITLE,Please select your Guild Priority
+GUILD_NUM_TIPS,Member:
+GUILD_LANG_TIPS,Main Language
+GUILD_POLICY_TIPS,Priority
+GUILD_APPLY_NO_ACCEPUT,The Guild currently doesn't need any new member.
+GUILD_APPLY_NEED_POWER,The Guild requires higher Power to enter
+GUILD_CHOOSE_FLAG,Choose Flag
+TRAVEL_MAIN_TEXT67,Common Enemy
+TRAVEL_MAIN_TEXT68,Elite Enemy
+TRAVEL_MAIN_TEXT69,Forgotten Chest
+TRAVEL_MAIN_TEXT70,Well-hidden Chest
+TRAVEL_MAIN_TEXT71,Help Seeker
+TRAVEL_MAIN_TEXT72,Market
+MONTH_CARD_TEXT001,Instant Reward
+MONTH_CARD_TEXT002,Daily Reward
+MONTH_CARD_TEXT003,Monthly Pass Additional Reward
+MONTH_CARD_TEXT004,"1. After purchasing Monthly Pass, you will instantly receive 900 Gems and 750 VIP points. You will also receive 370 Gems in Mail every day after purchasing, which will last for 30 days (amounting to a total of 12,000 Gems for purchasing the Monthly Pass).|In addition, after you reach VIP Level 2, you will get a daily bonus reward before the Monthly Pass expires. The reward gets better as your VIP level increases!|2. After purchasing Mini Pass, you will instantly receive 350 Gems and 250 VIP points. You will also receive 85 Gems in Mail every day after purchasing, which will last for 30 days.|Mini Pass does not provide an additional daily reward according to VIP level, but can be activated with a Monthly Pass at the same time!|3. A special discount will be given when purchasing a Monthly Pass or a Mini Pass for the first time. The discount will no longer be valid after your first purchase on each Pass."
+GUILD_POLICY_CHANGED_TIP,Guild Priority changed successfully
+GUILD_OPEN_TYPE_LABEL2,Verification
+GUILD_OPWER_LIMIT_LABEL2,Power Limit

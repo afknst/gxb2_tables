@@ -19,7 +19,7 @@ id,name,from,content
 18,Girls Assembly Rewards,System Message,Congratulations! You reached a goal during the Girls Assembly Event. The following are your rewards.
 19,Beta Period Reload Rebate,System Message,Thank you for purchasing {1}. Here is your bonus reward for supporting us during the testing phase!
 20,Lottery Rewards,System Message,Congratulations! You reached {1} points during the Slot Machine Event! Here are your rewards~!
-21,Daily Rewards,System Message,"Login daily during the event to get Super Slot Ticket x 1, Elemental Orb x 100, Percussion Mallet x 1. Your rewards are attached."
+21,Daily Rewards,System Message,Login daily during the event to get Super Slot Ticket * 1 and Elemental Orb * 100. Your rewards are attached.
 22,Internship Rewards,System Message,Congratulations! You've completed {1} star internship quest during the Internship Event! Here are your rewards.
 23,Reload Notice,System Message,Thank you for purchasing {1}. Your items are available in Bag. Have a look~!
 24,Daily Rewards,System Message,"Login every day during the event and you will receive Rudder x 5, Gem x 150, Scratch Ticket x 1. Your rewards are attached."
