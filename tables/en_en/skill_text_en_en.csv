@@ -8652,6 +8652,6 @@ Skill Effect, Angelica will Hunt the enemy with lowest HP percentage the same nu
 672506,Antique: Nightshade,Antique Skill,Revives owner with 60% of Maximum HP and 85 Energy after owner is defeated. (Can be triggered only once in each battle)
 501103,Sky Island,Immunity,Enemies are Immune to all Debuffs.
 501104,Sky Island,Energy Recovery,All enemies recover their Energy by 100 at the end of each round
-502105,天空島,Battle Spirit,"Starting from the 3rd round, all enemies increase their Attack by 10% at the end of each round."
-503105,天空島,Focus Fire,The Girl with the lowest HP will become a prioritized target when enemies are picking random target(s)
-503106,天空島,Lullaby,"Starting from the 3rd round, exerts Lullaby on all enemies for 2 rounds at the end of each round."
+502105,Sky Island,Battle Spirit,"Starting from the 3rd round, all enemies increase their Attack by 10% at the end of each round."
+503105,Sky Island,Focus Fire,The Girl with the lowest HP will become a prioritized target when enemies are picking random target(s)
+503106,Sky Island,Lullaby,"Starting from the 3rd round, exerts Lullaby on all enemies for 2 rounds at the end of each round."
