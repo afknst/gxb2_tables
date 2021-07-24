@@ -106,5 +106,18 @@ def print_cores(_lang="en_en", _lua=True):
             print(_k)
 
 
+def print_lab(_lua=True):
+    _P = Path("./tables/guild_skill.csv")
+    _T = pd.read_csv(_P)
+    for _r in range(len(_T)):
+        _R = _T.iloc[_r]
+        if _lua:
+            _r_new = "{" + f"skill_id={_R.id},skill_lv={_R.lv_max}" + "},"
+            print(_r_new)
+        else:
+            print(_R.id)
+
+
 if __name__ == "__main__":
-    print_pets(_lang="zh_tw", _lua=False)
+    # print_pets(_lang="zh_tw", _lua=False)
+    print_lab()
