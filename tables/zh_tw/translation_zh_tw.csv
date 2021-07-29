@@ -144,7 +144,7 @@ PUB_SPEED_FREE,免 費
 PUB_MISSION_COMPLETE2,完 成
 PUB_TICKET_NO_ENOUGH1,普通打工卷數量不足！
 PUB_TICKET_NO_ENOUGH2,高級打工卷數量不足！
-TAVERN_WINDOW_TIPS,1.在指定的時間內執行戰姬任務能獲得豐厚的獎勵。一個戰姬不能執行多個打工任務。|2.每日可完成的任務有數量限制，提升VIP等級可提高任務總數上限。|3.刷新可重置當前所有未開始執行的任務，每天定時自動刷新1次，你也可以透過花費鑽石刷新。|4.刷新後，使用任務卷軸增加的任務也會被重置。|5.花費鑽石可以加速完成正在執行中的任務。|6.各星打工任務刷新的機率如下：|1星任務25.6%%、2星任務27%%、3星任務23.2%%、4星任務15%%、5星任務8%%、6星任務1%%、7星任務0.2%%
+TAVERN_WINDOW_TIPS,1.在指定的時間內執行戰姬任務能獲得豐厚的獎勵。一個戰姬不能執行多個打工任務。|2.每日可完成的任務有數量限制，提升VIP等級可提高任務總數上限。|3.刷新可重置當前所有未開始執行的任務，每天定時自動刷新1次，你也可以透過花費鑽石刷新。|4.刷新後，使用任務卷軸增加的任務也會被重置。|5.花費鑽石可以加速完成正在執行中的任務。|6.各星打工任務刷新的機率如下：|1星任務25.6%%、2星任務27%%、3星任務23.2%%、4星任務15%%、5星任務8%%、6星任務1%%、7星任務0.2%%。|7.使用基礎打工任務卷軸，會獲得1-4星打工任務，各星打工任務的概率如下：|1星任務20%%、2星任務27%%、3星任務35%%、4星任務18%%。|使用高級打工任務卷軸，會獲得4-7星打工任務，各星打工任務的概率如下：|4星任務56%%、5星任務35%%、6星任務7%%、7星任務2%%。
 ITEM_SUMMON,召喚
 ITEM_SELL,出售
 ITEM_DETAIL,詳情
@@ -158,7 +158,7 @@ PERSON_EDIT_TIPS2,2-6個文字 或 4-12個字母
 SURE,確定
 PERSON_NO_CRYSTAL,您當前的鑽石不足！
 PERSON_INFO,個人資訊
-ALTAR_WINDOW_HELP,"1.戰姬進行轉學可得到經驗飲料、便當、同學錄等材料。|2.經驗飲料可用於提升戰姬的等級。|3.便當可用於提升戰姬的階級,戰姬進階後可以提升屬性，解鎖強大的被動技能。|4.同學錄可用於在轉學商店兌換強大的戰姬。|5.透過批量轉學，可以選擇各陣營3星戰姬轉學數量，進行批量轉學。|6.批量轉學會為學長自動保留20個隱蹤、神威、風見、曇華和4個修羅、辰星陣營的3星戰姬。"
+ALTAR_WINDOW_HELP,"1.戰姬進行轉學可得到經驗飲料、便當、同學錄等材料。|2.經驗飲料可用於提升戰姬的等級。|3.便當可用於提升戰姬的階級,戰姬進階後可以提升屬性，解鎖強大的被動技能。|4.同學錄可用於在轉學商店兌換強大的戰姬。|5.透過一鍵轉學，可以選擇各陣營3星戰姬轉學數量，進行一鍵轉學。|6.一鍵轉學會為學長自動保留20個隱蹤、神威、風見、曇華和4個修羅、辰星陣營的3星戰姬。"
 RIGHT_BLUE_BUTTON_1,福利社
 RIGHT_BLUE_BUTTON_2,販賣機
 RIGHT_BLUE_BUTTON_3,上頂樓
@@ -843,7 +843,7 @@ GUILD_TEXT01,社長很懶，什麽都沒有留下~
 GUILD_TEXT02,申請列表
 GUILD_TEXT03,成員
 GUILD_TEXT04,招募
-GUILD_TEXT05,社長不能退出社團噢~
+GUILD_TEXT05,需要轉讓社長或解散社團退出
 GUILD_TEXT06,確定要退出社團嗎？
 GUILD_TEXT07,在線
 GUILD_TEXT08,加入社團可開啟社團聊天，現在加入嗎？
@@ -1313,7 +1313,7 @@ IMG_GUIDE_BOSS_3,好友BOSS被打敗後，將透過[c][cc0011]信件[-][/c]發�
 IMG_GUIDE_BOSS_4,幫助好友擊殺BOSS可獲得[c][cc0011]擊殺獎勵[-][/c]
 IMG_GUIDE_BOSS_5,搜索和擊殺好友boss以獲得豐厚的獎勵和鑽石
 GUILD_WAR_TEXT01,沒有匹配到隊伍
-ALTAR_AUTO_TEXT,批量轉學
+ALTAR_AUTO_TEXT,一鍵轉學
 NO_AUTO_PARTNER,沒有可供智能放入的戰姬！
 VERSION_TIPS,檢測到新的遊戲資料，請重新載入遊戲
 PUB_MISSION_LIMIT_TIPS,當前擁有打工任務數量過多，請先去完成一些打工任務喔！
@@ -1775,7 +1775,7 @@ DAILY_QUIZ_DESC,有更高獎勵關卡可以挑戰點此圖前往挑戰
 DAILY_QUIZ_FIGHT_FIRST,請先點左側圖前往挑戰關卡
 SENIOR_SCROLL_IF_BUY,プレミアムガチャコインが足りません、購入しますか？
 TOWER_LEVEL,關卡 {1}
-MAKE_CAKE_HELP,1.可使用{1}在活動介面兌換獎品。|2.可兌換的獎勵一共有5個，第一個自動開啟，後續需要兌換前一檔獎勵中的任意一種道具即可解鎖下一個。|3.每次兌換道具都能獲得額外獎勵，每一檔的額外獎勵不同，以活動介面為準。|4.兌換介面將會開放15天，僅用於兌換獎勵。|5.如何獲得{1}：掛機掉落、超值禮包、特惠禮包、造型禮包、扭蛋迎新(6月11日至6月17日)、招生考核(6月18日至6月24日)。|6.活動結束後，未使用的{1}將會自動兌換成金幣，每個價格為20k，透過信件發放。
+MAKE_CAKE_HELP,1.可使用{1}在活動介面兌換獎品。|2.可兌換的獎勵一共有5個，第一個自動開啟，後續需要兌換前一檔獎勵中的任意一種道具即可解鎖下一個。|3.每次兌換道具都能獲得額外獎勵，每一檔的額外獎勵不同，以活動介面為準。|4.兌換介面將會開放15天，第15天僅用於兌換獎勵。|5.{1}的獲取途徑：掛機掉落、超值禮包、特惠禮包、造型禮包、漂流特惠補給、拉芙麗漂流記(7月30日至8月5日)、戰姬專屬任務(7月30日至8月5日)、扭蛋迎新(8月6日至8月12日)。|6.活動結束後，未使用的{1}將會自動兌換成金幣，每個價格為20k，透過信件發放。
 MAKE_CAKE_ITEM_TEXT1,第1個
 MAKE_CAKE_ITEM_TEXT2,第2個
 MAKE_CAKE_ITEM_TEXT3,第3個
@@ -2657,10 +2657,10 @@ ACTIVITY_FACTORY_PRODUCE_NUM,製作數量
 ACTIVITY_FACTORY_PRODUCE_COST,消耗材料
 ACTIVITY_FACTORY_TIPS,恭喜您成功製作了{1}！獲得了以下獎勵！
 ACTIVITY_FACTORY_EASTER_EGG,做出來的{1}被大尾喵吃了……不過還是獲得了獎勵！原來獎勵是大尾喵送來的！
-NEW_SUMMON_SPECIAL_HERO_GIFT_TEXT02,活動期間有更高機率獲得新戰姬：菲斯納、后羿。抽取次數越多，獲得新戰姬的機率越高。獎勵將透過信件發放喔~（注意：本週內透過招生無法獲得新戰姬）
+NEW_SUMMON_SPECIAL_HERO_GIFT_TEXT02,活動期間有更高機率獲得新戰姬：{1}。抽取次數越多，獲得新戰姬的機率越高。獎勵將透過信件發放喔~（注意：本週內透過招生無法獲得新戰姬）
 NEW_SUMMON_SPECIAL_HERO_GIFT_TEXT03,[c][d95b61]注意：[-][/c]\n在交換生中交換獲得戰姬無法得到獎勵。獎勵將透過信件發送喔~
 NEW_SUMMON_SPECIAL_HERO_GIFT_TEXT04,戰姬詳細資訊
-NEW_SUMMON_SPECIAL_HERO_GIFT_TEXT05,獲得菲斯納或后羿 {2} 次
+NEW_SUMMON_SPECIAL_HERO_GIFT_TEXT05,獲得{1} {2} 次
 NEED_HERO_GUIDE,學長，您還有可上陣的戰姬，點擊她們的頭像，派遣她們出戰吧！
 DELETE_CHAT_FOR_SURE,請確認是否刪除？
 ACTIVITY_FACTORY_TIPS1,還未選擇想獲得的獎勵！
@@ -3495,7 +3495,7 @@ LIMIT_BUY_TIMES,限購：{1}次
 ENTRANCE_TEST_HELP_DES_1_1_NONEWGIRL,新學期的入學測驗正式開始啦！\n近期有不少新學妹加入了幽夢學園，歡迎學長在入學測驗中體驗。
 GUILD_KICK_TIPS,是否將該玩家移出社團？
 ACADEMY_ASSESSMENT_WINDOW_HELP_NEW_2,"1.各位學長好，學院考核採用賽季模式，由考核日（13天）與展示日（1天）組成，每14天為一個賽季。|2.考核日開放6個學院的考核，學長只可使用該陣營戰姬進行挑戰。展示日關閉挑戰入口，重置學長挑戰進度並發放結算獎勵。|3.每個學院考核都有80層關卡，考核中的敵人每個賽季會進行輪換，敵人配置可透過關卡入口上方的詳情按鈕進行查看。|4.每挑戰1次關卡需要消耗1張考核憑證，考核憑證每日刷新至25張，請學長合理分配，當然可使用鑽石購買額外的考核憑證。|5.每個關卡在首次通關時能夠額外獲得豐厚的首通獎勵，首通獎勵只可獲得一次。由於學院考核進行了改版，學院將在第一次賽季時為每一位學長重置一次首通進度。後續賽季重置後，將不會再有首通獎勵。|6.挑戰成功可獲得通關獎勵，同時已通關的關卡可以消耗通關憑證獲得掃蕩獎勵，掃蕩必定成功。|7.學長每日將會獲得2張通關憑證，當學長首次挑戰成功任意學院的第9/18/30關時，次日起會分別增加1張每日獲得的通關憑證，最多增加3張，同時立即獲得1張通關憑證，不同學院不會重複疊加。（例：學長首次挑戰成功任意學院的第9關後，將立即獲得1張通關憑證，第二天開始每日將可獲得3張通關憑證用於掃蕩）|8.學長可以使用鑽石購買額外的通關憑證，購買單價會隨著購買次數逐漸增加，每日最多購買10次。（購買的通關憑證未使用會被重置）|9.考核憑證與通關憑證會在每日的00:00（UTC/GMT 0)重置。|10.挑戰通過（並非掃蕩）任意關卡均可獲得考核積分，其中每個陣營的1-20關每關可獲得1分，21-40關每關可獲得2分，41-60關每關可獲得4分,61-80關每關可獲得6分。結算日會根據學長的總通關積分透過信件發放獎勵並重置積分。|11.每個學院考核積分最高的學長，會在結算日開始時額外獲得限時14天的頭像框獎勵；若有多名學長積分並列第一，將按照通關時間長短為多名玩家（至多10名）發放頭像框獎勵，獎勵將透過信件發放。"
-GACHA_GUARANTEE_TEXT,1.活動期間，所有5星戰姬的獲取機率全部[c][DE512B]翻倍[-][/c]。|2.每抽[c][DE512B]100[-][/c]次高級扭蛋，獲取新戰姬的機率將在兩倍的基礎上額外提升。|3.進度達[c][DE512B]500[-][/c]次時，必出[c][DE512B]菲斯納或后羿[-][/c]。抽到該位新戰姬後，進度清零。
+GACHA_GUARANTEE_TEXT,1.活動期間，所有5星戰姬的獲取機率全部[c][DE512B]翻倍[-][/c]。|2.每抽[c][DE512B]100[-][/c]次高級扭蛋，獲取新戰姬的機率將在兩倍的基礎上額外提升。|3.進度達[c][DE512B]500[-][/c]次時，必出[c][DE512B]{1}[-][/c]。抽到該位新戰姬後，進度清零。
 GACHA_GUARANTEE_UP,機率UP
 ACTIVITY_ICE_SECRET_BOSS_TEXT01,剩餘挑戰次數：{1}
 ACTIVITY_ICE_SECRET_BOSS_TEXT02,挑戰次數不足！
@@ -3721,10 +3721,10 @@ ACTIVITY_LAFULI_DRIFT_MAX,所有資源格等級均已最高
 ACTIVITY_LAFULI_DRIFT_WATER,漩渦限制了前進的步伐，下次前進的格子數減半
 HOUSE_TEXT_59,剩餘數量
 ALTAR_AUTO_TEXT02,請選擇各陣營3星戰姬轉學數量。系統會為學長自動保留20個隱蹤、神威、風見、曇華和4個修羅、辰星陣營的3星戰姬。
-ALTAR_AUTO_TEXT03,批量轉學
+ALTAR_AUTO_TEXT03,一鍵轉學
 ALTAR_AUTO_TEXT04,確定要讓{1}個3星戰姬轉學走嗎？
-ALTAR_AUTO_TEXT05,批量轉學中……
-ALTAR_AUTO_TEXT01,批量轉學數量為0
+ALTAR_AUTO_TEXT05,一鍵轉學中……
+ALTAR_AUTO_TEXT01,一鍵轉學數量為0
 ACTIVITY_YEAR_FUND_HELP,1.活動分為購買期和領取期。|2.購買期結束後活動將消失，請及時購買。|3.購買後將立即獲得鑽石，並從購買當天起，30天內都可以在活動介面領取豪華獎勵。|4.購買後當天忘記領取的獎勵，仍然可以在活動期間花費少量鑽石進行補領。
 ACTIVITY_YEAR_FUND_NOTICE_TEXT01,補領當前獎勵將花費{1}鑽石，是否繼續？
 ACTIVITY_DOLL_BUY,娃娃兌換
@@ -4162,7 +4162,7 @@ STAGE_UNLOCK_TEXT03,通關關卡{1}，擁有10星以上戰姬，上頂樓300層�
 CDKEY_TEXT05,兌換碼：
 LOGIN_LOADING_FAIL,加載失敗
 ACTIVITY_BOMB_MAKE,製作煙花
-ACTIVITY_BOMB_10_MAKE,批量製作
+ACTIVITY_BOMB_10_MAKE,一鍵製作
 ACTIVITY_BOMB_UNLOCK,Lv.{1} 解鎖
 ACTIVITY_BOMB_LEVEL,熟練度 LV.{1}
 ACTIVITY_BOMB_HELP,1.活動期間，學長可以製作「特製煙花」兌換各種獎勵。|2.每次製作需要消耗「魔法粉塵」，製作成功將會獲得數量不等的「特製煙花」，同時也有極小機率失敗（返還部分材料）。學長也可一次性投入10倍的材料並獲得10倍產出哦~。|3.每次製作均會獲得與消耗「魔法粉塵」相同數量的熟練度（無論成功與否），當熟練度達到一定等級時，可解鎖部分獎勵的兌換資格。
@@ -4347,10 +4347,10 @@ ACTIVITY_GIFTBAG_OPTIONAL_TEXT01,可從下列物品中選擇4項
 ACTIVITY_GIFTBAG_OPTIONAL_TEXT02,最多可選擇4個道具
 ACTIVITY_GIFTBAG_OPTIONAL_TEXT03,請選擇道具
 PUB_MISSION_AUTO_TEXT01,沒有可以打工的任務
-PUB_MISSION_AUTO_TEXT02,批量打工
+PUB_MISSION_AUTO_TEXT02,一鍵打工
 PUB_MISSION_AUTO_TEXT03,使用打工任務卷軸
 PUB_MISSION_AUTO_TEXT04,使用{1}中……
-PUB_MISSION_AUTO_TEXT05,批量打工
+PUB_MISSION_AUTO_TEXT05,一鍵打工
 QUESTIONNAIRE_TIPS,文本字數不可超過250個文字或1000個字母，且行數不可超過{1}行
 COPY,複製
 PASTE,粘貼
@@ -4482,7 +4482,7 @@ ACTIVITY_RETURN_GIFT_TEXT,禮包內容自選
 ENTRANCE_TEST_SHOWS_TIPS,預測成功 [c][0x723c1c size=34]雙倍[-][/c] 金幣返還
 ENTRANCE_TEST_GUESS_CHANGE,更改預測
 REPAIR_TO_RESET_GAME,修復完成後會自動重啟遊戲，是否確認？
-PUB_MISSION_AUTO_HELP,1.批量打工可以幫助學長快速安排戰姬執行任務，獲得豐厚獎勵。|2.已完成和正在執行中的任務達到一定數量時，無法安排戰姬打工，請學長領取已完成的任務獎勵。|3.學長想選擇指定星級的任務進行打工，可以點擊選擇介面下方對應星級圖標。|4.對於不想安排打工的任務，學長可以點擊對勾取消勾選。
+PUB_MISSION_AUTO_HELP,1.一鍵打工可以幫助學長快速安排戰姬執行任務，獲得豐厚獎勵。|2.已完成和正在執行中的任務達到一定數量時，無法安排戰姬打工，請學長領取已完成的任務獎勵。|3.學長想選擇指定星級的任務進行打工，可以點擊選擇介面下方對應星級圖標。|4.對於不想安排打工的任務，學長可以點擊對勾取消勾選。
 ENTRANCE_TEST_GUESS_CHANGE_TIPS,要以相同檔位改投這隻隊伍嗎？
 ACTIVITY_RESIDENT_RETURN_RECOMMENT1,學長，好久不見了呢！
 ACTIVITY_RESIDENT_RETURN_RECOMMENT2,我們為您推薦了合適的好友和社團喲！
@@ -4671,3 +4671,43 @@ MONTH_CARD_TEXT004,1.當購買月卡後：|你將會立即得到900鑽石和750V
 GUILD_POLICY_CHANGED_TIP,社團主要方針已成功更改
 GUILD_OPEN_TYPE_LABEL2,驗證方式
 GUILD_OPWER_LIMIT_LABEL2,戰力限制
+ACTIVITY_BEACH_ISLAND_HELP,1.活動期間，完成任務可獲得獎勵，任務每日刷新。|2.學長需要使用預設的戰姬進行戰鬥，通過關卡可獲得一次性通關獎勵。|3.完成關卡挑戰目標可獲得星星，累計達到一定數量可領取獎勵。
+ACTIVITY_BEACH_ISLAND_TEXT01,每日任務
+ACTIVITY_BEACH_ISLAND_TEXT02,刷新倒計時
+ACTIVITY_BEACH_ISLAND_TEXT03,需要通過上一關
+ACTIVITY_BEACH_ISLAND_TEXT04,關卡-{1}
+ACTIVITY_BEACH_ISLAND_TEXT05,本關敵人
+ACTIVITY_BEACH_ISLAND_TEXT06,通關獎勵
+ACTIVITY_BEACH_ISLAND_TEXT07,挑戰目標
+ACTIVITY_BEACH_ISLAND_TEXT08,挑戰獎勵
+ACTIVITY_BEACH_ISLAND_TEXT09,已獲得星星數
+ACTIVITY_BEACH_ISLAND_TEXT10,總計獲得 {1} 顆星星
+ACTIVITY_BEACH_PUZZLE_HELP,1.活動期間，消耗彩色細沙將對隨機一個格子進行上色，每次上色均可獲得一份隨機獎勵。|2.指定區域的格子全部上色後，可獲得該區域的獎勵；所有區域均上色後，可獲得本輪繪圖獎勵並進入下一輪。
+ACTIVITY_BEACH_PUZZLE_TEXT01,上色
+ACTIVITY_BEACH_PUZZLE_TEXT02,NEXT
+ACTIVITY_BEACH_PUZZLE_TEXT03,是否消耗{1}個{2}進行上色？
+ACTIVITY_BEACH_PUZZLE_TEXT04,獎勵預覽
+ACTIVITY_BEACH_PUZZLE_TEXT05,每次上色獎勵
+ACTIVITY_BEACH_PUZZLE_TEXT06,完成繪圖獎勵
+ACTIVITY_BEACH_PUZZLE_TEXT07,完成 {1} 輪繪圖
+ACTIVITY_BEACH_SHOP_TEXT01,新造型
+ACTIVITY_BEACH_SHOP_TEXT02,返場
+ACTIVITY_BEACH_SHOP_TEXT03,是否使用{1}個{2}進行兌換？
+ACTIVITY_BEACH_MAIN_WINDOW_TEXT01,夏日泳裝造型等你獲取
+ACTIVITY_BEACH_MAIN_WINDOW_TEXT02,立即前往
+ACTIVITY_BEACH_MAIN_WINDOW_TEXT03,點擊空白區域關閉介面
+DAILY_QUIZ_TEXT01,一鍵領取
+DRESS_SUIT_WINDOW_1,套裝
+DRESS_SUIT_WINDOW_2,自定義
+DRESS_SUIT_WINDOW_3,套裝選擇
+DRESS_SUIT_WINDOW_4,暫無可用套装
+MANA_QUIZ2,金幣測驗[size=26]{1}
+EXP_QUIZ2,經驗測驗[size=26]{1}
+HERO_QUIZ2,戰姬測驗[size=26]{1}
+DAILY_QUIZ_TEXT02,請輸入領取次數：
+DAILY_QUIZ_TEXT03,領取次數不足
+DRESS_SUIT_WINDOW_5,裝扮與穿著一致，無需保存
+DRESS_SUIT_WINDOW_6,是否刪除裝扮組合{1}？
+DRESS_SUIT_WINDOW_7,是否使用當前裝扮配置覆蓋？
+DRESS_SUIT_WINDOW_8,是否應用裝扮組合{1}
+DRESS_SUIT_WINDOW_9,裝扮與穿著一致，無需應用

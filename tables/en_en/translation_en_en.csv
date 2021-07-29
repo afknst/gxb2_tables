@@ -144,7 +144,7 @@ PUB_SPEED_FREE,Free
 PUB_MISSION_COMPLETE2,Finish
 PUB_TICKET_NO_ENOUGH1,You don't have any Internship Scrolls!
 PUB_TICKET_NO_ENOUGH2,Not enough Advanced Internship Scrolls!
-TAVERN_WINDOW_TIPS,"1. Generous rewards are given for completing Internships in the given amount of time. Each Girl can only perform one task at a time. |2. There is a daily limit for available Internships. You can increase this limit by upgrading your VIP Level. |3. Internships that have not yet been started can be refreshed. You can spend Gems to refresh Internships that you don't want. |4. You can use Internship Scrolls to add additional Internships. |5. You can spend Gems to speed up the process.|6. Odds for refreshing Internships: 1-star quest: 25.6%%, 2-star quest: 27%%, 3-star quest: 23.2%%, 4-star quest: 15%%, 5-star quest: 8%%, 6-star quest: 1%%, 7-star quest: 0.2%%"
+TAVERN_WINDOW_TIPS,"1. Rewards will be given for completing Internships in the given amount of time. Each Girl can only perform 1 task at a time.|2. There is a daily limit for available Internships. You can increase this limit by upgrading your VIP level.|3. Internships that have not yet been started can be refreshed. You can spend Gems to refresh Internships that you don't want.|4. You can use Internship Scrolls to get additional Internships (The Internships acquired this way can also be refreshed).|5. You can spend Gems to speed up the process.|6. Odds for refreshing Internships: 1-star quest: 25.6%%, 2-star quest: 27%%, 3-star quest: 23.2%%, 4-star quest: 15%%, 5-star quest: 8%%, 6-star quest: 1%%, 7-star quest: 0.2%%.|Odds for using Internship Scroll: 1-star quest: 20%%, 2-star quest: 27%%, 3-star quest: 35%%, 4-star quest: 18%%.|Odds for using Advance Internship Scroll: 4-star quest: 56%%, 5-star quest: 35%%, 6-star quest: 7%%, 7-star quest: 2%%."
 ITEM_SUMMON,Summon
 ITEM_SELL,Sell
 ITEM_DETAIL,Details
@@ -836,7 +836,7 @@ GUILD_TEXT01,Our leader is so lazy! No messages yet~
 GUILD_TEXT02,Requests
 GUILD_TEXT03,Members
 GUILD_TEXT04,Recruit
-GUILD_TEXT05,The Leader can't leave the guild!
+GUILD_TEXT05,You will need to transfer your Guild Leader title or dismiss the guild before quitting
 GUILD_TEXT06,Are you sure you want to leave the Guild?
 GUILD_TEXT07,Online
 GUILD_TEXT08,Join Guild to unlock Guild Messages. Join now?
@@ -1764,7 +1764,7 @@ DAILY_QUIZ_DESC,There are higher levels of reward to be earned. Tap here to chal
 DAILY_QUIZ_FIGHT_FIRST,Please tap the image on the left to switch the quiz level.
 SENIOR_SCROLL_IF_BUY,プレミアムガチャコインが足りません、購入しますか？
 TOWER_LEVEL,Stage{1}
-MAKE_CAKE_HELP,"1. {1} can be used to exchange prizes at the event interface. | 2. There are five stages in total. The first stage is opened by default. The next stage needs to be unlocked by exchanging any one of the items of the previous one. | 3. Every exchange can get an extra reward for the current stage. The extra rewards for each stage are different and are mentioned in the exchange pages. |4. The exchange page will exist 15 days, and on the last day, {1} will be removed from loot drop.|5. {1} can be received in the following ways: Campaign Loot, purchasing event value packs, Special Skin Packs and Special Gift Packs, completing Girls X Capsule Points event (available from 6/11 to 6/17) and Enroll Exam (available from 6/18 to 6/24).|6. The unused {1} will be automatically exchanged into Coins at the rate of 20K Coins each after the event is over. The Coins will be sent via Mail."
+MAKE_CAKE_HELP,"1. {1} can be used to exchange prizes at the event interface. | 2. There are five stages in total. The first stage is opened by default. The next stage needs to be unlocked by exchanging any one of the items of the previous one. | 3. Every exchange can get an extra reward for the current stage. The extra rewards for each stage are different and are mentioned in the exchange pages. |4. The exchange page will exist 15 days, and on the last day, {1} will be removed from loot drop.|5. {1} can be received in the following ways: Campaign Loot, purchasing event value packs, Special Skin Packs and Special Gift Packs, Luvly's Elite Supply ,completing Luvly's Journey (available from 7/30 to 8/05), Exclusive Task and Girls X Capsule Points (available from 8/06 to 8/12).|6. The unused {1} will be automatically exchanged into Coins at the rate of 20K Coins each after the event is over. The Coins will be sent via Mail."
 MAKE_CAKE_ITEM_TEXT1,First
 MAKE_CAKE_ITEM_TEXT2,Second
 MAKE_CAKE_ITEM_TEXT3,Third
@@ -2656,10 +2656,10 @@ ACTIVITY_FACTORY_PRODUCE_NUM,Amount
 ACTIVITY_FACTORY_PRODUCE_COST,Material Required
 ACTIVITY_FACTORY_TIPS,"Congratulations, you've produced a perfect {1}! Here is your reward!"
 ACTIVITY_FACTORY_EASTER_EGG,The {1} you made is eaten by a Hunter… But your reward is still issued! The Hunter paid for your cake!
-NEW_SUMMON_SPECIAL_HERO_GIFT_TEXT02,"During the event, you have a higher chance to obtain Frexie and Angelica. The more times you draw, the higher chance you will have to get Frexie and Angelica. The rewards will be issued via Mail! (Hint: you cannot obtain the new Girls from Enroll in this week)"
+NEW_SUMMON_SPECIAL_HERO_GIFT_TEXT02,"During the event, there's a higher chance of getting the new girl: {1}. You will get a higher chance to acquire new girl as you draw more times from Advanced Capsule. (Tips: You cannot acquire the new girl from Enroll this week)"
 NEW_SUMMON_SPECIAL_HERO_GIFT_TEXT03,"[c][d95b61]Hint:[-][/c]\nIf the girl is obtained from Enroll-Exchange, rewards will be sent via Mail."
 NEW_SUMMON_SPECIAL_HERO_GIFT_TEXT04,Details
-NEW_SUMMON_SPECIAL_HERO_GIFT_TEXT05,Obtain Frexie or Angelica {2} Time(s)
+NEW_SUMMON_SPECIAL_HERO_GIFT_TEXT05,Acquire {1} {2} time(s)
 NEED_HERO_GUIDE,"Dear Senpai, you still got Girls available for this battle, tap on their avatars and deploy them!"
 DELETE_CHAT_FOR_SURE,Are you sure to delete this message?
 ACTIVITY_FACTORY_TIPS1,You still need to choose your reward!
@@ -3494,7 +3494,7 @@ LIMIT_BUY_TIMES,Purchase limit: {1}
 ENTRANCE_TEST_HELP_DES_1_1_NONEWGIRL,The Entrance Exam for the new semester has begun!\nIt's a perfect chance for you to test out the new Girls on campus!
 GUILD_KICK_TIPS,Are you sure to remove this player from your Guild?
 ACADEMY_ASSESSMENT_WINDOW_HELP_NEW_2,"1. The new version of the feature: House Exams is updated. It now will be divided into seasons that are made up of an exam period (13 days) and a result display period (1 day).|2. The Exams of 6 Houses will all be available during the exam period. But only the girls in the corresponding faction can be used in the exams. You will have your Exam progress reset and receive rewards according to your progress in this season(before the reset) in the result display period.|3. The Exam for each House has 80 stages, the enemies will be different in each season. You will be able to check the detail of the enemy lineups of each stage by tapping the button in the top right corner of the stage.|4. The Admission Tickets will be refreshed to 25 each day, you can purchase more Admission Tickets with Gems.|5. You will get an additional reward for the first time you pass a stage. This reward won't be refreshed by seasons. (But if you have acquired the reward in the old version of this feature, you will still be able to acquire it again for once in the new version)|6. You will get rewards for passing a stage. You will also be able to raid the passed levels with Certificates for additional rewards.|7. The Certificate you hold will be refreshed to 2 each day. And you will increase your daily Certificate refresh amount to 3/4/5 after passing Stage 9/18/30 in the exam of any one of the 6 Houses and get 1 additional Certificate on the day you achieve this.|8. You are able to purchase 10 additional Certificates with Gems (The price of Certificates will increase gradually as you buy more in a day) each day. (Certificate you have will also be refreshed so please use them up in time).|9. The daily refresh time for Admission Tickets and Certificates will be at 0:00 （UTC/GMT 0) every day.|10. You will get Exam Scores for passing (not raiding) stages. You can get 1 Exam Score for passing Stage 1-20, 2 Exam Scores for passing Stage 21-40, 4 Exam Scores for passing Stage 41-60 and 6 Exam Scores for passing Stage 61-80. You will get different rewards on the result display days according to the total Exam Scores you get|11. The player who gets the highest score in the exam of a House will also get a frame that lasts for 14 days from that house. If multiple players get the same Exam Score in 1 season, their position in the ranking list will be arranged according to the time they pass the test. 10 players at most can get the frame in the exam of a House this way(Which means they will also need to get the same highest scores instead of just being in Top 10 of the ranking list). The rewards will be issued via Mail."
-GACHA_GUARANTEE_TEXT,"1. During the event, all chances to obtain 5-star girls will be [c][DE512B]doubled[-][/c].|2. For every [c][DE512B]100[-][/c] Advanced Capsules drawn, an additional increased rate to obtain the new Girl will be added on top of the doubled rate.|3. Once [c][DE512B]500[-][/c] draws have been reached, [c][DE512B]Angelica or Frexie[-][/c] is guaranteed to be drawn. Thereafter, your progress will reset."
+GACHA_GUARANTEE_TEXT,"1. During the event, all chances to obtain 5-star girls will be [c][DE512B]doubled[-][/c].|2. For every [c][DE512B]100[-][/c] Advanced Capsules drawn, an additional increased rate to obtain the new Girl will be added on top of the doubled rate.|3. Once [c][DE512B]500[-][/c] draws have been reached, [c][DE512B]{1}[-][/c] is guaranteed to be drawn. Thereafter, your progress will reset."
 GACHA_GUARANTEE_UP,Rate UP
 ACTIVITY_ICE_SECRET_BOSS_TEXT01,Chances:{1}
 ACTIVITY_ICE_SECRET_BOSS_TEXT02,Not enough Challenge Chance!
@@ -3722,7 +3722,7 @@ HOUSE_TEXT_59,Remaining
 ALTAR_AUTO_TEXT02,"Please select the amount of 3-Star Girls for each faction. Smart Select Transfer will automatically keep 20 Ghost, Human, Monster, Fairy and 4 Demon and Angel Faction 3-Star Girls."
 ALTAR_AUTO_TEXT03,Bulk Transfer
 ALTAR_AUTO_TEXT04,Transfer {1} 3-Star Girl?
-ALTAR_AUTO_TEXT05,Bulk Transferring...
+ALTAR_AUTO_TEXT05,Bulk Transferring
 ALTAR_AUTO_TEXT01,No Girl is selected
 ACTIVITY_YEAR_FUND_HELP,"1. The event is divided into a Purchase Period and a Collection Period.|2. Please ensure all purchases are made within the Purchase Period (this period will no longer be available once it's over)|3. Gems will be received instantly after purchase. From the day of purchase onwards, players can claim valuable rewards on the event page within 30 days.|4. After purchase, players can spend gems to claim any unclaimed rewards."
 ACTIVITY_YEAR_FUND_NOTICE_TEXT01,"{1} Gems required to reclaim this reward, continue?"
@@ -4161,7 +4161,7 @@ STAGE_UNLOCK_TEXT03,"Pass stage {1}, own a 10-star or higher Girl and reach Test
 CDKEY_TEXT05,Gift Code:
 LOGIN_LOADING_FAIL,Loading Failed
 ACTIVITY_BOMB_MAKE,Craft
-ACTIVITY_BOMB_10_MAKE,Craft 10
+ACTIVITY_BOMB_10_MAKE,Craft All
 ACTIVITY_BOMB_UNLOCK,Unlock Lv.{1}
 ACTIVITY_BOMB_LEVEL,Mastery Lv.{1}
 ACTIVITY_BOMB_HELP,"1. During the event, create Special Fireworks to exchange various rewards.|2. Magic Powder is required to create Special Fireworks, if the outcome is successful, different amounts of Special Fireworks can be obtained, however, there is also a chance that the outcome is unsuccessful where certain materials will be returned. Players can also use 10 times the amount of material in one go to obtain same 10 outcomes!|3. Each creation will gain players Mastery Points equivalent to the amount of Magic Powder consumed (whether the outcome is successful or unsuccessful), once Mastery Points have reached a certain level, certain rewards can be unlocked to be exchanged."
@@ -4421,7 +4421,7 @@ PET_TRAINING_TEXT14,Training Room
 PET_TRAINING_TEXT15,Upgrade rewards will be sent via Mail
 PET_TRAINING_TEXT16,Unlock after Training Room reaches Lv.{1}
 PET_TRAINING_TEXT17,Reward Bonus: {1}
-PET_TRAINING_HELP,"Servant Training|1. You can take Training Courses and challenge Training Dummies to acquire Servant Training Exp and Servant Crystals|2. You can use Servant Training Exp to upgrade your training room and unlock more Training Courses and stronger Training Dummies||Training Course|1. Each course requires 1-3 Servant(s) to participate, you can collect corresponding rewards after a Training Course is over.|2. The rewards for Training Courses will be better if the level of participating Servant(s) is/are higher.|3. You can take 3 Training Courses at a time at most.||Training Dummy|1. Only Servants over Lv. 120 can challenge the Training Dummies.|2. You have 2 free chances to challenge Training Dummies each day, each of your Servants has 2 points of Stamina each day, they can only challenge a Training Dummy when they have more than 1 Stamina point.|3. You will consume 1 challenge chance and 1 Stamina of your Servant when you challenge a Training Dummy. You can purchase additional Servant Stamina with Gems twice a day and you will get 1 additional challenge chance each time of purchase.|4. When challenging a Training Dummy, you will need to choose 1 Servant to deal damage to the dummy. The damage dealt is based on the Servant's Level, Aura Level and Ulticore Level.|5. The HP of Training Dummies won’t reset to 100%% after each challenge, but they will revive and will be available to be challenged again once they are defeated.|6. You can switch the level of a Training Dummy as you wish anytime, but the HP of the Training Dummy will reset to 100%% after that.|7. You will be awarded after each time you challenge the Training Dummy and will get an additional reward for defeating a Training Dummy, this reward will be different according to the level of the defeated Training Dummy."
+PET_TRAINING_HELP,"Servant Training|1. You can take Training Courses and challenge Training Dummies to acquire Servant Training Exp and Servant Crystals|2. You can use Servant Training Exp to upgrade your training room and unlock more Training Courses and stronger Training Dummies||Training Course|1. Each course requires 1-3 Servant(s) to participate, you can collect corresponding rewards after a Training Course is over.|2. The rewards for Training Courses will be better if the level of participating Servant(s) is/are higher.|3. You can take 3 Training Courses at a time at most.||Training Dummy|1. Only Servants over Lv. 120 can challenge the Training Dummies.|2. You have 3 free chances to challenge Training Dummies each day, each of your Servants has 2 points of Stamina each day, they can only challenge a Training Dummy when they have more than 1 Stamina point.|3. You will consume 1 challenge chance and 1 Stamina of your Servant when you challenge a Training Dummy. You can purchase additional Servant Stamina with Gems twice a day and you will get 1 additional challenge chance each time of purchase.|4. When challenging a Training Dummy, you will need to choose 1 Servant to deal damage to the dummy. The damage dealt is based on the Servant's Level, Aura Level and Ulticore Level.|5. The HP of Training Dummies won’t reset to 100%% after each challenge, but they will revive and will be available to be challenged again once they are defeated.|6. You can switch the level of a Training Dummy as you wish anytime, but the HP of the Training Dummy will reset to 100%% after that.|7. You will be awarded after each time you challenge the Training Dummy and will get an additional reward for defeating a Training Dummy, this reward will be different according to the level of the defeated Training Dummy."
 GUILD_BOSS_MAIL_TITLE,Guild Member selected
 PET_TRAINING_TEXT18,You can purchase {1} times in a day
 PET_TRAINING_TEXT19,Confirm to purchase 1 additional Stamina (and an additional challenge chance) with {1} Gems?
@@ -4500,7 +4500,7 @@ ACTIVITY_3BIRTHDAY_TEXT06,Give out {1} Times
 ACTIVITY_3BIRTHDAY_HELP,"1. During the event, you can get rewards by giving away Fine Liquors.|2. You will get 6 Rose Pins every time you give away 10 Fine Liquors, there's a chance for you to trigger Crit and get 150%% reward. Girls will react differently when you give Fine Liquors to them. Kratos provides a doubled Crit chance and Teresa increases the Crit reward to 200%%.|3. Once you’ve given out Fine Liquor and have reached a certain amount, additional rewards can be obtained.|4. Rose Pins you acquired by giving away Fine Liquors can be used in event: Hidden Cellar.|5. Once the event ends, the remaining Fine Liquors and Rose Pins will automatically be recycled into Coins at a rate of 50k per Fine Liquor and 100k per Rose Pin."
 ACTIVITY_3BIRTHDAY_GAMBLE_HELP,"1. During the event, you can use Rose Pins to draw rewards from Cabinets.|2. Luxury Cabinet will cost you more Rose Pins than Normal Cabinets but can provide better rewards. You can tap on the maginfying glass button to check out the reward details."
 ACTIVITY_POPULARITY_VOTE_HELPTEXT01,"1. During the event, you vote for your favorite Girl with vote tickets that can be obtained by completing Daily Tasks.|2. There are 2 types of vote tickets, Popular Vote Tickets can only be used on the day you get them. Support Vote Tickets have a longer expiration date and can be used anytime during the event.|3. This event has Group Matches, Knockout Stage and Results Phase. The Top 4 Girls in each group can get to the Knockout Stage. After the final winner is concluded, the event will enter a Results Phase and display the final champion. You will not be able to vote for Girls or get more vote tickets during this period.|4. You can out the detailed schedule in Schedule.|5. You can get additional rewards by voting for the Girls.|6. An exclusive NEW SKIN will be designed for the champion Girl of this event.|7. All vote tickets will be removed after the event is over."
-ACTIVITY_POPULARITY_VOTE_HELPTEXT02,"The TOP100 players who vote the most during ""Miss Yume Pageant"" are displayed on the supporter ranking list."
+ACTIVITY_POPULARITY_VOTE_HELPTEXT02,"The TOP100 players who vote the most for the winner during ""Miss Yume Pageant"" are displayed on the supporter ranking list."
 ACTIVITY_POPULARITY_VOTE_HELPTEXT03,1. The previous winners and the votes they received are displayed on History page.|2. You cannot vote or claim rewards on this page. Tap the return button in top right corner of this page to return to the main page.
 ACTIVITY_POPULARITY_VOTE_TIMETEXT01,Group Match (Group A)
 ACTIVITY_POPULARITY_VOTE_TIMETEXT02,Group Match (Group B)
@@ -4672,3 +4672,43 @@ MONTH_CARD_TEXT004,"1. After purchasing Monthly Pass, you will instantly receive
 GUILD_POLICY_CHANGED_TIP,Guild Priority changed successfully
 GUILD_OPEN_TYPE_LABEL2,Verification
 GUILD_OPWER_LIMIT_LABEL2,Power Limit
+ACTIVITY_BEACH_ISLAND_HELP,"1. Complete the tasks to get rewards during the event, the tasks will be refreshed daily.|2. You need to fight with default Girls provided in the event. You will get rewards for passing each stage.|3. Stars can be obtained by completing stage challenges. Reach target progress to obtain additional rewards."
+ACTIVITY_BEACH_ISLAND_TEXT01,Daily Task
+ACTIVITY_BEACH_ISLAND_TEXT02,Refresh
+ACTIVITY_BEACH_ISLAND_TEXT03,Need to pass the previous stage first
+ACTIVITY_BEACH_ISLAND_TEXT04,Stage {1}
+ACTIVITY_BEACH_ISLAND_TEXT05,Enemy
+ACTIVITY_BEACH_ISLAND_TEXT06,Reward
+ACTIVITY_BEACH_ISLAND_TEXT07,Challenge
+ACTIVITY_BEACH_ISLAND_TEXT08,Challenge Reward
+ACTIVITY_BEACH_ISLAND_TEXT09,Stars acquired
+ACTIVITY_BEACH_ISLAND_TEXT10,Acquire {1} stars in total
+ACTIVITY_BEACH_PUZZLE_HELP,"1. During the event, you can consume Colorful Sand to color a random block. You can receive a random reward by coloring each block.|2.. After coloring a certain area, you will receive corresponding rewards. Once all the blocks are colored, you will receive a Completion Reward and enter the next round."
+ACTIVITY_BEACH_PUZZLE_TEXT01,Color
+ACTIVITY_BEACH_PUZZLE_TEXT02,NEXT
+ACTIVITY_BEACH_PUZZLE_TEXT03,Confirm to consume {1} {2}s to paint?
+ACTIVITY_BEACH_PUZZLE_TEXT04,Preview
+ACTIVITY_BEACH_PUZZLE_TEXT05,Coloring Reward
+ACTIVITY_BEACH_PUZZLE_TEXT06,Completion Reward
+ACTIVITY_BEACH_PUZZLE_TEXT07,Complete {1} picture(s)
+ACTIVITY_BEACH_SHOP_TEXT01,New Skin
+ACTIVITY_BEACH_SHOP_TEXT02,Previous
+ACTIVITY_BEACH_SHOP_TEXT03,Confirm to exchange with {1} {2}s?
+ACTIVITY_BEACH_MAIN_WINDOW_TEXT01,Swimsuit-themed skins awaits!
+ACTIVITY_BEACH_MAIN_WINDOW_TEXT02,Go
+ACTIVITY_BEACH_MAIN_WINDOW_TEXT03,Tap the blank area to close the tab
+DAILY_QUIZ_TEXT01,Claim All
+DRESS_SUIT_WINDOW_1,Set
+DRESS_SUIT_WINDOW_2,Customize
+DRESS_SUIT_WINDOW_3,Set Selection
+DRESS_SUIT_WINDOW_4,No Set is available
+MANA_QUIZ2,Coin Quiz [size=26]{1}
+EXP_QUIZ2,EXP Quiz [size=26]{1}
+HERO_QUIZ2,Girl Quiz [size=26]{1}
+DAILY_QUIZ_TEXT02,Please select number of times to claim:
+DAILY_QUIZ_TEXT03,You don't have enough time(s) to claim
+DRESS_SUIT_WINDOW_5,Your current outfit has already been saved.
+DRESS_SUIT_WINDOW_6,Confirm to delete Outfit Set {1}?
+DRESS_SUIT_WINDOW_7,Confirm to replace the record with your current Outfit setting?
+DRESS_SUIT_WINDOW_8,Confirm to apply Outfit Setting {1}?
+DRESS_SUIT_WINDOW_9,Same outfit is already applied to the character

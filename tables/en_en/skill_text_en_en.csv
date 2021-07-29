@@ -2727,12 +2727,12 @@ A control effect. During this effect, girls affected will not be able to deal Ba
 100002700,,,
 100002702,,,
 100002703,,,
-646101,Burning Blade 1,Antique Skill,Provides a shield that can prevent direct damage or DoT damage for 1 time when owner takes a lethal damage
-646201,Burning Blade 2,Antique Skill,Provides a shield that can prevent direct damage or DoT damage for 1 time when owner takes a lethal damage
-646301,Burning Blade 3,Antique Skill,Provides a shield that can prevent direct damage or DoT damage for 2 times when owner takes a lethal damage
-646401,Burning Blade 4,Antique Skill,Provides a shield that can prevent direct damage or DoT damage for 2 times when owner takes a lethal damage
-646501,Burning Blade 5,Antique Skill,Provides a shield that can prevent direct damage or DoT damage for 3 times when owner takes a lethal damage
-646601,Burning Blade 6,Antique Skill,Provides a shield that can prevent direct damage or DoT damage for 3 times when owner takes a lethal damage
+646101,Burning Blade 1,Antique Skill,Provides a shield that can prevent 1 direct damage or DoT damage when owner takes lethal damage (Can be triggered only once in each battle)
+646201,Burning Blade 2,Antique Skill,Provides a shield that can prevent 1 direct damage or DoT damage when owner takes lethal damage (Can be triggered only once in each battle)
+646301,Burning Blade 3,Antique Skill,Provides a shield that can prevent 2 direct damage or DoT damage when owner takes lethal damage (Can be triggered only once in each battle)
+646401,Burning Blade 4,Antique Skill,Provides a shield that can prevent 2 direct damage or DoT damage when owner takes lethal damage (Can be triggered only once in each battle)
+646501,Burning Blade 5,Antique Skill,Provides a shield that can prevent 3 direct damage or DoT damage when owner takes lethal damage (Can be triggered only once in each battle)
+646601,Burning Blade 6,Antique Skill,Provides a shield that can prevent 3 direct damage or DoT damage when owner takes lethal damage (Can be triggered only once in each battle)
 5201200,Ithil,Basic Attack,Basic Attack
 65201900,Ithil,Basic Attack,Basic Attack
 75201200,Ithil,Basic Attack,Basic Attack
@@ -3385,7 +3385,7 @@ A Damage over Time. Damage is dealt once when bleed is inflicted and during the 
 100402,Potential- Stage 4,Potential：Attack,Increases ATK by 8%
 100403,Potential- Stage 4,Potential：Speed,"Increases SPD by 20, HP by 5% and ATK by 3%"
 100501,Potential- Stage 5,Potential: Coordination,"When Basic attack or Active skill do not deal Crit, 30% extra damage will be dealt; when a Basic Attack or Active Skill can deal Crit, can heal self for 15% damage dealt."
-100502,Potential- Stage 5,Potential: Shield,Provides a shield that can prevent direct damage or DoT damage for 3 times when owner takes a lethal damage
+100502,Potential- Stage 5,Potential: Shield,Provides a shield that can prevent 3 direct damage or DoT damage when owner takes lethal damage (Can be triggered only once in each battle)
 100503,Potential- Stage 5,Potential: Willpower,"Can be triggered 1 time each round: After getting attacked, if HP is above 50%,deal (4% of Maximum HP) damage to the attacker; if HP is below 50%, heals self by 4% of Maximum HP"
 5201400,Rogue,Basic Attack,Basic Attack
 65202100,Rogue,Basic Attack,Basic Attack
@@ -3544,25 +3544,25 @@ Skill effect, when allies are hit with Active Skill or Basic Attack, there is a 
 65102013,Vivian,Divination,"Vivian predicts that an astral disaster shall befall. At the end of a round, there is 70% chance to reduce 35 Energy of 2 enemies and 70% to reduce their Speed by 40 for 2 rounds"
 75101303,Vivian,Divination,"Vivian predicts that an astral disaster shall befall. At the end of a round, there is 70% chance to reduce 35 Energy of 2 enemies and 70% to reduce their Speed by 40 for 2 rounds"
 5101304,Vivian,Star Link,"
-The sky bears witness, the stars and the moon united and the pain is shared. Releases [c][e28002]Galaxy[-][/c] on 1 random enemy at the beginning of each battle..
+The sky bears witness, the stars and the moon united and the pain is shared. Releases [c][e28002]Galaxy[-][/c] on 1 random enemy at the beginning of each battle; at the beginning of each round, if an enemy carrying [c][e28002]Galaxy[-][/c] is defeated in the previous round, Vivian will tag [c][e28002]Galaxy[-][/c] on another random enemy.
 
 [c][e28002]Galaxy:[-][/c]
-Skill effect, when Vivian takes damage, the enemy tagged with Galaxy will also receive 25% of the damage; when she is tagged with a debuff, there is a 15% chance that the enemy tagged with Galaxy will receive the same effect. Once the enemy tagged with Galaxy is defeated, a new target will be tagged at the start of the next round."
+Skill effect, when Vivian takes damage, the enemy tagged with Galaxy will also receive 25% of the damage; when she is tagged with a debuff, there is a 15% chance that the enemy tagged with Galaxy will receive the same effect. Once the enemy tagged with Galaxy is defeated, the Galaxy on the enemy will be removed."
 65102004,Vivian,Star Link,"
-The sky bears witness, the stars and the moon united and the pain is shared. Releases [c][e28002]Galaxy[-][/c] on 1 random enemy at the beginning of each battle..
+The sky bears witness, the stars and the moon united and the pain is shared. Releases [c][e28002]Galaxy[-][/c] on 1 random enemy at the beginning of each battle; at the beginning of each round, if an enemy carrying [c][e28002]Galaxy[-][/c] is defeated in the previous round, Vivian will tag [c][e28002]Galaxy[-][/c] on another random enemy.
 
 [c][e28002]Galaxy:[-][/c]
-Skill effect, when Vivian takes damage, the enemy tagged with Galaxy will also receive 50% of the damage; when she is tagged with a debuff, there is a 25% chance that the enemy tagged with Galaxy will receive the same effect. Once the enemy tagged with Galaxy is defeated, a new target will be tagged at the start of the next round."
+Skill effect, when Vivian takes damage, the enemy tagged with Galaxy will also receive 50% of the damage; when she is tagged with a debuff, there is a 25% chance that the enemy tagged with Galaxy will receive the same effect. Once the enemy tagged with Galaxy is defeated, the Galaxy on the enemy will be removed."
 65102014,Vivian,Star Link,"
-The sky bears witness, the stars and the moon united and the pain is shared. Releases [c][e28002]Galaxy[-][/c] on 1 random enemy at the beginning of each battle..
+The sky bears witness, the stars and the moon united and the pain is shared. Releases [c][e28002]Galaxy[-][/c] on 1 random enemy at the beginning of each battle; at the beginning of each round, if an enemy carrying [c][e28002]Galaxy[-][/c] is defeated in the previous round, Vivian will tag [c][e28002]Galaxy[-][/c] on another random enemy.
 
 [c][e28002]Galaxy:[-][/c]
-Skill effect, when Vivian takes damage, the enemy tagged with Galaxy will also receive 75% of the damage; when she is tagged with a debuff, there is a 35% chance that the enemy tagged with Galaxy will receive the same effect. Once the enemy tagged with Galaxy is defeated, a new target will be tagged at the start of the next round."
+Skill effect, when Vivian takes damage, the enemy tagged with Galaxy will also receive 75% of the damage; when she is tagged with a debuff, there is a 35% chance that the enemy tagged with Galaxy will receive the same effect. Once the enemy tagged with Galaxy is defeated, the Galaxy on the enemy will be removed."
 75101304,Vivian,Star Link,"
-The sky bears witness, the stars and the moon united and the pain is shared. Releases [c][e28002]Galaxy[-][/c] on 1 random enemy at the beginning of each battle..
+The sky bears witness, the stars and the moon united and the pain is shared. Releases [c][e28002]Galaxy[-][/c] on 1 random enemy at the beginning of each battle; at the beginning of each round, if an enemy carrying [c][e28002]Galaxy[-][/c] is defeated in the previous round, Vivian will tag [c][e28002]Galaxy[-][/c] on another random enemy.
 
 [c][e28002]Galaxy:[-][/c]
-Skill effect, when Vivian takes damage, the enemy tagged with Galaxy will also receive 75% of the damage; when she is tagged with a debuff, there is a 35% chance that the enemy tagged with Galaxy will receive the same effect. Once the enemy tagged with Galaxy is defeated, a new target will be tagged at the start of the next round."
+Skill effect, when Vivian takes damage, the enemy tagged with Galaxy will also receive 75% of the damage; when she is tagged with a debuff, there is a 35% chance that the enemy tagged with Galaxy will receive the same effect. Once the enemy tagged with Galaxy is defeated, the Galaxy on the enemy will be removed."
 5401300,Joan,Basic Attack,Basic Attack
 65402000,Joan,Basic Attack,Basic Attack
 75401300,Joan,Basic Attack,Basic Attack
@@ -4198,30 +4198,30 @@ Skill effect, when allies are hit with Active Skill or Basic Attack, there is a 
 751013034,Vivian,Divination,"Vivian predicts that an astral disaster shall befall. At the end of a round, there is 77% chance to reduce 35 Energy of 2 enemies and 77% to reduce their Speed by 40 for 2 rounds"
 751013035,Vivian,Divination,"Vivian predicts that an astral disaster shall befall. At the end of a round, there is 80% chance to reduce 35 Energy of 2 enemies and 80% to reduce their Speed by 40 for 2 rounds"
 751013041,Vivian,Star Link,"
-The sky bears witness, the stars and the moon united and the pain is shared. Releases [c][e28002]Galaxy[-][/c] on 1 random enemy at the beginning of each battle..
+The sky bears witness, the stars and the moon united and the pain is shared. Releases [c][e28002]Galaxy[-][/c] on 1 random enemy at the beginning of each battle; at the beginning of each round, if an enemy carrying [c][e28002]Galaxy[-][/c] is defeated in the previous round, Vivian will tag [c][e28002]Galaxy[-][/c] on another random enemy.
 
 [c][e28002]Galaxy:[-][/c]
-Skill effect, when Vivian takes damage, the enemy tagged with Galaxy will also receive 79% of the damage; when she is tagged with a debuff, there is a 35% chance that the enemy tagged with Galaxy will receive the same effect. Once the enemy tagged with Galaxy is defeated, a new target will be tagged at the start of the next round."
+Skill effect, when Vivian takes damage, the enemy tagged with Galaxy will also receive 79% of the damage; when she is tagged with a debuff, there is a 35% chance that the enemy tagged with Galaxy will receive the same effect. Once the enemy tagged with Galaxy is defeated, the Galaxy on the enemy will be removed."
 751013042,Vivian,Star Link,"
-The sky bears witness, the stars and the moon united and the pain is shared. Releases [c][e28002]Galaxy[-][/c] on 1 random enemy at the beginning of each battle..
+The sky bears witness, the stars and the moon united and the pain is shared. Releases [c][e28002]Galaxy[-][/c] on 1 random enemy at the beginning of each battle; at the beginning of each round, if an enemy carrying [c][e28002]Galaxy[-][/c] is defeated in the previous round, Vivian will tag [c][e28002]Galaxy[-][/c] on another random enemy.
 
 [c][e28002]Galaxy:[-][/c]
-Skill effect, when Vivian takes damage, the enemy tagged with Galaxy will also receive 80% of the damage; when she is tagged with a debuff, there is a 35% chance that the enemy tagged with Galaxy will receive the same effect. Once the enemy tagged with Galaxy is defeated, a new target will be tagged at the start of the next round."
+Skill effect, when Vivian takes damage, the enemy tagged with Galaxy will also receive 80% of the damage; when she is tagged with a debuff, there is a 35% chance that the enemy tagged with Galaxy will receive the same effect. Once the enemy tagged with Galaxy is defeated, the Galaxy on the enemy will be removed."
 751013043,Vivian,Star Link,"
-The sky bears witness, the stars and the moon united and the pain is shared. Releases [c][e28002]Galaxy[-][/c] on 1 random enemy at the beginning of each battle..
+The sky bears witness, the stars and the moon united and the pain is shared. Releases [c][e28002]Galaxy[-][/c] on 1 random enemy at the beginning of each battle; at the beginning of each round, if an enemy carrying [c][e28002]Galaxy[-][/c] is defeated in the previous round, Vivian will tag [c][e28002]Galaxy[-][/c] on another random enemy.
 
 [c][e28002]Galaxy:[-][/c]
-Skill effect, when Vivian takes damage, the enemy tagged with Galaxy will also receive 81% of the damage; when she is tagged with a debuff, there is a 35% chance that the enemy tagged with Galaxy will receive the same effect. Once the enemy tagged with Galaxy is defeated, a new target will be tagged at the start of the next round."
+Skill effect, when Vivian takes damage, the enemy tagged with Galaxy will also receive 81% of the damage; when she is tagged with a debuff, there is a 35% chance that the enemy tagged with Galaxy will receive the same effect. Once the enemy tagged with Galaxy is defeated, the Galaxy on the enemy will be removed."
 751013044,Vivian,Star Link,"
-The sky bears witness, the stars and the moon united and the pain is shared. Releases [c][e28002]Galaxy[-][/c] on 1 random enemy at the beginning of each battle..
+The sky bears witness, the stars and the moon united and the pain is shared. Releases [c][e28002]Galaxy[-][/c] on 1 random enemy at the beginning of each battle; at the beginning of each round, if an enemy carrying [c][e28002]Galaxy[-][/c] is defeated in the previous round, Vivian will tag [c][e28002]Galaxy[-][/c] on another random enemy.
 
 [c][e28002]Galaxy:[-][/c]
-Skill effect, when Vivian takes damage, the enemy tagged with Galaxy will also receive 82% of the damage; when she is tagged with a debuff, there is a 35% chance that the enemy tagged with Galaxy will receive the same effect. Once the enemy tagged with Galaxy is defeated, a new target will be tagged at the start of the next round."
+Skill effect, when Vivian takes damage, the enemy tagged with Galaxy will also receive 82% of the damage; when she is tagged with a debuff, there is a 35% chance that the enemy tagged with Galaxy will receive the same effect. Once the enemy tagged with Galaxy is defeated, the Galaxy on the enemy will be removed."
 751013045,Vivian,Star Link,"
-The sky bears witness, the stars and the moon united and the pain is shared. Releases [c][e28002]Galaxy[-][/c] on 1 random enemy at the beginning of each battle..
+The sky bears witness, the stars and the moon united and the pain is shared. Releases [c][e28002]Galaxy[-][/c] on 1 random enemy at the beginning of each battle; at the beginning of each round, if an enemy carrying [c][e28002]Galaxy[-][/c] is defeated in the previous round, Vivian will tag [c][e28002]Galaxy[-][/c] on another random enemy.
 
 [c][e28002]Galaxy:[-][/c]
-Skill effect, when Vivian takes damage, the enemy tagged with Galaxy will also receive 83% of the damage; when she is tagged with a debuff, there is a 40% chance that the enemy tagged with Galaxy will receive the same effect. Once the enemy tagged with Galaxy is defeated, a new target will be tagged at the start of the next round."
+Skill effect, when Vivian takes damage, the enemy tagged with Galaxy will also receive 83% of the damage; when she is tagged with a debuff, there is a 40% chance that the enemy tagged with Galaxy will receive the same effect. Once the enemy tagged with Galaxy is defeated, the Galaxy on the enemy will be removed."
 752001011,Chevalir,Metal Storm,"Deals (139% of Attack) damage against Back-line enemies and (30% chance) to [c][01a310]Stun[-][/c] them for 2 rounds. Increases self Damage Reduction by 30% for 3 rounds.\n[c][01a310]Stun:[-][/c]\nA control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
 752001012,Chevalir,Metal Storm,"Deals (142% of Attack) damage against Back-line enemies and (30% chance) to [c][01a310]Stun[-][/c] them for 2 rounds. Increases self Damage Reduction by 30% for 3 rounds.\n[c][01a310]Stun:[-][/c]\nA control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
 752001013,Chevalir,Metal Storm,"Deals (145% of Attack) damage against Back-line enemies and (30% chance) to [c][01a310]Stun[-][/c] them for 2 rounds. Increases self Damage Reduction by 30% for 3 rounds.\n[c][01a310]Stun:[-][/c]\nA control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."

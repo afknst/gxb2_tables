@@ -126,3 +126,6 @@ id,trigger,desc,is_god_skill,limit_times,is_die_pas,is_hp_pas,is_can_use_by_pas
 125,SELF_PUGONG_BEFORE_ENERGY_CHANGE,-1,,,,,
 126,GET_SUCK_REAL_BLOOD,-1,,,,,1
 127,ROUND_END_AFTER_COUNT,-1,,,,,
+128,HURTED,-1,,,,,1
+129,SELF_TEAM_YX_DEBUFF,-1,,,,,1
+130,ENEMY_BLOOD,-1,,,,,1

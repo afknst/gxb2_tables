@@ -6,3 +6,5 @@ id,name,dress_id,image,resource,pos,slot,cost,offset,scale,rotation
 1000301,-1,101003,dress_1000301,senpai_dress01_foot_02,3,,,,,
 1000302,-1,101003,dress_1000302,senpai_dress01_foot_01,3,,,,,
 1000401,-1,101004,dress_1000401,yanjing01,4,face_slot01,,68|22,1|1,279
+9999998,,999999,dress_1000101,senpai_dress01_head_02,1,,,,,
+9999999,,999999,dress_1000102,senpai_dress01_head_01,1,,2#500,,,

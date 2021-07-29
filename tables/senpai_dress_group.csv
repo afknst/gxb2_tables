@@ -1,2 +1,2 @@
-id,name,img,unit,unlock_stars,skills
-1,,,101001|101002|101003|101004,,
+id,name,img,unit,style_unit,unlock_stars,skills
+1,,icon_1,101001|101002|101003|101004,1000101|1000201|1000301|1000401|0,,
