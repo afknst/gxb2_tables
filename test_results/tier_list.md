@@ -1,5 +1,5 @@
 # GxB2 PvP Simple Tier List
-##### Apr. 2021, by Aforest
+##### Jun. 2021, by Aforest
 
 >**D**: Damage source <br>
 **S**: Support or heal <br>
@@ -9,16 +9,16 @@
 **?**: Temporary
 
 ##### T1
-Apate (CDM), Nephilim (DCM), Vivian (SCDM)
+Apate (CDM), Teresa (CTDM?)
 
 ##### T2
-Fenrir (TD), Izanami (SC)
+Nephilim (DCM), Vivian (SCDM)
 
 ##### T3
-Joan (D), Kratos (DC), Mika (CTD), Psychic (SC), Raphael (S), Rogue (D)
+Fenrir (TD), Izanami (SC), Joan (D), Mika (CTD), Rogue (D)
 
 ##### T4
-Esau & Jacob (DC), Krystal (CDM), Skye (SCD), Uriel (CDM)
+Kratos (DC), Psychic (SC), Raphael (S), Skye (SCD), Uriel (CDM)
 
 ##### T5
-Estel (DC?), KongMing (SD), Mio (TD), Valeera (DC), Vera (SC)
+Esau & Jacob (DC), Krystal (CDM), Vera (SCD), etc.
