@@ -55,9 +55,9 @@ gacha_ensure_weight_wish_get,198,-1
 gacha_ensure_weight_wish_add,198,-1
 gacha_ensure_add_num,100,-1
 gacha_ensure_guarantee,500,-1
-gacha_ensure_partner,54016#655019#754016,-1
-gacha_ensure_partner_handbook,54016#655019#754016,-1
-daily_mail_awards_gacha,2,-1
+gacha_ensure_partner,54016#654023#754016,-1
+gacha_ensure_partner_handbook,54016#654023#754016,-1
+daily_mail_awards_gacha,2|35,-1
 daily_mail_awards_tree,3,-1
 daily_mail_awards_gamble,4|18,-1
 daily_mail_awards_drift,30|8,-1
@@ -488,7 +488,7 @@ activity_privileged_card_trial_rewards,1*2000|15*2000,-1
 activity_privileged_card_dungeon_rewards,1*1000|2*1000|10*1000|26*1000|27*1000,-1
 activity_privileged_card_dungeon_drugs,2,-1
 activity_birthday_colour_progress_bit,0.1,-1
-merge_server_now_next,458|474|1627889400,-1
+merge_server_now_next,474|490|1629099000,-1
 activity_privileged_card_ui_type,0#0|1#0,-1
 arena_revenge_cd,300,-1
 activity_swimsuit_cost,154#1,-1
@@ -555,7 +555,7 @@ partner_challenge_chess_award2,10,-1
 partner_challenge_chess_hp,50,-1
 partner_challenge_chess_sell,2|7,-1
 entrance_test_slot_sort_type_show_list,9|4|5|6|7|0|1|8,-1
-activity_147_hero_model,liubei_pifu02_lihui01|620|-1770|0.7|5401303|7190,-1
+activity_147_hero_model,houyi_pifu01_lihui01|500|-1700|0.7|5600802|7195,-1
 school_practise_ticket02_default_2,25,-1
 school_practise_new_help_tips,2,-1
 plot_fade_time,0.5,-1
@@ -679,7 +679,7 @@ activity_newbee_fund2_start_time,1616112000,-1
 activity_sprouts_10_award,10|215#10,-1
 activity_sprouts_point_award,80|930200#50,-1
 activity_sprouts_partner_award,51014,-1
-battle_version,0,-1
+battle_version,1,-1
 activity_newbee_fund_get_time_new,20,-1
 puppet_debris_id,940031|940032|940033|940034|940035|940036|940041|940042|940043|940044|940045|940046|940047|940048|940049|940050|940051|940052,-1
 activity_new_partner_test_id,51014,-1
@@ -789,10 +789,11 @@ annual3_review_partners_lack,0.2,-1
 annual3_review_partners_plenty,0.9,-1
 activity_3birthday_dinner_batch,10,-1
 max_dress_style,5,-1
+max_dress_point,10|50|100|150|200,-1
 max_guild_limit,1000000,-1
 min_guild_limit,0,-1
 change_guild_limit,1000,-1
 gacha_record_amount,50,-1
-gacha_record_time_limit,7,-1
+gacha_record_time_limit,30,-1
 activity_beach_puzzle_cost,253#10,-1
 activity_beach_puzzle_dropbox,240101,-1

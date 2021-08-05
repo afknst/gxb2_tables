@@ -9,7 +9,7 @@ id,name,from,content
 8,Mini Pass Rewards,Mini Pass,"Dear Senpai, please collect the following rewards in time. Your Mini Pass will expire in {1} day(s)."
 9,Mini Pass Expired,Mini Pass,"Dear Senpai, your Mini Pass has expired. Please visit the Homework section to renew your Mini Pass. As a reminder, the Mini pass is 10 times cheaper than buying Gems individually!"
 10,Summon Girl Rewards,Summon Rewards,Congratulations on summoning {1} during the event. Your rewards are available in Mail on the FrontPage.
-11,Daily Rewards,System Message,Login daily during the event to get Adv. Capsule Coin x3. Your rewards are attached.
+11,Daily Rewards,System Message,"Login every day during the event and you will receive Adv. Capsule Coin x 3, Colorful Sand x 10. Your rewards are attached."
 12,Capsule Reward,System Message,"Congratulations, you've completed {1} Adv. Capsule Draws during event Girls X Capsule Points, here's your reward."
 13,Daily Rewards,System Message,Login every day during the event and you will receive Seal x 1. Your rewards are attached.
 14,Enroll Rewards,System Message,Congratulations on reaching {1} points during the Enroll event. Here are your rewards~!
@@ -160,7 +160,7 @@ id,name,from,content
 159,Beginner's Capsule,System Message,"Dear Senpai, Beginner's Capsule is over, here's your unclaimed rewards in the event!"
 160,Limited Starter Capsule,System Message,"Dear Senpai, the event: Limited Starter Capsule is over, here's your unclaimed reward in the event!"
 161,Spring Ceremony,System Message,"Congratulations, Senpai! You've exchanged {1} Girls in event Spring Ceremony, here's your reward!"
-162,New Oath skin unlocked,System Message,Congratulations! You have unlocked {1} 's Oath Skin! She is now wearing a wedding dress! Do you want to review this memorable moment with her? (You can review your Oath moment in Date)
+162,New Oath skin unlocked,System Message,Congratulations! You have unlocked {1} 's Oath Skin! She is now wearing a wedding dress! Do you want to review this memorable moment with her? \n(You can review your Oath moment in Date)
 163,Recharge Addition,System Message,"Dear Senpai, congratulations for getting {1} points in event ""Recharge Addition"", here's your reward!"
 164,Holiday Break,System Message,"Dear Senpai, the event: Holiday Break will end in less than 24 hours, don't forget to exchange your rewards in time!"
 165,Purchase Error,Important Message,"

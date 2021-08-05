@@ -4,7 +4,7 @@ id,name,partner_card,partner_picture,partner_picture_xy,partner_picture_xy2,part
 11003,-1,partner_card_11003,partner_picture_11003,0|-30,0|-10,1,,,,,,483#240,0.9,2,,1
 12001,-1,partner_card_12001,partner_picture_12001,0|0,0|0,1,,,,,,539#721,0.9,1,,1
 12002,-1,partner_card_12002,partner_picture_12002,-100|300,-100|300,1,,,,,,1075#408,0.9,2,,1
-12003,-1,partner_card_12003,partner_picture_12003,0|-20,0|-80,1,,,,,,512#227,0.9,1,,1
+12003,-1,partner_card_12003,partner_picture_12003,50|-20,50|-20,1,,,,,,512#227,0.9,1,,1
 13001,-1,partner_card_13001,partner_picture_13001,0|0,0|10,1,,,,,,1008#698,0.9,1,,1
 13002,-1,partner_card_13002,partner_picture_13002,0|0,0|0,1,,,,,,1015#720,0.9,1,,1
 13003,-1,partner_card_13003,partner_picture_13003,230|240,230|290,1,,,,,,867#424,0.9,1,,1
@@ -13,7 +13,7 @@ id,name,partner_card,partner_picture,partner_picture_xy,partner_picture_xy2,part
 14003,-1,partner_card_14003,partner_picture_14003,0|150,0|150,1,,,,,,509#577,0.9,2,,1
 21001,-1,partner_card_21001,partner_picture_21001,0|-30,0|-30,1,,,,,,499#769,0.9,1,,1
 21002,-1,partner_card_21002,partner_picture_21002,0|-50,0|-50,1,,,,,,553#744,0.9,2,,1
-21003,-1,partner_card_21003,partner_picture_21003,0|-50,0|-40,1,,,,,,1041#719,0.85,1,,1
+21003,-1,partner_card_21003,partner_picture_21003,0|0,0|0,1,,,,,,1041#719,0.85,1,,1
 21004,-1,partner_card_21004,partner_picture_21004,0|-30,0|-30,1,,,,,,526#731,0.9,1,,1
 22001,-1,partner_card_22001,partner_picture_22001,0|0,0|0,1,,,,,,1039#220,0.9,1,,1
 22002,-1,partner_card_22002,partner_picture_22002,0|0,0|-20,1,,,,,,1041#681,0.9,1,,1
@@ -39,7 +39,7 @@ id,name,partner_card,partner_picture,partner_picture_xy,partner_picture_xy2,part
 32005,-1,partner_card_32005,partner_picture_32005,0|0,0|-5,1,,,,,,434#721,0.9,1,,1
 33001,-1,partner_card_33001,partner_picture_33001,40|0,40|0,1,,,,,,950#739,0.9,2,,1
 33002,-1,partner_card_33002,partner_picture_33002,0|0,0|15,1,,,,,,465#691,0.9,1,,1
-33003,-1,partner_card_33003,partner_picture_33003,0|145,0|155,1,,,,,,1034#577,0.9,1,,1
+33003,-1,partner_card_33003,partner_picture_33003,50|80,50|80,1,,,,,,1034#577,0.9,1,,1
 33004,-1,partner_card_33004,partner_picture_33004,0|0,0|15,1,,,,,,493#220,0.8,1,,1
 33005,-1,partner_card_33005,partner_picture_33005,0|0,0|10,1,,,,,,570#722,0.8,1,,1
 34001,-1,partner_card_34001,partner_picture_34001,0|0,0|0,1,,,,,,498#732,0.9,1,,1
@@ -51,7 +51,7 @@ id,name,partner_card,partner_picture,partner_picture_xy,partner_picture_xy2,part
 36001,-1,partner_card_36001,partner_picture_36001,0|0,0|3,1,,,,,,572#682,0.9,1,,1
 41001,-1,partner_card_41001,partner_picture_41001,0|0,100|0,1,,,,,,487#245,0.9,1,,1
 41002,-1,partner_card_41002,partner_picture_41002,10|60,10|80,0.95,,,,,,562#612,0.9,1,,1
-41003,-1,partner_card_41003,partner_picture_41003,0|-80,0|-80,1,,,,,,477#780,0.9,1,,1
+41003,-1,partner_card_41003,partner_picture_41003,0|0,0|0,1,,,,,,477#780,0.9,1,,1
 41004,-1,partner_card_41004,partner_picture_41004,0|20,0|30,0.95,,,,,,1110#659,0.9,2,,1
 41005,-1,partner_card_41005,partner_picture_41005,0|0,0|10,1,,,,,,564#676,0.9,2,,1
 41006,-1,partner_card_41006,partner_picture_41006,20|-50,20|-90,0.95,,,,,,579#769,0.9,1,,1
@@ -84,7 +84,7 @@ id,name,partner_card,partner_picture,partner_picture_xy,partner_picture_xy2,part
 45001,-1,partner_card_45001,partner_picture_45001,0|0,0|0,0.95,,,,,,478#741,0.8,2,,1
 45002,-1,partner_card_45002,partner_picture_45002,0|200,0|185,1,,,,,,960#530,0.9,1,,1
 45003,-1,partner_card_45003,partner_picture_45003,0|50,0|50,1,,,,,,552#712,0.85,2,,1
-46001,-1,partner_card_46001,partner_picture_46001,0|60,0|60,1,,,,,,1012#614,0.9,1,,1
+46001,-1,partner_card_46001,partner_picture_46001,-80|80,-80|80,1,,,,,,1012#614,0.9,1,,1
 46002,-1,partner_card_46002,partner_picture_46002,115|-25,115|-25,1,,,,,,1003#697,0.9,1,,1
 46003,-1,partner_card_46003,partner_picture_46003,30|230,30|230,1,,,,,,1002#516,0.9,1,,1
 51001,-1,partner_card_51001,partner_picture_51001,0|70,0|70,1,,,,,,1101#644,0.9,1,,1
@@ -181,7 +181,7 @@ id,name,partner_card,partner_picture,partner_picture_xy,partner_picture_xy2,part
 146001,-1,partner_card_46001,partner_picture_46001,0|0,0|0,1,,,,,,0#0,0.9,1,,1
 541001,-1,partner_card_41001,partner_picture_41001,0|0,100|0,1,,,,,,0#0,0.9,1,,1
 541002,-1,partner_card_41002,partner_picture_41002,10|60,10|80,0.95,,,,,,0#0,0.9,1,,1
-541003,-1,partner_card_41003,partner_picture_41003,0|-80,0|-80,1,,,,,,0#0,0.9,1,,1
+541003,-1,partner_card_41003,partner_picture_41003,0|0,0|0,1,,,,,,0#0,0.9,1,,1
 541004,-1,partner_card_41004,partner_picture_41004,0|20,0|30,0.95,,,,,,0#0,0.9,2,,1
 541005,-1,partner_card_41005,partner_picture_41005,0|0,0|10,1,,,,,,0#0,0.9,2,,1
 541006,-1,partner_card_41006,partner_picture_41006,20|-50,20|-90,0.95,,,,,,0#0,0.9,1,,1
@@ -214,7 +214,7 @@ id,name,partner_card,partner_picture,partner_picture_xy,partner_picture_xy2,part
 545001,-1,partner_card_45001,partner_picture_45001,0|0,0|0,0.95,,,,,,0#0,0.9,2,,1
 545002,-1,partner_card_45002,partner_picture_45002,0|200,0|185,1,,,,,,0#0,0.9,1,,1
 545003,-1,partner_card_45003,partner_picture_45003,0|50,0|50,1,,,,,,0#0,0.9,2,,1
-546001,-1,partner_card_46001,partner_picture_46001,0|60,0|60,1,,,,,,0#0,0.9,1,,1
+546001,-1,partner_card_46001,partner_picture_46001,-80|80,-80|80,1,,,,,,0#0,0.9,1,,1
 546002,-1,partner_card_46002,partner_picture_46002,115|-25,115|-25,1,,,,,,0#0,0.9,1,,1
 546003,-1,partner_card_46003,partner_picture_46003,30|230,30|230,1,,,,,,0#0,0.9,1,,1
 651001,-1,partner_card_651001,partner_picture_651001,0|150,0|150,1,,,,,,0#0,0.9,1,,1
@@ -383,7 +383,7 @@ id,name,partner_card,partner_picture,partner_picture_xy,partner_picture_xy2,part
 754013,-1,partner_card_754013,partner_picture_754013,0|-20,0|-20,1,,,,,,0#0,0.9,1,,1
 754014,-1,partner_card_754014,partner_picture_754014,0|0,0|0,0.9,,,,,,0#0,1,2,,1
 754015,-1,partner_card_754015,partner_picture_754015,0|-60,0|-60,0.9,,,,,,0#-60,1,2,,1
-754016,-1,partner_card_754016,partner_picture_754016,225|125,225|125,0.9,,,,,,0#0,0.9,1,,1
+754016,-1,partner_card_754016,partner_picture_754016,150|125,150|125,0.9,,,,,,0#0,0.9,1,,1
 755001,-1,partner_card_755001,partner_picture_755001,0|0,0|-15,1,,,,,,0#0,0.9,1,,1
 755002,-1,partner_card_755002,partner_picture_755002,0|0,0|-15,1,,,,,,0#0,0.9,1,,1
 755003,-1,partner_card_755003,partner_picture_755003,220|-150,220|-170,1,,,,,,0#0,0.9,1,,1
@@ -612,15 +612,17 @@ id,name,partner_card,partner_picture,partner_picture_xy,partner_picture_xy2,part
 7179,-1,partner_card_5101502,partner_picture_5101502,60|350,60|350,0.8,51015|651022|751015,,1623974400,156,,0#0,0.9,1,1,1
 7180,-1,partner_card_5101205,partner_picture_5101205,0|80,0|80,0.9,51012|651019|751012,,1625184000,157,,0#0,0.9,2,1,1
 7181,-1,partner_card_5201206,partner_picture_5201206,100|300,100|300,0.9,52012|652019|752012,,1624579200,158,,0#0,0.9,2,1,1
-7182,-1,partner_card_5401403,partner_picture_5401403,25|575,25|575,0.9,54014|654021|754014,,1628208000,159,,0#0,0.9,2,1,1
+7182,-1,partner_card_5401403,partner_picture_5401403,0|550,0|550,0.9,54014|654021|754014,,1628208000,159,,0#0,0.9,2,1,1
 7183,-1,partner_card_5500804,partner_picture_5500804,0|800,0|800,0.9,55008|655017|755007,,,160,1,0#0,0.9,1,1,1
 7184,-1,partner_card_5500706,partner_picture_5500706,70|760,70|760,0.8,55007|655016|755006,,1625788800,161,,30#0,0.9,1,1,0.8
 7185,-1,partner_card_5101303,partner_picture_5101303,20|640,20|640,0.85,51013|651020|751013,,1625788800,162,,0#0,0.9,1,1,1
 7186,-1,partner_card_5201602,partner_picture_5201602,-12|700,-12|700,0.8,52016|652023|752016,,1626393600,163,,0#0,0.8,1,1,0.9
 7187,-1,partner_card_5300902,partner_picture_5300902,-40|460,-40|460,0.9,53009|652007|753005,,1627603200,164,,0#0,0.9,1,1,1
-7188,-1,partner_card_5101503,partner_picture_5101503,200|570,200|570,0.9,51015|651022|751015,,1628208000,165,,0#0,0.9,1,1,0.9
+7188,-1,partner_card_5101503,partner_picture_5101503,200|570,200|570,0.9,51015|651022|751015,,1628640000,165,,0#0,0.9,1,1,0.9
 7189,-1,partner_card_5200903,partner_picture_5200903,0|725,0|725,0.8,52009|652001|752005,,1626998400,166,,0#0,0.9,1,1,0.8
 7190,-1,partner_card_5401303,partner_picture_5401303,100|670,100|670,0.8,54013|654020|754013,,1626998400,167,,0#0,0.9,1,1,1
 7191,-1,partner_card_5500805,partner_picture_5500805,50|825,50|825,0.9,55008|655017|755007,,1626998400,168,,0#0,0.9,1,1,1
 7192,-1,partner_card_5500903,partner_picture_5500903,0|650,0|650,0.9,55009|655018|755008,,,169,1,0#0,0.9,2,1,1
 7193,-1,partner_card_5600605,partner_picture_5600605,120|90,120|100,1.1,56006|656016|756006,,1627603200,170,,0#0,0.9,1,1,1.1
+7194,-1,partner_card_5201503,partner_picture_5201503,0|650,0|650,0.9,52015|652022|752015,,1628208000,171,,0#0,0.9,1,1,1
+7195,-1,partner_card_5600802,partner_picture_5600802,50|775,50|775,0.9,56008|656018|756008,,1628208000,172,,0#0,0.9,1,1,1

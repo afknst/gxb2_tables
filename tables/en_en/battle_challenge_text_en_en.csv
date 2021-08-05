@@ -1,4 +1,30 @@
 id,desc
 1,Pass the Stage
-2,Have Less than 5 Girls in your lineup
-3,Battle doesn't exceed round 10
+2,Have NO MORE than {1} Girls in your lineup
+3,Have NO MORE than {1} Girls in your lineup
+4,Have NO MORE than {1} Girls in your lineup
+5,Have NO MORE than {1} Girls in your lineup
+6,The battle lasts less than {1} rounds
+7,The battle lasts less than {1} rounds
+8,The battle lasts less than {1} rounds
+9,The battle lasts less than {1} rounds
+10,The battle lasts less than {1} rounds
+11,Take Control Effect less than {1} times
+12,Total HP remaining not lower than {1}%%
+13,Total HP remaining not lower than {1}%%
+14,Total HP remaining not lower than {1}%%
+15,Total HP remaining not lower than {1}%%
+16,No more than {1} Girl is defeated in battle
+17,No more than {1} Girls are defeated in battle
+18,No more than {1} Girls are defeated in battle
+19,No more than {1} Girls are defeated in battle
+20,No more than {1} Girls are defeated in battle
+21,No casualty in battle
+22,No Girls from House Ghost is in the Lineup
+23,No Girls from House Human is in the lineup
+24,No Girls from House Monster is in the lineup
+25,No Girls from House Fairy is in the lineup
+26,No Girls from House Demon is in the lineup
+27,No Girls from House Angel is in the lineup
+28,Have Vera in the Lineup
+29,Take no more than {1} damage

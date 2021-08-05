@@ -784,11 +784,11 @@ id,name,skill_name,ex_skill_desc
 753013013,王異,破壞模式,Damage increases to {1} of Attack.
 753013014,王異,破壞模式,Damage increases to {1} of Attack.
 753013015,王異,破壞模式,"Damage increases to {1} of Attack, extra damage of target’s already [c][01a310]Bleeding[-][/c] before the attack increases to {2} of enemy’s Max HP."
-753013021,王異,光學迷彩,Attack increase increases to {1}.
-753013022,王異,光學迷彩,"Attack increase increases to {1}, Crit increase increases to {2}."
-753013023,王異,光學迷彩,"Attack increase increases to {1}, Crit increase increases to {2}."
-753013024,王異,光學迷彩,"Attack increase increases to {1}, Crit increase increases to {2}."
-753013025,王異,光學迷彩,"Attack increase increases to {1}, Crit increase increases to {2}."
+753013021,王異,光學迷彩,"Attack increase increases to {1}. New: when [c][01a310]Bleed[-][/c] is attached to an enemy, reduce the Attack of the enemy by {2} for 2 rounds."
+753013022,王異,光學迷彩,"Attack increase increases to {1}, Crit increase increases to {2}, when [c][01a310]Bleed[-][/c] is attached to an enemy, reduce the Attack of the enemy by {3} for 2 rounds."
+753013023,王異,光學迷彩,"Attack increase increases to {1}, Crit increase increases to {2}, when [c][01a310]Bleed[-][/c] is attached to an enemy, reduce the Attack of the enemy by {3} for 2 rounds."
+753013024,王異,光學迷彩,"Attack increase increases to {1}, Crit increase increases to {2}, when [c][01a310]Bleed[-][/c] is attached to an enemy, reduce the Attack of the enemy by {3} for 2 rounds."
+753013025,王異,光學迷彩,"Attack increase increases to {1}, Crit increase increases to {2}, when [c][01a310]Bleed[-][/c] is attached to an enemy, reduce the Attack of the enemy by {3} for 2 rounds."
 753013031,王異,戰術輔助系統,"For every Bleeding enemy, Damage Reduction increase increases to {1}."
 753013032,王異,戰術輔助系統,"For every Bleeding enemy, Damage Reduction increase increases to {1} and Crit Damage increase increases to {2}."
 753013033,王異,戰術輔助系統,"For every Bleeding enemy, Damage Reduction increase increases to {1} and Crit Damage increase increases to {2}."
@@ -1053,7 +1053,7 @@ id,name,skill_name,ex_skill_desc
 754013032,劉備,桃花結義,Damage increases to {1} of Attack. Each Hunt hit on targets will reduce their Speed by {2} and Block rate by {3} for 2 rounds.
 754013033,劉備,桃花結義,Damage increases to {1} of Attack. Each Hunt hit on targets will reduce their Speed by {2} and Block rate by {3} for 2 rounds.
 754013034,劉備,桃花結義,Damage increases to {1} of Attack. Each Hunt hit on targets will reduce their Speed by {2} and Block rate by {3} for 2 rounds.
-754013035,劉備,桃花結義,Damage increases to {1} of Attack. Each Hunt hit on targets will reduce their Speed by {2} and Block rate by {3} for 2 rounds.
+754013035,劉備,桃花結義,Now Joan can also trigger Hunt when her own Active Skills and Basic Attacks are activated. Damage increases to {1} of Attack. Each Hunt hit on targets will reduce their Speed by {2} and Block rate by {3} for 2 rounds
 754013041,劉備,後會有期,Self-Healing increases to {1} of Max HP.
 754013042,劉備,後會有期,Self-Healing increases to {1} of Max HP.
 754013043,劉備,後會有期,Self-Healing increases to {1} of Max HP.
@@ -1369,11 +1369,11 @@ id,name,skill_name,ex_skill_desc
 753014023,稀風,壓縮氣流,"Damage increases to {1} of Attack, Heal effect increases to {2} of Max HP, Speed increase increases to {3}."
 753014024,稀風,壓縮氣流,"Damage increases to {1} of Attack, Heal effect increases to {2} of Max HP, Speed increase increases to {3}."
 753014025,稀風,壓縮氣流,"Damage increases to {1} of Attack, Heal effect increases to {2} of Max HP, Speed increase increases to {3}. HP Restoration of each Stack of [c][e28002]Anoxia[-][/c] after the target is defeated increases to {4} of Max HP"
-753014031,稀風,氣壓制導,Attack increase increases to {1}. New: increases Precision by {2} for all Girls in team for 6 rounds at the end of each round.
-753014032,稀風,氣壓制導,"Attack increase increases to {1}, HP increase increases to {2}, Precision increase at the end of each round increases to {3}."
-753014033,稀風,氣壓制導,"Attack increase increases to {1}, HP increase increases to {2}, Precision increase at the end of each round increases to {3}."
-753014034,稀風,氣壓制導,"Attack increase increases to {1}, HP increase increases to {2}, Precision increase at the end of each round increases to {3}."
-753014035,稀風,氣壓制導,"Attack increase increases to {1}, HP increase increases to {2}, Precision increase at the end of each round increases to {3}."
+753014031,稀風,氣壓制導,Attack increase increases to {1}. New: increases Precision by {2} and Heal received by {3} for all Girls in team for 4 rounds at the end of each round.
+753014032,稀風,氣壓制導,"Attack increase increases to {1}, HP increase increases to {2}; Precision increase at the end of each round increases to {3}, Heal receive increase at the end of each round increases to {4}."
+753014033,稀風,氣壓制導,"Attack increase increases to {1}, HP increase increases to {2}; Precision increase at the end of each round increases to {3}, Heal receive increase at the end of each round increases to {4}."
+753014034,稀風,氣壓制導,"Attack increase increases to {1}, HP increase increases to {2}; Precision increase at the end of each round increases to {3}, Heal receive increase at the end of each round increases to {4}."
+753014035,稀風,氣壓制導,"Attack increase increases to {1}, HP increase increases to {2}; Precision increase at the end of each round increases to {3}, Heal receive increase at the end of each round increases to {4}."
 753014041,稀風,人造氣壓差,[c][e28002]Wind Shield[-][/c] damage reduction increases to {1}.
 753014042,稀風,人造氣壓差,[c][e28002]Wind Shield[-][/c] damage reduction increases to {1}.
 753014043,稀風,人造氣壓差,[c][e28002]Wind Shield[-][/c] damage reduction increases to {1}.
@@ -1483,22 +1483,22 @@ id,name,skill_name,ex_skill_desc
 754015012,槲寄生,靈能聚爆,"Damage increases to {1} of Attack, [c][01a310]Bleed[-][/c] damage increases to {2}."
 754015013,槲寄生,靈能聚爆,"Damage increases to {1} of Attack, [c][01a310]Bleed[-][/c] damage increases to {2}."
 754015014,槲寄生,靈能聚爆,"Damage increases to {1} of Attack, [c][01a310]Bleed[-][/c] damage increases to {2}."
-754015015,槲寄生,靈能聚爆,"Damage increases to {1} of Attack, [c][01a310]Bleed[-][/c] damage increases to {2}, chance to stack [c][e28002]Parasite[-][/c] on remaining enemies increases to {3}, Armor reduction and Block reduction of enemies stacked with [c][e28002]Parasite[-][/c] increases to {4}."
-754015021,槲寄生,自然之音,Attack increase increases to {1}.
-754015022,槲寄生,自然之音,"Attack increase increases to {1}, HP increase increases to {2}."
-754015023,槲寄生,自然之音,"Attack increase increases to {1}, HP increase increases to {2}."
-754015024,槲寄生,自然之音,"Attack increase increases to {1}, HP increase increases to {2}."
-754015025,槲寄生,自然之音,"Attack increase increases to {1}, HP increase increases to {2}."
-754015031,槲寄生,疊情寄意,Damage increases to {1} of Attack.
-754015032,槲寄生,疊情寄意,Damage increases to {1} of Attack.
-754015033,槲寄生,疊情寄意,Damage increases to {1} of Attack.
-754015034,槲寄生,疊情寄意,Damage increases to {1} of Attack.
-754015035,槲寄生,疊情寄意,"Damage increases to {1} of Attack, chance to stack [c][e28002]Parasite[-][/c] on remaining enemies increases to {2}, Armor reduction and Block reduction of enemies stacked with [c][e28002]Parasite[-][/c] increases to {3}."
-754015041,槲寄生,綠之詛咒,"New: When receiving damage of Attacks or Marks from an enemy stacked with [c][e28002]Parasite[-][/c], the damage won't exceed {1} of Max HP. Damage to the enemy stacked with [c][e28002]Parasite[-][/c] and with the lowest HP increases to {2} of Attack."
-754015042,槲寄生,綠之詛咒,"When receiving damage of Attacks or Marks from an enemy stacked with [c][e28002]Parasite[-][/c], the damage won't exceed {1} of Max HP. Damage to the enemy stacked with [c][e28002]Parasite[-][/c] and with the lowest HP increases to {2} of Attack."
-754015043,槲寄生,綠之詛咒,"When receiving damage of Attacks or Marks from an enemy stacked with [c][e28002]Parasite[-][/c], the damage won't exceed {1} of Max HP. Damage to the enemy stacked with [c][e28002]Parasite[-][/c] and with the lowest HP increases to {2} of Attack."
-754015044,槲寄生,綠之詛咒,"When receiving damage of Attacks or Marks from an enemy stacked with [c][e28002]Parasite[-][/c], the damage won't exceed {1} of Max HP. Damage to the enemy stacked with [c][e28002]Parasite[-][/c] and with the lowest HP increases to {2} of Attack."
-754015045,槲寄生,綠之詛咒,"When receiving an attack from an enemy stacked with [c][e28002]Parasite[-][/c], Energy increase increases to {1}, self-healing increases to {2} of Max HP, the damage taken won't exceed {3} of Max HP. Damage to the enemy stacked with [c][e28002]Parasite[-][/c] and with the lowest HP increases to {4} of Attack."
+754015015,槲寄生,靈能聚爆,"Damage increases to {1} of Attack, [c][01a310]Bleed[-][/c] damage increases to {2} of Attack, Attack Reduction and Healing Received Reduction provided by [c][e28002]Parasite[-][/c] increases to {3}."
+754015021,槲寄生,自然之音,"Attack increase increases to {1}, chance to remove Control Effect increases to {2}."
+754015022,槲寄生,自然之音,"Attack increase increases to {1}, HP increase increases to {2}, chance to remove Control Effect increases to {3}."
+754015023,槲寄生,自然之音,"Attack increase increases to {1}, HP increase increases to {2}, chance to remove Control Effect increases to {3}."
+754015024,槲寄生,自然之音,"Attack increase increases to {1}, HP increase increases to {2}, chance to remove Control Effect increases to {3}."
+754015025,槲寄生,自然之音,"Attack increase increases to {1}, HP increase increases to {2}, chance to remove Control Effect increases to {3}."
+754015031,槲寄生,疊情寄意,"Damage increases to {1} of Attack, the additional damage of the ally with the highest attack dealt at the end of each round increases to {2} of Attack."
+754015032,槲寄生,疊情寄意,"Damage increases to {1} of Attack, the additional damage of the ally with the highest attack dealt at the end of each round increases to {2} of Attack."
+754015033,槲寄生,疊情寄意,"Damage increases to {1} of Attack, the additional damage of the ally with the highest attack dealt at the end of each round increases to {2} of Attack."
+754015034,槲寄生,疊情寄意,"Damage increases to {1} of Attack, the additional damage of the ally with the highest attack dealt at the end of each round increases to {2} of Attack."
+754015035,槲寄生,疊情寄意,"Damage increases to {1} of Attack, the additional damage of the ally with the highest attack dealt at the end of each round increases to {2} of Attack, Attack Reduction and Healing Received Reduction provided by [c][e28002]Parasite[-][/c] increases to {3}."
+754015041,槲寄生,綠之詛咒,"New: When receiving damage of Attacks or Marks from an enemy stacked with [c][e28002]Parasite[-][/c], the damage won't exceed {1}."
+754015042,槲寄生,綠之詛咒,"When receiving damage of Attacks or Marks from an enemy stacked with [c][e28002]Parasite[-][/c], the damage won't exceed {1}. Self-Healing provided by [c][e28002]Natural Order[-][/c] increases to {2} of maximum HP."
+754015043,槲寄生,綠之詛咒,"When receiving damage of Attacks or Marks from an enemy stacked with [c][e28002]Parasite[-][/c], the damage won't exceed {1}. Self-Healing provided by [c][e28002]Natural Order[-][/c] increases to {2} of maximum HP."
+754015044,槲寄生,綠之詛咒,"When receiving damage of Attacks or Marks from an enemy stacked with [c][e28002]Parasite[-][/c], the damage won't exceed {1}. Self-Healing provided by [c][e28002]Natural Order[-][/c] increases to {2} of maximum HP."
+754015045,槲寄生,綠之詛咒,"When receiving damage of Attacks or Marks from an enemy stacked with [c][e28002]Parasite[-][/c], the damage won't exceed {1}. Self-Healing provided by [c][e28002]Natural Order[-][/c] increases to {2} of maximum HP."
 752016011,特蕾莎,裁決審判,Damage increases to {1} of Attack.
 752016012,特蕾莎,裁決審判,Damage increases to {1} of Attack.
 752016013,特蕾莎,裁決審判,Damage increases to {1} of Attack.
@@ -1559,3 +1559,23 @@ id,name,skill_name,ex_skill_desc
 756008043,后羿,灼目之矢,"Heal effect increases to {1} of Attack, damage of each stack of [c][e28002]Sun Slayer[-][/c] increases to {2}."
 756008044,后羿,灼目之矢,"Heal effect increases to {1} of Attack, damage of each stack of [c][e28002]Sun Slayer[-][/c] increases to {2}."
 756008045,后羿,灼目之矢,"Sun SlayerHeal effect increases to {1} of Attack, damage of each stack of [c][e28002]Sun Slayer[-][/c] increases to {2}, the damage can trigger Crit."
+754016011,凱茜,林間疊影,Damage increases to {1} of Attack.
+754016012,凱茜,林間疊影,Damage increases to {1} of Attack.
+754016013,凱茜,林間疊影,Damage increases to {1} of Attack.
+754016014,凱茜,林間疊影,Damage increases to {1} of Attack.
+754016015,凱茜,林間疊影,"Damage increases to {1} of Attack, additional damage increases to {2} of target's lost HP, self-healing increases to {3} of damage dealt; Additional damage provided by Cat Eyes increases to {4} of target's lost HP, healing effect provided by Cat Eyes increases to {5} of damage dealt by owner."
+754016021,凱茜,瞳光,Attack increase increases to {1}.
+754016022,凱茜,瞳光,"Attack increase increases to {1}, HP increase increases to {2}, Speed increase increases to {3}."
+754016023,凱茜,瞳光,"Attack increase increases to {1}, HP increase increases to {2}, Speed increase increases to {3}."
+754016024,凱茜,瞳光,"Attack increase increases to {1}, HP increase increases to {2}, Speed increase increases to {3}."
+754016025,凱茜,瞳光,"Attack increase increases to {1}, HP increase increases to {2}, Speed increase increases to {3}."
+754016031,凱茜,執行之刃,Damage increases to {1} of Attack.
+754016032,凱茜,執行之刃,Damage increases to {1} of Attack.
+754016033,凱茜,執行之刃,Damage increases to {1} of Attack.
+754016034,凱茜,執行之刃,Damage increases to {1} of Attack.
+754016035,凱茜,執行之刃,"Damage increases to {1} of Attack, additional damage increases to {2} of target's lost HP, Self-Healing increases to {3} of damage dealt."
+754016041,凱茜,風抹丹青,"Crit Damage increase increases to {1}, Attack increase increases to {2}."
+754016042,凱茜,風抹丹青,"Crit Damage increase increases to {1}, Attack increase increases to {2}."
+754016043,凱茜,風抹丹青,"Speed increase increases to {1}, Crit Damage increase increases to {2}, Attack increase increases to {3}."
+754016044,凱茜,風抹丹青,"Speed increase increases to {1}, Crit Damage increase increases to {2}, Attack increase increases to {3}."
+754016045,凱茜,風抹丹青,"Speed increase increases to {1}, Crit Damage increase increases to {2}, Attack increase increases to {3}."

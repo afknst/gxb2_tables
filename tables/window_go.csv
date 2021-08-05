@@ -94,3 +94,7 @@ id,name,params,activity_id,function_id,desc
 93,activity_window,"{'select':214,'activity_ids':[214,211,212,213], 'activity_type':7}",214,,-1
 94,activity_window,"{'select':224,'activity_ids':[226,227,86,36,224,225,229], 'activity_type':7}",224,,-1
 95,activity_window,"{'select':225,'activity_ids':[226,227,86,36,224,225,229], 'activity_type':7}",225,,-1
+96,activity_window,"{'select':230,'activity_ids':[230,231,232,233], 'activity_type':7}",230,,-1
+97,activity_window,"{'select':231,'activity_ids':[230,231,232,233], 'activity_type':7}",231,,-1
+98,activity_window,"{'select':232,'activity_ids':[230,231,232,233], 'activity_type':7}",232,,-1
+99,activity_window,"{'select':233,'activity_ids':[230,231,232,233], 'activity_type':7}",233,,-1

@@ -320,7 +320,7 @@ DAILY_QUIZ_AWARD,測驗獎勵：
 DAILY_QUIZ_AWARD_1,金幣
 DAILY_QUIZ_AWARD_2,經驗飲料和便當
 DAILY_QUIZ_AWARD_3,戰姬碎片
-DAILY_QUIZ_HELP_1,1.20級開啟金幣測驗，獲勝可得到大量金幣。|2.每天可免費獲得2次測驗機會，獲勝扣除次數，失敗不扣除。|3.提升學長等級可解鎖更高難度的測驗的挑戰，越高難度獲得的獎勵越多。|4.更高的VIP等級可購買更多的額外挑戰次數。|5.戰鬥獲勝有機率獲得2倍或3倍獎勵。
+DAILY_QUIZ_HELP_1,1.20級開啟金幣測驗，獲勝可得到大量金幣和便當。|2.每天可免費獲得2次測驗機會，獲勝扣除次數，失敗不扣除。|3.提升學長等級可解鎖更高難度的測驗的挑戰，越高難度獲得的獎勵越多。|4.更高的VIP等級可購買更多的額外挑戰次數。|5.戰鬥獲勝有機率獲得2倍或3倍獎勵。
 DAILY_QUIZ_HELP_2,1.25級開啟經驗測驗，獲勝可得到大量的經驗飲料和便當。|2.每天可免費獲得2次測驗機會，獲勝扣除次數，失敗不扣除。|3.提升學長等級可解鎖更高難度的測驗的挑戰，越高難度獲得的獎勵越多。|4.更高的VIP等級可購買更多的額外挑戰次數。|5.戰鬥獲勝有機率獲得2倍或3倍獎勵。
 DAILY_QUIZ_HELP_3,1.30級開啟戰姬測驗，獲勝可得到大量的戰姬碎片。|2.每天可免費獲得2次測驗機會，獲勝扣除次數，失敗不扣除。|3.提升學長等級可解鎖更高難度的測驗的挑戰，越高難度獲得的獎勵越多。|4.更高的VIP等級可購買更多的額外挑戰次數。|5.戰鬥獲勝有機率獲得2倍獎勵。
 DAILY_QUIZ_BUY_TIPS_1,VIP{1}只能購買{2}次
@@ -4141,7 +4141,7 @@ LARGE_ACTIVITY_EGG_TEXT,復活節彩蛋
 BP_LOTTERY_CONFIRM,是否消耗{1}個印花抽取獎勵？
 SMASH_EGG_TEXT_07,開{1}次
 SMASH_EGG_TEXT_08,點擊彩蛋可查看獎池
-ITEM_GIFTBAG_OPEN_TIPS,禮物盒開啟中……
+ITEM_GIFTBAG_OPEN_TIPS,開啟中……
 CDKEY_TEXT01,兌換碼
 CDKEY_TEXT02,全員可領，永久有效
 CDKEY_TEXT03,通關關卡[c][0069cc]1-11[-][/c]可使用
@@ -4671,8 +4671,8 @@ MONTH_CARD_TEXT004,1.當購買月卡後：|你將會立即得到900鑽石和750V
 GUILD_POLICY_CHANGED_TIP,社團主要方針已成功更改
 GUILD_OPEN_TYPE_LABEL2,驗證方式
 GUILD_OPWER_LIMIT_LABEL2,戰力限制
-ACTIVITY_BEACH_ISLAND_HELP,1.活動期間，完成任務可獲得獎勵，任務每日刷新。|2.學長需要使用預設的戰姬進行戰鬥，通過關卡可獲得一次性通關獎勵。|3.完成關卡挑戰目標可獲得星星，累計達到一定數量可領取獎勵。
-ACTIVITY_BEACH_ISLAND_TEXT01,每日任務
+ACTIVITY_BEACH_ISLAND_HELP,1.活動期間，完成任務可獲得獎勵，任務每週刷新。|2.學長需要使用預設的戰姬進行戰鬥，通過關卡可獲得一次性通關獎勵。|3.完成關卡挑戰目標可獲得星星，累計達到一定數量可領取獎勵。|4.挑戰目標可分多次完成，關卡沒有挑戰次數限制，學長可重複挑戰關卡進行嘗試。|5.總計有10個關卡，6-10關將於第二週開放。
+ACTIVITY_BEACH_ISLAND_TEXT01,每週任務
 ACTIVITY_BEACH_ISLAND_TEXT02,刷新倒計時
 ACTIVITY_BEACH_ISLAND_TEXT03,需要通過上一關
 ACTIVITY_BEACH_ISLAND_TEXT04,關卡-{1}
@@ -4681,17 +4681,17 @@ ACTIVITY_BEACH_ISLAND_TEXT06,通關獎勵
 ACTIVITY_BEACH_ISLAND_TEXT07,挑戰目標
 ACTIVITY_BEACH_ISLAND_TEXT08,挑戰獎勵
 ACTIVITY_BEACH_ISLAND_TEXT09,已獲得星星數
-ACTIVITY_BEACH_ISLAND_TEXT10,總計獲得 {1} 顆星星
-ACTIVITY_BEACH_PUZZLE_HELP,1.活動期間，消耗彩色細沙將對隨機一個格子進行上色，每次上色均可獲得一份隨機獎勵。|2.指定區域的格子全部上色後，可獲得該區域的獎勵；所有區域均上色後，可獲得本輪繪圖獎勵並進入下一輪。
+ACTIVITY_BEACH_ISLAND_TEXT10,總計獲得 [c][d76500]{1}[-][/c] 顆星星
+ACTIVITY_BEACH_PUZZLE_HELP,1.活動期間，消耗彩色細沙將對隨機一個格子進行上色，每次上色均可獲得一份隨機獎勵。|2.指定區域的格子全部上色後，可獲得該區域的獎勵；所有區域均上色後，可獲得本輪繪圖獎勵並進入下一輪。|3.活動結束後，未使用的彩色細沙及泳裝兌換券將被回收為金幣，分別為18k及100k。
 ACTIVITY_BEACH_PUZZLE_TEXT01,上色
-ACTIVITY_BEACH_PUZZLE_TEXT02,NEXT
+ACTIVITY_BEACH_PUZZLE_TEXT02,下一輪
 ACTIVITY_BEACH_PUZZLE_TEXT03,是否消耗{1}個{2}進行上色？
 ACTIVITY_BEACH_PUZZLE_TEXT04,獎勵預覽
 ACTIVITY_BEACH_PUZZLE_TEXT05,每次上色獎勵
 ACTIVITY_BEACH_PUZZLE_TEXT06,完成繪圖獎勵
 ACTIVITY_BEACH_PUZZLE_TEXT07,完成 {1} 輪繪圖
-ACTIVITY_BEACH_SHOP_TEXT01,新造型
-ACTIVITY_BEACH_SHOP_TEXT02,返場
+ACTIVITY_BEACH_SHOP_TEXT01,沙灘彩繪
+ACTIVITY_BEACH_SHOP_TEXT02,冰塊秘密
 ACTIVITY_BEACH_SHOP_TEXT03,是否使用{1}個{2}進行兌換？
 ACTIVITY_BEACH_MAIN_WINDOW_TEXT01,夏日泳裝造型等你獲取
 ACTIVITY_BEACH_MAIN_WINDOW_TEXT02,立即前往
@@ -4711,3 +4711,18 @@ DRESS_SUIT_WINDOW_6,是否刪除裝扮組合{1}？
 DRESS_SUIT_WINDOW_7,是否使用當前裝扮配置覆蓋？
 DRESS_SUIT_WINDOW_8,是否應用裝扮組合{1}
 DRESS_SUIT_WINDOW_9,裝扮與穿著一致，無需應用
+DRESS_CHECK_OFFICE_WINDOW_1,裝扮套裝預覽
+DRESS_CHECK_OFFICE_WINDOW_2,套裝
+DRESS_CHECK_OFFICE_WINDOW_3,改装扮不可切换款式
+OPEN_AFTER_TIME,{1}後開啟
+DRESS_ITEM_UP_WINDOW_1,進化
+DRESS_ITEM_UP_WINDOW_2,沒有足夠的升級材料
+ACTIVITY_BEACH_SHOP_TEXT04,[c][78ff0c]{1}[-][/c]\n後上架
+ACTIVITY_BEACH_PUZZLE_TEXT08,第 {1} 輪及之後
+DAILY_QUIZ_HELP_4,1.20級開啟金幣測驗，25級開啟經驗測驗，30級開啟戰姬測驗。|2.學長每天可免費獲得2次測驗機會，獲勝扣除次數，失敗不扣除。|3.提升學長等級可解鎖更高難度的測驗的挑戰，越高難度獲得的獎勵越多。|4.更高的VIP等級可購買更多的額外挑戰次數。|5.戰鬥獲勝有機率獲得2倍或3倍獎勵。|6.金幣測驗、經驗測驗和戰姬測驗都完成最高難度的挑戰時，自動開啟「一鍵領取」功能。|7.「一鍵領取」可以幫助學長快速消耗所有測驗機會，並領取所有測驗獎勵。
+GACHA_RECORD_HELP,1.扭蛋記錄中，將展示學長最近50次扭蛋抽取結果。|2.扭蛋記錄將包含普通扭蛋、高級扭蛋、愛心扭蛋與心願扭蛋。|3.持續一段時間未登入後，扭蛋記錄可能會被清除。
+GACHA_RECORD_TITLE,扭蛋記錄
+ACTIVITY_BEACH_GIFTBAG_HELP,1.禮包刷新時，將會在現有限購次數的基礎上，增加新的限購次數。
+GACHA_RECORD_EMPTY,沒有扭蛋記錄哦…
+ACTIVITY_BEACH_SHOP_TEXT05,海灘樂鬥
+ACTIVITY_BEACH_ISLAND_MAIN_WINDOW,目標是\n陽光與沙灘

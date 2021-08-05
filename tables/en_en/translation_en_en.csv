@@ -1764,7 +1764,7 @@ DAILY_QUIZ_DESC,There are higher levels of reward to be earned. Tap here to chal
 DAILY_QUIZ_FIGHT_FIRST,Please tap the image on the left to switch the quiz level.
 SENIOR_SCROLL_IF_BUY,プレミアムガチャコインが足りません、購入しますか？
 TOWER_LEVEL,Stage{1}
-MAKE_CAKE_HELP,"1. {1} can be used to exchange prizes at the event interface. | 2. There are five stages in total. The first stage is opened by default. The next stage needs to be unlocked by exchanging any one of the items of the previous one. | 3. Every exchange can get an extra reward for the current stage. The extra rewards for each stage are different and are mentioned in the exchange pages. |4. The exchange page will exist 15 days, and on the last day, {1} will be removed from loot drop.|5. {1} can be received in the following ways: Campaign Loot, purchasing event value packs, Special Skin Packs and Special Gift Packs, Luvly's Elite Supply ,completing Luvly's Journey (available from 7/30 to 8/05), Exclusive Task and Girls X Capsule Points (available from 8/06 to 8/12).|6. The unused {1} will be automatically exchanged into Coins at the rate of 20K Coins each after the event is over. The Coins will be sent via Mail."
+MAKE_CAKE_HELP,"1. {1} can be used to exchange prizes at the event interface. | 2. There are five stages in total. The first stage is opened by default. The next stage needs to be unlocked by exchanging any one of the items of the previous one. | 3. Every exchange can get an extra reward for the current stage. The extra rewards for each stage are different and are mentioned in the exchange pages. |4. The exchange page will exist 15 days, and on the last day, {1} will be removed from loot drop.|5. {1} can be received in the following ways: Campaign Loot, purchasing event Value Packs, Special Skin Packs, Special Gift Packs, Luvly's Elite Supply, completing Luvly's Journey(available from 7/30 to 8/05), Exclusive Task (available from 7/30 to 8/05) and Girls X Capsule Points (available from 8/06 to 8/12).|6. The unused {1} will be automatically exchanged into Coins at the rate of 20K Coins each after the event is over. The Coins will be sent via Mail."
 MAKE_CAKE_ITEM_TEXT1,First
 MAKE_CAKE_ITEM_TEXT2,Second
 MAKE_CAKE_ITEM_TEXT3,Third
@@ -4140,7 +4140,7 @@ LARGE_ACTIVITY_EGG_TEXT,Easter Egg
 BP_LOTTERY_CONFIRM,Use {1} Floral Stamp to claim reward?
 SMASH_EGG_TEXT_07,{1}x
 SMASH_EGG_TEXT_08,Tap the eggs to check the rewards.
-ITEM_GIFTBAG_OPEN_TIPS,Opening Gift Boxes...
+ITEM_GIFTBAG_OPEN_TIPS,Opening...
 CDKEY_TEXT01,Gift Code
 CDKEY_TEXT02,Available for EVERYONE!
 CDKEY_TEXT03,Pass stage [c][0069cc]1-11[-][/c] to use
@@ -4672,8 +4672,8 @@ MONTH_CARD_TEXT004,"1. After purchasing Monthly Pass, you will instantly receive
 GUILD_POLICY_CHANGED_TIP,Guild Priority changed successfully
 GUILD_OPEN_TYPE_LABEL2,Verification
 GUILD_OPWER_LIMIT_LABEL2,Power Limit
-ACTIVITY_BEACH_ISLAND_HELP,"1. Complete the tasks to get rewards during the event, the tasks will be refreshed daily.|2. You need to fight with default Girls provided in the event. You will get rewards for passing each stage.|3. Stars can be obtained by completing stage challenges. Reach target progress to obtain additional rewards."
-ACTIVITY_BEACH_ISLAND_TEXT01,Daily Task
+ACTIVITY_BEACH_ISLAND_HELP,"1. Complete the tasks to get rewards during the event, the tasks will be refreshed weekly.|2. You need to fight with default Girls provided in the event. You will get rewards for passing each stage.|3. Stars can be obtained by completing stage challenges. Reach target progress to obtain additional rewards.|4. Challenge objectives for 1 stage doesn't need to be completed in 1 single battle, you can complete them seperately. During the event, you don't have a challenge limit for the stages.|5. There're 10 stages for the event, Stage 6 - Stage 10 will be unlocked in the 2nd week of the event."
+ACTIVITY_BEACH_ISLAND_TEXT01,Weekly Tasks
 ACTIVITY_BEACH_ISLAND_TEXT02,Refresh
 ACTIVITY_BEACH_ISLAND_TEXT03,Need to pass the previous stage first
 ACTIVITY_BEACH_ISLAND_TEXT04,Stage {1}
@@ -4682,17 +4682,17 @@ ACTIVITY_BEACH_ISLAND_TEXT06,Reward
 ACTIVITY_BEACH_ISLAND_TEXT07,Challenge
 ACTIVITY_BEACH_ISLAND_TEXT08,Challenge Reward
 ACTIVITY_BEACH_ISLAND_TEXT09,Stars acquired
-ACTIVITY_BEACH_ISLAND_TEXT10,Acquire {1} stars in total
-ACTIVITY_BEACH_PUZZLE_HELP,"1. During the event, you can consume Colorful Sand to color a random block. You can receive a random reward by coloring each block.|2.. After coloring a certain area, you will receive corresponding rewards. Once all the blocks are colored, you will receive a Completion Reward and enter the next round."
+ACTIVITY_BEACH_ISLAND_TEXT10,Acquire [c][d76500]{1}[-][/c] stars in total
+ACTIVITY_BEACH_PUZZLE_HELP,"1. During the event, you can consume Colorful Sand to color a random block. You can receive a random reward by coloring each block.|2. After coloring a certain area, you will receive corresponding rewards. Once all the blocks are colored, you will receive a Completion Reward and enter the next round.|3. Once the event ends, the remaining Colorful Sand and Swimsuit Tickets will automatically be recycled into Coins at a rate of 18k per Colorful Sand and 100k per Swimsuit Ticket."
 ACTIVITY_BEACH_PUZZLE_TEXT01,Color
-ACTIVITY_BEACH_PUZZLE_TEXT02,NEXT
+ACTIVITY_BEACH_PUZZLE_TEXT02,Next
 ACTIVITY_BEACH_PUZZLE_TEXT03,Confirm to consume {1} {2}s to paint?
 ACTIVITY_BEACH_PUZZLE_TEXT04,Preview
 ACTIVITY_BEACH_PUZZLE_TEXT05,Coloring Reward
 ACTIVITY_BEACH_PUZZLE_TEXT06,Completion Reward
 ACTIVITY_BEACH_PUZZLE_TEXT07,Complete {1} picture(s)
-ACTIVITY_BEACH_SHOP_TEXT01,New Skin
-ACTIVITY_BEACH_SHOP_TEXT02,Previous
+ACTIVITY_BEACH_SHOP_TEXT01,2021
+ACTIVITY_BEACH_SHOP_TEXT02,2020
 ACTIVITY_BEACH_SHOP_TEXT03,Confirm to exchange with {1} {2}s?
 ACTIVITY_BEACH_MAIN_WINDOW_TEXT01,Swimsuit-themed skins awaits!
 ACTIVITY_BEACH_MAIN_WINDOW_TEXT02,Go
@@ -4712,3 +4712,18 @@ DRESS_SUIT_WINDOW_6,Confirm to delete Outfit Set {1}?
 DRESS_SUIT_WINDOW_7,Confirm to replace the record with your current Outfit setting?
 DRESS_SUIT_WINDOW_8,Confirm to apply Outfit Setting {1}?
 DRESS_SUIT_WINDOW_9,Same outfit is already applied to the character
+DRESS_CHECK_OFFICE_WINDOW_1,Preview
+DRESS_CHECK_OFFICE_WINDOW_2,Set
+DRESS_CHECK_OFFICE_WINDOW_3,There's no other style for this piece of Outfit
+OPEN_AFTER_TIME,Starts in: {1}
+DRESS_ITEM_UP_WINDOW_1,Evolve
+DRESS_ITEM_UP_WINDOW_2,Need more upgrade material
+ACTIVITY_BEACH_SHOP_TEXT04,Available\nAfter\n[c][78ff0c]{1}[-][/c]
+ACTIVITY_BEACH_PUZZLE_TEXT08,After Round {1}
+DAILY_QUIZ_HELP_4,"1. Coin Quiz is available after reaching player level 20, EXP Quiz is available after reaching player level 25, and Girl Quiz is available after reaching player level 30.|2. 2 free chances can be obtained for each quiz daily. After successfully acquiring the corresponding rewards, the chances will then expire (chances won’t be consumed for failing in a quiz).|3. By getting to higher player levels, you will be able to unlock more difficult quizzes and earn better rewards.|4. You can purchase more extra chances by reaching higher VIP levels.|5. There are random chances to get double or triple rewards in a successful quiz attempt.|6. Multi-claim feature can be unlocked after winning the highest levels of quiz battles for Coin, EXP and Girl Quiz.|7. Multi-claim feature can help you to consume all your quiz chances and get all the resource rewards in a shorter time."
+GACHA_RECORD_HELP,"1.Capsule Record will the latest 50 results of your capsule draws.|2. Capsule Record records your result in Regular Capsule, Advanced Capsule, BFF Capsule and Wish Capsule.|3. Capsule Record could be cleared if you have been offline for a certain period of time."
+GACHA_RECORD_TITLE,Capsule Record
+ACTIVITY_BEACH_GIFTBAG_HELP,"1. Once the pack refreshes, an additional purchase limit will be added onto your current purchase limit basis."
+GACHA_RECORD_EMPTY,No Record yet...
+ACTIVITY_BEACH_SHOP_TEXT05,2019
+ACTIVITY_BEACH_ISLAND_MAIN_WINDOW,To\nThe Beach!
