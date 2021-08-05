@@ -9,10 +9,10 @@
 **?**: Temporary
 
 ##### T1
-Angelica (DC), Apate (CD), Vivian (SCDM)
+Angelica (DC), Apate (CD), Holly (TS?)
 
 ##### T2
-Joan (DC), Kassy (S?), Teresa (TCD)
+Joan (DC), Kassy (SD?), Teresa (TCD), Vivian (SCD)
 
 ##### T3
 Izanami (SC), Mika (CTD), Nephilim (DC), Skye (SC)
