@@ -30,13 +30,13 @@
 **T1**  
 Angelica (DC)  
 Apate (CD)  
-Holly (TS?)  
+Holly (TC?)  
 
 <!-- [cn] -->
 **T1**  
 后羿 (DC)  
 阿帕忒 (CD)  
-槲寄生 (TS?)  
+槲寄生 (TC?)  
 
 <!-- [en] -->
 **T2**  
