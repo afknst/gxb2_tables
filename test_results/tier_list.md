@@ -11,24 +11,26 @@
 **M**: Multiple copies required/recommended  
 **?**: Temporary
 
-**T1**  
-Angelica (DC)  
-Apate (CD)  
-Holly (TC?)  
+**T1**: In most cases **all** of the girls below are necessary to build a decent team  
+Angelica (DC)    
+Holly (TC)  
 
-**T2**  
-Joan (DC)  
-Kassy (SD?)  
+**T2**: **Some** of the girls below are necessary  to build a decent team   
+Apate (CD)  
+Kassy (SD)  
+Skye (SC)  
 Teresa (TCD)  
 Vivian (SCD)  
 
-**T3**  
+**T3**: **In rare cases** few girls below might be used in a decent team  
+Frexie (CD)  
 Izanami (SC)  
+Joan (DC)  
+Von Helsing (DCM)  
+
+**T4**: Guardians of **sub teams**  
 Mika (CTD)  
 Nephilim (DC)  
-Skye (SC)  
-
-**T4**  
 Psychic (SC)  
 Raphael (S)  
 Vera (SCD)  

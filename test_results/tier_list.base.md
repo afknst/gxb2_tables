@@ -27,53 +27,57 @@
 **?**: 临时
 
 <!-- [en] -->
-**T1**  
-Angelica (DC)  
-Apate (CD)  
-Holly (TC?)  
+**T1**: In most cases **all** of the girls below are necessary to build a decent team  
+Angelica (DC)    
+Holly (TC)  
 
 <!-- [cn] -->
-**T1**  
+**T1**: 强队通常需要以下**所有**角色   
 后羿 (DC)  
-阿帕忒 (CD)  
-槲寄生 (TC?)  
+槲寄生 (TC)  
 
 <!-- [en] -->
-**T2**  
-Joan (DC)  
-Kassy (SD?)  
+**T2**: **Some** of the girls below are necessary  to build a decent team   
+Apate (CD)  
+Kassy (SD)  
+Skye (SC)  
 Teresa (TCD)  
 Vivian (SCD)  
 
 <!-- [cn] -->
-**T2**  
-劉備 (DC)  
-凱茜 (SD?)  
+**T2**: 强队需要其中**部分**角色  
+阿帕忒 (CD)  
+凱茜 (SD)  
+稀風 (SC)  
 特蕾莎 (TCD)  
 薇薇安 (SCD)  
 
 <!-- [en] -->
-**T3**  
+**T3**: **In rare cases** few girls below might be used in a decent team  
+Frexie (CD)  
 Izanami (SC)  
-Mika (CTD)  
-Nephilim (DC)  
-Skye (SC)  
+Joan (DC)  
+Von Helsing (DCM)  
 
 <!-- [cn] -->
-**T3**  
+**T3**: 强队**偶尔**需要其中某些角色    
+菲斯納 (CD)  
 伊邪那美 (SC)  
-雲母 (CTD)  
-路西菲爾 (DC)  
-稀風 (SC)  
+劉備 (DC)  
+凡赫辛 (DCM)  
 
 <!-- [en] -->
-**T4**  
+**T4**: Guardians of **sub teams**  
+Mika (CTD)  
+Nephilim (DC)  
 Psychic (SC)  
 Raphael (S)  
 Vera (SCD)  
 
 <!-- [cn] -->
-**T4**  
+**T4**: **二三队**守卫者  
+雲母 (CTD)  
+路西菲爾 (DC)  
 黃月英 (SC)  
 華佗 (S)  
 薇拉 (SCD)  
