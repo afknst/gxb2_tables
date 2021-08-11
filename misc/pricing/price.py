@@ -23,27 +23,32 @@ def get_price(_item: "{'NAME': (QUANTITY, PROBABILITY)}"):
     return _price
 
 
+def equal_price(_quantity_self, _name_dist, _quantity_dist):
+    assert _name_dist in price
+    return price[_name_dist] * _quantity_dist / _quantity_self
+
+
 price['gem'] = 1
-price['gold'] = 50 * price['gem'] / 3.5e6
+price['gold'] = equal_price(3.9e6, 'gem', 50)
 price['juice'] = 1.5 * price['gold']
-price['bento'] = 1e6 * price['gold'] / 500
-price['chisel'] = 0.6 * price['bento']
+price['bento'] = equal_price(500, 'gold', 1e6)
+price['chisel'] = 0.5 * price['bento']
 
 price['custom_box_15k'] = 15e3 * price['bento']
 
-price['cap_blue'] = 0.5e6 * price['gold'] / 10
+price['cap_blue'] = equal_price(10, 'gold', 0.5e6)
 price['cap_purple'] = 130
 price['seal'] = 2.5 * price['cap_purple']
-price['rune'] = price['cap_purple'] * 0.6
+price['rune'] = price['cap_purple'] * 0.5
 
-price['girlbox_n'] = 0.75 * 60 * price['rune']
+price['girlbox_n'] = 0.6 * 60 * price['rune']
 price['girlbox_ad'] = 80 * price['rune']
-price['antique_box_n'] = 0.6 * price['girlbox_n']
+price['antique_box_n'] = 0.5 * price['girlbox_n']
 price['antique_shard_orange'] = 0.2 * price['antique_box_n'] / 50.
 price['antique_shard_red'] = 0
 price['lucky_crystal'] = price['antique_box_n'] / 80
 
-price['shard_3'] = 0.5e6 * price['gold'] / 20
+price['shard_3'] = equal_price(20, 'gold', 0.5e6)
 price['shard_4'] = 100 / 89
 price['shard_5'] = (8 * 30 * price['shard_4'] + 4 * 20 * price['shard_3']) / 50
 
@@ -55,19 +60,19 @@ price['shard_4_ad'] = 2 * price['shard_4']
 price['shard_5_ad'] = (8 * 30 * price['shard_4_ad'] +
                        4 * 20 * price['shard_3']) / 50
 price['shard_5_elite'] = get_price({
-    'girlbox_n': (1 / 50, 0.05),
-    'shard_5': (1, 0.95),
+    'girlbox_n': (1 / 50, 0.03),
+    'shard_5': (1, 0.97),
 })
 price['shard_5_elite_ad'] = get_price({
-    'girlbox_ad': (1 / 50, 0.2),
-    'shard_5_ad': (1, 0.8),
+    'girlbox_ad': (1 / 50, 0.1),
+    'shard_5_ad': (1, 0.9),
 })
 price['lunar_badge'] = price['shard_5_elite'] / 120
 price['solar_badge'] = price['shard_5_elite_ad'] / 240
 # price['HE80_raid_n'] = 89 * price['shard_4'] + 87 * price['lunar_badge']
 # price['HE80_raid_ad'] = 89 * price['shard_4'] + 87 * price['solar_badge']
 
-price['portfolio'] = price['girlbox_n'] / 7000
+price['portfolio'] = price['girlbox_n'] / 15e3
 
 price['doll_6_n'] = 6 * price['shard_5'] * 50 + 2550 * price['bento']
 price['doll_6_ad'] = 6 * price['shard_5_ad'] * 50 + 2550 * price['bento']
@@ -84,7 +89,7 @@ price['gear_set_1'] = price['gear_set_2'] / 3
 
 # price['class_gear_set_ti'] = price['gear_set_6'] + 4000 + 80e6 * price['gold']
 price['class_gear_set'] = 150 * price['rune']
-price['antique_p2w'] = price['class_gear_set']
+price['antique_p2w'] = 1.5 * price['class_gear_set']
 price['elementium'] = (price['antique_p2w'] -
                        23.8 * price['cap_purple']) / (3600 - 2380)
 
@@ -113,7 +118,13 @@ price['ticket_yellow_real'] = 10 / 8 * get_price({
     'shard_5_elite': (50, 1),
 }) / 320
 
-price['ticket_league'] = price['gold'] * 500e3 / 10
+price['ticket_yellow'] = min(
+    price['ticket_yellow'],
+    price['ticket_yellow_real'],
+)
+del price['ticket_yellow_real']
+
+price['ticket_league'] = equal_price(10, 'gold', 0.5e6)
 
 # https://docs.google.com/spreadsheets/d/14LepRzkMoStHXfFlnGFAPcUH99zCoALY6m0qysrRlgA/edit#gid=95120154
 price['intern_1'] = get_price({
@@ -185,16 +196,16 @@ price['scroll_purple'] = get_price({
     'intern_7': (1, 0.02),
 })
 
-price['crystal_purple'] = 5 * 50 * price['chisel'] * 28. / 50
-price['cookie_yellow'] = 50 * price['chisel'] * 15. / 500
-price['cookie_blue'] = 50 * price['chisel'] * 24. / 100
+price['crystal_purple'] = 10 * equal_price(50, 'chisel', 28 * 50)
+price['cookie_yellow'] = equal_price(500, 'chisel', 15 * 50)
+price['cookie_blue'] = equal_price(100, 'chisel', 24 * 50)
 
 price['floppy_disk'] = 0
-price['usb_disk'] = 0.7
+price['usb_disk'] = 0.75
 
 price['bread'] = 2
-price['wood'] = 0.05 * 10 * price['bread'] / 15
-price['crystal_blue'] = 1/3 * price['crystal_purple']
+price['wood'] = 0
+price['crystal_blue'] = 1 / 10 * price['crystal_purple']
 
 price['chest_1'] = get_price({
     'wood': (15, 1),
