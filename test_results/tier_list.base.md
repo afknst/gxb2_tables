@@ -11,6 +11,7 @@
 [中文](https://github.com/afknst/gxb2_tables/blob/master/test_results/tier_list.cn.md)
 
 <!-- [en] -->
+## Role
 >**D**: Damage source  
 **S**: Support (buffer/healer)  
 **C**: Control, mark, or skill effect (debuffer)  
@@ -19,6 +20,7 @@
 **?**: Temporary
 
 <!-- [cn] -->
+## 定位
 >**D**: 输出  
 **S**: 辅助 (加成/治疗)  
 **C**: 控制, 印记, 或 技能效果 (减益)  
@@ -27,60 +29,78 @@
 **?**: 临时
 
 <!-- [en] -->
-**T1**: In most cases **all** of the girls below are necessary to build a decent team  
-Angelica (DC)    
-Holly (TC)  
+## Equipment
+>**SPD**: 3?332, Speed core, Deception, Speed excursion  
+**HP**: 1?312, HP/HP, Eternal Dawn, HP excursion  
+**ENERGY**: **SPD** but with energy antique  
+**HP/CRIT**: **HP** but with Crit core  
 
 <!-- [cn] -->
-**T1**: 强队通常需要以下**所有**角色   
-后羿 (DC)  
-槲寄生 (TC)  
+## 配置
+>**SPD**: 3?332, 速度核心, 浮華虛言, 速度大本营  
+**HP**: 1?312, HP/HP核心, 不落黎明, HP大本营  
+**ENERGY**: **SPD** 用能量魂器    
+**HP/CRIT**: **HP** 用暴击核心  
+
+<!-- [common] -->
+## T1
 
 <!-- [en] -->
-**T2**: **Some** of the girls below are necessary  to build a decent team   
-Apate (CD)  
-Kassy (SD)  
-Skye (SC)  
-Teresa (TCD)  
-Vivian (SCD)  
+In most cases **all** of the girls below are necessary to build a decent team  
 
 <!-- [cn] -->
-**T2**: 强队需要其中**部分**角色  
-阿帕忒 (CD)  
-凱茜 (SD)  
-稀風 (SC)  
-特蕾莎 (TCD)  
-薇薇安 (SCD)  
+强队通常需要以下**所有**角色   
+
+<!-- [common] -->
+>Angelica / 后羿 (DC): **HP/CRIT** or **ENERGY**     
+Holly / 槲寄生 (TC): **HP**   
+
+<!-- [common] -->
+## T2
 
 <!-- [en] -->
-**T3**: **In rare cases** few girls below might be used in a decent team  
-Frexie (CD)  
-Izanami (SC)  
-Joan (DC)  
-Von Helsing (DCM)  
+**Some** of the girls below are necessary  to build a decent team   
 
 <!-- [cn] -->
-**T3**: 强队**偶尔**需要其中某些角色    
-菲斯納 (CD)  
-伊邪那美 (SC)  
-劉備 (DC)  
-凡赫辛 (DCM)  
+强队需要其中**部分**角色  
+
+<!-- [common] -->
+>Apate / 阿帕忒 (CD): **ENERGY** or **SPD**  
+Kassy / 凱茜 (SD): **ENERGY**, **SPD**, or **HP**   
+Skye / 稀風 (SC): **ENERGY**, **SPD**, or **HP**   
+Teresa / 特蕾莎 (TCD): **SPD**  
+Vivian / 薇薇安 (SCD): **HP**   
+
+<!-- [common] -->
+## T3
 
 <!-- [en] -->
-**T4**: Guardians of **sub teams**  
-Mika (CTD)  
-Nephilim (DC)  
-Psychic (SC)  
-Raphael (S)  
-Vera (SCD)  
+**In rare cases** few girls below might be used in a decent team  
 
 <!-- [cn] -->
-**T4**: **二三队**守卫者  
-雲母 (CTD)  
-路西菲爾 (DC)  
-黃月英 (SC)  
-華佗 (S)  
-薇拉 (SCD)  
+强队**偶尔**需要其中某些角色  
+
+<!-- [common] -->
+>Frexie / 菲斯納 (CD): **HP** or **SPD**   
+Izanami / 伊邪那美 (SC): **HP**   
+Joan / 劉備 (DC): **HP/CRIT** or **HP**   
+Von Helsing / 凡赫辛 (DCM): **ENERGY** or **SPD**   
+
+<!-- [common] -->
+## T4
+
+<!-- [en] -->
+Guardians of **sub teams**  
+
+<!-- [cn] -->
+**二三队**守卫者  
+
+<!-- [common] -->
+>Mika / 雲母 (CTD): **HP**  
+Nephilim / 路西菲爾 (DC): **HP**  
+Psychic / 黃月英 (SC): **HP**   
+Raphael / 華佗 (S): **HP**  
+Vera / 薇拉 (SCD): **HP**   
 
 <!-- [en] -->
 ---

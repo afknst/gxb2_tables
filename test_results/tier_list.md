@@ -4,6 +4,7 @@
 [English](https://github.com/afknst/gxb2_tables/blob/master/test_results/tier_list.md),
 [中文](https://github.com/afknst/gxb2_tables/blob/master/test_results/tier_list.cn.md)
 
+## Role
 >**D**: Damage source  
 **S**: Support (buffer/healer)  
 **C**: Control, mark, or skill effect (debuffer)  
@@ -11,29 +12,47 @@
 **M**: Multiple copies required/recommended  
 **?**: Temporary
 
-**T1**: In most cases **all** of the girls below are necessary to build a decent team  
-Angelica (DC)    
-Holly (TC)  
+## Equipment
+>**SPD**: 3?332, Speed core, Deception, Speed excursion  
+**HP**: 1?312, HP/HP, Eternal Dawn, HP excursion  
+**ENERGY**: **SPD** but with energy antique  
+**HP/CRIT**: **HP** but with Crit core  
 
-**T2**: **Some** of the girls below are necessary  to build a decent team   
-Apate (CD)  
-Kassy (SD)  
-Skye (SC)  
-Teresa (TCD)  
-Vivian (SCD)  
+## T1
 
-**T3**: **In rare cases** few girls below might be used in a decent team  
-Frexie (CD)  
-Izanami (SC)  
-Joan (DC)  
-Von Helsing (DCM)  
+In most cases **all** of the girls below are necessary to build a decent team  
 
-**T4**: Guardians of **sub teams**  
-Mika (CTD)  
-Nephilim (DC)  
-Psychic (SC)  
-Raphael (S)  
-Vera (SCD)  
+>Angelica / 后羿 (DC): **HP/CRIT** or **ENERGY**     
+Holly / 槲寄生 (TC): **HP**   
+
+## T2
+
+**Some** of the girls below are necessary  to build a decent team   
+
+>Apate / 阿帕忒 (CD): **ENERGY** or **SPD**  
+Kassy / 凱茜 (SD): **ENERGY**, **SPD**, or **HP**   
+Skye / 稀風 (SC): **ENERGY**, **SPD**, or **HP**   
+Teresa / 特蕾莎 (TCD): **SPD**  
+Vivian / 薇薇安 (SCD): **HP**   
+
+## T3
+
+**In rare cases** few girls below might be used in a decent team  
+
+>Frexie / 菲斯納 (CD): **HP** or **SPD**   
+Izanami / 伊邪那美 (SC): **HP**   
+Joan / 劉備 (DC): **HP/CRIT** or **HP**   
+Von Helsing / 凡赫辛 (DCM): **ENERGY** or **SPD**   
+
+## T4
+
+Guardians of **sub teams**  
+
+>Mika / 雲母 (CTD): **HP**  
+Nephilim / 路西菲爾 (DC): **HP**  
+Psychic / 黃月英 (SC): **HP**   
+Raphael / 華佗 (S): **HP**  
+Vera / 薇拉 (SCD): **HP**   
 
 ---
 **Additional Notes**  
