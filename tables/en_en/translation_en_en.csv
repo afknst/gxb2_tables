@@ -1402,7 +1402,7 @@ TEN_STAR_EXCHANGE_TEXT01,Please select the same girl
 TEN_STAR_EXCHANGE_TEXT02,Please select a 10-Star Girl
 TEN_STAR_EXCHANGE_TEXT04,Please select required materials
 TEN_STAR_EXCHANGE_SUMMARY,You'll fuse a certain 10-star girl by consuming other girls n this event. Please view Help for more details.
-TEN_STAR_EXCHANGE_HELP,"1. Girls Exchange allows you to exchange an existing 10-Star (or 10-Star +) for another Girl in the same House (Star rank will remain the same and an identical Girl will not appear.)|2. To exchange a 10-Star Girl, you require 5 Diploma and a certain number of 5-Star Girls. The higher the level, the more 5-Star Girls will be required.|3. Once the exchange has been completed, the original 10-Star Girl’s level, attribute level, gear, crystal, antique and Limit Break stage will be transferred to the new 10-Star Girl.|4. Through this exchange, Intimacy will be transferred from the 5-Star Girl with the highest Intimacy.|5. If an Oath was made with a consumed 5-Star Girl, the Oath will automatically be transferred to the new Girl, without the Oath Ring being returned.|6. For the 5-Star Girl consumed in this exchange, resources equivalent to being Transferred will be returned.|7. Diplomas can be acquired through limited-time events."
+TEN_STAR_EXCHANGE_HELP,"1. Girls Exchange allows you to exchange an existing 10-Star (or 10-Star +) for another Girl in the same House (Star rank will remain the same and an identical Girl will not appear.)|2. To exchange a 10-Star Girl, you require 5 Diploma and a certain number of 5-Star Girls. The higher the level, the more 5-Star Girls will be required.|3. Once the exchange has been completed, the original 10-Star Girl’s level, grade, gear, crystal, antique and Limit Break stage will be transferred to the new 10-Star Girl.|4. Through this exchange, Intimacy will be transferred from the 5-Star Girl with the highest Intimacy.|5. If an Oath was made with a consumed 5-Star Girl, the Oath will automatically be transferred to the new Girl, without the Oath Ring being returned.|6. For the 5-Star Girl consumed in this exchange, resources equivalent to being Transferred will be returned.|7. Diplomas can be acquired through limited-time events."
 TEN_STAR_EXCHANGE_TEXT05,Exchange for 10-Star {1}?
 TEN_STAR_EXCHANGE_TEXT06,You can't exchange this 10-Star Girl with herself.
 TEN_STAR_EXCHANGE_TEXT03,Exchange?
@@ -4203,7 +4203,7 @@ GUILD_ROAM_HELP,"1. The Traveling Merchant will arrive at the Guild every Monday
 GUILD_ROAM_TEXT12,Traveling Merchant
 GUILD_WINDOW_HELP_U3,"1. A Guild begins at Level 1. You can level up the guild by getting Guild Exp from Guild Member daily sign-ins. Guild Exp gained from signing in cannot exceed Guild Capacity for its members.|2. The basic Member Capacity is 15. You can increase the limit by leveling up the Guild. The maximum capacity is 30.|3. Deputy Leaders are able to change the Guild Name, Guild Information, and Guild Icon; send Guild Mails to members; as well as manage recruitment and remove members.|4. The Guild Leader has the privileges of a Deputy Leader, but they can also appoint or remove Deputy Leader titles, remove Deputy Leaders from the Guild and dismiss the Guild.|5. A Guild can have at most 3 Deputy Leaders.|6. If the Guild Leader is absent for more than 7 days, leadership will be automatically transferred to a deputy leader. If all the deputy leaders are also absent for more than 7 days, the leadership will be automatically transferred to the player with the highest level.|7. Guild Coins will not be removed after you are removed from or quit a Guild.|8. Traveling Merchant will appear on every Monday, Wednesday, Friday and Saturday to sell her limited packs after your Guild reaches Lv. 4."
 GUILD_LAB_WINDOW_HELP_U3,"1.Level up Lab skills to increase your Girls' stats|2. Lab skill buffs only work for your own Girls. Lab skills will travel with you if you transfer to a new Guild  later.|3. The second page of skills can be unlocked once the first page of the corresponding Class skill has been fully upgraded.|4. You can spend Gems to reset the Guild Skill upgrades in the current page and get all the resource you spent on this page, the first reset on each page is for free."
-TRAVEL_EXPLORE_HELP_U3,"1. Players will encounter random events while exploring. Each exploration consumes 10 Tasty Breads.|2. Tasty Breads are produced by the Food Truck and can also be purchased.|3. Random events that can occur in Explore includes encountering enemies, wild chests, quest giver, food truck and store.|Enemy Encounter: A battle triggers where enemies need to be defeated to gain treasure chests. Players will encounter elite enemies after every 5th victory. Defeat elite enemies to obtain higher grade chests.|Wild Chest: Obtain a chest directly.|Quest Giver: Complete the quest giver’s request and obtain a chest.|Food Truck: Produces Tasty Breads that can be obtained.|Store: Coins can be spent to purchase higher grade chests.|4. Newly acquired chests will be unlocked but requires time to open or players can spend gems to instantly obtain chest rewards.|5. Once chest slots are full, new chests cannot be acquired.|6. Upgrade Exploration level to upgrade chest grade and unlock chest slots, Exploration can be upgraded to maximum Lv. 10, but enemies encountered will also be stronger.|7. After your Explore Level reaches 3, you can ""Skip"" the battles in Enemy Encounters."
+TRAVEL_EXPLORE_HELP_U3,"1. Players will encounter random events while exploring. Each exploration consumes 10 Tasty Breads.|2. Tasty Breads are produced by the Food Truck and can also be purchased.|3. Random events that can occur in Explore includes encountering enemies, wild chests, quest giver, food truck and store.|Enemy Encounter: A battle triggers where enemies need to be defeated to gain treasure chests. Players will encounter elite enemies after every 5th victory. Defeat elite enemies to obtain higher grade chests.|Wild Chest: Obtain a chest directly.|Quest Giver: Complete the quest giver’s request and obtain a chest.|Food Truck: Produces Tasty Breads that can be obtained.|Store: Coins can be spent to purchase chests.|4. Newly acquired chests will be unlocked but require time to open or players can spend gems to instantly obtain chest rewards.|5. Once chest slots are full, new chests cannot be acquired.|6. Upgrade Exploration level to upgrade chest grade and unlock chest slots, Exploration can be upgraded to maximum Lv. 10, but enemies encountered will also be stronger.|7. After your Explore Level reaches 3, you can ""Skip"" the battles in Enemy Encounters. You will also unlock the feature to multi-open the chests and Auto Explore at the same Explore Level."
 GUILD_BOSS_CANT_FIGHT,You can no longer challenge this Boss as you have already challenged another Boss today.
 GUILD_COMPETITION_SIMULATE_DAMAGE,Demo Battle Damage:
 ACTIVITY_NEWBEE_LESSON_HELP,"1. The event will run for 14 days during which players can participate. Complete daily tasks and cumulative tasks.|2. There are 6 Study Program tasks that can be completed to obtain Study Certificates. Daily Program Study tasks will be refreshed at 0:00 (UTC/GMT 0), unclaimed rewards will not remain once it has been refreshed.|3. Cumulative tasks and progress will not be refreshed daily and each section of rewards can only be obtained once. VIP experience obtained before the start of the event will be accumulated into the progress.|4. Study Certificates can be used to participate in the limited event “Program Study”."
@@ -4654,8 +4654,8 @@ PERSON_DRESS_MAIN_27,Equip
 LIFE_2,Life
 GUILD_POLICY_TITLE,Please select your Guild Priority
 GUILD_NUM_TIPS,Member:
-GUILD_LANG_TIPS,Main Language
-GUILD_POLICY_TIPS,Priority
+GUILD_LANG_TIPS,Main Language:
+GUILD_POLICY_TIPS,Priority:
 GUILD_APPLY_NO_ACCEPUT,The Guild currently doesn't need any new member.
 GUILD_APPLY_NEED_POWER,The Guild requires higher Power to enter
 GUILD_CHOOSE_FLAG,Choose Flag
@@ -4716,7 +4716,7 @@ DRESS_CHECK_OFFICE_WINDOW_1,Preview
 DRESS_CHECK_OFFICE_WINDOW_2,Set
 DRESS_CHECK_OFFICE_WINDOW_3,There's no other style for this piece of Outfit
 OPEN_AFTER_TIME,Starts in: {1}
-DRESS_ITEM_UP_WINDOW_1,Evolve
+DRESS_ITEM_UP_WINDOW_1,Outfit Upgrade
 DRESS_ITEM_UP_WINDOW_2,Need more upgrade material
 ACTIVITY_BEACH_SHOP_TEXT04,Available\nAfter\n[c][78ff0c]{1}[-][/c]
 ACTIVITY_BEACH_PUZZLE_TEXT08,After Round {1}
@@ -4727,3 +4727,85 @@ ACTIVITY_BEACH_GIFTBAG_HELP,"1. Once the pack refreshes, an additional purchase 
 GACHA_RECORD_EMPTY,No Record yet...
 ACTIVITY_BEACH_SHOP_TEXT05,2019
 ACTIVITY_BEACH_ISLAND_MAIN_WINDOW,To\nThe Beach!
+DRESS_BUFF_SHOW_WINDOW_1,Buff Details
+DRESS_COLLECTION_WINDOW_1,Gallery
+GUILD_ID_TIPS,ID:
+TRAVEL_NEW_TEXT01,Auto Explore
+TRAVEL_NEW_TEXT02,Explore Settings
+TRAVEL_NEW_TEXT03,Event Settings:
+TRAVEL_NEW_TEXT04,Accept Gem Quest Giver's offer
+TRAVEL_NEW_TEXT05,Purchase the Chests in Stores
+TRAVEL_NEW_TEXT06,Fight the enemies you meet
+TRAVEL_NEW_TEXT07,Special Requirements
+TRAVEL_NEW_TEXT08,"When no Chest slots are available, Gems can be used to open your first Chest to continue Exploring."
+TRAVEL_NEW_TEXT09,Stop the Explore if you lose in a battle
+TRAVEL_NEW_TEXT10,Auto Exploring...
+TRAVEL_NEW_TEXT11,Stop
+ACTIVITY_JUNGLE_HELP,"1. During the event, 3-6 Ancient Silver Coins can be obtained from each Jungle exploration and increase the Exploration Progress by 1 point in the corresponding area.|2. You will get corresponding rewards once the Exploration Progress in the areas has reached a certain amount. The Exploration progress of an area will reach 100%% after you get 800 points of Exploration progress in the area (Once the Exploration Progress in an area has reached 100%%, you can still explore the area).|3. Ancient Silver Coins and Ancient Gold Coins can be used to exchange rewards in the event store.|4. Once the event ends, the remaining Traditional Riceballs will automatically be recycled.|5. Once the event ends, the remaining Ancient Silver Coins and Ancient Gold Coins will automatically be recycled into Coins at a rate of 20k per Ancient Silver Coin and 200k per Ancient Gold Coin."
+ACTIVITY_JUNGLE_TEXT01,Store
+ACTIVITY_JUNGLE_TEXT02,Explore
+ACTIVITY_JUNGLE_TEXT03,Please select your explore area
+ACTIVITY_JUNGLE_TEXT04,Select
+ACTIVITY_JUNGLE_TEXT05,*Reach certain Exploration Progress to get reward!
+ACTIVITY_JUNGLE_TEXT06,Please choose your Exploration times
+ACTIVITY_JUNGLE_TEXT07,Progress Reward
+ACTIVITY_JUNGLE_TEXT08,Explore this area {1} times
+TRAVEL_NEW_TEXT12,"The battle is lost, your Auto Explore has been stopped"
+TRAVEL_NEW_TEXT13,Not enough Chest Slots
+TRAVEL_NEW_TEXT14,"1. Auto Explore feature can be unlocked once you reach Explore Level 3.|2. You will need to activate the Auto Explore button first to use this feature.|3. In ""Event Settings"", your exploration team will retreat when the unselected event occurrences appear.|4. You can stop the an ongoing Auto Explore by tapping the ""Stop"" button or shutting down the Explore page."
+DRESS_UNLOCK_STYLE_TIPS,Confirm to spend {1} {2}s to unlock the style?
+TRAVEL_NEW_TEXT15,No Chest available
+TRAVEL_NEW_TEXT16,You need to stop the Auto Explore first
+DRESS_ITEM_UP_WINDOW_3,No shard is needed
+ACTIVITY_POPULARITY_VOTE_SURVEYTEXT01,Event details
+ACTIVITY_POPULARITY_VOTE_SURVEYTEXT02,Vote
+ACTIVITY_POPULARITY_VOTE_SURVEYTEXT03,Champion
+ACTIVITY_POPULARITY_VOTE_SURVEYTEXT04,"After 19 days of voting, one Girl has finally prevailed as the winner of Miss Yume 2021 and that is Nephilim! \nWe will be designing an exclusive skin for her and have so far created 4 drafts. With this survey, we would like you to decide which skin you think suits her the most. Vote now to decide the final outcome!"
+ACTIVITY_POPULARITY_VOTE_SURVEYTEXT05,A. Hail to King
+ACTIVITY_POPULARITY_VOTE_SURVEYTEXT06,B. Miss Yume
+ACTIVITY_POPULARITY_VOTE_SURVEYTEXT07,C. Heaven's Light
+ACTIVITY_POPULARITY_VOTE_SURVEYTEXT08,D. Starlight Idol
+ACTIVITY_POPULARITY_VOTE_SURVEYTEXT09,Confirm
+DRESS_CHOOSE_SHOW_WINDOW_1,Selected Outfit Shards
+DRESS_CHOOSE_SHOW_WINDOW_2,Unselected Outfit Shards
+STUDY,Study
+DRESS_CHOOSE_FRAGMENT_WINDOW_1,All shards are selected
+DRESS_CHOOSE_FRAGMENT_WINDOW_2,Can be selected after the corresponding Outfit Piece is upgraded to max level
+TAKE_OUT_NUM,Take out number:
+DRESS_CHOOSE_FRAGMENT_WINDOW_3,Outfit Shards
+DRESS_CHOOSE_FRAGMENT_WINDOW_4,Shards selection completed
+DRESS_CHOOSE_FRAGMENT_WINDOW_5,Limit Reached!
+ACTIVITY_POPULARITY_VOTE_SURVEYTEXT13,Miss Yume Skin Voting
+DRESS_SUMMON_LABEL_2,Tap to check obtainable Outfit
+DRESS_SUMMON_LABEL_4,Orange Outfit piece in [c][e96516]{1}[-][/c] Draw(s)
+DRESS_SUMMON_LABEL_1,Limited Free Chance: {1}
+DRESS_SUMMON_LABEL_3,The rate to get [Beach Freshness] set during the event
+ACTIVITY_POPULARITY_VOTE_SURVEYTEXT10,Miss Yume Skin Voting
+ACTIVITY_POPULARITY_VOTE_SURVEYTEXT11,"Senpai, thank you for your support! Hope you enjoy a wonderful time on campus!"
+ONE_KEY_UPLEVEL_TITLE,Quick Upgrade
+ONE_KEY_UPLEVEL_HINT,Please confirm you want to use want to use the corresponding resources to upgrade to the highest level the character can reach?
+CLICK_WHITE_AREA_SKIP,Tap to skip
+ACTIVITY_POPULARITY_VOTE_SURVEYTEXT12,No option is selected
+DRESS_SUMMON_X_TIME,Purchase [size=34]{1}[-]
+DRESS_BUY_WINDOW_TEXT01,Outfit Sale Reward
+DRESS_BUY_WINDOW_TEXT02,Reward Details
+DRESS_BUY_WINDOW_TEXT03,Rate
+DRESS_BUY_WINDOW_TEXT04,Guarantee
+DRESS_BUY_WINDOW_TEXT05,普通卡池保底機制說明文本
+DRESS_BUY_WINDOW_TEXT06,限時卡池保底機制說明文本
+DRESS_BUY_WINDOW_TEXT07,Reward Preview
+DRESS_BUY_WINDOW_TEXT08,Rate Up
+DRESS_BUY_WINDOW_TEXT09,占橙色裝扮抽取機率的999%%：
+DRESS_BUY_WINDOW_TEXT10,占紅色裝扮抽取機率的999%%：
+DRESS_BUY_WINDOW_TEXT11,橙色裝扮占總抽取機率的0%%
+DRESS_BUY_WINDOW_TEXT12,紅色裝扮占總抽取機率的0%%
+DRESS_BUY_WINDOW_TEXT13,綠色裝扮占總抽取機率的0%%
+DRESS_BUY_WINDOW_TEXT14,紫色裝扮占總抽取機率的0%%
+DRESS_BUY_WINDOW_TEXT15,黃色裝扮占總抽取機率的0%%
+DRESS_BUY_WINDOW_TEXT16,藍色裝扮占總抽取機率的0%%
+DRESS_SUMMON_LABEL_5,Free purchase chance after countdown reaches 0
+DRESS_SUMMON_LABEL_6,You won't get the duplicates of the following Outfit pieces after acquiring them.
+DRESS_CHOOSE_FRAGMENT_WINDOW_6,Add All
+DRESS_CHOOSE_FRAGMENT_WINDOW_7,Not enough shards
+DRESS_CHOOSE_FRAGMENT_WINDOW_8,Add all completed
+ACTIVITY_JUNGLE_TEXT09,"Exploration Progress has reached 100%%, confirm to continue?"

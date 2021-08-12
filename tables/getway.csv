@@ -149,3 +149,5 @@ id,name,lv_limit,function_id,stage,go_window,go_params,is_close,close_win_name,l
 150,-1,0,,,activity_window,"select:167,activity_type2:1",1,,,
 151,-1,0,,,activity_window,"select:159,activity_type2:1",1,,,
 152,-1,0,,,activity_window,"select:233,large_series:1",1,,,
+153,-1,0,,,activity_window,"select:234,activity_type2:1",1,,,
+154,-1,0,,,activity_window,"select:17,activity_type2:1",1,,,

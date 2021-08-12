@@ -8179,6 +8179,7 @@ id,type,buff,num,round,prob
 1238001,1238,decDmgNadd,0.06,3,1
 1238002,1238,decDmgNadd,0.09,3,1
 1238003,1238,decDmgNadd,0.12,3,1
+1238004,1238,decDmgNadd,0.14,3,1
 1239001,1239,reviveINFnum,8,99,1
 1240001,1240,ampHurt,0.3,1,1
 1240002,1240,ampHurt,-0.3,99,1
