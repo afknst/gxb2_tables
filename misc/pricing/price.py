@@ -330,6 +330,16 @@ price['scratch_card'] = get_price({
     (120, factorial(5) * (4 * _p0**3 * _p2**2 + 2 * _p0**4 * _p2)),
 })
 
+price['jigsaw'] = get_price({
+    'shard_4': (10 * 8, 1),
+    'shard_5': (2 * 8 + 74, 1),
+    'gold': (200e3 * 24, 1),
+    'ticket_yellow': (25, 1),
+    'ticket_purple': (10, 1),
+    'cap_purple': (15, 1),
+    'seal': (5, 1),
+}) / 168
+
 print_price(price)
 
 with open('price.json', 'w') as fp:
