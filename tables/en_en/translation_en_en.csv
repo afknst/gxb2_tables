@@ -710,7 +710,7 @@ GAMBLE_SUPER_COIN_NOT_ENOUGH,Not enough High Stakes Slot Tickets
 MAIL_TEXT02,Claim
 MAIL_TEXT03,Delete
 MAIL_TEXT04,Reply
-WISHING_POOL_GIFTBAG_TEXT01,Every pull on the Slot Machine will give 1 point. Event rewards will be sent through Mail when you earn enough points. You can earn rewards 5 times during the event!
+WISHING_POOL_GIFTBAG_TEXT01,Every pull on the Slot Machine will give 1 point. Event rewards will be sent through Mail when you earn enough points. You can earn reward 8 times during the event!
 GAMBLE_NO_RECORDS,No Records...
 PUB_MISSION_GIFTBAG_TEXT01,"The event will be refreshed every 30 days, complete Internship quests the tasks suggested. Rewards will be sent to your account via Mail~"
 PUB_MISSION_WITH_STAR,Completed {1} Star Internship Quest!
@@ -1421,7 +1421,7 @@ PET_EVOLVE_TITLE,Evolution
 PET,Servant
 PET_CANT_RESTORE_TIPS,Respawning requires your Servant or Servant Aura to be higher than level 1.
 CHOOSE_PET_WINDOW,Servant Team-Up
-CHOOSE_PET_TITLE,Please select a Servant for the fight.
+CHOOSE_PET_TITLE,Please select the Servant for your lineup (Tap to view the details)
 CHOOSE_PET_TEXT01,Not Tamed
 CHOOSE_PET_TEXT02,Team-Up
 PET_INFO_WINDOW,Servant Details
@@ -4721,7 +4721,7 @@ DRESS_ITEM_UP_WINDOW_2,Need more upgrade material
 ACTIVITY_BEACH_SHOP_TEXT04,Available\nAfter\n[c][78ff0c]{1}[-][/c]
 ACTIVITY_BEACH_PUZZLE_TEXT08,After Round {1}
 DAILY_QUIZ_HELP_4,"1. Coin Quiz is available after reaching player level 20, EXP Quiz is available after reaching player level 25, and Girl Quiz is available after reaching player level 30.|2. 2 free chances can be obtained for each quiz daily. After successfully acquiring the corresponding rewards, the chances will then expire (chances won’t be consumed for failing in a quiz).|3. By getting to higher player levels, you will be able to unlock more difficult quizzes and earn better rewards.|4. You can purchase more extra chances by reaching higher VIP levels.|5. There are random chances to get double or triple rewards in a successful quiz attempt.|6. Multi-claim feature can be unlocked after winning the highest levels of quiz battles for Coin, EXP and Girl Quiz.|7. Multi-claim feature can help you to consume all your quiz chances and get all the resource rewards in a shorter time."
-GACHA_RECORD_HELP,"1.Capsule Record will the latest 50 results of your capsule draws.|2. Capsule Record records your result in Regular Capsule, Advanced Capsule, BFF Capsule and Wish Capsule.|3. Capsule Record could be cleared if you have been offline for a certain period of time."
+GACHA_RECORD_HELP,"1.Capsule Record will show the latest 50 results of your capsule draws.|2. Capsule Record records your result in Regular Capsule, Advanced Capsule, BFF Capsule and Wish Capsule.|3. Capsule Record could be cleared if you have been offline for a certain period of time."
 GACHA_RECORD_TITLE,Capsule Record
 ACTIVITY_BEACH_GIFTBAG_HELP,"1. Once the pack refreshes, an additional purchase limit will be added onto your current purchase limit basis."
 GACHA_RECORD_EMPTY,No Record yet...
@@ -4780,7 +4780,7 @@ DRESS_SUMMON_LABEL_2,Tap to check obtainable Outfit
 DRESS_SUMMON_LABEL_4,Orange Outfit piece in [c][e96516]{1}[-][/c] Draw(s)
 DRESS_SUMMON_LABEL_1,Limited Free Chance: {1}
 DRESS_SUMMON_LABEL_3,The rate to get [Beach Freshness] set during the event
-ACTIVITY_POPULARITY_VOTE_SURVEYTEXT10,Miss Yume Skin Voting
+ACTIVITY_POPULARITY_VOTE_SURVEYTEXT10,Miss Yume\nSkin Voting
 ACTIVITY_POPULARITY_VOTE_SURVEYTEXT11,"Senpai, thank you for your support! Hope you enjoy a wonderful time on campus!"
 ONE_KEY_UPLEVEL_TITLE,Quick Upgrade
 ONE_KEY_UPLEVEL_HINT,Please confirm you want to use want to use the corresponding resources to upgrade to the highest level the character can reach?
@@ -4795,12 +4795,12 @@ DRESS_BUY_WINDOW_TEXT05,普通卡池保底機制說明文本
 DRESS_BUY_WINDOW_TEXT06,限時卡池保底機制說明文本
 DRESS_BUY_WINDOW_TEXT07,Reward Preview
 DRESS_BUY_WINDOW_TEXT08,Rate Up
-DRESS_BUY_WINDOW_TEXT09,占橙色裝扮抽取機率的999%%：
+DRESS_BUY_WINDOW_TEXT09,佔橙色裝扮抽取機率的999%%：
 DRESS_BUY_WINDOW_TEXT10,占紅色裝扮抽取機率的999%%：
 DRESS_BUY_WINDOW_TEXT11,橙色裝扮占總抽取機率的0%%
 DRESS_BUY_WINDOW_TEXT12,紅色裝扮占總抽取機率的0%%
 DRESS_BUY_WINDOW_TEXT13,綠色裝扮占總抽取機率的0%%
-DRESS_BUY_WINDOW_TEXT14,紫色裝扮占總抽取機率的0%%
+DRESS_BUY_WINDOW_TEXT14,紅色裝扮占總抽取機率的0%%
 DRESS_BUY_WINDOW_TEXT15,黃色裝扮占總抽取機率的0%%
 DRESS_BUY_WINDOW_TEXT16,藍色裝扮占總抽取機率的0%%
 DRESS_SUMMON_LABEL_5,Free purchase chance after countdown reaches 0
@@ -4809,3 +4809,32 @@ DRESS_CHOOSE_FRAGMENT_WINDOW_6,Add All
 DRESS_CHOOSE_FRAGMENT_WINDOW_7,Not enough shards
 DRESS_CHOOSE_FRAGMENT_WINDOW_8,Add all completed
 ACTIVITY_JUNGLE_TEXT09,"Exploration Progress has reached 100%%, confirm to continue?"
+ACCOUNT_HELP,"1. If you are using a guest account, you can tap on your avatar and link your account to a suitable third-party platform account under Settings.|2. For quicker and more efficient help, you can contact us via Facebook ""Girls X Battle 2"". Our support will help you with the procedure!|3. You can tap the account icon on the top right corner of the login page to switch your account.|4. If you lose your game account, you can contact us via Facebook and provide the following information: player name, server, linked third-party platform account, etc. If you have previously purchased any gift pack for your account, you can also send the payment receipt as the account information. You can also contact us directly in-game (tap on the second icon on the top right corner of the login page)!|5. If you have a login problem, you can write to our support team on the login page and describe your current problem to us (for example, ""my account got restricted"", ""login via third-platform account failed"", etc.). You can also send a screenshot so that we can confirm the problem more quickly.|6. The link between your account and the third-party platform account cannot be removed or changed, but the login data for ""quick login"" can still be set additionally, which can help you log in quicker.|7. If an account is sold to another player, we can no longer ensure the account's safety. So please avoid providing your account information to other players. We reserve the right to treat (mute, suspend, etc.) any such sold or shared account. An account that is sold always belongs to the original owner of the account. In most cases, players that sell their account are only in to gain the buyer’s money and will not necessarily transfer their account ownership. Selling, sharing, and gifting the account are violations of our Terms of Use and are strictly prohibited. If you notice such activities, you can report these players to us at any time."
+HOUSE_AWARD_TIPS,No reward available
+ACTIVITY_ANTIQUE_LEVELUP_HELP,"
+1. You are able to upgrade Orange Antiques to Pink Antiques in Antique Laboratory.|2. Upgrade rule:
+1-star Pink Antique=6-star Orange Antique + any star of the same Antique of orange quality + 6000 Antique Extracts
+2-star Pink Antique=1-star Pink Antique + any star of the same Antique of orange quality + 10000 Antique Extracts
+3-star Pink Antique=2-star Pink Antique + any star of the same Antique of orange quality + 14000 Antique Extracts|3. If the ""any star of the same Antique of orange quality"" that is mentioned above is used as material, the Afterglow used on the Antique will be returned.|4. You can Disassemble Antiques in the Antique Laboratory and get Antique Extracts. (Pink Antiques cannot be Disassembled).|5. There is a limited amount of Antique Extracts that can be obtained in the Antique Laboratory each season, once the limit has been reached (60000 Antique Extracts for each season), Afterglow will be obtained thereafter in place of Antique Extracts at the rate of 1:1.|6. Players can reverse pink Antiques in the Antique Laboratory and retrieve the Antique materials used before the upgrade."
+ACTIVITY_ANTIQUE_LEVELUP_TEXT01,Improve
+ACTIVITY_ANTIQUE_LEVELUP_TEXT02,Reverse
+ACTIVITY_ANTIQUE_LEVELUP_TEXT03,Select Antique
+ACTIVITY_ANTIQUE_LEVELUP_TEXT04,Please select the Antique you want to Improve
+ACTIVITY_ANTIQUE_LEVELUP_TEXT05,Please select the material Antique
+ACTIVITY_ANTIQUE_LEVELUP_TEXT06,Confirm to improve this Antique?
+ACTIVITY_ANTIQUE_LEVELUP_TEXT07,Please select the Antique you want to Reverse
+ACTIVITY_ANTIQUE_LEVELUP_TEXT08,Confirm to Reverse this Antique?
+ACTIVITY_ANTIQUE_LEVELUP_TEXT09,Antique Disassemble
+ACTIVITY_ANTIQUE_LEVELUP_TEXT10,Please select the Antique(s) you want to Disassemble
+ACTIVITY_ANTIQUE_LEVELUP_TEXT11,You need to select the Antique(s) you want to Reverse
+ACTIVITY_ANTIQUE_LEVELUP_TEXT12,Confirm to Disassemble?
+ACTIVITY_ANTIQUE_LEVELUP_TEXT13,Disassemble
+ACTIVITY_ANTIQUE_LEVELUP_TEXT14,Preview
+SAME_TRAINING_MISSION_AGAIN,Do you want to let your servants repeat their last training course(s)?
+QUICK_STARS_TEXT01,Auto-select non-Elite 5-star Materials
+QUICK_STARS_TEXT02,4-star Graduate
+QUICK_STARS_TEXT03,Bulk Graduate
+QUICK_STARS_TEXT04,No Girl material
+ACTIVITY_ANTIQUE_LEVELUP_TEXT15,"You have reached the limit of 60,000 Antique Extracts for this event. Disassembling more Antiques in the event will only grant Afterglow at the rate of 1:1. Do you wish to continue?"
+ACTIVITY_ANTIQUE_LEVELUP_TEXT16,"The chosen Antique is currently\nequipped by another Girl, continue?"
+DAILY_QUIZ_TEXT04,"If you need extra Quiz Chances, please enter\nthe number of Chances you would like to purchase:"

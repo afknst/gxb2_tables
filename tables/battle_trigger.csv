@@ -132,3 +132,8 @@ id,trigger,desc,is_god_skill,limit_times,is_die_pas,is_hp_pas,is_can_use_by_pas
 131,TOTAL_ATTACK_NUM_TEN,-1,,,,,
 132,BEFORE_BATTLE_START,-1,,,,,
 133,SELF_ATTACK_AFTER,-1,,,,,
+134,EVERY_4_ROUND,-1,,,,,
+135,EVERY_5_ROUND,-1,,,,,
+136,EVERY_6_ROUND,-1,,,,,
+137,ENEMY_DIE_2,-1,,,,,
+138,SELF_AFTER_SKILL_2,-1,,,,,

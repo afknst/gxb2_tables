@@ -59,7 +59,7 @@ gacha_ensure_partner,54016#654023#754016,-1
 gacha_ensure_partner_handbook,54016#654023#754016,-1
 daily_mail_awards_gacha,2|35,-1
 daily_mail_awards_tree,3|11,-1
-daily_mail_awards_gamble,4|18,-1
+daily_mail_awards_gamble,18|36|37,-1
 daily_mail_awards_drift,30|8,-1
 daily_mail_awards_week,18|22,-1
 daily_mail_awards_arena,30|8|19,-1
@@ -68,12 +68,15 @@ partner_force_req_lev,29|39|49|59|79|99|139|159|179|199|249|259|269|289,-1
 friend_energy_cd,7200,-1
 friend_energy_max,10,-1
 love_coin_daily_max,30,-1
-friend_max_num,30,-1
+friend_max_num,50,-1
 friend_search_level,36,-1
 friend_recommend_num,10,-1
 friend_recommend_update,7200,-1
 friend_search_cd,28800,-1
 friend_love_sum_max,1000,-1
+friend_recommend_servernum,50,-1
+friend_recommend_level,10,-1
+friend_recommend_power,200000,-1
 mail_cd,30,-1
 arena_robot_min_score,900,-1
 arena_robot_add_score,30,-1
@@ -111,7 +114,7 @@ activity_cv_share_award,2#100,-1
 stage_activity_dropbox,16,-1
 stage_activity_dropbox2,20,-1
 stage_activity_dropbox3,74,-1
-stage_activity_dropbox4,166|168,-1
+stage_activity_dropbox4,74,-1
 guild_transfer_cd,604800,-1
 activity_guard_boss_hp,100,-1
 activity_guard_item_atk,49#10,-1
@@ -304,8 +307,8 @@ nsshaft_max_empty_line,3,-1
 first_all_server_arena_time,1570406400,-1
 funopen_all_server_arena_time,1570406400,-1
 nsshaft_bgm,8006,-1
-new_questionnaire_begin_time,1628762573,-1
-new_questionnaire_end_time,1628935373,-1
+new_questionnaire_begin_time,1629417600,-1
+new_questionnaire_end_time,1629676800,-1
 new_questionnaire_award,2#100|36#1,-1
 new_questionnaire_level_limit,70,-1
 new_questionnaire_type,8,-1
@@ -477,7 +480,7 @@ comic_comment_length_limit_ko_kr,12|120,-1
 activity_letter,36#10|2#1000|940002#50,-1
 activity_birthday_colour_awards,1#18000|1#16000,-1
 activity_birthday_colour_limit,100000,-1
-activity_44_hero_model,luxifeier_pifu04_lihui01|500|-780|0.9|5600605|7193,-1
+activity_44_hero_model,teleisha_pifu02_lihui01|530|-1750|0.65|5201603|7200,-1
 activity_birthday_colour_cost,147#1,-1
 activity_birthday_cake_cost,148#1,-1
 activity_birthday_cake_rounds_limit,25,-1
@@ -488,7 +491,7 @@ activity_privileged_card_trial_rewards,1*2000|15*2000,-1
 activity_privileged_card_dungeon_rewards,1*1000|2*1000|10*1000|26*1000|27*1000,-1
 activity_privileged_card_dungeon_drugs,2,-1
 activity_birthday_colour_progress_bit,0.1,-1
-merge_server_now_next,474|490|1629099000,-1
+merge_server_now_next,490|506|1630308600,-1
 activity_privileged_card_ui_type,0#0|1#0,-1
 arena_revenge_cd,300,-1
 activity_swimsuit_cost,154#1,-1
@@ -516,7 +519,7 @@ house_furniture_type_num,10,-1
 activity_fairytale_energy_init,166#10,-1
 activity_fairytale_energy_cd,7200,-1
 activity_fairytale_energy_max,10,-1
-wish_gacha_partners,51014|51013|51012|51011|52015|52014|52013|52012|53013|53012|53011|53007|54014|54013|54012|54011|55009|55008|55007|55006|56007|56006|56005|56004,-1
+wish_gacha_partners,51015|51014|51013|51012|52016|52015|52014|52013|53015|53014|53013|53012|54015|54014|54013|54012|55009|55008|55007|55006|56007|56006|56005|56004,-1
 wish_gacha_dropbox_id,10009,-1
 wish_gacha_weight_ini_total,1000000,-1
 wish_gacha_weight_ini_get,198,-1
@@ -616,7 +619,7 @@ activity_newyear_item_id,196|197,-1
 partner_exskill_reset_cost,2#500,-1
 activity_study_energy,4,-1
 activity_study_energy_limit,4,-1
-activity_study_host,3,-1
+activity_study_host,4,-1
 old_building_start_time,1610668800,-1
 artifact_shop_start_time,1611273600,-1
 travel_train_grade_limit,1#0|2#1|3#1|4#2|5#2|6#3|7#3|8#4|9#4|10#5|11#5|12#6|13#6|14#7|15#7|16#8|17#8|18#9|19#9|20#10|21#10|22#11|23#11|24#12|25#12|26#13|27#13|28#14|29#14|30#15,-1
@@ -679,7 +682,7 @@ activity_newbee_fund2_start_time,1616112000,-1
 activity_sprouts_10_award,10|215#10,-1
 activity_sprouts_point_award,80|930200#50,-1
 activity_sprouts_partner_award,51014,-1
-battle_version,1,-1
+battle_version,2,-1
 activity_newbee_fund_get_time_new,20,-1
 puppet_debris_id,940031|940032|940033|940034|940035|940036|940041|940042|940043|940044|940045|940046|940047|940048|940049|940050|940051|940052,-1
 activity_new_partner_test_id,51014,-1
@@ -816,3 +819,10 @@ dress_common_fragment_qlt_item_ids,3999991|3999992|3999993|3999994|3999995|39999
 dress_gacha_show,3199987|3199988|3199990|3199989|3199991#3199999|3199998|3199997|3199996|3199995,-1
 dress_gacha_free1,86400|120,-1
 dress_gacha_free2,43200|120,-1
+activity_equip_decompose,262|60000|6000,-1
+activity_warmup_arena_score_start,0,-1
+activity_warmup_arena_awards_rank,1000,-1
+activity_warmup_arena_awards,1#100|5#1,-1
+activity_warmup_arena_energy_start,20,-1
+activity_warmup_arena_energy_reset,10,-1
+activity_warmup_arena_buy_costs,2#20|2#20|2#30|2#30|2#30,-1

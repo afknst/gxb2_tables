@@ -600,8 +600,8 @@ id,text
 599,Confidential
 600,Under 18
 601,18 - 21
-602,22 - 25
-603,26 - 30
+602,23-25 years old
+603,26-30 years old
 604,Above 30
 605,<1h
 606,1-3hrs
@@ -710,3 +710,145 @@ id,text
 709,D
 710,C
 711,B
+712,Male
+713,Female
+714,Others
+715,Under 18
+716,18-22 years old
+717,23-25 years old
+718,26-30 years old
+719,Over 30
+720,<1 Hour
+721,1-3 hours
+722,3-6 hours
+723,more than 6 hours
+724,Impressive
+725,Satisfied
+726,Average
+727,Unsatisfied
+728,Really Bad
+729,Bizarre Adventures
+730,Miss Yume Pageant
+731,Entrance Exam
+732,Yes
+733,No
+734,The event was new and enjoyable for me.
+735,"The result of battles was decided mainly by the stats of both sides, and lacking in the strategic aspects."
+736,The event is simple and easy to understand because purchasing Packs help a lot in exploring the event maps.
+737,I do not know much about the event.
+738,Others
+739,Add more events and gimmicks in the event maps to make it more interesting
+740,"Add more Adventure Girls, and give them different attributes and skills"
+741,"Add more Stages to the event, and make the difficulty curve smoother."
+742,Make the Weekly Tasks in Adventure Prep easier to complete
+743,Other ideas
+744,Yes
+745,No
+746,"I liked it a lot, and would like to see more events like this in the future."
+747,"I didn't really care about voting, but I liked the rewards."
+748,"I am not satisfied with some of the tasks, especially the ones that involved acquiring VIP EXP."
+749,The rewards weren't enough to motivate me to participate.
+750,I didn’t enjoy it and don’t recommend it further.
+751,Others
+752,Yes
+753,No
+754,"I was able to try different team lineups, and would like to see another event like this in the future."
+755,"I wasn't familiar with many of the girls, and had no idea how to set up my team."
+756,"There were way too many clicks to set up a full team, and would like it to be made easier."
+757,The rewards weren't attractive enough to motivate me to increase my rankings.
+758,Others
+759,Yes
+760,No
+761,"I have noticed, and I have a special lineup for it."
+762,"I have noticed, but I still used the team I already had to challenge it."
+763,I had no idea that this existed.
+764,I use up my three challenge chances every day without caring about the damage dealt in each challenge.
+765,I spend time to test my team in Demo Battle before using my Challenge Chances.
+766,"I only participated because the Guild Leader asked me to, otherwise I wouldn't spend any time on it."
+767,"I will consider it, because gaining more rewards and reaching higher ranks are my main motivation in the game."
+768,"I won't even consider it, because I like my current Guild members too much to leave."
+769,"It doesn't really matter for me, I don't care about rewards, ranks or Guilds."
+770,Yes
+771,No
+772,"The rewards are okay, I like the free Coins and Gems."
+773,"It gives attribute boosts to Girls set in Main Center, which helps them in battle."
+774,The Explore feature grants materials used to level up the facilities.
+775,I do not know much about this feature.
+776,Others
+777,"I hope the Level cap for the facilities can be increased, because I have reached them already."
+778,I would like to see more types of events in Explore.
+779,"When opening the Chests, it would be nice if the Gems required can be lowered based on the remaining time to open them."
+780,"I want to see more facilities with different uses, and more things to do with this feature."
+781,Other suggestions
+782,Yes
+783,No
+784,I wish to have a feature where Outfit pieces can be obtained constantly.
+785,"After putting on the outfits, I would like to put myself in the Dorms to interact with the girls."
+786,I would like the Outfits to grant special boosts to other features.
+787,"I would like to gain attribute bonuses by upgrading the Outfit pieces, making my Girls stronger in battle."
+788,I would like to have a feature where items to upgrade Outfit pieces can be obtained.
+789,Others
+790,Mecha
+791,Japanese Yukata
+792,Sports Athlete
+793,Military Commander Uniforms
+794,Soldier Uniforms
+795,Wedding Gowns or Suits
+796,Demon outfits
+797,Other themes
+798,Yes
+799,No
+800,"The rewards from Playground are too few, please add more rewards to it."
+801,"There are too few Guilds participating now, please lower the requirements so more Guilds can participate."
+802,"The feature itself is boring, and needs a complete overhaul."
+803,Others
+804,"I would like to team up with other players, and fight with players in different factions."
+805,I would like to fight with more than 3 teams of Girls.
+806,"Before battles, I would like to set girls as Backup: when a Girl is defeated, the Backup Girl will take her place and continue the battle."
+807,I would like to fight against players from other servers together with other players in my server.
+808,Other ideas
+809,I would like to use Girls that have a separate system of leveling up in battles instead of my own girls.
+810,I would like to send out my girls to explore and collect materials while I am away from the game.
+811,I would like to fight with single Bosses with special skills.
+812,I would like to challenge stages that have special team or victory requirements.
+813,Other ideas
+814,Izakaya(Japanese Bar)-style
+815,Aquarium
+816,Race Tracks
+817,Amusement Park
+818,School Campus
+819,Toy-themed
+820,Other Themes
+821,"I'm very familiar with these skins, and I am aware that they are a younger version of the girls and have special voice lines."
+822,"I'm not quite familiar with the skins, and I usually don't pay much attention to Girl Skins."
+823,"I like them, and would like to see more Skins like those in future releases."
+824,I don't like them because they are too different from the original girls.
+825,"I would like to see skins made for Girls whose age in appearance is young, and showcases what they look like when they grow up."
+826,No preference
+827,Others
+828,I would like to have special voice lines made for all skins released in the future.
+829,I would like to have special voice lines made for skins that look different from the original girl appearance if making special voice lines for all skins is not possible.
+830,I don't want to have special voice lines made for skins; the original lines are enough.
+831,I don't care about special voice lines.
+832,"I like Girls whose designs have religious elements, such as Raphael."
+833,"I like Girls who wear School Uniforms, such as Joan or Saint."
+834,"I like Girls whose designs have futuristic elements and Tech aesthetic, such as Trinity and Turin."
+835,"I like Girls with a sad backstory, such as Von Helsing."
+836,"I like Girls who have a unique style, such as Frexie."
+837,"I like Girls who are like K-pop idols, who love to express themselves with their performances on stage."
+838,Other ideas
+839,Apate
+840,Skye
+841,Mika
+842,Von Helsing
+843,Estel
+844,Blair
+845,Holly
+846,Angelica
+847,Frexie
+848,Other Girls
+849,A
+850,E
+851,C
+852,B
+853,D

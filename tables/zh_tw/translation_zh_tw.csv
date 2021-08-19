@@ -716,7 +716,7 @@ GAMBLE_SUPER_COIN_NOT_ENOUGH,高級摸彩券不足！
 MAIL_TEXT02,領 取
 MAIL_TEXT03,刪 除
 MAIL_TEXT04,回 覆
-WISHING_POOL_GIFTBAG_TEXT01,活動期間在普通販賣機每摸彩1次獲得1點積分，達到指定積分即可獲得對應獎勵，透過信件發放！總計可以進行五輪！
+WISHING_POOL_GIFTBAG_TEXT01,活動期間在普通販賣機每摸彩1次獲得1點積分，達到指定積分即可獲得對應獎勵，透過信件發放！總計可以進行8輪！
 GAMBLE_NO_RECORDS,暫無中獎紀錄
 PUB_MISSION_GIFTBAG_TEXT01,該活動每月重置，活動期間，完成對應數量的打工任務即可獲得以下獎勵，獎勵會透過信件直接發放給您喔~
 PUB_MISSION_WITH_STAR,完成{1}星打工任務
@@ -1428,7 +1428,7 @@ PET_EVOLVE_TITLE,進化
 PET,使魔
 PET_CANT_RESTORE_TIPS,只有等級或光環等級大於1級的使魔才能重生
 CHOOSE_PET_WINDOW,使魔上陣
-CHOOSE_PET_TITLE,選擇想要上陣的使魔
+CHOOSE_PET_TITLE,選擇想要上陣的使魔（點擊可查看詳情）
 CHOOSE_PET_TEXT01,未馴養
 CHOOSE_PET_TEXT02,上陣
 PET_INFO_WINDOW,使魔詳情
@@ -4613,7 +4613,7 @@ PERSON_DRESS_MAIN_12,屬性強化
 PERSON_DRESS_MAIN_13,暫無特殊加成
 PERSON_DRESS_MAIN_14,屬性說明
 PERSON_DRESS_MAIN_HELP,1.勇氣、魅力、知識三項屬性只影響以下玩法的戰鬥：校園聯賽、巔峰聯賽、組隊聯賽、終極聯賽、社團戰。|2.進行上述玩法的戰鬥時，分別比較戰鬥雙方的三項屬性，屬性較高的一方受到一定增益效果，屬性較低的一方受到一定減益效果。
-PERSON_DRESS_HELP,1.學長可在此查看並穿戴自己的個性裝扮，改變個人形象。該形象會在個人資料中向其他玩家展示。|2.個性裝扮分為頭部、上衣、下裝、頭飾、裝飾五個部位，每個部位可以分別進行裝扮。其中頭部、上衣、下裝只能切換裝扮，不能脫下裝扮。|3.每件裝扮會有1個或多個款式。部分裝扮的款式在獲得時全部解鎖，部分裝扮的款式需要在獲得後花費鑽石解鎖。學長可隨時切換穿戴裝扮的已解鎖款式。|4.獲得裝扮後會提供「勇氣」「魅力」「知識」三項戰鬥屬性，無需穿戴即可生效。學長可在「衣櫃」中升級已獲得的裝扮，升級裝扮會增加其提供的屬性加成，切換、解鎖不同款式只會影響該裝扮穿戴時的樣式，不影響該裝扮提供的加成。|5.收集一套完整的套裝或部分單件裝扮後，會獲得特殊加成，無需穿戴即可生效。不同的裝扮提供的特殊加成可能不同，但均不會影響戰鬥中的屬性。|6.除1套初始裝扮外，學長目前無法獲得其他裝扮，後續將提供各類獲取途徑，敬請期待~
+PERSON_DRESS_HELP,1.學長可在此查看並穿戴自己的個性裝扮，改變個人形象。該形象會在個人資料中向其他玩家展示。|2.個性裝扮分為頭部、上衣、下裝、頭飾、裝飾五個部位，每個部位可以分別進行裝扮。其中頭部、上衣、下裝只能切換裝扮，不能脫下裝扮。|3.每件裝扮會有1個或多個款式。部分裝扮的款式在獲得時全部解鎖，部分裝扮的款式需要在獲得後花費鑽石解鎖。學長可隨時切換穿戴裝扮中已解鎖的款式。|4.獲得裝扮後會提供「勇氣」「魅力」「知識」三項戰鬥屬性，無需穿戴即可生效。學長可在「衣櫃」中升級已獲得的裝扮，升級裝扮會增加其提供的屬性加成，切換、解鎖不同款式只會影響該裝扮穿戴時的樣式，不影響該裝扮提供的加成。|5.收集一套完整的套裝或部分單件裝扮後，會獲得特殊加成，無需穿戴即可生效。不同的裝扮提供的特殊加成可能不同，但均不會影響戰鬥中的屬性。|6.除1套初始裝扮外，學長目前無法獲得其他裝扮，後續將提供各類獲取途徑，敬請期待~
 PERSON_DRESS_MAIN_15,裝扮圖鑑
 PERSON_DRESS_MAIN_16,暫無裝扮
 PERSON_DRESS_MAIN_17,暫無頭部裝扮
@@ -4794,17 +4794,47 @@ DRESS_BUY_WINDOW_TEXT05,普通卡池保底機制說明文本
 DRESS_BUY_WINDOW_TEXT06,限時卡池保底機制說明文本
 DRESS_BUY_WINDOW_TEXT07,保底獎勵預覽
 DRESS_BUY_WINDOW_TEXT08,機率提升
-DRESS_BUY_WINDOW_TEXT09,占橙色裝扮抽取機率的999%%：
-DRESS_BUY_WINDOW_TEXT10,占紅色裝扮抽取機率的999%%：
-DRESS_BUY_WINDOW_TEXT11,橙色裝扮占總抽取機率的0%%
-DRESS_BUY_WINDOW_TEXT12,紅色裝扮占總抽取機率的0%%
-DRESS_BUY_WINDOW_TEXT13,綠色裝扮占總抽取機率的0%%
-DRESS_BUY_WINDOW_TEXT14,紫色裝扮占總抽取機率的0%%
-DRESS_BUY_WINDOW_TEXT15,黃色裝扮占總抽取機率的0%%
-DRESS_BUY_WINDOW_TEXT16,藍色裝扮占總抽取機率的0%%
+DRESS_BUY_WINDOW_TEXT09,佔橙色裝扮抽取機率的999%%：
+DRESS_BUY_WINDOW_TEXT10,佔紅色裝扮抽取機率的999%%：
+DRESS_BUY_WINDOW_TEXT11,橙色裝扮佔總抽取機率的0%%
+DRESS_BUY_WINDOW_TEXT12,紅色裝扮佔總抽取機率的0%%
+DRESS_BUY_WINDOW_TEXT13,綠色裝扮佔總抽取機率的0%%
+DRESS_BUY_WINDOW_TEXT14,紫色裝扮佔總抽取機率的0%%
+DRESS_BUY_WINDOW_TEXT15,黃色裝扮佔總抽取機率的0%%
+DRESS_BUY_WINDOW_TEXT16,藍色裝扮佔總抽取機率的0%%
 DRESS_SUMMON_LABEL_5,倒計時結束後免費採購
 DRESS_SUMMON_LABEL_6,下列裝扮全部獲得前必定不會重複
 DRESS_CHOOSE_FRAGMENT_WINDOW_6,一鍵置入
 DRESS_CHOOSE_FRAGMENT_WINDOW_7,可選碎片數量不足
 DRESS_CHOOSE_FRAGMENT_WINDOW_8,一鍵置入成功
 ACTIVITY_JUNGLE_TEXT09,探索度已達100%%，是否繼續探索？
+ACCOUNT_HELP,1.如果學長使用的是遊客帳號，在遊戲內先點擊頭像選擇遊戲設置，再點擊帳號按鈕選擇快速綁定，然後選擇合適的第三方管道進行綁定。|2.為了更方便幫助您同時確保您的帳號安全，學長可以添加line ID：@moemoegirls2並進行聯絡，會有專門負責的小甘協助您進行綁定。|3.學長可以在遊戲登入介面，點擊右上角的帳號按鈕，選擇不同的登入管道並進行帳號切換。|4.如果遺忘帳號，想找回遺忘的帳號，請添加line ID：@moemoegirls2，並告知負責小甘，您遇到的具體情況同時提供遺忘帳號的暱稱、所在伺服器、之前登入遊戲的管道等相關訊息。如果有進行過儲值可以提供相應的儲值明細，方便小甘進行查詢。如果您沒有line，可以在GM管道給小甘留言。|5.若帳號無法登入，請學長透過遊戲登入界面的GM管道，向小甘描述帳號無法登入的情況（包括但不限於帳號被限制登入，無法用第三方管道登入），如果您有截圖，可以上傳相關圖片，幫助學妹更容易確認問題並協助您解決。|6.已經綁定了第三方登入帳號是無法進行解綁、換綁的，但是還可以額外綁定快速登入，綁定快速登入以後您可以額外使用快速登入來進入遊戲。|7.若帳號是從一個玩家轉移至另外一個玩家的，我們將無法保證這個帳號的安全性，請避免向他人提供個人帳號等資訊。同時對於被買賣或分享的帳號，我們將保留對該帳號的處置和封禁的權利。出售帳號的一方始終擁有帳號的所有權，他們通常只是為了欺騙買家付款，並不會真正交出帳號的所有權。買賣、共用或者贈與遊戲帳號號違反了我們的服務條款，這些行為是被嚴格禁止的。
+HOUSE_AWARD_TIPS,暫無可領取獎勵
+ACTIVITY_ANTIQUE_LEVELUP_HELP,"
+1.魂器研究所可以將魂器進階到粉色品質。|2.進階規則：
+粉色1星魂器=相同6星橙色魂器+相同任意星級橙色魂器+6000精粹
+粉色2星魂器=相同1星粉色魂器+相同任意星級橙色魂器+10000精粹
+粉色3星魂器=相同2星粉色魂器+相同任意星級橙色魂器+14000精粹|3.選擇1星以上的橙色魂器作為材料時，將返還升級消耗的精華。|4.精粹可以在魂器研究所分解魂器獲得（粉色魂器無法被分解）。|5.每次活動期間，分解可獲得「精粹」的上限為60000，超出上限的部分會1:1轉化為「精華」。|6.進階的粉色魂器可以被回退，並返還進階時消耗的所有材料。"
+ACTIVITY_ANTIQUE_LEVELUP_TEXT01,進階
+ACTIVITY_ANTIQUE_LEVELUP_TEXT02,回退
+ACTIVITY_ANTIQUE_LEVELUP_TEXT03,選擇魂器
+ACTIVITY_ANTIQUE_LEVELUP_TEXT04,請選擇想要進階的魂器
+ACTIVITY_ANTIQUE_LEVELUP_TEXT05,請放入材料魂器
+ACTIVITY_ANTIQUE_LEVELUP_TEXT06,是否進階該魂器？
+ACTIVITY_ANTIQUE_LEVELUP_TEXT07,請選擇想要回退的魂器
+ACTIVITY_ANTIQUE_LEVELUP_TEXT08,是否回退該魂器?
+ACTIVITY_ANTIQUE_LEVELUP_TEXT09,魂器分解
+ACTIVITY_ANTIQUE_LEVELUP_TEXT10,請放入想要分解的魂器
+ACTIVITY_ANTIQUE_LEVELUP_TEXT11,請選擇想要分解的魂器
+ACTIVITY_ANTIQUE_LEVELUP_TEXT12,是否確認分解？
+ACTIVITY_ANTIQUE_LEVELUP_TEXT13,分解
+ACTIVITY_ANTIQUE_LEVELUP_TEXT14,返還預覽
+SAME_TRAINING_MISSION_AGAIN,是否讓相同使魔再次進行原來的訓練課程？
+QUICK_STARS_TEXT01,自動選擇普通5星戰姬材料
+QUICK_STARS_TEXT02,4星戰姬升學
+QUICK_STARS_TEXT03,批量升學
+QUICK_STARS_TEXT04,沒有戰姬材料
+ACTIVITY_ANTIQUE_LEVELUP_TEXT15,可獲得精粹已達上限，是否繼續分解？\n（將會1:1轉化為精華）
+ACTIVITY_ANTIQUE_LEVELUP_TEXT16,該裝備正在被使用，是否繼續選擇？
+DAILY_QUIZ_TEXT04,如需更多次數，請輸入購買次數：
+PUB_MISSION_AUTO_TEXT1,選擇完成
