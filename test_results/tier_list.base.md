@@ -108,18 +108,16 @@ Vera / 薇拉 (SCD): **HP**
 
 The current meta has no best team, but a few good teams that counter each other:
 
-- TEAM1:
+TEAM1:
  - 3-4 VH
  - 2-3 (Kassy and Skye)
 
-
-- TEAM2:   
+TEAM2:   
  - 2 Angie
  - Kassy or Skye
  - Three girls in [Angie, Frexie, VH, Apate, Kassy, Skye, Holly, etc.]
 
-
-- TEAM3:  
+TEAM3:  
  - Apate, Holly, Teresa, Vivian, Angelica
  - One girl in [Angie, Apate, Izanami, Vivian, etc.]
 
