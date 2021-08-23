@@ -56,6 +56,41 @@ Vera / 薇拉 (SCD): **HP**
 
 ---
 **Additional Notes**  
+
+The current meta has no best team, but a few good teams that counter each other:
+
+- TEAM1:
+ - 3-4 VH
+ - 2-3 (Kassy and Skye)
+
+
+- TEAM2:   
+ - 2 Angie
+ - Kassy or Skye
+ - Three girls in [Angie, Frexie, VH, Apate, Kassy, Skye, Holly, etc.]
+
+
+- TEAM3:  
+ - Apate, Holly, Teresa, Vivian, Angelica
+ - One girl in [Angie, Apate, Izanami, Vivian, etc.]
+
+And: TEAM1 > TEAM2 > TEAM3 > TEAM1.
+
+To counter TEAM1, TEAM2 can
+1. use 2 Apate (and they have higher Atk than Angie), or
+1. make Skye's Atk the highest.
+1. use Joan (not recommended since the opponent can just add a Holly).
+
+To counter TEAM2, TEAM3 can
+1. use Izanami, and
+1. equip with 2+ pink3 ED.
+1. do nothing if the opponent uses Frexie.
+
+To counter TEAM3, TEAM1 can
+1. do nothing and just gives up.
+
+**Definitions**
+
 Let `G` be the set of girls, and let `T` be the set of teams (i.e. `T = G^6`). The set of meta teams `MT` is defined as below:  
 ```
 MT_(0) = T,
