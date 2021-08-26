@@ -1579,3 +1579,43 @@ id,name,skill_name,ex_skill_desc
 754016043,凱茜,風抹丹青,"Speed increase increases to {1}, Crit Damage increase increases to {2}, Attack increase increases to {3}."
 754016044,凱茜,風抹丹青,"Speed increase increases to {1}, Crit Damage increase increases to {2}, Attack increase increases to {3}."
 754016045,凱茜,風抹丹青,"Speed increase increases to {1}, Crit Damage increase increases to {2}, Speed and Crit Damage increase duration increases to {3} rounds; Attack increase increases to {4}, Crit increase increases to {5}."
+752017011,莫妮卡,時空流轉,Damage increases to {1} of Attack.
+752017012,莫妮卡,時空流轉,Damage increases to {1} of Attack.
+752017013,莫妮卡,時空流轉,"Damage increases to {1} of Attack, Heal Receive reduction increases to {2}, Attack increase for [c][e28002]Wheel of Fate[-][/c] carrier increases to {3}."
+752017014,莫妮卡,時空流轉,"Damage increases to {1} of Attack, Heal Receive reduction increases to {2}, Attack increase for [c][e28002]Wheel of Fate[-][/c] carrier increases to {3}."
+752017015,莫妮卡,時空流轉,"Damage increases to {1} of Attack, Heal Receive reduction increases to {2}, Attack increase for [c][e28002]Wheel of Fate[-][/c] carrier increases to {3}."
+752017021,莫妮卡,星象推移,Speed increase increases to {1}.
+752017022,莫妮卡,星象推移,Speed increase increases to {1}.
+752017023,莫妮卡,星象推移,"Speed increase increases to {1}, HP increase increases to {2}."
+752017024,莫妮卡,星象推移,"Speed increase increases to {1}, HP increase increases to {2}."
+752017025,莫妮卡,星象推移,"Speed increase increases to {1}, HP increase increases to {2}."
+752017031,莫妮卡,起源法則,Self-Healing increases to {1} of Max HP.
+752017032,莫妮卡,起源法則,Self-Healing increases to {1} of Max HP.
+752017033,莫妮卡,起源法則,"Self-Healing increases to {1} of Max HP, [c][e28002]Future Observation[-][/c] gained at the start of battle increases to {2} stacks."
+752017034,莫妮卡,起源法則,"Self-Healing increases to {1} of Max HP, [c][e28002]Future Observation[-][/c] gained at the start of battle increases to {2} stacks."
+752017035,莫妮卡,起源法則,"Self-Healing increases to {1} of Max HP, [c][e28002]Future Observation[-][/c] gained at the start of battle increases to {2} stacks."
+752017041,莫妮卡,厄運回溯,Heal Receive reduction of [c][e28002]Laws of Time[-][/c] increases to {1}.
+752017042,莫妮卡,厄運回溯,Heal Receive reduction of [c][e28002]Laws of Time[-][/c] increases to {1}.
+752017043,莫妮卡,厄運回溯,Heal Receive reduction of [c][e28002]Laws of Time[-][/c] increases to {1}.
+752017044,莫妮卡,厄運回溯,Heal Receive reduction of [c][e28002]Laws of Time[-][/c] increases to {1}.
+752017045,莫妮卡,厄運回溯,"Heal Receive reduction of [c][e28002]Laws of Time[-][/c] increases to {1}, Immunity reduction of [c][e28002]Laws of Time[-][/c] increases to {2}."
+751016011,戴安娜,黯黑之眼,"Damage increases to {1} of Attack, extra damage increases to {2} of target's Attack."
+751016012,戴安娜,黯黑之眼,"Damage increases to {1} of Attack, extra damage increases to {2} of target's Attack."
+751016013,戴安娜,黯黑之眼,"Damage increases to {1} of Attack, extra damage increases to {2} of target's Attack.; chance to [c][01a310]Silence[-][/c] the target increases to {3}, chance to [c][01a310]Terrorize[-][/c] the target increases to {4}."
+751016014,戴安娜,黯黑之眼,"Damage increases to {1} of Attack, extra damage increases to {2} of target's Attack.; chance to [c][01a310]Silence[-][/c] the target increases to {3}, chance to [c][01a310]Terrorize[-][/c] the target increases to {4}."
+751016015,戴安娜,黯黑之眼,"Damage increases to {1} of Attack, extra damage increases to {2} of target's Attack.; chance to [c][01a310]Silence[-][/c] the target increases to {3}, chance to [c][01a310]Terrorize[-][/c] the target increases to {4}."
+751016021,戴安娜,月泉之源,HP increase becomes {1}.
+751016022,戴安娜,月泉之源,"HP increase becomes {1}, Crit increase becomes {2}."
+751016023,戴安娜,月泉之源,"HP increase becomes {1}, Crit increase becomes {2}, Speed increase becomes {3}."
+751016024,戴安娜,月泉之源,"HP increase becomes {1}, Crit increase becomes {2}, Speed increase becomes {3}."
+751016025,戴安娜,月泉之源,"HP increase becomes {1}, Crit increase becomes {2}, Speed increase becomes {3}."
+751016031,戴安娜,月下之夢,"Damage increases to {1} of Attack, extra damage increases to {2} of target's Attack."
+751016032,戴安娜,月下之夢,"Damage increases to {1} of Attack, extra damage increases to {2} of target's Attack."
+751016033,戴安娜,月下之夢,"Damage increases to {1} of Attack, extra damage increases to {2} of target's Attack, Attack reduction increases to {3}."
+751016034,戴安娜,月下之夢,"Damage increases to {1} of Attack, extra damage increases to {2} of target's Attack, Attack reduction increases to {3}."
+751016035,戴安娜,月下之夢,"Damage increases to {1} of Attack, extra damage increases to {2} of target's Attack, Attack reduction increases to {3}."
+751016041,戴安娜,夢魘之種,"[c][e28002]Nightmare[-][/c] damage on target increases to {1} of Max HP; when the target is defeated, damage dealt to all enemies increases to {2} of Max HP of each enemy."
+751016042,戴安娜,夢魘之種,"[c][e28002]Nightmare[-][/c] damage on target increases to {1} of Max HP; when the target is defeated, damage dealt to all enemies increases to {2} of Max HP of each enemy."
+751016043,戴安娜,夢魘之種,The Damage [c][e28002]Nightmare[-][/c] deals to owner increases to {1} of Max HP; The Damage dealt when the owner is defeated increases to {2} of Max HP of each enemy.
+751016044,戴安娜,夢魘之種,"[c][e28002]Nightmare[-][/c] damage on target increases to {1} of Max HP; when the target is defeated, damage dealt to all enemies increases to {2} of Max HP of each enemy."
+751016045,戴安娜,夢魘之種,"Damage dealt by [c][e28002]Nightmare[-][/c] increased to {1} of owner's Maximum HP. When the owner is defeated, damage dealt to all Diana's enemies increased to {2} of the targets' Maximum HP. Damage limit of [c][e28002]Nightmare[-][/c] increased to {3} of Diana's Attack"

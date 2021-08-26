@@ -1358,7 +1358,7 @@ DATES_TEXT10,好感度:
 DATES_TEXT11,屬性加成:
 GUILD_TEXT66,社團已不存在
 DATES_GIFTES_TIP01,贈送
-GUILD_DININGHALL_HELP,1.點擊獲得訂單可刷新訂單，訂單每12小時可獲得1次；|2.開始訂單後，等待一定時間後，即可獲得獎勵；|3.可花費鑽石升級訂單星級，星級越高獲得的獎勵越豐富；|4.升級餐廳可增加訂單數量和產出，透過捐獻的方式可升級餐廳；|5.餐廳等級為社團成員共享等級，但獲取的訂單為單人獲取，不會與其他成員共享。
+GUILD_DININGHALL_HELP,1.點擊獲得訂單可刷新訂單，訂單每12小時可獲得1次；|2.開始訂單後，等待一定時間後，即可獲得獎勵；|3.可花費鑽石升級訂單星級，星級越高獲得的獎勵越豐富；|4.升級餐廳可增加訂單數量和產出，透過捐獻的方式可升級餐廳；|5.初始只可獲得1個訂單，餐廳每升2級後，重新點擊獲取將增加1個訂單|6.餐廳等級為社團成員共享等級，但獲取的訂單為單人獲取，不會與其他成員共享。
 DATES_TEXT12,贈送成功
 COMPOSE_DATES_GIFTS_TEXT01,禮物製作成功
 COMPOSE_DATES_GIFTS_TEXT02,材料不足
@@ -2086,7 +2086,7 @@ SKIN_TEXT24,與戰姬誓約後獲得
 SKIN_TEXT25,通關角色挑戰·貂蟬後獲得
 MAGICIAN_SUIT,法師套裝
 FRIEND_TEAM_BOSS_TEAM_NAME,{1}小隊
-COUNT_DOWN,結算倒計時
+COUNT_DOWN,結算倒數計時
 INVITE,隊伍
 MSG,留言
 FRIEND_TEAM_BOSS_WINDOW,小隊
@@ -2486,7 +2486,7 @@ ACTIVITY_SCRATCH_CARD_ONE,刮開1張
 ACTIVITY_SCRATCH_CARD_TEN,刮開10張
 ACTIVITY_SCRATCH_CARD_BUY_TITLE,購買戰姬刮刮卡
 ACTIVITY_SCRATCH_CARD_LIMIT,購買次數不足
-ACTIVITY_SCRATCH_CARD_HELP,1.刮開刮刮卡可獲得隨機5種3星戰姬碎片（每種碎片獲得機率相同）|2.活動期間，如果刮開刮刮卡顯示的碎片形成以下組合，除了刮卡獎勵外，陸遜還會送你額外的獎勵喔：| - 包含3個相同學院的戰姬：額外獲得4星戰姬碎片*30| - 包含4個相同學院的戰姬：額外獲得5星戰姬碎片*50| - 包含5個相同學院的戰姬：額外獲得精英5星戰姬碎片*50| - 包含5個不同學院的戰姬：額外獲得修羅4星戰姬碎片*60 + 辰星4星戰姬碎片*60|3.活動結束後，尚未使用的刮刮卡依然可以再背包中使用，但只能獲得3星戰姬碎片獎勵，無法獲得額外獎勵|4.點擊活動頁面右上角紀錄按鈕可查看最近的刮卡紀錄|5.戰姬刮刮卡的獲得方式：| - 透過每日信件獲得| - 透過超值禮包獲得| - 透過特惠禮包獲得| - 透過造型禮包獲得| - 透過戰姬專屬任務獲得| - 活動介面使用鑽石購買(上限2000次)|
+ACTIVITY_SCRATCH_CARD_HELP,1.刮開刮刮卡可獲得隨機5種3星戰姬碎片（每種碎片獲得機率相同）|2.活動期間，如果刮開刮刮卡顯示的碎片形成以下組合，除了刮卡獎勵外，陸遜還會送你額外的獎勵喔：| - 包含2個相同學院的戰姬：額外獲得4星戰姬碎片*5| - 包含3個相同學院的戰姬：額外獲得4星戰姬碎片*30| - 包含4個相同學院的戰姬：額外獲得5星戰姬碎片*50| - 包含5個相同學院的戰姬：額外獲得精英徽章*1| - 包含5個不同學院的戰姬：額外獲得限定十連券*1|3.活動結束後，尚未使用的刮刮卡依然可以再背包中使用，但只能獲得3星戰姬碎片獎勵，無法獲得額外獎勵|4.點擊活動頁面右上角紀錄按鈕可查看最近的刮卡紀錄|5.戰姬刮刮卡的獲得方式：| - 透過每日信件獲得| - 透過超值禮包獲得| - 透過特惠禮包獲得| - 透過造型禮包獲得| - 透過拉芙麗漂流記獲得| - 透過戰姬專屬任務獲得| - 活動介面使用鑽石購買(上限1000次)|
 ACTIVITY_SCRATCH_RECORD,刮卡記錄
 HOUSE_TEXT_54,加入社團可開啟社團聊天
 UNFOLD_SKIN,展開列表
@@ -2800,10 +2800,10 @@ MAIL_ORIGIN_TEXT,原信件
 BATTLE_PASS_TAGS,蒸汽祭|任務|兌換|成就
 BATTLE_PASS_MISSION_TAGS,今日|本週|額外燃料
 BATTLE_PASS_SHOP_TAGS,銅鉚兌換處|核心兌換處
-ACTIVITY_WARMUP_PACK_TEXT01,購買入學福袋，全服入學準備次數達標後將可獲得豐厚獎勵！最多可獲得
+ACTIVITY_WARMUP_PACK_TEXT01,購買入學福袋，在完成入學測驗活動的任務時，可額外獲得豐厚獎勵！並且可立即獲得：
 ACTIVITY_WARMUP_PACK_TEXT02,快來購買這個福袋吧！
 ACTIVITY_WARMUP_PACK_TEXT03,獎勵預覽
-ACTIVITY_WARMUP_PACK_HELP,1.購買入學福袋後，當全服入學準備次數達標時將會獲得豐厚獎勵，學長可在獎勵預覽處查看獎勵。|2.福袋獎勵將會透過信件發送，請學長記得查看信件。|3.福袋為入學準備的額外獎勵，與正常的入學準備達標獎勵不衝突，學長購買福袋後可照常前往入學準備領取達標獎勵。
+ACTIVITY_WARMUP_PACK_HELP,1.購買入學福袋後，在完成入學測驗活動的任務時，可額外獲得豐厚的獎勵。|2.購買入學福袋的同時，會立即獲得40枚高級扭蛋幣，並且附贈新角色的限定紀念頭像。
 ACTIVITY_WARMUP_PACK_PRE_TITLE,獎勵預覽
 ACTIVITY_WARMUP_PACK_PRE_TEXT,全服入學準備次數達到{1}次
 ACTIVITY_SPORTS_NOT_ENTER_600,未入選精英對抗期
@@ -2965,7 +2965,7 @@ GET_DICE,獲取心動水晶
 DICE_REFRESH_TIME,水晶刷新時間
 TODAY_REMAINING_BUY_TIME,今日剩餘購買次數
 BUY_TIME_LIMITED,限購：{1}
-COUNT_DOWN2,倒計時
+COUNT_DOWN2,倒數計時
 PUBLIC_MAP,幽夢校園
 FAVORABILITY,好感值
 RECOMMEND_LAYERS,推薦層數：
@@ -2985,17 +2985,17 @@ GOTO_QUIZ,前往測驗
 GOTO_CAMPAIGN,前往主線冒險
 DOUBLE_DROP_EXP_TIPS,主線掛機的飲料掉落量提升1倍
 DOUBLE_DROP_GOLD_TIPS,主線掛機的金幣掉落量提升1倍
-TRIAL_NEW_COUNTDOWN,開啟倒計時：
-TRIAL_CLOSE_COUNTDOWN,關閉倒計時：
-DUNGEON_NEW_COUNTDOWN,開啟倒計時：
-DUNGEON_CLOSE_COUNTDOWN,關閉倒計時：
+TRIAL_NEW_COUNTDOWN,開啟倒數計時：
+TRIAL_CLOSE_COUNTDOWN,關閉倒數計時：
+DUNGEON_NEW_COUNTDOWN,開啟倒數計時：
+DUNGEON_CLOSE_COUNTDOWN,關閉倒數計時：
 ENTRANCE_TEST_HERO_LIMIT_TIP,可選戰姬已達上限
 ENTRANCE_TEST_NO_ENEMY,匹配不到對手
 GAMBLE_PRO_0,普通販賣機
 GAMBLE_PRO_1,高級販賣機
 ENTRANCE_TEST_SORT,配置
 ACTIVITY_WARMUP_ARENA_HELP,1.入學測驗為新戰姬上線前的預熱活動，活動持續7天，學長需要設立防守陣容，同時戰勝其他學長獲得積分以提升排名。|2.學長需進入戰姬配置介面選擇自己想要上陣的戰姬，只有被加入配置池的戰姬才可上陣，配置池上限為30。|3.入學測驗中可使用的戰姬為學園提供，均為290級滿潛能狀態，同時穿戴天使套裝，學長需為她們搭配合適的龍玉、魂器以及相應的潛能來決定戰姬的具體屬性，待三項屬性均已確定，該戰姬卡牌上會提示「完成」標籤以方便學長進行區分。|4.學長每次戰鬥需花費1張測驗憑證，測驗憑證將在每日8點（UTC/GMT 8)時進行刷新，上限為12張。|5.開放時間內，將根據學長當前積分匹配相近的對手，若勝利則獲得活動積分，若失敗則減少活動積分。|6.作為防守方，若防守成功將獲得活動積分，若防守失敗將減少活動積分，請學長慎重選擇自己的防守陣容。|7.活動結束後將會根據學長所得的排名透過信件發放相應獎勵。
-ACTIVITY_WARMUP_ARENA_PARTNER_TEXT1,后羿
+ACTIVITY_WARMUP_ARENA_PARTNER_TEXT1,戴安娜
 ACTIVITY_WARMUP_ARENA_PARTNER_TEXT2,菲斯納
 ACTIVITY_WARMUP_ARENA_PARTNER_CV1,CV.桜木つぐみ
 ACTIVITY_WARMUP_ARENA_PARTNER_CV2,CV.高野麻美
@@ -3211,10 +3211,10 @@ ACT_RETURN_MISSION_BTN,重返幽夢
 ACT_RETURN_GIFT_BTN,熱點戰姬禮盒
 ACT_RETURN_COMMEND_BTN,好友與社團推薦
 ACT_RETURN_CARD_BTN,月卡折扣
-ACTIVITY_ICE_SECRET_AWARDS_CD,刷新倒計時
+ACTIVITY_ICE_SECRET_AWARDS_CD,刷新倒數計時
 ACTIVITY_ICE_SECRET_MISSION_DAILY,每日任務
 ACTIVITY_ICE_SECRET_MISSION_WEEKLY,每週任務
-ACTIVITY_ICE_SECRET_MISSION_CD,刷新倒計時
+ACTIVITY_ICE_SECRET_MISSION_CD,刷新倒數計時
 ACTIVITY_ICE_SECRET_MISSION_TIP,任務已不再刷新
 ACTIVITY_ICE_SECRET_ROUNDS,當前第{1}輪
 ACTIVITY_ICE_SECRET_MAXAWARD_TEXT,本輪終極獎勵
@@ -3236,8 +3236,8 @@ EDIT_PICTURE_MEMBER,當前看板娘成員
 EDIT_PICTURE_SHOWRANDOM,進入遊戲時隨機提示
 EDIT_PICTURE_LIMIT,最多選擇6個角色
 EDIT_PICTURE_SELECT,請選擇角色
-ACTIVITY_PLAYER_RETURN_ALLTIME,活動倒計時：
-ACTIVITY_PLAYER_RETURN_RETURNTIME,回歸倒計時：
+ACTIVITY_PLAYER_RETURN_ALLTIME,活動倒數計時：
+ACTIVITY_PLAYER_RETURN_RETURNTIME,回歸倒數計時：
 ACTIVITY_PLAYER_RETURN_DOUBLEDAYS,還有{1}天結束
 ACTIVITY_DISCOUNT_MONTHLY_TIPS,低至3.3折
 ACTIVITY_PLAYER_RETURN_GOTOMAIN,前往主線
@@ -3285,12 +3285,12 @@ WISH_GACHA_SELECT_PARTNER_TIPS_2,選擇後不可再次更換心願戰姬，是�
 PET_STORY_UNLOCK,將使魔進化到{1}階解鎖
 THE_PET_HAS_NOT_DATA,該使魔暫無相關故事
 ACTIVITY_ENTRANCE_TEST_BUY_TILI_WINDOW,購買入學測驗憑證
-ACTIVITY_ENTRANCE_TEST_TIME_TIPS,倒計時後恢復6枚憑證：
-ACTIVITY_ENTRANCE_TEST_TILI_HELP,1.測驗憑證上限為[c][cc0011]12枚[-][/c]，將在每日0時(UTC/GMT 0)恢復[c][cc0011]6枚[-][/c]。|2.學長可點擊購買按鈕透過花費鑽石購買額外憑證，但每日最多購買[c][cc0011]12枚[-][/c]。
+ACTIVITY_ENTRANCE_TEST_TIME_TIPS,倒數計時後重置為10枚憑證：
+ACTIVITY_ENTRANCE_TEST_TILI_HELP,1.首次參與活動時，將獲得20枚測驗憑證。之後每日0時(UTC/GMT 0)，測驗憑證會重置到[c][cc0011]10枚[-][/c]。|2.學長可點擊購買按鈕透過花費鑽石購買額外憑證，但每日最多購買[c][cc0011]20枚[-][/c]。
 ACTIVITY_ENTRANCE_TEST_TILI_FULL,憑證已滿，無需購買
 ENTRANCE_TEST_UNEQUIP_TIP,未配置完全
 ENTRANCE_TEST_NEW_HERO_TIPS,新戰姬來襲
-LOCK_COUNT_DOWN,鎖定倒計時：
+LOCK_COUNT_DOWN,鎖定倒數計時：
 ARENA_ALL_SERVER_QUIZ_CHANGE,更改預測
 ARENA_ALL_SERVER_QUIZ_SUCCESS,更改預測對象成功！
 ARENA_ALL_SERVER_GROUP_LIMIT,一個隊伍中最多同時上陣2名相同戰姬！
@@ -3302,16 +3302,16 @@ ENTRANCE_TEST_HELP_DES_1_5,點擊魂器空槽，為當前戰姬選擇合適的[c
 ENTRANCE_TEST_HELP_TITLE_1_1,戰姬配置
 ENTRANCE_TEST_HELP_TITLE_2_1,戰姬配置
 ENTRANCE_TEST_HELP_TITLE_2_2,防守陣容
-ENTRANCE_TEST_HELP_DES_2_1,點擊潛能空槽，為當前戰姬選擇合適的[c][cc0011]潛能[-][/c]。
+ENTRANCE_TEST_HELP_DES_2_1,達到A檔後，戰姬將提升至15星，之後可為戰姬選擇合適的[c][cc0011]潛能[-][/c]。
 ENTRANCE_TEST_HELP_DES_2_2,待全部配置完畢，該戰姬卡牌上將會顯示「完成」標籤以方便學長進行區分。
 ENTRANCE_TEST_HELP_DES_2_3,在出戰前，請學長為自己設立好[c][cc0011]防守陣容[-][/c]，防守陣容中需使用已配置好的戰姬作為防守方。若防守成功將獲得活動積分，若防守失敗將減少活動積分，請學長慎重選擇自己的防守陣容。
 ENTRANCE_TEST_HELP_TITLE_3_1,出戰
 ENTRANCE_TEST_HELP_TITLE_3_2,積分與排名
 ENTRANCE_TEST_HELP_TITLE_3_3,獎勵
 ENTRANCE_TEST_HELP_DES_3_1,滿足戰鬥條件後，點擊[c][cc0011]戰鬥[-][/c]按鈕，即可出戰。\n活動開放時間內，將根據學長當前積分匹配相近的對手，若勝利則獲得活動積分，若失敗則減少活動積分。
-ENTRANCE_TEST_HELP_DES_3_2,每次戰鬥需消耗一枚測驗憑證。\n測驗憑證上限為[c][cc0011]12枚[-][/c]，將在每日0時(UTC/GMT 0)恢復6枚。\n學長可點擊購買按鈕透過花費鑽石購買額外憑證。
+ENTRANCE_TEST_HELP_DES_3_2,每次戰鬥需消耗一枚測驗憑證。\n測驗憑證將在每日0時(UTC/GMT 0)重置到[c][cc0011]10枚[-][/c]。\n學長可點擊購買按鈕透過花費鑽石購買額外憑證。
 ENTRANCE_TEST_HELP_DES_3_3,活動開放期間，學長可實時查看當前積分及排名。
-ENTRANCE_TEST_HELP_DES_3_4,可點擊[c][cc0011]排行榜[-][/c]按鈕查看當前排名及各排名獎勵。\n活動結束後將會根據學長所得排名透過[c][cc0011]信件[-][/c]發放相應獎勵。
+ENTRANCE_TEST_HELP_DES_3_4,可點擊[c][cc0011]查看獎勵[-][/c]按鈕查看當前的任務與獎勵。\n透過購買[c][cc0011]入學福袋[-][/c]，還可以解鎖更多任務獎勵。
 ACTIVITY_WARMUP_PACK_TEXT04,附贈為新學妹特別準備的限定頭像：
 ACTIVITY_WARMUP_PACK_TEXT05,超值
 CHESS_EXCHANGE,轉換
@@ -3343,7 +3343,7 @@ SPIRIT_TASK_DESCRIPTION,任務描述
 SPIRIT_PROBABILITY_AWARD,機率獲得
 SPIRIT_RECOMMEND_PARTNER,推薦戰姬
 SPIRIT_REMAINING_TIME,距完成時間：
-SPIRIT_REFRESH_TIME,刷新倒計時：
+SPIRIT_REFRESH_TIME,刷新倒數計時：
 SPIRIT_ACCELERATE,加速
 SPIRIT_ONE_KEY_BATTLE,一鍵上陣
 SPIRIT_BEGIN,開始
@@ -3517,7 +3517,7 @@ HOUSE_TEXT_57,舒適度達到{1}後開啟
 HOUSE_TEXT_58,家具數量不足，無法放置
 AWAKE_GIFTBAG_STAR,戰姬突破至[c][f55090]{1}星[-][/c]：
 CHEST_ALl_AWARD,獎勵詳情
-COUNT_DOWN_BY_MAIL,倒計時結束後結算，獎勵將透過信件發送
+COUNT_DOWN_BY_MAIL,倒數計時結束後結算，獎勵將透過信件發送
 ACTIVITY_SPORTS_HELP_DES_1,學長好，歡迎參加幽夢體育祭！\n在體育祭中，您將代表您所在的學院，挑戰其他學院的玩家，贏得積分與獎牌，並最終收穫大量獎勵。
 TIANCHONG_ACTIVITY_SPORTS_HELP_DES_2,在體育祭中，您將代表您所在的學院，挑戰其他學院的玩家，赢得積分與奖牌，並最終收穫大量獎勵。
 ACTIVITY_SPORTS_HELP_DES_3,學長所在的學院
@@ -3834,7 +3834,7 @@ OLD_SCHOOL_FLOOR_GET_AWARD_TEXT,在不改變陣容設置的情況下，通關該
 OLD_SCHOOL_SCORE_GET_AWARD_TEXT,積分獎勵需手動領取
 ACTIVITY_LAFULI_DRIFT_POINT,收集 {1} 個珊瑚枝
 ACTIVITY_LAFULI_DRIFT_SPOILS,已獲得的戰利品
-ARTIFACT_OPEN_TIPS,開業倒計時
+ARTIFACT_OPEN_TIPS,開業倒數計時
 GROPUP_GIFTBAG_TIPS,元氣AI少女—圖靈\n造型&成長禮包限時發售！
 GIFTBAG_TURIN_PRICE1,原價: NT$6800
 GIFTBAG_TURIN_PRICE2,原價: NT$9900
@@ -3926,7 +3926,7 @@ TRAVEL_MAIN_TEXT33,隨機獎勵
 TRAVEL_MAIN_TEXT34,4階及4階以上寶箱會掉落2份隨機獎勵
 TRAVEL_MAIN_TEXT35,寶箱品質
 TRAVEL_MAIN_TEXT36,領取{1}階寶箱{2}次
-ACTIVITY_NEWYEAR_WELFARE_TEXT01,活動倒計時：
+ACTIVITY_NEWYEAR_WELFARE_TEXT01,活動倒數計時：
 ACTIVITY_NEWYEAR_WELFARE_TEXT02,鑽石吧檯
 ACTIVITY_NEWYEAR_WELFARE_TEXT03,金幣吧檯
 GACHA_LIMIT_PARTNER,up
@@ -3978,8 +3978,8 @@ TRAVEL_MAIN_TEXT50,好像有人需要一些幫助？！~
 TRAVEL_MAIN_TEXT51,每次幫助別人後，總會收穫些什麼吧？！~
 EXPLORE_SOURCE_BUY_WINDOW,購買美味麵包
 TRAVEL_MAIN_TEXT52,當前尚未解鎖，請提升探險等級
-OLD_SCHOOL_CLOSE_TIME,舊校舍結束倒計時：
-OLD_SCHOOL_OPEN_TIME,舊校舍開啟倒計時：
+OLD_SCHOOL_CLOSE_TIME,舊校舍結束倒數計時：
+OLD_SCHOOL_OPEN_TIME,舊校舍開啟倒數計時：
 ANONYMOUS_MODIFY_ACCOUNT_TIPS,遊客帳號丟失警告！！！學長您現在處於遊客登入狀態，切換帳號會使您當前登入的遊客帳號面臨無法找回的風險，是否確認切換帳號？
 NEWBEE_10GACHA_TIPS,學長已解鎖超值十連扭蛋的新檔位
 TREASURE_RESERVE_DETELE,是否清空該欄位上的備用水晶？\n（備用水晶欄不會被刪除）
@@ -4209,8 +4209,8 @@ GUILD_BOSS_CANT_FIGHT,今日已挑戰過其他類型的社團BOSS，不可再挑
 GUILD_COMPETITION_SIMULATE_DAMAGE,模擬戰傷害：
 ACTIVITY_NEWBEE_LESSON_HELP,1.活動持續14天，期間學長可參與活動。完成各項每日課程和累計任務。|2.每日共6個課程任務，完成任務後可獲取「課程研習憑證」。任務每日0點刷新(UTC/GMT 0)，刷新時未領取的任務獎勵不再補發。|3.累計任務的內容和進度不會每日刷新，每檔獎勵只能獲取一次。學長在活動開啟前獲取的VIP經驗仍會計入任務進度。|4.「課程研習憑證」可用於參與限時活動-課程研習。
 ACTIVITY_NEWBEE_LESSON_TITEL,每日課程
-ACTIVITY_NEWBEE_LESSON_TEXT01,刷新倒計時：
-ACTIVITY_NEWBEE_LESSON_TEXT02,結束倒計時：
+ACTIVITY_NEWBEE_LESSON_TEXT01,刷新倒數計時：
+ACTIVITY_NEWBEE_LESSON_TEXT02,結束倒數計時：
 ACTIVITY_NEWBEE_LESSON_TEXT03,每檔獎勵只能獲取一次
 ACTIVITY_COURSE_LEARNING_HELP,1.活動持續14天，期間學長可參與活動，增加課程進度，獲取豐厚獎勵。|2.每次研習消耗10個「課程研習憑證」，隨機增加一定的本輪進度，並隨機獲得1項道具獎勵。|3.本輪進度增加到100%%時，完成本輪課程研習，學長可獲得1項自選的本輪大獎並進入下一輪。|4.在活動結束後，未使用的「課程研習憑證」將會自動兌換成金幣，每個價格為15000金幣，透過信件發放。
 ACTIVITY_COURSE_LEARNING_TEXT01,當前第 [c][0xdf257a size=28]{1}[-][/c] 輪
@@ -4258,7 +4258,7 @@ FAIR_ARENA_POINT_NOW,當前積分：
 FAIR_ARENA_COLLECTION,圖鑑
 FAIR_ARENA_DESC_USE_ONLY,僅在本活動中有效
 FAIR_ARENA_AWARD_PREVIEW,獎勵預覽
-FAIR_ARENA_TIME_EXTRA_LIMIT,倒計時結束後可獲得兩次探索機會：
+FAIR_ARENA_TIME_EXTRA_LIMIT,倒數計時結束後可獲得兩次探索機會：
 FAIR_ARENA_DEMO,模擬挑戰
 FAIR_ARENA_EXPLORE,正式探索
 FAIR_ARENA_FREE_EXPLORE,本次免費
@@ -4278,7 +4278,7 @@ FAIR_ARENA_AWARDS_RANK,排名獎勵
 FAIR_ARENA_AWARDS_LEVEL,寶箱獎勵
 FAIR_ARENA_RANK_NOW,當前排名：
 FAIR_ARENA_AWARDS_LEVEL_NOW,當前排名獎勵內容：
-FAIR_ARENA_DESC_AWARDS,倒計時結束後發放獎勵
+FAIR_ARENA_DESC_AWARDS,倒數計時結束後發放獎勵
 FAIR_ARENA_RANK_HISTORY_MAX,歷史最高排名：
 FAIR_ARENA_HISTORY_EXPLORE,第{1}次探索
 FAIR_ARENA_HISTORY_DEMO,第{1}次模擬
@@ -4390,7 +4390,7 @@ SPACE_EXPLORE_TEXT_19,探險小隊設置
 SPACE_EXPLORE_TEXT_20,隱藏升級標記
 SPACE_EXPLORE_TEXT_21,隱藏未獲得探險戰姬
 SPACE_EXPLORE_TEXT_22,異度探險
-SPACE_EXPLORE_HELP_04,1.探險地圖共計30塊格子，其中必定有一塊是初始就出現的傳送門。|2.學長可以點擊翻開傳送門相鄰（上下左右）4塊格子，以及已翻開格子相鄰的4塊格子。|3.翻開格子後可能會出現空白、道具獎勵以及敵人，敵人需要擊敗後獲得獎勵，道具獎勵可以直接點擊獲得。其中學長透過點擊領取或擊敗敵人獲得的「異度水晶」，當其數量滿足檔位條件，將會收到對應的信件獎勵；|4.當格子翻出敵人後，其周圍8塊格子中若有未翻開的將無法繼續點擊翻開，需要先擊敗對應敵人；|5.只有擊敗領主外所有敵人後，才可以挑戰領主。在擊敗領主後，傳送門將會打開，點擊即可進入下一層地圖。|6.遇到敵人時，將以探險小隊為單位和敵人戰鬥，小隊擁有所有已獲得探險戰姬的屬性和技能。|7.戰鬥方式和已有的不同，敵我雙方將不斷同時相互進攻，造成傷害=我方攻擊-對方防禦，傷害最低為50。|8.僅當敵方血量先為0，我方勝利並獲得獎勵；若我方血量先為0或者和敵方同時為0，則我方失敗，並進入「重傷狀態」，短期內無法繼續挑戰。|9.若挑戰失敗，在「重傷狀態」結束后再次挑戰，敵人將依舊以滿血狀態進入戰鬥。|10.同樣在異度探險的戰鬥中，小隊始終以滿血狀態進入戰鬥，即戰鬥中的血量變化，不會影響到下次戰鬥。|11.活動結束後，獲得的「異度水晶」將會被清空。
+SPACE_EXPLORE_HELP_04,1.探險地圖共計30塊格子，其中必定有一塊是初始就出現的傳送門。|2.學長可以點擊翻開傳送門相鄰（上下左右）4塊格子，以及已翻開格子相鄰的4塊格子。|3.翻開格子後可能會出現空白、道具獎勵以及敵人，敵人需要擊敗後獲得獎勵，道具獎勵可以直接點擊獲得。其中學長透過點擊領取或擊敗敵人獲得的「異度水晶」，當其數量滿足檔位條件，將會收到對應的信件獎勵；|4.當格子翻出敵人後，其周圍8塊格子中若有未翻開的將無法繼續點擊翻開，需要先擊敗對應敵人；|5.只有擊敗領主外所有敵人後，才可以挑戰領主。在擊敗領主後，傳送門將會打開，點擊即可進入下一層地圖。|6.遇到敵人時，將以探險小隊為單位和敵人戰鬥，小隊擁有所有已獲得探險戰姬的屬性和技能。|7.戰鬥方式和已有的不同，敵我雙方將不斷同時相互進攻，造成傷害=我方攻擊-對方防禦，傷害最低為50。|8.僅當敵方血量先為0，我方勝利並獲得獎勵；若我方血量先為0或者和敵方同時為0，則我方失敗，並進入「重傷狀態」，短期內無法繼續挑戰。|9.若挑戰失敗，在「重傷狀態」結束後再次挑戰，敵人將依舊以滿血狀態進入戰鬥。|10.同樣在異度探險的戰鬥中，小隊始終以滿血狀態進入戰鬥，即戰鬥中的血量變化，不會影響到下次戰鬥。|11.活動結束後，獲得的「異度水晶」將會被清空。
 SPACE_EXPLORE_TEXT_23,需要先找出並擊敗領主
 COLLECTION_SKIN_WEDDING,誓約造型
 SPACE_EXPLORE_CHECK_BUFF_WINDOW,異度加成一覽
@@ -4489,7 +4489,7 @@ ACTIVITY_RESIDENT_RETURN_RECOMMENT2,我們為您推薦了合適的好友和社�
 ACTIVITY_ENTRANCE_TEST_SHOW_WINDOW_HELP,1.活動期間，學長可使用金幣來參與預測。|2.紅方為攻方，藍色為守方。戰鬥沒有持續回合數的限制。學長押注的陣容獲勝後，即可獲得獎勵。|3.每次預測可在三個檔位中選擇一檔，檔位的消耗越高，獎勵也越高。|4.每日0點(UTC/GMT 0) 刷新，同時公佈昨日的戰鬥結果。預測的獎勵將透過信件發放。
 REFRESH_LIMIT_TIME,刷新過於頻繁
 ENTRANCE_TEST_BET_BTN,預測
-ENTRANCE_TEST_GUESS_COUNT_DOWN,結算倒計時：
+ENTRANCE_TEST_GUESS_COUNT_DOWN,結算倒數計時：
 ACTIVITY_3BIRTHDAY_TEXT01,暴擊[c][85eb9d]機率[-][/c]翻倍
 ACTIVITY_3BIRTHDAY_TEXT02,暴擊[c][fb6464]收益[-][/c]提升
 ACTIVITY_3BIRTHDAY_TEXT03,贈酒有機率暴擊獲得1.5倍玫瑰胸針\n累計贈酒達一定次數即可領取獎勵
@@ -4571,7 +4571,7 @@ ACTIVITY_POPULARITY_VOTE_TITLETEXT13,進行中
 ACTIVITY_POPULARITY_VOTE_TITLETEXT14,未開始
 ACTIVITY_3BIRTHDAY_VIP_HELP,1.活動期間，薇薇安將為學長向群星祈願，為學長提供豐厚的獎勵。|2.學長的VIP等級越高，可以領取越高檔位的獎勵。在活動期間提高VIP等級時，會同步解鎖相應檔位的獎勵。|3.活動期間，每日24點(UTC/GMT 0)，還會根據學長的VIP等級，發放每日獎勵。每日獎勵會透過信件發放。
 ACTIVITY_3BIRTHDAY_VIP_TEXT01,每日獻禮
-ACTIVITY_3BIRTHDAY_VIP_TEXT02,倒計時後發放：
+ACTIVITY_3BIRTHDAY_VIP_TEXT02,倒數計時後發放：
 ACTIVITY_3BIRTHDAY_VIP_TEXT03,VIP等級達到{1}級[c][369900]({2}/{3})[-][/c]
 ACTIVITY_3BIRTHDAY_VIP_TEXT04,每日獻禮預覽
 ACTIVITY_3BIRTHDAY_VIP_TEXT05,每日24點(UTC/GMT 0)透過信件發放獎勵
@@ -4667,13 +4667,13 @@ TRAVEL_MAIN_TEXT72,集市
 MONTH_CARD_TEXT001,購買獲得
 MONTH_CARD_TEXT002,每日福利
 MONTH_CARD_TEXT003,月卡每日額外獎勵
-MONTH_CARD_TEXT004,1.當購買月卡後：|你將會立即得到900鑽石和750VIP經驗。在之後的30天內，每天將在信箱中獲得370鑽石。總共有12000鑽石！|此外，當VIP等級達到2級后，還會獲得額外每日月卡獎勵，VIP等級越高獲得的額外每日獎勵越豐富！|2.當購買小月卡後：|你將會立即得到350鑽石和250VIP經驗。在之後的30天內，每天將在信箱中獲得85鑽石。|小月卡沒有VIP額外每日獎勵，可以和月卡一起購買！|3.首次購買小月卡或者月卡時，都將提供一個特別優惠。購買過一次後，價格將變回原價。
+MONTH_CARD_TEXT004,1.當購買月卡後：|你將會立即得到900鑽石和750VIP經驗。在之後的30天內，每天將在信箱中獲得370鑽石。總共有12000鑽石！|此外，當VIP等級達到2級後，還會獲得額外每日月卡獎勵，VIP等級越高獲得的額外每日獎勵越豐富！|2.當購買小月卡後：|你將會立即得到350鑽石和250VIP經驗。在之後的30天內，每天將在信箱中獲得85鑽石。|小月卡沒有VIP額外每日獎勵，可以和月卡一起購買！|3.首次購買小月卡或者月卡時，都將提供一個特別優惠。購買過一次後，價格將變回原價。
 GUILD_POLICY_CHANGED_TIP,社團主要方針已成功更改
 GUILD_OPEN_TYPE_LABEL2,驗證方式
 GUILD_OPWER_LIMIT_LABEL2,戰力限制
 ACTIVITY_BEACH_ISLAND_HELP,1.活動期間，完成任務可獲得獎勵，任務每週刷新。|2.學長需要使用預設的戰姬進行戰鬥，通過關卡可獲得一次性通關獎勵。|3.完成關卡挑戰目標可獲得星星，累計達到一定數量可領取獎勵。|4.挑戰目標可分多次完成，關卡沒有挑戰次數限制，學長可重複挑戰關卡進行嘗試。|5.總計有10個關卡，6-10關將於第二週開放。
 ACTIVITY_BEACH_ISLAND_TEXT01,每週任務
-ACTIVITY_BEACH_ISLAND_TEXT02,刷新倒計時
+ACTIVITY_BEACH_ISLAND_TEXT02,刷新倒數計時
 ACTIVITY_BEACH_ISLAND_TEXT03,需要通過上一關
 ACTIVITY_BEACH_ISLAND_TEXT04,關卡-{1}
 ACTIVITY_BEACH_ISLAND_TEXT05,本關敵人
@@ -4802,13 +4802,13 @@ DRESS_BUY_WINDOW_TEXT13,綠色裝扮佔總抽取機率的0%%
 DRESS_BUY_WINDOW_TEXT14,紫色裝扮佔總抽取機率的0%%
 DRESS_BUY_WINDOW_TEXT15,黃色裝扮佔總抽取機率的0%%
 DRESS_BUY_WINDOW_TEXT16,藍色裝扮佔總抽取機率的0%%
-DRESS_SUMMON_LABEL_5,倒計時結束後免費採購
+DRESS_SUMMON_LABEL_5,倒數計時結束後免費採購
 DRESS_SUMMON_LABEL_6,下列裝扮全部獲得前必定不會重複
 DRESS_CHOOSE_FRAGMENT_WINDOW_6,一鍵置入
 DRESS_CHOOSE_FRAGMENT_WINDOW_7,可選碎片數量不足
 DRESS_CHOOSE_FRAGMENT_WINDOW_8,一鍵置入成功
 ACTIVITY_JUNGLE_TEXT09,探索度已達100%%，是否繼續探索？
-ACCOUNT_HELP,1.如果學長使用的是遊客帳號，在遊戲內先點擊頭像選擇遊戲設置，再點擊帳號按鈕選擇快速綁定，然後選擇合適的第三方管道進行綁定。|2.為了更方便幫助您同時確保您的帳號安全，學長可以添加line ID：@moemoegirls2並進行聯絡，會有專門負責的小甘協助您進行綁定。|3.學長可以在遊戲登入介面，點擊右上角的帳號按鈕，選擇不同的登入管道並進行帳號切換。|4.如果遺忘帳號，想找回遺忘的帳號，請添加line ID：@moemoegirls2，並告知負責小甘，您遇到的具體情況同時提供遺忘帳號的暱稱、所在伺服器、之前登入遊戲的管道等相關訊息。如果有進行過儲值可以提供相應的儲值明細，方便小甘進行查詢。如果您沒有line，可以在GM管道給小甘留言。|5.若帳號無法登入，請學長透過遊戲登入界面的GM管道，向小甘描述帳號無法登入的情況（包括但不限於帳號被限制登入，無法用第三方管道登入），如果您有截圖，可以上傳相關圖片，幫助學妹更容易確認問題並協助您解決。|6.已經綁定了第三方登入帳號是無法進行解綁、換綁的，但是還可以額外綁定快速登入，綁定快速登入以後您可以額外使用快速登入來進入遊戲。|7.若帳號是從一個玩家轉移至另外一個玩家的，我們將無法保證這個帳號的安全性，請避免向他人提供個人帳號等資訊。同時對於被買賣或分享的帳號，我們將保留對該帳號的處置和封禁的權利。出售帳號的一方始終擁有帳號的所有權，他們通常只是為了欺騙買家付款，並不會真正交出帳號的所有權。買賣、共用或者贈與遊戲帳號號違反了我們的服務條款，這些行為是被嚴格禁止的。
+ACCOUNT_HELP,1.如果學長使用的是遊客帳號，在遊戲內先點擊頭像選擇遊戲設置，再點擊帳號按鈕選擇快速綁定，然後選擇合適的第三方管道進行綁定。|2.為了更方便幫助您同時確保您的帳號安全，學長可以添加line ID：@moemoegirls2並進行聯絡，會有專門負責的小甘協助您進行綁定。|3.學長可以在遊戲登入介面，點擊右上角的帳號按鈕，選擇不同的登入管道並進行帳號切換。|4.如果遺忘帳號，想找回遺忘的帳號，請添加line ID：@moemoegirls2，並告知負責小甘，您遇到的具體情況同時提供遺忘帳號的暱稱、所在伺服器、之前登入遊戲的管道等相關訊息。如果有進行過儲值可以提供相應的儲值明細，方便小甘進行查詢。如果您沒有line，可以在GM管道給小甘留言。|5.若帳號無法登入，請學長透過遊戲登入介面的GM管道，向小甘描述帳號無法登入的情況（包括但不限於帳號被限制登入，無法用第三方管道登入），如果您有截圖，可以上傳相關圖片，幫助學妹更容易確認問題並協助您解決。|6.已經綁定了第三方登入帳號是無法進行解綁、換綁的，但是還可以額外綁定快速登入，綁定快速登入以後您可以額外使用快速登入來進入遊戲。|7.若帳號是從一個玩家轉移至另外一個玩家的，我們將無法保證這個帳號的安全性，請避免向他人提供個人帳號等資訊。同時對於被買賣或分享的帳號，我們將保留對該帳號的處置和封禁的權利。出售帳號的一方始終擁有帳號的所有權，他們通常只是為了欺騙買家付款，並不會真正交出帳號的所有權。買賣、共用或者贈與遊戲帳號號違反了我們的服務條款，這些行為是被嚴格禁止的。
 HOUSE_AWARD_TIPS,暫無可領取獎勵
 ACTIVITY_ANTIQUE_LEVELUP_HELP,"
 1.魂器研究所可以將魂器進階到粉色品質。|2.進階規則：
@@ -4837,4 +4837,62 @@ QUICK_STARS_TEXT04,沒有戰姬材料
 ACTIVITY_ANTIQUE_LEVELUP_TEXT15,可獲得精粹已達上限，是否繼續分解？\n（將會1:1轉化為精華）
 ACTIVITY_ANTIQUE_LEVELUP_TEXT16,該裝備正在被使用，是否繼續選擇？
 DAILY_QUIZ_TEXT04,如需更多次數，請輸入購買次數：
-PUB_MISSION_AUTO_TEXT1,選擇完成
+PUB_MISSION_AUTO_TEXT1,一鍵領取
+ENTRANCE_TEST_ARTIFACT_CHOOSE_TIPS,學長解鎖的橙色魂器圖鑑越多，可選的魂器越多。
+ENTRANCE_TEST_PARTNER_NOT_READY,陣容中存在尚未配置完全的戰姬，是否確認使用這套陣容出戰
+ENTRANCE_TEST_BATTLE_JUMP_SET,前往配置
+ENTRANCE_TEST_PET_EXSKILL,入學檢驗中，使魔核心等級繼承自學長對應使魔的數據
+ENTRANCE_TEST_PET_CANNOT_UPGRADE,入學測驗模式下無法提升等級！
+SNS_ACTIVITY_HTTP_BTN01,點擊前往
+SNS_ACTIVITY_TEXT01,前往社區
+ENTRANCE_TEST_PARTNER_LOCK,達到A檔後解鎖
+ENTRANCE_TEST_LEVEL_UP,提升内容
+WARMUP_ARENA_RANK_INFO_2,·戰姬提升至15星330級，同時解鎖戰姬潛能槽\n·所有可選魂器提升至6星\n·使魔等級提升至180級
+WARMUP_ARENA_RANK_INFO_3,·戰姬的精英技能全部提升至5級\n·解鎖使魔核心，其等級繼承自學長的養成狀態\n·使魔技能等級繼承自學長的養成狀態，但不會低於30級
+WARMUP_ARENA_RANK_INFO_4,·已達到最高檔位
+ENTRANCE_TEST_LEVEL_UP_DESC_1,更新陣容
+SELECT,選擇
+A_OR_B,{1}或{2}
+GUILD_MEAL_TEXT1,升級訂單
+GUILD_MEAL_TEXT2,開始訂單
+GUILD_MEAL_TEXT3,統一升級訂單
+GUILD_MEAL_TEXT4,目標訂單
+GUILD_MEAL_TEXT5,統一升級訂單需要花費{1}鑽石，是否繼續？
+GUILD_MEAL_TEXT6,餐廳達到5級後解鎖
+ACADEMY_EXAM_TEXT1,連續挑戰設置
+ACADEMY_EXAM_TEXT2,連續挑戰更高關卡，失敗後停止
+ACADEMY_EXAM_TEXT3,連續挑戰更高關卡，失敗後繼續挑戰，直至消耗完考核憑證
+PUB_MISSION_AUTO_TEXT2,沒有已完成的任務
+PUB_MISSION_AUTO_TEXT3,包含6星或7星打工任務，是否繼續？
+ACTIVITY_ENTRANCE_TEST_RANK_WINDOW_1,排名前{1}獎勵
+ACTIVITY_ENTRANCE_TEST_RANK_WINDOW_2,排名前{1}晉升
+ACTIVITY_ENTRANCE_TEST_RANK_WINDOW_3,您已達到最高檔位
+ACTIVITY_ENTRANCE_TEST_RANK_WINDOW_4,倒數計時後確定檔位：
+ACTIVITY_ENTRANCE_TEST_RANK_WINDOW_5,倒數計時後活動結束：
+ACTIVITY_ENTRANCE_TEST_RANK_WINDOW_6,倒數計時後結算：
+PUB_MISSION_AUTO_HELP2,1.“一鍵領取”方便學長領取已完成任務的獎勵。|2.學長可以點擊選擇下方1個或多個星級圖標，篩選出指定星級已完成的打工任務。|3.勾選的打工任務中包含6星或7星任務需要學長再次確認後獲得對應獎勵。
+ENTRANCE_TEST_LEVEL_UP_NEED,升檔要求
+WARMUP_ARENA_REACH_RANK_HELP,達到{1}檔後：|{2}|達到{3}檔後:|{4}|達到{5}檔後：|{6}
+ENTRANCE_TEST_LEVEL_UP_ING,定檔中…
+WARMUP_ARENA_TASK_INFO_1,新生挑戰
+WARMUP_ARENA_TASK_INFO_2,戴安娜-尋星之人
+WARMUP_ARENA_TASK_INFO_3,挑戰任務
+WARMUP_ARENA_TASK_INFO_4,福袋獎勵
+WARMUP_ARENA_TASK_INFO_5,完成標星任務後解鎖
+ACTIVITY_ENTRANCE_TEST_RECORD_TIPS,學長與對手目前不在同一檔位，無法進行挑戰！
+WARMUP_ARENA_TASK_HELP,1.完成新生挑戰任務，可以獲得豐厚的獎勵。|2.透過購買入學福袋，可以解鎖額外的大量獎勵。|3.完成星標任務後，可以解鎖一段新劇情，為學長揭示新戰姬與幽夢學院各位學員們的故事。
+ENTRANCE_TEST_NO_FIGHT_PARTNERS,檢測到學長尚未佈置進攻陣容，是否要直接沿用當前的防守陣容？
+PUB_MISSION_AUTO_TEXT4,選擇已完成任務
+LIMITED_FOR_ACTIVITY,活動限定
+ACTIVITY_WARMUP_PACK_TEXT06,查看\n額外獎勵
+ACTIVITY_WARMUP_PACK_TEXT07,前往入學測驗
+ENTRANCE_TEST_NEXT_DAY,正在確定檔位，定檔期間無法進行戰鬥。
+ENTRANCE_TEST_ENERGY_EXCEED,每日0點(UTC/GMT 0)，憑證將重置到10點，溢出的憑證將會消失。是否確認購買憑證？
+ENTRANCE_TEST_LEVEL_UP_DESC,檔位提升
+WARMUP_ARENA_TASK_ENTRANCE,查看獎勵
+SNS_ACTIVITY_TEXT02,參與社區活動領取獎勵
+SNS_ACTIVITY_TEXT03,(UTC/GMT 0)
+ENTRANCE_TEST_PETCORE_LOCK,達到S檔後，即可解鎖使魔核心！
+PUB_MISSION_AUTO_TEXT5,全選/取消
+LIMIT_ACT_LEFT_TIME,[c][394046]剩餘 [-][/c]{1}
+WARMUP_ARENA_TASK_INFO_6,查看福袋

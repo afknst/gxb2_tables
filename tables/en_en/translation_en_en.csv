@@ -218,11 +218,11 @@ GAMBLE_WOMAN_TALK_2,Normal Slot machine talks 2
 GAMBLE_WOMAN_TALK_3,Normal Slot machine talks 3
 GAMBLE_WOMAN_TALK_4,Normal Slot machine talks 4
 GAMBLE_WOMAN_TALK_5,Normal Slot machine talks 5
-GAMBLE_UP_WOMAN_TALK_1,High Stakes Slot Machine talks 1
-GAMBLE_UP_WOMAN_TALK_2,High Stakes Slot Machine talks 2
-GAMBLE_UP_WOMAN_TALK_3,High Stakes Slot Machine talks 3
-GAMBLE_UP_WOMAN_TALK_4,High Stakes Slot Machine talks 4
-GAMBLE_UP_WOMAN_TALK_5,High Stakes Slot Machine talks 5
+GAMBLE_UP_WOMAN_TALK_1,Super Slot Machine talks 1
+GAMBLE_UP_WOMAN_TALK_2,Super Slot Machine talks 2
+GAMBLE_UP_WOMAN_TALK_3,Super Slot Machine talks 3
+GAMBLE_UP_WOMAN_TALK_4,Super Slot Machine talks 4
+GAMBLE_UP_WOMAN_TALK_5,Super Slot Machine talks 5
 OPEN_SLOT_TIPS,Spend {1} Gems to add {2} Girl capacity?
 NOT_ENOUGH,Not enough {1}
 LOCK_PARTNER_TIPS,The Girl is locked|The Girl is in Junior Varsity Lineup|The Girl is in Varsity Lineup|The Girl is in Elite League Lineup|The Girl is set as Wallpaper Girl|The Girl is in Dorm|The Girl is in the Main Center of School Excursion|The Girl is assigned to a School Excursion Facility
@@ -1351,7 +1351,7 @@ DATES_TEXT10,Intimacy:
 DATES_TEXT11,Bonus:
 GUILD_TEXT66,Invalid Guild name
 DATES_GIFTES_TIP01,Give
-GUILD_DININGHALL_HELP,"1. Tap “Get Order” to receive new orders. Orders are received once every 12 hours.|2. After starting an order, you will receive rewards after waiting for the order to complete.|3. You can use Gems to upgrade an order. The higher the stars, the greater the rewards!|4. You can upgrade the Cafeteria to increase the number and output of orders with Coins.|5. Guild members will share the level of the Cafeteria, but the orders they get are not affected by other members."
+GUILD_DININGHALL_HELP,"1. Tap “Get Order” to receive new orders. Orders are received once every 12 hours.|2. After starting an order, you can claim rewards after waiting for the order to complete.|3. You can use Gems to upgrade an order. The higher the stars, the greater the rewards!|4. You can upgrade the Cafeteria to increase the number and reward of orders with Coins.|5. When Cafeteria is unlocked, only 1 Order can be obtained by tapping on ""Get Order"". You can get 1 additional Order when tapping on ""Get Order"" when the Cafeteria is leveled up 2 times, up to 5 Orders.|6. Guild members will share the level of the Cafeteria, but the orders they get are not affected by other members."
 DATES_TEXT12,Success
 COMPOSE_DATES_GIFTS_TEXT01,Success
 COMPOSE_DATES_GIFTS_TEXT02,Insufficient materials
@@ -1421,7 +1421,7 @@ PET_EVOLVE_TITLE,Evolution
 PET,Servant
 PET_CANT_RESTORE_TIPS,Respawning requires your Servant or Servant Aura to be higher than level 1.
 CHOOSE_PET_WINDOW,Servant Team-Up
-CHOOSE_PET_TITLE,Please select the Servant for your lineup (Tap to view the details)
+CHOOSE_PET_TITLE,Select the Servant (Tap to view the details)
 CHOOSE_PET_TEXT01,Not Tamed
 CHOOSE_PET_TEXT02,Team-Up
 PET_INFO_WINDOW,Servant Details
@@ -1595,7 +1595,7 @@ PERSON_MUSIC1,Brand New
 PERSON_MUSIC2,Classic
 PERSON_BTN_7,Music
 NORMAL_SLOT_MACHINE,Slot Machine
-HIGH_SLOT_MACHINE,High Stakes Slot Machine
+HIGH_SLOT_MACHINE,Super Slot Machine
 ACTIVITY_SCHOOL_GIFTBAG_HELP_TEXT,1. There are abundant rewards in each Gift Bag. Players can claim rewards in unlocked Gift Bags by signing in daily. |2. Locked Gift Bags will still hold their rewards. Players can claim all rewards stacked in them once when they're unlocked. |3. Click the Gift Bag to check the rewards. |4. The 3rd Gift Bag will be unlocked once the 2nd Special Gift Pack is purchased.
 CHAPTER_COUNT,Chapter {1}
 CHAPTER_TITLE,{1}-{2} {3}
@@ -2485,7 +2485,7 @@ ACTIVITY_SCRATCH_CARD_ONE,Use 1 Scratch\nTicket
 ACTIVITY_SCRATCH_CARD_TEN,Use 10 Scratch\nTickets
 ACTIVITY_SCRATCH_CARD_BUY_TITLE,Purchase
 ACTIVITY_SCRATCH_CARD_LIMIT,You have reached the purchase limit
-ACTIVITY_SCRATCH_CARD_HELP,"1. You can get 5 random 3-Star Girl shards*20 from each Scratch Card. (The rates for getting each type of shards are the same)|2. During the event, you can get additional rewards from CapsuGirl if the 3-Star Girl shards you get from 1 Scratch Card meets the following requirements:|-3 of the 5 girls in a ticket are in the same Faction: 4-Star Girl shards*30|-4 of the 5 girls in a ticket are in the same Faction: 5-Star Girl shards*50|-all of the 5 girls in a ticket are from the same Faction: Elite 5-Star Girl shards*50|-The girls in one ticket are from 5 different Factions: 4-Star Demon Shards*60 + 4-Star Angel Shards*60|3. The Scratch Tickets will still be able to use after the event is over, but you will not be able to get the additional rewards listed in Rule 2 at that time|4. Click the Record Button in the top right corner of the event page to check your recent Scratch Ticket using record|5. Method to acquire Scratch Tickets:|-Daily reward from Mail|-Value Packs|-Exclusive Tasks|-Special Gift Packs|-Special Skin Packs|-Purchase with Gem on the event page (You can get 2,000 Scratch Tickets at most in this method)"
+ACTIVITY_SCRATCH_CARD_HELP,"1. You can get 5 random 3-Star Girl shards*20 from each Scratch Card. (The rates for getting each type of shards are the same)|2. During the event, you can get additional rewards from CapsuGirl if the 3-Star Girl shards you get from 1 Scratch Card meets the following requirements:|-2 of the 5 girls in a ticket are in the same Faction: 4-Star Girl shards*5|-3 of the 5 girls in a ticket are in the same Faction: 4-Star Girl shards*30|-4 of the 5 girls in a ticket are in the same Faction: 5-Star Girl shards*50|-all of the 5 girls in a ticket are from the same Faction: Elite Badge*1|-The girls in one ticket are from 5 different Factions: Adv. Capsule Coupon (10x Draw)*1|3. The Scratch Tickets can still be used after the event is over, but you will not be able to get the additional rewards listed in Rule 2 at that time.|4. Tap on the Record Button in the top right corner of the event page to check a record of recently used Scratch Tickets.|5. Method to acquire Scratch Tickets:|-Daily reward from Mail|-Value Packs|-Special Gift Packs|-Special Skin Packs|-Luvly's Journey|-Exclusive Task|-Purchase with Gem on the event page (You can get 1,000 Scratch Tickets at most in this method)"
 ACTIVITY_SCRATCH_RECORD,Record
 HOUSE_TEXT_54,Available after joining a Guild
 UNFOLD_SKIN,List
@@ -2799,10 +2799,10 @@ MAIL_ORIGIN_TEXT,Original
 BATTLE_PASS_TAGS,Progress|Task|Exchange|Trophies
 BATTLE_PASS_MISSION_TAGS,Daily|Weekly|Extra
 BATTLE_PASS_SHOP_TAGS,Tighten Screws|Install Cores
-ACTIVITY_WARMUP_PACK_TEXT01,Purchase the Pack to get rewards after the number of completed Battle reaches certain amounts! You will be able to get:
+ACTIVITY_WARMUP_PACK_TEXT01,Purchase the Admission Prep Package and receive the rewards listed immediately! Extra rewards can also be obtained for completing missions in Entrance Exam!
 ACTIVITY_WARMUP_PACK_TEXT02,Get this extra pack right now!
 ACTIVITY_WARMUP_PACK_TEXT03,Preview
-ACTIVITY_WARMUP_PACK_HELP,"1. After purchasing the extra pack for Admission Prep, you will be able to receive additional rewards after the number of players that have completed Backstory reaches certain amounts. You can check the rewards in Preview.|2. The additional rewards will be issued via Mail.|3. The pack provides additional rewards, which means you can still acquire the normal rewards after purchasing this pack."
+ACTIVITY_WARMUP_PACK_HELP,"1. After purchasing the Admission Prep Package, you will be able to receive extra rewards when completing missions in the ""Entrance Exam"" event.|2. After purchase, 40 Adv. Capsule Coins and a limited avatar of the new Girl will be immediately received in your account."
 ACTIVITY_WARMUP_PACK_PRE_TITLE,Preview
 ACTIVITY_WARMUP_PACK_PRE_TEXT,{1} Battles completed
 ACTIVITY_SPORTS_NOT_ENTER_600,You failed to enter Runoff
@@ -2993,8 +2993,8 @@ ENTRANCE_TEST_NO_ENEMY,Failed to match an opponent
 GAMBLE_PRO_0,Slot Machine
 GAMBLE_PRO_1,Super Slot Machine
 ENTRANCE_TEST_SORT,Setup
-ACTIVITY_WARMUP_ARENA_HELP,"1. Entrance Exam is a pre-release event for Kratos and Nephilim, the event will last for 7 days. You will need to set up your own defense lineup. You can promote your position in the ranking list by defeating the Defense lineup of other players and gain points.|2. You will need to enter the Setup menu to select the girls you want to add in your lineup. Only the girls you added to the Setup Box can be selected. The Setup Box can contain 30 girls at most.|3. The Girls you can add to Setup Box in this event are at Lv. 290 and equipped with Angel set gears but they will still need you to adjust their Crystals, Antiques and potentials. After you've completed the adjustment of a girl, she will be marked with a ""Done"" tag to distinguish her from the unadjusted girls.|4. You will need to cost 1 Test Certificate for each battle you engage, the Test Certificates you hold will be refilled to 12 at 0:00 (UTC/GMT 0) every day.|5. During the event is on, the system will match you with opponents whose points are close to yours. You will gain more points for winning battles and lose some points for losing.|6. Rule No.5 also goes the same when you win or lose as the defender, so please set up your Defense lineup wisely.|7. After the event is over, you will receive rewards via Mail according to your position in the ranking list at the end of the event."
-ACTIVITY_WARMUP_ARENA_PARTNER_TEXT1,Angelica
+ACTIVITY_WARMUP_ARENA_HELP,"1. Entrance Exam is a pre-release event for new girls, the event will last for 7 days. You will need to set up your own defense lineup. You can promote your position in the ranking list by defeating the Defense lineup of other players and gain points.|2. You will need to enter the Setup menu to select the girls you want to add in your lineup. Only the girls you added to the Setup Box can be selected. The Setup Box can contain 30 girls at most.|3. The Girls you can add to Setup Box in this event are at Lv. 290 and equipped with Angel set gears but they will still need you to adjust their Crystals, Antiques and potentials. After you've completed the adjustment of a girl, she will be marked with a ""Done"" tag to distinguish her from the unadjusted girls.|4. You will need to cost 1 Test Certificate for each battle you engage, the Test Certificates you hold will be refilled to 12 at 0:00 (UTC/GMT 0) every day.|5. During the event is on, the system will match you with opponents whose points are close to yours. You will gain more points for winning battles and lose some points for losing.|6. Rule No.5 also goes the same when you win or lose as the defender, so please set up your Defense lineup wisely.|7. After the event is over, you will receive rewards via Mail according to your position in the ranking list at the end of the event."
+ACTIVITY_WARMUP_ARENA_PARTNER_TEXT1,Diana
 ACTIVITY_WARMUP_ARENA_PARTNER_TEXT2,Frexie
 ACTIVITY_WARMUP_ARENA_PARTNER_CV1,CV: Tsugumi Sakuragi
 ACTIVITY_WARMUP_ARENA_PARTNER_CV2,CV: Asami Takano
@@ -3284,8 +3284,8 @@ WISH_GACHA_SELECT_PARTNER_TIPS_2,Selection cannot be changed after confirmation.
 PET_STORY_UNLOCK,Unlock after evolving the Servant to stage {1}.
 THE_PET_HAS_NOT_DATA,Librarian is still collecting informations of this Servant
 ACTIVITY_ENTRANCE_TEST_BUY_TILI_WINDOW,Purchase Test Certificate
-ACTIVITY_ENTRANCE_TEST_TIME_TIPS,Get 6 more Test Certificates in:
-ACTIVITY_ENTRANCE_TEST_TILI_HELP,"1. You can have [c][cc0011]12[-][/c] Test Certificates at most, you will get 6 more Test Certificates every day at 0:00 (UTC/GMT 0)(but your total Test Certificate number cannot exceed 12)|2. You can purchase additional Test Certificates with Gems when you're holding less than 12 Test Certificates, but you can only purchase [c][cc0011]12[-][/c] at most in a day."
+ACTIVITY_ENTRANCE_TEST_TIME_TIPS,Reset to 10 Test Certificates after:
+ACTIVITY_ENTRANCE_TEST_TILI_HELP,"1. You will obtain 20 Test Certificates when you enter the event page for the first time. The number of Test Certificates will be reset to 10 Test Certificates at 0:00 (UTC/GMT 0) every day during the event.|2. Extra Test Certificates can be purchased with Gems, but there is a daily limit of [c][cc0011]20[-][/c] extra Test Certificates that can be purchased."
 ACTIVITY_ENTRANCE_TEST_TILI_FULL,You have enough Test Certificates
 ENTRANCE_TEST_UNEQUIP_TIP,Set incomplete
 ENTRANCE_TEST_NEW_HERO_TIPS,New Girl is here!
@@ -3301,16 +3301,16 @@ ENTRANCE_TEST_HELP_DES_1_5,Tap the empty Antique slot to select a suitable [c][c
 ENTRANCE_TEST_HELP_TITLE_1_1,Setup
 ENTRANCE_TEST_HELP_TITLE_2_1,Setup
 ENTRANCE_TEST_HELP_TITLE_2_2,Defense Team
-ENTRANCE_TEST_HELP_DES_2_1,Tap the empty Potential slot to select a suitable [c][cc0011]Potential[-][/c] for your girl.
+ENTRANCE_TEST_HELP_DES_2_1,"After reaching Division A, the Girls available will be at Limit Break Stage 5, and you will be able to adjust their [c][cc0011]Potentials[-][/c]."
 ENTRANCE_TEST_HELP_DES_2_2,"After the girl is fully prepared, she will be tagged with a ""Done"" mark."
 ENTRANCE_TEST_HELP_DES_2_3,"Before you engage, please set a [c][cc0011]Defense Team[-][/c] for yourself. Only the girls who are fully prepared can be added in your Defense Team. If your Defense Team wins a battle, you will win some points. But you will also lose some points if your Defense Team loses a battle. So please set up your Defense Team carefully."
 ENTRANCE_TEST_HELP_TITLE_3_1,Fight
 ENTRANCE_TEST_HELP_TITLE_3_2,Ranking
 ENTRANCE_TEST_HELP_TITLE_3_3,Reward
 ENTRANCE_TEST_HELP_DES_3_1,Tap [c][cc0011]Fight[-][/c] button to battle with other players after you've met the requirement.\nYou will get random opponents according to your current event points. You will get event points for each victory and lose event points for each defeat.
-ENTRANCE_TEST_HELP_DES_3_2,"You need to spend 1 Test Certificate for each battle you start.\nYou can have 12 Test Certificates at most, you will get 6 more Test Certificates every day at 0:00 (UTC/GMT 0)(but your total Test Certificate number cannot exceed 12)\nYou can purchase additional Test Certificates with Gems."
+ENTRANCE_TEST_HELP_DES_3_2,Starting a battle will consume 1 Test Certificate.\nThe number of Test Certificates you own will be reset to 10 Test Certificates at 0:00(UTC/GMT 0) every day.\nExtra Test Certificates can be purchased with Gems.
 ENTRANCE_TEST_HELP_DES_3_3,You can check your current event score and position in the ranking list during the event.
-ENTRANCE_TEST_HELP_DES_3_4,You can tap [c][cc0011]Ranking[-][/c] button to check your current position in the ranking list and the rewards.\nYou receive your reward given according to your rank via [c][cc0011]Mail[-][/c] after the event is over.
+ENTRANCE_TEST_HELP_DES_3_4,Tap on [c][cc0011]Rewards[-][/c] button to check the missions and rewards available.\nExtra rewards are unlocked after purchasing the [c][cc0011]Admission Prep Package[-][/c].
 ACTIVITY_WARMUP_PACK_TEXT04,Bonus limited-edition avatar for the new girl:
 ACTIVITY_WARMUP_PACK_TEXT05,Value
 CHESS_EXCHANGE,Convert
@@ -3812,7 +3812,7 @@ DUNGEON_HARD_6,Nightmare
 OLD_SCHOOL_TIME_TEXT1,Countdown:
 OLD_SCHOOL_TIME_TEXT2,Exhibition:
 OLD_SCHOOL_AWARD_EXPLAIN_TEXT,Top 10 Reward
-OLD_SCHOOL_FLOOR_NAME,Stage {1}
+OLD_SCHOOL_FLOOR_NAME,Area {1}
 OLD_SCHOLL_BUFF_NAME1,Primary Plan
 OLD_SCHOLL_BUFF_NAME2,Standard Plan
 OLD_SCHOOL_FIGHT_NAME,"Area {1}, Stage {2}"
@@ -4391,7 +4391,7 @@ SPACE_EXPLORE_TEXT_19,Adventure Team Setting
 SPACE_EXPLORE_TEXT_20,Hide Level-up marks
 SPACE_EXPLORE_TEXT_21,Hide Girls not obtained
 SPACE_EXPLORE_TEXT_22,Bizarre Adventures
-SPACE_EXPLORE_HELP_04,"1. There are 30 Blocks on the map, one of the 30 Blocks is your starting point.|2. You can flip over the 4 Blocks near (↑↓←→) the starting point or near the Blocks that have been flipped over.|3. You might encounter an item reward, enemies or nothing after flipping over each Block. You can directly tap on the Block with the item reward to acquire the reward, and you will also be rewarded after defeating each enemy. After acquiring certain numbers of Void Crystals from the event, you will receive rewards via Mail|4. When there's an enemy revealed on a flipped over Block, the 8 Blocks around the enemy block won't be able to be flipped over before the enemy is defeated.|5. You will only be able to challenge the Boss of your current stage after defeating all other enemies. After defeating the Boss, the portal to the next stage will open, and you can tap to enter the next stage.|6. When you encounter an enemy, your Adventure Team will engage the enemy. The power of your Adventure Team depends on all the Adventure Girls you've acquired. It also has all the skills of the Adventure Girls you've acquired.|7. The battle in Bizarre Adventures is unique, your Adventure Team and the enemy will deal damage against each other at the same time (Attack - Armor = Damage Dealt, at least 50 Damage will be dealt for each attack).|8. If the enemy's HP reduces to 0 first, you win this battle. But if the HP of your team and the enemy reduces to 0 at the same time, or the HP of your team reduces to 0 first. You will lose the battle. Your team will need time to regroup before they can take on their next challenge against an enemy.|9. Your team will enter each battle with 100%% HP in Bizarre Adventures.|10. The enemy in Bizarre Adventure always enters battle with full HP.|11. The Void Crystals acquired is for this season of Bizarre Adventures only!"
+SPACE_EXPLORE_HELP_04,"1. There are 30 Blocks on the map, one of the 30 Blocks is your starting point.|2. You can flip over the 4 Blocks beside (↑↓←→) the starting point or beside the Blocks that have been flipped over.|3. You might encounter an item reward, enemies or nothing after flipping over each Block. You can directly tap on the Block with the item reward to acquire the reward, and you will also be rewarded after defeating each enemy. Void Crystals can be obtained from item reward blocks or enemy blocks. After acquiring the required numbers of Void Crystals, you will receive rewards via Mail.|4. When there's an enemy revealed on a flipped over Block, the 8 Blocks around the enemy block won't be able to be flipped over before it is defeated.|5. You will only be able to challenge the Boss of your current stage after defeating all other enemies. After defeating the Boss, the portal to the next stage will open, and you can tap to enter the next stage.|6. When you encounter an enemy, your Adventure Team will engage the enemy. The attribute of your Adventure Team depends on all the Adventure Girls you've acquired. It also has all the skills of the Adventure Girls you've acquired.|7. The battle in Bizarre Adventures is unique: your Adventure Team and the enemy will deal damage against each other at the same time (Attack - Armor  = Damage Dealt, at least 50 Damage will be dealt for each attack).|8. If the enemy's HP reaches 0 first, you win this battle. If the HP of your team and the enemy reaches 0 at the same time, or the HP of your team reaches 0 first, you will lose the battle. Your team will need time to regroup before they can take on their next challenge against an enemy.|9. The enemy in Bizarre Adventure always enters battle with full HP.|10. Your team will also always enter each battle with 100%% HP. The HP changes in a previous battle will not affect later battles.|11. The Void Crystals acquired is for this season of Bizarre Adventures only! They will be removed from your account after this season of Bizarre Adventures is over."
 SPACE_EXPLORE_TEXT_23,We need to locate and defeat the Boss
 COLLECTION_SKIN_WEDDING,Oath Skin
 SPACE_EXPLORE_CHECK_BUFF_WINDOW,Buff
@@ -4483,7 +4483,7 @@ ACTIVITY_RETURN_GIFT_TEXT,Customize your own pack!
 ENTRANCE_TEST_SHOWS_TIPS,Win the Bet for [c][0x723c1c size=34]DOUBLE[-][/c] Coins.
 ENTRANCE_TEST_GUESS_CHANGE,Change Bet
 REPAIR_TO_RESET_GAME,"The game will be restarted automatically after the repair, continue?"
-PUB_MISSION_AUTO_HELP,"1. Bulk Assignment can help you to start internship tasks easier.|2. When the number of ongoing internship tasks and the number of completed internship tasks reach the limit, you will not be able to use the Bulk Assignment feature, then please collect the rewards first before you use the feature again.|3. You select the star rank of the internship tasks you want to start in Bulk Assignment feature.|4. If there's an internship task you don't want to start, please tap the ""√"" again to cancel it."
+PUB_MISSION_AUTO_HELP,"1. Multi-Intern can help you to start internship tasks easier.|2. When the number of ongoing internship tasks and the number of completed internship tasks reach the limit, you will not be able to use the Multi-Intern feature. Please collect the rewards first before you use the feature again.|3. You can select the star rank of the internship tasks you want to start in Multi-Intern feature.|4. If there's an internship task you don't want to start, please tap the ""√"" again to cancel it."
 ENTRANCE_TEST_GUESS_CHANGE_TIPS,Do you want to change your bet on this team?
 ACTIVITY_RESIDENT_RETURN_RECOMMENT1,"Senpai, it's been a long time since we last met!"
 ACTIVITY_RESIDENT_RETURN_RECOMMENT2,We've listed some suitable friends and Guilds for you~
@@ -4668,7 +4668,7 @@ TRAVEL_MAIN_TEXT72,Market
 MONTH_CARD_TEXT001,Instant Reward
 MONTH_CARD_TEXT002,Daily Reward
 MONTH_CARD_TEXT003,Monthly Pass Additional Reward
-MONTH_CARD_TEXT004,"1. After purchasing Monthly Pass, you will instantly receive 900 Gems and 750 VIP points. You will also receive 370 Gems in Mail every day after purchasing, which will last for 30 days (amounting to a total of 12,000 Gems for purchasing the Monthly Pass).|In addition, after you reach VIP Level 2, you will get a daily bonus reward before the Monthly Pass expires. The reward gets better as your VIP level increases!|2. After purchasing Mini Pass, you will instantly receive 350 Gems and 250 VIP points. You will also receive 85 Gems in Mail every day after purchasing, which will last for 30 days.|Mini Pass does not provide an additional daily reward according to VIP level, but can be activated with a Monthly Pass at the same time!|3. A special discount will be given when purchasing a Monthly Pass or a Mini Pass for the first time. The discount will no longer be valid after your first purchase on each Pass."
+MONTH_CARD_TEXT004,"1. After purchasing Monthly Pass, you will instantly receive 900 Gems and 750 VIP points. You will also receive 370 Gems in Mail every day after the purchase for 30 days (amounting to a total of 12,000 Gems for purchasing the Monthly Pass).|In addition, after you reach VIP Level 2, you will get a daily bonus reward along with the Daily Gems before the Monthly Pass expires. The reward gets better as your VIP level increases!|2. After purchasing Mini Pass, you will instantly receive 350 Gems and 250 VIP points. You will also receive 85 Gems in Mail every day after the purchase for 30 days.|Mini Pass does not provide the additional daily reward according to VIP level, but can be activated with a Monthly Pass at the same time!|3. A special discount will be given when purchasing a Monthly Pass or a Mini Pass for the first time. The discount will no longer be valid after your first purchase on each Pass."
 GUILD_POLICY_CHANGED_TIP,Guild Priority changed successfully
 GUILD_OPEN_TYPE_LABEL2,Verification
 GUILD_OPWER_LIMIT_LABEL2,Power Limit
@@ -4809,13 +4809,13 @@ DRESS_CHOOSE_FRAGMENT_WINDOW_6,Add All
 DRESS_CHOOSE_FRAGMENT_WINDOW_7,Not enough shards
 DRESS_CHOOSE_FRAGMENT_WINDOW_8,Add all completed
 ACTIVITY_JUNGLE_TEXT09,"Exploration Progress has reached 100%%, confirm to continue?"
-ACCOUNT_HELP,"1. If you are using a guest account, you can tap on your avatar and link your account to a suitable third-party platform account under Settings.|2. For quicker and more efficient help, you can contact us via Facebook ""Girls X Battle 2"". Our support will help you with the procedure!|3. You can tap the account icon on the top right corner of the login page to switch your account.|4. If you lose your game account, you can contact us via Facebook and provide the following information: player name, server, linked third-party platform account, etc. If you have previously purchased any gift pack for your account, you can also send the payment receipt as the account information. You can also contact us directly in-game (tap on the second icon on the top right corner of the login page)!|5. If you have a login problem, you can write to our support team on the login page and describe your current problem to us (for example, ""my account got restricted"", ""login via third-platform account failed"", etc.). You can also send a screenshot so that we can confirm the problem more quickly.|6. The link between your account and the third-party platform account cannot be removed or changed, but the login data for ""quick login"" can still be set additionally, which can help you log in quicker.|7. If an account is sold to another player, we can no longer ensure the account's safety. So please avoid providing your account information to other players. We reserve the right to treat (mute, suspend, etc.) any such sold or shared account. An account that is sold always belongs to the original owner of the account. In most cases, players that sell their account are only in to gain the buyer’s money and will not necessarily transfer their account ownership. Selling, sharing, and gifting the account are violations of our Terms of Use and are strictly prohibited. If you notice such activities, you can report these players to us at any time."
+ACCOUNT_HELP,"1. If your account is a Guest Account, you can tap on your avatar and link your account to a third-party platform account in Frontpage-Tap on your Avatar-Settings-Account.|2. For quicker and more efficient help, you can contact us via Facebook Messenger ""Girls X Battle 2"" (https://www.facebook.com/en.gxb2/). Our support will help you with the procedure!|3. You can tap on the account icon at top right corner of the Title Page (the one showing ""Tap to Play"") to log in or switch between different accounts.|4. If you lose your game account, you can contact us via Facebook and provide the following information: Player Nickname, Server, Linked third-party platform account, etc. If you have made any in-game purchases for your account, you can also send the payment receipt as the account information. You can also contact us directly by tapping on the second icon on the top right corner of the Title Page!|5. If you have difficulties when logging in, you can write to our support team on the login page and describe the details of the problem to us (for example, ""my account got restricted"", ""login via third-platform account failed"", etc.). You can also send us a screenshot so that we can confirm the problem more quickly.|6. The link between your account and the third-party platform account cannot be removed or changed. However, we would be able to add a ""Quick Login"" method for your account, which can help you log in faster. If you need to do so, please contact us via the in-game GM Channel.|7. If account information is shared with other players, we will not be able to ensure the account's safety. Please avoid providing your account information to other players. We reserve the right to treat (mute, suspend, etc.) any sold or shared account. An account that is sold always belongs to the original owner of the account. In most cases, players that sell their account are only in to gain the buyer’s money and will not necessarily transfer their account ownership. Selling, sharing, and gifting game accounts are violations of our Terms of Use and are strictly prohibited. If you notice such activities, you can report these players to us at any time."
 HOUSE_AWARD_TIPS,No reward available
 ACTIVITY_ANTIQUE_LEVELUP_HELP,"
 1. You are able to upgrade Orange Antiques to Pink Antiques in Antique Laboratory.|2. Upgrade rule:
-1-star Pink Antique=6-star Orange Antique + any star of the same Antique of orange quality + 6000 Antique Extracts
-2-star Pink Antique=1-star Pink Antique + any star of the same Antique of orange quality + 10000 Antique Extracts
-3-star Pink Antique=2-star Pink Antique + any star of the same Antique of orange quality + 14000 Antique Extracts|3. If the ""any star of the same Antique of orange quality"" that is mentioned above is used as material, the Afterglow used on the Antique will be returned.|4. You can Disassemble Antiques in the Antique Laboratory and get Antique Extracts. (Pink Antiques cannot be Disassembled).|5. There is a limited amount of Antique Extracts that can be obtained in the Antique Laboratory each season, once the limit has been reached (60000 Antique Extracts for each season), Afterglow will be obtained thereafter in place of Antique Extracts at the rate of 1:1.|6. Players can reverse pink Antiques in the Antique Laboratory and retrieve the Antique materials used before the upgrade."
+1-star Pink Antique=6-star Orange Antique + any star of the same Antique of orange quality + 6,000 Antique Extracts
+2-star Pink Antique=1-star Pink Antique + any star of the same Antique of orange quality + 10,000 Antique Extracts
+3-star Pink Antique=2-star Pink Antique + any star of the same Antique of orange quality + 14,000 Antique Extracts|3. If the ""any star of the same Antique of orange quality"" that is mentioned above is used as material, the materials used to upgrade the Antique will be returned in the form of Afterglow.|4. You can Disassemble Antiques in the Antique Laboratory and get Antique Extracts. (Pink Antiques cannot be Disassembled).|5. There is a limited amount of Antique Extracts that can be obtained in the Antique Laboratory each season, once the limit has been reached (60,000 Antique Extracts for each season), Afterglow will be obtained thereafter in place of Antique Extracts at the rate of 1:1.|6. Players can reverse pink Antiques in the Antique Laboratory and retrieve the Antique materials used before the upgrade."
 ACTIVITY_ANTIQUE_LEVELUP_TEXT01,Improve
 ACTIVITY_ANTIQUE_LEVELUP_TEXT02,Reverse
 ACTIVITY_ANTIQUE_LEVELUP_TEXT03,Select Antique
@@ -4838,3 +4838,62 @@ QUICK_STARS_TEXT04,No Girl material
 ACTIVITY_ANTIQUE_LEVELUP_TEXT15,"You have reached the limit of 60,000 Antique Extracts for this event. Disassembling more Antiques in the event will only grant Afterglow at the rate of 1:1. Do you wish to continue?"
 ACTIVITY_ANTIQUE_LEVELUP_TEXT16,"The chosen Antique is currently\nequipped by another Girl, continue?"
 DAILY_QUIZ_TEXT04,"If you need extra Quiz Chances, please enter\nthe number of Chances you would like to purchase:"
+PUB_MISSION_AUTO_TEXT1,Claim in Bulk
+ENTRANCE_TEST_ARTIFACT_CHOOSE_TIPS,The Orange Antiques available here are the ones that have already been obtained by you at least once.
+ENTRANCE_TEST_PARTNER_NOT_READY,You have chosen Girls that haven't been fully equipped yet in your Team. Would you still like to continue?
+ENTRANCE_TEST_BATTLE_JUMP_SET,Adjust
+ENTRANCE_TEST_PET_EXSKILL,The Ulticore Level of the Servants chosen here will have the same Level as your Servants.
+ENTRANCE_TEST_PET_CANNOT_UPGRADE,You cannot upgrade your Servants in Entrance Exam.
+SNS_ACTIVITY_HTTP_BTN01,Go!
+SNS_ACTIVITY_TEXT01,Check it out in our communities!
+ENTRANCE_TEST_PARTNER_LOCK,Unlocked after reaching Division A
+ENTRANCE_TEST_LEVEL_UP,Benefits Unlocked:
+WARMUP_ARENA_RANK_INFO_2,"- Level and Grade of Girls available increased to Level 330, Limit Break Stage 5, and unlock Potentials\n- Star Grade of Antiques available increased to 6-Star\n- Level of Servants increased to Level 180"
+WARMUP_ARENA_RANK_INFO_3,- Elite Skills of Girls increased to Elite Level 5\n- Servant Ulticore unlocked (Servant's Ulticore Level in the event shares the same Ulticore Level of your Servants)\n- Aura of Servants shares the same Aura Level as your Servants. The Servant Aura of Servants in the event will not be lower than Lv. 30.
+WARMUP_ARENA_RANK_INFO_4,The highest Division
+ENTRANCE_TEST_LEVEL_UP_DESC_1,Adjust Lineup
+SELECT,Select
+A_OR_B,{1} or {2}
+GUILD_MEAL_TEXT1,Upgrade Order
+GUILD_MEAL_TEXT2,Start Order
+GUILD_MEAL_TEXT3,Upgrade Orders in bulk
+GUILD_MEAL_TEXT4,Target Order
+GUILD_MEAL_TEXT5,Upgrading the orders in bulk will cost {1} Gems. Continue?
+GUILD_MEAL_TEXT6,Unlocked at Cafeteria Lv. 5
+ACADEMY_EXAM_TEXT1,Auto-Challenge Settings
+ACADEMY_EXAM_TEXT2,Auto-Challenge stages until defeat
+ACADEMY_EXAM_TEXT3,Auto-Challenge stages until all Admission Tickets are used
+PUB_MISSION_AUTO_TEXT2,There aren't any completed Internship Quests.
+PUB_MISSION_AUTO_TEXT3,The Internship Quests you have chosen includes 6-Star and 7-Star Internship Quests. Continue?
+ACTIVITY_ENTRANCE_TEST_RANK_WINDOW_1,Rewards for ranking in Top {1}
+ACTIVITY_ENTRANCE_TEST_RANK_WINDOW_2,Top {1} players will advance to the next Division
+ACTIVITY_ENTRANCE_TEST_RANK_WINDOW_3,You have reached the highest Division
+ACTIVITY_ENTRANCE_TEST_RANK_WINDOW_4,Division will be decided in:
+ACTIVITY_ENTRANCE_TEST_RANK_WINDOW_5,Event ends in:
+ACTIVITY_ENTRANCE_TEST_RANK_WINDOW_6,Results will be calculated in:
+PUB_MISSION_AUTO_HELP2,"1. The ""Claim in Bulk"" feature helps you claim finished Internship Quests easier.|2. You can choose the star rank of the Internship Quests you would like to claim rewards from. Multiple star ranks can be selected at the same time. After the selection, completed Internship Quests of the corresponding star ranks will appear.|3. If a 6-Star or 7-Star Internship Quest is included in the Internship Quests you would like to claim, a window will pop up asking for your confirmation."
+ENTRANCE_TEST_LEVEL_UP_NEED,Required\nRanking
+WARMUP_ARENA_REACH_RANK_HELP,Benefits for Division {1}:|{2}|Benefits for Division {3}:|{4}|Benefits for Division {5}:|{6}
+ENTRANCE_TEST_LEVEL_UP_ING,Results are being calculated...
+WARMUP_ARENA_TASK_INFO_1,New Girl Missions
+WARMUP_ARENA_TASK_INFO_2,Diana - Follower of Stars
+WARMUP_ARENA_TASK_INFO_3,Mission Rewards
+WARMUP_ARENA_TASK_INFO_4,Extra Rewards
+WARMUP_ARENA_TASK_INFO_5,Unlocked after completing New Girl Missions
+ACTIVITY_ENTRANCE_TEST_RECORD_TIPS,Cannot start the battle because your opponent is in a different Division!
+WARMUP_ARENA_TASK_HELP,"1. Complete New Girl Missions for rewards.|2. Extra rewards can be claimed after purchasing the Admission Prep Package.|3. After completing the star-marked missions, a new episode of the new girl's story will be unlocked. You can learn more about her, and watch her interact with other girls in Yume Academy."
+ENTRANCE_TEST_NO_FIGHT_PARTNERS,You haven't set up an Offense Lineup yet. Would you like to use the same team as your Defense Lineup for your Offense Lineup?
+PUB_MISSION_AUTO_TEXT4,Completed Interns
+LIMITED_FOR_ACTIVITY,Limited Time Only
+ACTIVITY_WARMUP_PACK_TEXT06,Extra\nRewards!
+ACTIVITY_WARMUP_PACK_TEXT07,To Battle!
+ENTRANCE_TEST_NEXT_DAY,Results are being calculated right now. Battles cannot be started in Calculation Period.
+ENTRANCE_TEST_ENERGY_EXCEED,The number of Test Certificates you own will be reset to 10 Test Certificates at 0:00 (UTC/GMT 0) every day. Any remaining Test Certificates will be removed from your account at the time of reset. Continue?
+ENTRANCE_TEST_LEVEL_UP_DESC,New Division
+WARMUP_ARENA_TASK_ENTRANCE,Rewards
+SNS_ACTIVITY_TEXT02,Participate in our Community Events for rewards!
+SNS_ACTIVITY_TEXT03,(UTC/GMT 0)
+ENTRANCE_TEST_PETCORE_LOCK,Reach Division S to unlock Servant Ulticore!
+PUB_MISSION_AUTO_TEXT5,Choose All/Cancel
+LIMIT_ACT_LEFT_TIME,[c][394046]Expires in [-][/c]{1}
+WARMUP_ARENA_TASK_INFO_6,Admission\nPrep

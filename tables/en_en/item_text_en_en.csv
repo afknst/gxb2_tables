@@ -26,7 +26,7 @@ id,name,brief,desc
 26,Servant Cookie,Servant Material,"Used to raise, train, and evolve Servants"
 27,Spirit Cookie,Servant Material,Used for upgrading your Servant's Aura
 28,Hourglass,Practical Work Tickets,Used to participate in Practical Work
-29,Super Slot Ticket,Super Slot Ticket,Each round of High Stake Slot Machine costs 1 Super Slot Ticket.
+29,Super Slot Ticket,Super Slot Ticket,Each round of Super Slot Machine costs 1 Super Slot Ticket.
 30,Avatar,Special Avatar,blank
 31,Construction Material,Building Material,Material to construct
 32,Girls exchange material,Girl Exchange Material,Use for replacing 10-star Girl
@@ -531,7 +531,7 @@ id,name,brief,desc
 5638,Dragon Jade,,
 5639,Dragon Jade,,
 5640,Dragon Jade,,
-6000,Afterglow,Material for upgrading Antiques,
+6000,Afterglow,Antique upgrade material,
 6001,Chalk,Antique,
 6002,Stool,Antique,
 6003,Evil Machete,Antique,
@@ -1720,7 +1720,7 @@ id,name,brief,desc
 7077,Coffee Break,Skins,Coffee Break skin of Raphael
 27077,Coffee Break,Skins,Coffee Break skin of Raphael
 85,Spring Ticket,Event Material,Exclusive item that can be exchanged for rewards during its corresponding event
-86,Scratch Ticket,Event Material,"Event items used in Luck Contest. Chances to get 5-star Elite Girls Shards, 5-star Girls Shards, 4-star Angel or Demon Shards and 4-Star Girls Shards!"
+86,Scratch Ticket,Event Material,"Special items used in the event ""Luck Contest""."
 7078,Lion Dance,Skins,Lion Dance skin of Mio
 27078,Lion Dance,Skins,Lion Dance skin of Mio
 6461,Burning Blades,,
@@ -3303,3 +3303,16 @@ This book was only an experimental product that was created with well-known stor
 52017,Monica,,
 652024,Monica,,
 752017,Monica,,
+930209,5-star Diana,Summon Girl,Collect 50 shards to summon the girl.
+51016,Diana,,
+651023,Diana,,
+751016,Diana,,
+263,Adv. Capsule Coupon (10x Draw),Summoning Item,Used to pull from the Adv. Capsule Machine during the Girls X Capsule Points event. This item will be removed from your account after the Girls X Capsule Points event ends. Please remember to use it in time.
+7201,Racing Twins,Skin,Racing Twins skin of Esau & Jacob
+27201,Racing Twins,Skin,Racing Twins skin of Esau & Jacob
+4101027,Customized Girls Chest (Luvly's Journey S10),Customized Chest,You can select to get 50 shards of a certain 5-Star Girl from Ghost/Human/Monster/Fairy Faction for opening this chest. (The options for this chest won't be updated in the future)
+4101028,5-Star Customized Chest,Customized Chest,You can select to get 50 shards of a certain 5-Star Girl from Ghost/Human/Monster/Fairy Faction for opening this chest. (The options for this chest won't be updated in the future)
+4102025,Customized L&D Chest (Luvly's Journey S10),Customized Chest,"Select a 5-Star Girl from Angel/Demon faction from the list after opening this chest. (Once this chest is obtained, the contents of this chest will not be updated.)"
+4302012,Customized Skin Chest (Luvly's Journey S10),Customized Chest,You can select to get a skin for opening this chest.(Tap the magnifying glass in the item for the option details; The options here won't be updated)
+20001066,Limited: Monica,Special Avatar,Limited avatar of Monica. It's so easy~
+20001065,Limit: Diana,Special Avatar,Limited avatar of Diana. May the moon restore you by night.

@@ -6762,17 +6762,17 @@ Skill effect, once 4 stacks are reached, Apate will revive with 100% HP and 100 
 Let the suffering come forth! Mika uses a fierce attack to attract enemies\' attention, deals attack twice against backline enemies, each attack deals (150% of Attack) damage, thereafter has 30% chance to [c][e28002]Taunt[-][/c] each target for 2 rounds. Increases own Damage Depletion by 10% for 2 rounds.
 
 [c][e28002]Taunt:[-][/c]
-Control effect, the attack target of girls that are Taunted will be aimed at Mika (team damage included)."
+Control effect, the Taunted target will compulsively target the Mika that afflicted [c][e28002]Taunt[-][/c] when releasing their Active Skill, when dealing a Basic Attack, or when triggering a Passive Skill that affects the enemies."
 65202201,Mika,Crystal Rage,"
 Let the suffering come forth! Mika uses a fierce attack to attract enemies\' attention, deals attack twice against backline enemies, each attack deals (225% of Attack) damage, thereafter has 40% chance to [c][e28002]Taunt[-][/c] each target for 2 rounds. Increases own Damage Depletion by 15% for 2 rounds.
 
 [c][e28002]Taunt:[-][/c]
-Control effect, the attack target of girls that are Taunted will be aimed at Mika (team damage included)."
+Control effect, the Taunted target will compulsively target the Mika that afflicted [c][e28002]Taunt[-][/c] when releasing their Active Skill, when dealing a Basic Attack, or when triggering a Passive Skill that affects the enemies."
 75201501,Mika,Crystal Rage,"
 Let the suffering come forth! Mika uses a fierce attack to attract enemies\' attention, deals attack twice against backline enemies, each attack deals (420% of Attack) damage, thereafter has 50% chance to [c][e28002]Taunt[-][/c] each target for 2 rounds. Increases own Damage Depletion by 20% for 2 rounds.
 
 [c][e28002]Taunt:[-][/c]
-Control effect, the attack target of girls that are Taunted will be aimed at Mika (team damage included)."
+Control effect, the Taunted target will compulsively target the Mika that afflicted [c][e28002]Taunt[-][/c] when releasing their Active Skill, when dealing a Basic Attack, or when triggering a Passive Skill that affects the enemies."
 5201502,Mika,Terra Guardian,"Mika is able to form crystallized shields from earth and stone, increasing her own Armor by 10%, HP increases by 20%, Attack increases by 10%, Control Immunity increases by 10%, and Energy increases by 20 at the start of battle."
 65202202,Mika,Terra Guardian,"Mika is able to form crystallized shields from earth and stone, increasing her own Armor by 20%, HP increases by 30%, Attack increases by 15%, Control Immunity increases by 20% and Energy increases by 30 at the start of battle."
 65202212,Mika,Terra Guardian,"Mika is able to form crystallized shields from earth and stone, increasing her own Armor by 30%, HP increases by 40%, Attack increases by 25%, Control Immunity increases by 30% and Energy increases by 50 at the start of battle."
@@ -6781,22 +6781,22 @@ Control effect, the attack target of girls that are Taunted will be aimed at Mik
 During battle, Mika often recalls those tragic memories, where her vigilance transpired from pain. When dealing Basic Attack, restores own (50% of Attack) HP for 2 rounds; when attacked, steals 10% Attack from the attacker for 2 rounds and has a 10% chance to [c][e28002]Taunt[-][/c] the attacker for 2 rounds.
 
 [c][e28002]Taunt:[-][/c]
-Control effect, the attack target of girls that are Taunted will be aimed at Mika (team damage included)."
+Control effect, the Taunted target will compulsively target the Mika that afflicted [c][e28002]Taunt[-][/c] when releasing their Active Skill, when dealing a Basic Attack, or when triggering a Passive Skill that affects the enemies."
 65202203,Mika,Vigilance,"
 During battle, Mika often recalls those tragic memories, where her vigilance transpired from pain. When dealing Basic Attack, restores own (100% of Attack) HP for 2 rounds; when attacked, steals 15% Attack from the attacker for 2 rounds and has a 20% chance to [c][e28002]Taunt[-][/c] the attacker for 2 rounds.
 
 [c][e28002]Taunt:[-][/c]
-Control effect, the attack target of girls that are Taunted will be aimed at Mika (team damage included)."
+Control effect, the Taunted target will compulsively target the Mika that afflicted [c][e28002]Taunt[-][/c] when releasing their Active Skill, when dealing a Basic Attack, or when triggering a Passive Skill that affects the enemies."
 65202213,Mika,Vigilance,"
 During battle, Mika often recalls those tragic memories, where her vigilance transpired from pain. When dealing Basic Attack, restores own (150% of Attack) HP for 2 rounds; when attacked, steals 20% Attack from the attacker for 2 rounds and has a 30% chance to [c][e28002]Taunt[-][/c] the attacker for 2 rounds.
 
 [c][e28002]Taunt:[-][/c]
-Control effect, the attack target of girls that are Taunted will be aimed at Mika (team damage included)."
+Control effect, the Taunted target will compulsively target the Mika that afflicted [c][e28002]Taunt[-][/c] when releasing their Active Skill, when dealing a Basic Attack, or when triggering a Passive Skill that affects the enemies."
 75201503,Mika,Vigilance,"
 During battle, Mika often recalls those tragic memories, where her vigilance transpired from pain. When dealing Basic Attack, restores own (150% of Attack) HP for 2 rounds; when attacked, steals 20% Attack from the attacker for 2 rounds and has a 30% chance to [c][e28002]Taunt[-][/c] the attacker for 2 rounds.
 
 [c][e28002]Taunt:[-][/c]
-Control effect, the attack target of girls that are Taunted will be aimed at Mika (team damage included)."
+Control effect, the Taunted target will compulsively target the Mika that afflicted [c][e28002]Taunt[-][/c] when releasing their Active Skill, when dealing a Basic Attack, or when triggering a Passive Skill that affects the enemies."
 5201504,Mika,Mighty Mission,"
 No more hesitation! At the end of a round, self-heals for 3 times and restores own (25% of Attack) HP for 2 rounds each time; starting from the 3rd round, after each round, removes all Control effects from self, increases own (10% of Crit) Damage, and gains [c][e28002]Berserk[-][/c] until Mika is defeated.
 
@@ -7581,27 +7581,27 @@ A damage over time. Damage is dealt once when bleed is inflicted and during the 
 Let the suffering come forth! Mika uses a fierce attack to attract enemies\' attention, deals attack twice against backline enemies, each attack deals (428% of Attack) damage, thereafter has 52% chance to [c][e28002]Taunt[-][/c] each target for 2 rounds. Increases own Damage Depletion by 20% for 2 rounds.
 
 [c][e28002]Taunt:[-][/c]
-Control effect, the attack target of girls that are Taunted will be aimed at Mika (team damage included)."
+Control effect, the Taunted target will compulsively target the Mika that afflicted [c][e28002]Taunt[-][/c] when releasing their Active Skill, when dealing a Basic Attack, or when triggering a Passive Skill that affects the enemies."
 752015012,Mika,Crystal Rage,"
 Let the suffering come forth! Mika uses a fierce attack to attract enemies\' attention, deals attack twice against backline enemies, each attack deals (436% of Attack) damage, thereafter has 54% chance to [c][e28002]Taunt[-][/c] each target for 2 rounds. Increases own Damage Depletion by 20% for 2 rounds.
 
 [c][e28002]Taunt:[-][/c]
-Control effect, the attack target of girls that are Taunted will be aimed at Mika (team damage included)."
+Control effect, the Taunted target will compulsively target the Mika that afflicted [c][e28002]Taunt[-][/c] when releasing their Active Skill, when dealing a Basic Attack, or when triggering a Passive Skill that affects the enemies."
 752015013,Mika,Crystal Rage,"
 Let the suffering come forth! Mika uses a fierce attack to attract enemies\' attention, deals attack twice against backline enemies, each attack deals (444% of Attack) damage, thereafter has 56% chance to [c][e28002]Taunt[-][/c] each target for 2 rounds. Increases own Damage Depletion by 20% for 2 rounds.
 
 [c][e28002]Taunt:[-][/c]
-Control effect, the attack target of girls that are Taunted will be aimed at Mika (team damage included)."
+Control effect, the Taunted target will compulsively target the Mika that afflicted [c][e28002]Taunt[-][/c] when releasing their Active Skill, when dealing a Basic Attack, or when triggering a Passive Skill that affects the enemies."
 752015014,Mika,Crystal Rage,"
 Let the suffering come forth! Mika uses a fierce attack to attract enemies\' attention, deals attack twice against backline enemies, each attack deals (452% of Attack) damage, thereafter has 58% chance to [c][e28002]Taunt[-][/c] each target for 2 rounds. Increases own Damage Depletion by 20% for 2 rounds.
 
 [c][e28002]Taunt:[-][/c]
-Control effect, the attack target of girls that are Taunted will be aimed at Mika (team damage included)."
+Control effect, the Taunted target will compulsively target the Mika that afflicted [c][e28002]Taunt[-][/c] when releasing their Active Skill, when dealing a Basic Attack, or when triggering a Passive Skill that affects the enemies."
 752015015,Mika,Crystal Rage,"
 Let the suffering come forth! Mika uses a fierce attack to attract enemies\' attention, deals attack twice against backline enemies, each attack deals (460% of Attack) damage, thereafter has 60% chance to [c][e28002]Taunt[-][/c] each target for 2 rounds. Increases own Damage Depletion by 22% for 2 rounds.
 
 [c][e28002]Taunt:[-][/c]
-Control effect, the attack target of girls that are Taunted will be aimed at Mika (team damage included)."
+Control effect, the Taunted target will compulsively target the Mika that afflicted [c][e28002]Taunt[-][/c] when releasing their Active Skill, when dealing a Basic Attack, or when triggering a Passive Skill that affects the enemies."
 752015021,Mika,Terra Guardian,"Mika is able to form crystallized shields from earth and stone, increasing her own Armor by 30%, HP increases by 42%, Attack increases by 25%, Control Immunity increases by 30% and Energy increases by 50 at the start of battle."
 752015022,Mika,Terra Guardian,"Mika is able to form crystallized shields from earth and stone, increasing her own Armor by 30%, HP increases by 42%, Attack increases by 27%, Control Immunity increases by 30% and Energy increases by 50 at the start of battle."
 752015023,Mika,Terra Guardian,"Mika is able to form crystallized shields from earth and stone, increasing her own Armor by 30%, HP increases by 42.5%, Attack increases by 27%, Control Immunity increases by 30% and Energy increases by 50 at the start of battle."
@@ -7611,27 +7611,27 @@ Control effect, the attack target of girls that are Taunted will be aimed at Mik
 During battle, Mika often recalls those tragic memories, where her vigilance transpired from pain. When dealing Basic Attack, restores own (153% of Attack) HP for 2 rounds; when attacked, steals 20% Attack from the attacker for 2 rounds and has a 30% chance to [c][e28002]Taunt[-][/c] the attacker for 2 rounds.
 
 [c][e28002]Taunt:[-][/c]
-Control effect, the attack target of girls that are Taunted will be aimed at Mika (team damage included)."
+Control effect, the Taunted target will compulsively target the Mika that afflicted [c][e28002]Taunt[-][/c] when releasing their Active Skill, when dealing a Basic Attack, or when triggering a Passive Skill that affects the enemies."
 752015032,Mika,Vigilance,"
 During battle, Mika often recalls those tragic memories, where her vigilance transpired from pain. When dealing Basic Attack, restores own (156% of Attack) HP for 2 rounds; when attacked, steals 20% Attack from the attacker for 2 rounds and has a 30% chance to [c][e28002]Taunt[-][/c] the attacker for 2 rounds.
 
 [c][e28002]Taunt:[-][/c]
-Control effect, the attack target of girls that are Taunted will be aimed at Mika (team damage included)."
+Control effect, the Taunted target will compulsively target the Mika that afflicted [c][e28002]Taunt[-][/c] when releasing their Active Skill, when dealing a Basic Attack, or when triggering a Passive Skill that affects the enemies."
 752015033,Mika,Vigilance,"
 During battle, Mika often recalls those tragic memories, where her vigilance transpired from pain. When dealing Basic Attack, restores own (159% of Attack) HP for 2 rounds; when attacked, steals 20% Attack from the attacker for 2 rounds and has a 30% chance to [c][e28002]Taunt[-][/c] the attacker for 2 rounds.
 
 [c][e28002]Taunt:[-][/c]
-Control effect, the attack target of girls that are Taunted will be aimed at Mika (team damage included)."
+Control effect, the Taunted target will compulsively target the Mika that afflicted [c][e28002]Taunt[-][/c] when releasing their Active Skill, when dealing a Basic Attack, or when triggering a Passive Skill that affects the enemies."
 752015034,Mika,Vigilance,"
 During battle, Mika often recalls those tragic memories, where her vigilance transpired from pain. When dealing Basic Attack, restores own (162% of Attack) HP for 2 rounds; when attacked, steals 20% Attack from the attacker for 2 rounds and has a 30% chance to [c][e28002]Taunt[-][/c] the attacker for 2 rounds.
 
 [c][e28002]Taunt:[-][/c]
-Control effect, the attack target of girls that are Taunted will be aimed at Mika (team damage included)."
+Control effect, the Taunted target will compulsively target the Mika that afflicted [c][e28002]Taunt[-][/c] when releasing their Active Skill, when dealing a Basic Attack, or when triggering a Passive Skill that affects the enemies."
 752015035,Mika,Vigilance,"
 During battle, Mika often recalls those tragic memories, where her vigilance transpired from pain. When dealing Basic Attack, restores own (165% of Attack) HP for 2 rounds; when attacked, steals 22% Attack from the attacker for 2 rounds and has a 35% chance to [c][e28002]Taunt[-][/c] the attacker for 2 rounds.
 
 [c][e28002]Taunt:[-][/c]
-Control effect, the attack target of girls that are Taunted will be aimed at Mika (team damage included)."
+Control effect, the Taunted target will compulsively target the Mika that afflicted [c][e28002]Taunt[-][/c] when releasing their Active Skill, when dealing a Basic Attack, or when triggering a Passive Skill that affects the enemies."
 752015041,Mika,Mighty Mission,"
 No more hesitation! At the end of a round, self-heals for 3 times and restores own (126% of Attack) HP for 2 rounds each time; starting from the 3rd round, after each round, removes all Control effects from self, increases own (50% of Crit) Damage, and gains [c][e28002]Berserk[-][/c] until Mika is defeated.
 
@@ -8800,9 +8800,9 @@ A Skill Effect. Cannot be stacked. When the owner of Cat Eyes releases an Active
 6436101,Fate Crystal,Advanced Skill,"When the owner triggers her Active skill, provides 10 Energy for all allies and has a 50% chance to provide 10 additional Energy."
 6436201,Fate Crystal,Advanced Skill,"When the owner triggers her Active skill, provides 20 Energy for all allies."
 6436301,Fate Crystal,Advanced Skill,"When the owner triggers her Active skill, provides 20 Energy for all allies and has a 50% chance to provide 10 additional Energy."
-6454101,Fusion Umbrella,Advanced Skill,"Reduces damage received, damage taken won't surpass 33% of the owner's maximum HP (reduced damage will not exceed 100% of owner's HP at most)."
-6454201,Fusion Umbrella,Advanced Skill,"Reduces damage received, damage taken won't surpass 25% of the owner's maximum HP (reduced damage will not exceed 100% of owner's HP at most)."
-6454301,Fusion Umbrella,Advanced Skill,"Reduces damage received, damage taken won't surpass 20% of the owner's maximum HP (reduced damage will not exceed 100% of owner's HP at most)."
+6454101,Fusion Umbrella,Advanced Skill,"Reduces damage received, damage taken won't surpass 33% of the owner's maximum HP (reduced damage will not exceed 100% of owner's Maximum HP)."
+6454201,Fusion Umbrella,Advanced Skill,"Reduces damage received, damage taken won't surpass 25% of the owner's maximum HP (reduced damage will not exceed 100% of owner's Maximum HP)."
+6454301,Fusion Umbrella,Advanced Skill,"Reduces damage received, damage taken won't surpass 20% of the owner's maximum HP (reduced damage will not exceed 100% of owner's Maximum HP)."
 6718101,Eternal Dawn,Advanced Skill,Provides 15% additional Damage Depletion which will decrease by 5% each round at the start of battle.
 6718201,Eternal Dawn,Advanced Skill,Provides 30% additional Damage Depletion which will decrease by 5% each round at the start of battle.
 6718301,Eternal Dawn,Advanced Skill,Provides 45% additional Damage Depletion which will decrease by 5% each round at the start of battle.
@@ -8812,3 +8812,302 @@ A Skill Effect. Cannot be stacked. When the owner of Cat Eyes releases an Active
 6706101,Soul Destruction,Advanced Skill,"When the owner deals Basic Attacks or Active Skills, stacks Grievous Wound on the enemy with the lowest HP for 1 round (Grievous Wound: Skill Effect, can't stack and can be replaced. Reduces the target's Healing Received and Damage Depletion by 10%)."
 6706201,Soul Destruction,Advanced Skill,"When the owner deals Basic Attacks or Active Skills, stacks Grievous Wound on the enemy with the lowest HP for 1 round (Grievous Wound: Skill Effect, can't stack and can be replaced. Reduces the target's Healing Received and Damage Depletion by 20%)."
 6706301,Soul Destruction,Advanced Skill,"When the owner deals Basic Attacks or Active Skills, stacks Grievous Wound on the enemy with the lowest HP for 1 round (Grievous Wound: Skill Effect, can't stack and can be replaced. Reduces the target's Healing Received and Damage Depletion by 30%)."
+5201700,Monica,Basic Attack,Basic Attack
+65202400,Monica,Basic Attack,Basic Attack
+75201700,Monica,Basic Attack,Basic Attack
+5201701,Monica,Chronic Shift,"
+Monica deals (200% of Attack) damage to 2 enemies with lowest HP, lowering 10% of their Heal Received for 2 Rounds. If there are no [c][e28002]Wheel of Fate[-][/c] effects applied by self, applies [c][e28002]Wheel of Fate[-][/c] to an ally in the neighboring position for 3 Rounds. If a [c][e28002]Wheel of Fate[-][/c] applied by self exists, cleanses the Skill Effect, and applies [c][e28002]Wheel of Fate[-][/c] to the ally in the neighboring position for 3 Rounds. (Monica will choose the ally whose position in the team is behind self first)
+
+[c][e28002]Wheel of Fate:[-][/c]
+Skill Effect, cannot be stacked or overwritten by a later application of the same Skill Effect. When applied, resets the trigger limit of Rewind for the target. The target that has the [c][e28002]Wheel of Fate[-][/c] gains 10% Attack and 10% Extra Control Rate. When Monica is healed, the target with the [c][e28002]Wheel of Fate[-][/c] applied by the healed Monica will be healed for the same amount of HP. "
+65202401,Monica,Chronic Shift,"
+Monica deals (300% of Attack) damage to 2 enemies with lowest HP, lowering 15% of their Heal Received for 2 Rounds. If there are no [c][e28002]Wheel of Fate[-][/c] effects applied by self, applies [c][e28002]Wheel of Fate[-][/c] to an ally in the neighboring position for 3 Rounds. If a [c][e28002]Wheel of Fate[-][/c] applied by self exists, cleanses the Skill Effect, and applies [c][e28002]Wheel of Fate[-][/c] to the ally in the neighboring position for 3 Rounds. (Monica will choose the ally whose position in the team is behind self first)
+
+[c][e28002]Wheel of Fate:[-][/c]
+Skill Effect, cannot be stacked or overwritten by a later application of the same Skill Effect. When applied, resets the trigger limit of Rewind for the target. The target that has the [c][e28002]Wheel of Fate[-][/c] gains 20% Attack and 15% Extra Control Rate. When Monica is healed, the target with the [c][e28002]Wheel of Fate[-][/c] applied by the healed Monica will be healed for the same amount of HP. "
+75201701,Monica,Chronic Shift,"
+Monica deals (400% of Attack) damage to 2 enemies with lowest HP, lowering 20% of their Heal Received for 2 Rounds. If there are no [c][e28002]Wheel of Fate[-][/c] effects applied by self, applies [c][e28002]Wheel of Fate[-][/c] to an ally in the neighboring position for 3 Rounds. If a [c][e28002]Wheel of Fate[-][/c] applied by self exists, cleanses the Skill Effect, and applies [c][e28002]Wheel of Fate[-][/c] to the ally in the neighboring position for 3 Rounds. (Monica will choose the ally whose position in the team is behind self first)
+
+[c][e28002]Wheel of Fate:[-][/c]
+Skill Effect, cannot be stacked or overwritten by a later application of the same Skill Effect. When applied, resets the trigger limit of Rewind for the target. The target that has the [c][e28002]Wheel of Fate[-][/c] gains 30% Attack and 20% Extra Control Rate. When Monica is healed, the target with the [c][e28002]Wheel of Fate[-][/c] applied by the healed Monica will be healed for the same amount of HP. "
+5201702,Monica,Cosmos,"Increases HP by 15%, Control Immunity by 20%, Heal Received by 20%, and Speed by 10."
+65202402,Monica,Cosmos,"Increases HP by 25%, Control Immunity by 30%, Heal Received by 30%, and Speed by 20."
+65202412,Monica,Cosmos,"Increases HP by 35%, Control Immunity by 40%, Heal Received by 40%, and Speed by 30."
+75201702,Monica,Cosmos,"Increases HP by 35%, Control Immunity by 40%, Heal Received by 40%, and Speed by 30."
+5201703,Monica,Time Affinity,"
+Monica heals self for (2% of Maximum HP) after dealing a Basic Attack, dealing an Active Skill, or taking damage from Basic Attacks or Active Skills. (This effect can be triggered for at most 3 times per Round) At the start of the battle, gains 2 stacks of [c][e28002]Future Observation[-][/c]. Gains 1 stack of [c][e28002]Future Observation[-][/c] at the end of the Round once every 6 Rounds. Gains 1 stack of [c][e28002]Future Observation[-][/c] whenever 2 enemies are defeated.
+
+[c][e28002]Future Observation:[-][/c]
+Skill Effect, will be consumed when Monica\'s Passive Skill ""Rewind"" is triggered."
+65202403,Monica,Time Affinity,"
+Monica heals self for (4% of Maximum HP) after dealing a Basic Attack, dealing an Active Skill, or taking damage from Basic Attacks or Active Skills. (This effect can be triggered for at most 3 times per Round) At the start of the battle, gains 4 stacks of [c][e28002]Future Observation[-][/c]. Gains 1 stack of [c][e28002]Future Observation[-][/c] at the end of the Round once every 5 Rounds. Gains 1 stack of [c][e28002]Future Observation[-][/c] whenever 2 enemies are defeated.
+
+[c][e28002]Future Observation:[-][/c]
+Skill Effect, will be consumed when Monica\'s Passive Skill ""Rewind"" is triggered."
+65202413,Monica,Time Affinity,"
+Monica heals self for (8% of Maximum HP) after dealing a Basic Attack, dealing an Active Skill, or taking damage from Basic Attacks or Active Skills. (This effect can be triggered for at most 3 times per Round) At the start of the battle, gains 6 stacks of [c][e28002]Future Observation[-][/c]. Gains 1 stack of [c][e28002]Future Observation[-][/c] at the end of the Round once every 4 Rounds. Gains 1 stack of [c][e28002]Future Observation[-][/c] whenever 2 enemies are defeated.
+
+[c][e28002]Future Observation:[-][/c]
+Skill Effect, will be consumed when Monica\'s Passive Skill ""Rewind"" is triggered."
+75201703,Monica,Time Affinity,"
+Monica heals self for (8% of Maximum HP) after dealing a Basic Attack, dealing an Active Skill, or taking damage from Basic Attacks or Active Skills. (This effect can be triggered for at most 3 times per Round) At the start of the battle, gains 6 stacks of [c][e28002]Future Observation[-][/c]. Gains 1 stack of [c][e28002]Future Observation[-][/c] at the end of the Round once every 4 Rounds. Gains 1 stack of [c][e28002]Future Observation[-][/c] whenever 2 enemies are defeated.
+
+[c][e28002]Future Observation:[-][/c]
+Skill Effect, will be consumed when Monica\'s Passive Skill ""Rewind"" is triggered."
+5201704,Monica,Rewind,"
+When 1 ally (excluding Monica) takes Lethal Damage, consumes 1 stack of [c][e28002]Future Observation[-][/c] and allows the ally to ignore this damage and all other damages taken from this Round. (This effect can only be triggered once for every Girl in the battle) When an enemy that isn\'t afflicted by [c][e28002]Laws of Time[-][/c] has less than 70% HP remaining after taking damage from any source, consumes 1 stack of [c][e28002]Future Observation[-][/c] and afflicts [c][e28002]Laws of Time[-][/c] to the target. (The maximum number of [c][e28002]Laws of Time[-][/c] afflicted by self that can exist at the same time is 2)
+
+[c][e28002]Future Observation:[-][/c]
+Skill Effect, will be consumed when Monica\'s Passive Skill ""Rewind"" is triggered.
+
+[c][e28002]Laws of Time:[-][/c]
+Skill Effect, cannot be stacked or overwritten by a later application of the same Skill Effect. The target with [c][e28002]Laws of Time[-][/c] will have their Heal Received reduced by 20% and Control Immunity reduced by 10%."
+65202404,Monica,Rewind,"
+When 1 ally (excluding Monica) takes Lethal Damage, consumes 1 stack of [c][e28002]Future Observation[-][/c] and allows the ally to ignore this damage and all other damages taken from this Round. (This effect can only be triggered once for every Girl in the battle) When an enemy that isn\'t afflicted by [c][e28002]Laws of Time[-][/c] has less than 70% HP remaining after taking damage from any source, consumes 1 stack of [c][e28002]Future Observation[-][/c] and afflicts [c][e28002]Laws of Time[-][/c] to the target. (The maximum number of [c][e28002]Laws of Time[-][/c] afflicted by self that can exist at the same time is 2)
+
+[c][e28002]Future Observation:[-][/c]
+Skill Effect, will be consumed when Monica\'s Passive Skill ""Rewind"" is triggered.
+
+[c][e28002]Laws of Time:[-][/c]
+Skill Effect, cannot be stacked or overwritten by a later application of the same Skill Effect. The target with [c][e28002]Laws of Time[-][/c] will have their Heal Received reduced by 30% and Control Immunity reduced by 15%."
+65202414,Monica,Rewind,"
+When 1 ally (excluding Monica) takes Lethal Damage, consumes 1 stack of [c][e28002]Future Observation[-][/c] and allows the ally to ignore this damage and all other damages taken from this Round. (This effect can only be triggered once for every Girl in the battle) When an enemy that isn\'t afflicted by [c][e28002]Laws of Time[-][/c] has less than 70% HP remaining after taking damage from any source, consumes 1 stack of [c][e28002]Future Observation[-][/c] and afflicts [c][e28002]Laws of Time[-][/c] to the target. (The maximum number of [c][e28002]Laws of Time[-][/c] afflicted by self that can exist at the same time is 2)
+
+[c][e28002]Future Observation:[-][/c]
+Skill Effect, will be consumed when Monica\'s Passive Skill ""Rewind"" is triggered.
+
+[c][e28002]Laws of Time:[-][/c]
+Skill Effect, cannot be stacked or overwritten by a later application of the same Skill Effect. The target with [c][e28002]Laws of Time[-][/c] will have their Heal Received reduced by 50% and Control Immunity reduced by 25%."
+75201704,Monica,Rewind,"
+When 1 ally (excluding Monica) takes Lethal Damage, consumes 1 stack of [c][e28002]Future Observation[-][/c] and allows the ally to ignore this damage and all other damages taken from this Round. (This effect can only be triggered once for every Girl in the battle) When an enemy that isn\'t afflicted by [c][e28002]Laws of Time[-][/c] has less than 70% HP remaining after taking damage from any source, consumes 1 stack of [c][e28002]Future Observation[-][/c] and afflicts [c][e28002]Laws of Time[-][/c] to the target. (The maximum number of [c][e28002]Laws of Time[-][/c] afflicted by self that can exist at the same time is 2)
+
+[c][e28002]Future Observation:[-][/c]
+Skill Effect, will be consumed when Monica\'s Passive Skill ""Rewind"" is triggered.
+
+[c][e28002]Laws of Time:[-][/c]
+Skill Effect, cannot be stacked or overwritten by a later application of the same Skill Effect. The target with [c][e28002]Laws of Time[-][/c] will have their Heal Received reduced by 50% and Control Immunity reduced by 25%."
+5101600,Diana,Basic Attack,Basic Attack
+65102300,Diana,Basic Attack,Basic Attack
+75101600,Diana,Basic Attack,Basic Attack
+5101601,Diana,Evil Eye,"
+Whoops, did I take you by surprise? Diana deals (200% of Attack) damage to 4 random enemies, dealing an extra (200% of the target\'s Attack) damage to the targets, and steals 10% of Attack from the targets for 3 Rounds. If the target has 90 Energy or more, Diana has a 20% chance to [c][01a310]Silence[-][/c] the target for 2 Rounds. If the target has less than 90 Energy, Diana has a 20% chance to [c][e28002]Terrorize[-][/c] the target for 2 Rounds.
+
+[c][01a310]Silence:[-][/c]
+A Control Effect. During this effect, girls affected will not be able to release their Active Skills.
+
+[c][e28002]Terrorize:[-][/c]
+A Control Effect. Terrorized targets cannot perform Basic Attacks."
+65102301,Diana,Evil Eye,"
+Whoops, did I take you by surprise? Diana deals (400% of Attack) damage to 4 random enemies, dealing an extra (400% of the target\'s Attack) damage to the targets, and steals 15% Attack from the targets for 3 Rounds. If the target has 90 Energy or more, Diana has a 30% chance to [c][01a310]Silence[-][/c] the target for 2 Rounds. If the target has less than 90 Energy, Diana has a 30% chance to [c][e28002]Terrorize[-][/c] the target for 2 Rounds.
+
+[c][01a310]Silence:[-][/c]
+A Control Effect. During this effect, girls affected will not be able to release their Active Skills.
+
+[c][e28002]Terrorize:[-][/c]
+A Control Effect. Terrorized targets cannot perform Basic Attacks."
+75101601,Diana,Evil Eye,"
+Whoops, did I take you by surprise? Diana deals (800% of Attack) damage to 4 random enemies, dealing an extra (800% of the target\'s Attack) damage to the targets, and steals 25% Attack from the targets for 3 Rounds. If the target has 90 Energy or more, Diana has a 50% chance to [c][01a310]Silence[-][/c] the target for 2 Rounds. If the target has less than 90 Energy, Diana has a 50% chance to [c][e28002]Terrorize[-][/c] the target for 2 Rounds.
+
+[c][01a310]Silence:[-][/c]
+A Control Effect. During this effect, girls affected will not be able to release their Active Skills.
+
+[c][e28002]Terrorize:[-][/c]
+A Control Effect. Terrorized targets cannot perform Basic Attacks."
+5101602,Diana,Chaotic Moon,"My powers come from the distant Moon. Increases HP by 10%, Crit by 20%, Control Immunity by 10% and Speed by 20."
+65102302,Diana,Chaotic Moon,"My powers come from the distant Moon. Increases HP by 20%, Crit by 20%, Control Immunity by 20% and Speed by 40."
+65102312,Diana,Chaotic Moon,"My powers come from the distant Moon. Increases HP by 35%, Crit by 30%, Control Immunity by 30% and Speed by 60."
+75101602,Diana,Chaotic Moon,"My powers come from the distant Moon. Increases HP by 35%, Crit by 30%, Control Immunity by 30% and Speed by 60."
+5101603,Diana,Unnerving Dreams,"You might have nightmares if you sleep late~ Basic Attack changed to deal(120% of Attack) damage to the enemy with the highest Attack, dealing extra (160% of the target's Attack) damage, and lowers 10% Attack of the target for 2 Rounds. At the end of each Round, if the Attack attribute of the enemy with the highest Attack is higher than that of Diana's, exchange Attack with the enemy with the highest Attack for 1 Round. (The amount of Attack increased for Diana and decreased for the target will not surpass 300% of Diana's Attack)"
+65102303,Diana,Unnerving Dreams,"You might have nightmares if you sleep late~ Basic Attack changed to deal(140% of Attack) damage to the enemy with the highest Attack, dealing extra (240% of the target's Attack) damage, and lowers 20% Attack of the target for 2 Rounds. At the end of each Round, if the Attack attribute of the enemy with the highest Attack is higher than that of Diana's, exchange Attack with the enemy with the highest Attack for 1 Round. (The amount of Attack increased for Diana and decreased for the target will not surpass 300% of Diana's Attack)"
+65102313,Diana,Unnerving Dreams,"You might have nightmares if you sleep late~ Basic Attack changed to deal(180% of Attack) damage to the enemy with the highest Attack, dealing extra (600% of the target's Attack) damage, and lowers 40% Attack of the target for 2 Rounds. At the end of each Round, if the Attack attribute of the enemy with the highest Attack is higher than that of Diana's, exchange Attack with the enemy with the highest Attack for 1 Round. (The amount of Attack increased for Diana and decreased for the target will not surpass 300% of Diana's Attack)"
+75101603,Diana,Unnerving Dreams,"You might have nightmares if you sleep late~ Basic Attack changed to deal(180% of Attack) damage to the enemy with the highest Attack, dealing extra (600% of the target's Attack) damage, and lowers 40% Attack of the target for 2 Rounds. At the end of each Round, if the Attack attribute of the enemy with the highest Attack is higher than that of Diana's, exchange Attack with the enemy with the highest Attack for 1 Round. (The amount of Attack increased for Diana and decreased for the target will not surpass 300% of Diana's Attack)"
+5101604,Diana,Insanity Calls,"
+Shh...let me tell you a bedtime story. When Diana is defeated, afflicts [c][e28002]Nightmare[-][/c] to the enemy that defeated Diana. If the target is already defeated, then this Passive Skill will not be triggered.
+
+[c][e28002]Nightmare:[-][/c]
+Skill Effect, cannot be stacked. At the end of each Round, the owner of [c][e28002]Nightmare[-][/c] receives (10% of self Maximum HP) damage (no more than 2500% of Diana\'s Attack). When the owner of [c][e28002]Nightmare[-][/c] is defeated, all enemies of the defeated Diana will receive (10% of their own Maximum HP) damage (no more than 2500% of Diana\'s Attack)."
+65102304,Diana,Insanity Calls,"
+Shh...let me tell you a bedtime story. When Diana is defeated, afflicts [c][e28002]Nightmare[-][/c] to the enemy that defeated Diana. If the target is already defeated, then this Passive Skill will not be triggered.
+
+[c][e28002]Nightmare:[-][/c]
+Skill Effect, cannot be stacked. At the end of each Round, the owner of [c][e28002]Nightmare[-][/c] receives (20% of self Maximum HP) damage (no more than 2500% of Diana\'s Attack). When the owner of [c][e28002]Nightmare[-][/c] is defeated, all enemies of the defeated Diana will receive (20% of their own Maximum HP) damage (no more than 2500% of Diana\'s Attack)."
+65102314,Diana,Insanity Calls,"
+Shh...let me tell you a bedtime story. When Diana is defeated, afflicts [c][e28002]Nightmare[-][/c] to the enemy that defeated Diana. If the target is already defeated, then this Passive Skill will not be triggered.
+
+[c][e28002]Nightmare:[-][/c]
+Skill Effect, cannot be stacked. At the end of each Round, the owner of [c][e28002]Nightmare[-][/c] receives (30% of self Maximum HP) damage (no more than 2500% of Diana\'s Attack). When the owner of [c][e28002]Nightmare[-][/c] is defeated, all enemies of the defeated Diana will receive (30% of their own Maximum HP) damage (no more than 2500% of Diana\'s Attack)."
+75101604,Diana,Insanity Calls,"
+Shh...let me tell you a bedtime story. When Diana is defeated, afflicts [c][e28002]Nightmare[-][/c] to the enemy that defeated Diana. If the target is already defeated, then this Passive Skill will not be triggered.
+
+[c][e28002]Nightmare:[-][/c]
+Skill Effect, cannot be stacked. At the end of each Round, the owner of [c][e28002]Nightmare[-][/c] receives (30% of self Maximum HP) damage (no more than 2500% of Diana\'s Attack). When the owner of [c][e28002]Nightmare[-][/c] is defeated, all enemies of the defeated Diana will receive (30% of their own Maximum HP) damage (no more than 2500% of Diana\'s Attack)."
+752017011,Monica,Chronic Shift,"
+Monica deals (408% of Attack) damage to 2 enemies with lowest HP, lowering 20% of their Heal Received for 2 Rounds. If there are no [c][e28002]Wheel of Fate[-][/c] effects applied by self, applies [c][e28002]Wheel of Fate[-][/c] to an ally in the neighboring position for 3 Rounds. If a [c][e28002]Wheel of Fate[-][/c] applied by self exists, cleanses the Skill Effect, and applies [c][e28002]Wheel of Fate[-][/c] to the ally in the neighboring position for 3 Rounds. (Monica will choose the ally whose position in the team is behind self first)
+
+[c][e28002]Wheel of Fate:[-][/c]
+Skill Effect, cannot be stacked or overwritten by a later application of the same Skill Effect. When applied, resets the trigger limit of Rewind for the target. The target that has the [c][e28002]Wheel of Fate[-][/c] gains 30% Attack and 20% Extra Control Rate. When Monica is healed, the target with the [c][e28002]Wheel of Fate[-][/c] applied by the healed Monica will be healed for the same amount of HP. "
+752017012,Monica,Chronic Shift,"
+Monica deals (416% of Attack) damage to 2 enemies with lowest HP, lowering 20% of their Heal Received for 2 Rounds. If there are no [c][e28002]Wheel of Fate[-][/c] effects applied by self, applies [c][e28002]Wheel of Fate[-][/c] to an ally in the neighboring position for 3 Rounds. If a [c][e28002]Wheel of Fate[-][/c] applied by self exists, cleanses the Skill Effect, and applies [c][e28002]Wheel of Fate[-][/c] to the ally in the neighboring position for 3 Rounds. (Monica will choose the ally whose position in the team is behind self first)
+
+[c][e28002]Wheel of Fate:[-][/c]
+Skill Effect, cannot be stacked or overwritten by a later application of the same Skill Effect. When applied, resets the trigger limit of Rewind for the target. The target that has the [c][e28002]Wheel of Fate[-][/c] gains 30% Attack and 20% Extra Control Rate. When Monica is healed, the target with the [c][e28002]Wheel of Fate[-][/c] applied by the healed Monica will be healed for the same amount of HP. "
+752017013,Monica,Chronic Shift,"
+Monica deals (424% of Attack) damage to 2 enemies with lowest HP, lowering 23% of their Heal Received for 2 Rounds. If there are no [c][e28002]Wheel of Fate[-][/c] effects applied by self, applies [c][e28002]Wheel of Fate[-][/c] to an ally in the neighboring position for 3 Rounds. If a [c][e28002]Wheel of Fate[-][/c] applied by self exists, cleanses the Skill Effect, and applies [c][e28002]Wheel of Fate[-][/c] to the ally in the neighboring position for 3 Rounds. (Monica will choose the ally whose position in the team is behind self first)
+
+[c][e28002]Wheel of Fate:[-][/c]
+Skill Effect, cannot be stacked or overwritten by a later application of the same Skill Effect. When applied, resets the trigger limit of Rewind for the target. The target that has the [c][e28002]Wheel of Fate[-][/c] gains 33% Attack and 20% Extra Control Rate. When Monica is healed, the target with the [c][e28002]Wheel of Fate[-][/c] applied by the healed Monica will be healed for the same amount of HP. "
+752017014,Monica,Chronic Shift,"
+Monica deals (432% of Attack) damage to 2 enemies with lowest HP, lowering 23% of their Heal Received for 2 Rounds. If there are no [c][e28002]Wheel of Fate[-][/c] effects applied by self, applies [c][e28002]Wheel of Fate[-][/c] to an ally in the neighboring position for 3 Rounds. If a [c][e28002]Wheel of Fate[-][/c] applied by self exists, cleanses the Skill Effect, and applies [c][e28002]Wheel of Fate[-][/c] to the ally in the neighboring position for 3 Rounds. (Monica will choose the ally whose position in the team is behind self first)
+
+[c][e28002]Wheel of Fate:[-][/c]
+Skill Effect, cannot be stacked or overwritten by a later application of the same Skill Effect. When applied, resets the trigger limit of Rewind for the target. The target that has the [c][e28002]Wheel of Fate[-][/c] gains 33% Attack and 20% Extra Control Rate. When Monica is healed, the target with the [c][e28002]Wheel of Fate[-][/c] applied by the healed Monica will be healed for the same amount of HP. "
+752017015,Monica,Chronic Shift,"
+Monica deals (440% of Attack) damage to 2 enemies with lowest HP, lowering 25% of their Heal Received for 2 Rounds. If there are no [c][e28002]Wheel of Fate[-][/c] effects applied by self, applies [c][e28002]Wheel of Fate[-][/c] to an ally in the neighboring position for 3 Rounds. If a [c][e28002]Wheel of Fate[-][/c] applied by self exists, cleanses the Skill Effect, and applies [c][e28002]Wheel of Fate[-][/c] to the ally in the neighboring position for 3 Rounds. (Monica will choose the ally whose position in the team is behind self first)
+
+[c][e28002]Wheel of Fate:[-][/c]
+Skill Effect, cannot be stacked or overwritten by a later application of the same Skill Effect. When applied, resets the trigger limit of Rewind for the target. The target that has the [c][e28002]Wheel of Fate[-][/c] gains 35% Attack and 20% Extra Control Rate. When Monica is healed, the target with the [c][e28002]Wheel of Fate[-][/c] applied by the healed Monica will be healed for the same amount of HP. "
+752017021,Monica,Cosmos,"Increases HP by 35%, Control Immunity by 40%, Heal Received by 40%, and Speed by 32."
+752017022,Monica,Cosmos,"Increases HP by 35%, Control Immunity by 40%, Heal Received by 40%, and Speed by 34."
+752017023,Monica,Cosmos,"Increases HP by 38%, Control Immunity by 40%, Heal Received by 40%, and Speed by 36."
+752017024,Monica,Cosmos,"Increases HP by 38%, Control Immunity by 40%, Heal Received by 40%, and Speed by 38."
+752017025,Monica,Cosmos,"Increases HP by 40%, Control Immunity by 40%, Heal Received by 40%, and Speed by 40."
+752017031,Monica,Time Affinity,"
+Monica heals self for (8.4% of Maximum HP) after dealing a Basic Attack, dealing an Active Skill, or taking damage from Basic Attacks or Active Skills. (This effect can be triggered for at most 3 times per Round) At the start of the battle, gains 6 stacks of [c][e28002]Future Observation[-][/c]. Gains 1 stack of [c][e28002]Future Observation[-][/c] at the end of the Round once every 4 Rounds. Gains 1 stack of [c][e28002]Future Observation[-][/c] whenever 2 enemies are defeated.
+
+[c][e28002]Future Observation:[-][/c]
+Skill Effect, will be consumed when Monica\'s Passive Skill ""Rewind"" is triggered."
+752017032,Monica,Time Affinity,"
+Monica heals self for (8.8% of Maximum HP) after dealing a Basic Attack, dealing an Active Skill, or taking damage from Basic Attacks or Active Skills. (This effect can be triggered for at most 3 times per Round) At the start of the battle, gains 6 stacks of [c][e28002]Future Observation[-][/c]. Gains 1 stack of [c][e28002]Future Observation[-][/c] at the end of the Round once every 4 Rounds. Gains 1 stack of [c][e28002]Future Observation[-][/c] whenever 2 enemies are defeated.
+
+[c][e28002]Future Observation:[-][/c]
+Skill Effect, will be consumed when Monica\'s Passive Skill ""Rewind"" is triggered."
+752017033,Monica,Time Affinity,"
+Monica heals self for (9.2% of Maximum HP) after dealing a Basic Attack, dealing an Active Skill, or taking damage from Basic Attacks or Active Skills. (This effect can be triggered for at most 3 times per Round) At the start of the battle, gains 7 stacks of [c][e28002]Future Observation[-][/c]. Gains 1 stack of [c][e28002]Future Observation[-][/c] at the end of the Round once every 4 Rounds. Gains 1 stack of [c][e28002]Future Observation[-][/c] whenever 2 enemies are defeated.
+
+[c][e28002]Future Observation:[-][/c]
+Skill Effect, will be consumed when Monica\'s Passive Skill ""Rewind"" is triggered."
+752017034,Monica,Time Affinity,"
+Monica heals self for (9.6% of Maximum HP) after dealing a Basic Attack, dealing an Active Skill, or taking damage from Basic Attacks or Active Skills. (This effect can be triggered for at most 3 times per Round) At the start of the battle, gains 7 stacks of [c][e28002]Future Observation[-][/c]. Gains 1 stack of [c][e28002]Future Observation[-][/c] at the end of the Round once every 4 Rounds. Gains 1 stack of [c][e28002]Future Observation[-][/c] whenever 2 enemies are defeated.
+
+[c][e28002]Future Observation:[-][/c]
+Skill Effect, will be consumed when Monica\'s Passive Skill ""Rewind"" is triggered."
+752017035,Monica,Time Affinity,"
+Monica heals self for (10% of Maximum HP) after dealing a Basic Attack, dealing an Active Skill, or taking damage from Basic Attacks or Active Skills. (This effect can be triggered for at most 3 times per Round) At the start of the battle, gains 8 stacks of [c][e28002]Future Observation[-][/c]. Gains 1 stack of [c][e28002]Future Observation[-][/c] at the end of the Round once every 4 Rounds. Gains 1 stack of [c][e28002]Future Observation[-][/c] whenever 2 enemies are defeated.
+
+[c][e28002]Future Observation:[-][/c]
+Skill Effect, will be consumed when Monica\'s Passive Skill ""Rewind"" is triggered."
+752017041,Monica,Rewind,"
+When 1 ally (excluding Monica) takes Lethal Damage, consumes 1 stack of [c][e28002]Future Observation[-][/c] and allows the ally to ignore this damage and all other damages taken from this Round. (This effect can only be triggered once for every Girl in the battle) When an enemy that isn\'t afflicted by [c][e28002]Laws of Time[-][/c] has less than 70% HP remaining after taking damage from any source, consumes 1 stack of [c][e28002]Future Observation[-][/c] and afflicts [c][e28002]Laws of Time[-][/c] to the target. (The maximum number of [c][e28002]Laws of Time[-][/c] afflicted by self that can exist at the same time is 2)
+
+[c][e28002]Future Observation:[-][/c]
+Skill Effect, will be consumed when Monica\'s Passive Skill ""Rewind"" is triggered.
+
+[c][e28002]Laws of Time:[-][/c]
+Skill Effect, cannot be stacked or overwritten by a later application of the same Skill Effect. The target with [c][e28002]Laws of Time[-][/c] will have their Heal Received reduced by 54% and Control Immunity reduced by 25%."
+752017042,Monica,Rewind,"
+When 1 ally (excluding Monica) takes Lethal Damage, consumes 1 stack of [c][e28002]Future Observation[-][/c] and allows the ally to ignore this damage and all other damages taken from this Round. (This effect can only be triggered once for every Girl in the battle) When an enemy that isn\'t afflicted by [c][e28002]Laws of Time[-][/c] has less than 70% HP remaining after taking damage from any source, consumes 1 stack of [c][e28002]Future Observation[-][/c] and afflicts [c][e28002]Laws of Time[-][/c] to the target. (The maximum number of [c][e28002]Laws of Time[-][/c] afflicted by self that can exist at the same time is 2)
+
+[c][e28002]Future Observation:[-][/c]
+Skill Effect, will be consumed when Monica\'s Passive Skill ""Rewind"" is triggered.
+
+[c][e28002]Laws of Time:[-][/c]
+Skill Effect, cannot be stacked or overwritten by a later application of the same Skill Effect. The target with [c][e28002]Laws of Time[-][/c] will have their Heal Received reduced by 58% and Control Immunity reduced by 25%."
+752017043,Monica,Rewind,"
+When 1 ally (excluding Monica) takes Lethal Damage, consumes 1 stack of [c][e28002]Future Observation[-][/c] and allows the ally to ignore this damage and all other damages taken from this Round. (This effect can only be triggered once for every Girl in the battle) When an enemy that isn\'t afflicted by [c][e28002]Laws of Time[-][/c] has less than 70% HP remaining after taking damage from any source, consumes 1 stack of [c][e28002]Future Observation[-][/c] and afflicts [c][e28002]Laws of Time[-][/c] to the target. (The maximum number of [c][e28002]Laws of Time[-][/c] afflicted by self that can exist at the same time is 2)
+
+[c][e28002]Future Observation:[-][/c]
+Skill Effect, will be consumed when Monica\'s Passive Skill ""Rewind"" is triggered.
+
+[c][e28002]Laws of Time:[-][/c]
+Skill Effect, cannot be stacked or overwritten by a later application of the same Skill Effect. The target with [c][e28002]Laws of Time[-][/c] will have their Heal Received reduced by 62% and Control Immunity reduced by 25%."
+752017044,Monica,Rewind,"
+When 1 ally (excluding Monica) takes Lethal Damage, consumes 1 stack of [c][e28002]Future Observation[-][/c] and allows the ally to ignore this damage and all other damages taken from this Round. (This effect can only be triggered once for every Girl in the battle) When an enemy that isn\'t afflicted by [c][e28002]Laws of Time[-][/c] has less than 70% HP remaining after taking damage from any source, consumes 1 stack of [c][e28002]Future Observation[-][/c] and afflicts [c][e28002]Laws of Time[-][/c] to the target. (The maximum number of [c][e28002]Laws of Time[-][/c] afflicted by self that can exist at the same time is 2)
+
+[c][e28002]Future Observation:[-][/c]
+Skill Effect, will be consumed when Monica\'s Passive Skill ""Rewind"" is triggered.
+
+[c][e28002]Laws of Time:[-][/c]
+Skill Effect, cannot be stacked or overwritten by a later application of the same Skill Effect. The target with [c][e28002]Laws of Time[-][/c] will have their Heal Received reduced by 66% and Control Immunity reduced by 25%."
+752017045,Monica,Rewind,"
+When 1 ally (excluding Monica) takes Lethal Damage, consumes 1 stack of [c][e28002]Future Observation[-][/c] and allows the ally to ignore this damage and all other damages taken from this Round. (This effect can only be triggered once for every Girl in the battle) When an enemy that isn\'t afflicted by [c][e28002]Laws of Time[-][/c] has less than 70% HP remaining after taking damage from any source, consumes 1 stack of [c][e28002]Future Observation[-][/c] and afflicts [c][e28002]Laws of Time[-][/c] to the target. (The maximum number of [c][e28002]Laws of Time[-][/c] afflicted by self that can exist at the same time is 2)
+
+[c][e28002]Future Observation:[-][/c]
+Skill Effect, will be consumed when Monica\'s Passive Skill ""Rewind"" is triggered.
+
+[c][e28002]Laws of Time:[-][/c]
+Skill Effect, cannot be stacked or overwritten by a later application of the same Skill Effect. The target with [c][e28002]Laws of Time[-][/c] will have their Heal Received reduced by 70% and Control Immunity reduced by 30%."
+751016011,Diana,Evil Eye,"
+Whoops, did I take you by surprise? Diana deals (816% of Attack) damage to 4 random enemies, dealing an extra (816% of the target\'s Attack) damage to the targets, and steals 25% Attack from the targets for 3 Rounds. If the target has 90 Energy or more, Diana has a 50% chance to [c][01a310]Silence[-][/c] the target for 2 Rounds. If the target has less than 90 Energy, Diana has a 50% chance to [c][e28002]Terrorize[-][/c] the target for 2 Rounds.
+
+[c][01a310]Silence:[-][/c]
+A Control Effect. During this effect, girls affected will not be able to release their Active Skills.
+
+[c][e28002]Terrorize:[-][/c]
+A Control Effect. Terrorized targets cannot perform Basic Attacks."
+751016012,Diana,Evil Eye,"
+Whoops, did I take you by surprise? Diana deals (832% of Attack) damage to 4 random enemies, dealing an extra (832% of the target\'s Attack) damage to the targets, and steals 25% Attack from the targets for 3 Rounds. If the target has 90 Energy or more, Diana has a 50% chance to [c][01a310]Silence[-][/c] the target for 2 Rounds. If the target has less than 90 Energy, Diana has a 50% chance to [c][e28002]Terrorize[-][/c] the target for 2 Rounds.
+
+[c][01a310]Silence:[-][/c]
+A Control Effect. During this effect, girls affected will not be able to release their Active Skills.
+
+[c][e28002]Terrorize:[-][/c]
+A Control Effect. Terrorized targets cannot perform Basic Attacks."
+751016013,Diana,Evil Eye,"
+Whoops, did I take you by surprise? Diana deals (848% of Attack) damage to 4 random enemies, dealing an extra (848% of the target\'s Attack) damage to the targets, and steals 25% Attack from the targets for 3 Rounds. If the target has 90 Energy or more, Diana has a 60% chance to [c][01a310]Silence[-][/c] the target for 2 Rounds. If the target has less than 90 Energy, Diana has a 60% chance to [c][e28002]Terrorize[-][/c] the target for 2 Rounds.
+
+[c][01a310]Silence:[-][/c]
+A Control Effect. During this effect, girls affected will not be able to release their Active Skills.
+
+[c][e28002]Terrorize:[-][/c]
+A Control Effect. Terrorized targets cannot perform Basic Attacks."
+751016014,Diana,Evil Eye,"
+Whoops, did I take you by surprise? Diana deals (864% of Attack) damage to 4 random enemies, dealing an extra (864% of the target\'s Attack) damage to the targets, and steals 25% Attack from the targets for 3 Rounds. If the target has 90 Energy or more, Diana has a 60% chance to [c][01a310]Silence[-][/c] the target for 2 Rounds. If the target has less than 90 Energy, Diana has a 60% chance to [c][e28002]Terrorize[-][/c] the target for 2 Rounds.
+
+[c][01a310]Silence:[-][/c]
+A Control Effect. During this effect, girls affected will not be able to release their Active Skills.
+
+[c][e28002]Terrorize:[-][/c]
+A Control Effect. Terrorized targets cannot perform Basic Attacks."
+751016015,Diana,Evil Eye,"
+Whoops, did I take you by surprise? Diana deals (880% of Attack) damage to 4 random enemies, dealing an extra (880% of the target\'s Attack) damage to the targets, and steals 25% Attack from the targets for 3 Rounds. If the target has 90 Energy or more, Diana has a 70% chance to [c][01a310]Silence[-][/c] the target for 2 Rounds. If the target has less than 90 Energy, Diana has a 70% chance to [c][e28002]Terrorize[-][/c] the target for 2 Rounds.
+
+[c][01a310]Silence:[-][/c]
+A Control Effect. During this effect, girls affected will not be able to release their Active Skills.
+
+[c][e28002]Terrorize:[-][/c]
+A Control Effect. Terrorized targets cannot perform Basic Attacks."
+751016021,Diana,Chaotic Moon,"My powers come from the distant Moon. Increases HP by 37%, Crit by 30%, Control Immunity by 30% and Speed by 60."
+751016022,Diana,Chaotic Moon,"My powers come from the distant Moon. Increases HP by 37%, Crit by 31%, Control Immunity by 30% and Speed by 60."
+751016023,Diana,Chaotic Moon,"My powers come from the distant Moon. Increases HP by 37.5%, Crit by 31%, Control Immunity by 30% and Speed by 65."
+751016024,Diana,Chaotic Moon,"My powers come from the distant Moon. Increases HP by 37.5%, Crit by 32%, Control Immunity by 30% and Speed by 65."
+751016025,Diana,Chaotic Moon,"My powers come from the distant Moon. Increases HP by 38%, Crit by 32%, Control Immunity by 30% and Speed by 70."
+751016031,Diana,Unnerving Dreams,"You might have nightmares if you sleep late~ Basic Attack changed to deal(184% of Attack) damage to the enemy with the highest Attack, dealing extra (612% of the target's Attack) damage, and lowers 40% Attack of the target for 2 Rounds. At the end of each Round, if the Attack attribute of the enemy with the highest Attack is higher than that of Diana's, exchange Attack with the enemy with the highest Attack for 1 Round. (The amount of Attack increased for Diana and decreased for the target will not surpass 300% of Diana's Attack)"
+751016032,Diana,Unnerving Dreams,"You might have nightmares if you sleep late~ Basic Attack changed to deal(188% of Attack) damage to the enemy with the highest Attack, dealing extra (624% of the target's Attack) damage, and lowers 40% Attack of the target for 2 Rounds. At the end of each Round, if the Attack attribute of the enemy with the highest Attack is higher than that of Diana's, exchange Attack with the enemy with the highest Attack for 1 Round. (The amount of Attack increased for Diana and decreased for the target will not surpass 300% of Diana's Attack)"
+751016033,Diana,Unnerving Dreams,"You might have nightmares if you sleep late~ Basic Attack changed to deal(192% of Attack) damage to the enemy with the highest Attack, dealing extra (636% of the target's Attack) damage, and lowers 45% Attack of the target for 2 Rounds. At the end of each Round, if the Attack attribute of the enemy with the highest Attack is higher than that of Diana's, exchange Attack with the enemy with the highest Attack for 1 Round. (The amount of Attack increased for Diana and decreased for the target will not surpass 300% of Diana's Attack)"
+751016034,Diana,Unnerving Dreams,"You might have nightmares if you sleep late~ Basic Attack changed to deal(196% of Attack) damage to the enemy with the highest Attack, dealing extra (648% of the target's Attack) damage, and lowers 45% Attack of the target for 2 Rounds. At the end of each Round, if the Attack attribute of the enemy with the highest Attack is higher than that of Diana's, exchange Attack with the enemy with the highest Attack for 1 Round. (The amount of Attack increased for Diana and decreased for the target will not surpass 300% of Diana's Attack)"
+751016035,Diana,Unnerving Dreams,"You might have nightmares if you sleep late~ Basic Attack changed to deal(200% of Attack) damage to the enemy with the highest Attack, dealing extra (660% of the target's Attack) damage, and lowers 50% Attack of the target for 2 Rounds. At the end of each Round, if the Attack attribute of the enemy with the highest Attack is higher than that of Diana's, exchange Attack with the enemy with the highest Attack for 1 Round. (The amount of Attack increased for Diana and decreased for the target will not surpass 300% of Diana's Attack)"
+751016041,Diana,Insanity Calls,"
+Shh...let me tell you a bedtime story. When Diana is defeated, afflicts [c][e28002]Nightmare[-][/c] to the enemy that defeated Diana. If the target is already defeated, then this Passive Skill will not be triggered.
+
+[c][e28002]Nightmare:[-][/c]
+Skill Effect, cannot be stacked. At the end of each Round, the owner of [c][e28002]Nightmare[-][/c] receives (30.5% of self Maximum HP) damage (no more than 2500% of Diana\'s Attack). When the owner of [c][e28002]Nightmare[-][/c] is defeated, all enemies of the defeated Diana will receive (30.5% of their own Maximum HP) damage (no more than 2500% of Diana\'s Attack)."
+751016042,Diana,Insanity Calls,"
+Shh...let me tell you a bedtime story. When Diana is defeated, afflicts [c][e28002]Nightmare[-][/c] to the enemy that defeated Diana. If the target is already defeated, then this Passive Skill will not be triggered.
+
+[c][e28002]Nightmare:[-][/c]
+Skill Effect, cannot be stacked. At the end of each Round, the owner of [c][e28002]Nightmare[-][/c] receives (31% of self Maximum HP) damage (no more than 2500% of Diana\'s Attack). When the owner of [c][e28002]Nightmare[-][/c] is defeated, all enemies of the defeated Diana will receive (31% of their own Maximum HP) damage (no more than 2500% of Diana\'s Attack)."
+751016043,Diana,Insanity Calls,"
+Shh...let me tell you a bedtime story. When Diana is defeated, afflicts [c][e28002]Nightmare[-][/c] to the enemy that defeated Diana. If the target is already defeated, then this Passive Skill will not be triggered.
+
+[c][e28002]Nightmare:[-][/c]
+Skill Effect, cannot be stacked. At the end of each Round, the owner of [c][e28002]Nightmare[-][/c] receives (31.5% of self Maximum HP) damage (no more than 2500% of Diana\'s Attack). When the owner of [c][e28002]Nightmare[-][/c] is defeated, all enemies of the defeated Diana will receive (31.5% of their own Maximum HP) damage (no more than 2500% of Diana\'s Attack)."
+751016044,Diana,Insanity Calls,"
+Shh...let me tell you a bedtime story. When Diana is defeated, afflicts [c][e28002]Nightmare[-][/c] to the enemy that defeated Diana. If the target is already defeated, then this Passive Skill will not be triggered.
+
+[c][e28002]Nightmare:[-][/c]
+Skill Effect, cannot be stacked. At the end of each Round, the owner of [c][e28002]Nightmare[-][/c] receives (32% of self Maximum HP) damage (no more than 2500% of Diana\'s Attack). When the owner of [c][e28002]Nightmare[-][/c] is defeated, all enemies of the defeated Diana will receive (32% of their own Maximum HP) damage (no more than 2500% of Diana\'s Attack)."
+751016045,Diana,Insanity Calls,"
+Shh...let me tell you a bedtime story. When Diana is defeated, afflicts [c][e28002]Nightmare[-][/c] to the enemy that defeated Diana. If the target is already defeated, then this Passive Skill will not be triggered.
+
+[c][e28002]Nightmare:[-][/c]
+Skill Effect, cannot be stacked. At the end of each Round, the owner of [c][e28002]Nightmare[-][/c] receives (33% of self Maximum HP) damage (no more than 3000% of Diana\'s Attack). When the owner of [c][e28002]Nightmare[-][/c] is defeated, all enemies of the defeated Diana will receive (33% of their own Maximum HP) damage (no more than 3000% of Diana\'s Attack)."

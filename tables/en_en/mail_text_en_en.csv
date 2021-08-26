@@ -150,7 +150,7 @@ id,name,from,content
 149,Newbie Benefit Reward,System Message,"Senpai, congratulations for completing the task. Here's the reward you forgot to claim at the event page!"
 150,Newbie Benefit Progress,System Message,"Senpai, congratulations for getting {1} points in Newbie Benefit! Here's the reward you forgot to claim in the event page!"
 151,Luvly's Reward,Event Mail,"Senpai, congratulations for collecting {1} Coral Branch(es), here's your reward!"
-152,Daily Rewards,System Message,Login daily during the event to get Rudder x 4 and Gem x 150. Your rewards are attached.
+152,Daily Rewards,System Message,"Login every day during the event and you will receive Rudder x 4, Gem x 150, Scratch Ticket x 1. Your rewards are attached."
 153,Event Item Retrieve,System Message,"Dear Senpai, event: {1} is ended, {2} x {3} of yours have been retrieved."
 154,Exploration Ranking Reward,System Message,"Congratulations, Senpai! You're No. {1} in this season of Old Campus Exploration, here's your reward!"
 155,Exploration Reward,System Message,"Dear Senpai, the event: Old Campus Exploration has ended, here's your unclaimed reward!"
@@ -194,3 +194,4 @@ Yuki apologizes for the inconvenience, for any further queries, please don’t h
 186,Entrance Exam Bet,System Message,"Congratulations, the team you support in Entrance Exam has won the battle! Here's your bet reward~"
 187,Miss Yume Pageant - Vote Reward,Event Mail,"Dear Senpai, congratulations, you completed the voting task in ""Miss Yume Pageant"". Here's your reward!"
 188,Blessings from the Stars,Event Mail,"Dear Senpai, please accept the gift from Vivian! Hope you enjoy the life in Yume Academy like always!"
+190,Entrance Exam Notice,Event Mail,Congratulations! Your rank in Entrance Exam has been promoted !Head to the event page to check out the new details of your promotion!

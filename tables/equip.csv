@@ -1377,3 +1377,4 @@ id,name,水鏡深戀淨靈皮膚,type,pos,qlt,star,item_lv,price,base1,base2,bas
 7198,-1,-1,12,7,6,6,1,0,hpP#0.04,decDmg#40,free#50,,,,,,,,,,,,partner_avatar_5301303,,,,,,,,,,,,,,5301303,partner_avatar_5301303,2,
 7199,-1,-1,12,7,6,6,1,0,hpP#0.04,atkP#0.03,spd#4,,,,,,,,,,,,partner_avatar_5500904,,,,,,,,,,,,,,5500904,partner_avatar_5500904,3,
 7200,-1,-1,12,7,6,6,1,0,free#50,hpP#0.04,spd#4,,,,,,,,,,,,partner_avatar_5201603,,,,,,,,,,,,,,5201603,partner_avatar_5201603,2,
+7201,-1,-1,12,7,6,6,1,0,hpP#0.04,decDmg#40,trueAtk#50,,,,,,,,,,,,partner_avatar_5500606,,,,,,,,,,,,,,5500606,partner_avatar_5500606,5,
