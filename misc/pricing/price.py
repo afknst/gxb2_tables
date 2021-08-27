@@ -15,11 +15,20 @@ def print_price(_price):
     print()
 
 
+def get_price_from_tuple(_name, _tuple: "(QUANTITY, PROBABILITY)}"):
+    return _tuple[0] * _tuple[1] * price[_name]
+
+
 def get_price(_item: "{'NAME': (QUANTITY, PROBABILITY)}"):
     _price = 0
     for _i in _item:
         assert _i in price
-        _price += _item[_i][0] * _item[_i][1] * price[_i]
+        if isinstance(_item[_i], tuple):
+            _price += get_price_from_tuple(_i, _item[_i])
+        elif isinstance(_item[_i], list):
+            for _ti in _item[_i]:
+                assert isinstance(_ti, tuple)
+                _price += get_price_from_tuple(_i, _ti)
     return _price
 
 
@@ -29,7 +38,7 @@ def equal_price(_quantity_self, _name_dist, _quantity_dist):
 
 
 price['gem'] = 1
-price['gold'] = equal_price(3.9e6, 'gem', 50)
+price['gold'] = equal_price(4e6, 'gem', 50)
 price['juice'] = 1.5 * price['gold']
 price['bento'] = equal_price(500, 'gold', 1e6)
 price['chisel'] = 0.5 * price['bento']
@@ -71,6 +80,7 @@ price['lunar_badge'] = price['shard_5_elite'] / 120
 price['solar_badge'] = price['shard_5_elite_ad'] / 240
 # price['HE80_raid_n'] = 89 * price['shard_4'] + 87 * price['lunar_badge']
 # price['HE80_raid_ad'] = 89 * price['shard_4'] + 87 * price['solar_badge']
+price['elite_badge'] = 1.5 * price['shard_5_elite'] * 50
 
 price['portfolio'] = price['girlbox_n'] / 15e3
 
@@ -312,10 +322,11 @@ price['new_chest'] = get_price({
     'chest_6': (1, 0.25),
 })
 
+# 2 of the 5 girls in a ticket are in the same Faction: 4-Star Girl shards5
 # 3 of the 5 girls in a ticket are in the same Faction: 4-Star Girl shards30
 # 4 of the 5 girls in a ticket are in the same Faction: 5-Star Girl shards50
-# all of the 5 girls in a ticket are from the same Faction: Elite 5-Star Girl shards50
-# 5 different Factions: 4-Star Demon Shards60 + 4-Star Angel Shards60
+# all of the 5 girls in a ticket are from the same Faction: Elite Badge
+# 5 different Factions: 10 pull ticket
 
 # 3 stars distribution: [5, 5, 5, 5, 1, 1]
 _p0 = 5 / 22
@@ -323,11 +334,14 @@ _p1 = 17 / 22
 _p2 = 1 / 22
 price['scratch_card'] = get_price({
     'shard_3': (5 * 20, 1),
-    'shard_4': (30, 4 * comb(5, 3) * _p0**3 * _p1**2),
+    'shard_4': [
+        (5, 4 * comb(5, 2) * _p0**2 * _p1**3),
+        (30, 4 * comb(5, 3) * _p0**3 * _p1**2),
+    ],
     'shard_5': (50, 4 * comb(5, 4) * _p0**4 * _p1),
-    'shard_5_elite': (50, 4 * _p0**5),
-    'shard_4_ad':
-    (120, factorial(5) * (4 * _p0**3 * _p2**2 + 2 * _p0**4 * _p2)),
+    'elite_badge': (1, 4 * _p0**5),
+    'cap_purple':
+    (10, factorial(5) * (4 * _p0**3 * _p2**2 + 2 * _p0**4 * _p2)),
 })
 
 price['jigsaw'] = get_price({
