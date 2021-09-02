@@ -2495,7 +2495,7 @@ ACTIVITY_SCRATCH_CARD_ONE,1枚削る
 ACTIVITY_SCRATCH_CARD_TEN,10枚削る
 ACTIVITY_SCRATCH_CARD_BUY_TITLE,戦姫スクラッチを購入
 ACTIVITY_SCRATCH_CARD_LIMIT,購入回数不足
-ACTIVITY_SCRATCH_CARD_HELP,1、スクラッチを削ると、ランダムで５種類の星3戦姫の欠片を獲得できます（各欠片の獲得確率は等しい）。|2、イベント期間中、スクラッチで以下の組み合わせが出ると、更に追加ボーナスを獲得できます。| - 同じ学部の戦姫が2名：追加で星4戦姫の欠片を5個獲得。| - 同じ学部の戦姫が3名：追加で星4戦姫の欠片を30個獲得。| - 同じ学部の戦姫が4名：追加で星5戦姫の欠片を50個獲得。| - 同じ学部の戦姫が5名：追加でエリートバッジを1枚獲得。| - 異なる学部の戦姫が5名：追加で期間限定10連チケットを1枚獲得。|3、イベント終了後も未使用のスクラッチは使用できますが、星3戦姫の欠片のみ獲得でき、追加ボーナスは獲得できなくなります。|4、イベント画面右上にある記録アイコンをタップすると、直近のスクラッチ履歴を確認できます。|5、戦姫スクラッチの獲得方法：| - 毎日のメールで獲得。| - お得パックで獲得。| - 超お得パックで獲得。| - 超お得衣装パックで獲得。| - ラブリー漂流記で獲得。| - 戦姫専用ミッションで獲得。| - イベント画面でダイヤを使用して購入（1000回まで）。|
+ACTIVITY_SCRATCH_CARD_HELP,1、スクラッチを削ると、ランダムで5種類の星3戦姫の欠片を獲得できます（各欠片の獲得確率は等しい）。|2、イベント期間中、スクラッチで以下の組み合わせが出ると、更に追加ボーナスを獲得できます。| - 同じ学部の戦姫が2名：追加で星4戦姫の欠片を5個獲得。| - 同じ学部の戦姫が3名：追加で星4戦姫の欠片を30個獲得。| - 同じ学部の戦姫が4名：追加で星5戦姫の欠片を50個獲得。| - 同じ学部の戦姫が5名：追加でエリートバッジを1枚獲得。| - 異なる学部の戦姫が5名：追加で期間限定10連チケットを1枚獲得。|3、イベント終了後も未使用のスクラッチは使用できますが、星3戦姫の欠片のみ獲得でき、追加ボーナスは獲得できなくなります。|4、イベント画面右上にある記録アイコンをタップすると、直近のスクラッチ履歴を確認できます。|5、戦姫スクラッチの獲得方法：| - 毎日のメールで獲得。| - お得パックで獲得。| - 超お得パックで獲得。| - 超お得衣装パックで獲得。| - ラブリー漂流記で獲得。| - 戦姫専用ミッションで獲得。| - イベント画面でダイヤを使用して購入（1000回まで）。|
 ACTIVITY_SCRATCH_RECORD,スクラッチ記録
 HOUSE_TEXT_54,サークルに参加すると、サークルチャットを使用できます。
 UNFOLD_SKIN,リストを開く
@@ -3029,7 +3029,7 @@ ACTIVITY_DRAGON_BOAT_AWARD_SELECT_WINDOW,カスタマイズパック
 ACTIVITY_DRAGON_BOAT_AWARD_SELECT_WINDOW_SECOND_TITLE,選択してください
 NEXT,次
 GO_TO_SELECT,「カスタム」をタップして欲しいアイテムを選んでください
-ACTIVITY_DRAGON_BOAT_DESC,3周年カスタマイズパック限定発売中！\nお見逃しなく！
+ACTIVITY_DRAGON_BOAT_DESC,伯爵からの秘密の贈り物！？自分好みのギフトをカスタマイズしよう！
 ACTIVITY_ENERGY_SUMMON_DESC_0,"
 ガチャエナジーカードを購入すると、以下のボーナスを獲得できます：
 1.エナジー限定召喚回数が解除されます。
@@ -3311,15 +3311,15 @@ ENTRANCE_TEST_HELP_TITLE_1_1,戦姫配置
 ENTRANCE_TEST_HELP_TITLE_2_1,戦姫配置
 ENTRANCE_TEST_HELP_TITLE_2_2,防衛チーム
 ENTRANCE_TEST_HELP_DES_2_1,Aランクになると、戦姫が星15になり、[c][cc0011]潜在能力[-][/c]が選択可能になります。
-ENTRANCE_TEST_HELP_DES_2_2,設定が全て完了すると、戦姫のカードに「完了」と表示されます。
-ENTRANCE_TEST_HELP_DES_2_3,出撃する前に[c][cc0011]防衛チーム[-][/c]を設置しましょう。配置を完了した戦姫のみ、防衛チームに参加できます。防衛に成功するとイベントPtを獲得し、失敗するとイベントPtが減少します。慎重に防衛チームを設定しましょう！
+ENTRANCE_TEST_HELP_DES_2_2,設定が全て完了すると、戦姫の\nカードに「完了」と表示されます。
+ENTRANCE_TEST_HELP_DES_2_3,出撃する前に[c][cc0011]防衛チーム[-][/c]を設置しま\nしょう。配置を完了した戦姫のみ、防衛チームに参加できます。防衛に成功するとイベントPtを獲得し、失敗するとイベントPtが減少します。慎重に防衛チームを設定しましょう！
 ENTRANCE_TEST_HELP_TITLE_3_1,出撃
 ENTRANCE_TEST_HELP_TITLE_3_2,Ptと順位
 ENTRANCE_TEST_HELP_TITLE_3_3,ボーナス
 ENTRANCE_TEST_HELP_DES_3_1,戦闘条件を満たした後で[c][cc0011]戦闘[-][/c]アイコンをタップすると、出撃できます！\nイベント期間中、自分の所持Pt数と近い対戦相手をマッチングします。勝利するとイベントPtを獲得し、敗北するとイベントPtが減少します。
 ENTRANCE_TEST_HELP_DES_3_2,戦闘のたびに、入学テスト証が1枚消費されます。\n毎日9時になると、テスト証の所持数が[c][cc0011]10枚[-][/c]にリセットされます。\n購入ボタンをタップすると、ダイヤで入学テスト証を購入できます。
 ENTRANCE_TEST_HELP_DES_3_3,イベント期間中は常に現在のPtと順位を確認できます。
-ENTRANCE_TEST_HELP_DES_3_4,[c][cc0011]ボーナス確認[-][/c]ボタンをタップすると、現在のミッションとボーナスを確認できます。\n[c][cc0011]入学セット[-][/c]を購入すると、より多くのミッションボーナスがアンロックされます。
+ENTRANCE_TEST_HELP_DES_3_4,[c][cc0011]ボーナス確認[-][/c]ボタンをタップすると、現在のミッションとボーナスを確認できます。\n[c][cc0011]入学セット[-][/c]を購入すると、より多くの\nミッションボーナスがアンロックされます。
 ACTIVITY_WARMUP_PACK_TEXT04,間もなく入学する新規戦姫の限定デフォルメアイコンをプレゼント：
 ACTIVITY_WARMUP_PACK_TEXT05,お得
 CHESS_EXCHANGE,変換
@@ -3351,7 +3351,7 @@ SPIRIT_TASK_DESCRIPTION,ミッション内容
 SPIRIT_PROBABILITY_AWARD,確率獲得
 SPIRIT_RECOMMEND_PARTNER,お勧め戦姫
 SPIRIT_REMAINING_TIME,完成するまで：
-SPIRIT_REFRESH_TIME,更新まで
+SPIRIT_REFRESH_TIME,更新まで：
 SPIRIT_ACCELERATE,加速
 SPIRIT_ONE_KEY_BATTLE,一括出撃
 SPIRIT_BEGIN,開始
@@ -3500,7 +3500,7 @@ SORT_TEXT2,表示順
 TOWER_FUND_GIFT_BAG_CONDITION,最上階で{1}ステージクリア
 NEED_DEFFORMATION,防衛チームを設定していません！
 LIMIT_BUY_TIMES,購入制限：{1}
-ENTRANCE_TEST_HELP_DES_1_1_NONEWGIRL,新学期の入学テストがスタートしました！\n近頃、多くの後輩が入学したので、ぜひ入学テストで使ってみましょう！
+ENTRANCE_TEST_HELP_DES_1_1_NONEWGIRL,新学期の入学テストがスタートしました！\n最近、多くの後輩が入学したので、ぜひ入学テストで使って\nみましょう！
 GUILD_KICK_TIPS,そのプレイヤーをサークルから追放しますか？
 ACADEMY_ASSESSMENT_WINDOW_HELP_NEW_2,1.先輩の皆様！学部試験がついにリニューアルしました！新しい学部試験は、シーズンイベントとなります。試験期間（13日間）と成績発表日（1日間）に分かれ、合計14日間で1シーズンとなります。|2.試験期間中は6つの学部試験が開放され、その学部の戦姫のみ出撃可能です。成績発表日は試験に挑戦はできず、進捗がリセットされ、成績に応じたボーナスが配布されます。|3.各学部のテストは80階まであり、敵はシーズンごとに入れ替わります。敵の配置は、ステージ入り口上部のアイコンをタップして確認できます。|4.テストに挑戦するたびに、テスト参加証が1枚消費されます。テスト参加証は毎日25枚配布されますが、ダイヤを消費して追加購入することも可能です。|5.各ステージを初めてクリアした際には、豊富な初回クリアボーナスを獲得できます。初回クリアボーナスは初回クリア時の1回しか獲得できません。今回は学部テストのリニューアルに伴い、各学部の進捗がリセットされます。今後新シーズンが開放されても、初回クリアボーナスは獲得できません。|6.挑戦成功後にクリアボーナスを受け取ることができます。また、クリア済のステージはクリア証明書を消費して、スキップボーナスを獲得できます。スキップ時は敗北しません。|7.クリア証明書は毎日2枚配布されます。任意の学部の第9、18、30ステージを初めてクリアする時に即1枚獲得し、翌日から配布されるクリア証明書が1枚ずつ増加します（最大3枚まで増加する）。異なる学部の重複はできません（例：任意の学部の第9ステージを初めてクリアすると、翌日からクリア証明書が毎日3枚配布されるようになります）。|8.ダイヤを消費して、クリア証明書を追加購入できます。必要なダイヤ数は購入するたびに増え、毎日最大10回まで購入できます（購入したクリア証明書が未使用の場合はリセットされます）。|9.テスト参加証とクリア証明書は毎日9時にリセットされます。|10.ステージをクリア（スキップは含まない）すると、テストptを獲得できます。各学部の第1から第20ステージまでは1pt、第21から第40ステージまでは2pt、第41から第60ステージまでは4pt、第61ステージから第80ステージは6pt獲得できます。成績発表日に、先輩の合計ptに応じてメールでボーナスが配布され、ptをリセットします。|11.各学部のテストptが最も高い先輩は、成績発表日に有効期限14日間の外観アイコンを獲得できます。複数の先輩が同率1位になった場合、クリアタイムが早い順に最大10名まで外観アイコンを配布します。アイコンはメールから送信されます。
 GACHA_GUARANTEE_TEXT,1.イベント期間中、全ての星5戦姫の排出率が[c][DE512B]2倍[-][/c]になります。|2.プレミアムガチャを[c][DE512B]100[-][/c]回まわすたびに、新しい戦姫の排出率が追加でアップします。|3.計[c][DE512B]500[-][/c]回まわすと、必ず[c][DE512B]{1}[-][/c]を獲得できます。いずれかの新しい戦姫を引き当てると、回数の累計がリセットされます。
@@ -3660,14 +3660,14 @@ MONTH_BEGINNING_GIFTBAG_10,10月
 MONTH_BEGINNING_GIFTBAG_11,11月
 MONTH_BEGINNING_GIFTBAG_12,12月
 ACTIVITY_EXPLORE_CAMPUS_TEAM_SAVE,前階層の編成を使用しますか？
-LIMIT_TIME_CALL,スペシャル募集
-LIMIT_TIME_CALL_PARTNER,アウラ獲得
-LIMIT_TIME_CALL_AWARD,スペシャル募集ボーナス
-LIMIT_TIME_CALL_TEXT,累計 {1} 回スペシャル募集をする
-LIMIT_TIME_CALL_PARTNER_TEXT,アウラを累計{1}回入手する
+LIMIT_TIME_CALL,時の\n巡り合い
+LIMIT_TIME_CALL_PARTNER,戦姫獲得
+LIMIT_TIME_CALL_AWARD,累計ボーナス
+LIMIT_TIME_CALL_TEXT,縁結びコインを累計{1}個消費する
+LIMIT_TIME_CALL_PARTNER_TEXT,モニカを累計{1}回入手する
 GACHA_LIMIT_UP,上記戦姫の排出確率が大幅アップ
 GACHA_LIMIT_GACHA,{1}回募集する
-GACHA_LIMIT_EXCHANGE_NEXT,[c][9f5600]全てのボーナス[-][/c]を交換後、次ページを解禁。
+GACHA_LIMIT_EXCHANGE_NEXT,[c][ffda45]全てのボーナス[-][/c]を交換後、次ページを解禁。
 GACHA_LIMIT_EXCHANGE_1,I
 GACHA_LIMIT_EXCHANGE_2,II
 GACHA_LIMIT_EXCHANGE_3,III
@@ -3676,18 +3676,18 @@ GACHA_LIMIT_EXCHANGE_5,V
 GACHA_LIMIT_BOSS_LABEL_1,単発ダメージ
 GACHA_LIMIT_BOSS_LABEL_2,ボーナス
 GACHA_LIMIT_CALL_NEW,新戦姫
-GACHA_LIMIT_CALL_TIMES,[size=34]{1}[-]回募集
+GACHA_LIMIT_CALL_TIMES,{1}回
 GACHA_LIMIT_CALL_TIPS,上記戦姫の獲得率が大幅UP!
 GACHA_LIMIT_CALL_FIVESTAR_TIPS,星5確定
-ACTIVITY_LIMIT_GACHA_HELP,1、イベント期間中、スペシャル募集コインを使用してガチャを回すことができます。一度にスペシャル募集コインを10枚使用する10連募集では、星5戦姫（星4から進学した星5戦姫も含む）を必ず獲得できます。|2、スペシャル募集では、アウラと劉備の排出率がアップします！また、アパテーはスペシャル募集では獲得できませんので、ご注意ください。|3、募集を行うたびに一定数の「スペシャル交換券」を獲得でき、ボーナスと交換できます。|4、スペシャル募集コインの入手方法：| - ダイヤで購入（50回まで）| - 新戦姫ガチャ| -お得パック、超お得パック、衣装パックを購入| - 伯爵の秘密の贈り物| - アウラの試練| - 毎日のメール|5、イベント終了後、未使用のスペシャル募集コインは1つ150kゴールドに変換され、メールで送信されます。
+ACTIVITY_LIMIT_GACHA_HELP,1.イベント期間中に縁結びコインを消費すると、星3、星4、星5の戦姫（新戦姫のディアンヌを除く）のガチャを行えます。一度に10枚のコインで10連ガチャを行うと、必ず星5の戦姫（進学で獲得する戦姫を含む）を獲得でき、さらに50回以内に必ず新戦姫のモニカを獲得できます！|2.ガチャを行うたびに、追加で一定数の「縁結びの証明」を獲得できます。当該アイテムは、ショップでのボーナス交換に使用します。|3.イベント終了後、未使用の「縁結びコイン」と「縁結びの証明」は、それぞれ1つあたり150kゴールドと10kゴールドに変換され、メールで配布されます。
 ACTIVITY_LIMIT_CALL_BOSS_CHALLENGE,挑戦回数：
 BLACK_FRIDAY_GIFTBAG_DISCOUNT,90%%  off
 BLACK_FRIDAY_GIFTBAG_PRICE1,参考価格：￥61000
 BLACK_FRIDAY_GIFTBAG_PRICE2,参考価格：￥120000
-GACHA_LIMIT_CALL_TEXT_1,後[c][d76120]{1}[-][/c] 回募集すると、必ず[c][d76120]{2}[-][/c]を獲得する。
+GACHA_LIMIT_CALL_TEXT_1,[c][fee19e]{1}[-][/c]回以内に必ず[c][fee19e]{2}[-][/c]を獲得可能。
 GACHA_LIMIT_BOSS_HELP,1、イベント期間中、毎日2回挑戦できます。|2、戦闘終了後、与ダメージに応じて「露」とゴールドを獲得します。与ダメージが大きいほど、獲得ボーナスが増えます。
 GACHA_LIMIT_EXCHANGE_HELP,1、イベント期間中に「スペシャル交換券」を使用すると、様々なボーナスと交換できます。|2、現在のページのボーナスを全て交換すると、次のページが解禁されます。|3、「スペシャル交換券」はスペシャル募集、募集ボーナス、アウラの試練で獲得できます。|4、イベント終了後、未使用の「スペシャル交換券」は1枚10kゴールドに変換され、メールで送信されます。
-GACHA_LIMIT_EXCHANGE_TIPS,前ページ[c][9f5600]全てのボーナス[-][/c]を交換後、本ページを解禁。
+GACHA_LIMIT_EXCHANGE_TIPS,前ページの[c][ffda45]全てのボーナス[-][/c]を交換後、本ページを解禁。
 HOUSE_FLOOR_LOADING,階層切替中……
 GACHA_LIMIT_EXCHANGE_UNLOCK,現ページ未解禁
 BATTLE_PASS_BUY_LAST_DAY,残り{1}日
@@ -4266,7 +4266,7 @@ FAIR_ARENA_POINT_NOW,現在のPt：
 FAIR_ARENA_COLLECTION,図 鑑
 FAIR_ARENA_DESC_USE_ONLY,本イベントでのみ有効
 FAIR_ARENA_AWARD_PREVIEW,ボーナス一覧
-FAIR_ARENA_TIME_EXTRA_LIMIT,カウントダウン終了後に探索回数を2回分獲得：
+FAIR_ARENA_TIME_EXTRA_LIMIT,カウント終了後に探索回数を2回分獲得：
 FAIR_ARENA_DEMO,模擬探索
 FAIR_ARENA_EXPLORE,本番探索
 FAIR_ARENA_FREE_EXPLORE,今回無料
@@ -4286,7 +4286,7 @@ FAIR_ARENA_AWARDS_RANK,ランキングボーナス
 FAIR_ARENA_AWARDS_LEVEL,宝箱ボーナス
 FAIR_ARENA_RANK_NOW,現在のランキング：
 FAIR_ARENA_AWARDS_LEVEL_NOW,現在のランキングボーナス：
-FAIR_ARENA_DESC_AWARDS,カウントダウン終了後にボーナスが配布されます
+FAIR_ARENA_DESC_AWARDS,カウント終了後にボーナスが配布されます
 FAIR_ARENA_RANK_HISTORY_MAX,過去の最高ランキング：
 FAIR_ARENA_HISTORY_EXPLORE,第{1}回探索
 FAIR_ARENA_HISTORY_DEMO,第{1}回模擬探索
@@ -4501,7 +4501,7 @@ ACTIVITY_RESIDENT_RETURN_RECOMMENT2,先輩のために、フレンドとサー�
 ACTIVITY_ENTRANCE_TEST_SHOW_WINDOW_HELP,1.イベント期間中、ゴールドで勝者の予想を行えます。|2.赤チームは攻撃側、青チームは防衛側になります。戦闘にターン数の制限はありません。ベットした側のチームが勝てば、ボーナスを獲得できます。|3.予想を行う際、毎回3つのレートから1つを選択します。消費ゴールドが多いレートほど、獲得ボーナスも豪華になります。|4.予想イベントは毎日9時になるとリセットされ、同時に前日の結果発表が行われます。予想のボーナスはメールで送られます。
 REFRESH_LIMIT_TIME,更新が頻繁すぎます
 ENTRANCE_TEST_BET_BTN,予想
-ENTRANCE_TEST_GUESS_COUNT_DOWN,終了まで：
+ENTRANCE_TEST_GUESS_COUNT_DOWN,集計まで：
 ACTIVITY_3BIRTHDAY_TEXT01,クリティカルの\n[c][85eb9d]発生率[-][/c]が倍にアップ
 ACTIVITY_3BIRTHDAY_TEXT02,クリティカル発生時の\n[c][fb6464]獲得数[-][/c]がアップ
 ACTIVITY_3BIRTHDAY_TEXT03,"
@@ -4752,7 +4752,7 @@ TRAVEL_NEW_TEXT04,ダイヤを求める人の方へ向かう
 TRAVEL_NEW_TEXT05,ショップの方へ向かう
 TRAVEL_NEW_TEXT06,敵の方へ向かう
 TRAVEL_NEW_TEXT07,特殊設定：
-TRAVEL_NEW_TEXT08,宝箱スロットの空きがない場合、ダイヤで最初の宝箱を開けて探検を続ける。
+TRAVEL_NEW_TEXT08,宝箱スロットの空きがない場合、ダイヤで最低ランクの宝箱を開けて探検を続ける。
 TRAVEL_NEW_TEXT09,敵に敗北すると、自動探検を中止。
 TRAVEL_NEW_TEXT10,自動探検中……
 TRAVEL_NEW_TEXT11,中止
@@ -4775,11 +4775,11 @@ DRESS_ITEM_UP_WINDOW_3,欠片は必要ありません
 ACTIVITY_POPULARITY_VOTE_SURVEYTEXT01,イベント説明
 ACTIVITY_POPULARITY_VOTE_SURVEYTEXT02,投票する
 ACTIVITY_POPULARITY_VOTE_SURVEYTEXT03,優勝者
-ACTIVITY_POPULARITY_VOTE_SURVEYTEXT04,19日間にも及ぶ投票の結果、78名の戦姫が参加した総選挙イベントの優勝者は、ルシフェルに決まりました！\nルシフェルの優勝記念衣装を作るため、今回は4つのイラスト案をご用意しました。この中で、アンケートの投票数が最も多かった案が、記念衣装のテーマとなります。先輩の貴重な一票を、投票お願いいたします！
-ACTIVITY_POPULARITY_VOTE_SURVEYTEXT05,A.新王の戴冠
-ACTIVITY_POPULARITY_VOTE_SURVEYTEXT06,B.総選挙の覇者
-ACTIVITY_POPULARITY_VOTE_SURVEYTEXT07,C.聖なる天使
-ACTIVITY_POPULARITY_VOTE_SURVEYTEXT08,D.煌めきの舞台
+ACTIVITY_POPULARITY_VOTE_SURVEYTEXT04,前回のアンケートでは、「聖なる天使」の衣装案が最も多くのご支持を頂きました。\nそこで、今回は衣装の配色案を4つご用意し、細部までデザインを設計しました。この中で投票数が最も多かった配色案が、最終デザインに決まります。先輩の貴重な一票を、投票お願いいたします！
+ACTIVITY_POPULARITY_VOTE_SURVEYTEXT05,A.配色案1
+ACTIVITY_POPULARITY_VOTE_SURVEYTEXT06,B.配色案2
+ACTIVITY_POPULARITY_VOTE_SURVEYTEXT07,C.配色案3
+ACTIVITY_POPULARITY_VOTE_SURVEYTEXT08,D.配色案4
 ACTIVITY_POPULARITY_VOTE_SURVEYTEXT09,投票確認
 DRESS_CHOOSE_SHOW_WINDOW_1,選択したパーツの欠片
 DRESS_CHOOSE_SHOW_WINDOW_2,欠片を選択していません
@@ -4818,7 +4818,7 @@ DRESS_BUY_WINDOW_TEXT13,綠色裝扮佔總抽取機率的0%%
 DRESS_BUY_WINDOW_TEXT14,紫色裝扮佔總抽取機率的0%%
 DRESS_BUY_WINDOW_TEXT15,黃色裝扮佔總抽取機率的0%%
 DRESS_BUY_WINDOW_TEXT16,藍色裝扮佔總抽取機率的0%%
-DRESS_SUMMON_LABEL_5,倒計時結束後免費採購
+DRESS_SUMMON_LABEL_5,倒數計時結束後免費採購
 DRESS_SUMMON_LABEL_6,下列裝扮全部獲得前必定不會重複
 DRESS_CHOOSE_FRAGMENT_WINDOW_6,一括配置
 DRESS_CHOOSE_FRAGMENT_WINDOW_7,選択可能な欠片が足りません
@@ -4854,7 +4854,7 @@ ACTIVITY_ANTIQUE_LEVELUP_TEXT15,魂石の獲得上限に達しています。本
 ACTIVITY_ANTIQUE_LEVELUP_TEXT16,使用中の装備です。このまま選択しますか？
 DAILY_QUIZ_TEXT04,回数がもっと必要な場合は購入数を入力：
 PUB_MISSION_AUTO_TEXT1,一括受取
-ENTRANCE_TEST_ARTIFACT_CHOOSE_TIPS,オレンジの魂器の図鑑解禁数が多いほど、選べる魂器が増えます。
+ENTRANCE_TEST_ARTIFACT_CHOOSE_TIPS,オレンジ魂器の図鑑解禁数が多いほど、選べる魂器が増えます。
 ENTRANCE_TEST_PARTNER_NOT_READY,チーム内に設定未完了の戦姫がいます。このチームで出撃しますか？
 ENTRANCE_TEST_BATTLE_JUMP_SET,戦姫配置
 ENTRANCE_TEST_PET_EXSKILL,入学テストでは、プレイヤーごとの使い魔の特性コアレベルが反映されます。
@@ -4864,8 +4864,8 @@ SNS_ACTIVITY_TEXT01,SNSへ移動
 ENTRANCE_TEST_PARTNER_LOCK,Aランク到達でアンロック
 ENTRANCE_TEST_LEVEL_UP,レベルUP内容
 WARMUP_ARENA_RANK_INFO_2,・戦姫が星15のレベル330になり、潜在能力が解禁されます。\n・選択可能な魂器が星6になります。\n・使い魔がレベル180になります。
-WARMUP_ARENA_RANK_INFO_3,·戦姫のエリートスキルが全てレベル5になります。\n·使い魔の特性コアが解禁され、各プレイヤーの強化状況が反映されます。\n·使い魔のスキルレベルも各プレイヤーの強化状況が反映されます。レベル30未満のスキルは自動的にレベル30になります。
-WARMUP_ARENA_RANK_INFO_4,·最高ランクのため、追加内容はありません。
+WARMUP_ARENA_RANK_INFO_3,・戦姫のエリートスキルが全てレベル5になります。\n・使い魔の特性コアが解禁され、各プレイヤーの強化状況が反映されます。\n・使い魔のスキルレベルも各プレイヤーの強化状況が反映されます。レベル30未満のスキルは自動的にレベル30になります。
+WARMUP_ARENA_RANK_INFO_4,・最高ランクのため、追加内容はありません。
 ENTRANCE_TEST_LEVEL_UP_DESC_1,チーム更新
 SELECT,選択
 A_OR_B,{1}または{2}
@@ -4894,7 +4894,7 @@ WARMUP_ARENA_TASK_INFO_1,新入生チャレンジ
 WARMUP_ARENA_TASK_INFO_2,ディアンヌ-星を追う者
 WARMUP_ARENA_TASK_INFO_3,チャレンジミッション
 WARMUP_ARENA_TASK_INFO_4,追加ボーナス
-WARMUP_ARENA_TASK_INFO_5,チャレンジミッション完了でアンロック
+WARMUP_ARENA_TASK_INFO_5,星マークのミッション完了でアンロック
 ACTIVITY_ENTRANCE_TEST_RECORD_TIPS,相手とランクが異なるため、挑戦できません！
 WARMUP_ARENA_TASK_HELP,1.新入生チャレンジミッションを完了すると、豪華ボーナスを獲得できます。|2.入学セットを購入すると、追加で大量のボーナスがアンロックされます。|3.星マークが付いてるミッションを完了すると、新たなシナリオがアンロックされ、新戦姫や幽夢学園の面々のストーリーをお楽しみいただけます。
 ENTRANCE_TEST_NO_FIGHT_PARTNERS,攻撃チームが未設定のままです。現在の防衛チームを適用しますか？
@@ -4906,9 +4906,21 @@ ENTRANCE_TEST_NEXT_DAY,集計中です。集計中は戦闘を行えません。
 ENTRANCE_TEST_ENERGY_EXCEED,毎日9時になると、テスト参加証が10枚にリセットされ、溢れた分は消滅してしまいます。それでも購入されますか？
 ENTRANCE_TEST_LEVEL_UP_DESC,ランクアップ
 WARMUP_ARENA_TASK_ENTRANCE,ボーナス確認
-SNS_ACTIVITY_TEXT02,サークルイベントに参加してボーナスを獲得
+SNS_ACTIVITY_TEXT02,SNSイベントに参加しましょう！
 SNS_ACTIVITY_TEXT03,(UTC/GMT 0)
 ENTRANCE_TEST_PETCORE_LOCK,Sランク到達で、使い魔の特性コアがアンロック！
 PUB_MISSION_AUTO_TEXT5,全選択/キャンセル
 LIMIT_ACT_LEFT_TIME,[c][394046]残り [-][/c]{1}
 WARMUP_ARENA_TASK_INFO_6,入学セットを確認
+ACTIVITY_ENCOUNTER_STORY_HELP,1.イベント期間中、指定の戦姫で戦闘を行い、ステージをクリアすると、1回限りのクリアボーナスを獲得できます。|2.「暖かい記憶」を使用すると、戦姫のストーリーをアンロックできます。|3.ステージの挑戦目標を達成すると、星を入手できます。累計で一定数の星を入手すると、ボーナスを獲得できます。|4.挑戦目標は一度に全て達成する必要はありません。ステージ挑戦には回数制限がないため、何度でも挑戦いただけます。
+ACTIVITY_ENCOUNTER_STORY_TEXT01,{1}個の{2}を使用して、ストーリーをアンロックしますか？
+ACTIVITY_ENCOUNTER_STORY_TEXT02,ステージ挑戦
+ACTIVITY_ENCOUNTER_STORY_TEXT03,第{1}ステージ
+ACTIVITY_ENCOUNTER_STORY_TEXT04,後にアンロック
+ACCOUNT_REGISTER_SUC,アカウント登録成功
+ACTIVITY_LIMIT_GACHA_TEXT01,縁結びパック
+ACTIVITY_LIMIT_GACHA_TEXT02,巡り会いギフト
+ACTIVITY_LIMIT_GACHA_TEXT03,交換ショップ
+ITEM_RECYCLE_TIPS,アイテムはイベント終了後に回収されるため、お早めにご使用ください！
+SERIES_COUNT,第{1}章
+ACTIVITY_ENCOUNTER_STORY_TEXT05,ステージ挑戦

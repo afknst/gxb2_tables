@@ -55,9 +55,9 @@ gacha_ensure_weight_wish_get,198,-1
 gacha_ensure_weight_wish_add,198,-1
 gacha_ensure_add_num,100,-1
 gacha_ensure_guarantee,500,-1
-gacha_ensure_partner,54016#654023#754016,-1
-gacha_ensure_partner_handbook,54016#654023#754016,-1
-daily_mail_awards_gacha,2|35,-1
+gacha_ensure_partner,51016#651023#751016,-1
+gacha_ensure_partner_handbook,51016#651023#751016,-1
+daily_mail_awards_gacha,2|29,-1
 daily_mail_awards_tree,3|11,-1
 daily_mail_awards_gamble,18|36|37,-1
 daily_mail_awards_drift,30|8|19,-1
@@ -376,7 +376,7 @@ scratch_card_awards_identical_5,93#1,-1
 scratch_card_unmask_r,25,-1
 main_window_icon_position,-80#990|-80#1110|-80#1230|-200#990|-320#990|-200#1110|-320#1110|-200#1230|-320#1230|-440#990|-440#1110|-440#1230,-1
 show_in_game,1579212000,-1
-warmup_no_partner,1628208000,-1
+warmup_no_partner,1630627200,-1
 direct_partner_appear_full_new,157,-1
 dorm_comfort_version,2,-1
 activity_making_coffee_speedup,7200,-1
@@ -480,7 +480,7 @@ comic_comment_length_limit_ko_kr,12|120,-1
 activity_letter,36#10|2#1000|940002#50,-1
 activity_birthday_colour_awards,1#18000|1#16000,-1
 activity_birthday_colour_limit,100000,-1
-activity_44_hero_model,teleisha_pifu02_lihui01|530|-1750|0.65|5201603|7200,-1
+activity_44_hero_model,hujisheng_pifu02_lihui01|450|-1500|0.7|5401503|7202,-1
 activity_birthday_colour_cost,147#1,-1
 activity_birthday_cake_cost,148#1,-1
 activity_birthday_cake_rounds_limit,25,-1
@@ -491,7 +491,7 @@ activity_privileged_card_trial_rewards,1*2000|15*2000,-1
 activity_privileged_card_dungeon_rewards,1*1000|2*1000|10*1000|26*1000|27*1000,-1
 activity_privileged_card_dungeon_drugs,2,-1
 activity_birthday_colour_progress_bit,0.1,-1
-merge_server_now_next,490|506|1630308600,-1
+merge_server_now_next,506|522|1699999999,-1
 activity_privileged_card_ui_type,0#0|1#0,-1
 arena_revenge_cd,300,-1
 activity_swimsuit_cost,154#1,-1
@@ -578,12 +578,12 @@ activity_limit_gacha_boss,3000200,-1
 activity_limit_gacha_boss_effect,88200|88201,-1
 activity_limit_gacha_boss_limit,2,-1
 activity_limit_gacha_boss_skill,75101401|75101402|75101403|75101404,-1
-activity_limit_gacha_security_time,50|53014,-1
+activity_limit_gacha_security_time,50|52017,-1
 activity_limit_gacha_10_dropbox,10|40003,-1
-activity_limit_gacha_partner_award,53014,-1
-activity_limit_gacha_partner_show,53014,-1
-activity_limit_gacha_partner_jump,53014|54013,-1
-activity_limit_gacha_buy,2#300|187#1,-1
+activity_limit_gacha_partner_award,52017,-1
+activity_limit_gacha_partner_show,52017,-1
+activity_limit_gacha_partner_jump,52017,-1
+activity_limit_gacha_buy,2#300|265#1,-1
 activity_limit_gacha_limit,50,-1
 new_trial_match_chance,0.7,-1
 new_trial_match_partner,655016|656016|755006|756006,-1
@@ -682,7 +682,7 @@ activity_newbee_fund2_start_time,1616112000,-1
 activity_sprouts_10_award,10|215#10,-1
 activity_sprouts_point_award,80|930200#50,-1
 activity_sprouts_partner_award,51014,-1
-battle_version,2,-1
+battle_version,3,-1
 activity_newbee_fund_get_time_new,20,-1
 puppet_debris_id,940031|940032|940033|940034|940035|940036|940041|940042|940043|940044|940045|940046|940047|940048|940049|940050|940051|940052,-1
 activity_new_partner_test_id,51014,-1
@@ -691,7 +691,7 @@ pet_exlevel_unlock_cost,1#1000000|27#5|216#10,-1
 guild_competition_time,3|7|1,-1
 guild_competition_boss_limit,30,-1
 guild_competition_personal_limit,3,-1
-guild_competition_boss_model,755009|751010|756008,-1
+guild_competition_boss_model,751016|756007|752017,-1
 activity_puppet_item,217,-1
 pet_exskill_open_level,120,-1
 bp_lottery_cost,221#50,-1
@@ -763,7 +763,7 @@ pet_training_energy_buy_limit,2,-1
 pet_training_energy_buy_cost,2#80|2#120,-1
 pet_training_lesson_award,0#1|300#1.1|400#1.2|450#1.3|500#1.4|540#1.5,-1
 pet_training_boss_level,120,-1
-guild_competition_frame_time,1630281600,-1
+guild_competition_frame_time,1633910400,-1
 activity_course_learning_2_cost,231#10,-1
 activity_course_learning_2_award1,800020,-1
 activity_course_learning_2_award2,0.008#1000|0.009#3500|0.01#4000|0.011#1485|1#15,-1
@@ -829,4 +829,4 @@ activity_warmup_arena_buy_costs,2#10|2#15|2#20|2#25|2#30|2#35|2#40|2#45|2#50|2#5
 activity_warmup_arena_partners,751016|752017,-1
 activity_warmup_arena_revenge,1,-1
 guild_quick_order_open,5,-1
-gacha_10drawcard_endtime,1630627200,-1
+gacha_10drawcard_endtime,1631332000,-1

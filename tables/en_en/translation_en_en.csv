@@ -3020,7 +3020,7 @@ ACTIVITY_DRAGON_BOAT_AWARD_SELECT_WINDOW,Private Customization Pack
 ACTIVITY_DRAGON_BOAT_AWARD_SELECT_WINDOW_SECOND_TITLE,Select
 NEXT,Next
 GO_TO_SELECT,Please select the item you want the pack to provide.
-ACTIVITY_DRAGON_BOAT_DESC,Customization Pack for 3rd Anniversary is available\nCome and customize your own gift pack!
+ACTIVITY_DRAGON_BOAT_DESC,Customize your own Gift Packs!
 ACTIVITY_ENERGY_SUMMON_DESC_0,"
 You will get the following benefits for purchasing SP. Energy Card:
 1. You will be able to perform more SP. Capsule draws.
@@ -3210,10 +3210,10 @@ ACT_RETURN_MISSION_BTN,Back to Yume Academy
 ACT_RETURN_GIFT_BTN,Special Girls Pack
 ACT_RETURN_COMMEND_BTN,Recommended Friends & Guilds
 ACT_RETURN_CARD_BTN,Monthly Card Discount
-ACTIVITY_ICE_SECRET_AWARDS_CD,Refresh
+ACTIVITY_ICE_SECRET_AWARDS_CD,Refresh in
 ACTIVITY_ICE_SECRET_MISSION_DAILY,Daily
 ACTIVITY_ICE_SECRET_MISSION_WEEKLY,Weekly
-ACTIVITY_ICE_SECRET_MISSION_CD,Refresh
+ACTIVITY_ICE_SECRET_MISSION_CD,Refresh in
 ACTIVITY_ICE_SECRET_MISSION_TIP,Tasks will no longer be refreshed
 ACTIVITY_ICE_SECRET_ROUNDS,Round {1}
 ACTIVITY_ICE_SECRET_MAXAWARD_TEXT,Ultimate Reward
@@ -3235,8 +3235,8 @@ EDIT_PICTURE_MEMBER,Current Wallpaper Girl
 EDIT_PICTURE_SHOWRANDOM,Randomly display from chosen
 EDIT_PICTURE_LIMIT,6 girls at most
 EDIT_PICTURE_SELECT,Please Choose
-ACTIVITY_PLAYER_RETURN_ALLTIME,Event Countdown:
-ACTIVITY_PLAYER_RETURN_RETURNTIME,Return Countdown:
+ACTIVITY_PLAYER_RETURN_ALLTIME,Time Remaining:
+ACTIVITY_PLAYER_RETURN_RETURNTIME,Time Remaining:
 ACTIVITY_PLAYER_RETURN_DOUBLEDAYS,{1} days left
 ACTIVITY_DISCOUNT_MONTHLY_TIPS,67%% OFF!
 ACTIVITY_PLAYER_RETURN_GOTOMAIN,Campaign
@@ -3289,7 +3289,7 @@ ACTIVITY_ENTRANCE_TEST_TILI_HELP,"1. You will obtain 20 Test Certificates when y
 ACTIVITY_ENTRANCE_TEST_TILI_FULL,You have enough Test Certificates
 ENTRANCE_TEST_UNEQUIP_TIP,Set incomplete
 ENTRANCE_TEST_NEW_HERO_TIPS,New Girl is here!
-LOCK_COUNT_DOWN,Lock Countdown:
+LOCK_COUNT_DOWN,Will be locked in:
 ARENA_ALL_SERVER_QUIZ_CHANGE,Change Bet
 ARENA_ALL_SERVER_QUIZ_SUCCESS,Bet changed successfully!
 ARENA_ALL_SERVER_GROUP_LIMIT,You can only have 2 identical Girls in 1 team!
@@ -3342,7 +3342,7 @@ SPIRIT_TASK_DESCRIPTION,Quest Description
 SPIRIT_PROBABILITY_AWARD,Chance to get
 SPIRIT_RECOMMEND_PARTNER,Recommended Girls
 SPIRIT_REMAINING_TIME,Time until finish:
-SPIRIT_REFRESH_TIME,Time until refresh:
+SPIRIT_REFRESH_TIME,Refresh in:
 SPIRIT_ACCELERATE,Speed Up
 SPIRIT_ONE_KEY_BATTLE,Auto-Fill
 SPIRIT_BEGIN,Start
@@ -3516,7 +3516,7 @@ HOUSE_TEXT_57,Unlocks once Comfort has reached {1}
 HOUSE_TEXT_58,Insufficient Furniture
 AWAKE_GIFTBAG_STAR,Liberate a Girl to [c][f55090]{1} Star[-][/c]：
 CHEST_ALl_AWARD,Reward Details
-COUNT_DOWN_BY_MAIL,"After countdown has ended, awards will be sent via Mail."
+COUNT_DOWN_BY_MAIL,Rewards will be sent via Mail after the countdown ends.
 ACTIVITY_SPORTS_HELP_DES_1,"Senpai, welcome to Yume Sports Meeting!\nYou will represent your House and challenge other players from other houses to win points, Medals and many other rewards!"
 TIANCHONG_ACTIVITY_SPORTS_HELP_DES_2,"During the Sports Meeting, you will represent your House to battle players from other Houses, achieve points and medals, and ultimately gain huge rewards."
 ACTIVITY_SPORTS_HELP_DES_3,Your House
@@ -3651,14 +3651,14 @@ MONTH_BEGINNING_GIFTBAG_10,Oct
 MONTH_BEGINNING_GIFTBAG_11,Nov
 MONTH_BEGINNING_GIFTBAG_12,Dec
 ACTIVITY_EXPLORE_CAMPUS_TEAM_SAVE,Use battle lineup from previous Level?
-LIMIT_TIME_CALL,Special Recruitment
-LIMIT_TIME_CALL_PARTNER,Acquire Skye
-LIMIT_TIME_CALL_AWARD,Reward
-LIMIT_TIME_CALL_TEXT,{1} Special Recruitment(s) made
-LIMIT_TIME_CALL_PARTNER_TEXT,Acquire Skye {1} Time(s)
+LIMIT_TIME_CALL,An Encounter\nThrough Time
+LIMIT_TIME_CALL_PARTNER,Acquire new Girl
+LIMIT_TIME_CALL_AWARD,Rewards
+LIMIT_TIME_CALL_TEXT,Consume {1} Fate-Binding Coins
+LIMIT_TIME_CALL_PARTNER_TEXT,Acquire Monica {1} time(s)
 GACHA_LIMIT_UP,Acquire rate of the Girls above increased
 GACHA_LIMIT_GACHA,Recruit {1}
-GACHA_LIMIT_EXCHANGE_NEXT,Exchange [c][9f5600]all rewards[-][/c] to unlock next page
+GACHA_LIMIT_EXCHANGE_NEXT,Exchange [c][ffda45]all rewards[-][/c] to unlock next page
 GACHA_LIMIT_EXCHANGE_1,I
 GACHA_LIMIT_EXCHANGE_2,II
 GACHA_LIMIT_EXCHANGE_3,III
@@ -3667,18 +3667,18 @@ GACHA_LIMIT_EXCHANGE_5,V
 GACHA_LIMIT_BOSS_LABEL_1,Fight Damage
 GACHA_LIMIT_BOSS_LABEL_2,Reward
 GACHA_LIMIT_CALL_NEW,New Girl
-GACHA_LIMIT_CALL_TIMES,Recruit [size=34]{1}[-]
+GACHA_LIMIT_CALL_TIMES,{1} Time(s)
 GACHA_LIMIT_CALL_TIPS,The rate to these Girls is boosted
 GACHA_LIMIT_CALL_FIVESTAR_TIPS,Guaranteed 5-star
-ACTIVITY_LIMIT_GACHA_HELP,"1. During the event, you can acquire 3-5 star girls by using Special Recruitment Coins. If you use 10 Recruitment Coins at a time, you will get a guaranteed 5-star Girl (including the ones who are graduated from 4-star Girls).|2. The rate to acquire Joan and Skye is doubled in Special Recruitment! (Apate unobtainable in Special Recruitment)|3. You will get some Special Recruitment Tickets for each Special Recruitment. Special Recruitment Tickets can be used to exchange rewards.|4. Method to acquire Special Recruitment Coins:|- Purchase with Gems (50 times max)|- Girls X Capsule Points|- Value Pack|- Special Gift Pack|- Special Skin Pack|-Count's Mystery Gift|-Skye's Trial|- Daily Mail|5. The unused Special Recruitment Coins will be automatically exchanged into Coins at the rate of 150K Coins each after the event is over. The Coins will be sent via Mail."
+ACTIVITY_LIMIT_GACHA_HELP,"1. During the event, you can get 3-5 star Girls (Diana not included) by consuming Fate-Binding Coins. If you use 10 Fate Binding Coins to do a 10x draw, you will get at least 1 5-star Girl (Including the 5-star Girls that have a 4-star version). You will get at least 1 5-star Monica in 50 consecutive draws!|2. You can get some Fate-Binding Records for each Fate-Binding Coin consumed. Fate-Binding Records can be used to exchange for items in the event store.|3. Once the event ends, the remaining Fate-Binding Coins and Fate-Binding Records will automatically be recycled into Coins at a rate of 150k per Fate-Binding Coin and 100k per Fate-Binding Record."
 ACTIVITY_LIMIT_CALL_BOSS_CHALLENGE,Challenge Limit:
 BLACK_FRIDAY_GIFTBAG_DISCOUNT,90%% OFF
 BLACK_FRIDAY_GIFTBAG_PRICE1,Original Price: $499.99
 BLACK_FRIDAY_GIFTBAG_PRICE2,Original Price: $499.99
-GACHA_LIMIT_CALL_TEXT_1,Guaranteed [c][d76120]{2}[-][/c] in [c][d76120]{1}[-][/c] more recruitments
+GACHA_LIMIT_CALL_TEXT_1,Get [c][fee19e]{2}[-][/c] in [c][fee19e]{1}[-][/c] draws
 GACHA_LIMIT_BOSS_HELP,"1. You can challenge twice a day.|2. After each battle, you will be awarded with Dews and Coins. The reward will be better as you deal more damage."
 GACHA_LIMIT_EXCHANGE_HELP,"1. During the event, you're able to exchange rewards with Special Recruitment Tickets.|2. After you exchange all the rewards in your current page, the next page will be unlocked.|3. Special Recruitment Tickets can be acquired via Special Recruitment, Recruitment Reward and Skye's Trial.|4. The unused Special Recruitment Tickets will be automatically exchanged into Coins at the rate of 10K Coins each after the event is over. The Coins will be sent via Mail."
-GACHA_LIMIT_EXCHANGE_TIPS,Exchange [c][9f5600]all rewards[-][/c] in previous page to unlock
+GACHA_LIMIT_EXCHANGE_TIPS,Exchange [c][ffda45]all rewards[-][/c] in previous page to unlock
 HOUSE_FLOOR_LOADING,Switching Floor...
 GACHA_LIMIT_EXCHANGE_UNLOCK,Locked
 BATTLE_PASS_BUY_LAST_DAY,{1} Days Left
@@ -3833,7 +3833,7 @@ OLD_SCHOOL_FLOOR_GET_AWARD_TEXT,Pass stages without adjusting your lineup on a l
 OLD_SCHOOL_SCORE_GET_AWARD_TEXT,Score Reward will need to be claimed manually
 ACTIVITY_LAFULI_DRIFT_POINT,Acquire {1} Coral Branches
 ACTIVITY_LAFULI_DRIFT_SPOILS,Loot Acquired
-ARTIFACT_OPEN_TIPS,Countdown
+ARTIFACT_OPEN_TIPS,Open in
 GROPUP_GIFTBAG_TIPS,Energetic AI Girl - Turin\nEnhancement Pack Now On Limited Offer!
 GIFTBAG_TURIN_PRICE1,Original Price: $199.99
 GIFTBAG_TURIN_PRICE2,Original Price: $299.99
@@ -3925,7 +3925,7 @@ TRAVEL_MAIN_TEXT33,Random Rewards
 TRAVEL_MAIN_TEXT34,Chests at or above Stage 4 provide 2 Random Rewards
 TRAVEL_MAIN_TEXT35,Chest Quality
 TRAVEL_MAIN_TEXT36,Claim Stage {1} Chest {2} Time(s)
-ACTIVITY_NEWYEAR_WELFARE_TEXT01,Event Countdown:
+ACTIVITY_NEWYEAR_WELFARE_TEXT01,Ends in:
 ACTIVITY_NEWYEAR_WELFARE_TEXT02,Gem
 ACTIVITY_NEWYEAR_WELFARE_TEXT03,Coin
 GACHA_LIMIT_PARTNER,up
@@ -4033,7 +4033,7 @@ ACTIVITY_NEW_SHIMO_MASK_TEXT04,Stage 4
 ACTIVITY_NEW_SHIMO_MASK_HELP,"1. During the event, you can complete the tasks by upgrading Crystal Golem.|2. Your rewards will be issued via Mail after you complete the tasks."
 ACTIVITY_NEW_SHIMO_MASK_TEXT05,Upgrade Crystal Golem and complete the tasks to win rewards via Mail during the event.
 ACTIVITY_NEW_SHIMO_MASK_TEXT06,{1}/{2}
-FUNC_OPEN_STAGE,Pass Stage {1} in campaign to unlock
+FUNC_OPEN_STAGE,Pass Stage {1} in Campaign to unlock
 ACTIVITY_VALENTINE_PHOTO_CLOSE,Tap the space outside the album to close it.
 ACTIVITY_VALENTINE_LOCK_TIPS2,The story is locked
 ACTIVITY_VALENTINE_PLOT_LOCK2,Unlock in: [c][1e7bb1]{1}[-][/c]
@@ -4208,7 +4208,7 @@ GUILD_BOSS_CANT_FIGHT,You can no longer challenge this Boss as you have already 
 GUILD_COMPETITION_SIMULATE_DAMAGE,Demo Battle Damage:
 ACTIVITY_NEWBEE_LESSON_HELP,"1. The event will run for 14 days during which players can participate. Complete daily tasks and cumulative tasks.|2. There are 6 Study Program tasks that can be completed to obtain Study Certificates. Daily Program Study tasks will be refreshed at 0:00 (UTC/GMT 0), unclaimed rewards will not remain once it has been refreshed.|3. Cumulative tasks and progress will not be refreshed daily and each section of rewards can only be obtained once. VIP experience obtained before the start of the event will be accumulated into the progress.|4. Study Certificates can be used to participate in the limited event “Program Study”."
 ACTIVITY_NEWBEE_LESSON_TITEL,Daily Program
-ACTIVITY_NEWBEE_LESSON_TEXT01,Refreshes in:
+ACTIVITY_NEWBEE_LESSON_TEXT01,Refresh in:
 ACTIVITY_NEWBEE_LESSON_TEXT02,Ends in:
 ACTIVITY_NEWBEE_LESSON_TEXT03,Each section of rewards can only be obtained once
 ACTIVITY_COURSE_LEARNING_HELP,"1. The event will run for 14 days during which players can participate, advance in their study progress and obtain rich rewards.|2. Each study will consume 10 Study Certificate, increasing your progress of your current round at random, and randomly provides 1 reward.|3. Once the progress reaches 100%%, completing the current round, 1 customized reward can be obtained and you can enter the next round.|4. Once the event ends, Study Certificates remaining will automatically be exchanged into Coins at a ratio of 1:15000 and sent via Mail."
@@ -4490,7 +4490,7 @@ ACTIVITY_RESIDENT_RETURN_RECOMMENT2,We've listed some suitable friends and Guild
 ACTIVITY_ENTRANCE_TEST_SHOW_WINDOW_HELP,"1. You can spend Coins during the event to bet on the players.|2. The red player will be the attacker and the blue as the defender. The fight can last over 15 rounds. Once the player you bet on wins the battle, you will receive rewards.|3. There are 3 betting levels in the bet. The more Coins you spend on the bet, the better the reward you will receive after winning the bet.|4. The bet is updated daily at 00:00 (UTC / GMT 0) and the match result of the previous day will also be announced at the same time. The rewards will be sent by Mail."
 REFRESH_LIMIT_TIME,Please refresh less frequently
 ENTRANCE_TEST_BET_BTN,Bet
-ENTRANCE_TEST_GUESS_COUNT_DOWN,Remaining Time:
+ENTRANCE_TEST_GUESS_COUNT_DOWN,Countdown:
 ACTIVITY_3BIRTHDAY_TEXT01,Double Crit [c][85eb9d]Rate[-][/c]
 ACTIVITY_3BIRTHDAY_TEXT02,Crit [c][fb6464]Reward[-][/c] Boost
 ACTIVITY_3BIRTHDAY_TEXT03,"Once the number of Fine liquors you’ve given out has reached a certain amount, additional rewards can be obtained."
@@ -4674,7 +4674,7 @@ GUILD_OPEN_TYPE_LABEL2,Verification
 GUILD_OPWER_LIMIT_LABEL2,Power Limit
 ACTIVITY_BEACH_ISLAND_HELP,"1. Complete the tasks to get rewards during the event, the tasks will be refreshed weekly.|2. You need to fight with default Girls provided in the event. You will get rewards for passing each stage.|3. Stars can be obtained by completing stage challenges. Reach target progress to obtain additional rewards.|4. Challenge objectives for 1 stage doesn't need to be completed in 1 single battle, you can complete them seperately. During the event, you don't have a challenge limit for the stages.|5. There're 10 stages for the event, Stage 6 - Stage 10 will be unlocked in the 2nd week of the event."
 ACTIVITY_BEACH_ISLAND_TEXT01,Weekly Tasks
-ACTIVITY_BEACH_ISLAND_TEXT02,Refresh
+ACTIVITY_BEACH_ISLAND_TEXT02,Refresh in:
 ACTIVITY_BEACH_ISLAND_TEXT03,Need to pass the previous stage first
 ACTIVITY_BEACH_ISLAND_TEXT04,Stage {1}
 ACTIVITY_BEACH_ISLAND_TEXT05,Enemy
@@ -4737,7 +4737,7 @@ TRAVEL_NEW_TEXT04,Accept Gem Quest Giver's offer
 TRAVEL_NEW_TEXT05,Purchase the Chests in Stores
 TRAVEL_NEW_TEXT06,Fight the enemies you meet
 TRAVEL_NEW_TEXT07,Special Requirements
-TRAVEL_NEW_TEXT08,"When no Chest slots are available, Gems can be used to open your first Chest to continue Exploring."
+TRAVEL_NEW_TEXT08,"When no Chest Slot is available, Gems can be used to open your Chest of the lowest level to continue Exploring"
 TRAVEL_NEW_TEXT09,Stop the Explore if you lose in a battle
 TRAVEL_NEW_TEXT10,Auto Exploring...
 TRAVEL_NEW_TEXT11,Stop
@@ -4760,11 +4760,11 @@ DRESS_ITEM_UP_WINDOW_3,No shard is needed
 ACTIVITY_POPULARITY_VOTE_SURVEYTEXT01,Event details
 ACTIVITY_POPULARITY_VOTE_SURVEYTEXT02,Vote
 ACTIVITY_POPULARITY_VOTE_SURVEYTEXT03,Champion
-ACTIVITY_POPULARITY_VOTE_SURVEYTEXT04,"After 19 days of voting, one Girl has finally prevailed as the winner of Miss Yume 2021 and that is Nephilim! \nWe will be designing an exclusive skin for her and have so far created 4 drafts. With this survey, we would like you to decide which skin you think suits her the most. Vote now to decide the final outcome!"
-ACTIVITY_POPULARITY_VOTE_SURVEYTEXT05,A. Hail to King
-ACTIVITY_POPULARITY_VOTE_SURVEYTEXT06,B. Miss Yume
-ACTIVITY_POPULARITY_VOTE_SURVEYTEXT07,C. Heaven's Light
-ACTIVITY_POPULARITY_VOTE_SURVEYTEXT08,D. Starlight Idol
+ACTIVITY_POPULARITY_VOTE_SURVEYTEXT04,"In the event Miss Yume Skin Election, “Heaven’s Light” skin has been decided as the new skin for our “Miss Yume” candidate--- Nephilim.\nWe are very excited to show you the progress we made on this skin. Furthermore, we've prepared 4 color design plans for the skin. We hope you can vote and decide which color design plan would be best suited for this skin!"
+ACTIVITY_POPULARITY_VOTE_SURVEYTEXT05,Plan A
+ACTIVITY_POPULARITY_VOTE_SURVEYTEXT06,Plan B
+ACTIVITY_POPULARITY_VOTE_SURVEYTEXT07,Plan C
+ACTIVITY_POPULARITY_VOTE_SURVEYTEXT08,Plan D
 ACTIVITY_POPULARITY_VOTE_SURVEYTEXT09,Confirm
 DRESS_CHOOSE_SHOW_WINDOW_1,Selected Outfit Shards
 DRESS_CHOOSE_SHOW_WINDOW_2,Unselected Outfit Shards
@@ -4775,12 +4775,12 @@ TAKE_OUT_NUM,Take out number:
 DRESS_CHOOSE_FRAGMENT_WINDOW_3,Outfit Shards
 DRESS_CHOOSE_FRAGMENT_WINDOW_4,Shards selection completed
 DRESS_CHOOSE_FRAGMENT_WINDOW_5,Limit Reached!
-ACTIVITY_POPULARITY_VOTE_SURVEYTEXT13,Miss Yume Skin Voting
+ACTIVITY_POPULARITY_VOTE_SURVEYTEXT13,Miss Yume Skin Election
 DRESS_SUMMON_LABEL_2,Tap to check obtainable Outfit
 DRESS_SUMMON_LABEL_4,Orange Outfit piece in [c][e96516]{1}[-][/c] Draw(s)
 DRESS_SUMMON_LABEL_1,Limited Free Chance: {1}
 DRESS_SUMMON_LABEL_3,The rate to get [Beach Freshness] set during the event
-ACTIVITY_POPULARITY_VOTE_SURVEYTEXT10,Miss Yume\nSkin Voting
+ACTIVITY_POPULARITY_VOTE_SURVEYTEXT10,Miss Yume\nSkin Election
 ACTIVITY_POPULARITY_VOTE_SURVEYTEXT11,"Senpai, thank you for your support! Hope you enjoy a wonderful time on campus!"
 ONE_KEY_UPLEVEL_TITLE,Quick Upgrade
 ONE_KEY_UPLEVEL_HINT,Please confirm you want to use want to use the corresponding resources to upgrade to the highest level the character can reach?
@@ -4870,7 +4870,7 @@ ACTIVITY_ENTRANCE_TEST_RANK_WINDOW_2,Top {1} players will advance to the next Di
 ACTIVITY_ENTRANCE_TEST_RANK_WINDOW_3,You have reached the highest Division
 ACTIVITY_ENTRANCE_TEST_RANK_WINDOW_4,Division will be decided in:
 ACTIVITY_ENTRANCE_TEST_RANK_WINDOW_5,Event ends in:
-ACTIVITY_ENTRANCE_TEST_RANK_WINDOW_6,Results will be calculated in:
+ACTIVITY_ENTRANCE_TEST_RANK_WINDOW_6,Reward calculation in:
 PUB_MISSION_AUTO_HELP2,"1. The ""Claim in Bulk"" feature helps you claim finished Internship Quests easier.|2. You can choose the star rank of the Internship Quests you would like to claim rewards from. Multiple star ranks can be selected at the same time. After the selection, completed Internship Quests of the corresponding star ranks will appear.|3. If a 6-Star or 7-Star Internship Quest is included in the Internship Quests you would like to claim, a window will pop up asking for your confirmation."
 ENTRANCE_TEST_LEVEL_UP_NEED,Required\nRanking
 WARMUP_ARENA_REACH_RANK_HELP,Benefits for Division {1}:|{2}|Benefits for Division {3}:|{4}|Benefits for Division {5}:|{6}
@@ -4879,7 +4879,7 @@ WARMUP_ARENA_TASK_INFO_1,New Girl Missions
 WARMUP_ARENA_TASK_INFO_2,Diana - Follower of Stars
 WARMUP_ARENA_TASK_INFO_3,Mission Rewards
 WARMUP_ARENA_TASK_INFO_4,Extra Rewards
-WARMUP_ARENA_TASK_INFO_5,Unlocked after completing New Girl Missions
+WARMUP_ARENA_TASK_INFO_5,Unlock after completing star-marked missions
 ACTIVITY_ENTRANCE_TEST_RECORD_TIPS,Cannot start the battle because your opponent is in a different Division!
 WARMUP_ARENA_TASK_HELP,"1. Complete New Girl Missions for rewards.|2. Extra rewards can be claimed after purchasing the Admission Prep Package.|3. After completing the star-marked missions, a new episode of the new girl's story will be unlocked. You can learn more about her, and watch her interact with other girls in Yume Academy."
 ENTRANCE_TEST_NO_FIGHT_PARTNERS,You haven't set up an Offense Lineup yet. Would you like to use the same team as your Defense Lineup for your Offense Lineup?
@@ -4897,3 +4897,15 @@ ENTRANCE_TEST_PETCORE_LOCK,Reach Division S to unlock Servant Ulticore!
 PUB_MISSION_AUTO_TEXT5,Choose All/Cancel
 LIMIT_ACT_LEFT_TIME,[c][394046]Expires in [-][/c]{1}
 WARMUP_ARENA_TASK_INFO_6,Admission\nPrep
+ACTIVITY_ENCOUNTER_STORY_HELP,"1. You need to fight with default Girls provided in the event. You will get rewards for passing each stage.|2. You can use ""Embers of Memory"" to unlock the Girl's story.|3. Stars can be obtained by completing stage challenges. Reach target progress to obtain additional rewards.|4. Challenge objectives for 1 stage don't need to be completed in 1 single battle, you can complete them separately. During the event, you don't have a challenge limit for the stages."
+ACTIVITY_ENCOUNTER_STORY_TEXT01,Confirm to use {2} * {1} to unlock the story?
+ACTIVITY_ENCOUNTER_STORY_TEXT02,Stage Challenge
+ACTIVITY_ENCOUNTER_STORY_TEXT03,Stage {1}
+ACTIVITY_ENCOUNTER_STORY_TEXT04,Unlock in
+ACCOUNT_REGISTER_SUC,Account Registered
+ACTIVITY_LIMIT_GACHA_TEXT01,Gift Pack
+ACTIVITY_LIMIT_GACHA_TEXT02,Rewards
+ACTIVITY_LIMIT_GACHA_TEXT03,Store
+ITEM_RECYCLE_TIPS,Please exchange your rewards before the event ends!
+SERIES_COUNT,Chapter {1}
+ACTIVITY_ENCOUNTER_STORY_TEXT05,Stage\nChallenge

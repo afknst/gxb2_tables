@@ -713,3 +713,6 @@ guild_dininghall_upgrade_window,GuildDiningHallUpgradeWindow,guild_dininghall_up
 academy_assessment_battle_set_window,AcademyAssessmentBattleSetWindow,academy_assessment_battle_set_window,ACADEMY_ASSESSMENT_BATTLE_SET_WINDOW,4,-1,-1,2,,2,2,-1,1,,,,742,-1,,,
 community_activity_window,CommunityActivityWindow,community_activity_window,COMMUNITY_ACTIVITY_WINDOW,4,-1,-1,2,,2,2,-1,1,,,,743,-1,,,
 community_activity_detail_window,CommunityActivityDetailWindow,community_activity_detail_window,COMMUNITY_ACTIVITY_DETAIL_WINDOW,4,-1,-1,2,,2,2,-1,1,,,,744,-1,,,
+activity_enconter_story_fight_window,ActivityEnconterStoryFightWindow,activity_enconter_story_fight_window,ACTIVITY_ENCONTER_STORY_FIGHT_WINDOW,4,-1,-1,2,,,2,-1,1,,,,745,-1,,,
+activity_enconter_story_explain_window,ActivityEnconterStoryExplainWindow,activity_enconter_story_explain_window,ACTIVITY_ENCONTER_STORY_EXPLAIN_WINDOW,4,-1,-1,2,,2,2,-1,1,,,,746,-1,,,
+activity_limit_gacha_award_window,ActivityLimitGachaAwardWindow,activity_limit_gacha_award_window,ACTIVITY_LIMIT_GACHA_AWARD_WINDOW,4,-1,-1,2,,2,2,-2,1,,,,747,-1,,main,

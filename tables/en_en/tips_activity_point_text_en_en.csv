@@ -1,8 +1,8 @@
 id,title,content
-1,Enroll Exam,Get {1} Points
-2,Slot Points Event,Get {1} Points
-3,Girls X Capsule Points,Get {1} Points
+1,Enroll Exam,{1} Points reached (Round {2})
+2,Slot Points Event,{1} Points reached (Round {2})
+3,Girls X Capsule Points,{1} Points reached (Round {2})
 4,Enroll Bonus,Get {2} Points for House {1}
-5,Monthly Events- Intern Event,{1}-star internship quest completed
-6,Monthly Events- Arena Ace,|Acquire {1} Points in Junior Varsity|Acquire {1} Points in Varsity
-7,Monthly Events- Graduate & Awake,Graduate {1}-star Girls Complete|Awake {1}-star Girls Complete
+5,Intern Event,{1}-star internship quest completed
+6,Arena Ace,|Acquire {1} Points in Junior Varsity|Acquire {1} Points in Varsity
+7,Graduate & Awake,Graduate {1}-star Girls Complete|Awake {1}-star Girls Complete

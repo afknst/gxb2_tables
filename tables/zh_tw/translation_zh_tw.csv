@@ -2486,7 +2486,7 @@ ACTIVITY_SCRATCH_CARD_ONE,刮開1張
 ACTIVITY_SCRATCH_CARD_TEN,刮開10張
 ACTIVITY_SCRATCH_CARD_BUY_TITLE,購買戰姬刮刮卡
 ACTIVITY_SCRATCH_CARD_LIMIT,購買次數不足
-ACTIVITY_SCRATCH_CARD_HELP,1.刮開刮刮卡可獲得隨機5種3星戰姬碎片（每種碎片獲得機率相同）|2.活動期間，如果刮開刮刮卡顯示的碎片形成以下組合，除了刮卡獎勵外，陸遜還會送你額外的獎勵喔：| - 包含2個相同學院的戰姬：額外獲得4星戰姬碎片*5| - 包含3個相同學院的戰姬：額外獲得4星戰姬碎片*30| - 包含4個相同學院的戰姬：額外獲得5星戰姬碎片*50| - 包含5個相同學院的戰姬：額外獲得精英徽章*1| - 包含5個不同學院的戰姬：額外獲得限定十連券*1|3.活動結束後，尚未使用的刮刮卡依然可以再背包中使用，但只能獲得3星戰姬碎片獎勵，無法獲得額外獎勵|4.點擊活動頁面右上角紀錄按鈕可查看最近的刮卡紀錄|5.戰姬刮刮卡的獲得方式：| - 透過每日信件獲得| - 透過超值禮包獲得| - 透過特惠禮包獲得| - 透過造型禮包獲得| - 透過拉芙麗漂流記獲得| - 透過戰姬專屬任務獲得| - 活動介面使用鑽石購買(上限1000次)|
+ACTIVITY_SCRATCH_CARD_HELP,1.刮開刮刮卡可獲得隨機5種3星戰姬碎片（每種碎片獲得機率相同）|2.活動期間，如果刮開刮刮卡顯示的碎片形成以下組合，除了刮卡獎勵外，陸遜還會送你額外的獎勵喔：| - 包含2個相同學院的戰姬：額外獲得4星戰姬碎片*5| - 包含3個相同學院的戰姬：額外獲得4星戰姬碎片*30| - 包含4個相同學院的戰姬：額外獲得5星戰姬碎片*50| - 包含5個相同學院的戰姬：額外獲得精英徽章*1| - 包含5個不同學院的戰姬：額外獲得限定十連券*1|3.活動結束後，尚未使用的刮刮卡依然可以在背包中使用，但只能獲得3星戰姬碎片獎勵，無法獲得額外獎勵|4.點擊活動頁面右上角紀錄按鈕可查看最近的刮卡紀錄|5.戰姬刮刮卡的獲得方式：| - 透過每日信件獲得| - 透過超值禮包獲得| - 透過特惠禮包獲得| - 透過造型禮包獲得| - 透過拉芙麗漂流記獲得| - 透過戰姬專屬任務獲得| - 活動介面使用鑽石購買(上限1000次)|
 ACTIVITY_SCRATCH_RECORD,刮卡記錄
 HOUSE_TEXT_54,加入社團可開啟社團聊天
 UNFOLD_SKIN,展開列表
@@ -3021,7 +3021,7 @@ ACTIVITY_DRAGON_BOAT_AWARD_SELECT_WINDOW,私人定製禮包
 ACTIVITY_DRAGON_BOAT_AWARD_SELECT_WINDOW_SECOND_TITLE,請選擇物品
 NEXT,下一個
 GO_TO_SELECT,請點擊前往自選按鈕選擇物品哦
-ACTIVITY_DRAGON_BOAT_DESC,3週年定製禮包限時發售\n快來定製你的私人禮包吧！
+ACTIVITY_DRAGON_BOAT_DESC,伯爵的神秘禮物限時發售\n快來定製你的私人禮包吧！
 ACTIVITY_ENERGY_SUMMON_DESC_0,"
 購買能量卡，可獲得以下福利：
 1.解除限定能量召喚次數限制
@@ -3652,14 +3652,14 @@ MONTH_BEGINNING_GIFTBAG_10,十月
 MONTH_BEGINNING_GIFTBAG_11,十一月
 MONTH_BEGINNING_GIFTBAG_12,十二月
 ACTIVITY_EXPLORE_CAMPUS_TEAM_SAVE,是否複製前一層的出戰陣容？
-LIMIT_TIME_CALL,特殊招募
-LIMIT_TIME_CALL_PARTNER,稀風獲取
-LIMIT_TIME_CALL_AWARD,招募獎勵
-LIMIT_TIME_CALL_TEXT,累計特殊招募 {1} 次
-LIMIT_TIME_CALL_PARTNER_TEXT,累計獲得稀風 {1} 次
+LIMIT_TIME_CALL,逆轉時空\n的相遇
+LIMIT_TIME_CALL_PARTNER,戰姬獲取
+LIMIT_TIME_CALL_AWARD,累計獎勵
+LIMIT_TIME_CALL_TEXT,累計消耗結緣幣 {1} 個
+LIMIT_TIME_CALL_PARTNER_TEXT,累計獲得莫妮卡 {1} 次
 GACHA_LIMIT_UP,上述戰姬獲得機率 大幅提升
 GACHA_LIMIT_GACHA,招募{1}次
-GACHA_LIMIT_EXCHANGE_NEXT,兌換過本頁[c][9f5600]所有獎勵[-][/c]後解鎖下一頁
+GACHA_LIMIT_EXCHANGE_NEXT,兌換過本頁[c][ffda45]所有獎勵[-][/c]後解鎖下一頁
 GACHA_LIMIT_EXCHANGE_1,I
 GACHA_LIMIT_EXCHANGE_2,II
 GACHA_LIMIT_EXCHANGE_3,III
@@ -3668,18 +3668,18 @@ GACHA_LIMIT_EXCHANGE_5,V
 GACHA_LIMIT_BOSS_LABEL_1,單次傷害
 GACHA_LIMIT_BOSS_LABEL_2,獎勵
 GACHA_LIMIT_CALL_NEW,新戰姬
-GACHA_LIMIT_CALL_TIMES,招募[size=34]{1}[-]次
+GACHA_LIMIT_CALL_TIMES,{1}次
 GACHA_LIMIT_CALL_TIPS,上述武將獲取機率大幅提升
 GACHA_LIMIT_CALL_FIVESTAR_TIPS,必得5星
-ACTIVITY_LIMIT_GACHA_HELP,1.活動期間消耗特殊招募幣可抽取高品質戰姬（3星、4星、5星），且一次性消耗10枚特殊招募幣進行招募10次將必定獲得5星戰姬（包含升學獲得的5星戰姬）。|2.特殊招募中獲得稀風、劉備的機率翻倍！（特殊招募中無法獲得阿帕忒）|3.每次招募將額外獲得一定數量的「特殊兌獎券」，可用於兌換獎勵。|4.「特殊招募幣」的獲得方式：| - 使用鑽石購買(上限50次)| - 扭蛋迎新| - 超值禮包獲得| - 特惠禮包獲得| - 造型禮包獲得| - 伯爵的神祕禮物| - 稀風的試煉| - 每日信件獲得|5.活動結束後，未使用的「特殊招募幣」將會自動兌換成金幣，每個價格為150k，透過信件發放。
+ACTIVITY_LIMIT_GACHA_HELP,1.活動期間消耗結緣幣可抽取高品質戰姬（3星、4星、5星，不包括新戰姬戴安娜），且一次性消耗10枚結緣幣進行扭蛋10次將必定獲得5星戰姬（包含升學獲得的5星戰姬），50次內必定獲得新戰姬莫妮卡！|2.每次抽取將額外獲得一定數量的「結緣的證明」，可用於在商店中兌換獎勵。|3.活動結束後，未使用的「結緣幣」將會自動兌換成150k金幣，未使用的「結緣的證明」將會自動兌換成10k金幣，透過信件發放。
 ACTIVITY_LIMIT_CALL_BOSS_CHALLENGE,挑戰次數：
 BLACK_FRIDAY_GIFTBAG_DISCOUNT,90%% off
 BLACK_FRIDAY_GIFTBAG_PRICE1,原價: NT$16900
 BLACK_FRIDAY_GIFTBAG_PRICE2,原價: NT$32900
-GACHA_LIMIT_CALL_TEXT_1,再招募 [c][d76120]{1}[-][/c] 次必出戰姬 [c][d76120]{2}[-][/c]
+GACHA_LIMIT_CALL_TEXT_1,[c][fee19e]{1}[-][/c] 次内必定獲得 [c][fee19e]{2}[-][/c]
 GACHA_LIMIT_BOSS_HELP,1.活動期間每日有2次挑戰機會。|2.每次戰鬥結束後，根據造成的傷害獲得獎勵「露水」以及金幣。造成的傷害越高，獲得的獎勵越豐厚。
 GACHA_LIMIT_EXCHANGE_HELP,1.活動期間使用「特殊兌獎券」可以兌換豐厚獎勵。|2.兌換過當前頁面所有獎勵後可解鎖下一頁。|3.「特殊兌獎券」可透過特殊招募、招募獎勵、稀風的試煉獲得。|4.活動結束後，未使用的「特殊兌獎券」將會自動兌換成金幣，每個價格為10k，透過信件發放。
-GACHA_LIMIT_EXCHANGE_TIPS,兌換過上一頁[c][9f5600]所有獎勵[-][/c]後解鎖本頁
+GACHA_LIMIT_EXCHANGE_TIPS,兌換過上一頁[c][ffda45]所有獎勵[-][/c]後解鎖本頁
 HOUSE_FLOOR_LOADING,樓層切換中…
 GACHA_LIMIT_EXCHANGE_UNLOCK,當前頁面未解鎖
 BATTLE_PASS_BUY_LAST_DAY,僅剩{1}天
@@ -4034,7 +4034,7 @@ ACTIVITY_NEW_SHIMO_MASK_TEXT04,四階
 ACTIVITY_NEW_SHIMO_MASK_HELP,1.活動期間，學長提升水晶魔像的實力，可達成相應的任務。|2.任務達成後，系統會透過信件為學長發送任務獎勵。
 ACTIVITY_NEW_SHIMO_MASK_TEXT05,活動期間，透過提升水晶魔像實力，達成相應任務，獲取豐厚獎勵，獎勵透過信件發送。
 ACTIVITY_NEW_SHIMO_MASK_TEXT06,{1}/{2}
-FUNC_OPEN_STAGE,主綫關卡{1}通過開啓
+FUNC_OPEN_STAGE,主線關卡{1}通過開啟
 ACTIVITY_VALENTINE_PHOTO_CLOSE,點擊相冊外區域即可關閉相冊
 ACTIVITY_VALENTINE_LOCK_TIPS2,該劇情未解鎖
 ACTIVITY_VALENTINE_PLOT_LOCK2,距劇情開啟：[c][1e7bb1]{1}[-][/c]
@@ -4736,7 +4736,7 @@ TRAVEL_NEW_TEXT04,遇到需要鑽石的求助者，選擇前往
 TRAVEL_NEW_TEXT05,遇到集市，選擇前往
 TRAVEL_NEW_TEXT06,遇到敵人，選擇前往
 TRAVEL_NEW_TEXT07,特殊需求:
-TRAVEL_NEW_TEXT08,沒有剩餘寶箱槽位時，允許消耗鑽石打開首個寶箱並繼續探險
+TRAVEL_NEW_TEXT08,沒有剩餘寶箱槽位時，消耗鑽石打開當前最低級寶箱並繼續探險
 TRAVEL_NEW_TEXT09,挑戰敵人失敗後，停止自動探險
 TRAVEL_NEW_TEXT10,自動探險中…
 TRAVEL_NEW_TEXT11,停止
@@ -4759,11 +4759,11 @@ DRESS_ITEM_UP_WINDOW_3,不需要碎片
 ACTIVITY_POPULARITY_VOTE_SURVEYTEXT01,活動說明
 ACTIVITY_POPULARITY_VOTE_SURVEYTEXT02,參與投票
 ACTIVITY_POPULARITY_VOTE_SURVEYTEXT03,冠軍戰姬
-ACTIVITY_POPULARITY_VOTE_SURVEYTEXT04,歷經19天的漫長投票，78名戰姬中獲得人氣戰姬總選拔活動冠軍的戰姬是路西菲爾！\n我們將為路西菲爾設計一個冠軍造型，現在已經完成了4份草圖，後續將會選擇這次問卷調查投票數最多的草圖作為造型的主題，請學長獻上您寶貴的一票來決定後續的方向！
-ACTIVITY_POPULARITY_VOTE_SURVEYTEXT05,A.新王加冕
-ACTIVITY_POPULARITY_VOTE_SURVEYTEXT06,B.選美冠軍
-ACTIVITY_POPULARITY_VOTE_SURVEYTEXT07,C.聖光天使
-ACTIVITY_POPULARITY_VOTE_SURVEYTEXT08,D.閃耀舞台
+ACTIVITY_POPULARITY_VOTE_SURVEYTEXT04,在上一輪問卷調查中，「聖光天使」造型方案獲得了更多的支持。\n我們為造型設計了4份配色方案，也豐富了一些細節設計，後續將根據這次問卷的結果確定配色方案。請學長獻上您寶貴的一票來決定後續的方向！
+ACTIVITY_POPULARITY_VOTE_SURVEYTEXT05,A.配色方案1
+ACTIVITY_POPULARITY_VOTE_SURVEYTEXT06,B.配色方案2
+ACTIVITY_POPULARITY_VOTE_SURVEYTEXT07,C.配色方案3
+ACTIVITY_POPULARITY_VOTE_SURVEYTEXT08,D.配色方案4
 ACTIVITY_POPULARITY_VOTE_SURVEYTEXT09,確認投票
 DRESS_CHOOSE_SHOW_WINDOW_1,已選擇的裝扮碎片
 DRESS_CHOOSE_SHOW_WINDOW_2,暫未選擇碎片
@@ -4896,3 +4896,15 @@ ENTRANCE_TEST_PETCORE_LOCK,達到S檔後，即可解鎖使魔核心！
 PUB_MISSION_AUTO_TEXT5,全選/取消
 LIMIT_ACT_LEFT_TIME,[c][394046]剩餘 [-][/c]{1}
 WARMUP_ARENA_TASK_INFO_6,查看福袋
+ACTIVITY_ENCOUNTER_STORY_HELP,1.活動期間，學長可以使用預設的戰姬進行戰鬥，通過關卡可獲得一次性通關獎勵。|2.使用「溫暖的記憶」可解鎖戰姬故事。|3.完成關卡挑戰目標可獲得星星，累計達到一定數量可領取獎勵。|4.挑戰目標可分多次完成，關卡沒有挑戰次數限制，學長可重複挑戰關卡進行嘗試。
+ACTIVITY_ENCOUNTER_STORY_TEXT01,是否消耗{1}個{2}解鎖故事？
+ACTIVITY_ENCOUNTER_STORY_TEXT02,關卡挑戰
+ACTIVITY_ENCOUNTER_STORY_TEXT03,第{1}關
+ACTIVITY_ENCOUNTER_STORY_TEXT04,後解鎖
+ACCOUNT_REGISTER_SUC,帳號註冊成功
+ACTIVITY_LIMIT_GACHA_TEXT01,結緣禮包
+ACTIVITY_LIMIT_GACHA_TEXT02,相遇之禮
+ACTIVITY_LIMIT_GACHA_TEXT03,兌換商店
+ITEM_RECYCLE_TIPS,活動結束後道具將會回收，請及時兌換！
+SERIES_COUNT,第{1}篇
+ACTIVITY_ENCOUNTER_STORY_TEXT05,關卡挑戰
