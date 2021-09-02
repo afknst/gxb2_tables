@@ -291,6 +291,12 @@ def guide(_luvly, _helper, _M=1000):
     print(f"\tAVERAGE PEARL: {_mp:.2f} ± {_dmp:.2f}\n")
 
     _T = k2t(_K)
+    _d = _helper(_I, _J, _K, _X)
+    print(f"Helper: {_d}.")
+    if _d == 7:
+        print("Please wait for recycle.")
+        fin()
+
     if _I < 1 and _J < 1:
         fin()
     if _J < 1:
@@ -298,11 +304,6 @@ def guide(_luvly, _helper, _M=1000):
         _d, _c = input_rolled(_T)
         _luvly.rolled(_d, _c)
     else:
-        _d = _helper(_I, _J, _K, _X)
-        print(f"Helper: {_d}.")
-        if _d == 7:
-            print("Please wait for recycle.")
-            fin()
         if _d != 0:
             _check = inputter(f"Asigned {_d}? (Y/N) ")
             if _check != "Y":
