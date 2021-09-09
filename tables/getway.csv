@@ -1,6 +1,6 @@
 id,name,lv_limit,function_id,stage,go_window,go_params,is_close,close_win_name,lv_hide,need_extra_params
 1,-1,0,,,item_purchase_window,exchange_id:1,1,,,
-2,-1,0,1,,market_window,shopType:7,1,,,
+2,-1,0,1,,market_window,shopType:7,1,dress_item_up_window,,
 3,-1,28,17,,tavern_window,,1,,,
 4,-1,14,11,,gamble_window,,1,,,
 5,-1,18,14,,arena_window,,1,,,
@@ -153,3 +153,8 @@ id,name,lv_limit,function_id,stage,go_window,go_params,is_close,close_win_name,l
 154,-1,0,,,activity_window,"select:17,activity_type2:1",1,,,
 155,-1,0,,,activity_window,"select:239,activity_type2:1",1,,,
 156,-1,0,,,activity_window,"select:240,large_series:1",1,,,
+157,-1,0,46,,dress_summon_window,,1,,,
+158,-1,0,,,activity_window,"select:242,activity_type2:1",1,,,
+159,-1,0,,,activity_window,"select:144,activity_type2:1",1,,,
+160,-1,0,,,activity_window,"select:184,activity_type2:1",1,,,
+161,-1,0,,,activity_window,"select:235,activity_type2:1",1,,,

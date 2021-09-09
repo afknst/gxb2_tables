@@ -1,4 +1,117 @@
 id,desc
-1000101,1级特殊技能描述可能很长可能很短，不确定，而且还要显示在升级界面里，多语言说不定可能会爆框，所以升级界面的装扮属性栏要可以上下滑动
-1000102,2级特殊技能描述可能很长可能很短，不确定，而且还要显示在升级界面里，多语言说不定可能会爆框，所以升级界面的装扮属性栏要可以上下滑动
-1000103,3级特殊技能描述可能很长可能很短，不确定，而且还要显示在升级界面里，多语言说不定可能会爆框，所以升级界面的装扮属性栏要可以上下滑动
+1000101,"Courage, Charisma, and Knowledge increased by 1 for every 20 draws in Outfit Store and Outfit Sale (Can be triggered at most 25 times)"
+1000102,"Courage, Charisma, and Knowledge increased by 1 for every 20 draws in Outfit Store and Outfit Sale (Can be triggered at most 30 times)"
+1000103,"Courage, Charisma, and Knowledge increased by 1 for every 20 draws in Outfit Store and Outfit Sale (Can be triggered at most 40 times)"
+1000104,"Courage, Charisma, and Knowledge increased by 1 for every 20 draws in Outfit Store and Outfit Sale (Can be triggered at most 55 times)"
+1000105,"Courage, Charisma, and Knowledge increased by 1 for every 20 draws in Outfit Store and Outfit Sale (Can be triggered at most 75 times)"
+1000106,"Courage, Charisma, and Knowledge increased by 1 for every 20 draws in Outfit Store and Outfit Sale (Can be triggered at most 100 times)"
+1000201,Crystal Chisels required when upgrading or exchanging Crystals decreased by 1%
+1000202,Crystal Chisels required when upgrading or exchanging Crystals decreased by 2%
+1000203,Crystal Chisels required when upgrading or exchanging Crystals decreased by 3%
+1000204,Crystal Chisels required when upgrading or exchanging Crystals decreased by 4%
+1000205,Crystal Chisels required when upgrading or exchanging Crystals decreased by 5%
+1000206,Crystal Chisels required when upgrading or exchanging Crystals decreased by 7%
+1000207,Crystal Chisels required when upgrading or exchanging Crystals decreased by 0.2%
+1000208,Crystal Chisels required when upgrading or exchanging Crystals decreased by 0.2%
+1000209,Crystal Chisels required when upgrading or exchanging Crystals decreased by 0.2%
+1000210,Crystal Chisels required when upgrading or exchanging Crystals decreased by 0.2%
+1000211,Crystal Chisels required when upgrading or exchanging Crystals decreased by 0.2%
+1000301,Has 4% chance of returning 20% of consumed Coins or Gems for Market purchases. (This effect can stack.)
+1000302,Has 7% chance of returning 20% of consumed Coins or Gems for Market purchases. (This effect can stack.)
+1000303,Has 10% chance of returning 20% of consumed Coins or Gems for Market purchases. (This effect can stack.)
+1000304,Has 14% chance of returning 20% of consumed Coins or Gems for Market purchases. (This effect can stack.)
+1000305,Has 18% chance of returning 20% of consumed Coins or Gems for Market purchases. (This effect can stack.)
+1000306,Has 25% chance of returning 20% of consumed Coins or Gems for Market purchases. (This effect can stack.)
+1000307,Has 1% chance of returning 20% of consumed Coins or Gems for Market purchases. (This effect can stack.)
+1000308,Has 1% chance of returning 20% of consumed Coins or Gems for Market purchases. (This effect can stack.)
+1000309,Has 1% chance of returning 20% of consumed Coins or Gems for Market purchases. (This effect can stack.)
+1000310,Has 1% chance of returning 20% of consumed Coins or Gems for Market purchases. (This effect can stack.)
+1000311,Has 1% chance of returning 20% of consumed Coins or Gems for Market purchases. (This effect can stack.)
+1000401,Has 2% chance of returning 1 Seal when using 10 Seals at one time in Enroll. (This effect can stack.)
+1000402,Has 3% chance of returning 1 Seal when using 10 Seals at one time in Enroll. (This effect can stack.)
+1000403,Has 4% chance of returning 1 Seal when using 10 Seals at one time in Enroll. (This effect can stack.)
+1000404,Has 5.5% chance of returning 1 Seal when using 10 Seals at one time in Enroll. (This effect can stack.)
+1000405,Has 7% chance of returning 1 Seal when using 10 Seals at one time in Enroll. (This effect can stack.)
+1000406,Has 10% chance of returning 1 Seal when using 10 Seals at one time in Enroll. (This effect can stack.)
+1000407,Has 0.5% chance of returning 1 Seal when using 10 Seals at one time in Enroll. (This effect can stack.)
+1000408,Has 0.5% chance of returning 1 Seal when using 10 Seals at one time in Enroll. (This effect can stack.)
+1000409,Has 0.5% chance of returning 1 Seal when using 10 Seals at one time in Enroll. (This effect can stack.)
+1000410,Has 0.5% chance of returning 1 Seal when using 10 Seals at one time in Enroll. (This effect can stack.)
+1000411,Has 0.5% chance of returning 1 Seal when using 10 Seals at one time in Enroll. (This effect can stack.)
+1000501,Has 2% chance of returning 1 Adv. Capsule Coin for each 10x Draw from Advanced Capsules or Wish Capsules. (This effect can stack.)
+1000502,Has 3% chance of returning 1 Adv. Capsule Coin for each 10x Draw from Advanced Capsules or Wish Capsules. (This effect can stack.)
+1000503,Has 4% chance of returning 1 Adv. Capsule Coin for each 10x Draw from Advanced Capsules or Wish Capsules. (This effect can stack.)
+1000504,Has 5.5% chance of returning 1 Adv. Capsule Coin for each 10x Draw from Advanced Capsules or Wish Capsules. (This effect can stack.)
+1000505,Has 7% chance of returning 1 Adv. Capsule Coin for each 10x Draw from Advanced Capsules or Wish Capsules. (This effect can stack.)
+1000506,Has 10% chance of returning 1 Adv. Capsule Coin for each 10x Draw from Advanced Capsules or Wish Capsules. (This effect can stack.)
+1000507,Has 0.5% chance of returning 1 Adv. Capsule Coin for each 10x Draw from Advanced Capsules or Wish Capsules. (This effect can stack.)
+1000508,Has 0.5% chance of returning 1 Adv. Capsule Coin for each 10x Draw from Advanced Capsules or Wish Capsules. (This effect can stack.)
+1000509,Has 0.5% chance of returning 1 Adv. Capsule Coin for each 10x Draw from Advanced Capsules or Wish Capsules. (This effect can stack.)
+1000510,Has 0.5% chance of returning 1 Adv. Capsule Coin for each 10x Draw from Advanced Capsules or Wish Capsules. (This effect can stack.)
+1000511,Has 0.5% chance of returning 1 Adv. Capsule Coin for each 10x Draw from Advanced Capsules or Wish Capsules. (This effect can stack.)
+1000601,Has 2% chance of receiving 1 extra Gift for each Gift made in Date. (This effect can stack.)
+1000602,Has 3% chance of receiving 1 extra Gift for each Gift made in Date. (This effect can stack.)
+1000603,Has 4% chance of receiving 1 extra Gift for each Gift made in Date. (This effect can stack.)
+1000604,"Has 5,5% chance of receiving 1 extra Gift for each Gift made in Date. (This effect can stack.)"
+1000605,Has 7% chance of receiving 1 extra Gift for each Gift made in Date. (This effect can stack.)
+1000606,Has 10% chance of receiving 1 extra Gift for each Gift made in Date. (This effect can stack.)
+1000607,Has 0.5% chance of receiving 1 extra Gift for each Gift made in Date. (This effect can stack.)
+1000608,Has 0.5% chance of receiving 1 extra Gift for each Gift made in Date. (This effect can stack.)
+1000609,Has 0.5% chance of receiving 1 extra Gift for each Gift made in Date. (This effect can stack.)
+1000610,Has 0.5% chance of receiving 1 extra Gift for each Gift made in Date. (This effect can stack.)
+1000611,Has 0.5% chance of receiving 1 extra Gift for each Gift made in Date. (This effect can stack.)
+1000701,Has 5% chance of obtaining 20% extra rewards when collecting resources in Dorm. (This effect can stack.)
+1000702,Has 10% chance of obtaining 20% extra rewards when collecting resources in Dorm. (This effect can stack.)
+1000703,Has 15% chance of obtaining 20% extra rewards when collecting resources in Dorm. (This effect can stack.)
+1000704,Has 20% chance of obtaining 20% extra rewards when collecting resources in Dorm. (This effect can stack.)
+1000705,Has 25% chance of obtaining 20% extra rewards when collecting resources in Dorm. (This effect can stack.)
+1000706,Has 35% chance of obtaining 20% extra rewards when collecting resources in Dorm. (This effect can stack.)
+1000707,Has 1% chance of obtaining 20% extra rewards when collecting resources in Dorm. (This effect can stack.)
+1000708,Has 1% chance of obtaining 20% extra rewards when collecting resources in Dorm. (This effect can stack.)
+1000709,Has 1% chance of obtaining 20% extra rewards when collecting resources in Dorm. (This effect can stack.)
+1000710,Has 1% chance of obtaining 20% extra rewards when collecting resources in Dorm. (This effect can stack.)
+1000711,Has 1% chance of obtaining 20% extra rewards when collecting resources in Dorm. (This effect can stack.)
+1000801,Has 1% chance of obtaining 100% extra rewards when claiming Daily Login Rewards.
+1000802,Has 2% chance of obtaining 100% extra rewards when claiming Daily Login Rewards.
+1000803,Has 3% chance of obtaining 100% extra rewards when claiming Daily Login Rewards.
+1000901,Has 3% chance of receiving 20% extra Coupons when drawing from the Regular Slot Machine.
+1000902,Has 6% chance of receiving 20% extra Coupons when drawing from the Regular Slot Machine.
+1000903,Has 10% chance of receiving 20% extra Coupons when drawing from the Regular Slot Machine.
+1000904,Has 14% chance of receiving 20% extra Coupons when drawing from the Regular Slot Machine.
+1000905,Has 20% chance of receiving 20% extra Coupons when drawing from the Regular Slot Machine.
+1001001,Has 5% chance of obtaining 10% extra Coins when claiming Campaign Loot.
+1001002,Has 10% chance of obtaining 10% extra Coins when claiming Campaign Loot.
+1001003,Has 15% chance of obtaining 10% extra Coins when claiming Campaign Loot.
+1001004,Has 20% chance of obtaining 10% extra Coins when claiming Campaign Loot.
+1001005,Has 30% chance of obtaining 10% extra Coins when claiming Campaign Loot.
+1001101,Has 5% chance of obtaining 10% extra EXP Juice when claiming Campaign Loot.
+1001102,Has 10% chance of obtaining 10% extra EXP Juice when claiming Campaign Loot.
+1001103,Has 15% chance of obtaining 10% extra EXP Juice when claiming Campaign Loot.
+1001104,Has 20% chance of obtaining 10% extra EXP Juice when claiming Campaign Loot.
+1001105,Has 30% chance of obtaining 10% extra EXP Juice when claiming Campaign Loot.
+1001201,Has 7% chance of obtaining 1 extra Heart for each Heart claimed from Friends.
+1001202,Has 14% chance of obtaining 1 extra Heart for each Heart claimed from Friends.
+1001203,Has 21% chance of obtaining 1 extra Heart for each Heart claimed from Friends.
+1001204,Has 30% chance of obtaining 1 extra Heart for each Heart claimed from Friends.
+1001301,Has 3% chance of obtaining an additional free Alchemy chance when collecting free Alchemy rewards (can only trigger once each day).
+1001302,Has 6% chance of obtaining an additional free Alchemy chance when collecting free Alchemy rewards (can only trigger once each day).
+1001303,Has 9% chance of obtaining an additional free Alchemy chance when collecting free Alchemy rewards (can only trigger once each day).
+1001304,Has 15% chance of obtaining an additional free Alchemy chance when collecting free Alchemy rewards (can only trigger once each day).
+1001401,"Has 5% chance of obtaining 50% extra Pages when claiming rewards from Daily, Weekly, or Extra Tasks in Fantasy Book."
+1001402,"Has 10% chance of obtaining 50% extra Pages when claiming rewards from Daily, Weekly, or Extra Tasks in Fantasy Book."
+1001403,"Has 15% chance of obtaining 50% extra Pages when claiming rewards from Daily, Weekly, or Extra Tasks in Fantasy Book."
+1001404,"Has 25% chance of obtaining 50% extra Pages when claiming rewards from Daily, Weekly, or Extra Tasks in Fantasy Book."
+1001501,Campaign Loot will accumulate for 15 more minutes past the 10-hour limit. (This effect can stack.)
+1001502,Campaign Loot will accumulate for 20 more minutes past the 10-hour limit. (This effect can stack.)
+1001503,Campaign Loot will accumulate for 25 more minutes past the 10-hour limit. (This effect can stack.)
+1001504,Campaign Loot will accumulate for 35 more minutes past the 10-hour limit. (This effect can stack.)
+1001505,Campaign Loot will accumulate for 45 more minutes past the 10-hour limit. (This effect can stack.)
+1001506,Campaign Loot will accumulate for 65 more minutes past the 10-hour limit. (This effect can stack.)
+1001507,Campaign Loot will accumulate for 5 more minutes past the 10-hour limit. (This effect can stack.)
+1001508,Campaign Loot will accumulate for 5 more minutes past the 10-hour limit. (This effect can stack.)
+1001509,Campaign Loot will accumulate for 5 more minutes past the 10-hour limit. (This effect can stack.)
+1001510,Campaign Loot will accumulate for 5 more minutes past the 10-hour limit. (This effect can stack.)
+1001511,Campaign Loot will accumulate for 5 more minutes past the 10-hour limit. (This effect can stack.)
+1001601,Adds 5 more Girls Capacity
+1001602,Adds 10 more Girls Capacity
+1001603,Adds 20 more Girls Capacity

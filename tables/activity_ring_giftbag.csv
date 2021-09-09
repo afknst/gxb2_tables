@@ -1,2 +1,2 @@
-id,logo_side,logo_scale,time_y,buy_side,model,model_xy,model_scale,img_front,img_bg
-1,1,0.8,-45,2,apate_pifu02_lihui01,-80|-690,0.7,activity_ring_giftbag_bg18,activity_ring_giftbag_bg08
+id,logo_side,logo_scale,time_y,buy_side,model,model_xy,model_scale,item_id,model_side,img_front,img_bg
+1,2,0.8,-45,1,weiweian_pifu03_lihui01,-90|-790,0.65,7205,1,activity_ring_giftbag_bg13,activity_ring_giftbag_bg03

@@ -130,3 +130,7 @@ id,name,step,mark,condition,forced,window_name,obj_type,obj_id,no_click,special_
 129,travel,1,43,,,explore_bread_home_window,,closeBtn,,,,,,,,,1.2|1.2,,,,,,,,,,,,,,,
 130,travel,1,43,,,explore_window,,getAllBtn,,,,,,,,,,,,1,,-1,575|-56,1,,,,,,,,
 131,travel,1,43,,,explore_window,,adventure,,,,1,40,2,travel_guide_4,30|3,,,,,,-1,-540|-140,,,,,,,,,
+132,senpai_dress,1,44,,,func_open_window,,btnGo_,,,,,,,,,,,,1,,,,,,,0.5,,,,,
+133,senpai_dress,1,44,,,main_window,,schoolBtn,,,,,,2,buttoncrop_8,-1|-1,1.2|1.2,,1,,,,,,,,0.2,,,,,
+134,senpai_dress,1,44,,,school_choose_window,,tab2,,,,,,,,,,,,,,,,,,,,,,,,
+135,senpai_dress,1,44,,,school_choose_window,,btnDress,,,,1,45,,,,,,,,,-1,466|404,1,,,,,,,,

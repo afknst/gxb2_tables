@@ -11,7 +11,7 @@ id,name,from,content
 10,Summon Girl Rewards,Summon Rewards,Congratulations on summoning {1} during the event. Your rewards are available in Mail on the FrontPage.
 11,Daily Rewards,System Message,"Login every day during the event and you will receive Adv. Capsule Coins x 3, Fate-Binding Coin x 1. Your rewards are attached."
 12,Capsule Reward,System Message,"Congratulations, you've completed {1} Adv. Capsule Draws during event Girls X Capsule Points, here's your reward."
-13,Daily Rewards,System Message,"Login every day during the Event,and you can collect Seal * 1, Jigsaw Energy * 1 in attachment."
+13,Daily Rewards,System Message,"Login every day during the event and you will receive Seal x 1, Fate Binding Coin x 1. Your rewards are attached."
 14,Enroll Rewards,System Message,Congratulations on reaching {1} points during the Enroll event. Here are your rewards~!
 15,Boss Fight Rewards,System Message,Congratulations on defeating your friend's Boss. You have received the following rewards for your service!
 16,Boss Fight Rewards,System Message,The friend BOSS you found has been defeated. You have received the following rewards for your help!
@@ -134,8 +134,8 @@ id,name,from,content
 133,Adventure Reward,System Message,Congratulations for reaching event-level {1} in Fairy Tale Land! Here's your reward!
 134,Leadership transfer,Guild Message,The leadership is removed from player {1} who has been absent for 7 continuous days. Now player {2} has become the new leader of Guild {3}.
 135,Junior Varsity Hint,Arena Mail,"Dear Senpai, Varsity will be ending in less than 24 hours! Please quickly go to Varsity League Arena and defend your glory!"
-136,Red Riding Hood,Event Mail,"Thanks for purchasing Red Riding Hood's Gift, here's your reward for today. Your Premium-grade reward will expire in {1} days!"
-137,Red Riding Hood,Event Mail,"Thanks for purchasing Red Riding Hood's Gift, here's your reward for today. Your Coin-grade reward will expire in {1} days!"
+136,Red Riding Hood,Event Mail,"Thanks for purchasing Red Riding Hood's Gift, here's your reward for today. Your Grade 1 reward will expire in {1} days!"
+137,Red Riding Hood,Event Mail,"Thanks for purchasing Red Riding Hood's Gift, here's your reward for today. Your Gem-grade reward will expire in {1} days!"
 138,Red Riding Hood,Event Mail,"Thanks for purchasing Red Riding Hood's Gift, here's your reward for today. Your Gem-grade reward will expire in {1} days!"
 139,House Exams Reward,System Message,"Congratulations for reaching {1} points in the last season of House Exams, here's your reward!"
 140,House Exams Reward,System Message,"Congratulations! You have won the first place in the Exam of House {1}. Please take the ""{2}"" as a reward for your valor and technique!"
@@ -195,3 +195,6 @@ Yuki apologizes for the inconvenience, for any further queries, please don’t h
 187,Miss Yume Pageant - Vote Reward,Event Mail,"Dear Senpai, congratulations, you completed the voting task in ""Miss Yume Pageant"". Here's your reward!"
 188,Blessings from the Stars,Event Mail,"Dear Senpai, please accept the gift from Vivian! Hope you enjoy the life in Yume Academy like always!"
 190,Entrance Exam Notice,Event Mail,Congratulations! Your rank in Entrance Exam has been promoted !Head to the event page to check out the new details of your promotion!
+191,Opening Ceremony Reward,System Message,Congratulations on completing the event task of Outfit Store Opening Ceremony! Here's your reward!
+192,Red Riding Hood,Event Mail,"Thanks for purchasing Red Riding Hood's Gift, here's your reward for today. Your Grade 3 reward will expire in {1} days!"
+193,Red Riding Hood,Event Mail,"Thanks for purchasing Red Riding Hood's Gift, here's your reward for today. Your Grade 2 reward will expire in {1} days!"

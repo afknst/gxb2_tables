@@ -1,2 +1,17 @@
-id,desc
-1,技能特殊效果{1}
+id,desc,tips
+1,"Gains {3} Courage, Charisma and Knowledge once every {2} draw(s) in Outfit Store or Outfit Sale (Can be triggered for at most {1} times. You have drawn {4} times in Outfit Store and Outfit Sale.)",
+2,Crystal Chisels required when upgrading or exchanging Crystals decreased by {1}%%,
+3,Has {1}%% chance of returning {2}%% of consumed Coins or Gems for Market purchases,Outfit Bonus triggered! Items consumed in this purchase are partially returned.
+4,Has {1}%% chance of returning 1 Seal when using 10 Seals at one time in Enroll,Outfit Bonus triggered! 1 Seal is returned to you.
+5,Has {1}%% chance of returning 1 Adv. Capsule Coin for each 10x Draw from Advanced Capsules or Wish Capsules,Outfit Bonus triggered! 1 Adv. Capsule Coin is returned to you.
+6,Has {1}%% chance of receiving 1 extra Gift for each Gift made in Date,Outfit Bonus triggered! You made 1 extra Gift!
+7,Has {1}%% chance of obtaining {2}%% extra rewards when collecting resources in Dorm,Outfit Bonus triggered! You received extra resources!
+8,Has {1}%% chance of obtaining {2}%% extra rewards when claiming Daily Login Rewards,Outfit Bonus triggered! You received extra rewards!
+9,Has {1}%% chance of receiving {2}%% extra Coupons when drawing from the Regular Slot Machine,Additional Coupons obtained from Outfit Bonus
+10,Has {1}%% chance of obtaining {2}%% extra Coins when claiming Campaign Loot,Outfit Bonus triggered! You collected extra Coins!
+11,Has {1}%% chance of obtaining {2}%% extra EXP Juice when claiming Campaign Loot,Outfit Bonus triggered! You collected extra EXP Juice!
+12,Has {1}%% chance of obtaining 1 extra Heart for each Heart claimed from Friends,Outfit Bonus triggered! You collected extra Hearts!
+13,Has {1}%% chance of obtaining 1 extra free Alchemy chance when collecting from your free Alchemy chance.,1 free Alchemy chance obtained from Outfit Bonus
+14,"Has {1}%% chance of obtaining {2}%% extra Pages when claiming rewards from Daily, Weekly, or Extra Tasks in Fantasy Book",Outfit Bonus triggered! You collected extra Pages!
+15,Campaign Loot will accumulate for {1} more minutes past the 10-hour limit,
+16,Adds {1} more Girls Capacity,

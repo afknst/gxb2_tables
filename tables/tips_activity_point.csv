@@ -6,3 +6,4 @@ id,activity_id,title,point,content,connect_type
 5,21,-1,activity_pub_mission#complete_value,-1,activity_pub_mission#star
 6,22,-1,activity_arena#point,-1,activity_arena#point
 7,25,-1,activity_compose#limit,-1,activity_compose#star
+8,242,-1,-1,-1,-1

@@ -2952,7 +2952,7 @@ CHOOSE_BATTLE_NUM_TEXT2,Show Simplified:
 RED_POINT_MANAGER_WINDOW,Red Dot
 RED_POINT_BTN_WORDS,Red Dot
 LIMIT_BUY,Limit:{1}
-ACTIVITY_EQUIP_LEVELUP_DESC,"During the event, orange 4-Star gears or higher can be upgraded, and orange 6-Star gear sets can be upgraded to [c][ff0036]class gear-sets[-][/c]."
+ACTIVITY_EQUIP_LEVELUP_DESC,"During the event, orange 4-star Gears or higher can be upgraded. You can also upgrade or exchange [c][ff0036]Class Gear Sets[-][/c]"
 NOT_ENOUGH_EQUIP,You haven't collected a full set to upgrade
 ACTIVITY_NAV_TEXT_1_3,Regular Packs
 ACTIVITY_ENTRANCE_TEST_ENEMY_WINDOW,Enemy
@@ -3553,7 +3553,7 @@ MIDAS_TEXT08,Purchased
 EQUIP_LEVELUP_TEXT_1,Basic
 EQUIP_LEVELUP_TEXT_2,Advanced
 EQUIP_LEVELUP_TEXT_3,Press the buttons below to choose the gear set you want to upgrade
-EQUIP_LEVELUP_TEXT_4,Please choose a class-set gear
+EQUIP_LEVELUP_TEXT_4,Choose 1 Class Set
 EQUIP_LEVELUP_TEXT_5,The set of gear will gain new effect after the upgrade
 EQUIP_LEVELUP_TEXT_6,The new effect of the set of gear will be boosted after the upgrade
 EQUIP_LEVELUP_TEXT_7,"Touch the ""+"" on the left to choose the materials"
@@ -3567,7 +3567,7 @@ SHOP_SKIN_TEXT09,No Skin is found
 EQUIP_LEVELUP_TEXT_12,Upgrade gear?
 SUIT_SKILL_DETAIL_WINDOW_TITLE,Select skill
 SUIT_SKILL_DETAIL_WINDOW_BTN,Switch skill
-EQUIP_LEVELUP_HELP,"1.During the event, players can use Coins and Gems to upgrade a 4-Star and 5-Star orange gear to a higher level or exchange an orange 6-Star gear into any class gear set. Upgrades on 4-6 Star Gears can only be made once each.|2. During event, players can use class set of any class and event material (Meteorite Fragment) to upgrade a class gear-set to a higher level. The higher the level is, the more Meteorite Fragments will be required. There is no limit on Class Gear-set upgrades.|3. Players can complete current exclusive events such as Enroll Exam to acquire event material (Metal Bearing).|4. Use Metal Bearings to exchange Meteorite Fragments or class gear-set in the event store (upper right corner of page).|5. Only gears not equipped may be used, gears currently worn on Girls cannot be used.|6. Unconsumed Metal Bearings and Meteorite Fragments will remain once event ends and can be used when the event returns."
+EQUIP_LEVELUP_HELP,"1.During the event, players can use Coins and Gems to upgrade a set of 4-Star and 5-Star orange gear to a higher level or exchange a set of orange 6-Star gear into any class gear set. Upgrades on 4-6 Star Gears can only be made once each.|2. During the event, players can use a class set of any class and event material (Meteorite Fragment) to upgrade a class gear-set to a higher level. The higher the level is, the more Meteorite Fragments will be required. There is no limit on Class Gear-set upgrades.|3. During the event, players can exchange their Class Gear Sets to the Class Gear Sets of the same quality and star rank for another class by consuming ""Exchange Gears"".|4. Players can complete current exclusive events such as Enroll Exam to acquire event material (Metal Bearing).|5. Use Metal Bearings to exchange Meteorite Fragments, Exchange Gears, or class gear-set in the event store (upper right corner of page).|6. Only gears not equipped may be used, gears currently worn on Girls cannot be used.|7. Unconsumed Metal Bearings, Exchange Gears, and Meteorite Fragments will remain after event ends and can be used when the event returns."
 EQUIP_LEVELUP_TEXT_13,Material Required
 ACTIVITY_EASTER_EGG_GETWAY_WINDOW,Source
 ACTIVITY_EXPLORE_CAMPUS_1,Buff Plan
@@ -4613,8 +4613,12 @@ PERSON_DRESS_MAIN_11,Special Bonus
 PERSON_DRESS_MAIN_12,Attribute Boost
 PERSON_DRESS_MAIN_13,No Special Boost yet
 PERSON_DRESS_MAIN_14,Attribute Description
-PERSON_DRESS_MAIN_HELP,"1. Courage, Charisma and Knowledge will only take effect in the battles mentioned: Junior Varsity, Varsity, Elite League, Ultimate League and Guild War.|2. During the battles mentioned above, the system will respectively compare your 3 attributes with those of the opponent. The player with the higher attribute will receive Attribute Bonus and the player with the lower attribute will receive Attribute Debuff."
-PERSON_DRESS_HELP,"1. You can check and adjust what you’re wearing and display it to other players on your profile.|2. You can get different Outfit pieces for Head, Body, Legs, Headwear, and Accessories. You MUST equip Outfit pieces for Head, Body and Legs.|3. Each piece of Outfit might have 1 or more Styles. Some of the Styles are unlocked once you acquire the piece of Outfit, but the rest of them need to be unlocked with Gems. You can switch between unlocked Styles freely.|4. By obtaining different Outfits pieces, you're able to get additional Courage, Charisma and Knowledge attributes (you do not have to equip corresponding outfits to get their attribute bonus, you will get the attribute bonus once you obtain the Outfit pieces). You can increase the attribute bonus of the Outfit pieces by upgrading them in Closet.|5. There are Special Boosts for some single Outfit pieces or sets of Outfits.|6. Currently only the default Outfit is available, methods to acquire other Outfits will be updated soon."
+PERSON_DRESS_MAIN_HELP,"
+1. Courage, Charisma and Knowledge will only take effect in battles of the following features: 
+Junior Varsity, Varsity, Elite League, and Guild War (Playground). 
+Battles in Ultimate League will include those effects in future releases.|2. During the battles mentioned above, the system will compare your 3 attributes with those of the opponent. The 3 attributes will be compared separately, and the player with the higher attribute will receive Attribute Bonus in the first 5 Rounds of the battle. The player with the lower attribute will not be affected.
+Courage increases all damage dealt to your enemies, Charisma increases Damage Depletion of your Girls, and Knowledge increases Extra Control Rate, Control Immunity, and Speed of your Girls.|Attribute Difference:|1-99/100-199/200-299/300-499/500-799/800-1299/1300-2099/2100-3399/3400-5499/Above 5500|Courage Bonus:|All damage dealt increased by 1%%/2%%/3%%/4%%/5%%/6%%/7%%/8%%/9%%/10%%|Charisma Bonus:|Damage Depletion increased by 1%%/2%%/3%%/4%%/5%%/6%%/7%%/8%%/9%%/10%%|Knowledge Bonus:|Extra Control Rate increased by 1.5%%/3%%/4.5%%/6%%/7.5%%/9%%/10.5%%/12%%/13.5%%/15%%|Control Immunity increased by 1.5%%/3%%/4.5%%/6%%/7.5%%/9%%/10.5%%/12%%/13.5%%/15%%|Speed increased by 2/4/6/8/10/12/14/16/18/20"
+PERSON_DRESS_HELP,"1. You can check and adjust what you’re wearing and display it to other players on your profile.|2. You can get and equip different Outfit pieces for Head, Body, Legs, Headwear, and Accessories. You MUST equip Outfit pieces for Head, Body, and Legs.|3. Each piece of Outfit might have 1 or more Styles. Some of the Styles are unlocked once you acquire the piece of Outfit, but the rest of them need to be unlocked with Gems. You can switch between unlocked Styles freely.|4. By obtaining different Outfits pieces, you're able to get additional Courage, Charisma, and Knowledge attributes (you do not have to equip corresponding outfits to get their attribute bonus, you will get the attribute bonus once you obtain the Outfit pieces). You can increase the attribute bonus of the Outfit pieces by upgrading them in Closet. Switching and unlocking Styles will only affect the appearance of the Outfit Piece, and will NOT affect the attribute bonus it provides.|5. There are Special Boosts for some single Outfit pieces or sets of Outfits. Different Outfit Pieces may provide different Boosts. The higher the overall star grade of the Outfit Set is, the better the effects of the Special Boosts will be."
 PERSON_DRESS_MAIN_15,Gallery
 PERSON_DRESS_MAIN_16,No Outfit available
 PERSON_DRESS_MAIN_17,No Head Outfit available
@@ -4776,10 +4780,10 @@ DRESS_CHOOSE_FRAGMENT_WINDOW_3,Outfit Shards
 DRESS_CHOOSE_FRAGMENT_WINDOW_4,Shards selection completed
 DRESS_CHOOSE_FRAGMENT_WINDOW_5,Limit Reached!
 ACTIVITY_POPULARITY_VOTE_SURVEYTEXT13,Miss Yume Skin Election
-DRESS_SUMMON_LABEL_2,Tap to check obtainable Outfit
+DRESS_SUMMON_LABEL_2,Tap to check available Outfits
 DRESS_SUMMON_LABEL_4,Orange Outfit piece in [c][e96516]{1}[-][/c] Draw(s)
-DRESS_SUMMON_LABEL_1,Limited Free Chance: {1}
-DRESS_SUMMON_LABEL_3,The rate to get [Beach Freshness] set during the event
+DRESS_SUMMON_LABEL_1,Free Chance available: {1}
+DRESS_SUMMON_LABEL_3,"Rates of acquiring ""Beach Blue"" set"
 ACTIVITY_POPULARITY_VOTE_SURVEYTEXT10,Miss Yume\nSkin Election
 ACTIVITY_POPULARITY_VOTE_SURVEYTEXT11,"Senpai, thank you for your support! Hope you enjoy a wonderful time on campus!"
 ONE_KEY_UPLEVEL_TITLE,Quick Upgrade
@@ -4790,21 +4794,40 @@ DRESS_SUMMON_X_TIME,Purchase [size=34]{1}[-]
 DRESS_BUY_WINDOW_TEXT01,Outfit Sale Reward
 DRESS_BUY_WINDOW_TEXT02,Reward Details
 DRESS_BUY_WINDOW_TEXT03,Rate
-DRESS_BUY_WINDOW_TEXT04,Guarantee
-DRESS_BUY_WINDOW_TEXT05,普通卡池保底機制說明文本
-DRESS_BUY_WINDOW_TEXT06,限時卡池保底機制說明文本
+DRESS_BUY_WINDOW_TEXT04,Rules
+DRESS_BUY_WINDOW_TEXT05,"
+1. In Outfit Store, if an Orange Outfit Piece isn\'t obtained from the draw, the counter will be increased by 1. When the counter reaches 99, the next draw will definitely grant an Orange Outfit Piece. The counter will be reset after drawing an Orange Outfit Piece.
+
+2. The chance of obtaining an Orange Outfit Piece starts at 1.5%%. When the counter reaches 50, the chance will be increased by 0.4%%. Every 10 counters after 50 will grant an extra 0.4%% chance. For example, when the counter is at 90, the chance to obtain an Orange Outfit Piece will be 3.5%%.
+When the counter is reset, the increased probabilities will be reset as well.
+
+3. When you obtain an Outfit Piece that you already own, corresponding Outfit Shards will be obtained. They can be used to upgrade corresponding Outfit Pieces."
+DRESS_BUY_WINDOW_TEXT06,"
+1. Fancy Buttons can only be used to draw from Outfit Sale. They will NOT be removed after the event ends, and can be used in future Outfit Sale events.
+
+2. In Outfit Sale, if an Orange Outfit Piece isn\'t obtained from the draw, the counter will be increased by 1. When the counter reaches 99, the next draw will definitely grant an Orange Outfit Piece. The counter will be reset after drawing an Orange Outfit Piece.
+
+3. The counters for Outfit Store and Outfit Sale are separated. The counter for Outfit Sale will NOT be retained in future Outfit Sale events.
+
+4. The chance of obtaining an Orange Outfit Piece starts at 1.5%%. When the counter reaches 50, the chance will be increased by 0.4%%. Every 10 counters after 50 will grant an extra 0.4%% chance. For example, when the counter is at 90, the chance to obtain an Orange Outfit Piece will be 3.5%%.
+When the counter is reset, the increased probabilities will be reset as well.
+
+5. The odds of acquiring 1 specific set of Orange Outfit will be increased in each Outfit Sale event. When you draw an Orange Outfit Piece, there is a 50%% chance that it would be a random piece from the aforementioned Outfit Set. You will not receive repeated Outfit Pieces from the set until you have obtained all Pieces from it at least once. 
+The chances of obtaining an Outfit Piece from the Set will not be changed. When all Outfit Pieces from the Set have been obtained once, this will be reset.
+
+6. When you obtain an Outfit Piece that you already own, corresponding Outfit Shards will be obtained. They can be used to upgrade corresponding Outfit Pieces."
 DRESS_BUY_WINDOW_TEXT07,Reward Preview
 DRESS_BUY_WINDOW_TEXT08,Rate Up
-DRESS_BUY_WINDOW_TEXT09,佔橙色裝扮抽取機率的999%%：
-DRESS_BUY_WINDOW_TEXT10,占紅色裝扮抽取機率的999%%：
-DRESS_BUY_WINDOW_TEXT11,橙色裝扮占總抽取機率的0%%
-DRESS_BUY_WINDOW_TEXT12,紅色裝扮占總抽取機率的0%%
-DRESS_BUY_WINDOW_TEXT13,綠色裝扮占總抽取機率的0%%
-DRESS_BUY_WINDOW_TEXT14,紅色裝扮占總抽取機率的0%%
-DRESS_BUY_WINDOW_TEXT15,黃色裝扮占總抽取機率的0%%
-DRESS_BUY_WINDOW_TEXT16,藍色裝扮占總抽取機率的0%%
-DRESS_SUMMON_LABEL_5,Free purchase chance after countdown reaches 0
-DRESS_SUMMON_LABEL_6,You won't get the duplicates of the following Outfit pieces after acquiring them.
+DRESS_BUY_WINDOW_TEXT09,"When you obtain an Orange Outfit piece,\nhas 50%% chance to be:"
+DRESS_BUY_WINDOW_TEXT10,Has 999%% chance to appear when a Red Outfit Piece is acquired:
+DRESS_BUY_WINDOW_TEXT11,Orange Outfit Piece: 1.5%% chance
+DRESS_BUY_WINDOW_TEXT12,Red Outfit Piece: 8.5%% chance
+DRESS_BUY_WINDOW_TEXT13,Green Outfit Piece: 20%% chance
+DRESS_BUY_WINDOW_TEXT14,Purple Outfit Piece: 32%% chance
+DRESS_BUY_WINDOW_TEXT15,Gold Outfit Piece: 38%% chance
+DRESS_BUY_WINDOW_TEXT16,Blue Outfit Piece: 0%% chance
+DRESS_SUMMON_LABEL_5,Free purchase chance in:
+DRESS_SUMMON_LABEL_6,Will not be repeated before all of the following are acquired:
 DRESS_CHOOSE_FRAGMENT_WINDOW_6,Add All
 DRESS_CHOOSE_FRAGMENT_WINDOW_7,Not enough shards
 DRESS_CHOOSE_FRAGMENT_WINDOW_8,Add all completed
@@ -4909,3 +4932,24 @@ ACTIVITY_LIMIT_GACHA_TEXT03,Store
 ITEM_RECYCLE_TIPS,Please exchange your rewards before the event ends!
 SERIES_COUNT,Chapter {1}
 ACTIVITY_ENCOUNTER_STORY_TEXT05,Stage\nChallenge
+SENPAI_DRESS_COLLIDE_TIPS,"This combination might have a strange look, confirm to continue?"
+EQUIP_LEVELUP_TEXT_15,Exchange
+EQUIP_LEVELUP_TEXT_16,Confirm to exchange the Gear Set?
+EQUIP_LEVELUP_TEXT_17,Choose Class Set to Exchange
+EQUIP_LEVELUP_TEXT_18,Class Set to get
+ACTIVITY_DRESS_GACHA_AWARD_HELP,Complete the tasks to get corresponding rewards. The rewards will be sent via Mail.
+ACTIVITY_DRESS_GACHA_AWARD_JUMP,Go
+QUICK_STARS_TEXT05,Graduating
+EQUIP_LEVELUP_TEXT_19,Select the Class Set you want to exchange
+EQUIP_LEVELUP_TEXT_20,Select the Class Set you want to receive
+DRESS_SUMMON_LIMIT_ACT_DESC,"Use Plain Buttons and Fancy Buttons to obtain Outfit pieces in the event. The chance to acquire ""Beach Blue"" Outfit set is increased in this Outfit Sale event."
+HOUSE_TEXT_60,Confirm to move the Girl to the current floor?
+HOUSE_TEXT_61,No more girls can stay on this floor!
+HOUSE_TEXT_62,Set yourself in this floor
+DRESS_ITEM_UP_TIPS,This upgrade will not consume Outfit Shards.
+EQUIP_LEVELUP_TEXT_21,Select the Class Set to upgrade
+DRESS_CHANGE,Apply
+ACTIVITY_END_COUNT,Ends in [c][9eff8b]{1}[-][/c]
+DRESS_GACHA_OPEN_TIME,Available after {1}
+DRESS_LEV_UP_HELP,"1. Use Plain Silk or Dyed Silk to upgrade your Outfit Piece. You will also need to use the corresponding shards of this Piece or any Outfit Shards of a certain quality when upgrading your Outfit Piece to a high level.|2. The shards of a certain Outfit Piece can only be used to upgrade other Outfits when the corresponding Outfit Piece is being upgraded to max level.|3. Upgraded Outfit Pieces will provide higher Courage, Charisma and Knowledge attributes, but will neither give better Special Boosts nor unlock a new Style. The higher the overall star grade of the Outfit Set is, the better the effects of the Special Boosts will be."
+DRESS_ITEM_NUM,Outfit Shards Owned:

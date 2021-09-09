@@ -126,3 +126,6 @@ id,desc,mask_icon,icon_offset,mask_icon_h5,icon_offset_h5
 128,Upgrade Food Truck to unlock more slots!,,,,
 130,"Each facility produces different rewards, tap [c][d76500]Claim All[-][/c] now!",,,,
 131,Tap here and explore to get various rewards!,travel_guide_4,0|5,travel_guide_4,0|5
+133,,buttoncrop_8,-1|-1,buttoncrop_8_h5,-1|-1
+134,,,,,
+135,You can check and adjust your own Outfit here~,,,,
