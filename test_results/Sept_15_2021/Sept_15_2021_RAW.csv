@@ -1,0 +1,13 @@
+attacker,defender,win_rate
+One_Rogue,Two_Angie,0.18
+One_Rogue,Two_Angie_With_Apate,0.36
+One_Rogue,Three_VH,0.96
+Two_Angie,One_Rogue,0.82
+Two_Angie,Two_Angie_With_Apate,0.66
+Two_Angie,Three_VH,0.28
+Two_Angie_With_Apate,One_Rogue,0.66
+Two_Angie_With_Apate,Two_Angie,0.34
+Two_Angie_With_Apate,Three_VH,0.42
+Three_VH,One_Rogue,0.04
+Three_VH,Two_Angie,0.78
+Three_VH,Two_Angie_With_Apate,0.52
