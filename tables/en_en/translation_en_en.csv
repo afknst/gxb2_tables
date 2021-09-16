@@ -2569,21 +2569,29 @@ SUMMON_DROP_NAV1,BFF Capsule
 SUMMON_DROP_NAV2,Regular Capsule
 MAKE_COFFEE_TEXT17,You have completed all the orders
 MAKE_COFFEE_TEXT18,Start
-ACTIVITY_PRAY_HELP,"1. Choose a random Faction and pick 5 of the girls you want from the list. You can fill the progress bar by giving out the event material and get random 1 of the 5 girls you pick once you fill-up the progress bar.|2. Once you have picked the 5 girls you want, it will cost you 500 gems each time if you want to change the 5 girls you want to get.|3. Each Girl you've chosen can only be obtained once. After you have claimed all the 5 girls you chose, you will get a chance to pick a new list for free.|4. You will get one of the following resources for each event material you give out: 300K Coins, 200K Exp Juice, 200 Lunch Boxes, 200 Crystal Chisels, 200 Servant Cookies, 40 Spirit Cookies.|5. You also have a 25%% chance to get double rewards & double progress, and a 7.5%% chance to get triple rewards & triple progress when you give out an event material in Human's Legend, Ghost's Secret, Monster's Essence and Fairy's Epic, have a 10%% chance to get double rewards & double progress, and a 2.5%% chance to get triple rewards & triple progress when you give out an event material in Source Code.|6. If you give out multiple event materials at one time and the progress bar will become more than 100%% because of that, the progress bar will be cleared to 0 and the event materials that might make the progress bar become more than 100%% will be returned. (But if you give out 1 event material that can make the bar reach 100%% but got a double/triple crit, the additional progress will not be counted but the reward you received will still be doubled/tripled)|7. Methods to acquire the event material: purchase with gems (300 times at most), Special Gift Pack, Value Pack, Slot Points event. You can also exchange them with the event material you left during the last Pray to the Stars event"
+ACTIVITY_PRAY_HELP,"
+1. During the event, after choosing a House, you can choose 5 Girls that you want from a list of Girls that can be obtained from the corresponding House, and add them to the Wishing Fountain.|2. Making wishes in the Wishing Fountain of the House you\'ve chosen will cost Prayer Coins and will grant House Jewels (1 House Jewel can be acquired for every 10 Prayer Coins consumed).|3. When making wishes in Angel and Demon Wishing Fountains, there is an 8%% chance to receive double rewards and House Jewels, and a 2%% chance to receive triple rewards and House Jewels.
+    When making wishes in Ghost, Human, Monster, and Fairy Wishing Fountains, there is a 20%% chance to receive double rewards and House Jewels, and a 5%% chance to receive triple rewards and House Jewels.|4. You can offer House Jewels to the Wishing Fountain, and receive House Shards of the corresponding House or Rainbow Shards. Collect the required number of House Shards of the same House to merge them and summon 1 random Girl from the Wishing Fountain of the corresponding House. After collecting the required number of Rainbow Shards, you can merge them, and choose one girl from the Wishing Fountains of all 6 Houses.|5. 500 Gems are needed to change the girls chosen in the Wishing Fountain of a House.|6. After receiving 1 Girl from the Wishing Fountain, you will not receive the same girl again until you change the girls available from it. When all 5 Girls chosen have been claimed, you can change your choice for free.|7. Extra rewards will be given based on the number of Girls received in this event.|8. You will receive one random reward from the list below for each Prayer Coin used:
+200K Coins, 200K EXP Juice, 200 Lunch Boxes, 200 Crystal Chisels, 1 Rune Engraving, or 1 Lucky Crystal.|9. You will receive 4 Afterglow Antiques for each House Jewel offered to the Wishing Fountain.|10. Prayer Coins can be obtained from the following methods:
+     Purchase with Gems (at most 1,500 can be obtained this way)
+     Mega Value Packs
+     Special Skin Packs
+     Special Gift Packs
+     Slot Points event|11. After this event ends, remaining House Shards will be automatically exchanged into 20K Coins each, remaining Rainbow Shards will be exchanged into 30K Coins each, remaining Prayer Coins will be exchanged into 5K Coins each, remaining House Ghost, House Human, House Monster and House Fairy Jewels will be exchanged into 45K Coins each, and remaining House Angel and House Demon Jewels will be exchanged into 50K Coins each."
 ACTIVITY_PRAY_GROUP1,House Ghost
 ACTIVITY_PRAY_GROUP2,House Human
 ACTIVITY_PRAY_GROUP3,House Monster
 ACTIVITY_PRAY_GROUP4,House Fairy
-ACTIVITY_PRAY_GROUP5,House Angel
+ACTIVITY_PRAY_GROUP5,House Demon
 ACTIVITY_PRAY_COMPLETE,Completed
 ACTIVITY_PRAY_TIPS01,Get one of the girls once you fill up the bar
-ACTIVITY_PRAY_COMMIT_BUTTON,許願
-ACTIVITY_PRAY_COMMIT_TEXT01,請輸入許願次數：
-ACTIVITY_PRAY_COMMIT_TEXT02,請輸入獻上寶石的數量：
+ACTIVITY_PRAY_COMMIT_BUTTON,Pray
+ACTIVITY_PRAY_COMMIT_TEXT01,Enter the number of prayers:
+ACTIVITY_PRAY_COMMIT_TEXT02,Enter the number of House Jewels you would like to offer:
 ACTIVITY_PRAY_CONFIRM,Confirm
 ACTIVITY_PRAY_CHANGE,Adjust
 ACTIVITY_PRAY_TIPS02,You need to pick 5 Girls!
-ACTIVITY_PRAY_BUY,購買許願幣
+ACTIVITY_PRAY_BUY,Prayer Coin
 TEST_SERVER_FEEDBACK_TIPS,You can send us your feedback again after {1}~
 TEST_SERVER_FEEDBACK_ICON,Suggestions
 TEST_SERVER_MISSION_TEXT,"Complete the missions during the Test Server is online, and you will get additional rewards for your account in the official server in 5 days after the Test Server is closed"
@@ -3468,7 +3476,7 @@ WISH_GACHA_TEXT8,x{1}
 MONTH_CARD_VIP,+{1} VIP EXP
 MONTH_CARD_TIP_1,Buy now and get {1} gems.
 MONTH_CARD_TIP_2,Get {1} Gems every day for 30 days
-ACADEMY_ASSESSMENT_WINDOW_HELP_NEW,"1. The new version of the feature: House Exams is updated. It now will be divided into seasons that are made up of an exam period (13 days) and a result display period (1 day).|2. The Exams of 6 Houses will all be available during the exam period. But only the girls in the corresponding faction can be used in the exams. You will have your Exam progress reset and receive rewards according to your progress in this season(before the reset) in the result display period.|3. The Exam for each House has 60 stages, the enemies will be different in each season. You will be able to check the detail of the enemy lineups of each stage by tapping the button in the top right corner of the stage.|4. The Admission Tickets will be refreshed to 10 each day, you can purchase more Admission Tickets with Gems.|5. You will get an additional reward for the first time you pass a stage. This reward won't be refreshed by seasons. (But if you have acquired the reward in the old version of this feature, you will still be able to acquire it again for once in the new version)|6. You will get rewards for passing a stage. You will also be able to raid the passed levels with Certificates for additional rewards.|7. The Certificate you hold will be refreshed to 2 each day. And you will increase your daily Certificate refresh amount to 3/4/5 after passing Stage 9/18/30 in the exam of any one of the 6 Houses.|8. You are able to purchase 10 additional Certificates with Gems (The price of Certificates will increase gradually as you buy more in a day) each day. (Certificate you have will also be refreshed so please use them up in time).|9. The daily refresh time for Admission Tickets and Certificates will be at 0:00 （UTC/GMT 0) every day.|10. You will get Exam Scores for passing (not raiding) stages. You can get 1 Exam Score for passing Stage 1-20, 2 Exam Scores for passing Stage 21-40, and 4 Exam Scores for passing Stage 41-60. You will get different rewards on the result display days according to the total Exam Scores you get|11. The player who gets the highest score in the exam of a House will also get a frame that lasts for 14 days from that house. If multiple players get the same Exam Score in 1 season, their position in the ranking list will be arranged according to the time they pass the test. 10 players at most can get the frame in the exam of a House this way(Which means they will also need to get the same highest scores instead of just being in Top 10 of the ranking list). The rewards will be issued via Mail."
+ACADEMY_ASSESSMENT_WINDOW_HELP_NEW,"1. House Exam now will be divided into seasons that are made up of an exam period (13 days) and a result display period (1 day).|2. The Exams of 6 Houses will all be available during the exam period. But only the girls in the corresponding faction can be used in the exams. You will have your Exam progress reset and receive rewards according to your progress in this season(before the reset) in the result display period.|3. The Exam for each House has 60 stages, the enemies will be different in each season. You will be able to check the detail of the enemy lineups of each stage by tapping the button in the top right corner of the stage.|4. The Admission Tickets will be refreshed to 10 each day, you can purchase more Admission Tickets with Gems.|5. You will get an additional reward for the first time you pass a stage. This reward won't be refreshed by seasons. (But if you have acquired the reward in the old version of this feature, you will still be able to acquire it again for once in the new version)|6. You will get rewards for passing a stage. You will also be able to raid the passed levels with Certificates for additional rewards.|7. The Certificate you hold will be refreshed to 2 each day. And you will increase your daily Certificate refresh amount to 3/4/5 after passing Stage 9/18/30 in the exam of any one of the 6 Houses.|8. You are able to purchase 10 additional Certificates with Gems (The price of Certificates will increase gradually as you buy more in a day) each day. (Certificate you have will also be refreshed so please use them up in time).|9. The daily refresh time for Admission Tickets and Certificates will be at 0:00 （UTC/GMT 0) every day.|10. You will get Exam Scores for passing (not raiding) stages. You can get 1 Exam Score for passing Stage 1-20, 2 Exam Scores for passing Stage 21-40, and 4 Exam Scores for passing Stage 41-60. You will get different rewards on the result display days according to the total Exam Scores you get|11. The player who gets the highest score in the exam of a House will also get a frame that lasts for 14 days from that house. If multiple players get the same Exam Score in 1 season, their position in the ranking list will be arranged according to the time they pass the test. 10 players at most can get the frame in the exam of a House this way(Which means they will also need to get the same highest scores instead of just being in Top 10 of the ranking list). The rewards will be issued via Mail."
 WISH_GACHA_NUM1,100
 WISH_GACHA_NUM2,200
 WISH_GACHA_NUM3,300
@@ -3670,7 +3678,7 @@ GACHA_LIMIT_CALL_NEW,New Girl
 GACHA_LIMIT_CALL_TIMES,{1} Time(s)
 GACHA_LIMIT_CALL_TIPS,The rate to these Girls is boosted
 GACHA_LIMIT_CALL_FIVESTAR_TIPS,Guaranteed 5-star
-ACTIVITY_LIMIT_GACHA_HELP,"1. During the event, you can get 3-5 star Girls (Diana not included) by consuming Fate-Binding Coins. If you use 10 Fate Binding Coins to do a 10x draw, you will get at least 1 5-star Girl (Including the 5-star Girls that have a 4-star version). You will get at least 1 5-star Monica in 50 consecutive draws!|2. You can get some Fate-Binding Records for each Fate-Binding Coin consumed. Fate-Binding Records can be used to exchange for items in the event store.|3. Once the event ends, the remaining Fate-Binding Coins and Fate-Binding Records will automatically be recycled into Coins at a rate of 150k per Fate-Binding Coin and 100k per Fate-Binding Record."
+ACTIVITY_LIMIT_GACHA_HELP,"1. During the event, you can get 3-5 star Girls (Diana not included) by consuming Fate-Binding Coins. If you use 10 Fate Binding Coins to do a 10x draw, you will get at least 1 5-star Girl (Including the 5-star Girls that have a 4-star version). You will get at least 1 5-star Monica in 50 consecutive draws!|2. You can get some Fate-Binding Records for each Fate-Binding Coin consumed. Fate-Binding Records can be used to exchange for items in the event store.|3. Once the event ends, the remaining Fate-Binding Coins and Fate-Binding Records will automatically be recycled into Coins at a rate of 150k per Fate-Binding Coin and 10k per Fate-Binding Record."
 ACTIVITY_LIMIT_CALL_BOSS_CHALLENGE,Challenge Limit:
 BLACK_FRIDAY_GIFTBAG_DISCOUNT,90%% OFF
 BLACK_FRIDAY_GIFTBAG_PRICE1,Original Price: $499.99
@@ -4391,7 +4399,7 @@ SPACE_EXPLORE_TEXT_19,Adventure Team Setting
 SPACE_EXPLORE_TEXT_20,Hide Level-up marks
 SPACE_EXPLORE_TEXT_21,Hide Girls not obtained
 SPACE_EXPLORE_TEXT_22,Bizarre Adventures
-SPACE_EXPLORE_HELP_04,"1. There are 30 Blocks on the map, one of the 30 Blocks is your starting point.|2. You can flip over the 4 Blocks beside (↑↓←→) the starting point or beside the Blocks that have been flipped over.|3. You might encounter an item reward, enemies or nothing after flipping over each Block. You can directly tap on the Block with the item reward to acquire the reward, and you will also be rewarded after defeating each enemy. Void Crystals can be obtained from item reward blocks or enemy blocks. After acquiring the required numbers of Void Crystals, you will receive rewards via Mail.|4. When there's an enemy revealed on a flipped over Block, the 8 Blocks around the enemy block won't be able to be flipped over before it is defeated.|5. You will only be able to challenge the Boss of your current stage after defeating all other enemies. After defeating the Boss, the portal to the next stage will open, and you can tap to enter the next stage.|6. When you encounter an enemy, your Adventure Team will engage the enemy. The attribute of your Adventure Team depends on all the Adventure Girls you've acquired. It also has all the skills of the Adventure Girls you've acquired.|7. The battle in Bizarre Adventures is unique: your Adventure Team and the enemy will deal damage against each other at the same time (Attack - Armor  = Damage Dealt, at least 50 Damage will be dealt for each attack).|8. If the enemy's HP reaches 0 first, you win this battle. If the HP of your team and the enemy reaches 0 at the same time, or the HP of your team reaches 0 first, you will lose the battle. Your team will need time to regroup before they can take on their next challenge against an enemy.|9. The enemy in Bizarre Adventure always enters battle with full HP.|10. Your team will also always enter each battle with 100%% HP. The HP changes in a previous battle will not affect later battles.|11. The Void Crystals acquired is for this season of Bizarre Adventures only! They will be removed from your account after this season of Bizarre Adventures is over."
+SPACE_EXPLORE_HELP_04,"1. There are 30 Blocks on the map, one of the 30 Blocks is your starting point. You can flip over the 4 Blocks beside (↑↓←→) the starting point or beside the Blocks that have been flipped over.|2. You might encounter an item reward, enemies or nothing after flipping over each Block. You can directly tap on the Block with the item reward to acquire the reward. Extra rewards will be given for collecting the required number of Void Crystals.|3. When there's an enemy revealed on a flipped over Block, the Blocks around the enemy block won't be able to be flipped over before the enemy is defeated.|4. You will only be able to challenge the Boss of your current stage after defeating all other enemies in this stage. After defeating the Boss, the portal to the next stage will open, and you can tap to enter the next stage.|5. When you encounter an enemy, your Adventure Team will engage the enemy. The power of your Adventure Team depends on all the Adventure Girls you've acquired. It also has all the skills of the Adventure Girls you've acquired.|6. The battle in Bizarre Adventures is unique, your Adventure Team and the enemy will deal damage against each other at the same time (Attack - Armor = Damage Dealt, at least 50 Damage will be dealt for each attack).|7. If the enemy's HP reaches 0 first, you win this battle. If the HP of your team and the enemy reaches 0 at the same time, or the HP of your team reaches 0 first, you will lose the battle. Your team will need time to regroup before they can take on their next challenge against an enemy.|8. Your team will always enter each battle with 100%% HP in Bizarre Adventures. |9. After reaching Stage 31, the Auto Explore feature will be unlocked. After clearing Stage 50, you will receive all the rewards for collecting Void Crystals.|10. The Void Crystals acquired is for this season of Bizarre Adventures only!|11. The ranking list will display the top 50 players according to the players' progress in Bizzare Adventure, if 2 players are at the same stage, the player who reaches the stage first will be at a higher rank."
 SPACE_EXPLORE_TEXT_23,We need to locate and defeat the Boss
 COLLECTION_SKIN_WEDDING,Oath Skin
 SPACE_EXPLORE_CHECK_BUFF_WINDOW,Buff
@@ -4613,11 +4621,7 @@ PERSON_DRESS_MAIN_11,Special Bonus
 PERSON_DRESS_MAIN_12,Attribute Boost
 PERSON_DRESS_MAIN_13,No Special Boost yet
 PERSON_DRESS_MAIN_14,Attribute Description
-PERSON_DRESS_MAIN_HELP,"
-1. Courage, Charisma and Knowledge will only take effect in battles of the following features: 
-Junior Varsity, Varsity, Elite League, and Guild War (Playground). 
-Battles in Ultimate League will include those effects in future releases.|2. During the battles mentioned above, the system will compare your 3 attributes with those of the opponent. The 3 attributes will be compared separately, and the player with the higher attribute will receive Attribute Bonus in the first 5 Rounds of the battle. The player with the lower attribute will not be affected.
-Courage increases all damage dealt to your enemies, Charisma increases Damage Depletion of your Girls, and Knowledge increases Extra Control Rate, Control Immunity, and Speed of your Girls.|Attribute Difference:|1-99/100-199/200-299/300-499/500-799/800-1299/1300-2099/2100-3399/3400-5499/Above 5500|Courage Bonus:|All damage dealt increased by 1%%/2%%/3%%/4%%/5%%/6%%/7%%/8%%/9%%/10%%|Charisma Bonus:|Damage Depletion increased by 1%%/2%%/3%%/4%%/5%%/6%%/7%%/8%%/9%%/10%%|Knowledge Bonus:|Extra Control Rate increased by 1.5%%/3%%/4.5%%/6%%/7.5%%/9%%/10.5%%/12%%/13.5%%/15%%|Control Immunity increased by 1.5%%/3%%/4.5%%/6%%/7.5%%/9%%/10.5%%/12%%/13.5%%/15%%|Speed increased by 2/4/6/8/10/12/14/16/18/20"
+PERSON_DRESS_MAIN_HELP,"1. Courage, Charisma and Knowledge will only take effect in battles of the following features: \nJunior Varsity, Varsity, Elite League,  Guild War (Playground), and Ultimate League.|2. During the battles mentioned above, the system will compare your 3 attributes with those of the opponent. The 3 attributes will be compared separately, and the player with the higher attribute will receive Attribute Bonus in the first 5 Rounds of the battle. The player with the lower attribute will not be affected.\nCourage increases all damage dealt to your enemies, Charisma increases Damage Depletion of your Girls, and Knowledge increases Extra Control Rate, Control Immunity, and Speed of your Girls.|Attribute Difference:|1-99/100-199/200-299/300-499/500-799/800-1299/1300-2099/2100-3399/3400-5499/Above 5500|Courage Bonus:|All damage dealt increased by 1%%/2%%/3%%/4%%/5%%/6%%/7%%/8%%/9%%/10%%|Charisma Bonus:|Damage Depletion increased by 1%%/2%%/3%%/4%%/5%%/6%%/7%%/8%%/9%%/10%%|Knowledge Bonus:|Extra Control Rate increased by 1.5%%/3%%/4.5%%/6%%/7.5%%/9%%/10.5%%/12%%/13.5%%/15%%|Control Immunity increased by 1.5%%/3%%/4.5%%/6%%/7.5%%/9%%/10.5%%/12%%/13.5%%/15%%|Speed increased by 2/4/6/8/10/12/14/16/18/20"
 PERSON_DRESS_HELP,"1. You can check and adjust what you’re wearing and display it to other players on your profile.|2. You can get and equip different Outfit pieces for Head, Body, Legs, Headwear, and Accessories. You MUST equip Outfit pieces for Head, Body, and Legs.|3. Each piece of Outfit might have 1 or more Styles. Some of the Styles are unlocked once you acquire the piece of Outfit, but the rest of them need to be unlocked with Gems. You can switch between unlocked Styles freely.|4. By obtaining different Outfits pieces, you're able to get additional Courage, Charisma, and Knowledge attributes (you do not have to equip corresponding outfits to get their attribute bonus, you will get the attribute bonus once you obtain the Outfit pieces). You can increase the attribute bonus of the Outfit pieces by upgrading them in Closet. Switching and unlocking Styles will only affect the appearance of the Outfit Piece, and will NOT affect the attribute bonus it provides.|5. There are Special Boosts for some single Outfit pieces or sets of Outfits. Different Outfit Pieces may provide different Boosts. The higher the overall star grade of the Outfit Set is, the better the effects of the Special Boosts will be."
 PERSON_DRESS_MAIN_15,Gallery
 PERSON_DRESS_MAIN_16,No Outfit available
@@ -4718,7 +4722,7 @@ DRESS_SUIT_WINDOW_8,Confirm to apply Outfit Setting {1}?
 DRESS_SUIT_WINDOW_9,Same outfit is already applied to the character
 DRESS_CHECK_OFFICE_WINDOW_1,Preview
 DRESS_CHECK_OFFICE_WINDOW_2,Set
-DRESS_CHECK_OFFICE_WINDOW_3,There's no other style for this piece of Outfit
+DRESS_CHECK_OFFICE_WINDOW_3,Style change not available
 OPEN_AFTER_TIME,Starts in: {1}
 DRESS_ITEM_UP_WINDOW_1,Outfit Upgrade
 DRESS_ITEM_UP_WINDOW_2,Need more upgrade material
@@ -4953,16 +4957,32 @@ ACTIVITY_END_COUNT,Ends in [c][9eff8b]{1}[-][/c]
 DRESS_GACHA_OPEN_TIME,Available after {1}
 DRESS_LEV_UP_HELP,"1. Use Plain Silk or Dyed Silk to upgrade your Outfit Piece. You will also need to use the corresponding shards of this Piece or any Outfit Shards of a certain quality when upgrading your Outfit Piece to a high level.|2. The shards of a certain Outfit Piece can only be used to upgrade other Outfits when the corresponding Outfit Piece is being upgraded to max level.|3. Upgraded Outfit Pieces will provide higher Courage, Charisma and Knowledge attributes, but will neither give better Special Boosts nor unlock a new Style. The higher the overall star grade of the Outfit Set is, the better the effects of the Special Boosts will be."
 DRESS_ITEM_NUM,Outfit Shards Owned:
-ACTIVITY_PRAY_TEXT1,消耗宝石
-ACTIVITY_PRAY_TEXT2,許願
-ACTIVITY_PRAY_TEXT3,請輸入許願次數
-ACTIVITY_PRAY_TEXT4,購買許願幣
-ACTIVITY_PRAY_TEXT5,消耗寶石
-ACTIVITY_PRAY_TEXT6,請輸入消耗寶石數量：
-JUMP_TO,跳轉
+ACTIVITY_PRAY_TEXT1,Confirm
+ACTIVITY_PRAY_TEXT2,Pray
+ACTIVITY_PRAY_TEXT3,Enter the number of prayers
+ACTIVITY_PRAY_TEXT4,Purchase Prayer Coins
+ACTIVITY_PRAY_TEXT5,Offer Jewels
+ACTIVITY_PRAY_TEXT6,Enter the number of House Jewels you would like to offer:
+JUMP_TO,Go
 HOUSE_TEXT_63,Tap the Girls' avatar to move them into the Dorm
-ACTIVITY_PRAY_COMMIT_BUTTON02,獻上寶石
-ACTIVITY_PRAY_GET_OMNI,萬能碎片已收齊，是否進行合成？
-ACTIVITY_PRAY_GROUP6,House Demon
-ACTIVITY_PRAY_TITLE01,進行許願
-ACTIVITY_PRAY_TITLE02,獻上寶石
+ACTIVITY_PRAY_COMMIT_BUTTON02,Offer Jewels
+ACTIVITY_PRAY_GET_OMNI,You have collected enough Rainbow Shards. Would you like to merge them now?
+ACTIVITY_PRAY_GROUP6,House Angel
+ACTIVITY_PRAY_TITLE01,Pray
+ACTIVITY_PRAY_TITLE02,Offer Jewels
+RETURN_TREASURE_WINDOW,Crystal Reverse
+RETURN_TREASURE_HELP,"1. All Crystals except for 1-Star Blue Crystal can be reversed. |2. Reversing the Crystal will consume Gems.|3. After reversing the Crystal, only a part of the Coins and Crystal Chisels used to upgrade the Crystal will be returned.|4. After the Crystal is reversed, it will return to a 1-Star Blue Crystal, and its attributes will be those of a 1-Star Blue Crystal as well.|5. If Backup Crystals are saved on the girl before the reversal, the saved Backup Crystals will be gone after reversal. Please consider carefully before reversing your Crystal."
+RETURN_TREASURE_TEXT01,Reverse
+RETURN_TREASURE_TEXT02,Preview
+RETURN_TREASURE_TIPS,"After reversal, a part of the Coins and Crystal Chisels used to upgrade the Crystal will be returned. Any Backup Crystals saved on this girl will be wiped as well. Do you confirm to reverse this Crystal?"
+SHENXUE_GET_WINDOW,Graduated Girls
+ACTIVITY_PRAY_FULL_TIPS,You have collected enough House Shards. Would you like to merge them now?
+ACTIVITY_PRAY_OMNI_BUTTON01,Later
+ACTIVITY_PRAY_OMNI_BUTTON02,Go
+ACTIVITY_SPACE_LEVEL_TEXT,Stage
+ACTIVITY_SPACE_AWARD_NONE_TEXT,No rewards yet...
+ACTIVITY_PRAY_AWARDS,Obtain {1} Girls from this event
+ACTIVITY_PRAY_CONFIRM_BUY,Do you confirm to change the chosen girls?
+ACTIVITY_PRAY_GEM_TIPS,Consume Prayer Coins to get {1}
+SPACE_EXPLORE_AUTO_TIPS,Available after passing Stage {1}
+SPACE_EXPLORE_AUTO_TIPS2,Auto Explore

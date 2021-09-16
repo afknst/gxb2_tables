@@ -34,7 +34,7 @@ id,desc,title
 33,Atelier Valeera,Atelier\nValeera
 34,Servant Raising,Servant\nRaising
 35,Subscription,Subscription
-36,3rd Anniversary Gift Card,3rd Anniversary\nGift Card
+36,Moon Festival Card,Moon Festival\nCard
 37,Jigsaw,Jigsaw
 38,Subscription,Subscription
 39,Monthly Pack,Monthly\nPack
@@ -91,7 +91,7 @@ id,desc,title
 91,Reload Bonus,Reload\nBonus
 92,Capsule Bonus Pack,Capsule\nBonus Pack
 93,Coffee Lab,Coffee\nLab
-95,Pray to the Stars,Pray to\nthe Stars
+95,Wishing Fountain,Wishing Fountain
 999,Test Objective,Test\nObjective
 97,Elite Assembly,Elite\nAssembly
 98,Righteous Liberation,Righteous\nLiberation
@@ -229,3 +229,6 @@ id,desc,title
 241,Customized Supply,Customized\nSupply
 242,Outfit Store Opening Ceremony,Outfit Store\nOpening Ceremony
 235,Outfit Sale,Outfit\nSale
+244,Antique Limited Exchange,Antique\nLimited Exchange
+243,天使茶會,天使茶會
+246,Practical Experience,Practical\nWork

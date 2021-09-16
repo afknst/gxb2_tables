@@ -38,7 +38,7 @@ id,name,charge_ios,charge,currency,show_name
 35,Free Reload Pack,1.99,1.99,$,Free Reload Pack
 37,Limited Edition 5-star Girl Pack,0.99,0.99,$,Limited Edition 5-star Girl Pack
 38,Subscription,0.99,0.99,$,Subscription
-39,Black Friday Card,9.99,9.99,$,3rd Anniversary Gift Card
+39,Moon Festival Card,9.99,9.99,$,Moon Festival Card
 40,Weekly Subscription,0.99,0.99,$,Weekly Subscription
 41,Monthly Subscription,3.99,3.99,$,Monthly Subscription
 42,Quarterly Subscription,9.99,9.99,$,Quarterly Subscription
@@ -70,7 +70,7 @@ id,name,charge_ios,charge,currency,show_name
 68,Value Pack 6,4.99,4.99,$,Value Pack
 70,Unlock Special Rewards,19.99,19.99,$,Unlock Special Rewards
 71,Special Skin Pack 2,49.99,49.99,$,Special Gift Pack
-72,3rd Anniversary Gift Card,19.99,19.99,$,3rd Anniversary Gift Card
+72,Moon Festival Card,19.99,19.99,$,Moon Festival Card
 73,Jingle Bell Pack,49.99,49.99,$,Jingle Bell Pack
 74,Motivation Program,9.99,9.99,$,Motivation Program
 75,Oath Pack,29.99,29.99,$,Oath Pack

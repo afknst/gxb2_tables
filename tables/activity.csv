@@ -18,7 +18,7 @@ id,desc,days,date,limit,last_time,server_type,special_interval,icon,title,type1,
 17,-1,7,44449,,604800,1,0,miracle_giftbag_png,-1,2,1,10,,,,,,,
 18,-1,-1,,,,1,0,following_giftbag_png|following_giftbag_en_en_png||following_giftbag_ja_jp_png||following_giftbag_ko_kr_png,-1,2,1,2,,,,,,,
 19,-1,30,,,,1,0,free_recharge_png,-1,1,1,8,35,,,,,,
-20,-1,7,44428,,604800,1,0,wishing_pool_giftbag_png,-1,2,1,50,,,,400|8,,,
+20,-1,7,44456,,604800,1,0,wishing_pool_giftbag_png,-1,2,1,50,,,,400|8,,,
 21,-1,-1,,,2592000,1,0,pub_mission_giftbag_png,-1,2,3,8,,,,,,,
 22,-1,-1,,,2592000,1,0,battle_arena_giftbag_png,-1,2,3,7,,,,,,,
 23,-1,7,44435,,604800,1,0,shelter_giftbag_png,-1,2,1,10,,,,,,,
@@ -31,10 +31,10 @@ id,desc,days,date,limit,last_time,server_type,special_interval,icon,title,type1,
 30,-1,-1,,,,1,0,activity_cv_png,-1,2,1,1,,,,,,,
 31,-1,-1,,,604800,1,0,limit_five_star_giftbag_png,-1,1,1,17,37,,,,,,
 32,-1,-1,,,2592000,1,0,activity_world_boss_png,-1,2,3,10,,,,,,,
-33,-1,8,44428,,691200,1,0,mid_autumn_activity_png,-1,2,1,30,,,,,,,
+33,-1,8,44456,,691200,1,0,mid_autumn_activity_png,-1,2,1,30,,,,,,,
 34,-1,7,,,604800,1,0,dark_guard_png,-1,2,1,10,,,,,,,
 35,-1,-1,,,,1,0,mana_week_card_png,-1,1,3,7,,,,,,,
-36,-1,7,44386,,604800,1,0,spring_festival_card_png,-1,7,,90,,,,,,,"{'activity_ids':[226,227,86,36,224,225,229,122], 'activity_type':7}"
+36,-1,7,44456,,604800,1,0,spring_festival_card_png,-1,1,1,90,,,,,,,
 37,-1,7,44421,,604800,1,0,activity_jigsaw_png,-1,2,1,10,,,,,,,
 38,-1,-1,,,,1,0,activity_subscription_png,-1,1,3,1,40|41|42,,,,,,
 39,-1,-1,44232,,,1,0,monthly_giftbag_png,-1,1,2,3,43|44|45|46|47|48|199,10113,,,,,
@@ -87,13 +87,13 @@ id,desc,days,date,limit,last_time,server_type,special_interval,icon,title,type1,
 86,-1,14,44386,,604800,1,0,turing_task_png,-1,7,,48,,,,,,,"{'activity_ids':[226,227,86,36,224,225,229,122], 'activity_type':7}"
 87,-1,7,44393,,604800,1,0,welfare_sale_png,-1,2,1,10,,,,,,,
 88,-1,7,44435,,604800,1,0,activity_scratch_card_png,-1,2,1,10,,,,,,,
-89,-1,7,44435,,604800,1,0,activity_value_giftbag_png,-1,1,1,15,78|79|80|81|82,,,,,,
+89,-1,7,44456,,604800,1,0,activity_value_giftbag_png,-1,1,1,15,78|79|80|81|82,,,,,,
 90,-1,7,44442,,604800,1,0,benefit_giftbag03_png,-1,1,1,12,84|85,,,,,,
 91,-1,30,,,,1,0,free_recharge_png,-1,1,1,7,86,,,,,,
 92,-1,-1,,,,1,0,summon_welfare_png,-1,5,,6,,,,,,,
 93,-1,7,,,604800,1,0,activity_making_coffee_png,-1,2,1,10,,,,,,,
 94,-1,7,,,,1,0,,,6,,5,,,,,,,
-95,-1,7,,,,1,0,activity_pray_png,-1,2,1,10,,,,,,,
+95,-1,7,44456,,,1,0,activity_pray_png,-1,2,1,60,,,,,,,
 96,-1,7,,,,1,0,,-1,2,1,10,,,,,,,
 97,-1,-1,,stage#17,,1,0,activity_partner_jackpot_png,-1,2,1,5,,,,,,,
 98,-1,7,,,,1,0,activity_new_trial_png,-1,2,1,10,,,,,,,
@@ -122,7 +122,7 @@ id,desc,days,date,limit,last_time,server_type,special_interval,icon,title,type1,
 121,-1,14,,,1209600,1,0,activity_date_png,-1,4,,,110,,,,,date_choose_window,
 122,-1,7,44442,,604800,1,0,activity_dragon_boat_png,-1,1,1,85,10116|10117|10118|10119|10148,,,,,,
 123,-1,7,,,604800,1,0,activity_energy_summon_png,-1,1,1,10,120,,,,,,
-124,-1,56,44344,,,1,0,,-1,1,1,,121|122|123,,,,,,
+124,-1,56,44456,,,1,0,,-1,1,1,,121|122|123,,,,,,
 125,-1,7,,,604800,1,0,activity_card_png,-1,2,1,10,,,,,,,
 126,-1,14,,,1209600,1,0,school_explore_png,-1,7,,3,,,,,,,
 127,-1,14,,,1209600,1,0,birthday_colour_png,-1,7,,2,,,,,,,
@@ -145,8 +145,8 @@ id,desc,days,date,limit,last_time,server_type,special_interval,icon,title,type1,
 144,-1,7,44449,,604800,1,0,activity_little_red_png,-1,1,1,90,138|317|318,,,,,,
 145,-1,3,44241,,172800,1,0,graver_giftbag_png,-1,1,1,90,139|140|202|203,,,,,,
 146,-1,-1,44099,stage#22,,1,0,tower_fund_giftbag_icon_png,-1,1,3,3,141|142|143|284,,,,,,
-147,-1,7,44435,,604800,1,0,benefit_giftbag02_png,-1,1,1,13,144|145,,,,,,
-148,-1,7,44435,,604800,1,0,benefit_giftbag03_png,-1,1,1,12,146|147,,,,,,
+147,-1,7,44456,,604800,1,0,benefit_giftbag02_png,-1,1,1,13,144|145,,,,,,
+148,-1,7,44456,,604800,1,0,benefit_giftbag03_png,-1,1,1,12,146|147,,,,,,
 149,-1,7,44379,,,1,0,activity_ice_secret_boss_png,-1,,,15,,,,,,,"{'activity_ids':[134,135,136,149], 'activity_type':0}"
 150,-1,7,44134,,1209600,1,0,halloween_enter_png,-1,2,1,15,,,,,,,
 151,-1,-1,,,,1,0,graver_giftbag_png,-1,5,,5,,,,,,,
@@ -176,7 +176,7 @@ id,desc,days,date,limit,last_time,server_type,special_interval,icon,title,type1,
 175,-1,27,44218,,604800,1,0,artifact_shop_warm_up_png,-1,7,,101,189,,,,,artifact_shop_warm_up_window,
 176,-1,-1,44218,,604800,1,0,activity_newbee_fund_png,-1,1,1,99,190,,,,,activity_window,
 177,-1,-1,44218,stage#6,604800,1,0,newbee_10gacha_activity_icon_png,-1,7,,10,191|192|193,,,,,activity_window,"{'activity_ids':[177,179,180], 'activity_type':7}"
-178,-1,7,44428,,604800,1,0,activity_gamble_plus_png,-1,2,1,49,194,,,,,activity_window,
+178,-1,7,44431,,604800,1,0,activity_gamble_plus_png,-1,2,1,49,194,,,,,activity_window,
 179,-1,-1,44225,stage#6,604800,1,0,newbee_gacha_pool_activity_icon_png,-1,7,,9,,,,,,activity_window,"{'activity_ids':[177,179,180], 'activity_type':7}"
 180,-1,-1,44225,stage#6,604800,1,0,activity_newbee_gacha_png,-1,7,,8,195|196|197,,,,,activity_window,"{'activity_ids':[177,179,180], 'activity_type':7}"
 181,-1,7,44239,,604800,1,0,activity_newyear_welfare_png,-1,2,1,49,,,,,,,
@@ -209,10 +209,10 @@ id,desc,days,date,limit,last_time,server_type,special_interval,icon,title,type1,
 208,-1,7,44330,stage#3,,1,0,activity_time_partner_png,-1,7,,7,,,,,,,"{'activity_ids':[206,207,208,209], 'activity_type':7}"
 209,-1,7,44330,stage#3,604800,1,0,activity_time_gift_png,-1,7,,9,276|277|278,,,,,,"{'activity_ids':[206,207,208,209], 'activity_type':7}"
 210,-1,7,44400,,604800,1,0,activity_giftbag_optional_png,-1,1,1,100,279|280|281,,,,,,
-211,-1,14,44351,,604800,1,0,activity_space_explore_supply_png,-1,7,,11,285|286|287|288|289|290,,,,,activity_window,"{'activity_ids':[214,211,212,213], 'activity_type':7}"
-212,-1,14,44351,,,1,0,activity_space_explore_mission_png,-1,7,,10,,,,,,activity_window,"{'activity_ids':[214,211,212,213], 'activity_type':7}"
-213,-1,14,44351,,,1,0,activity_space_explore_team_png,-1,7,,20,,,,,,activity_window,"{'activity_ids':[214,211,212,213], 'activity_type':7}"
-214,-1,14,44351,,,1,0,activity_space_explore_png,-1,7,,30,,,,,,activity_window,"{'activity_ids':[214,211,212,213], 'activity_type':7}"
+211,-1,14,44456,,604800,1,0,activity_space_explore_supply_png,-1,7,,11,285|286|287|288|289|290,,,,,activity_window,"{'activity_ids':[214,211,212,213], 'activity_type':7}"
+212,-1,14,44456,,,1,0,activity_space_explore_mission_png,-1,7,,10,,,,,,activity_window,"{'activity_ids':[214,211,212,213], 'activity_type':7}"
+213,-1,14,44456,,,1,0,activity_space_explore_team_png,-1,7,,20,,,,,,activity_window,"{'activity_ids':[214,211,212,213], 'activity_type':7}"
+214,-1,14,44456,,,1,0,activity_space_explore_png,-1,7,,30,,,,,,activity_window,"{'activity_ids':[214,211,212,213], 'activity_type':7}"
 215,-1,-1,44358,,,1,0,activity_optional_supply_png,-1,5,,5,,,,,,,
 216,-1,-1,,,1209600,1,0,activity_newbee_lesson_png,-1,3,,9,,,,,,,
 217,-1,-1,,,1209600,1,0,newbee_lesson_giftbag_png,-1,3,,8,293|294|295|296,,,,,,
@@ -237,7 +237,11 @@ id,desc,days,date,limit,last_time,server_type,special_interval,icon,title,type1,
 236,-1,7,,,,1,0,,,,,,,,,,,,
 237,-1,7,,,,1,0,,,,,,,,,,,,
 238,-1,3,44442,,,1,0,,,7,,,,,,,,,"{'activity_ids':[240], 'activity_type':7}"
-239,-1,7,44428,,,1,0,activity_equip_level_antique_png,-1,2,1,29,,,,,,,
+239,-1,7,44456,,,1,0,activity_equip_level_antique_png,-1,2,1,29,,,,,,,
 240,-1,14,44442,,,1,0,activity_encounter_story_png,-1,,,20,,,,,,,"{'activity_ids':[161,240], 'activity_type':7}"
 241,-1,-1,44442,,,1,0,activity_optional_supply_png,-1,5,,5,,,,,,,
 242,-1,7,44449,,,1,0,activity_dress_gacha_award_png,-1,2,1,60,,,,,,,
+243,-1,7,44463,,,1,0,,-1,7,,,319,,,,,,"{'activity_ids':[243], 'activity_type':7}"
+244,-1,7,44456,,,1,0,activity_equip_exchange_png,-1,2,1,28,,,,,,,
+245,-1,7,44463,,,1,0,,-1,2,1,49,,,,,,,
+246,-1,-1,44468,,2592000,1,0,activity_world_boss_png,-1,2,3,10,,,,,,,

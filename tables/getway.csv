@@ -158,3 +158,4 @@ id,name,lv_limit,function_id,stage,go_window,go_params,is_close,close_win_name,l
 159,-1,0,,,activity_window,"select:144,activity_type2:1",1,,,
 160,-1,0,,,activity_window,"select:184,activity_type2:1",1,,,
 161,-1,0,,,activity_window,"select:235,activity_type2:1",1,,,
+162,-1,0,,,activity_window,"select:95,activity_type2:1",1,,,

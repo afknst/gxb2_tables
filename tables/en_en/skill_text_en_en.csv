@@ -2728,12 +2728,12 @@ A control effect. During this effect, girls affected will not be able to deal Ba
 100002700,,,
 100002702,,,
 100002703,,,
-646101,Burning Blade 1,Antique Skill,Provides a shield that can prevent 1 direct damage or DoT damage when owner takes lethal damage (Can be triggered only once in each battle)
-646201,Burning Blade 2,Antique Skill,Provides a shield that can prevent 1 direct damage or DoT damage when owner takes lethal damage (Can be triggered only once in each battle)
-646301,Burning Blade 3,Antique Skill,Provides a shield that can prevent 2 direct damage or DoT damage when owner takes lethal damage (Can be triggered only once in each battle)
-646401,Burning Blade 4,Antique Skill,Provides a shield that can prevent 2 direct damage or DoT damage when owner takes lethal damage (Can be triggered only once in each battle)
-646501,Burning Blade 5,Antique Skill,Provides a shield that can prevent 3 direct damage or DoT damage when owner takes lethal damage (Can be triggered only once in each battle)
-646601,Burning Blade 6,Antique Skill,Provides a shield that can prevent 3 direct damage or DoT damage when owner takes lethal damage (Can be triggered only once in each battle)
+646101,Antique Burning Blades 1,Antique Skill,Provides a shield that can prevent 1 direct damage or DoT damage when owner takes lethal damage (Can be triggered only once in each battle)
+646201,Antique Burning Blades 2,Antique Skill,Provides a shield that can prevent 1 direct damage or DoT damage when owner takes lethal damage (Can be triggered only once in each battle)
+646301,Antique Burning Blades 3,Antique Skill,Provides a shield that can prevent 2 direct damage or DoT damage when owner takes lethal damage (Can be triggered only once in each battle)
+646401,Antique Burning Blades 4,Antique Skill,Provides a shield that can prevent 2 direct damage or DoT damage when owner takes lethal damage (Can be triggered only once in each battle)
+646501,Antique Burning Blades 5,Antique Skill,Provides a shield that can prevent 3 direct damage or DoT damage when owner takes lethal damage (Can be triggered only once in each battle)
+646601,Antique Burning Blades 6,Antique Skill,Provides a shield that can prevent 3 direct damage or DoT damage when owner takes lethal damage (Can be triggered only once in each battle)
 5201200,Ithil,Basic Attack,Basic Attack
 65201900,Ithil,Basic Attack,Basic Attack
 75201200,Ithil,Basic Attack,Basic Attack
@@ -3103,12 +3103,12 @@ Mark effect, enemies with an Equilibrium Mark will take (25% of Maximum HP) dama
 100002501,Dire,Calamity Lance,"Dire summons giant lances from the underground, dealing damage to all his enemies and has a 30% chance to apply a random control effect to each target for 3 rounds."
 100002502,Dire,Endless Nightmare,Dire can fully recover and gain attribute boost everytime his Hp bar is emptied.
 100002503,Dire,Deadly Mist,The mist spreaded by Dire will reduce the healing effect of all his enemies by 80%
-649101,Carnival Staff 1,Antique Skill,Immune Stun
-649201,Carnival Staff 2,Antique Skill,Immune Stun
-649301,Carnival Staff 3,Antique Skill,Immune Stun
-649401,Carnival Staff 4,Antique Skill,Immune Stun
-649501,Carnival Staff 5,Antique Skill,Immune Stun
-649601,Carnival Staff 6,Antique Skill,Immune Stun
+649101,Antique Carnival Staff 1,Antique Skill,Immune Stun
+649201,Antique Carnival Staff 2,Antique Skill,Immune Stun
+649301,Antique Carnival Staff 3,Antique Skill,Immune Stun
+649401,Antique Carnival Staff 4,Antique Skill,Immune Stun
+649501,Antique Carnival Staff 5,Antique Skill,Immune Stun
+649601,Antique Carnival Staff 6,Antique Skill,Immune Stun
 5401200,Krystal,Basic Attack,Basic Attack
 65401900,Krystal,Basic Attack,Basic Attack
 75401200,Krystal,Basic Attack,Basic Attack
@@ -3467,12 +3467,12 @@ When Rogue Crits, deals an additional (100% of Attack damage) against all her en
 Skill effect, when controlled, remove 1 stack of Disrespect to immune from the control effect.
 [c][e28002]Dauntless:[-][/c]
 Mark effect, when taking damage from Active Skill or Basic Attack, remove 1 stack of Dauntless reduce 50% of Damage and reflects back on the attacker."
-670701,Sacred Vial Antique 1,Antique Skill,Reduces DoT received by 20%
-670801,Sacred Vial Antique 2,Antique Skill,Reduces DoT received by 30%
-670901,Sacred Vial Antique 3,Antique Skill,Reduces DoT received by 40%
-671001,Sacred Vial Antique 4,Antique Skill,Reduces DoT received by 50%
-671101,Sacred Vial Antique 5,Antique Skill,Reduces DoT received by 60%
-671201,Sacred Vial Antique 6,Antique Skill,Reduces DoT received by 70%
+670701,Antique Sacred Vial 1,Antique Skill,Reduces DoT received by 20%
+670801,Antique Sacred Vial 2,Antique Skill,Reduces DoT received by 30%
+670901,Antique Sacred Vial 3,Antique Skill,Reduces DoT received by 40%
+671001,Antique Sacred Vial 4,Antique Skill,Reduces DoT received by 50%
+671101,Antique Sacred Vial 5,Antique Skill,Reduces DoT received by 60%
+671201,Antique Sacred Vial 6,Antique Skill,Reduces DoT received by 70%
 300101,Warrior Suit,Added Protection,"After a Warrior in team (including the owner) is attacked, damage received by owner will be reduced by 1.5%. This effect can be stacked 8 times."
 300102,Warrior Suit,Added Protection,"After a Warrior in team (including the owner) is attacked, damage received by owner will be reduced by 2.5%. This effect can be stacked 8 times."
 300103,Warrior Suit,Added Protection,"After a Warrior in team (including the owner) is attacked, damage received by owner will be reduced by 3.5%. This effect can be stacked 8 times."
@@ -4302,7 +4302,7 @@ Skill effect, when Vivian takes damage, the enemy tagged with Galaxy will also r
 752004042,Caitlyn,Break Shot,"Basic Attack targets the enemy with lowest HP, dealing (124% of Attack) damage, steals 20% of Attack from the target for 3 rounds"
 752004043,Caitlyn,Break Shot,"Basic Attack targets the enemy with lowest HP, dealing (126% of Attack) damage, steals 20% of Attack from the target for 3 rounds"
 752004044,Caitlyn,Break Shot,"Basic Attack targets the enemy with lowest HP, dealing (128% of Attack) damage, steals 20% of Attack from the target for 3 rounds"
-752004045,Caitlyn,Break Shot,"Basic Attack targets the enemy with lowest HP, dealing (130% of Attack) damage, steals 20% of Attack from the target for 3 rounds"
+752004045,Caitlyn,Break Shot,"Basic Attack targets the enemy with lowest HP, dealing (130% of Attack) damage, steals 22% of Attack from the target for 3 rounds"
 752005011,Guan Yin,Invincible,"
 Deals (165% of Attack) damage against 4 random enemies, dealing extra (46% of Attack) [c][01a310]Bleed[-][/c] damage and extra (46% of Attack) [c][01a310]Poison[-][/c] damage for 3 rounds and gains 50% attack for 3 rounds.
 [c][01a310]Bleed:[-][/c]
@@ -6544,12 +6544,12 @@ Skill effect, at the start of battle, Speed increases by 80 (until Skye is defea
 Skill effect, reduces 80% of all damages received for 3 rounds (can only trigger once). 
 [c][e28002]Anoxia:[-][/c]
 Mark effect, each stack of Anoxia reduces the target enemy\'s Speed by 50, can stack maximum 5 times (higher ranked effect prioritized in cases where multiple Skyes are on the battlefield). When a target with Anoxia is defeated, each stack of Anoxia will restore 8% of the Maximum HP for the ally with the lowest HP."
-671901,Deception 1,Antique Skill,"At the beginning of each round, provides owner and 1 random ally 10% additional Damage Reduction for 1 round."
-672001,Deception 2,Antique Skill,"At the beginning of each round, provides owner and 1 random ally 12% additional Damage Reduction for 1 round."
-672101,Deception 3,Antique Skill,"At the beginning of each round, provides owner and 1 random ally 14% additional Damage Reduction for 1 round."
-672201,Deception 4,Antique Skill,"At the beginning of each round, provides owner and 1 random ally 16% additional Damage Reduction for 1 round."
-672301,Deception 5,Antique Skill,"At the beginning of each round, provides owner and 1 random ally 18% additional Damage Reduction for 1 round."
-672401,Deception 6,Antique Skill,"At the beginning of each round, provides owner and 1 random ally 20% additional Damage Reduction for 1 round."
+671901,Antique Deception 1,Antique Skill,"At the beginning of each round, provides owner and 1 random ally 10% additional Damage Reduction for 1 round."
+672001,Antique Deception 2,Antique Skill,"At the beginning of each round, provides owner and 1 random ally 12% additional Damage Reduction for 1 round."
+672101,Antique Deception 3,Antique Skill,"At the beginning of each round, provides owner and 1 random ally 14% additional Damage Reduction for 1 round."
+672201,Antique Deception 4,Antique Skill,"At the beginning of each round, provides owner and 1 random ally 16% additional Damage Reduction for 1 round."
+672301,Antique Deception 5,Antique Skill,"At the beginning of each round, provides owner and 1 random ally 18% additional Damage Reduction for 1 round."
+672401,Antique Deception 6,Antique Skill,"At the beginning of each round, provides owner and 1 random ally 20% additional Damage Reduction for 1 round."
 753014011,Skye,Anaerobic Storm,"
 This is sure not your ordinary wind! Skye deals (214% of Attack) damage to 3 random enemies and stacks them with 2 [c][e28002]Anoxia[-][/c], dealing an additional (254 + Speed difference between Skye and her target)% of Attack Damage (not exceeding 800% additional Attack Damage). If the enemy has higher speed, steal 150 Speed for 3 rounds.
 
@@ -9116,3 +9116,20 @@ Skill Effect, cannot be stacked. At the end of each Round, the owner of [c][e280
 503107,Sky Island,Energy Recovery,"Starting from Round 3, all Backline enemies recover 50 Energy at the end of each Round."
 503108,Sky Island,Take Cover,"In odd-number Rounds, all Frontline enemies gain 50% Block."
 503109,Sky Island,Time to Attack,"In even-number Rounds, all Backline enemies gain 50% Crit Damage."
+6448101,Thorn's Heart,Advanced Skill,"Deals (10% of target's maximum HP, no more than 2500% of owner's Attack) extra damage when Crit is triggered with Basic Attack or Active skill."
+6448201,Thorn's Heart,Advanced Skill,"Deals (17.5% of target's maximum HP, no more than 2500% of owner's Attack) extra damage when Crit is triggered with Basic Attack or Active skill."
+6448301,Thorn's Heart,Advanced Skill,"Deals (25% of target's maximum HP, no more than 2500% of owner's Attack) extra damage when Crit is triggered with Basic Attack or Active skill."
+6490101,Chainblade Axe,Advanced Skill,"When the owner deals Active Skills or Basic Attacks, heals the owner by 30% of the damage dealt. (the extra damages mentioned in Active Skills or Passive skills will not be calculated)"
+6490201,Chainblade Axe,Advanced Skill,"When the owner deals Active Skills or Basic Attacks, heals the owner by 60% of the damage dealt. (the extra damages mentioned in Active Skills or Passive skills will not be calculated)"
+6490301,Chainblade Axe,Advanced Skill,"When the owner deals Active Skills or Basic Attacks, heals the owner by 90% of the damage dealt. (the extra damages mentioned in Active Skills or Passive skills will not be calculated)"
+6460101,Echoes,Advanced Skill,"When the owner takes damage, reduce the damage received by 50% of the owner's Attack; If the owner still takes damage after the damage reduction, heals the owner by 15% of the owner's Attack"
+6460201,Echoes,Advanced Skill,"When the owner takes damage, reduce the damage received by 100% of the owner's Attack; If the owner still takes damage after the damage reduction, heals the owner by 30% of the owner's Attack"
+6460301,Echoes,Advanced Skill,"When the owner takes damage, reduce the damage received by 200% of the owner's Attack; If the owner still takes damage after the damage reduction, heals the owner by 50% of the owner's Attack"
+6466101,Burning Blades,Advanced Skill,"After the Antique's shield is destroyed, heals the owner by 5% of maximum HP, increases the owner's Damage Depletion by 10% for 2 rounds"
+6466202,Burning Blades,Advanced Skill,"The shield can prevent 4 damages now; After the Antique's shield is destroyed, heals the owner by 10% of maximum HP, increases the owner's Damage Depletion by 15% for 2 rounds"
+6466302,Burning Blades,Advanced Skill,"The shield can prevent 4 damages now; After the Antique's shield is destroyed, heals the owner by 20% of maximum HP, increases the owner's Damage Depletion by 25% for 2 rounds"
+6478101,Neutron Blades,Advanced Skill,"Provides the owner 10% Extra Control Rate, 10 Speed in battle"
+6478201,Neutron Blades,Advanced Skill,"Provides the owner 15% Extra Control Rate, 20 Speed in battle"
+6478301,Neutron Blades,Advanced Skill,"Provides the owner 20% Extra Control Rate, 30 Speed in battle"
+6466201,Antique Burning Blades 6,Antique Skill,Provides a shield that can prevent 3 direct damage or DoT damage when owner takes lethal damage (Can be triggered only once in each battle)
+6466301,Antique Burning Blades 6,Antique Skill,Provides a shield that can prevent 3 direct damage or DoT damage when owner takes lethal damage (Can be triggered only once in each battle)

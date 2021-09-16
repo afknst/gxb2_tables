@@ -19,7 +19,7 @@ id,name,from,content
 18,Girls Assembly Rewards,System Message,Congratulations! You reached a goal during the Girls Assembly Event. The following are your rewards.
 19,Beta Period Reload Rebate,System Message,Thank you for purchasing {1}. Here is your bonus reward for supporting us during the testing phase!
 20,Lottery Rewards,System Message,Congratulations! You reached {1} points during the Slot Machine Event! Here are your rewards~!
-21,Daily Rewards,System Message,"Login every day during the event and you will receive Elemental Orb x 100, Adv. Capsule Coin x 1, Advance Internship Scroll x 1. Your rewards are attached."
+21,Daily Rewards,System Message,"Login every day during the event and you will receive Elemental Orb x 100, Advance Internship Scroll x 1. Your rewards are attached."
 22,Internship Rewards,System Message,Congratulations! You've completed {1} star internship quest during the Internship Event! Here are your rewards.
 23,Reload Notice,System Message,Thank you for purchasing {1}. Your items are available in Bag. Have a look~!
 24,Daily Rewards,System Message,"Login every day during the event and you will receive Rudder x 5, Gem x 150, Scratch Ticket x 1. Your rewards are attached."
@@ -59,7 +59,7 @@ id,name,from,content
 58,Guild War Final Round,System Message,Congratulations! Your guild is ranked in Top {1} in the Final Round of the Guild War. Here are your rewards!
 59,Guild War Final Round,System Message,"Congratulations! Your guild was the runner up in the Guild War Final Round! To reward your skill and valor, here is your prize!"
 60,Guild War Final Round,System Message,"Congratulations! Your guild was the champion in the Guild War Final Round! To reward your skill and valor, here is your prize!"
-61,3rd Anniversary Gift Card,System Message,You are a Lv. {1} user and you get the following rewards today. Your 3rd Anniversary Card still has {3} days to expire!
+61,Moon Festival Card,System Message,You are a Lv. {1} user and you get the following rewards today. Your Moon Festival Card still has {3} days to expire!
 62,Monthly Pass just renewed,Monthly Pass,Thank you for renewing your Monthly Pass. Your current subscription expires in {1} days.
 63,Mini Pass just renewed,Mini Pass,Thank you for renewing your Mini Pass. Your current subscription expires in {1} days.
 64,Jigsaw Puzzle Event,Event Mail,Congratulations! You completed {1} Jigsaw Puzzles. You've earned the following rewards!
