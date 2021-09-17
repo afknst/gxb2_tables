@@ -8,7 +8,7 @@ id,skill_desc
 1007,Increase HP by [c][DE512B]{1}[-][/c] and Attack by [c][DE512B]{2}[-][/c] for Adventure Team.
 1008,"Increase HP by [c][DE512B]{1}[-][/c] and Attack by [c][DE512B]{2}[-][/c] for Adventure Team, and detect the location of enemies in Bizarre Adventures"
 1009,Increase Armor by [c][DE512B]{1}[-][/c] and Attack by [c][DE512B]{2}[-][/c] for Adventure Team.
-1010,"Increase HP by [c][DE512B]{1}[-][/c], Attack by color=0xDE512B>{2}</font> and Armor by [c][DE512B]{3}[-][/c] for Adventure Team"
+1010,"Increase HP by [c][DE512B]{1}[-][/c], Attack by [c][DE512B]{2}[-][/c] and Armor by [c][DE512B]{3}[-][/c] for Adventure Team"
 2001,1. Increase Attack by [c][DE512B]{1}[-][/c] for Adventure Team
 2002,2. Increase Armor by [c][DE512B]{1}[-][/c] for Adventure Team
 2003,3. Increase HP by [c][DE512B]{1}[-][/c] for Adventure Team

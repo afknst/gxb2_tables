@@ -9127,7 +9127,7 @@ Skill Effect, cannot be stacked. At the end of each Round, the owner of [c][e280
 6460301,Echoes,Advanced Skill,"When the owner takes damage, reduce the damage received by 200% of the owner's Attack; If the owner still takes damage after the damage reduction, heals the owner by 50% of the owner's Attack"
 6466101,Burning Blades,Advanced Skill,"After the Antique's shield is destroyed, heals the owner by 5% of maximum HP, increases the owner's Damage Depletion by 10% for 2 rounds"
 6466202,Burning Blades,Advanced Skill,"The shield can prevent 4 damages now; After the Antique's shield is destroyed, heals the owner by 10% of maximum HP, increases the owner's Damage Depletion by 15% for 2 rounds"
-6466302,Burning Blades,Advanced Skill,"The shield can prevent 4 damages now; After the Antique's shield is destroyed, heals the owner by 20% of maximum HP, increases the owner's Damage Depletion by 25% for 2 rounds"
+6466302,Burning Blades,Advanced Skill,"The shield can prevent 4 damages now; After the Antique's shield is destroyed, heals the owner by 20% of maximum HP, increases the owner's Damage Depletion by 25% for 3 rounds"
 6478101,Neutron Blades,Advanced Skill,"Provides the owner 10% Extra Control Rate, 10 Speed in battle"
 6478201,Neutron Blades,Advanced Skill,"Provides the owner 15% Extra Control Rate, 20 Speed in battle"
 6478301,Neutron Blades,Advanced Skill,"Provides the owner 20% Extra Control Rate, 30 Speed in battle"
