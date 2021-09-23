@@ -459,9 +459,9 @@ id,name,charge_ios,charge,currency,show_name
 276,Magical Supplies 1,29.99,29.99,$,Magical Supplies
 277,Magical Supplies 2,69.99,69.99,$,Magical Supplies
 278,Magical Supplies 3,99.99,99.99,$,Magical Supplies
-279,Customization Pack 1,49.99,49.99,$,Customization Pack
+279,Customization Pack 1,69.99,69.99,$,Customization Pack
 280,Customization Pack 2,19.99,19.99,$,Customization Pack
-281,Customization Pack 3,4.99,4.99,$,Customization Pack
+281,Customization Pack 3,9.99,9.99,$,Customization Pack
 282,Monthly Pass,9.99,9.99,$,Monthly Pass - First Purchase Discount
 283,Mini Pass,1.99,1.99,$,Mini Pass - First Purchase Discount
 284,Test Fund 4,49.99,49.99,$,Test Fund 4
@@ -532,3 +532,4 @@ id,name,charge_ios,charge,currency,show_name
 316,Outfit Sale Pack 5,99.99,99.99,$,Outfit Sale Pack 5
 317,Red Riding\nHood's Gift,4.99,4.99,$,Red Riding Hood's Gift
 318,Red Riding\nHood's Gift,14.99,14.99,$,Red Riding Hood's Gift
+319,Angel Tea Party Special Pack,14.99,14.99,$,Angel Tea Party Special Pack

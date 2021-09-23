@@ -66,3 +66,5 @@ id,picture,picture_small_size,type,group,name,unlock_type,unlock_value,unlock_de
 65,yingxinhuichang_outside,yingxinhuichang_outside_small,1,2,-1,5,13,-1,1#50000,,2000065,,,,,
 66,login_fool_loading,login_fool_small,2,5,-1,11,1,-1,2#300,,2000066,login_fool_loading,animation,login_fool_bg,-410|640,0|0
 67,login_liquor_0,login_liquor_small,2,5,-1,11,1,-1,2#300,,2000067,login_liquor,animation,login_liquor_bg,-410|640,0|0
+68,houyi_summer_scene,houyi_summer_scene_small,1,5,-1,11,1,-1,2#300,,2000068,,,,,
+69,feisina_summer_scene,feisina_summer_scene_small,1,5,-1,11,1,-1,2#300,,2000069,,,,,

@@ -22,7 +22,7 @@ id,name,from,content
 21,Daily Rewards,System Message,"Login every day during the event and you will receive Elemental Orb x 100, Advance Internship Scroll x 1. Your rewards are attached."
 22,Internship Rewards,System Message,Congratulations! You've completed {1} star internship quest during the Internship Event! Here are your rewards.
 23,Reload Notice,System Message,Thank you for purchasing {1}. Your items are available in Bag. Have a look~!
-24,Daily Rewards,System Message,"Login every day during the event and you will receive Rudder x 5, Gem x 150, Scratch Ticket x 1. Your rewards are attached."
+24,Daily Rewards,System Message,"Login every day during the event and you will receive Rudder x 4, Gem x 150, Fishing Rod x 5. Your rewards are attached."
 25,League Battle Rewards,System Message,Congratulations! You reached a goal during the League event. Here are your rewards~!
 26,Subscription,Subscription,Congratulations! You are a Weekly Pass holder. Your Coin Loot will increase by 100% for the next 168 hours. This benefit is combined with VIP benefits.
 27,Weekly Pass will expire,Weekly Pass,Your Weekly Pass expires today. Please renew your Weekly Pass to continue enjoying the benefits. Looting Coin is increased 100% while the pass is active~!
@@ -150,7 +150,7 @@ id,name,from,content
 149,Newbie Benefit Reward,System Message,"Senpai, congratulations for completing the task. Here's the reward you forgot to claim at the event page!"
 150,Newbie Benefit Progress,System Message,"Senpai, congratulations for getting {1} points in Newbie Benefit! Here's the reward you forgot to claim in the event page!"
 151,Luvly's Reward,Event Mail,"Senpai, congratulations for collecting {1} Coral Branch(es), here's your reward!"
-152,Daily Rewards,System Message,"Login every day during the event and you will receive Rudder x 4, Gem x 150, Scratch Ticket x 1. Your rewards are attached."
+152,Daily Rewards,System Message,"Login every day during the event and you will receive Rudder x 4, Gem x 150, Fishing Rod x 5. Your rewards are attached."
 153,Event Item Retrieve,System Message,"Dear Senpai, event: {1} is ended, {2} x {3} of yours have been retrieved."
 154,Exploration Ranking Reward,System Message,"Congratulations, Senpai! You're No. {1} in this season of Old Campus Exploration, here's your reward!"
 155,Exploration Reward,System Message,"Dear Senpai, the event: Old Campus Exploration has ended, here's your unclaimed reward!"
@@ -198,3 +198,6 @@ Yuki apologizes for the inconvenience, for any further queries, please don’t h
 191,Opening Ceremony Reward,System Message,Congratulations on completing the event task of Outfit Store Opening Ceremony! Here's your reward!
 192,Red Riding Hood,Event Mail,"Thanks for purchasing Red Riding Hood's Gift, here's your reward for today. Your Grade 3 reward will expire in {1} days!"
 193,Red Riding Hood,Event Mail,"Thanks for purchasing Red Riding Hood's Gift, here's your reward for today. Your Grade 2 reward will expire in {1} days!"
+194,Skin Adjustment Compensation,System Message,"Dear Senpai, the background design for the skin ""Watergun Fight"" is adjusted in the recent update. (The background of the skin now is deleted and becomes an available background in Menu-Image). Please take these 300 Gems as compensation, and you can choose to purchase the background (Beach Corner) in Menu-Image with the Gems compensated to you because of this adjustment.\nWe would like to apologize for any inconvenience caused. For any further assistance, please do not hesitate to contact Yuki via the in-game GM channel."
+195,Skin Adjustment Compensation,System Message,"Dear Senpai, the background design for the skin ""Beach Vacation"" is adjusted in the recent update. (The background of the skin now is deleted and becomes an available background in Menu-Image). Please take these 300 Gems as compensation, and you can choose to purchase the background (Beach Store) in Menu-Image with the Gems compensated to you because of this adjustment.\nWe would like to apologize for any inconvenience caused. For any further assistance, please do not hesitate to contact Yuki via the in-game GM channel."
+196,Top Student Reward,Event Mail,"Dear Senpai, congratulations on reaching Division S+ in Entrance Exam! Please take the ""Top Student"" frame as your reward! The frame is available for 28 days, please check it out!"

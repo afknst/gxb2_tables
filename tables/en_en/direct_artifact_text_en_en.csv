@@ -73,3 +73,4 @@ id,artifact_name,artifact_desc
 6634,Crossbow,"Provides Attack and Crit;\nIf its owner belongs to Ghost Faction, it will also provide HP."
 6718,Eternal Dawn,"Provides HP and Damage Depletion, greatly increases owner's survival ability;\nProvides Attack, icreases owner's offensive ability."
 6730,Reaper's Voice,"Provides additional Energy, enables the owner to trigger her Active skill earlier;\nProvides additional Immunity, grants the owner ability to resist Control Skills."
+6736,Nightshade,"Revives the owner and provides additional Energy when the owner is revived, allows the owner to perform better in battles"

@@ -2995,7 +2995,7 @@ GAMBLE_PRO_0,普通販賣機
 GAMBLE_PRO_1,高級販賣機
 ENTRANCE_TEST_SORT,配置
 ACTIVITY_WARMUP_ARENA_HELP,1.入學測驗為新戰姬上線前的預熱活動，活動持續7天，學長需要設立防守陣容，同時戰勝其他學長獲得積分以提升排名。|2.學長需進入戰姬配置介面選擇自己想要上陣的戰姬，只有被加入配置池的戰姬才可上陣，配置池上限為30。|3.入學測驗中可使用的戰姬為學園提供，均為290級滿潛能狀態，同時穿戴天使套裝，學長需為她們搭配合適的龍玉、魂器以及相應的潛能來決定戰姬的具體屬性，待三項屬性均已確定，該戰姬卡牌上會提示「完成」標籤以方便學長進行區分。|4.學長每次戰鬥需花費1張測驗憑證，測驗憑證將在每日8點（UTC/GMT 8)時進行刷新，上限為12張。|5.開放時間內，將根據學長當前積分匹配相近的對手，若勝利則獲得活動積分，若失敗則減少活動積分。|6.作為防守方，若防守成功將獲得活動積分，若防守失敗將減少活動積分，請學長慎重選擇自己的防守陣容。|7.活動結束後將會根據學長所得的排名透過信件發放相應獎勵。
-ACTIVITY_WARMUP_ARENA_PARTNER_TEXT1,戴安娜
+ACTIVITY_WARMUP_ARENA_PARTNER_TEXT1,魯班
 ACTIVITY_WARMUP_ARENA_PARTNER_TEXT2,菲斯納
 ACTIVITY_WARMUP_ARENA_PARTNER_CV1,CV.桜木つぐみ
 ACTIVITY_WARMUP_ARENA_PARTNER_CV2,CV.高野麻美
@@ -3286,7 +3286,7 @@ PET_STORY_UNLOCK,將使魔進化到{1}階解鎖
 THE_PET_HAS_NOT_DATA,該使魔暫無相關故事
 ACTIVITY_ENTRANCE_TEST_BUY_TILI_WINDOW,購買入學測驗憑證
 ACTIVITY_ENTRANCE_TEST_TIME_TIPS,倒數計時後重置為10枚憑證：
-ACTIVITY_ENTRANCE_TEST_TILI_HELP,1.首次參與活動時，將獲得20枚測驗憑證。之後每日0時(UTC/GMT 0)，測驗憑證會重置到[c][cc0011]10枚[-][/c]。|2.學長可點擊購買按鈕透過花費鑽石購買額外憑證，但每日最多購買[c][cc0011]20枚[-][/c]。
+ACTIVITY_ENTRANCE_TEST_TILI_HELP,1.首次參與活動時，將獲得15枚測驗憑證。之後每日0時(UTC/GMT 0)，測驗憑證會重置到[c][cc0011]10枚[-][/c]。|2.學長可點擊購買按鈕透過花費鑽石購買額外憑證，但每日最多購買[c][cc0011]20枚[-][/c]。
 ACTIVITY_ENTRANCE_TEST_TILI_FULL,憑證已滿，無需購買
 ENTRANCE_TEST_UNEQUIP_TIP,未配置完全
 ENTRANCE_TEST_NEW_HERO_TIPS,新戰姬來襲
@@ -3304,11 +3304,11 @@ ENTRANCE_TEST_HELP_TITLE_2_1,戰姬配置
 ENTRANCE_TEST_HELP_TITLE_2_2,防守陣容
 ENTRANCE_TEST_HELP_DES_2_1,達到A檔後，戰姬將提升至15星，之後可為戰姬選擇合適的[c][cc0011]潛能[-][/c]。
 ENTRANCE_TEST_HELP_DES_2_2,待全部配置完畢，該戰姬卡牌上將會顯示「完成」標籤以方便學長進行區分。
-ENTRANCE_TEST_HELP_DES_2_3,在出戰前，請學長為自己設立好[c][cc0011]防守陣容[-][/c]，防守陣容中需使用已配置好的戰姬作為防守方。若防守成功將獲得活動積分，若防守失敗將減少活動積分，請學長慎重選擇自己的防守陣容。
+ENTRANCE_TEST_HELP_DES_2_3,在出戰前，請學長為自己設立好[c][cc0011]防守陣容[-][/c]，防守陣容中需使用已配置好的戰姬作為防守方。若防守失敗將減少活動積分，請學長慎重選擇自己的防守陣容。
 ENTRANCE_TEST_HELP_TITLE_3_1,出戰
 ENTRANCE_TEST_HELP_TITLE_3_2,積分與排名
 ENTRANCE_TEST_HELP_TITLE_3_3,獎勵
-ENTRANCE_TEST_HELP_DES_3_1,滿足戰鬥條件後，點擊[c][cc0011]戰鬥[-][/c]按鈕，即可出戰。\n活動開放時間內，將根據學長當前積分匹配相近的對手，若勝利則獲得活動積分，若失敗則減少活動積分。
+ENTRANCE_TEST_HELP_DES_3_1,滿足戰鬥條件後，點擊[c][cc0011]戰鬥[-][/c]按鈕，即可出戰。\n活動開放時間內，將根據學長當前積分匹配相近的對手，若勝利則獲得活動積分，失敗不會減少活動積分。
 ENTRANCE_TEST_HELP_DES_3_2,每次戰鬥需消耗一枚測驗憑證。\n測驗憑證將在每日0時(UTC/GMT 0)重置到[c][cc0011]10枚[-][/c]。\n學長可點擊購買按鈕透過花費鑽石購買額外憑證。
 ENTRANCE_TEST_HELP_DES_3_3,活動開放期間，學長可實時查看當前積分及排名。
 ENTRANCE_TEST_HELP_DES_3_4,可點擊[c][cc0011]查看獎勵[-][/c]按鈕查看當前的任務與獎勵。\n透過購買[c][cc0011]入學福袋[-][/c]，還可以解鎖更多任務獎勵。
@@ -3712,7 +3712,7 @@ ACTIVITY_LAFULI_DRIFT_GO,請選擇想要行走的步數
 ACTIVITY_LAFULI_DRIFT_CARD,請選擇一張卡片翻開
 ACTIVITY_LAFULI_DRIFT_AWARD,收集獎勵
 ACTIVITY_LAFULI_DRIFT_ROUND,已完成輪數：{1}
-ACTIVITY_LAFULI_DRIFT_HELP,1.點擊「船舵」進行旋轉，拉芙麗將根據旋轉到的點數前進。如果使用「遙控船舵」，可以自選點數。|2.拉芙麗前進時，經過或停留在珊瑚樹時，都會收集到珊瑚枝。每次停留在珊瑚樹時，等級+1（提升獲得的獎勵），最高升至3級。（經過時等級不提升）|3.拉芙麗停留在資源格時，可以獲得對應的物品。每次停留在資源格時，等級+1（提升獲得的獎勵），最高升至3級。|4.拉芙麗停留在海藍珍珠時，可以獲得對應數量的海藍珍珠。海藍珍珠可在商店兌換各種獎勵。活動結束時，未使用的海藍珍珠將自動轉化為金幣，每個100k。|5.拉芙麗停留在海螺屋時，將出現3張蘊藏著不同效果的神祕卡片，選擇其中一張翻開吧~|6.拉芙麗停留在海水漩渦時，下次旋轉船舵時前進的格子數減半。|7.收集到指定數量的珊瑚枝可以獲得獎勵，詳情前往收集珊瑚枝介面查看。|8.珊瑚枝收集獎勵完成一輪後將重置，可以重複獲取。|9.點擊下方“自動尋寶”按鈕，可以自動使用船舵進行尋寶（不消耗遙控船舵），如停留在海螺屋將自動翻開一張卡片。點擊“結束”按鈕或離開活動介面將終止自動尋寶。|10.活動結束時，未使用的船舵（包括遙控船舵）會按照每個船舵2個珊瑚枝進行換算，並且獲得對應的收集獎勵。|11.「船舵」的獲得方式：| - 使用鑽石購買(上限30次)| - 戰姬專屬任務| - 漂流特惠補給獲得| - 超值禮包獲得| - 特惠禮包獲得| - 造型禮包獲得| - 每日信件獲得
+ACTIVITY_LAFULI_DRIFT_HELP,1.點擊「船舵」進行旋轉，拉芙麗將根據旋轉到的點數前進。如果使用「遙控船舵」，可以自選點數。|2.拉芙麗前進時，經過或停留在珊瑚樹時，都會收集到珊瑚枝。每次停留在珊瑚樹時，等級+1（提升獲得的獎勵），最高升至3級。（經過時等級不提升）|3.拉芙麗停留在資源格時，可以獲得對應的物品。每次停留在資源格時，等級+1（提升獲得的獎勵），最高升至3級。|4.拉芙麗停留在海藍珍珠時，可以獲得對應數量的海藍珍珠。海藍珍珠可在商店兌換各種獎勵。活動結束時，未使用的海藍珍珠將自動轉化為金幣，每個100k。|5.拉芙麗停留在海螺屋時，將出現3張蘊藏著不同效果的神祕卡片，選擇其中一張翻開吧~|6.拉芙麗停留在海水漩渦時，下次旋轉船舵時前進的格子數減半。|7.收集到指定數量的珊瑚枝可以獲得獎勵，詳情前往收集珊瑚枝介面查看。|8.珊瑚枝收集獎勵完成一輪後將重置，可以重複獲取。|9.點擊下方“自動尋寶”按鈕，可以自動使用船舵進行尋寶（不消耗遙控船舵），如停留在海螺屋將自動翻開一張卡片。點擊“結束”按鈕或離開活動介面將終止自動尋寶。|10.活動結束時，未使用的船舵（包括遙控船舵）會按照每個船舵2個珊瑚枝進行換算，並且獲得對應的收集獎勵。|11.「船舵」的獲得方式：| - 使用鑽石購買(上限30次)| - 戰姬專屬任務| - 漂流特惠補給獲得| - 超值禮包獲得| - 特惠禮包獲得| - 每日信件獲得
 ONE_KEY_COMPOSE,一鍵合成
 ONE_KEY_COMPOSE_TEXT,學長的資源充足，是否消耗對應資源與材料，一鍵合成為以下裝備？
 ONE_KEY_COMPOSE_TEXT2,當前類型中沒有裝備可以合成
@@ -4358,7 +4358,7 @@ SELECT_ALL,全選
 QUESTIONNAIRE_OTHER_TIPS,文本字數不可超過50個文字或200個字母
 ACTIVITY_SPACE_MAX_LEVEL,已滿級
 ACTIVITY_SPACE_NO_SKILL,無技能
-SPACE_EXPLORE_HELP_02,1.本次異度補給中提供特別限購禮包，活動期間只可以購買一次。|2.特別限購中的戰姬為「異度探險」系列活動中專用的探險戰姬，和現有的戰姬不同。|3.除特別限購的禮包外，其他檔位的禮包的限購次數將會在活動開啟一週後重置。
+SPACE_EXPLORE_HELP_02,1.本次異度補給中提供特別限購禮包，活動期間只可以購買一次。|2.特別限購中的戰姬為「異度探險」系列活動中專用的探險戰姬，和現有的戰姬不同。|3.除特別限購的禮包外，第一週禮包剩餘的限購次數將會在刷新時累加至第二週對應禮包的限購次數。
 SPACE_EXPLORE_SUPPLY_TEXT01,特別限購
 SPACE_EXPLORE_SUPPLY_TEXT02,超值\n推薦
 SPACE_EXPLORE_PREPARE_TEXT01,完成任務獲得對應獎勵，其中每週任務將在活動第二週刷新
@@ -4865,7 +4865,7 @@ ENTRANCE_TEST_PARTNER_LOCK,達到A檔後解鎖
 ENTRANCE_TEST_LEVEL_UP,提升内容
 WARMUP_ARENA_RANK_INFO_2,·戰姬提升至15星330級，同時解鎖戰姬潛能槽\n·所有可選魂器提升至6星\n·使魔等級提升至180級
 WARMUP_ARENA_RANK_INFO_3,·戰姬的精英技能全部提升至5級\n·解鎖使魔核心，其等級繼承自學長的養成狀態\n·使魔技能等級繼承自學長的養成狀態，但不會低於30級
-WARMUP_ARENA_RANK_INFO_4,·已達到最高檔位
+WARMUP_ARENA_RANK_INFO_4,·已達到最高檔位\n·結算時可獲得限定頭像框獎勵
 ENTRANCE_TEST_LEVEL_UP_DESC_1,更新陣容
 SELECT,選擇
 A_OR_B,{1}或{2}
@@ -4880,7 +4880,7 @@ ACADEMY_EXAM_TEXT2,連續挑戰更高關卡，失敗後停止
 ACADEMY_EXAM_TEXT3,連續挑戰更高關卡，失敗後繼續挑戰，直至消耗完考核憑證
 PUB_MISSION_AUTO_TEXT2,沒有已完成的任務
 PUB_MISSION_AUTO_TEXT3,包含6星或7星打工任務，是否繼續？
-ACTIVITY_ENTRANCE_TEST_RANK_WINDOW_1,排名前{1}獎勵
+ACTIVITY_ENTRANCE_TEST_RANK_WINDOW_1,結算後獲得限時頭像框
 ACTIVITY_ENTRANCE_TEST_RANK_WINDOW_2,排名前{1}晉升
 ACTIVITY_ENTRANCE_TEST_RANK_WINDOW_3,您已達到最高檔位
 ACTIVITY_ENTRANCE_TEST_RANK_WINDOW_4,倒數計時後確定檔位：
@@ -4891,12 +4891,12 @@ ENTRANCE_TEST_LEVEL_UP_NEED,升檔要求
 WARMUP_ARENA_REACH_RANK_HELP,達到{1}檔後：|{2}|達到{3}檔後:|{4}|達到{5}檔後：|{6}
 ENTRANCE_TEST_LEVEL_UP_ING,定檔中…
 WARMUP_ARENA_TASK_INFO_1,新生挑戰
-WARMUP_ARENA_TASK_INFO_2,戴安娜-尋星之人
+WARMUP_ARENA_TASK_INFO_2,魯班-回歸！
 WARMUP_ARENA_TASK_INFO_3,挑戰任務
 WARMUP_ARENA_TASK_INFO_4,福袋獎勵
 WARMUP_ARENA_TASK_INFO_5,完成標星任務後解鎖
 ACTIVITY_ENTRANCE_TEST_RECORD_TIPS,學長與對手目前不在同一檔位，無法進行挑戰！
-WARMUP_ARENA_TASK_HELP,1.完成新生挑戰任務，可以獲得豐厚的獎勵。|2.透過購買入學福袋，可以解鎖額外的大量獎勵。|3.完成星標任務後，可以解鎖一段新劇情，為學長揭示新戰姬與幽夢學院各位學員們的故事。
+WARMUP_ARENA_TASK_HELP,1.完成新生挑戰任務，可以獲得豐厚的獎勵。|2.透過購買入學福袋，可以解鎖額外的大量獎勵。|3.每獲得一個星標，可以解鎖一段新劇情，為學長揭示新戰姬與幽夢學院各位學員們的故事。
 ENTRANCE_TEST_NO_FIGHT_PARTNERS,檢測到學長尚未佈置進攻陣容，是否要直接沿用當前的防守陣容？
 PUB_MISSION_AUTO_TEXT4,選擇已完成任務
 LIMITED_FOR_ACTIVITY,活動限定
@@ -4975,3 +4975,31 @@ ACTIVITY_PRAY_GEM_TIPS,消耗許願幣便可獲得{1}
 SPACE_EXPLORE_AUTO_TIPS,到達{1}層后開啟
 SPACE_EXPLORE_AUTO_TIPS2,自動探險
 ACTIVITY_PRAY_LIMIT_BUY,剩餘次數：{1}/{2}
+ACTIVITY_TEA_TITLE1,前往任務
+ACTIVITY_TEA_TITLE2,天使茶會
+ACTIVITY_TEA_TITLE3,天使茶會\n造型福利禮包
+ACTIVITY_TEA_TEXT1,1.活動期間，可透過完成每日任務獲得茶會點數，每完成一個每日任務後可以獲得一點茶會點數。|2.累積茶會點數，達到10點、20點、40點、60點后後可開啟和路西菲爾的互動劇情，完成劇情後可以獲得對應的豐厚獎勵。獎勵需要學長手動領取。|3.購買天使茶會造型福利禮包後，茶會點數將直接達到最大值，可直接解鎖所有劇情。
+ACTIVITY_TEA_TEXT2,人氣戰姬路西菲爾的投票冠軍造型禮包，超高返利，獨一無二的造型。
+ACTIVITY_TEA_TEXT3,完成上一章劇情後解鎖
+ACTIVITY_TEA_TEXT4,茶會進度
+ACTIVITY_TEA_TEXT5,完成對應章節的劇情後可以領取獎勵
+ACTIVITY_FISH_HELP,1.活動期間，學長可以透過每日信件、拉芙麗漂流記活動、戰姬專屬任務、漂流特惠補給、超值禮包和特惠禮包獲取「魚竿」。在拉芙麗漂流記活動中每消耗1個「船舵」或「遙控船舵」便可以獲得1個「魚竿」。|2.消耗5個「魚竿」便可以進行1次垂釣。根據垂釣結果，學長可以獲得一份對應獎勵。如果垂釣獲得的魚為美人魚的需求，則額外獲得美人魚的贈禮。|3.美人魚的需求在完成後刷新，同時刷新美人魚的贈禮。|4.如果垂釣獲得的魚不為美人魚的需求，則每次垂釣時，完成美人魚需求的機率增加10%%，直到垂釣獲得美人魚的需求。|5.在垂釣中得到的魚，還將根據長度獲得小金冠和小銀冠（小金冠和小銀冠僅作展示，不會影響獲得的獎勵）。|6.根據在本次活動中獲得魚的數量，將獲得對應累計獎勵。|7.活動結束後，未使用完的「魚竿」將會自動回收，每個價格為20K金幣，回收後獲得的金幣將透過信件發放。
+ACTIVITY_FISH_BUTTON01,圖鑑
+ACTIVITY_FISH_BUTTON02,累計獎勵
+ACTIVITY_FISH_SKIP,跳過動畫
+ACTIVITY_FISH_AWARD_TITLE,獎勵預覽
+ACTIVITY_FISH_AWARD_TEXT01,固定垂釣獎勵
+ACTIVITY_FISH_AWARD_TEXT02,額外垂釣獎勵
+ACTIVITY_FISH_GET_TITLE,垂釣結果
+ACTIVITY_FISH_GET_LENGTH,長度：{1}cm
+ACTIVITY_FISH_BOOK,垂釣圖鑑
+ACTIVITY_FISH_BOOK_TEXT01,獲取數量：
+ACTIVITY_FISH_BOOK_TEXT02,歷史最長：
+ACTIVITY_FISH_BOOK_TEXT03,歷史最短：
+ACTIVITY_FISH_GET_AWARD,獲得物品
+ACTIVITY_FISH_TOTAL_TITLE,垂釣獎勵
+ACTIVITY_FISH_UNLOCK_TIPS,尚未獲得該條魚，請繼續垂釣試試哦~
+ACTIVITY_FISH_TOTAL_TEXT,累計垂釣{1}次
+ACTIVITY_ENTRANCE_TEST_RANK_SHOW_TEXT,排名展示
+ACTIVITY_WARMUP_ARENA_RANK_DEMAND,該任務需要學長達到{1}檔哦！
+ACTIVITY_TEA_TEXT6,茶會點數不足，完成每日任務可獲得茶會點數。

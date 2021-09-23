@@ -54,3 +54,5 @@ id,name,item_id,get_limit,show_activity,lv_limit,function_id,go_window,go_params
 54,-1,,,230,0,,activity_window,"select:230,large_series:1"
 55,-1,,,233,0,,activity_window,"select:233,large_series:1"
 56,-1,,,16,0,,campaign_window,
+57,-1,,,245,0,,,
+58,-1,,,245,0,,activity_window,"select:166,activity_type2:1"

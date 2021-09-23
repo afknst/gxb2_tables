@@ -3002,7 +3002,7 @@ GAMBLE_PRO_0,Slot Machine
 GAMBLE_PRO_1,Super Slot Machine
 ENTRANCE_TEST_SORT,Setup
 ACTIVITY_WARMUP_ARENA_HELP,"1. Entrance Exam is a pre-release event for new girls, the event will last for 7 days. You will need to set up your own defense lineup. You can promote your position in the ranking list by defeating the Defense lineup of other players and gain points.|2. You will need to enter the Setup menu to select the girls you want to add in your lineup. Only the girls you added to the Setup Box can be selected. The Setup Box can contain 30 girls at most.|3. The Girls you can add to Setup Box in this event are at Lv. 290 and equipped with Angel set gears but they will still need you to adjust their Crystals, Antiques and potentials. After you've completed the adjustment of a girl, she will be marked with a ""Done"" tag to distinguish her from the unadjusted girls.|4. You will need to cost 1 Test Certificate for each battle you engage, the Test Certificates you hold will be refilled to 12 at 0:00 (UTC/GMT 0) every day.|5. During the event is on, the system will match you with opponents whose points are close to yours. You will gain more points for winning battles and lose some points for losing.|6. Rule No.5 also goes the same when you win or lose as the defender, so please set up your Defense lineup wisely.|7. After the event is over, you will receive rewards via Mail according to your position in the ranking list at the end of the event."
-ACTIVITY_WARMUP_ARENA_PARTNER_TEXT1,Diana
+ACTIVITY_WARMUP_ARENA_PARTNER_TEXT1,Sivney
 ACTIVITY_WARMUP_ARENA_PARTNER_TEXT2,Frexie
 ACTIVITY_WARMUP_ARENA_PARTNER_CV1,CV: Tsugumi Sakuragi
 ACTIVITY_WARMUP_ARENA_PARTNER_CV2,CV: Asami Takano
@@ -3293,7 +3293,7 @@ PET_STORY_UNLOCK,Unlock after evolving the Servant to stage {1}.
 THE_PET_HAS_NOT_DATA,Librarian is still collecting informations of this Servant
 ACTIVITY_ENTRANCE_TEST_BUY_TILI_WINDOW,Purchase Test Certificate
 ACTIVITY_ENTRANCE_TEST_TIME_TIPS,Reset to 10 Test Certificates after:
-ACTIVITY_ENTRANCE_TEST_TILI_HELP,"1. You will obtain 20 Test Certificates when you enter the event page for the first time. The number of Test Certificates will be reset to 10 Test Certificates at 0:00 (UTC/GMT 0) every day during the event.|2. Extra Test Certificates can be purchased with Gems, but there is a daily limit of [c][cc0011]20[-][/c] extra Test Certificates that can be purchased."
+ACTIVITY_ENTRANCE_TEST_TILI_HELP,"1. You will obtain 15 Test Certificates when you enter the event page for the first time. The number of Test Certificates will be reset to 10 Test Certificates at 0:00 (UTC/GMT 0) every day during the event.|2. Extra Test Certificates can be purchased with Gems, but there is a daily limit of [c][cc0011]20[-][/c] extra Test Certificates that can be purchased."
 ACTIVITY_ENTRANCE_TEST_TILI_FULL,You have enough Test Certificates
 ENTRANCE_TEST_UNEQUIP_TIP,Set incomplete
 ENTRANCE_TEST_NEW_HERO_TIPS,New Girl is here!
@@ -3311,11 +3311,11 @@ ENTRANCE_TEST_HELP_TITLE_2_1,Setup
 ENTRANCE_TEST_HELP_TITLE_2_2,Defense Team
 ENTRANCE_TEST_HELP_DES_2_1,"After reaching Division A, the Girls available will be at Limit Break Stage 5, and you will be able to adjust their [c][cc0011]Potentials[-][/c]."
 ENTRANCE_TEST_HELP_DES_2_2,"After the girl is fully prepared, she will be tagged with a ""Done"" mark."
-ENTRANCE_TEST_HELP_DES_2_3,"Before you engage, please set a [c][cc0011]Defense Team[-][/c] for yourself. Only the girls who are fully prepared can be added in your Defense Team. If your Defense Team wins a battle, you will win some points. But you will also lose some points if your Defense Team loses a battle. So please set up your Defense Team carefully."
+ENTRANCE_TEST_HELP_DES_2_3,"Before you engage, please set a [c][cc0011]Defense Team[-][/c] for yourself. Only the girls who are fully prepared can be added in your Defense Team. If your Defense Team loses a battle, you will lose some points. So please set up your Defense Team carefully."
 ENTRANCE_TEST_HELP_TITLE_3_1,Fight
 ENTRANCE_TEST_HELP_TITLE_3_2,Ranking
 ENTRANCE_TEST_HELP_TITLE_3_3,Reward
-ENTRANCE_TEST_HELP_DES_3_1,Tap [c][cc0011]Fight[-][/c] button to battle with other players after you've met the requirement.\nYou will get random opponents according to your current event points. You will get event points for each victory and lose event points for each defeat.
+ENTRANCE_TEST_HELP_DES_3_1,"Tap [c][cc0011]Fight[-][/c] button to battle with other players after you've met the requirement.\nYou will get random opponents according to your current event points. You will get event points for each victory, but you will not lose event points even if you lose."
 ENTRANCE_TEST_HELP_DES_3_2,Starting a battle will consume 1 Test Certificate.\nThe number of Test Certificates you own will be reset to 10 Test Certificates at 0:00(UTC/GMT 0) every day.\nExtra Test Certificates can be purchased with Gems.
 ENTRANCE_TEST_HELP_DES_3_3,You can check your current event score and position in the ranking list during the event.
 ENTRANCE_TEST_HELP_DES_3_4,Tap on [c][cc0011]Rewards[-][/c] button to check the missions and rewards available.\nExtra rewards are unlocked after purchasing the [c][cc0011]Admission Prep Package[-][/c].
@@ -3719,7 +3719,7 @@ ACTIVITY_LAFULI_DRIFT_GO,Please choose how many blocks you want to advance
 ACTIVITY_LAFULI_DRIFT_CARD,Please flip a card
 ACTIVITY_LAFULI_DRIFT_AWARD,Collect
 ACTIVITY_LAFULI_DRIFT_ROUND,Round completed: {1}
-ACTIVITY_LAFULI_DRIFT_HELP,"1. Tap the “Rudder” to rotate, the points that the rotation stops on will be the distance in which Luvly proceeds forward. When “Advanced Rudder” is used, you can select the number of blocks to proceed.|2. While moving past or landing at a Coral Tree, Luvly will pick up Coral Branches. Each stop at a Coral Tree will increase 1 level for a maximum amount of 3 levels (however, your level will not increase when passing a Coral Tree.)|3. When Luvly lands on a resource block, the corresponding resource can be obtained. Each stop on a resource block will increase 1 level (resource reward increases as the block level increases) for a maximum amount of 3 levels.|4. When Luvly lands on a Shining Pearl, the corresponding number of Shining Pearls can be obtained. Shining Pearls can be used to exchange rewards in the event store. The unused Shining Pearl will be automatically exchanged into Coins at a rate of 100K Coins each once the event is over. The Coins will be sent via Mail. |5. When Luvly lands at a Conch, select one of 3 mystery cards with various effects that will appear.|6. When Luvly lands on a Whirlpool, the next time the (Advanced) Rudder is rotated, Luvly will only move half the distance.|7. Once the Coral Branch collection amount has been reached, rewards can be obtained. See details in the Gift Box on the upper right corner of the page.|8. Once the Coral Branch collection amount has been reached, the counter will reset (can be completed multiple times).|9. Tap the ""Auto-Navigate"" button to use Rudders automatically (Advanced Rudder excluded). If Luvly lands on a Conch in this mode, a random card will be flipped automatically. You can end the ""Auto-Navigate"" mode by tapping the ""End"" button or leaving the event page.|10. Once the event ends, unused Rudders (Advanced Rudder included) will be converted to 2 Coral Branches each and thereafter, corresponding rewards may be obtained.|11. Methods to acquire Rudders:|- Purchase with Gem (30 times max)|- Exclusive Task|-Luvly’s Elite Supply|- Value Pack|- Special Gift Pack|- Special Skin Pack|- Daily Mail"
+ACTIVITY_LAFULI_DRIFT_HELP,"1. Tap the “Rudder” to rotate, the points that the rotation stops on will be the distance in which Luvly proceeds forward. When “Advanced Rudder” is used, you can select the number of blocks to proceed.|2. While moving past or landing at a Coral Tree, Luvly will pick up Coral Branches. Each stop at a Coral Tree will increase 1 level for a maximum amount of 3 levels (however, your level will not increase when passing a Coral Tree.)|3. When Luvly lands on a resource block, the corresponding resource can be obtained. Each stop on a resource block will increase 1 level (resource reward increases as the block level increases) for a maximum amount of 3 levels.|4. When Luvly lands on a Shining Pearl, the corresponding number of Shining Pearls can be obtained. Shining Pearls can be used to exchange rewards in the event store. The unused Shining Pearl will be automatically exchanged into Coins at a rate of 100K Coins each once the event is over. The Coins will be sent via Mail. |5. When Luvly lands at a Conch, select one of 3 mystery cards with various effects that will appear.|6. When Luvly lands on a Whirlpool, the next time the (Advanced) Rudder is rotated, Luvly will only move half the distance.|7. Once the Coral Branch collection amount has been reached, rewards can be obtained. See details in the Gift Box on the upper right corner of the page.|8. Once the Coral Branch collection amount has been reached, the counter will reset (can be completed multiple times).|9. Tap the ""Auto-Navigate"" button to use Rudders automatically (Advanced Rudder excluded). If Luvly lands on a Conch in this mode, a random card will be flipped automatically. You can end the ""Auto-Navigate"" mode by tapping the ""End"" button or leaving the event page.|10. Once the event ends, unused Rudders (Advanced Rudder included) will be converted to 2 Coral Branches each and thereafter, corresponding rewards may be obtained.|11. Methods to acquire Rudders:|- Purchase with Gem (30 times max)|- Exclusive Task|-Luvly’s Elite Supply|- Value Pack|- Special Gift Pack|- Daily Mail"
 ONE_KEY_COMPOSE,Forge All
 ONE_KEY_COMPOSE_TEXT,"You have enough resource to forge all the Gears below, confirm to continue?"
 ONE_KEY_COMPOSE_TEXT2,No Gear available to be forged
@@ -4367,7 +4367,7 @@ SELECT_ALL,All
 QUESTIONNAIRE_OTHER_TIPS,Limited to 200 characters
 ACTIVITY_SPACE_MAX_LEVEL,Reached Max Level
 ACTIVITY_SPACE_NO_SKILL,No Skill
-SPACE_EXPLORE_HELP_02,1. The Special Offer in Bizarre Supply can only be purchased Once during the event.|2. The Girl obtainable in this Special Offer is an Adventure Girl that can only be played in this Bizarre Adventures event.|3. The purchase limit of other packs in Bizarre Supply will be reset in the second week of the event.
+SPACE_EXPLORE_HELP_02,1. The Special Offer in Bizarre Supply can only be purchased Once during the event.|2. The Girl obtainable in this Special Offer is an Adventure Girl that can only be used in this Bizarre Adventures event.|3. The purchase chances of other Bizarre Supply Packs will be reset in the second week of the event. Any remaining purchase chances in the first week will be added to those in the second week.
 SPACE_EXPLORE_SUPPLY_TEXT01,Special Limited
 SPACE_EXPLORE_SUPPLY_TEXT02,Special\nOffer
 SPACE_EXPLORE_PREPARE_TEXT01,Complete the tasks to get corresponding rewards. The weekly tasks will be refreshed on the 2nd week of the event.
@@ -4877,7 +4877,7 @@ ENTRANCE_TEST_PARTNER_LOCK,Unlocked after reaching Division A
 ENTRANCE_TEST_LEVEL_UP,Benefits Unlocked:
 WARMUP_ARENA_RANK_INFO_2,"- Level and Grade of Girls available increased to Level 330, Limit Break Stage 5, and unlock Potentials\n- Star Grade of Antiques available increased to 6-Star\n- Level of Servants increased to Level 180"
 WARMUP_ARENA_RANK_INFO_3,- Elite Skills of Girls increased to Elite Level 5\n- Servant Ulticore unlocked (Servant's Ulticore Level in the event shares the same Ulticore Level of your Servants)\n- Aura of Servants shares the same Aura Level as your Servants. The Servant Aura of Servants in the event will not be lower than Lv. 30.
-WARMUP_ARENA_RANK_INFO_4,The highest Division
+WARMUP_ARENA_RANK_INFO_4,·You have reached the highest Division\n·You will receive a Special Limited Frame as reward after the rankings are calculated.
 ENTRANCE_TEST_LEVEL_UP_DESC_1,Adjust Lineup
 SELECT,Select
 A_OR_B,{1} or {2}
@@ -4892,7 +4892,7 @@ ACADEMY_EXAM_TEXT2,Auto-Challenge stages until defeat
 ACADEMY_EXAM_TEXT3,Auto-Challenge stages until all Admission Tickets are used
 PUB_MISSION_AUTO_TEXT2,There aren't any completed Internship Quests.
 PUB_MISSION_AUTO_TEXT3,The Internship Quests you have chosen includes 6-Star and 7-Star Internship Quests. Continue?
-ACTIVITY_ENTRANCE_TEST_RANK_WINDOW_1,Rewards for ranking in Top {1}
+ACTIVITY_ENTRANCE_TEST_RANK_WINDOW_1,Get exclusive frame when event ends
 ACTIVITY_ENTRANCE_TEST_RANK_WINDOW_2,Top {1} players will advance to the next Division
 ACTIVITY_ENTRANCE_TEST_RANK_WINDOW_3,You have reached the highest Division
 ACTIVITY_ENTRANCE_TEST_RANK_WINDOW_4,Division will be decided in:
@@ -4903,12 +4903,12 @@ ENTRANCE_TEST_LEVEL_UP_NEED,Required\nRanking
 WARMUP_ARENA_REACH_RANK_HELP,Benefits for Division {1}:|{2}|Benefits for Division {3}:|{4}|Benefits for Division {5}:|{6}
 ENTRANCE_TEST_LEVEL_UP_ING,Results are being calculated...
 WARMUP_ARENA_TASK_INFO_1,New Girl Missions
-WARMUP_ARENA_TASK_INFO_2,Diana - Follower of Stars
+WARMUP_ARENA_TASK_INFO_2,Sivney - Returns!
 WARMUP_ARENA_TASK_INFO_3,Mission Rewards
 WARMUP_ARENA_TASK_INFO_4,Extra Rewards
 WARMUP_ARENA_TASK_INFO_5,Unlock after completing star-marked missions
 ACTIVITY_ENTRANCE_TEST_RECORD_TIPS,Cannot start the battle because your opponent is in a different Division!
-WARMUP_ARENA_TASK_HELP,"1. Complete New Girl Missions for rewards.|2. Extra rewards can be claimed after purchasing the Admission Prep Package.|3. After completing the star-marked missions, a new episode of the new girl's story will be unlocked. You can learn more about her, and watch her interact with other girls in Yume Academy."
+WARMUP_ARENA_TASK_HELP,"1. Complete New Girl Missions for rewards.|2. Extra Rewards can be unlocked after purchasing the Admission Prep Pack.|3. After acquiring a star from the rewards, a new episode of the new girl's story will be unlocked. You can learn more about her, and watch her interact with other girls in Yume Academy."
 ENTRANCE_TEST_NO_FIGHT_PARTNERS,You haven't set up an Offense Lineup yet. Would you like to use the same team as your Defense Lineup for your Offense Lineup?
 PUB_MISSION_AUTO_TEXT4,Completed Interns
 LIMITED_FOR_ACTIVITY,Limited Time Only
@@ -4987,3 +4987,31 @@ ACTIVITY_PRAY_GEM_TIPS,Consume Prayer Coins to get {1}
 SPACE_EXPLORE_AUTO_TIPS,Available after passing Stage {1}
 SPACE_EXPLORE_AUTO_TIPS2,Auto Explore
 ACTIVITY_PRAY_LIMIT_BUY,Purchase Limit: {1}/{2}
+ACTIVITY_TEA_TITLE1,Task
+ACTIVITY_TEA_TITLE2,Angel Tea Party
+ACTIVITY_TEA_TITLE3,Angel Tea Party\nSpecial Pack
+ACTIVITY_TEA_TEXT1,"1. During the event, complete Daily Tasks to obtain Tea Party Points. 1 Tea Party Point will be rewarded for each Daily Task completed.|2. After obtaining 10, 20, 40, and 60 Tea Party Points, you will be able to unlock Nephilim’s story and claim rewards for completing the story. The rewards mentioned need to be collected manually.|3. Purchase the Angel Tea Party special pack to reach max Tea Party Points immediately and unlock all stories."
+ACTIVITY_TEA_TEXT2,Special gift pack with great rewards and Nephilim's Heaven's Light skin!
+ACTIVITY_TEA_TEXT3,Unlock after completing the previous chapter
+ACTIVITY_TEA_TEXT4,Progress
+ACTIVITY_TEA_TEXT5,Complete chapters to get corresponding rewards
+ACTIVITY_FISH_HELP,"1. During the event, ""Fishing Rods"" can be obtained from Daily Mail, Luvly's Journey, Exclusive Tasks, Luvly's Elite Supply Pack, Mega Value Packs, and Special Gift Packs. In Luvly’s Journey, 1 ""Fishing Rod"" can be obtained for each ""Rudder"" or ""Advanced Rudder"" consumed.|2. You can fish in the event by consuming ""Fishing Rods"" (5 Fishing Rods will be consumed for 1 time of fishing) and corresponding rewards can be obtained according to the type of fish you get. If the fish you get happens to be the fish the Mermaid wants, she will offer you an additional gift.|3. The Mermaid's requested fish will be refreshed after the currently requested fish is obtained, the additional gift will also be refreshed at the same time.|4. If the fish you get is not the one the Mermaid wants, the rate to obtain the fish she wants in the next turn will increase by 10%%. The increased rates will be reset after obtaining the requested fish.|5. You will also get a little golden crown or a little silver crown according to the length of the fish you get (this is only for display and won't affect the rewards you get).|6. You will also get additional rewards after catching a certain number of fish.|7. Once the event ends, the remaining Fishing Rods will automatically be recycled into Coins at a rate of 20k per Fishing Rod."
+ACTIVITY_FISH_BUTTON01,Gallery
+ACTIVITY_FISH_BUTTON02,Rewards
+ACTIVITY_FISH_SKIP,Skip
+ACTIVITY_FISH_AWARD_TITLE,Preview
+ACTIVITY_FISH_AWARD_TEXT01,Fixed Reward
+ACTIVITY_FISH_AWARD_TEXT02,Additional Reward
+ACTIVITY_FISH_GET_TITLE,Result
+ACTIVITY_FISH_GET_LENGTH,Length: {1}cm
+ACTIVITY_FISH_BOOK,Fish List
+ACTIVITY_FISH_BOOK_TEXT01,Obtain number:
+ACTIVITY_FISH_BOOK_TEXT02,The longest:
+ACTIVITY_FISH_BOOK_TEXT03,The shortest:
+ACTIVITY_FISH_GET_AWARD,Item obtained
+ACTIVITY_FISH_TOTAL_TITLE,Reward
+ACTIVITY_FISH_UNLOCK_TIPS,You haven't caught this fish yet. Keep fishing~
+ACTIVITY_FISH_TOTAL_TEXT,Fish {1} time(s)
+ACTIVITY_ENTRANCE_TEST_RANK_SHOW_TEXT,Ranking Display
+ACTIVITY_WARMUP_ARENA_RANK_DEMAND,Reach Division {1} first!
+ACTIVITY_TEA_TEXT6,You do not have enough Tea Party Points. Complete Daily Tasks to gain more!

@@ -9133,3 +9133,172 @@ Skill Effect, cannot be stacked. At the end of each Round, the owner of [c][e280
 6478301,Neutron Blades,Advanced Skill,"Provides the owner 20% Extra Control Rate, 30 Speed in battle"
 6466201,Antique Burning Blades 6,Antique Skill,Provides a shield that can prevent 3 direct damage or DoT damage when owner takes lethal damage (Can be triggered only once in each battle)
 6466301,Antique Burning Blades 6,Antique Skill,Provides a shield that can prevent 3 direct damage or DoT damage when owner takes lethal damage (Can be triggered only once in each battle)
+5301600,Sivney,Basic Attack,Basic Attack
+65302300,Sivney,Basic Attack,Basic Attack
+75301600,Sivney,Basic Attack,Basic Attack
+5301601,Sivney,Aether Blast,"
+Sivney deals (120% of Attack) damage to all enemies and afflicts them with [c][e28002]Aether Leakage[-][/c] for 3 Rounds. Heals the ally with lowest HP for (25% of Sivney\'s max HP) HP. Increases Damage Reduction of an ally in the neighboring position by 10% for 3 Rounds, and grants the same ally 30 Energy. (Sivney will choose the ally whose position in the team is in front of self first)
+
+[c][e28002]Aether Leakage: 
+[-][/c]Skill Effect, cannot be stacked. Increases damage taken by 20%."
+65302301,Sivney,Aether Blast,"
+Sivney deals (160% of Attack) damage to all enemies and afflicts them with [c][e28002]Aether Leakage[-][/c] for 3 Rounds. Heals the ally with lowest HP for (35% of Sivney\'s max HP) HP. Increases Damage Reduction of an ally in the neighboring position by 20% for 3 Rounds, and grants the same ally 50 Energy. (Sivney will choose the ally whose position in the team is in front of self first)
+
+[c][e28002]Aether Leakage: 
+[-][/c]Skill Effect, cannot be stacked. Increases damage taken by 20%."
+75301601,Sivney,Aether Blast,"
+Sivney deals (240% of Attack) damage to all enemies and afflicts them with [c][e28002]Aether Leakage[-][/c] for 3 Rounds. Heals the ally with lowest HP for (50% of Sivney\'s max HP) HP. Increases Damage Reduction of an ally in the neighboring position by 40% for 3 Rounds, and grants the same ally 100 Energy. (Sivney will choose the ally whose position in the team is in front of self first)
+
+[c][e28002]Aether Leakage: 
+[-][/c]Skill Effect, cannot be stacked. Increases damage taken by 20%."
+5301602,Sivney,Research Assistant,"Increases HP by 20%, Damage Reduction by 10%, Heal Amount by 15%, and Speed by 20."
+65302302,Sivney,Research Assistant,"Increases HP by 30%, Damage Reduction by 20%, Heal Amount by 20%, and Speed by 40."
+65302312,Sivney,Research Assistant,"Increases HP by 40%, Damage Reduction by 30%, Heal Amount by 25%, and Speed by 60."
+75301602,Sivney,Research Assistant,"Increases HP by 40%, Damage Reduction by 30%, Heal Amount by 25%, and Speed by 60."
+5301603,Sivney,Aether Drain,"When dealing a Basic Attack, consumes 10% of self current HP to heal 3 allies with lowest HP for (10% of Sivney's Max HP) HP, and increases their Damage Reduction by 5% for 3 Rounds. Increases damage dealt by all allies by 10% for 3 Rounds."
+65302303,Sivney,Aether Drain,"When dealing a Basic Attack, consumes 15% of self current HP to heal 3 allies with lowest HP for (15% of Sivney's Max HP) HP, and increases their Damage Reduction by 10% for 3 Rounds. Increases damage dealt by all allies by 20% for 3 Rounds."
+65302313,Sivney,Aether Drain,"When dealing a Basic Attack, consumes 25% of self current HP to heal 3 allies with lowest HP for (25% of Sivney's Max HP) HP, and increases their Damage Reduction by 15% for 3 Rounds. Increases damage dealt by all allies by 30% for 3 Rounds."
+75301603,Sivney,Aether Drain,"When dealing a Basic Attack, consumes 25% of self current HP to heal 3 allies with lowest HP for (25% of Sivney's Max HP) HP, and increases their Damage Reduction by 15% for 3 Rounds. Increases damage dealt by all allies by 30% for 3 Rounds."
+5301604,Sivney,Firm Resolve,"
+Sivney will never stop her pursuit of the truth. 
+
+At the start of each round, afflicts [c][e28002]Aether Leakage[-][/c] to self, to the enemy with highest HP, and to the enemy with lowest HP for 3 Rounds.
+If the enemy is already afflicted with [c][e28002]Aether Leakage[-][/c], removes the effect from it, afflicts [c][e28002]Aether Exhaustion[-][/c] to it for 3 Rounds, and deals (20% of the target\'s Max HP) damage to the aforementioned enemy (Damage will not surpass 2500% of Sivney\'s Attack). 
+When Sivney is defeated, heals the ally in the neighboring position for (30% of the target\'s Max HP) HP, and grants 30 Energy and 20% Control Immunity to the ally. (Sivney will choose the ally whose position in the team is in front of self first)
+
+[c][e28002]Aether Leakage: [-][/c]
+Skill Effect, cannot be stacked. Increases damage taken by 20%.
+
+[c][e28002]Aether Exhaustion: [-][/c]
+Skill Effect, cannot be stacked. Increases damage taken by 30% and reduces Heal Received by 10%."
+65302304,Sivney,Firm Resolve,"
+Sivney will never stop her pursuit of the truth. 
+
+At the start of each round, afflicts [c][e28002]Aether Leakage[-][/c] to self, to the enemy with highest HP, and to the enemy with lowest HP for 3 Rounds.
+If the enemy is already afflicted with [c][e28002]Aether Leakage[-][/c], removes the effect from it, afflicts [c][e28002]Aether Exhaustion[-][/c] to it for 3 Rounds, and deals (20% of the target\'s Max HP) damage to the aforementioned enemy (Damage will not surpass 2500% of Sivney\'s Attack). 
+When Sivney is defeated, heals the ally in the neighboring position for (30% of the target\'s Max HP) HP, and grants 50 Energy and 40% Control Immunity to the ally. (Sivney will choose the ally whose position in the team is in front of self first)
+
+[c][e28002]Aether Leakage: [-][/c]
+Skill Effect, cannot be stacked. Increases damage taken by 20%.
+
+[c][e28002]Aether Exhaustion: [-][/c]
+Skill Effect, cannot be stacked. Increases damage taken by 45% and reduces Heal Received by 15%."
+65302314,Sivney,Firm Resolve,"
+Sivney will never stop her pursuit of the truth. 
+
+At the start of each round, afflicts [c][e28002]Aether Leakage[-][/c] to self, to the enemy with highest HP, and to the enemy with lowest HP for 3 Rounds.
+If the enemy is already afflicted with [c][e28002]Aether Leakage[-][/c], removes the effect from it, afflicts [c][e28002]Aether Exhaustion[-][/c] to it for 3 Rounds, and deals (20% of the target\'s Max HP) damage to the aforementioned enemy (Damage will not surpass 2500% of Sivney\'s Attack). 
+When Sivney is defeated, heals the ally in the neighboring position for (100% of the target\'s Max HP) HP, and grants 100 Energy and 100% Control Immunity to the ally. (Sivney will choose the ally whose position in the team is in front of self first)
+
+[c][e28002]Aether Leakage: [-][/c]
+Skill Effect, cannot be stacked. Increases damage taken by 20%.
+
+[c][e28002]Aether Exhaustion: [-][/c]
+Skill Effect, cannot be stacked. Increases damage taken by 70% and reduces Heal Received by 20%."
+75301604,Sivney,Firm Resolve,"
+Sivney will never stop her pursuit of the truth. 
+
+At the start of each round, afflicts [c][e28002]Aether Leakage[-][/c] to self, to the enemy with highest HP, and to the enemy with lowest HP for 3 Rounds.
+If the enemy is already afflicted with [c][e28002]Aether Leakage[-][/c], removes the effect from it, afflicts [c][e28002]Aether Exhaustion[-][/c] to it for 3 Rounds, and deals (20% of the target\'s Max HP) damage to the aforementioned enemy (Damage will not surpass 2500% of Sivney\'s Attack). 
+When Sivney is defeated, heals the ally in the neighboring position for (100% of the target\'s Max HP) HP, and grants 100 Energy and 100% Control Immunity to the ally. (Sivney will choose the ally whose position in the team is in front of self first)
+
+[c][e28002]Aether Leakage: [-][/c]
+Skill Effect, cannot be stacked. Increases damage taken by 20%.
+
+[c][e28002]Aether Exhaustion: [-][/c]
+Skill Effect, cannot be stacked. Increases damage taken by 70% and reduces Heal Received by 20%."
+753016011,Sivney,Aether Blast,"
+Sivney deals (245% of Attack) damage to all enemies and afflicts them with [c][e28002]Aether Leakage[-][/c] for 3 Rounds. Heals the ally with lowest HP for (50% of Sivney\'s max HP) HP. Increases Damage Reduction of an ally in the neighboring position by 40% for 3 Rounds, and grants the same ally 100 Energy. (Sivney will choose the ally whose position in the team is in front of self first)
+
+[c][e28002]Aether Leakage: 
+[-][/c]Skill Effect, cannot be stacked. Increases damage taken by 20%."
+753016012,Sivney,Aether Blast,"
+Sivney deals (250% of Attack) damage to all enemies and afflicts them with [c][e28002]Aether Leakage[-][/c] for 3 Rounds. Heals the ally with lowest HP for (50% of Sivney\'s max HP) HP. Increases Damage Reduction of an ally in the neighboring position by 40% for 3 Rounds, and grants the same ally 100 Energy. (Sivney will choose the ally whose position in the team is in front of self first)
+
+[c][e28002]Aether Leakage: 
+[-][/c]Skill Effect, cannot be stacked. Increases damage taken by 20%."
+753016013,Sivney,Aether Blast,"
+Sivney deals (255% of Attack) damage to all enemies and afflicts them with [c][e28002]Aether Leakage[-][/c] for 3 Rounds. Heals the ally with lowest HP for (52% of Sivney\'s max HP) HP. Increases Damage Reduction of an ally in the neighboring position by 40% for 3 Rounds, and grants the same ally 100 Energy. (Sivney will choose the ally whose position in the team is in front of self first)
+
+[c][e28002]Aether Leakage: 
+[-][/c]Skill Effect, cannot be stacked. Increases damage taken by 20%."
+753016014,Sivney,Aether Blast,"
+Sivney deals (260% of Attack) damage to all enemies and afflicts them with [c][e28002]Aether Leakage[-][/c] for 3 Rounds. Heals the ally with lowest HP for (52% of Sivney\'s max HP) HP. Increases Damage Reduction of an ally in the neighboring position by 40% for 3 Rounds, and grants the same ally 100 Energy. (Sivney will choose the ally whose position in the team is in front of self first)
+
+[c][e28002]Aether Leakage: 
+[-][/c]Skill Effect, cannot be stacked. Increases damage taken by 20%."
+753016015,Sivney,Aether Blast,"
+Sivney deals (265% of Attack) damage to all enemies and afflicts them with [c][e28002]Aether Leakage[-][/c] for 3 Rounds. Heals the ally with lowest HP for (55% of Sivney\'s max HP) HP. Increases Damage Reduction of an ally in the neighboring position by 40% for 3 Rounds, and grants the same ally 100 Energy. (Sivney will choose the ally whose position in the team is in front of self first)
+
+[c][e28002]Aether Leakage: 
+[-][/c]Skill Effect, cannot be stacked. Increases damage taken by 20%."
+753016021,Sivney,Research Assistant,"Increases HP by 40%, Damage Reduction by 30%, Heal Amount by 25%, and Speed by 62."
+753016022,Sivney,Research Assistant,"Increases HP by 40%, Damage Reduction by 30%, Heal Amount by 25%, and Speed by 64."
+753016023,Sivney,Research Assistant,"Increases HP by 43%, Damage Reduction by 30%, Heal Amount by 25%, and Speed by 66."
+753016024,Sivney,Research Assistant,"Increases HP by 43%, Damage Reduction by 30%, Heal Amount by 25%, and Speed by 68."
+753016025,Sivney,Research Assistant,"Increases HP by 45%, Damage Reduction by 30%, Heal Amount by 25%, and Speed by 70."
+753016031,Sivney,Aether Drain,"When dealing a Basic Attack, consumes 25% of self current HP to heal 3 allies with lowest HP for (26% of Sivney's Max HP) HP, and increases their Damage Reduction by 15% for 3 Rounds. Increases damage dealt by all allies by 30% for 3 Rounds."
+753016032,Sivney,Aether Drain,"When dealing a Basic Attack, consumes 25% of self current HP to heal 3 allies with lowest HP for (27% of Sivney's Max HP) HP, and increases their Damage Reduction by 15% for 3 Rounds. Increases damage dealt by all allies by 30% for 3 Rounds."
+753016033,Sivney,Aether Drain,"When dealing a Basic Attack, consumes 25% of self current HP to heal 3 allies with lowest HP for (28% of Sivney's Max HP) HP, and increases their Damage Reduction by 15% for 3 Rounds. Increases damage dealt by all allies by 30% for 3 Rounds."
+753016034,Sivney,Aether Drain,"When dealing a Basic Attack, consumes 25% of self current HP to heal 3 allies with lowest HP for (29% of Sivney's Max HP) HP, and increases their Damage Reduction by 15% for 3 Rounds. Increases damage dealt by all allies by 30% for 3 Rounds."
+753016035,Sivney,Aether Drain,"When dealing a Basic Attack, consumes 25% of self current HP to heal 3 allies with lowest HP for (30% of Sivney's Max HP) HP, and increases their Damage Reduction by 15% for 3 Rounds. Increases damage dealt by all allies by 33% for 3 Rounds."
+753016041,Sivney,Firm Resolve,"
+Sivney will never stop her pursuit of the truth. 
+
+At the start of each round, afflicts [c][e28002]Aether Leakage[-][/c] to self, to the enemy with highest HP, and to the enemy with lowest HP for 3 Rounds.
+If the enemy is already afflicted with [c][e28002]Aether Leakage[-][/c], removes the effect from it, afflicts [c][e28002]Aether Exhaustion[-][/c] to it for 3 Rounds, and deals (20% of the target\'s Max HP) damage to the aforementioned enemy (Damage will not surpass 2600% of Sivney\'s Attack). 
+When Sivney is defeated, heals the ally in the neighboring position for (100% of the target\'s Max HP) HP, and grants 100 Energy and 100% Control Immunity to the ally. (Sivney will choose the ally whose position in the team is in front of self first)
+
+[c][e28002]Aether Leakage: [-][/c]
+Skill Effect, cannot be stacked. Increases damage taken by 20%.
+
+[c][e28002]Aether Exhaustion: [-][/c]
+Skill Effect, cannot be stacked. Increases damage taken by 70% and reduces Heal Received by 20%."
+753016042,Sivney,Firm Resolve,"
+Sivney will never stop her pursuit of the truth. 
+
+At the start of each round, afflicts [c][e28002]Aether Leakage[-][/c] to self, to the enemy with highest HP, and to the enemy with lowest HP for 3 Rounds.
+If the enemy is already afflicted with [c][e28002]Aether Leakage[-][/c], removes the effect from it, afflicts [c][e28002]Aether Exhaustion[-][/c] to it for 3 Rounds, and deals (20% of the target\'s Max HP) damage to the aforementioned enemy (Damage will not surpass 2700% of Sivney\'s Attack). 
+When Sivney is defeated, heals the ally in the neighboring position for (100% of the target\'s Max HP) HP, and grants 100 Energy and 100% Control Immunity to the ally. (Sivney will choose the ally whose position in the team is in front of self first)
+
+[c][e28002]Aether Leakage: [-][/c]
+Skill Effect, cannot be stacked. Increases damage taken by 20%.
+
+[c][e28002]Aether Exhaustion: [-][/c]
+Skill Effect, cannot be stacked. Increases damage taken by 70% and reduces Heal Received by 20%."
+753016043,Sivney,Firm Resolve,"
+Sivney will never stop her pursuit of the truth. 
+
+At the start of each round, afflicts [c][e28002]Aether Leakage[-][/c] to self, to the enemy with highest HP, and to the enemy with lowest HP for 3 Rounds.
+If the enemy is already afflicted with [c][e28002]Aether Leakage[-][/c], removes the effect from it, afflicts [c][e28002]Aether Exhaustion[-][/c] to it for 3 Rounds, and deals (20% of the target\'s Max HP) damage to the aforementioned enemy (Damage will not surpass 2800% of Sivney\'s Attack). 
+When Sivney is defeated, heals the ally in the neighboring position for (100% of the target\'s Max HP) HP, and grants 100 Energy and 100% Control Immunity to the ally. (Sivney will choose the ally whose position in the team is in front of self first)
+
+[c][e28002]Aether Leakage: [-][/c]
+Skill Effect, cannot be stacked. Increases damage taken by 20%.
+
+[c][e28002]Aether Exhaustion: [-][/c]
+Skill Effect, cannot be stacked. Increases damage taken by 72% and reduces Heal Received by 20%."
+753016044,Sivney,Firm Resolve,"
+Sivney will never stop her pursuit of the truth. 
+
+At the start of each round, afflicts [c][e28002]Aether Leakage[-][/c] to self, to the enemy with highest HP, and to the enemy with lowest HP for 3 Rounds.
+If the enemy is already afflicted with [c][e28002]Aether Leakage[-][/c], removes the effect from it, afflicts [c][e28002]Aether Exhaustion[-][/c] to it for 3 Rounds, and deals (20% of the target\'s Max HP) damage to the aforementioned enemy (Damage will not surpass 2900% of Sivney\'s Attack). 
+When Sivney is defeated, heals the ally in the neighboring position for (100% of the target\'s Max HP) HP, and grants 100 Energy and 100% Control Immunity to the ally. (Sivney will choose the ally whose position in the team is in front of self first)
+
+[c][e28002]Aether Leakage: [-][/c]
+Skill Effect, cannot be stacked. Increases damage taken by 20%.
+
+[c][e28002]Aether Exhaustion: [-][/c]
+Skill Effect, cannot be stacked. Increases damage taken by 72% and reduces Heal Received by 20%."
+753016045,Sivney,Firm Resolve,"
+Sivney will never stop her pursuit of the truth. 
+
+At the start of each round, afflicts [c][e28002]Aether Leakage[-][/c] to self, to the enemy with highest HP, and to the enemy with lowest HP for 3 Rounds.
+If the enemy is already afflicted with [c][e28002]Aether Leakage[-][/c], removes the effect from it, afflicts [c][e28002]Aether Exhaustion[-][/c] to it for 3 Rounds, and deals (20% of the target\'s Max HP) damage to the aforementioned enemy (Damage will not surpass 3000% of Sivney\'s Attack). 
+When Sivney is defeated, heals the ally in the neighboring position for (100% of the target\'s Max HP) HP, and grants 100 Energy and 100% Control Immunity to the ally. (Sivney will choose the ally whose position in the team is in front of self first)
+
+[c][e28002]Aether Leakage: [-][/c]
+Skill Effect, cannot be stacked. Increases damage taken by 20%.
+
+[c][e28002]Aether Exhaustion: [-][/c]
+Skill Effect, cannot be stacked. Increases damage taken by 75% and reduces Heal Received by 22%."
