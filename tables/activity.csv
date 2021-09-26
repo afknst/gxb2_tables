@@ -173,9 +173,9 @@ id,desc,days,date,limit,last_time,server_type,special_interval,icon,title,type1,
 172,-1,14,44190,,,1,0,newyear_signin_png,-1,2,1,40,,,,,,,
 173,-1,7,44428,,,1,0,activity_school_qa_png,-1,2,1,10,,,,,,,
 174,-1,-1,44211,,604800,1,0,activity_gropup_giftbag_png,-1,1,1,16,187|188,,,,,,
-175,-1,27,44218,,604800,1,0,artifact_shop_warm_up_png,-1,7,,101,189,,,,,artifact_shop_warm_up_window,
+175,-1,20,44464,,604800,1,0,artifact_shop_warm_up_png,-1,7,,101,189,,,,,artifact_shop_warm_up_window,
 176,-1,-1,44218,,604800,1,0,activity_newbee_fund_png,-1,1,1,99,190,,,,,activity_window,
-177,-1,-1,44218,stage#6,604800,1,0,newbee_10gacha_activity_icon_png,-1,7,,10,191|192|193,,,,,activity_window,"{'activity_ids':[177,179,180], 'activity_type':7}"
+177,-1,-1,44218,stage#6,604800,1,0,newbee_10gacha_activity_icon_png,-1,7,,10,191|192|193|320,,,,,activity_window,"{'activity_ids':[177,179,180], 'activity_type':7}"
 178,-1,7,44431,,604800,1,0,activity_gamble_plus_png,-1,2,1,49,194,,,,,activity_window,
 179,-1,-1,44225,stage#6,604800,1,0,newbee_gacha_pool_activity_icon_png,-1,7,,9,,,,,,activity_window,"{'activity_ids':[177,179,180], 'activity_type':7}"
 180,-1,-1,44225,stage#6,604800,1,0,activity_newbee_gacha_png,-1,7,,8,195|196|197,,,,,activity_window,"{'activity_ids':[177,179,180], 'activity_type':7}"

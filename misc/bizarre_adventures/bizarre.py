@@ -1,157 +1,40 @@
 import numpy as np
 import pandas as pd
 
+UPDATE_VE = {"SSR": 40, "SR": 14, "R": 10}
+MAX_LV = {"SSR": 50, "SR": 40, "R": 30}
+REWARDS = [(3, 6, 48, 60), (4, 6, 60, 60), (0, 2, 0, 25)]
+
+
+def rarity(_s):
+    if _s > 0.0015:
+        return "SSR"
+    if _s > 0.0005:
+        return "SR"
+    return "R"
+
+
 BOSSES = pd.read_csv('bosses.csv')
-GIRLS = pd.read_csv('girls.csv')[[
-    "Name", "Star", "base_hp", "base_atk", "base_arm"
-]]
+BOSSES.set_index("Boss", inplace=True)
+
+GIRLS = pd.read_csv('girls.csv')
+for _k in ["Buff HP", "Buff Attack", "Buff Armor"]:
+    GIRLS[_k] = GIRLS[_k].str.rstrip('%').astype('float') / 100.0
+GIRLS.fillna(0, inplace=True)
+GIRLS["Total"] = GIRLS["Buff HP"] + GIRLS["Buff Attack"] + GIRLS["Buff Armor"]
+GIRLS["Rarity"] = GIRLS["Total"].apply(rarity)
 GIRLS.set_index("Name", inplace=True)
 
-SKILLS = {
-    "Dracula": (0, 0, 0.05),
-    "Nono": (0, 0, 0.1),
-    "Hynel": (0.1, 0, 0),
-    "Fleur": (0, 0.125, 0),
-    "Meimi": (0, 0, 0.1),
-    "Michael": (0.1, 0.12, 0),
-    "Saint": (0.1, 0, 0.1),
-    "Nobunaga": (0.12, 0.08, 0),
-    "KongMing": (0, 0.1, 0.1),
-}
+TEAM = {}
+TEAM['GIRLS'] = {_: 1 for _ in GIRLS.index.tolist()}
+TEAM["VE"] = 0
+TEAM["STAGE"] = 1
+TEAM["MAP"] = (5, 1)
 
-AC0 = 54
-VE0 = 110
-R = set([
-    "Lucifer",
-    "Skarivine",
-    "Cayla",
-    "Vanees",
-    "Maidam",
-    "Aegis",
-    "Handana",
-    "Lin AI",
-    "Witch",
-    "Stella",
-])
-SR = set([
-    "Dracula",
-    "Nono",
-    "Hynel",
-    "Fleur",
-    "Meimi",
-])
-SSR = set([
-    "Michael",
-    "Saint",
-    "Nobunaga",
-    "KongMing",
-])
-
-# TEAM = set([
-#     "Michael",
-#     "Saint",
-#     "KongMing",
-#     *SR,
-#     "Lucifer",
-#     "Skarivine",
-#     "Cayla",
-#     # "Vanees",
-#     "Maidam",
-#     "Aegis",
-#     "Handana",
-#     "Lin AI",
-#     "Witch",
-#     "Stella",
-# ])
-
-TEAM = set([
-    # "Michael",
-    # "Saint",
-    # "Nobunaga",
-    "KongMing",
-    # "Dracula",
-    "Nono",
-    # "Hynel",
-    # "Fleur",
-    # "Meimi",
-    "Lucifer",
-    "Skarivine",
-    "Cayla",
-    "Vanees",
-    "Maidam",
-    "Aegis",
-    "Handana",
-    "Lin AI",
-    "Witch",
-    "Stella",
-])
-# TEAM = set([*SSR, *SR, *R])
-TEAM_R = TEAM.intersection(R)
-TEAM_SR = TEAM.intersection(SR)
-TEAM_SSR = TEAM.intersection(SSR)
-GOAL = 13
-VE0 = 212
-
-
-def get_status(_lv):
-    _status = np.array((0, 0, 0), dtype=np.float64)
-    _multiplicator = np.array((0, 0, 0), dtype=np.float64)
-
-    for _k, _v in _lv.items():
-        if _k in SKILLS:
-            _multiplicator += _v * np.array(SKILLS[_k], dtype=np.float64)
-        _s = GIRLS.loc[_k]
-        _status[0] += _v * _s["base_hp"]
-        _status[1] += _v * _s["base_atk"]
-        _status[2] += _v * _s["base_arm"]
-
-    return np.round((1 + _multiplicator / 100) * _status)
-
-
-def upgradable(_lv):
-    _SSR = [_ for _ in TEAM_SSR if _lv[_] < 50]
-    _SR = [_ for _ in TEAM_SR if _lv[_] < 40]
-    _R = [_ for _ in TEAM_R if _lv[_] < 30]
-    return _SSR, _SR, _R
-
-
-def lv_up(_ve, _ret=False, _current=None):
-    _v = _ve
-    if _current is not None:
-        _lv = _current
-    else:
-        _lv = {_: 1 for _ in TEAM}
-
-    while True:
-        if _v < 10:
-            break
-        _SSR, _SR, _R = upgradable(_lv)
-        if len(_SSR) + len(_SR) + len(_R) == 0:
-            break
-
-        if len(_SSR) > 0 and _v >= 20:
-            _girl = np.random.choice(_SSR)
-            _lv[_girl] += 1
-            _v -= 20
-            continue
-
-        if len(_SR) > 0 and _v >= 14:
-            if len(_SR) > 1 and "Dracula" in _SR:
-                _SR.remove("Dracula")
-            _girl = np.random.choice(_SR)
-            _lv[_girl] += 1
-            _v -= 14
-            continue
-
-        if len(_R) > 0 and _v >= 10:
-            _girl = np.random.choice(_R)
-            _lv[_girl] += 1
-            _v -= 10
-            continue
-
-    if _ret:
-        return get_status(_lv), _lv
-    return get_status(_lv)
+VE0 = 0
+T = {"SSR": [], "SR": [], "R": []}
+MAT = []
+RES = {}
 
 
 def ac2ve(_ac):
@@ -177,74 +60,297 @@ def ac2ve(_ac):
     return _veSSR + _veSR + _veR
 
 
-def ok(_ext, _ret=False):
-    _VE = VE0 + _ext
-    _TRIAL = 200
+def ve(_lv):
+    return np.dot(_lv - 1, T["UP"])
 
-    for _i in range(GOAL):
-        _hp, _atk, _arm = BOSSES.loc[_i]
-        _pass = False
-        _VE += 50
 
-        for _ in range(_TRIAL):
-            if _ret:
-                (_hp0, _atk0, _arm0), _lv = lv_up(_VE, _ret)
+def s2ve(_stage, _map):
+    _s = 0
+    for _i in range(_stage - 1):
+        _r = get_rewards(_i + 1)
+        _s += 5 * _r[1] + _r[3]
+    _r = get_rewards(_stage)
+    _s += _map[0] * _r[1] + _map[1] * _r[3]
+    return _s
+
+
+def get_rewards(_stage):
+    if _stage <= 25:
+        return REWARDS[0]
+    if _stage <= 50:
+        return REWARDS[1]
+    return REWARDS[2]
+
+
+def read_team(_t):
+    global VE0, T, MAT
+
+    VE0 = _t['VE']
+    for _girl in _t['GIRLS']:
+        if _t['GIRLS'][_girl] >= 1:
+            _rarity = GIRLS.loc[_girl]["Rarity"]
+            T[_rarity].append(_girl)
+            MAT.append(GIRLS.loc[_girl][:6])
+            VE0 += (_t['GIRLS'][_girl] - 1) * UPDATE_VE[_rarity]
+    VE0 -= s2ve(TEAM["STAGE"], TEAM["MAP"])
+    MAT = np.array(MAT)
+    T["ALL"] = T["SSR"] + T["SR"] + T["R"]
+    T["UP"] = [UPDATE_VE["SSR"]] * len(T["SSR"])
+    T["UP"] += [UPDATE_VE["SR"]] * len(T["SR"])
+    T["UP"] += [UPDATE_VE["R"]] * len(T["R"])
+    T["UP"] = np.array(T["UP"], dtype=int)
+
+    T["MAX"] = [MAX_LV["SSR"]] * len(T["SSR"])
+    T["MAX"] += [MAX_LV["SR"]] * len(T["SR"])
+    T["MAX"] += [MAX_LV["R"]] * len(T["R"])
+    T["MAX"] = np.array(T["MAX"], dtype=int)
+
+    T["MASK"] = np.zeros((len(T["ALL"]), 3), dtype=int)
+    T["MASK"][:, 0] = T["UP"] == UPDATE_VE["SSR"]
+    T["MASK"][:, 1] = T["UP"] == UPDATE_VE["SR"]
+    T["MASK"][:, 2] = T["UP"] == UPDATE_VE["R"]
+
+
+def reset():
+    return np.ones(len(T["ALL"]), dtype=int)
+
+
+def get_status(_lv):
+    _status = np.sum((MAT[:, :3].T * _lv).T, axis=0)
+    _multiplicator = np.sum((MAT[:, 3:].T * _lv).T, axis=0)
+    return np.floor((1 + _multiplicator) * _status)
+
+
+def upgradable(_lv, _max=None):
+    if _max is not None:
+        return np.matmul(_max - _lv, T["MASK"])
+    return np.matmul(T["MAX"] - _lv, T["MASK"])
+
+
+def n2lv_up(_ve, _lv, _max=None):
+    _v = _ve
+    _n = {"SSR": 0, "SR": 0, "R": 0}
+    _up = upgradable(_lv, _max=_max)
+
+    _temp = np.min([_v // UPDATE_VE["SSR"], _up[0]])
+    _temp = np.random.randint(np.max([_temp - 50, 0]), _temp + 1)
+    _v -= _temp * UPDATE_VE["SSR"]
+    _n["SSR"] = _temp
+
+    _temp = np.min([_v // UPDATE_VE["SR"], _up[1]])
+    _v -= _temp * UPDATE_VE["SR"]
+    _n["SR"] = _temp
+
+    _temp = np.min([_v // UPDATE_VE["SSR"], _up[0] - _n["SSR"]])
+    _v -= _temp * UPDATE_VE["SSR"]
+    _n["SSR"] += _temp
+
+    _temp = np.min([_v // UPDATE_VE["R"], _up[2]])
+    _v -= _temp * UPDATE_VE["R"]
+    _n["R"] = _temp
+
+    return _n
+
+
+def lv_down(_lv, _size=3):
+    _inds = np.where(_lv > _size + 2)[0]
+    if len(_inds) > 0:
+        _i = np.random.choice(np.where(_lv > 5)[0], size=_size)
+        _lv[_i] -= _size
+
+    for _i in np.where(_lv <= 3)[0]:
+        _lv[_i] = 1
+    return _lv
+
+
+def lv_up(_ve, _lv, _max=None):
+    _lv = lv_down(_lv)
+    _ve_old = ve(_lv)
+    _start = 0
+    _end = 0
+
+    if _ve_old < _ve:
+        _ve = _ve - _ve_old
+        _n = n2lv_up(_ve, _lv, _max=_max)
+        for _r in _n:
+            _end += len(T[_r])
+            # print(_start, _end, MAT[_start], MAT[_end - 1])
+            while _n[_r] > 0:
+                _i = np.random.randint(_start, _end)
+                if _lv[_i] < MAX_LV[_r]:
+                    if _max is None or _lv[_i] < _max[_i]:
+                        _lv[_i] += 1
+                        _n[_r] -= 1
+            _start = _end
+        return _lv
+
+    _lv = reset()
+    _n = n2lv_up(_ve, _lv, _max=_max)
+
+    for _r in _n:
+        _end += len(T[_r])
+        # print(_start, _end, MAT[_start], MAT[_end - 1])
+        while _n[_r] > 0:
+            _i = np.random.randint(_start, _end)
+            if _lv[_i] < MAX_LV[_r]:
+                if _max is None or _lv[_i] < _max[_i]:
+                    _lv[_i] += 1
+                    _n[_r] -= 1
+        _start = _end
+
+    return _lv
+
+
+def good(_lv, _boss):
+    _hp, _atk, _arm = _boss
+    _hp0, _atk0, _arm0 = get_status(_lv)
+    _turns_0 = np.ceil(_hp / np.maximum(_atk0 - _arm, 50))
+    _turns_1 = np.ceil(_hp0 / np.maximum(_atk - _arm0, 50))
+    return _turns_0 < _turns_1
+
+
+def ok(_stage, _ve_ex=0, _max=None, _trial=100):
+    _VE = _ve_ex + VE0 + s2ve(_stage, (0, 1))
+    if _stage in RES:
+        _lv = np.copy(RES[_stage][1])
+    else:
+        _lv = reset()
+
+    for _ in range(_trial):
+        _lv = lv_up(_VE, _lv, _max=_max)
+        if good(_lv, BOSSES.loc[_stage]):
+            if _stage in RES:
+                if _ve_ex < RES[_stage][0]:
+                    RES[_stage] = (_ve_ex, _lv)
             else:
-                _hp0, _atk0, _arm0 = lv_up(_VE)
-
-            _t0 = np.ceil(_hp / np.maximum(_atk0 - _arm, 50))
-            _t1 = np.ceil(_hp0 / np.maximum(_atk - _arm0, 50))
-            # print(t0, t1)
-
-            if _t0 < _t1:
-                if _i == GOAL - 1:
-                    if _ret:
-                        return True, _lv
-                    return True
-
-                # print(_i + 1, _VE, int(_hp0), int(_atk0), int(_arm0))
-                _VE += 100
-                _hp0, _atk0, _arm0 = lv_up(_VE)
-                _pass = True
-                break
-
-        if not _pass:
-            if _ret:
-                return False, None
-            return False
-
-    if _ret:
-        return False, None
+                RES[_stage] = (_ve_ex, _lv)
+            return True
     return False
 
 
-def get_ve(_l=0, _r=512):
-    _left = _l
-    _right = _r
-    assert ok(_right, True)[0]
-
-    _ok, _lv = ok(_left, True)
-    if _ok:
-        print(_left)
-        print(_lv)
-        return
-
+def recheck(_goal, _trial, _left, _right):
     while True:
-        print(_left, _right)
+        print("Range:", _left, _right)
         _temp = int((_left + _right) / 2)
 
         if _temp == _left:
-            print(_right)
-            print(_lv)
-            return
+            return _right
 
-        _ok, _lv1 = ok(_temp, True)
-        if _ok:
+        if ok(_goal, _ve_ex=_temp, _trial=_trial):
             _right = _temp
-            _lv = _lv1
         else:
             _left = _temp
 
 
-# print(ac2ve(54 + 60 + 32 + 17) + 900 + 480 + 270)
-get_ve(_l=0, _r=256)
+def get_ve(_goal, _trial=100, _l=0, _r=512):
+    _left = _l
+    _right = _r
+
+    if ok(_goal, _ve_ex=_left, _trial=_trial):
+        return _left
+
+    if not ok(_goal, _ve_ex=_right, _trial=_trial):
+        return None
+
+    return recheck(_goal, _trial, _left, _right)
+
+
+def deeper_search(_goal, _steps=2):
+    _factors = [_steps + _i + 1 for _i in range(_steps)]
+    _l = 0
+    _r = 512
+    _trial = 100
+    _res = get_ve(_goal, _trial=_trial, _l=_l, _r=_r)
+    while _res is None:
+        _l = _r
+        _r *= 2
+        if _r > 10240:
+            print(f"Your team is insufficient for Stage {_goal}.")
+            return None
+        print(_l, _r)
+        _res = get_ve(_goal, _trial=_trial, _l=_l, _r=_r)
+
+    _right = _res
+    for _f in _factors:
+        _trial *= 5
+        _left = _f * _right // (_f + 1)
+        _right = recheck(_goal, _trial, _left, _right)
+    return _right
+
+
+def print_lv(_lv):
+    _s = "Levels: \n"
+    for _i, _l in enumerate(_lv):
+        if _l > 1:
+            _s += f"\t{T['ALL'][_i]}:" + " " * 5 + f"\t{_l}\n"
+    print(_s)
+
+
+def calc(_goal, _steps=1):
+    _EXTRA = deeper_search(_goal, _steps=_steps)
+    assert RES[_goal][0] == _EXTRA, f"{RES[_goal]}"
+
+    if _EXTRA is None:
+        return
+    _REAL = ve(RES[_goal][1])
+    _EXTRA_REAL = _REAL - VE0 - s2ve(_goal, (0, 1))
+    print(
+        f"\nYou need {_EXTRA_REAL} more VE to pass Stage {_goal} ({_REAL} in total)."
+    )
+    _s = "Levels: \n"
+    print_lv(RES[_goal][1])
+
+
+def check_fin(_goal):
+    if _goal in RES:
+        _MAX = RES[_goal][1]
+        for _i in range(1, _goal):
+            _STAGE = _goal - _i
+            while _STAGE not in RES:
+                if ok(_STAGE, _ve_ex=RES[_goal][0], _max=_MAX):
+                    break
+            _MAX = RES[_STAGE][1]
+            _win = "LOSE"
+            if good(_MAX, BOSSES.loc[_STAGE]):
+                _win = "WIN"
+            print(f"Stage {_STAGE}: {_win}")
+            print_lv(RES[_STAGE][1])
+
+
+if __name__ == "__main__":
+    TEAM['GIRLS'] = {
+        'Lucifer': 1,
+        # 'Michael': 1,
+        # 'Dracula': 1,
+        # 'Saint': 1,
+        # 'Nobunaga': 1,
+        'KongMing': 1,
+        # 'Marynari': 1,
+        'Robin': 1,
+        'Sisha': 1,
+        'Mythra': 1,
+        'Athena': 1,
+        # 'Kenshin': 1,
+        # 'Reo': 1,
+        # 'Poppi': 1,
+        'Jade': 1,
+        'Ursula': 1,
+        'Kitty': 1,
+        'Samurai': 1,
+        # 'Tula': 1,
+        'Edward': 1,
+        'King': 1,
+        'Donna': 1,
+        'Nobuna': 1,
+        'Annabelle': 1,
+        'Harley': 1,
+        'Magician': 1,
+        'Caitlin': 1
+    }
+    TEAM['VE'] = 484
+    TEAM['STAGE'] = 1
+    TEAM['MAP'] = (5, 1)
+    read_team(TEAM)
+    GOAL = 28
+    calc(GOAL)
+    check_fin(GOAL)

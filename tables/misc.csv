@@ -634,13 +634,13 @@ mission_act_point_exchange,2#5,-1
 activity_newbee_fund_sell_time,7,-1
 activity_newbee_fund_get_time,30,-1
 newbee_10gacha_time,604800,-1
-newbee_10gacha,1#3#6|1#5#4|1#9#0,-1
+newbee_10gacha,1#4#5|1#7#2|2#8#0|3#7#0,-1
 newbee_10gacha_dropbox,900002|900003|900004,-1
 activity_newbee_fund_level_limit,25,-1
 activity_63_hero_model,liubiao_pifu01_lihui01|560|-1360|0.72|0,-1
 activity_newbee_total_value,20000,-1
 newbee_10gacha_partner_jump,51012|52014|53011|54011,-1
-activity_mission_time,7|21,-1
+activity_mission_time,7|14,-1
 activity_newbee_gacha_security_time,20|5,-1
 activity_newbee_gacha_dropbox,900005,-1
 activity_newbee_gacha_dropbox_5,900006,-1
