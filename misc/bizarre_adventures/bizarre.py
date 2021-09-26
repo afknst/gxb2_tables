@@ -37,6 +37,20 @@ MAT = []
 RES = {}
 
 
+def reset_team():
+    global TEAM, VE0, T, MAT, RES
+    TEAM = {}
+    TEAM['GIRLS'] = {_: 1 for _ in GIRLS.index.tolist()}
+    TEAM["VE"] = 0
+    TEAM["STAGE"] = 1
+    TEAM["MAP"] = (5, 1)
+
+    VE0 = 0
+    T = {"SSR": [], "SR": [], "R": []}
+    MAT = []
+    RES = {}
+
+
 def ac2ve(_ac):
     _nSSR = _ac * 0.02
     _nSR = _ac * 0.15
@@ -318,39 +332,40 @@ def check_fin(_goal):
 
 
 if __name__ == "__main__":
+    reset_team()
     TEAM['GIRLS'] = {
         'Lucifer': 1,
         # 'Michael': 1,
-        # 'Dracula': 1,
+        'Dracula': 1,
         # 'Saint': 1,
         # 'Nobunaga': 1,
-        'KongMing': 1,
-        # 'Marynari': 1,
+        # 'KongMing': 1,
+        'Marynari': 1,
         'Robin': 1,
         'Sisha': 1,
         'Mythra': 1,
-        'Athena': 1,
-        # 'Kenshin': 1,
-        # 'Reo': 1,
-        # 'Poppi': 1,
+        # 'Athena': 1,
+        'Kenshin': 1,
+        'Reo': 1,
+        'Poppi': 1,
         'Jade': 1,
         'Ursula': 1,
         'Kitty': 1,
         'Samurai': 1,
         # 'Tula': 1,
         'Edward': 1,
-        'King': 1,
-        'Donna': 1,
+        # 'King': 1,
+        # 'Donna': 1,
         'Nobuna': 1,
-        'Annabelle': 1,
+        # 'Annabelle': 1,
         'Harley': 1,
         'Magician': 1,
         'Caitlin': 1
     }
-    TEAM['VE'] = 484
+    TEAM['VE'] = 577
     TEAM['STAGE'] = 1
     TEAM['MAP'] = (5, 1)
     read_team(TEAM)
     GOAL = 28
-    calc(GOAL)
+    calc(GOAL, _steps=3)
     check_fin(GOAL)
