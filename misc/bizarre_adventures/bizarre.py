@@ -169,11 +169,9 @@ def n2lv_up(_ve, _lv, _max=None):
 def lv_down(_lv, _size=3):
     _inds = np.where(_lv > _size + 2)[0]
     if len(_inds) > 0:
-        _i = np.random.choice(np.where(_lv > 5)[0], size=_size)
+        _i = np.random.choice(_inds, size=_size)
         _lv[_i] -= _size
-
-    for _i in np.where(_lv <= 3)[0]:
-        _lv[_i] = 1
+    _lv[np.where(_lv <= _size)[0]] = 1
     return _lv
 
 
@@ -362,7 +360,7 @@ if __name__ == "__main__":
         'Magician': 1,
         'Caitlin': 1
     }
-    TEAM['VE'] = 577
+    TEAM['VE'] = 632
     TEAM['STAGE'] = 1
     TEAM['MAP'] = (5, 1)
     read_team(TEAM)
