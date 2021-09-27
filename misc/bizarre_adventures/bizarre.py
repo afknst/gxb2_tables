@@ -106,7 +106,7 @@ def read_team(_t):
             T[_rarity].append(_girl)
             MAT.append(GIRLS.loc[_girl][:6])
             VE0 += (_t['GIRLS'][_girl] - 1) * UPDATE_VE[_rarity]
-    VE0 -= s2ve(TEAM["STAGE"], TEAM["MAP"])
+    VE0 -= s2ve(_t["STAGE"], _t["MAP"])
     MAT = np.array(MAT)
     T["ALL"] = T["SSR"] + T["SR"] + T["R"]
     T["UP"] = [UPDATE_VE["SSR"]] * len(T["SSR"])
