@@ -9,9 +9,9 @@ id,name,from,content
 8,Mini Pass Rewards,Mini Pass,"Dear Senpai, please collect the following rewards in time. Your Mini Pass will expire in {1} day(s)."
 9,Mini Pass Expired,Mini Pass,"Dear Senpai, your Mini Pass has expired. Please visit the Homework section to renew your Mini Pass. As a reminder, the Mini pass is 10 times cheaper than buying Gems individually!"
 10,Summon Girl Rewards,Summon Rewards,Congratulations on summoning {1} during the event. Your rewards are available in Mail on the FrontPage.
-11,Daily Rewards,System Message,"Login every day during the event and you will receive Adv. Capsule Coins x 3, Fate-Binding Coin x 1. Your rewards are attached."
+11,Daily Rewards,System Message,Login daily during the event to get Adv. Capsule Coin x3. Your rewards are attached.
 12,Capsule Reward,System Message,"Congratulations, you've completed {1} Adv. Capsule Draws during event Girls X Capsule Points, here's your reward."
-13,Daily Rewards,System Message,"Login every day during the event and you will receive Seal x 1, Fate Binding Coin x 1. Your rewards are attached."
+13,Daily Rewards,System Message,Login every day during the event and you will receive Seal x 1. Your rewards are attached.
 14,Enroll Rewards,System Message,Congratulations on reaching {1} points during the Enroll event. Here are your rewards~!
 15,Boss Fight Rewards,System Message,Congratulations on defeating your friend's Boss. You have received the following rewards for your service!
 16,Boss Fight Rewards,System Message,The friend BOSS you found has been defeated. You have received the following rewards for your help!
@@ -200,4 +200,5 @@ Yuki apologizes for the inconvenience, for any further queries, please don’t h
 193,Red Riding Hood,Event Mail,"Thanks for purchasing Red Riding Hood's Gift, here's your reward for today. Your Grade 2 reward will expire in {1} days!"
 194,Skin Adjustment Compensation,System Message,"Dear Senpai, the background design for the skin ""Watergun Fight"" is adjusted in the recent update. (The background of the skin now is deleted and becomes an available background in Menu-Image). Please take these 300 Gems as compensation, and you can choose to purchase the background (Beach Corner) in Menu-Image with the Gems compensated to you because of this adjustment.\nWe would like to apologize for any inconvenience caused. For any further assistance, please do not hesitate to contact Yuki via the in-game GM channel."
 195,Skin Adjustment Compensation,System Message,"Dear Senpai, the background design for the skin ""Beach Vacation"" is adjusted in the recent update. (The background of the skin now is deleted and becomes an available background in Menu-Image). Please take these 300 Gems as compensation, and you can choose to purchase the background (Beach Store) in Menu-Image with the Gems compensated to you because of this adjustment.\nWe would like to apologize for any inconvenience caused. For any further assistance, please do not hesitate to contact Yuki via the in-game GM channel."
-196,Top Student Reward,Event Mail,"Dear Senpai, congratulations on reaching Division S+ in Entrance Exam! Please take the ""Top Student"" frame as your reward! The frame is available for 28 days, please check it out!"
+196,Top Student,Event Mail,"Dear Senpai, congratulations on reaching Division S+ in Entrance Exam! Please take the ""Top Student"" frame as your reward! The frame is available for 28 days, please check it out!"
+197,Yume Sports Meeting,Event Mail,"Dear Senpai, congratulations on reaching the top 100 of your House in Yume Sports Meeting. You have successfully advanced to the Runoff phase, please check it out!"

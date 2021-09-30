@@ -1401,4 +1401,6 @@ id,name,水鏡深戀淨靈皮膚,type,pos,qlt,star,item_lv,price,base1,base2,bas
 7207,-1,-1,12,7,6,6,1,0,hpP#0.04,atkP#0.03,free#50,,,,,,,,,,,,partner_avatar_5501003,,,,,,,,,,,,,,5501003,partner_avatar_5501003,2,
 7208,-1,-1,12,7,6,6,1,0,hpP#0.04,decDmg#40,spd#4,,,,,,,,,,,,partner_avatar_5401404,,,,,,,,,,,,,,5401404,partner_avatar_5401404,3,
 7209,-1,-1,12,7,6,6,1,0,hpP#0.05,healB#0.05,spd#4,,,,,,,,,,,,partner_avatar_5600606,,,,,,,,,,,,,,5600606,partner_avatar_5600606,5,
-7210,,-1,12,7,6,6,1,0,,,,,,,,,,,,,,,partner_avatar_5400302,,,,,,,,,,,,,,5400302,partner_avatar_5400302,1,
+7210,-1,-1,12,7,6,6,1,0,hpP#0.03,atkP#0.03,free#50,,,,,,,,,,,,partner_avatar_5400302,,,,,,,,,,,,,,5400302,partner_avatar_5400302,1,
+7211,-1,-1,12,7,6,6,1,0,hpP#0.03,spd#4,decDmg#40,,,,,,,,,,,,partner_avatar_5301602,,,,,,,,,,,,,,5301602,partner_avatar_5301602,1,
+7212,-1,-1,12,7,6,6,1,0,hpP#0.03,atkP#0.03,critTime#100,,,,,,,,,,,,partner_avatar_5600803,,,,,,,,,,,,,,5600803,partner_avatar_5600803,2,

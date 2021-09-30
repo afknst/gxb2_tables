@@ -285,6 +285,9 @@ def input_rolled(_t0):
 def guide(_luvly, _helper, _M=1000):
     _I, _J, _K, _X = _luvly.get_status()
     _luvly.print_status(_force=True)
+    if _I < 1 and _J < 1:
+        fin()
+
     _mc, _mp, _dmc, _dmp = _luvly.get_estimate(_M=_M)
     print("Estimate:")
     print(f"\tAVERAGE CORAL: {_mc:.2f} ± {_dmc:.2f}")
@@ -297,8 +300,6 @@ def guide(_luvly, _helper, _M=1000):
         print("Please wait for recycle.")
         fin()
 
-    if _I < 1 and _J < 1:
-        fin()
     if _J < 1:
         print("No Adv. Rudder. Please use Rudder.")
         _d, _c = input_rolled(_T)

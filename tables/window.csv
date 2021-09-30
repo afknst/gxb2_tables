@@ -482,7 +482,7 @@ activity_sports_shows_check_window,ActivitySportsShowsCheckWindow,activity_sport
 activity_sports_rank_window,ActivitySportsRankWindow,activity_sports_rank_window,ACTIVITY_SPORTS_RANK_WINDOW,4,-1,-1,2,,2,2,-2,1,,,,387,-1,,,
 activity_sports_fight_record_window,ActivitySportsFightRecordWindow,arena_record_window,ACTIVITY_SPORTS_FIGHT_RECORD_WINDOW,4,-1,-1,2,,2,2,-2,1,,,,391,-1,,,
 activity_sports_enemy_window,ActivitySportsEnemyWindow,activity_sports_enemy_window,ACTIVITY_ENTRANCE_TEST_ENEMY_WINDOW,4,-1,-1,2,,2,2,-2,1,,,,530,-1,,,
-activity_sports_rank1_window,ActivitySportsRank1Window,arena_3v3_award_window,MAIL_AWAED_TEXT,4,-1,-1,2,,2,2,-2,1,,,,404,-1,,,
+activity_sports_rank1_window,ActivitySportsRank1Window,activity_sports_rank1_window,MAIL_AWAED_TEXT,4,-1,-1,2,,2,2,-2,1,,,,404,-1,,,
 activity_sports_exchange_window,ActivitySportsExchangeWindow,activity_sports_exchange_window,ACTIVITY_SPORTS_EXCHANGE_WINDOW,4,-1,-1,2,,2,2,-2,1,,,,386,-1,,,
 activity_sports_rank2_window,ActivitySportsRank2Window,activity_sports_rank2_window,CAMPAIGN_RANK_WINDOW,4,-1,-1,2,,2,2,-2,1,,,,405,-1,,,
 scratch_card_window,ScratchCardWindow,scratch_card_window,SCRATCH_CARD_WINDOW,4,-1,-1,3,,2,2,-2,1,,,,355,-1,,,

@@ -105,7 +105,7 @@ id,name,step,mark,condition,forced,window_name,obj_type,obj_id,no_click,special_
 104,hero challenge,1,34,,,hero_challenge_window,1,wrapContentNode_|-2/hero_challenge_item,,,,1,31,0,,,,,,,,,,,,,,,,,,
 105,friend_team_boss,1,35,,,func_open_window,,btnGo_,,,,,,,,,,,,1,,,-350|-140,,,,0.5,,,,,
 106,friend_team_boss,1,35,,,main_window,,arenaBtn,,,,,,2,buttoncrop_27,0|0,1.2|1.2,,1,,,,,,,,0.2,,,,,
-107,friend_team_boss,1,35,,,battle_choose_window,,gFriendTeamBoss,,,,1,32,,,0|0,,,,,,,,,,,0.2,,,,,
+107,friend_team_boss,1,35,,,battle_choose_window,,gFriendTeamBoss,,,,1,32,,,0|0,,,,,,,,,,,0.46,,,,,
 108,guild_free,1,36,,,func_open_window,,btnGo_,,,,,,,,,,,,1,,,,,,,0.5,,,,,
 109,guild_free,1,36,,,main_window,,MainwinBottomBtn_5,,,,,,0,,,1|1.5,,1,,1,-1,-399|-107,,,,0.2,,,,,
 110,guild_free,1,36,,,guild_join_window,,-1,,,,,,,,,,,,,2,-1,-350|-140,,,,0.2,,,,,
