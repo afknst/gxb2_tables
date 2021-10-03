@@ -332,38 +332,38 @@ def check_fin(_goal):
 if __name__ == "__main__":
     reset_team()
     TEAM['GIRLS'] = {
-        'Lucifer': 1,
+        'Lucifer': 22,
         # 'Michael': 1,
-        'Dracula': 1,
+        # 'Dracula': 1,
         # 'Saint': 1,
         # 'Nobunaga': 1,
-        # 'KongMing': 1,
-        'Marynari': 1,
-        'Robin': 1,
-        'Sisha': 1,
-        'Mythra': 1,
-        # 'Athena': 1,
-        'Kenshin': 1,
-        'Reo': 1,
-        'Poppi': 1,
+        'KongMing': 10,
+        # 'Marynari': 1,
+        'Robin': 40,
+        'Sisha': 40,
+        'Mythra': 40,
+        'Athena': 40,
+        # 'Kenshin': 1,
+        # 'Reo': 1,
+        # 'Poppi': 1,
         'Jade': 1,
         'Ursula': 1,
         'Kitty': 1,
-        'Samurai': 1,
-        # 'Tula': 1,
+        'Samurai': 2,
+        'Tula': 2,
         'Edward': 1,
-        # 'King': 1,
-        # 'Donna': 1,
+        'King': 1,
+        'Donna': 1,
         'Nobuna': 1,
-        # 'Annabelle': 1,
+        'Annabelle': 1,
         'Harley': 1,
         'Magician': 1,
         'Caitlin': 1
     }
-    TEAM['VE'] = 632
-    TEAM['STAGE'] = 1
+    TEAM['VE'] = 60
+    TEAM['STAGE'] = 31
     TEAM['MAP'] = (5, 1)
     read_team(TEAM)
-    GOAL = 28
+    GOAL = 31
     calc(GOAL, _steps=3)
     check_fin(GOAL)

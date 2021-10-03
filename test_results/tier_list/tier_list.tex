@@ -1,0 +1,253 @@
+\documentclass{article}
+
+%%FOLD PACKAGE
+\usepackage[a4paper, landscape, margin=0in]{geometry}
+\usepackage{textcomp}
+\usepackage{tocloft}
+\usepackage{tikz}
+\usepackage[T1]{fontenc}
+\usepackage[english]{babel}
+\usepackage{lmodern}
+\usepackage{advdate}
+\usepackage[parfill]{parskip}
+\usepackage{dsfont}
+\usepackage{mathtools,stmaryrd}
+\usepackage{booktabs}
+\usepackage{graphicx}
+\usepackage{subcaption}
+\usepackage{mwe}
+\usepackage{bm}
+\usepackage{caption, copyrightbox}
+%%END_FOLD
+
+%%FOLD COMMAND
+\graphicspath{{figures/}}
+\usetikzlibrary{arrows.meta,decorations.markings}
+%%END_FOLD
+
+\begin{document}
+
+\begin{tikzpicture}[remember picture,overlay,inner sep=0pt,node distance=0pt]
+    \node [right=of current page.center] {\includegraphics[height=\paperheight]{house_basic01_bg01}};
+    \node [left=of current page.center] {\includegraphics[height=\paperheight]{house_basic01_bg01}};
+    \path (current page.center) ++ (8,-0.5) node {\includegraphics[width=1.4\paperwidth]{partner_picture_41004_b75}};
+\end{tikzpicture}
+
+\begin{tikzpicture}[remember picture,overlay,inner sep=0pt]
+    \path (current page.center) ++ (-10,7) node (logo) {\includegraphics[height=0.25\paperheight]{logo_en_en}};
+    \path (logo.south) ++ (1,-6) node (note) {\includegraphics[height=0.5\paperheight]{super_hero_club_message_bg}};
+    \path (note.center) ++ (0,2.5) node {
+        \color{teal} \bf \Huge \textsf{PvP Tier List}};
+    \path (note.center) ++ (2.3,1.7) node {
+        \color{teal} \bf \Large \textsf{Oct. 2021}};
+    \path (note.center) ++ (1.7,-0.25) node (Sivney) {\includegraphics[height=0.13\paperheight]{partner_picture_753016}};
+    \path (note.center) ++ (3.3,-3.2) node (Diana) {\includegraphics[height=0.13\paperheight]{partner_picture_751016}};
+    \path (note.center) ++ (0,-3.2) node (Angie) {\includegraphics[height=0.13\paperheight]{partner_picture_756008}};
+    \begin{scope}[very thick,decoration={
+                    markings,
+                    mark=at position 0.6 with {\arrow{Stealth[scale=2.5]}}}
+        ]
+        \draw[orange,postaction={decorate},draw opacity=0] (Sivney.center)--(Diana.center);
+        \draw[orange,postaction={decorate},draw opacity=0] (Diana.center)--(Angie.center);
+        \draw[orange,postaction={decorate},draw opacity=0] (Angie.center)--(Sivney.center);
+    \end{scope}
+    \path (note.center) ++ (-2.3,-1) node [align=left] {
+    {\color{teal} \Large \bf \textsf{Format:}}\\[1em]
+    {\color{teal} \bf \textsf{Name}}\\
+    {\color{teal} \bf \textsf{Potentials}}\\
+    {\color{teal} \bf \textsf{Gear Skill, Excursion}}\\
+    {\color{teal} \bf \textsf{(From left to right)}}\\
+    {\color{teal} \bf \textsf{Crystal}}\\
+    {\color{teal} \bf \textsf{Antique}}\\
+    {\color{teal} \bf \textsf{(Pink if available)}}\\
+    };
+    \path (current page.south west) ++ (6,0.5) node [align=left] {
+    {\color{black} \Large \bf \textsf{2021, Aforest}}\\
+    {\color{black} \small \bf \textsf{Thanks to the GxB2 Discord community. FOR NON-COMMERCIAL USE ONLY.}}
+    };
+\end{tikzpicture}
+
+\begin{tikzpicture}[remember picture,overlay,inner sep=0pt,opacity=0.95,node distance=-5pt]
+    \path (current page.center) ++ (6,7.5) node (T1) {\includegraphics[height=0.25\paperheight,width=0.8\paperwidth]{activity_space_explore_up_bg}};
+    \node [below=of T1] (T2) {\includegraphics[height=0.25\paperheight,width=0.8\paperwidth]{activity_space_explore_up_bg}};
+    \node [below=of T2] (T3) {\includegraphics[height=0.25\paperheight,width=0.8\paperwidth]{activity_space_explore_up_bg}};
+    \node [below=of T3] (T4) {\includegraphics[height=0.25\paperheight,width=0.8\paperwidth]{activity_space_explore_up_bg}};
+    \path (T1.west) ++ (4,1.2) node[opacity=0.8] {
+        {\color{teal} \bf \textsf{\rotatebox{36}{\fontsize{60}{70}\selectfont T1}}}
+    };
+    \path (T2.west) ++ (4,1.2) node[opacity=0.8] {
+        {\color{teal} \bf \textsf{\rotatebox{36}{\fontsize{60}{70}\selectfont T2}}}
+    };
+    \path (T3.west) ++ (4,1.2) node[opacity=0.8] {
+        {\color{teal} \bf \textsf{\rotatebox{36}{\fontsize{60}{70}\selectfont T3}}}
+    };
+    \path (T4.west) ++ (4,1.2) node[opacity=0.8] {
+        {\color{teal} \bf \textsf{\rotatebox{36}{\fontsize{60}{70}\selectfont T4}}}
+    };
+    \begin{scope}[opacity=1]
+        \path (T1.center) ++ (-6,0) node (Angie) {\includegraphics[height=0.13\paperheight]{houyi_pifu02_lihui01}};
+        \path (Angie.east) ++ (1,0) node[align=left] {
+        {\color{teal} \large \bf \textsf{Angelica}}\\[0.5em]
+        {\color{teal} \bf \textsf{32332/23322}}\\
+        {\color{teal} \bf \textsf{2/3/1, 4/2}}\\
+        {\color{teal} \bf \textsf{Spd/HP}}\\
+        {\color{teal} \bf \textsf{Crit Dmg/Crit}}\\[0.5em]
+        {\includegraphics[height=0.03\paperheight]{artfact_81}}
+        {\includegraphics[height=0.03\paperheight]{artfact_83}}
+        };
+    \end{scope}
+    \begin{scope}[opacity=1]
+        \path (T1.center) ++ (-1,0) node (Holly) {\includegraphics[height=0.13\paperheight]{hujisheng_pifu02_lihui01}};
+        \path (Holly.east) ++ (1,0) node[align=left] {
+        {\color{teal} \large \bf \textsf{Holly}}\\[0.5em]
+        {\color{teal} \bf \textsf{13312}}\\
+        {\color{teal} \bf \textsf{1/3, 1/5}}\\
+        {\color{teal} \bf \textsf{HP/HP}}\\
+        {\color{teal} \bf \textsf{Heal Rcv/HP}}\\[0.5em]
+        {\includegraphics[height=0.03\paperheight]{artfact_93}}
+        {\includegraphics[height=0.03\paperheight]{artfact_82}}
+        };
+    \end{scope}
+    \begin{scope}[opacity=1]
+        \path (T1.center) ++ (4,0) node (Monica) {\includegraphics[height=0.13\paperheight]{monika_pifu01_lihui01}};
+        \path (Monica.east) ++ (1,0) node[align=left] {
+        {\color{teal} \large \bf \textsf{Monica}}\\[0.5em]
+        {\color{teal} \bf \textsf{13312/33332}}\\
+        {\color{teal} \bf \textsf{3/2, 4/1}}\\
+        {\color{teal} \bf \textsf{HP/HP}}\\
+        {\color{teal} \bf \textsf{Spd/HP}}\\[0.5em]
+        {\includegraphics[height=0.03\paperheight]{artfact_93}}
+        {\includegraphics[height=0.03\paperheight]{artfact_79}}
+        };
+    \end{scope}
+    \begin{scope}[opacity=1]
+        \path (T2.center) ++ (-6.5,0) node (Diana) {\includegraphics[height=0.13\paperheight]{partner_picture_651023}};
+        \path (Diana.east) ++ (0.5,0) node[align=left] {
+        {\color{teal} \large \bf \textsf{Diana}}\\[0.5em]
+        {\color{teal} \bf \textsf{32332/33332}}\\
+        {\color{teal} \bf \textsf{3/1, 4}}\\
+        {\color{teal} \bf \textsf{Spd/HP}}\\
+        {\color{teal} \bf \textsf{Spd/Atk}}\\[0.5em]
+        {\includegraphics[height=0.03\paperheight]{artfact_86}}
+        };
+    \end{scope}
+    \begin{scope}[opacity=1]
+        \path (T2.center) ++ (-3,0) node (Izanami) {\includegraphics[height=0.13\paperheight]{yixienamei_pifu04_lihui01}};
+        \path (Izanami.east) ++ (1,0) node[align=left] {
+        {\color{teal} \large \bf \textsf{Izanami}}\\[0.5em]
+        {\color{teal} \bf \textsf{33332/13312}}\\
+        {\color{teal} \bf \textsf{3/2, 4/1}}\\
+        {\color{teal} \bf \textsf{Spd/HP}}\\
+        {\color{teal} \bf \textsf{HP/HP}}\\[0.5em]
+        {\includegraphics[height=0.03\paperheight]{artfact_79}}
+        {\includegraphics[height=0.03\paperheight]{artfact_93}}
+        };
+    \end{scope}
+    \begin{scope}[opacity=1]
+        \path (T2.center) ++ (1,0) node (Sivney) {\includegraphics[height=0.13\paperheight]{luban_pifu01_lihui01_edit}};
+        \path (Sivney.east) ++ (1,0) node[align=left] {
+        {\color{teal} \large \bf \textsf{Sivney}}\\[0.5em]
+        {\color{teal} \bf \textsf{13312}}\\
+        {\color{teal} \bf \textsf{2/3, 1/5/4}}\\
+        {\color{teal} \bf \textsf{HP/HP}}\\
+        {\color{teal} \bf \textsf{Spd/HP}}\\[0.5em]
+        {\includegraphics[height=0.03\paperheight]{artfact_79}}
+        {\includegraphics[height=0.03\paperheight]{artfact_84}}
+        };
+    \end{scope}
+    \begin{scope}[opacity=1]
+        \path (T2.center) ++ (5,0) node (Skye) {\includegraphics[height=0.13\paperheight]{xifeng_pifu01_lihui01}};
+        \path (Skye.east) ++ (0.6,0) node[align=left] {
+        {\color{teal} \large \bf \textsf{Skye}}\\[0.5em]
+        {\color{teal} \bf \textsf{21312}}\\
+        {\color{teal} \bf \textsf{23322}}\\
+        {\color{teal} \bf \textsf{1/3, 2}}\\
+        {\color{teal} \bf \textsf{Atk/Atk}}\\[0.5em]
+        {\includegraphics[height=0.03\paperheight]{artfact_79}}
+        };
+    \end{scope}
+    \begin{scope}[opacity=1]
+        \path (T3.center) ++ (-6,-0.3) node (Apate) {\includegraphics[height=0.125\paperheight]{apate_pifu03_lihui01}};
+        \path (Apate.east) ++ (0.5,0.3) node[align=left] {
+        {\color{teal} \large \bf \textsf{Apate}}\\[0.5em]
+        {\color{teal} \bf \textsf{32332/13313}}\\
+        {\color{teal} \bf \textsf{3/1, 4/1/2}}\\
+        {\color{teal} \bf \textsf{Spd/Atk}}\\
+        {\color{teal} \bf \textsf{HP/HP}}\\[0.5em]
+        {\includegraphics[height=0.03\paperheight]{artfact_79}}
+        };
+    \end{scope}
+    \begin{scope}[opacity=1]
+        \path (T3.center) ++ (-2,0) node (Frexie) {\includegraphics[height=0.13\paperheight]{feisina_pifu02_lihui01}};
+        \path (Frexie.east) ++ (0.5,0) node[align=left] {
+        {\color{teal} \large \bf \textsf{Frexie}}\\[0.5em]
+        {\color{teal} \bf \textsf{23322/31332}}\\
+        {\color{teal} \bf \textsf{1, 2/1}}\\
+        {\color{teal} \bf \textsf{Spd/HP}}\\
+        {\color{teal} \bf \textsf{Atk/Atk}}\\[0.5em]
+        {\includegraphics[height=0.03\paperheight]{artfact_83}}
+        {\includegraphics[height=0.03\paperheight]{artfact_111}}
+        };
+    \end{scope}
+    \begin{scope}[opacity=1]
+        \path (T3.center) ++ (1.5,0) node (Kassy) {\includegraphics[height=0.15\paperheight]{partner_picture_54016}};
+        \path (Kassy.east) ++ (0,0) node[align=left] {
+        {\color{teal} \large \bf \textsf{Kassy}}\\[0.5em]
+        {\color{teal} \bf \textsf{33332}}\\
+        {\color{teal} \bf \textsf{3/2, 4}}\\
+        {\color{teal} \bf \textsf{Spd/HP}}\\
+        {\color{teal} \bf \textsf{Spd/Atk}}\\[0.5em]
+        {\includegraphics[height=0.03\paperheight]{artfact_79}}
+        {\includegraphics[height=0.03\paperheight]{artfact_83}}
+        };
+    \end{scope}
+    \begin{scope}[opacity=1]
+        \path (T3.center) ++ (4.5,0) node (Teresa) {\includegraphics[height=0.13\paperheight]{teleisha_pifu02_lihui01_edit_2}};
+        \path (Teresa.east) ++ (0.6,0) node[align=left] {
+        {\color{teal} \large \bf \textsf{Teresa}}\\[0.5em]
+        {\color{teal} \bf \textsf{13312/33332}}\\
+        {\color{teal} \bf \textsf{3/1, 1/4}}\\
+        {\color{teal} \bf \textsf{HP/HP}}\\
+        {\color{teal} \bf \textsf{Spd/Atk}}\\[0.5em]
+        {\includegraphics[height=0.03\paperheight]{artfact_93}}
+        {\includegraphics[height=0.03\paperheight]{artfact_79}}
+        };
+    \end{scope}
+    \begin{scope}[opacity=1]
+        \path (T4.center) ++ (-5.7,-0.4) node (Nephilim) {\includegraphics[height=0.13\paperheight]{luxifeier_pifu05_lihui01_edit}};
+        \path (Nephilim.east) ++ (1,0.4) node[align=left] {
+        {\color{teal} \large \bf \textsf{Nephilim}}\\[0.5em]
+        {\color{teal} \bf \textsf{13312}}\\
+        {\color{teal} \bf \textsf{1/3, 1/5}}\\
+        {\color{teal} \bf \textsf{HP/HP}}\\
+        \\[0.5em]
+        {\includegraphics[height=0.03\paperheight]{artfact_93}}
+        };
+    \end{scope}
+    \begin{scope}[opacity=1]
+        \path (T4.center) ++ (-1,0) node (Vivian) {\includegraphics[height=0.13\paperheight]{weiweian_pifu03_lihui01}};
+        \path (Vivian.east) ++ (1.2,0) node[align=left] {
+        {\color{teal} \large \bf \textsf{Vivian}}\\[0.5em]
+        {\color{teal} \bf \textsf{13312}}\\
+        {\color{teal} \bf \textsf{2/3, 1/5}}\\
+        {\color{teal} \bf \textsf{HP/HP}}\\
+        {\color{teal} \bf \textsf{Heal Amt/HP}}\\[0.5em]
+        {\includegraphics[height=0.03\paperheight]{artfact_93}}
+        {\includegraphics[height=0.03\paperheight]{artfact_111}}
+        };
+    \end{scope}
+    \begin{scope}[opacity=1]
+        \path (T4.center) ++ (3.3,0) node (Von Helsing) {\includegraphics[height=0.13\paperheight]{fanhexin_pifu01_lihui01}};
+        \path (Von Helsing.east) ++ (1.1,0) node[align=left] {
+        {\color{teal} \large \bf \textsf{Von Helsing}}\\[0.5em]
+        {\color{teal} \bf \textsf{23322/32332}}\\
+        {\color{teal} \bf \textsf{3/2, 2/4}}\\
+        {\color{teal} \bf \textsf{Atk/Atk}}\\
+        {\color{teal} \bf \textsf{Spd/Atk, Spd/HP}}\\[0.5em]
+        {\includegraphics[height=0.03\paperheight]{artfact_83}}
+        {\includegraphics[height=0.03\paperheight]{artfact_91}}
+        };
+    \end{scope}
+\end{tikzpicture}
+
+\end{document}

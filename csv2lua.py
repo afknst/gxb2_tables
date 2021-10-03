@@ -1,6 +1,20 @@
+import json
+
 from pathlib import Path
 import pandas as pd
-# import numpy as np
+import numpy as np
+
+
+class NpEncoder(json.JSONEncoder):
+    # pylint: disable=W0221
+    def default(self, obj):
+        if isinstance(obj, np.integer):
+            return int(obj)
+        if isinstance(obj, np.floating):
+            return float(obj)
+        if isinstance(obj, np.ndarray):
+            return obj.tolist()
+        return json.JSONEncoder.default(self, obj)
 
 
 def print_pets(_lang="en_en", _lua=True):
@@ -56,6 +70,10 @@ def all_girls(_lang="zh_tw"):
             if _v // 10000 == 75:
                 _dict_new[_v] = _k
 
+    _out = Path("./misc/tables/girls.json")
+    with open(_out, 'w') as _f:
+        json.dump(_dict, _f, indent=4, ensure_ascii=False, cls=NpEncoder)
+
     return _dict_new
 
 
@@ -89,6 +107,10 @@ def print_equips(_lang="zh_tw", _slot=6, _lua=True):
             print(_list[-_i - 1])
     print(len(_equips))
 
+    _out = Path("./misc/tables/antiques.json")
+    with open(_out, 'w') as _f:
+        json.dump(_equips, _f, indent=4, ensure_ascii=False, cls=NpEncoder)
+
 
 def buff2desc(*_buffs, _lang="zh_tw"):
     _P = Path(f"./tables/{_lang}/buff_text_{_lang}.csv")
@@ -121,6 +143,10 @@ def print_cores(_lang="en_en", _lua=True):
         else:
             print(_k)
 
+    _out = Path("./misc/tables/crystals.json")
+    with open(_out, 'w') as _f:
+        json.dump(_dict, _f, indent=4, ensure_ascii=False, cls=NpEncoder)
+
 
 def print_lab(_lua=True):
     _P = Path("./tables/guild_skill.csv")
@@ -134,9 +160,25 @@ def print_lab(_lua=True):
             print(_R.id)
 
 
+def trans_cores():
+    _cn = Path("./misc/tables/crystals.json")
+    _en = Path("./misc/tables/crystals_en.json")
+    with open(_cn, 'r') as _f:
+        _dict_cn = {_v: _k for _k, _v in json.load(_f).items()}
+    with open(_en, 'r') as _f:
+        _dict_en = {_v: _k for _k, _v in json.load(_f).items()}
+
+    _dict_trans = {_dict_cn[_k]: _dict_en[_k] for _k in _dict_cn}
+    _out = Path("./misc/tables/crystals_trans.json")
+    with open(_out, 'w') as _f:
+        json.dump(_dict_trans, _f, indent=4, ensure_ascii=False, cls=NpEncoder)
+
+
 if __name__ == "__main__":
     # print_pets(_lang="zh_tw", _lua=False)
     # print_lab()
-    print_equips(_lang="zh_tw", _lua=False)
+    # print_equips(_lang="zh_tw", _lua=False)
+    # print_cores(_lang="en_en", _lua=False)
+    trans_cores()
     # print(all_girls())
     # print_10_girls(_lang="zh_tw", _lua=False)
