@@ -59,10 +59,11 @@ def all_girls(_lang="zh_tw"):
     _T = pd.read_csv(_P)
     _dict = {}
     for _r in range(len(_T)):
-        if _T.iloc[_r][1] in _dict:
-            _dict[_T.iloc[_r][1]].append(_T.iloc[_r].id)
+        _k = _T.iloc[_r][1].replace(u'\xa0', ' ')
+        if _k in _dict:
+            _dict[_k].append(_T.iloc[_r].id)
         else:
-            _dict[_T.iloc[_r][1]] = [_T.iloc[_r].id]
+            _dict[_k] = [_T.iloc[_r].id]
 
     _dict_new = {}
     for _k in _dict:
@@ -70,7 +71,7 @@ def all_girls(_lang="zh_tw"):
             if _v // 10000 == 75:
                 _dict_new[_v] = _k
 
-    _out = Path("./misc/tables/girls.json")
+    _out = Path(f"./misc/tables/girls_{_lang}.json")
     with open(_out, 'w') as _f:
         json.dump(_dict, _f, indent=4, ensure_ascii=False, cls=NpEncoder)
 
@@ -174,11 +175,38 @@ def trans_cores():
         json.dump(_dict_trans, _f, indent=4, ensure_ascii=False, cls=NpEncoder)
 
 
+def sports(_name):
+    with open(Path("./misc/tables/girls_en.json"), 'r') as _f:
+        _girls = json.load(_f)
+    _id = _girls[_name][-1]
+    _T = pd.read_csv(Path("./combined_tables/monster.csv"))
+    _Ti = _T[_T["partner_link"] == _id]
+    _Ti = _Ti[_Ti["id"] // 1000 == 89]
+    if len(_Ti) != 1:
+        print(_name, _id, _Ti)
+    return _Ti.iloc[0]["id"]
+
+
 if __name__ == "__main__":
     # print_pets(_lang="zh_tw", _lua=False)
     # print_lab()
     # print_equips(_lang="zh_tw", _lua=False)
     # print_cores(_lang="en_en", _lua=False)
-    trans_cores()
-    # print(all_girls())
+    # trans_cores()
+    # print(all_girls(_lang="en_en"))
     # print_10_girls(_lang="zh_tw", _lua=False)
+    _TEAM = [
+        "Mika",
+        "Empress Saint",
+        "Rogue",
+        "Monica",
+        "Teresa",
+        "Ithil",
+        "Sivney",
+        "Estel",
+        "Skye",
+        "Trinity",
+        "N-Gen Iron Fist",
+        "Turin",
+    ]
+    print(",\n".join([str(sports(_n)) for _n in _TEAM]))
