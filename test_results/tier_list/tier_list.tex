@@ -35,7 +35,7 @@
 
 \begin{tikzpicture}[remember picture,overlay,inner sep=0pt]
     \path (current page.center) ++ (-10,7) node (logo) {\includegraphics[height=0.25\paperheight]{logo_en_en}};
-    \path (logo.south) ++ (1,-6) node (note) {\includegraphics[height=0.5\paperheight]{super_hero_club_message_bg}};
+    \path (logo.south) ++ (1,-5) node (note) {\includegraphics[height=0.5\paperheight]{super_hero_club_message_bg}};
     \path (note.center) ++ (0,2.5) node {
         \color{teal} \bf \Huge \textsf{PvP Tier List}};
     \path (note.center) ++ (2.3,1.7) node {
@@ -61,8 +61,18 @@
     {\color{teal} \bf \textsf{Antique}}\\
     {\color{teal} \bf \textsf{(Pink if available)}}\\
     };
-    \path (current page.south west) ++ (6,0.5) node [align=left] {
-    {\color{black} \Large \bf \textsf{2021, Aforest}}\\
+    \path (note.south) ++ (-2,-2) node[opacity=0.7] (code) {
+        \includegraphics[height=0.15\paperheight]{gxb2_qrcode}
+    };
+    \path (note.south) ++ (-2,-2) node[opacity=1] {
+        \includegraphics[height=0.05\paperheight]{partner_picture_651014}
+    };
+    \path (code.east) ++ (2.5,0) node [align=left] {
+    {\color{black} \huge \bf \textsf{GxB2 Discord}}\\[0.5em]
+    {\color{black} \bf \textsf{https://discord.gg/gxsJzYW}}
+    };
+    \path (current page.south west) ++ (5.95,0.4) node [align=left] {
+    {\color{black} \large \bf \textsf{2021, Aforest}}\\
     {\color{black} \small \bf \textsf{Thanks to the GxB2 Discord community. FOR NON-COMMERCIAL USE ONLY.}}
     };
 \end{tikzpicture}
