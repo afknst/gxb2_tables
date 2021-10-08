@@ -426,6 +426,9 @@ dressKnowledgefree,-1,,0,5,,1,1,2,,,,free,,,,,,,,,,,,,,
 dressKnowledgeunfree,-1,,0,5,,1,1,2,,,,unfree,,,,,,,,,,,,,,
 healSelfP,-1,,1,,,,,1,,,,,,,,,,,,,,,,,,
 costCurrentHp,-1,,1,,,,,1,,,,,,,,,,,,,,,,,,
-lubanHurtB,-1,,0,2,5,,,,,,,,,,,,,,buff_lubanHurtB,,,,,,1,1
-lubanHurtC,-1,,1,2,,,,,,,,,,,,,,,buff_lubanHurtC,,,,,,1,1
+lubanHurtB,-1,,0,2,,1,,,,,,,,,,,,,buff_lubanHurtB,,,,,,1,1
+lubanHurtC,-1,,1,2,,1,,,,,,,,,,,,,buff_lubanHurtC,,,,,,1,1
 lubanHurtDirect,-1,,1,,,,,,,,,,,,,,,,,,,,,,,
+firstControlFree,-1,,0,,,1,1,,,,,,,,,,,,,,,,,,1,
+energyResist,-1,,0,,,,,,,,,,1,,,,,,,,,,,,,
+copyUncontrol,-1,,1,,,,,,,,,,,,,,,,,,,,,,,

@@ -1638,4 +1638,4 @@ id,name,skill_name,ex_skill_desc
 753016042,魯班,執念,Damage capacity increases to {1} of Sivney's Attack
 753016043,魯班,執念,"Damage capacity increases to {1} of Sivney's Attack, damage increase effect of [c][e28002]Aether Exhaustion[-][/c] increases to {2}"
 753016044,魯班,執念,"Damage capacity increases to {1} of Sivney's Attack, damage increase effect of [c][e28002]Aether Exhaustion[-][/c] increases to {2}"
-753016045,魯班,執念,"Damage capacity increases to {1} of Sivney's Attack, damage increase effect of [c][e28002]Aether Exhaustion[-][/c] increases to {2}, Healing Received reduction effect of $font color=0xe28002>Aether Exhaustion</font> increases to {3}."
+753016045,魯班,執念,"Damage capacity increases to {1} of Sivney's Attack, damage increase effect of [c][e28002]Aether Exhaustion[-][/c] increases to {2}, Healing Received reduction effect of [c][e28002]Aether Exhaustion[-][/c] increases to {3}."
