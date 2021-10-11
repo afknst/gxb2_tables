@@ -46,8 +46,8 @@ id,name,from,content
 45,Exploration Rewards,System Message,You have completely explored the wilderness! Here are your rewards~!
 46,Varsity League Will End,System Message,"Dear Senpai, Varsity will be ending in less than 24 hours! Please quickly go to Varsity League Arena and defend your glory!"
 47,Voice Actress Share Rewards,System Message,Thank you for participating in the Voice Of Love event! Here are your rewards!
-48,Daily Rewards,System Message,"Login every day during the event and you will receive Super Slot Ticket x 1, Hourglass x 5. Your rewards are attached."
-49,Part-time Job,System Message,"Senpai! The Practical Work is starting! Here, use this Hourglass x 4 so you can join the event!"
+48,Daily Rewards,System Message,"Login daily during the event to get Super Slot Ticket x1, Practical Map x5. Your rewards are attached."
+49,Part-time Job,System Message,"Dear Senpai, Practical Work event has begun, here are 4 Practical Maps, you're gonna need them!"
 50,Elite League Available,League Mail,Senpai! Elite League is now available! Come over and join the battle at Elite League!
 51,Elite League Ending,League Mail,Senpai! The Elite League is ending in under 24 hours! Come fight at Elite League to earn rewards!
 52,End of Season Rewards,League Mail,"As the Principal of the Yume Academy, I would like to congratulate you for achieving rank {1} in Elite League. Your excellent skills and bravery have won you the following rewards."
@@ -202,3 +202,5 @@ Yuki apologizes for the inconvenience, for any further queries, please don’t h
 195,Skin Adjustment Compensation,System Message,"Dear Senpai, the background design for the skin ""Beach Vacation"" is adjusted in the recent update. (The background of the skin now is deleted and becomes an available background in Menu-Image). Please take these 300 Gems as compensation, and you can choose to purchase the background (Beach Store) in Menu-Image with the Gems compensated to you because of this adjustment.\nWe would like to apologize for any inconvenience caused. For any further assistance, please do not hesitate to contact Yuki via the in-game GM channel."
 196,Top Student,Event Mail,"Dear Senpai, congratulations on reaching Division S+ in Entrance Exam! Please take the ""Top Student"" frame as your reward! The frame is available for 28 days, please check it out!"
 197,Yume Sports Meeting,Event Mail,"Dear Senpai, congratulations on reaching the top 100 of your House in Yume Sports Meeting. You have successfully advanced to the Runoff phase, please check it out!"
+198,Practical Work Reward,System Message,"Dear Senpai, congratulations on completing an order in Practical Work, here's your reward!"
+199,Beginner Funds,System Message,"Dear Senpai, an adjustment on the content of Beginner Funds has been made, the remaining rewards from the previous Beginner Funds that you purchased have been sent to you via this mail. Please check it out."

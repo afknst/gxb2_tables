@@ -196,17 +196,17 @@ if __name__ == "__main__":
     # print(all_girls(_lang="en_en"))
     # print_10_girls(_lang="zh_tw", _lua=False)
     _TEAM = [
+        "Fenrir",
+        "Sivney",
+        "Joan",
+        "Joan",
+        "Vivian",
+        "Vivian",
         "Holly",
-        "Skye",
-        "Izanami",
-        "Monica",
-        "Angelica",
         "Apate",
-        "Holly",
-        "Apate",
-        "Teresa",
+        "Diana",
+        "Mika",
         "Kassy",
-        "Monica",
-        "Angelica",
+        "Psychic",
     ]
     print(",\n".join([str(sports(_n)) for _n in _TEAM]))

@@ -294,6 +294,7 @@ id,name,desc_1,desc_2,desc_4,desc_5,desc_6,desc_11,activity_id,rank,charge,curre
 318,-1,Red Riding Hood's Gift,Panier Du Petit Chaperon Rouge,-1,-1,빨간 모자의 선물,Rotkäppchen-Paket,144,2,14.99,,0,,,750,750,10318,54,-1,,7,com.carolgames.moemoegirls.red_gift,14.99,,,,,,,1,,1,0,0,
 319,-1,Angel Tea Party Special Pack,Pack - Autour d'un Thé,-1,-1,티타임 스킨 혜택 팩,Bonuspaket zum Teehaus des Engels,243,0,14.99,,0,,,750,750,10319,101,-1,,,com.carolgames.moemoegirls.angel_tea_party,14.99,,,,,,,1,,1,0,0,
 320,-1,Beginner's Capsule,Capsules de Débutant,-1,-1,초보자 캡슐 뽑기,Premiumzüge für Anfänger,177,0,69.99,,0,,,3500,3500,10320,79,-1,,,com.carolgames.moemoegirls.newbee10gacha4,69.99,,,193,,,604800,1,,1,0,0,
+321,-1,Beginner Funds,Investissement de Débutant,-1,-1,초보자 펀드,Neulingsfonds,247,0,19.99,,0,,,1000,1000,10321,102,-1,,,com.carolgames.moemoegirls.tower_fund3,19.99,,,,,,604800,1,,1,0,0,
 1010101,-1,LV 24 Package,Pack de Niv.24,-1,レベル24パック,레벨 24 팩,Lv.24 Paket,80,0,1.99,NT$,0,,,100,100,1010101,26,-1,,,com.carolgames.moemoegirls.24levelv0,1.99,,,24|31,0,,7200,1,,1,0,0,
 1010201,-1,LV 32 Package,Pack de Niv.32,-1,レベル32パック,레벨 32 팩,Lv.32 Paket,80,0,4.99,NT$,0,,,250,250,1010201,26,-1,,,com.carolgames.moemoegirls.32levelv0,4.99,,,32|47,0,,7200,2,,1,0,0,
 1010301,-1,LV 48 Package,Pack de Niv.48,-1,レベル48パック,레벨 48 팩,Lv.48 Paket,80,0,9.99,NT$,0,,,500,500,1010301,26,-1,,,com.carolgames.moemoegirls.48levelv0,9.99,,,48|57,0,,14400,2,,1,0,0,
