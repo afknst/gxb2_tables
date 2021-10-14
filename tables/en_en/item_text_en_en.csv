@@ -25,7 +25,7 @@ id,name,brief,desc
 25,Advance Internship Scroll,Internship Scroll,Randomly add one 4-star to 7-star available internship after using it in Internship.
 26,Servant Cookie,Servant Material,"Used to raise, train, and evolve Servants"
 27,Spirit Cookie,Servant Material,Used for upgrading your Servant's Aura
-28,Hourglass,Practical Work Tickets,Used to participate in Practical Work
+28,Practical Map,Practical Work Tickets,Used to participate in Practical Work
 29,Super Slot Ticket,Super Slot Ticket,Each round of Super Slot Machine costs 1 Super Slot Ticket.
 30,Avatar,Special Avatar,blank
 31,Construction Material,Building Material,Material to construct
@@ -3957,3 +3957,39 @@ This book was only an experimental product that was created with well-known stor
 27210,Sea Adventure,Skins,Sea Adventure skin of Himoto
 7211,Autumn Break,Skins,Autumn Break skin of Sivney
 27211,Autumn Break,Skins,Autumn Break skin of Sivney
+7213,Night Flowers,Skin,Night Flowers skin of Joan
+27213,Night Flowers,Skin,Night Flowers skin of Joan
+65021,Carnival Staff,Antique,
+65022,Carnival Staff,Antique,
+65023,Carnival Staff,Antique,
+67121,Sacred Vial,Antique,
+67122,Sacred Vial,Antique,
+67123,Sacred Vial,Antique,
+67241,Deception,Antique,
+67242,Deception,Antique,
+67243,Deception,Antique,
+67301,Reaper's Voice,Antique,
+67302,Reaper's Voice,Antique,
+67303,Reaper's Voice,Antique,
+67361,Nightshade,Antique,
+67362,Nightshade,Antique,
+67363,Nightshade,Antique,
+286,Clockwork of Memory,Stamina item,Use to start reading in Echoes of Time
+287,Time Essence,Acceleration Item,Used to speed up the process of reading in Echoes of Time for 10 minutes
+288,Time Shard: Skyless Shrine,Special Item,"Used to upgrade the Planetarium in Area ""Skyless Shrine"" in Echoes of Time."
+289,Temporal Chips,Special Item,Used to take on challenges in Echoes of Time
+290,Practical Skill Point,Event Material,Used to upgrade Practical Skills in Practical Work.
+561001,Ghost Doll,,
+562001,Human Doll,,
+563001,Monster Doll,,
+564001,Fairy Doll,,
+565001,Demon Doll,,
+566001,Angel Doll,,
+940053,5-Star Ghost Doll,Summon,Collect 50 shards to summon 5-Star Ghost Doll\nDolls can be used as material of Awake and Limit-Break
+940054,5-Star Human Doll,Summon,Collect 50 shards to summon 5-Star Human Doll\nDolls can be used as material of Awake and Limit-Break
+940055,5-Star Monster Doll,Summon,Collect 50 shards to summon 5-Star Monster Doll\nDolls can be used as material of Awake and Limit-Break
+940056,5-Star Fairy Doll,Summon,Collect 50 shards to summon 5-Star Fairy Doll\nDolls can be used as material of Awake and Limit-Break
+940057,5-Star Demon Doll,Summon,Collect 50 shards to summon 5-Star Demon Doll\nDolls can be used as material of Awake and Limit-Break
+940058,5-Star Angel Doll,Summon,Collect 50 shards to summon 5-Star Angel Doll\nDolls can be used as material of Awake and Limit-Break
+7214,Cyber Love,Skin,Cyber Love skin of Turin
+27214,Cyber Love,Skin,Cyber Love skin of Turin

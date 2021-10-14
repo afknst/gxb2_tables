@@ -204,3 +204,6 @@ Yuki apologizes for the inconvenience, for any further queries, please don’t h
 197,Yume Sports Meeting,Event Mail,"Dear Senpai, congratulations on reaching the top 100 of your House in Yume Sports Meeting. You have successfully advanced to the Runoff phase, please check it out!"
 198,Practical Work Reward,System Message,"Dear Senpai, congratulations on completing an order in Practical Work, here's your reward!"
 199,Beginner Funds,System Message,"Dear Senpai, an adjustment on the content of Beginner Funds has been made, the remaining rewards from the previous Beginner Funds that you purchased have been sent to you via this mail. Please check it out."
+200,Echoes of Time Reward,System Message,恭喜學長在時間迴廊·{1}的傷害排名中獲得了第{2}名的成績，獲得以下獎勵！
+201,Monthly Events,System Message,"Congratulations on completing Practical Work in Monthly Event, your reward is attached."
+202,Deluxe Bonus,System Message,"Congratulations on completing Practical Work in Monthly Event, your Deluxe Bonus is attached."

@@ -67,7 +67,7 @@ id,name,lv_limit,function_id,stage,go_window,go_params,is_close,close_win_name,l
 67,-1,0,42,,activity_window,"select:40,activity_type2:2",1,,,
 68,-1,0,,,campaign_window,lastWindow:activity_travelfrog_window,1,,,
 69,-1,70,28,,pet_window,,1,,,
-70,-1,0,43,,activity_window,"select:32,activity_type2:3",1,pet_evolution_window,,
+70,-1,0,43,,activity_window,"select:246,activity_type2:3",1,pet_evolution_window,,
 71,-1,0,,,activity_window,"select:37,activity_type2:1",1,,,
 72,-1,0,,,dates_list_window,,1,,,
 73,-1,0,,,house_window,enterType:1,1,,,
@@ -160,3 +160,4 @@ id,name,lv_limit,function_id,stage,go_window,go_params,is_close,close_win_name,l
 161,-1,0,,,activity_window,"select:235,activity_type2:1",1,,,
 162,-1,0,,,activity_window,"select:95,activity_type2:1",1,,,
 163,-1,0,,,activity_window,"select:245,activity_type2:1",1,,,
+164,-1,0,,,activity_window,"select:117,activity_type2:1,pageType:1",1,,,

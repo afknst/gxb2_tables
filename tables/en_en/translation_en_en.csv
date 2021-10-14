@@ -954,15 +954,15 @@ GUILD_TEXT64,Request Successful
 ACTIVITY_WORLD_BOSS_AWARD_TITLE,Rank Rewards
 ACTIVITY_WORLD_BOSS_AWARD_DESC,"When the event ends, rewards will be sent based on rank"
 ACTIVITY_WORLD_BOSS_HELP_TITLE,Worldwide Bosses Help
-ACTIVITY_WORLD_BOSS_HELP,"1. Three types of Practical Work challenges are open at the same time. Each challenge consumes 1 Hourglass. There's no limit for the number of Hourglasses that can be purchased with gems.|2. Different rewards are available for each type of challenge.|3. Each battle will give a random amount of rewards.|4. Finish a project to receive corresponding rewards in Mail.|5. After defeating a boss, the boss replaced in the same project will become stronger. There are 8 bosses in total in each Practical project.|6. The event will be refreshed every 30 days and the bosses in the 3 project will be reset to the lowest difficulty.|7. The damage dealt by Servants will not be calculated in the ranking list."
+ACTIVITY_WORLD_BOSS_HELP,"1. Three types of Practical Work challenges are open at the same time. Each challenge consumes 1 Practical Map. There's no limit for the number of Practical Maps that can be purchased with gems.|2. Different rewards are available for each type of challenge.|3. Each battle will give a random amount of rewards.|4. Finish a project to receive corresponding rewards in Mail.|5. After defeating a boss, the boss replaced in the same project will become stronger. There are 8 bosses in total in each Practical project.|6. The event will be refreshed every 30 days and the bosses in the 3 projects will be reset to the lowest difficulty.|7. The damage dealt by Servants will not be calculated in the total damage dealt to the Boss."
 ACTIVITY_WORLD_BOSS_LIMIT,Purchase limit reached
 ACTIVITY_WORLD_BOSS_RANK_TEXT,Points
-ACTIVITY_WORLD_BOSS_NOT_ENOUGH,Not enough Hourglasses!
+ACTIVITY_WORLD_BOSS_NOT_ENOUGH,You do not have enough Practical Maps
 BUY_TIME_TITLE,Purchased
 SETTING_UP_PRIVACY,Privacy Policy
 SETTING_UP_FEEDBACK_PROMPT,Please enter Feedback
 WORLD_BOSS_FIGHT,Fight
-WORLD_BOSS_BUY_TITLE,Buy Hourglass
+WORLD_BOSS_BUY_TITLE,Purchase Practical Maps
 WORLD_BOSS_SWEEP_TITLE,Raid
 ACTIVITY_WORLD_BOSS_TITLE,Enemies
 WORLD_BOSS_SWEEP_TIPS,How many times do you want to Raid?
@@ -1584,7 +1584,7 @@ SETTING_UP_10,Social
 CDKEY_WINDOW,Enter Invitation Code
 ENTER_CDKEY,Invitation Code
 PERSON_SOUND_OPEN,ON
-PERSON_SOUND_CLOSE,OFF
+PERSON_SOUND_CLOSE,Close
 TOUCH_ME_DUDE,Tap to enter the Academy!
 PLOT_PERSON_EDIT_NAME,Enter your name
 PLOT_PERSON_EDIT_TIPS1,Please tell us your name~
@@ -1800,7 +1800,7 @@ IMG_GUIDE_BEACH_7,Reward Levels can also be unlocked with gems.
 IMG_GUIDE_BEACH_8,Need to be unlocked by purchasing the pack in [c][cc0011]Advanced Reward Event[-][/c].
 IMG_GUIDE_BEACH_9,The reward will need to be manually [c][cc0011]collected[-][/c].
 IMG_GUIDE_BEACH_10,Please acquire points from the Beach Game Event to unlock the prizes listed in the Advanced Rewards!
-GOVERN_TEAM_RULE,"1. Assemble your team for Yume Academy! You can only invite your friends to your security squad.|2. A Chaos Lord will appear every Monday and Thursday, and they will stay for 48 hours. Rewards will be calculated after the countdown reaches 0.|3. When a Chaos Lord is present, you cannot quit your team or recruit new members. Adjust your team in between Chaos Lords. You can leave your current team by tapping the red button in the bottom right corner of your team chart. If you're the team leader, you can remove other players from your team by tapping on their avatars.|4. If the Chaos Lord has more than 50%% HP when the countdown reaches 0, your security level will decrease by 1 and you will get a Demotion Reward. If the Chaos Lord has less than (or including) 50%% HP but is not defeated, you will get a Maintenance Reward. If the Chaos Lord is defeated, your security level will increase by 1 and you will get a Promotion Reward.|5. Security level: each player has their own security level. When teaming up with other players, different Chaos Lords will spawn according to the player with the lowest security level.|6. A Chaos Lord will spawn with 2 Dark Knights. You deal 20%% damage to the Chaos Lord for killing each of them.|7. You will have 2 chances to attack the enemy after they are spawned. Each member of your team can also purchase 1 additional attack chance with Coins during each spawn. Arrange your limited chances wisely."
+GOVERN_TEAM_RULE,"1. Assemble your team for Yume Academy! You can invite your friends in servers who had their data integrated with your server to your Security Squad.|2. A Chaos Lord will appear every Monday and Thursday, and they will stay for 48 hours. Rewards will be calculated after the countdown reaches 0.|3. When a Chaos Lord is present, you cannot quit your team or recruit new members. Adjust your team in between Chaos Lords. You can leave your current team by tapping the red button in the bottom right corner of your team chart. If you're the team leader, you can remove other players from your team by tapping on their avatars.|4. If the Chaos Lord has more than 50%% HP when the countdown reaches 0, your security level will decrease by 1 and you will get a Demotion Reward. If the Chaos Lord has less than (or including) 50%% HP but is not defeated, you will get a Maintenance Reward. If the Chaos Lord is defeated, your security level will increase by 1 and you will get a Promotion Reward.|5. Security level: each player has their own security level. When teaming up with other players, different Chaos Lords will spawn according to the player with the lowest security level.|6. A Chaos Lord will spawn with 2 Dark Knights. You deal 20%% damage to the Chaos Lord for killing each of them.|7. You will have 2 chances to attack the enemy after they are spawned. Each member of your team can also purchase 1 additional attack chance with Coins during each spawn. Arrange your limited chances wisely."
 FORT_BTN_LABEL_5,Nightmare
 TOWER_PRACTICE_WIN_TIPS,Lineup Applied
 HERO_CHALLENGE_TITLE,Character Challenge
@@ -2305,9 +2305,9 @@ POTENTIALITY_BACK_TITLE,Reverse
 POTENTIALITY_BACK_TEXT01,Preview
 POTENTIALITY_BACK_TEXT02,Reverse
 PUPPET_PARTNER_NO_CLICK,"Dolls are not available in Graduate, Awake, Limit Break and Skin"
-POTENTIALITY_BACK_WINDOW_HELP,"1. All 10-Star Girls can be Reversed (including those who have Limit-Break status)|2. Dolls are not able to be Awakened, Exchanged, Reversed, Transferred, given Gifts or placed in a Dorm.|3. Gear and Antiques of a Girl who is Reversed will automatically be sent back to Bag.|4. Reverse Rules: |10-Star Girl Reversal: two 9-Star Dolls of the Girl's Faction + 5 namesake 5-Star Girls|Limit-Break Stage 1 Girl Reversal: three 9-Star Dolls of the Reversed Girl's Faction + 6 namesake 5-Star Girls|Limit-Break Stage 2 Girl Reversal: four 9-Star Dolls of the Reversed Girl's Faction + 7 namesake 5-Star Girls|Limit-Break Stage 3 Girl Reversal: one 10-Star Doll and four 9-Star Dolls of the Reversed Girl's Faction + 7 namesake 5-Star Girls|Limit-Break Stage 4 Girl Reversal: two 10-Star Dolls of the Reversed Girl's Faction + four 9-Star Dolls of the Reversed Girl's Faction + 8 namesake 5-Star Girls|Limit-Break Stage 5 Girl Reversal: three 10-Star Dolls of the Reversed Girl's Faction + four 9-Star Dolls of the Reversed Girl's Faction + 9 namesake 5-Star Girls|5. Reverse WILL NOT RETURN Coins used to level up the Girl; EXP Juice and Lunch Boxes from the Reversed Girl will be PARTIALLY returned. Coins and Crystal Chisels will also be partially returned according to the level of the Reversed Girl's Crystal.|6. Intimacy and Oath will be returned to one of the Girls after being reversed.|7. 9/10 Star Dolls received from a Reverse won't be counted for the Monthly Event(for awaking 9-10 star girls)."
+POTENTIALITY_BACK_WINDOW_HELP,"1. Girls from 1-Star to 10-Star can be Reversed (including those who have Limit-Break status)|2. Dolls are not able to be Awakened, Exchanged, Reversed, Transferred, given Gifts or placed in a Dorm.|3. Gear and Antiques of a Girl who is Reversed will automatically be sent back to Bag.|4. Reverse Rules: |1-Star to 5-Star: the namesake Girl at their original star rank|7-Star Girl Reversal: five 5-Star Dolls of the Reversed Girl's Faction + 2 namesake 5-Star Girls|8-Star Girl Reversal: seven 5-Star Dolls of the Reversed Girl's Faction + 2 namesake 5-Star Girls|9-Star Girl Reversal: one 6-Star Girl of the Reversed Girl's Faction + eight 5-Star Dolls of the Reversed Girl's Faction + 2 namesake 5-Star Girls|10-Star Girl Reversal: two 9-Star Dolls of the Girl's Faction + 5 namesake 5-Star Girls|Limit-Break Stage 1 Girl Reversal: three 9-Star Dolls of the Reversed Girl's Faction + 6 namesake 5-Star Girls|Limit-Break Stage 2 Girl Reversal: four 9-Star Dolls of the Reversed Girl's Faction + 7 namesake 5-Star Girls|Limit-Break Stage 3 Girl Reversal: one 10-Star Doll and four 9-Star Dolls of the Reversed Girl's Faction + 7 namesake 5-Star Girls|Limit-Break Stage 4 Girl Reversal: two 10-Star Dolls of the Reversed Girl's Faction + four 9-Star Dolls of the Reversed Girl's Faction + 8 namesake 5-Star Girls|Limit-Break Stage 5 Girl Reversal: three 10-Star Dolls of the Reversed Girl's Faction + four 9-Star Dolls of the Reversed Girl's Faction + 9 namesake 5-Star Girls|5. Reversing 1-Star to 5-Star Girls will return all resources used on the Girl. Reversing 7-Star to 10-Star Girls WILL NOT RETURN Coins used to level up the Girl; EXP Juice and Lunch Boxes from the Reversed Girl will be PARTIALLY returned. Coins and Crystal Chisels will also be partially returned according to the level of the Reversed Girl's Crystal.|6. Intimacy and Oath will be returned to one of the namesake Girls after being reversed.|7. 5/9/10 Star Dolls received from a Reverse won't be counted for the Monthly Event ""Graduate and Awake""."
 POTENTIALITY_BACK_TEXT03,This is irreversible. Are you sure you want to do this?
-POTENTIALITY_BACK_ALTAR_TIPS,Dolls cannot be transferred
+POTENTIALITY_BACK_ALTAR_TIP,Dolls cannot be transferred
 SUBSCRIPTION_RECOVER,Recover
 SUBSCRIPTION_TIPS,"After subscribing, it will automatically renew itself after the current subscription status has expired."
 SKIN_TEXT26,Shop
@@ -2981,7 +2981,7 @@ FIXED_GAIN,Fixed Buff
 ADDITIONAL_GAIN,Extra Buff
 NOMINU_COUNTDOWN,{1}D {2}H
 ACTIVITY_FOOD_FESTIVIAL_DESC,"During the event, use Tamagoyaki, Crepes, and Mikan Wagashi to exchange great rewards or spend Gems to purchase them from Gem Store!"
-ACTIVITY_FOOD_FESTIVIAL_HELP,"1. The 3 delicacies can be acquired via these methods:|--- Tamagoyaki: Campaign Loot, Value Pack, Special Gift Pack, Special Skin Pack, Girls Assembly, and Gem Store;|---Mikan Wagashi: Value Pack, Special Gift Pack, Special Skin Pack, Enroll Exam and Gem Store; |---Crepes: Campaign Loot, Enroll Exam and Gem Store.|2. Event material loot drop ends prior to the final 24 hours of the event. Thereafter, only reward exchanges will be available.|3. Unused event material will automatically be exchanged to Coins once event ends at the rate of 50k Coins/Tamagoyaki, 50k Coins/Mikan Wagashi, 15k Coins/Crepe."
+ACTIVITY_FOOD_FESTIVIAL_HELP,"1. The 3 delicacies can be acquired by these methods:|    Tamagoyaki: Campaign Loot, Value Pack, Special Gift Pack, Special Skin Pack, and Gem Store;|    Mikan Wagashi: Value Pack, Special Gift Pack, Special Skin Pack, Slot Points Event, and Gem Store; |    Crepes: Campaign Loot, Slot Points Event, and Gem Store.|2. Event material loot drop ends prior to the final 24 hours of the event. Thereafter, only reward exchanges will be available.|3. Unused event material will automatically be exchanged to Coins once the event ends at the rate of 50k Coins/Tamagoyaki, 50k Coins/Mikan Wagashi, 15k Coins/Crepe."
 ACTIVITY_FOOD_FESTIVAL_FOOD,Exchange
 ACTIVITY_FOOD_FESTIVAL_STORE,Gem Store
 ACTIVITY_FOOD_FESTIVAL_EXHCANGE_WINDOW,Exchange
@@ -4211,7 +4211,7 @@ GUILD_ROAM_HELP,"1. The Traveling Merchant will arrive at the Guild every Monday
 GUILD_ROAM_TEXT12,Traveling Merchant
 GUILD_WINDOW_HELP_U3,"1. A Guild begins at Level 1. You can level up the guild by getting Guild Exp from Guild Member daily sign-ins. Guild Exp gained from signing in cannot exceed Guild Capacity for its members.|2. The basic Member Capacity is 15. You can increase the limit by leveling up the Guild. The maximum capacity is 30.|3. Deputy Leaders are able to change the Guild Name, Guild Information, and Guild Icon; send Guild Mails to members; as well as manage recruitment and remove members.|4. The Guild Leader has the privileges of a Deputy Leader, but they can also appoint or remove Deputy Leader titles, remove Deputy Leaders from the Guild and dismiss the Guild.|5. A Guild can have at most 3 Deputy Leaders.|6. If the Guild Leader is absent for more than 7 days, leadership will be automatically transferred to a deputy leader. If all the deputy leaders are also absent for more than 7 days, the leadership will be automatically transferred to the player with the highest level.|7. Guild Coins will not be removed after you are removed from or quit a Guild.|8. Traveling Merchant will appear on every Monday, Wednesday, Friday and Saturday to sell her limited packs after your Guild reaches Lv. 4."
 GUILD_LAB_WINDOW_HELP_U3,"1.Level up Lab skills to increase your Girls' stats|2. Lab skill buffs only work for your own Girls. Lab skills will travel with you if you transfer to a new Guild  later.|3. The second page of skills can be unlocked once the first page of the corresponding Class skill has been fully upgraded.|4. You can spend Gems to reset the Guild Skill upgrades in the current page and get all the resource you spent on this page, the first reset on each page is for free."
-TRAVEL_EXPLORE_HELP_U3,"1. Players will encounter random events while exploring. Each exploration consumes 10 Tasty Breads.|2. Tasty Breads are produced by the Food Truck and can also be purchased.|3. Random events that can occur in Explore includes encountering enemies, wild chests, quest giver, food truck and store.|Enemy Encounter: A battle triggers where enemies need to be defeated to gain treasure chests. Players will encounter elite enemies after every 5th victory. Defeat elite enemies to obtain higher grade chests.|Wild Chest: Obtain a chest directly.|Quest Giver: Complete the quest giver’s request and obtain a chest.|Food Truck: Produces Tasty Breads that can be obtained.|Store: Coins can be spent to purchase chests.|4. Newly acquired chests will be unlocked but require time to open or players can spend gems to instantly obtain chest rewards.|5. Once chest slots are full, new chests cannot be acquired.|6. Upgrade Exploration level to upgrade chest grade and unlock chest slots, Exploration can be upgraded to maximum Lv. 10, but enemies encountered will also be stronger.|7. After your Explore Level reaches 3, you can ""Skip"" the battles in Enemy Encounters. You will also unlock the feature to multi-open the chests and Auto Explore at the same Explore Level."
+TRAVEL_EXPLORE_HELP_U3,"1. Players will encounter random events while exploring. Each exploration consumes 10 Tasty Breads.|2. Tasty Breads are produced by the Food Truck and can also be purchased.|3. Random events that can occur in Explore includes encountering enemies, wild chests, quest giver, food truck and store.|Enemy Encounter: A battle triggers where enemies need to be defeated to gain treasure chests. Players will encounter elite enemies after every 5th victory. Defeat elite enemies to obtain higher grade chests.|Wild Chest: Obtain a chest directly.|Quest Giver: Complete the quest giver’s request and obtain a chest.|Food Truck: Produces Tasty Breads that can be claimed.|Store: Coins can be spent to purchase chests.|4. Newly acquired chests will be locked and require time to open. Players can also spend gems to instantly obtain chest rewards.|5. Once chest slots are full, new chests cannot be acquired.|6. Upgrade Exploration level to upgrade chest grade and unlock chest slots. Exploration Level can be upgraded to maximum Lv. 10, but enemies encountered will also be stronger.|7. After your Explore Level reaches 3, you can ""Skip"" the battles in Enemy Encounters. You will also unlock the feature to multi-open the chests and Auto Explore at the same Explore Level."
 GUILD_BOSS_CANT_FIGHT,You can no longer challenge this Boss as you have already challenged another Boss today.
 GUILD_COMPETITION_SIMULATE_DAMAGE,Demo Battle Damage:
 ACTIVITY_NEWBEE_LESSON_HELP,"1. The event will run for 14 days during which players can participate. Complete daily tasks and cumulative tasks.|2. There are 6 Study Program tasks that can be completed to obtain Study Certificates. Daily Program Study tasks will be refreshed at 0:00 (UTC/GMT 0), unclaimed rewards will not remain once it has been refreshed.|3. Cumulative tasks and progress will not be refreshed daily and each section of rewards can only be obtained once. VIP experience obtained before the start of the event will be accumulated into the progress.|4. Study Certificates can be used to participate in the limited event “Program Study”."
@@ -4399,7 +4399,7 @@ SPACE_EXPLORE_TEXT_19,Adventure Team Setting
 SPACE_EXPLORE_TEXT_20,Hide Level-up marks
 SPACE_EXPLORE_TEXT_21,Hide Girls not obtained
 SPACE_EXPLORE_TEXT_22,Bizarre Adventures
-SPACE_EXPLORE_HELP_04,"1. There are 30 Blocks on the map, one of the 30 Blocks is your starting point. You can flip over the 4 Blocks beside (↑↓←→) the starting point or beside the Blocks that have been flipped over.|2. You might encounter an item reward, enemies or nothing after flipping over each Block. You can directly tap on the Block with the item reward to acquire the reward. Extra rewards will be given for collecting the required number of Void Crystals.|3. When there's an enemy revealed on a flipped over Block, the Blocks around the enemy block won't be able to be flipped over before the enemy is defeated.|4. You will only be able to challenge the Boss of your current stage after defeating all other enemies in this stage. After defeating the Boss, the portal to the next stage will open, and you can tap to enter the next stage.|5. When you encounter an enemy, your Adventure Team will engage the enemy. The power of your Adventure Team depends on all the Adventure Girls you've acquired. It also has all the skills of the Adventure Girls you've acquired.|6. The battle in Bizarre Adventures is unique, your Adventure Team and the enemy will deal damage against each other at the same time (Attack - Armor = Damage Dealt, at least 50 Damage will be dealt for each attack).|7. If the enemy's HP reaches 0 first, you win this battle. If the HP of your team and the enemy reaches 0 at the same time, or the HP of your team reaches 0 first, you will lose the battle. Your team will need time to regroup before they can take on their next challenge against an enemy.|8. Your team will always enter each battle with 100%% HP in Bizarre Adventures. |9. After reaching Stage 31, the Auto Explore feature will be unlocked. After clearing Stage 50, you will receive all the rewards for collecting Void Crystals.|10. The Void Crystals acquired is for this season of Bizarre Adventures only!|11. The ranking list will display the top 50 players according to the players' progress in Bizzare Adventure, if 2 players are at the same stage, the player who reaches the stage first will be at a higher rank."
+SPACE_EXPLORE_HELP_04,"1. There are 30 Blocks on the map, one of the 30 Blocks is your starting point. You can flip over the 4 Blocks beside (↑↓←→) the starting point or beside the Blocks that have been flipped over.|2. You might encounter an item reward, enemies or nothing after flipping over each Block. You can directly tap on the Block with the item reward to acquire the reward. Extra rewards will be given for collecting the required number of Void Crystals.|3. When there's an enemy revealed on a flipped over Block, the Blocks around the enemy block won't be able to be flipped over before the enemy is defeated.|4. You will only be able to challenge the Boss of your current stage after defeating all other enemies in this stage. After defeating the Boss, the portal to the next stage will open, and you can tap to enter the next stage. Any remaining item rewards in this stage will be collected automatically.|5. When you encounter an enemy, your Adventure Team will engage the enemy. The power of your Adventure Team depends on all the Adventure Girls you've acquired. It also has all the skills of the Adventure Girls you've acquired. The battle in Bizarre Adventures is unique, your Adventure Team and the enemy will deal damage against each other at the same time (Attack - Armor = Damage Dealt, at least 50 Damage will be dealt for each attack).|6. If the enemy's HP reaches 0 first, you win this battle. If the HP of your team and the enemy reaches 0 at the same time, or the HP of your team reaches 0 first, you will lose the battle. Your team will need time to regroup before they can take on their next challenge against an enemy.|7. Your team will always enter each battle with 100%% HP in Bizarre Adventures. |8. After reaching Stage 31, the Auto Explore feature will be unlocked. After clearing Stage 50, you will receive all the rewards for collecting Void Crystals.|9. The Void Crystals acquired is for this season of Bizarre Adventures only!|10. The ranking list will display the top 50 players according to the players' progress in Bizzare Adventure, if 2 players are at the same stage, the player who reaches the stage first will be at a higher rank."
 SPACE_EXPLORE_TEXT_23,We need to locate and defeat the Boss
 COLLECTION_SKIN_WEDDING,Oath Skin
 SPACE_EXPLORE_CHECK_BUFF_WINDOW,Buff
@@ -4749,7 +4749,7 @@ TRAVEL_NEW_TEXT08,"When no Chest Slot is available, Gems can be used to open you
 TRAVEL_NEW_TEXT09,Stop the Explore if you lose in a battle
 TRAVEL_NEW_TEXT10,Auto Exploring...
 TRAVEL_NEW_TEXT11,Stop
-ACTIVITY_JUNGLE_HELP,"1. During the event, 3-6 Ancient Silver Coins can be obtained from each Jungle exploration and increase the Exploration Progress by 1 point in the corresponding area.|2. You will get corresponding rewards once the Exploration Progress in the areas has reached a certain amount. The Exploration progress of an area will reach 100%% after you get 800 points of Exploration progress in the area (Once the Exploration Progress in an area has reached 100%%, you can still explore the area).|3. Ancient Silver Coins and Ancient Gold Coins can be used to exchange rewards in the event store.|4. Once the event ends, the remaining Traditional Riceballs will automatically be recycled.|5. Once the event ends, the remaining Ancient Silver Coins and Ancient Gold Coins will automatically be recycled into Coins at a rate of 20k per Ancient Silver Coin and 200k per Ancient Gold Coin."
+ACTIVITY_JUNGLE_HELP,"1. During the event, 3-6 Ancient Silver Coins can be obtained from each Jungle exploration and increase the Exploration Progress by 1 point in the corresponding area.|2. You will get corresponding rewards once the Exploration Progress in the areas has reached a certain amount. The Exploration progress of an area will reach 100%% after you get 800 points of Exploration progress in the area (Once the Exploration Progress in an area has reached 100%%, you can still explore the area).|3. Ancient Silver Coins and Ancient Gold Coins can be used to exchange rewards in the event store.|4. Once the event ends, the remaining Traditional Riceballs will automatically be removed.|5. Once the event ends, the remaining Ancient Silver Coins and Ancient Gold Coins will automatically be recycled into Coins at a rate of 20k per Ancient Silver Coin and 200k per Ancient Gold Coin."
 ACTIVITY_JUNGLE_TEXT01,Store
 ACTIVITY_JUNGLE_TEXT02,Explore
 ACTIVITY_JUNGLE_TEXT03,Please select your explore area
@@ -5024,3 +5024,84 @@ ACTIVITY_SPORTS_PLAYERRANK_TEXT3,No Task Available
 ACTIVITY_SPORTS_PLAYERRANK_TEXT4,No record
 SCHOOL_PRACTISE_100STAGE_TIP,"The highest Challenge Stage of each House is increased to [c][cc0011]100[-][/c] starting from this season of House Exam, please check it out!"
 FRIEND_TEAM_BOSS_INVITE_TIPS,The player is not in a server that has integrated with yours
+NEW_ARENA_ALL_SERVER,The new version of Ultimate League is coming soon!
+ACTIVITY_MONTHLY_HIKE_SKILL_1,"This reset is FREE. All Practical Skills will be returned to their starting state, and all Skill Points used will be returned to you. Would you like to continue?"
+ACTIVITY_MONTHLY_HIKE_SKILL_2,"This reset costs 100 Gems. All Practical Skills will be returned to their starting state, and all Skill Points used will be returned to you. Would you like to continue?"
+ACTIVITY_MONTHLY_HIKE_SKILL_3,No Skill available for reset
+ACTIVITY_MONTHLY_HIKE_SKILL_4,Saved successfully
+ACTIVITY_MONTHLY_HIKE_SKILL_5,Skill Reset
+BATTLE_OVER_IS_AUTO_CARD,Flip Cards automatically
+ACTIVITY_MONTHLY_HIKE_HELP,"1. There is a total of 53 Stages in Practical Work. Each challenge consumes 1 Practical Map.|2. Practical Maps can be obtained from Campaign Loot and purchased with Gems.|3. Each battle will give a random amount of rewards. Clear a Stage to receive corresponding rewards in Mail and to unlock the next Stage.|4. After clearing Stage 50, the 3 remaining Stages can be challenged repeatedly. A random amount of rewards will be awarded for every challenge, but no rewards are available for clearing those Stages.|5. Clearing the first 50 Stages will grant Practical Skill Points used to upgrade Practical Skills.|6. Practical Skills will only take effect in Practical Work.|7. The event will be refreshed every 30 days. Event progress and Practical Skill progress will be reset to the default state.|8. The damage dealt by Servants will not be counted towards the damage dealt in each stage."
+ACTIVITY_MONTHLY_HIKE_SKILL_WINDOW,Practical Skill
+ACTIVITY_MONTHLY_HIKE_SKILL_HELP,"1. Consume Practical Skill Points to upgrade Practical Skills. Upgraded Practical Skills will grant more boosts for your Girls.|2. Practical Skills are classified into 3 different Ranks. Practical Skills in Rank 1 has no requirements to unlock. You will need to use a required number of Practical Skill Points to unlock Practical Skills in Ranks 2 and 3.|3. Certain Practical Skills requires one or more Practical Skills to be upgraded to a certain level before they are unlocked.|4. Practical Skills will only take effect in Practical Work, and will return to the default state when the event is reset.|5. You can reset Practical Skills for free once per season. Resetting Practical Skils manually after the first reset will cost Gems."
+ACTIVITY_MONTHLY_TEXT001,Challenge Rewards
+ACTIVITY_MONTHLY_TEXT002,This Stage is not unlocked yet
+SELECT_ALL_YES,All
+SELECT_ALL_NO,Unselect All
+SELECT_ALL_TEXT01,No choices available now
+ACTIVITY_MONTHLY_TEXT003,Preview
+TIME_CLOISTER_HELP01,時間迴廊幫助文本
+TIME_CLOISTER_HELP02,時間迴廊觀測界面幫助文本
+TIME_CLOISTER_HELP03,時間迴廊星空儀界面幫助文本
+TIME_CLOISTER_HELP04,時間迴廊關卡界面幫助文本
+TIME_CLOISTER_TEXT01,成就
+TIME_CLOISTER_TEXT02,關卡
+TIME_CLOISTER_TEXT03,開始觀測
+TIME_CLOISTER_TEXT04,總觀測進度：
+TIME_CLOISTER_TEXT05,該迴廊暫未開放，敬請期待
+TIME_CLOISTER_TEXT06,時間迴廊「{1}」的探索進度達到80%%後解鎖
+TIME_CLOISTER_TEXT07,該迴廊暫未解鎖
+TIME_CLOISTER_TEXT08,觀測中可能會遭遇戰鬥，請選擇出戰戰姬。根據出戰戰姬的總戰力，增加此次觀測中戰鬥的屬性（出戰戰姬在觀測中無法更改）
+TIME_CLOISTER_TEXT09,正在其他時間迴廊中進行觀測
+TIME_CLOISTER_TEXT10,繼續觀測
+TIME_CLOISTER_TEXT11,是否提前結束此次觀測？
+TIME_CLOISTER_TEXT12,觀測已結束
+TIME_CLOISTER_TEXT13,查看
+TIME_CLOISTER_TEXT14,觀測加速
+TIME_CLOISTER_TEXT15,使用「時間之塵」令觀測加速，加速時會消耗對應數量的「回溯懷錶」
+TIME_CLOISTER_TEXT16,剩餘時間
+TIME_CLOISTER_TEXT17,觀測已結束，無需加速
+TIME_CLOISTER_TEXT18,觀測加速成功
+TIME_CLOISTER_TEXT19,觀測中……
+TIME_CLOISTER_TEXT20,觀測完成，點擊進行結算
+TIME_CLOISTER_TEXT21,補給卡
+TIME_CLOISTER_TEXT22,挑戰卡
+TIME_CLOISTER_TEXT23,事件卡
+TIME_CLOISTER_TEXT24,觀測記錄
+TIME_CLOISTER_TEXT25,補給卡預覽
+TIME_CLOISTER_TEXT26,挑戰卡預覽
+TIME_CLOISTER_TEXT27,事件卡預覽
+TIME_CLOISTER_TEXT28,隱藏未解鎖卡牌
+TIME_CLOISTER_TEXT29,獎勵總覽
+TIME_CLOISTER_TEXT30,補給獎勵
+TIME_CLOISTER_TEXT31,挑戰獎勵
+TIME_CLOISTER_TEXT32,星空儀
+TIME_CLOISTER_TEXT33,觀測結算
+TIME_CLOISTER_TEXT34,數據總覽
+TIME_CLOISTER_TEXT35,觀測時長
+TIME_CLOISTER_TEXT36,戰鬥勝率
+TIME_CLOISTER_TEXT37,觀測得分
+TIME_CLOISTER_TEXT38,結算獎勵
+TIME_CLOISTER_TEXT39,觀測獎勵
+TIME_CLOISTER_TEXT40,消耗「星空碎片·無空之殿」可升級星空儀科技
+TIME_CLOISTER_TEXT41,升級
+TIME_CLOISTER_TEXT42,升級預覽
+TIME_CLOISTER_TEXT43,成就：{1}
+TIME_CLOISTER_TEXT44,在此迴廊中進行觀測，達成下列成就即可提高探索度，探索度達到80%%後可解鎖新的時間迴廊
+TIME_CLOISTER_TEXT45,探索度
+TIME_CLOISTER_TEXT46,關卡：{1}
+TIME_CLOISTER_TEXT47,You need to clear the previous Stage first
+TIME_CLOISTER_TEXT48,需要解鎖此迴廊的星空儀科技「關卡解鎖」
+PUB_MISSION_AUTO_TEXT001,Insufficient Internship Scrolls
+TIME_CLOISTER_TEXT49,No Record yet
+ACTIVITY_MONTHLY_TEXT004,Would you like to save this upgrade?
+ALTAR_INFO_1,This Girl doesn't need to be reversed
+ALTAR_INFO_2,The Girl will return to her default state after Reversal. Continue?
+ACTIVITY_MONTHLY_TEXT005,Cancel
+ALTAR_INFO_3,Dolls cannot be reversed
+ACTIVITY_MONTHLY_TEXT006,Lv. {1}
+ACTIVITY_MONTHLY_TEXT007,Current Progress
+ARENA_TEAM_RANK_DESC_NEW,Current Rank： {1} Maintain this rank until the end of the season to obtain the following rewards：
+ACTIVITY_MONTHLY_TEXT008,Remaining Point(s):
+ACTIVITY_MONTHLY_TEXT009,{1} Gems required. Continue?
+ALTAR_INFO_4,Preview

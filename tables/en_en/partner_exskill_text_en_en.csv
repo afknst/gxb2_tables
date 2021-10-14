@@ -219,26 +219,26 @@ id,name,skill_name,ex_skill_desc
 751011043,巴尼拉,魔力回收,Self-Healing increases to {1}.
 751011044,巴尼拉,魔力回收,Self-Healing increases to {1}.
 751011045,巴尼拉,魔力回收,"Self-Healing increases to {1}, Energy regeneration increases to {2}."
-751012011,芬裏爾,重牙碎嶽,Damage increases to {1} of Attack.
-751012012,芬裏爾,重牙碎嶽,Damage increases to {1} of Attack.
-751012013,芬裏爾,重牙碎嶽,Damage increases to {1} of Attack.
-751012014,芬裏爾,重牙碎嶽,Damage increases to {1} of Attack.
-751012015,芬裏爾,重牙碎嶽,"Damage increases to {1} of Attack, [c][01a310]Bleed[-][/c] damage increases to {2}."
-751012021,芬裏爾,狼魂沸血,HP increase increases to {1}.
-751012022,芬裏爾,狼魂沸血,"HP increase increases to {1}, Attack increase increases to {2}."
-751012023,芬裏爾,狼魂沸血,"HP increase increases to {1}, Attack increase increases to {2}."
-751012024,芬裏爾,狼魂沸血,"HP increase increases to {1}, Attack increase increases to {2}."
-751012025,芬裏爾,狼魂沸血,"HP increase increases to {1}, Attack increase increases to {2}."
-751012031,芬裏爾,戰鬥狂熱,Attack increase increases to {1}.
-751012032,芬裏爾,戰鬥狂熱,"Attack increase increases to {1}, Crit Damage increase increases to {2}."
-751012033,芬裏爾,戰鬥狂熱,"Attack increase increases to {1}, Crit Damage increase increases to {2}."
-751012034,芬裏爾,戰鬥狂熱,"Attack increase increases to {1}, Crit Damage increase increases to {2}."
-751012035,芬裏爾,戰鬥狂熱,"Attack increase increases to {1}, Crit Damage increase increases to {2}."
-751012041,芬裏爾,亡命迎擊,Damage increases to {1} of target's Max HP.
-751012042,芬裏爾,亡命迎擊,"Damage increases to {1} of target’s Max HP, Self-Healing increases to {2}."
-751012043,芬裏爾,亡命迎擊,"Damage increases to {1} of target’s Max HP, Self-Healing increases to {2}."
-751012044,芬裏爾,亡命迎擊,"Damage increases to {1} of target’s Max HP, Self-Healing increases to {2}."
-751012045,芬裏爾,亡命迎擊,"Damage increases to {1} of target’s Max HP, Self-Healing increases to {2}."
+751012011,芬里爾,重牙碎岳,Damage increases to {1} of Attack.
+751012012,芬里爾,重牙碎岳,Damage increases to {1} of Attack.
+751012013,芬里爾,重牙碎岳,Damage increases to {1} of Attack.
+751012014,芬里爾,重牙碎岳,Damage increases to {1} of Attack.
+751012015,芬里爾,重牙碎岳,"Damage increases to {1} of Attack, [c][01a310]Bleed[-][/c] damage increases to {2}."
+751012021,芬里爾,狼魂沸血,HP increase increases to {1}.
+751012022,芬里爾,狼魂沸血,"HP increase increases to {1}, Attack increase increases to {2}."
+751012023,芬里爾,狼魂沸血,"HP increase increases to {1}, Attack increase increases to {2}."
+751012024,芬里爾,狼魂沸血,"HP increase increases to {1}, Attack increase increases to {2}."
+751012025,芬里爾,狼魂沸血,"HP increase increases to {1}, Attack increase increases to {2}."
+751012031,芬里爾,戰鬥狂熱,Attack increase increases to {1}.
+751012032,芬里爾,戰鬥狂熱,"Attack increase increases to {1}, Crit Damage increase increases to {2}."
+751012033,芬里爾,戰鬥狂熱,"Attack increase increases to {1}, Crit Damage increase increases to {2}."
+751012034,芬里爾,戰鬥狂熱,"Attack increase increases to {1}, Crit Damage increase increases to {2}."
+751012035,芬里爾,戰鬥狂熱,"Attack increase increases to {1}, Crit Damage increase increases to {2}."
+751012041,芬里爾,亡命迎擊,Damage increases to {1} of target's Max HP.
+751012042,芬里爾,亡命迎擊,"Damage increases to {1} of target’s Max HP, Self-Healing increases to {2}."
+751012043,芬里爾,亡命迎擊,"Damage increases to {1} of target’s Max HP, Self-Healing increases to {2}."
+751012044,芬里爾,亡命迎擊,"Damage increases to {1} of target’s Max HP, Self-Healing increases to {2}."
+751012045,芬里爾,亡命迎擊,"Damage increases to {1} of target’s Max HP, Self-Healing increases to {2}."
 751013011,薇薇安,群星隕落,Damage increases to {1} of Attack.
 751013012,薇薇安,群星隕落,Damage increases to {1} of Attack.
 751013013,薇薇安,群星隕落,Damage increases to {1} of Attack.
@@ -579,26 +579,26 @@ id,name,skill_name,ex_skill_desc
 753002043,織田信長,反擊,Damage increases to {1} of Attack.
 753002044,織田信長,反擊,Damage increases to {1} of Attack.
 753002045,織田信長,反擊,Damage increases to {1} of Attack.
-753003011,薑維,十字刃,"Damage increases to {1} of Attack, HP Restoration increases to {2}."
-753003012,薑維,十字刃,"Damage increases to {1} of Attack, HP Restoration increases to {2}."
-753003013,薑維,十字刃,"Damage increases to {1} of Attack, HP Restoration increases to {2}."
-753003014,薑維,十字刃,"Damage increases to {1} of Attack, HP Restoration increases to {2}."
-753003015,薑維,十字刃,"Damage increases to {1} of Attack, HP Restoration increases to {2}, Attack increase increases to {3}."
-753003021,薑維,束縛,Crit reduction increases to {1}.
-753003022,薑維,束縛,Crit reduction increases to {1}.
-753003023,薑維,束縛,Crit reduction increases to {1}.
-753003024,薑維,束縛,Crit reduction increases to {1}.
-753003025,薑維,束縛,Crit reduction increases to {1}.
-753003031,薑維,忍者鎧甲,Armor increase increases to {1}.
-753003032,薑維,忍者鎧甲,"Armor increase increases to {1}, HP increase increases to {2}."
-753003033,薑維,忍者鎧甲,"Armor increase increases to {1}, HP increase increases to {2}."
-753003034,薑維,忍者鎧甲,"Armor increase increases to {1}, HP increase increases to {2}."
-753003035,薑維,忍者鎧甲,"Armor increase increases to {1}, HP increase increases to {2}."
-753003041,薑維,疊甲護體,Armor increase increases to {1}.
-753003042,薑維,疊甲護體,Armor increase increases to {1}.
-753003043,薑維,疊甲護體,Armor increase increases to {1}.
-753003044,薑維,疊甲護體,Armor increase increases to {1}.
-753003045,薑維,疊甲護體,Armor increase increases to {1}.
+753003011,姜維,十字刃,"Damage increases to {1} of Attack, HP Restoration increases to {2}."
+753003012,姜維,十字刃,"Damage increases to {1} of Attack, HP Restoration increases to {2}."
+753003013,姜維,十字刃,"Damage increases to {1} of Attack, HP Restoration increases to {2}."
+753003014,姜維,十字刃,"Damage increases to {1} of Attack, HP Restoration increases to {2}."
+753003015,姜維,十字刃,"Damage increases to {1} of Attack, HP Restoration increases to {2}, Attack increase increases to {3}."
+753003021,姜維,束縛,Crit reduction increases to {1}.
+753003022,姜維,束縛,Crit reduction increases to {1}.
+753003023,姜維,束縛,Crit reduction increases to {1}.
+753003024,姜維,束縛,Crit reduction increases to {1}.
+753003025,姜維,束縛,Crit reduction increases to {1}.
+753003031,姜維,忍者鎧甲,Armor increase increases to {1}.
+753003032,姜維,忍者鎧甲,"Armor increase increases to {1}, HP increase increases to {2}."
+753003033,姜維,忍者鎧甲,"Armor increase increases to {1}, HP increase increases to {2}."
+753003034,姜維,忍者鎧甲,"Armor increase increases to {1}, HP increase increases to {2}."
+753003035,姜維,忍者鎧甲,"Armor increase increases to {1}, HP increase increases to {2}."
+753003041,姜維,疊甲護體,Armor increase increases to {1}.
+753003042,姜維,疊甲護體,Armor increase increases to {1}.
+753003043,姜維,疊甲護體,Armor increase increases to {1}.
+753003044,姜維,疊甲護體,Armor increase increases to {1}.
+753003045,姜維,疊甲護體,Armor increase increases to {1}.
 753004011,豐臣秀吉,帷帽突擊,"Damage increases to {1} of Attack, initial [c][01a310]Burn[-][/c] damage increases to {2}."
 753004012,豐臣秀吉,帷帽突擊,"Damage increases to {1} of Attack, initial [c][01a310]Burn[-][/c] damage increases to {2}."
 753004013,豐臣秀吉,帷帽突擊,"Damage increases to {1} of Attack, initial [c][01a310]Burn[-][/c] damage increases to {2}."
@@ -759,11 +759,11 @@ id,name,skill_name,ex_skill_desc
 753011043,圖靈,逆轉攻勢,Damage increases to {1} of Attack.
 753011044,圖靈,逆轉攻勢,Damage increases to {1} of Attack.
 753011045,圖靈,逆轉攻勢,"Damage increases to {1} of Attack, Attack increase increases to {2}."
-753012011,SP魏延,浮蛾淩躍,Damage increases to {1} of Attack.
-753012012,SP魏延,浮蛾淩躍,Damage increases to {1} of Attack.
-753012013,SP魏延,浮蛾淩躍,Damage increases to {1} of Attack.
-753012014,SP魏延,浮蛾淩躍,Damage increases to {1} of Attack.
-753012015,SP魏延,浮蛾淩躍,"Damage increases to {1} of Attack, if the target is not [c][01a310]Stunned[-][/c], chance to [c][01a310]Stun[-][/c] target increases to {2}, if the target is [c][01a310]Stunned[-][/c], additional damage to target that will Crit increases to {3}."
+753012011,SP魏延,浮蛾凌躍,Damage increases to {1} of Attack.
+753012012,SP魏延,浮蛾凌躍,Damage increases to {1} of Attack.
+753012013,SP魏延,浮蛾凌躍,Damage increases to {1} of Attack.
+753012014,SP魏延,浮蛾凌躍,Damage increases to {1} of Attack.
+753012015,SP魏延,浮蛾凌躍,"Damage increases to {1} of Attack, if the target is not [c][01a310]Stunned[-][/c], chance to [c][01a310]Stun[-][/c] target increases to {2}, if the target is [c][01a310]Stunned[-][/c], additional damage to target that will Crit increases to {3}."
 753012021,SP魏延,羽化月蛾,HP increase increases to {1}.
 753012022,SP魏延,羽化月蛾,"HP increase increases to {1}, Attack increase increases to {2}."
 753012023,SP魏延,羽化月蛾,"HP increase increases to {1}, Attack increase increases to {2}."
@@ -1079,26 +1079,26 @@ id,name,skill_name,ex_skill_desc
 755001043,司馬昭,黑暗契約,Attack increase increases to {1}.
 755001044,司馬昭,黑暗契約,Attack increase increases to {1}.
 755001045,司馬昭,黑暗契約,Attack increase increases to {1}.
-755002011,於吉,蠱惑之印,"Damage increases to {1} of Attack, [c][e28002]Round Mark[-][/c] damage increases to {2}."
-755002012,於吉,蠱惑之印,"Damage increases to {1} of Attack, [c][e28002]Round Mark[-][/c] damage increases to {2}."
-755002013,於吉,蠱惑之印,"Damage increases to {1} of Attack, [c][e28002]Round Mark[-][/c] damage increases to {2}."
-755002014,於吉,蠱惑之印,"Damage increases to {1} of Attack, [c][e28002]Round Mark[-][/c] damage increases to {2}."
-755002015,於吉,蠱惑之印,"Damage increases to {1} of Attack, [c][e28002]Round Mark[-][/c] damage increases to {2}."
-755002021,於吉,石化咒印,[c][e28002]Round Mark[-][/c] damage increases to {1}.
-755002022,於吉,石化咒印,[c][e28002]Round Mark[-][/c] damage increases to {1}.
-755002023,於吉,石化咒印,[c][e28002]Round Mark[-][/c] damage increases to {1}.
-755002024,於吉,石化咒印,[c][e28002]Round Mark[-][/c] damage increases to {1}.
-755002025,於吉,石化咒印,"[c][e28002]Round Mark[-][/c] damage increases to {1}, chance to [c][01a310]Petrify[-][/c] increases to {2}."
-755002031,於吉,暗影還擊,[c][e28002]Round Mark[-][/c] damage increases to {1}.
-755002032,於吉,暗影還擊,[c][e28002]Round Mark[-][/c] damage increases to {1}.
-755002033,於吉,暗影還擊,[c][e28002]Round Mark[-][/c] damage increases to {1}.
-755002034,於吉,暗影還擊,"[c][e28002]Round Mark[-][/c] damage increases to {1}, Self-Healing increases to {2} of total HP."
-755002035,於吉,暗影還擊,"[c][e28002]Round Mark[-][/c] damage increases to {1}, Self-Healing increases to {2} of total HP."
-755002041,於吉,地獄歸來,New: Increases Attack by {1} for 3 rounds.
-755002042,於吉,地獄歸來,Attack increase increases to {1}.
-755002043,於吉,地獄歸來,Attack increase increases to {1}.
-755002044,於吉,地獄歸來,Attack increase increases to {1}.
-755002045,於吉,地獄歸來,Attack increase increases to {1}.
+755002011,于吉,蠱惑之印,"Damage increases to {1} of Attack, [c][e28002]Round Mark[-][/c] damage increases to {2}."
+755002012,于吉,蠱惑之印,"Damage increases to {1} of Attack, [c][e28002]Round Mark[-][/c] damage increases to {2}."
+755002013,于吉,蠱惑之印,"Damage increases to {1} of Attack, [c][e28002]Round Mark[-][/c] damage increases to {2}."
+755002014,于吉,蠱惑之印,"Damage increases to {1} of Attack, [c][e28002]Round Mark[-][/c] damage increases to {2}."
+755002015,于吉,蠱惑之印,"Damage increases to {1} of Attack, [c][e28002]Round Mark[-][/c] damage increases to {2}."
+755002021,于吉,石化咒印,[c][e28002]Round Mark[-][/c] damage increases to {1}.
+755002022,于吉,石化咒印,[c][e28002]Round Mark[-][/c] damage increases to {1}.
+755002023,于吉,石化咒印,[c][e28002]Round Mark[-][/c] damage increases to {1}.
+755002024,于吉,石化咒印,[c][e28002]Round Mark[-][/c] damage increases to {1}.
+755002025,于吉,石化咒印,"[c][e28002]Round Mark[-][/c] damage increases to {1}, chance to [c][01a310]Petrify[-][/c] increases to {2}."
+755002031,于吉,暗影還擊,[c][e28002]Round Mark[-][/c] damage increases to {1}.
+755002032,于吉,暗影還擊,[c][e28002]Round Mark[-][/c] damage increases to {1}.
+755002033,于吉,暗影還擊,[c][e28002]Round Mark[-][/c] damage increases to {1}.
+755002034,于吉,暗影還擊,"[c][e28002]Round Mark[-][/c] damage increases to {1}, Self-Healing increases to {2} of total HP."
+755002035,于吉,暗影還擊,"[c][e28002]Round Mark[-][/c] damage increases to {1}, Self-Healing increases to {2} of total HP."
+755002041,于吉,地獄歸來,New: Increases Attack by {1} for 3 rounds.
+755002042,于吉,地獄歸來,Attack increase increases to {1}.
+755002043,于吉,地獄歸來,Attack increase increases to {1}.
+755002044,于吉,地獄歸來,Attack increase increases to {1}.
+755002045,于吉,地獄歸來,Attack increase increases to {1}.
 755003011,路西法,煉獄斬,Damage increases to {1} of Attack.
 755003012,路西法,煉獄斬,Damage increases to {1} of Attack.
 755003013,路西法,煉獄斬,Damage increases to {1} of Attack.
@@ -1509,56 +1509,56 @@ id,name,skill_name,ex_skill_desc
 752016023,特蕾莎,辛辣補給,"HP increase increases to {1}, Attack increase increases to {2}."
 752016024,特蕾莎,辛辣補給,"HP increase increases to {1}, Attack increase increases to {2}."
 752016025,特蕾莎,辛辣補給,"HP increase increases to {1}, Attack increase increases to {2}."
-752016031,特蕾莎,斷罪之刃,"Damage increases to {1} of Attack, chance of trapping the target in [c][e28002]Blade Prison[-][/c] for 15 rounds increases to {2}."
-752016032,特蕾莎,斷罪之刃,"Damage increases to {1} of Attack, chance of trapping the target in [c][e28002]Blade Prison[-][/c] for 15 rounds increases to {2}."
-752016033,特蕾莎,斷罪之刃,"Damage increases to {1} of Attack, chance of trapping the target in [c][e28002]Blade Prison[-][/c] for 15 rounds increases to {2}."
-752016034,特蕾莎,斷罪之刃,"Damage increases to {1} of Attack, chance of trapping the target in [c][e28002]Blade Prison[-][/c] for 15 rounds increases to {2}."
+752016031,特蕾莎,斷罪之刃,"Damage increases to {1} of Attack, chance of trapping 1 target in [c][e28002]Blade Prison[-][/c] for 15 rounds increases to {2}."
+752016032,特蕾莎,斷罪之刃,"Damage increases to {1} of Attack, chance of trapping 1 target in [c][e28002]Blade Prison[-][/c] for 15 rounds increases to {2}."
+752016033,特蕾莎,斷罪之刃,"Damage increases to {1} of Attack, chance of trapping 1 target in [c][e28002]Blade Prison[-][/c] for 15 rounds increases to {2}."
+752016034,特蕾莎,斷罪之刃,"Damage increases to {1} of Attack, chance of trapping 1 target in [c][e28002]Blade Prison[-][/c] for 15 rounds increases to {2}."
 752016035,特蕾莎,斷罪之刃,"Chance of gaining 1 extra stack of [c][e28002]Righteous Might[-][/c] increases to {1}, damage increases to {2} of Attack, chance of trapping the target in [c][e28002]Blade Prison[-][/c] for 15 rounds increases to {3}."
 752016041,特蕾莎,聖印庇護,"Whenever self HP drops below 30% (will not trigger when HP is at 30%), chance of consuming 1 stack of [c][e28002]Righteous Might[-][/c] instead of 2 stacks of [c][e28002]Righteous Might[-][/c] to exchange self current HP with the current HP of the enemy with most HP on the battlefield (no more than 5000% of Teresa's Attack) increased to {1}."
 752016042,特蕾莎,聖印庇護,"Whenever self HP drops below 30% (will not trigger when HP is at 30%), chance of consuming 1 stack of [c][e28002]Righteous Might[-][/c] instead of 2 stacks of [c][e28002]Righteous Might[-][/c] to exchange self current HP with the current HP of the enemy with most HP on the battlefield (no more than 5000% of Teresa's Attack) increased to {1}."
 752016043,特蕾莎,聖印庇護,"Whenever self HP drops below 30% (will not trigger when HP is at 30%), chance of consuming 1 stack of [c][e28002]Righteous Might[-][/c] instead of 2 stacks of [c][e28002]Righteous Might[-][/c] to exchange self current HP with the current HP of the enemy with most HP on the battlefield (no more than 5000% of Teresa's Attack) increased to {1}."
 752016044,特蕾莎,聖印庇護,"Whenever self HP drops below 30% (will not trigger when HP is at 30%), chance of consuming 1 stack of [c][e28002]Righteous Might[-][/c] instead of 2 stacks of [c][e28002]Righteous Might[-][/c] to exchange self current HP with the current HP of the enemy with most HP on the battlefield (no more than 5000% of Teresa's Attack) increased to {1}."
 752016045,特蕾莎,聖印庇護,"Whenever self HP drops below 30% (will not trigger when HP is at 30%), chance of consuming 1 stack of [c][e28002]Righteous Might[-][/c] instead of 2 stacks of [c][e28002]Righteous Might[-][/c] to exchange self current HP with the current HP of the enemy with most HP on the battlefield (no more than 5000% of Teresa's Attack) increased to {1}."
-755009011,菲斯納,暗黑降臨,"Damage increases to {1} of Attack, [c][e28002]Dark Star Mark[-][/c] damage increases to {2} of damage taken from Active Skills and Basic Attacks."
-755009012,菲斯納,暗黑降臨,"Damage increases to {1} of Attack, [c][e28002]Dark Star Mark[-][/c] damage increases to {2} of damage taken from Active Skills and Basic Attacks."
-755009013,菲斯納,暗黑降臨,"Damage increases to {1} of Attack, [c][e28002]Dark Star Mark[-][/c] damage increases to {2} of damage taken from Active Skills and Basic Attacks."
-755009014,菲斯納,暗黑降臨,"Damage increases to {1} of Attack, [c][e28002]Dark Star Mark[-][/c] damage increases to {2} of damage taken from Active Skills and Basic Attacks."
-755009015,菲斯納,暗黑降臨,"Damage increases to {1} of Attack, extra damage increases to {2} of target's Max HP, [c][e28002]Dark Star Mark[-][/c] damage increases to {3} of damage taken from Active Skills and Basic Attacks."
-755009021,菲斯納,暗神入侵,Attack increase increases to {1}.
-755009022,菲斯納,暗神入侵,"Attack increase increases to {1}, Crit Damage increase increases to {2}, Speed increase increases to {3}."
-755009023,菲斯納,暗神入侵,"Attack increase increases to {1}, Crit Damage increase increases to {2}, Speed increase increases to {3}."
-755009024,菲斯納,暗神入侵,"Attack increase increases to {1}, Crit Damage increase increases to {2}, Speed increase increases to {3}."
-755009025,菲斯納,暗神入侵,"Attack increase increases to {1}, Crit Damage increase increases to {2}, Speed increase increases to {3}."
-755009031,菲斯納,暗使操控,"Damage increases to {1} of Attack, [c][e28002]Dark Star Mark[-][/c] damage increases to {2} of damage taken from Active Skills and Basic Attacks."
-755009032,菲斯納,暗使操控,"Damage increases to {1} of Attack, [c][e28002]Dark Star Mark[-][/c] damage increases to {2} of damage taken from Active Skills and Basic Attacks."
-755009033,菲斯納,暗使操控,"Damage increases to {1} of Attack, [c][e28002]Dark Star Mark[-][/c] damage increases to {2} of damage taken from Active Skills and Basic Attacks."
-755009034,菲斯納,暗使操控,"Damage increases to {1} of Attack, [c][e28002]Dark Star Mark[-][/c] damage increases to {2} of damage taken from Active Skills and Basic Attacks."
-755009035,菲斯納,暗使操控,"Damage increases to {1} of Attack, [c][e28002]Dark Star Mark[-][/c] damage increases to {2} of damage taken from Active Skills and Basic Attacks."
-755009041,菲斯納,沐浴血光,"Dodge chance of [c][e28002]Blood Ring[-][/c] increases to {1}. New: Everytime Frexie triggers Active skill or Basic attacks, has {2} chance to extend [c][e28002]Blood Ring[-][/c] effect for 1 round."
-755009042,菲斯納,沐浴血光,"Dodge chance of [c][e28002]Blood Ring[-][/c] increases to {1}. New: Everytime Frexie triggers Active skill or Basic attacks, has {2} chance to extend [c][e28002]Blood Ring[-][/c] effect for 1 round."
-755009043,菲斯納,沐浴血光,"Dodge chance of [c][e28002]Blood Ring[-][/c] increases to {1}. New: Everytime Frexie triggers Active skill or Basic attacks, has {2} chance to extend [c][e28002]Blood Ring[-][/c] effect for 1 round."
-755009044,菲斯納,沐浴血光,"Dodge chance of [c][e28002]Blood Ring[-][/c] increases to {1}. New: Everytime Frexie triggers Active skill or Basic attacks, has {2} chance to extend [c][e28002]Blood Ring[-][/c] effect for 1 round."
-755009045,菲斯納,沐浴血光,"Dodge chance of [c][e28002]Blood Ring[-][/c] increases to {1}. New: Everytime Frexie triggers Active skill or Basic attacks, has {2} chance to extend [c][e28002]Blood Ring[-][/c] effect for 1 round."
-756008011,後羿,蓄勢待發,"Damage increases to {1} of Attack, damage of each stack of [c][e28002]Sun Slayer[-][/c] increases to {2}."
-756008012,後羿,蓄勢待發,"Damage increases to {1} of Attack, damage of each stack of [c][e28002]Sun Slayer[-][/c] increases to {2}."
-756008013,後羿,蓄勢待發,"Damage increases to {1} of Attack, damage of each stack of [c][e28002]Sun Slayer[-][/c] increases to {2}."
-756008014,後羿,蓄勢待發,"Damage increases to {1} of Attack, damage of each stack of [c][e28002]Sun Slayer[-][/c] increases to {2}."
-756008015,後羿,蓄勢待發,"Crit increase increases to {1}, Damage Reduction increase increases to {2}. Damage increases to {3} of Attack, damage of each stack of [c][e28002]Sun Slayer[-][/c] increases to {4}, the damage can Crit."
-756008021,後羿,凝神諦聽,Attack increase increases to {1}.
-756008022,後羿,凝神諦聽,"Attack increase increases to {1}, Crit Damage increase increases to {2}, Speed increase increases to {3}."
-756008023,後羿,凝神諦聽,"Attack increase increases to {1}, Crit Damage increase increases to {2}, Speed increase increases to {3}."
-756008024,後羿,凝神諦聽,"Attack increase increases to {1}, Crit Damage increase increases to {2}, Speed increase increases to {3}."
-756008025,後羿,凝神諦聽,"Attack increase increases to {1}, Crit Damage increase increases to {2}, Speed increase increases to {3}."
-756008031,後羿,墜日餘暉,New: Has {1} chance remove 1 random mark from self. Damage of each stack of [c][e28002]Sun Slayer[-][/c] increases to {2}.
-756008032,後羿,墜日餘暉,"Chance to remove Mark increases to {1}, damage of each stack of [c][e28002]Sun Slayer[-][/c] increases to {2}."
-756008033,後羿,墜日餘暉,"Chance to remove Mark increases to {1}, damage of each stack of [c][e28002]Sun Slayer[-][/c] increases to {2}."
-756008034,後羿,墜日餘暉,"Chance to remove Mark increases to {1}, damage of each stack of [c][e28002]Sun Slayer[-][/c] increases to {2}."
-756008035,後羿,墜日餘暉,"Chance to remove Mark increases to {1}, damage of each stack of [c][e28002]Sun Slayer[-][/c] increases to {2}, the damage can Crit."
-756008041,後羿,灼目之矢,"Heal effect increases to {1} of Attack, damage of each stack of [c][e28002]Sun Slayer[-][/c] increases to {2}."
-756008042,後羿,灼目之矢,"Heal effect increases to {1} of Attack, damage of each stack of [c][e28002]Sun Slayer[-][/c] increases to {2}."
-756008043,後羿,灼目之矢,"Heal effect increases to {1} of Attack, damage of each stack of [c][e28002]Sun Slayer[-][/c] increases to {2}."
-756008044,後羿,灼目之矢,"Heal effect increases to {1} of Attack, damage of each stack of [c][e28002]Sun Slayer[-][/c] increases to {2}."
-756008045,後羿,灼目之矢,"Sun SlayerHeal effect increases to {1} of Attack, damage of each stack of [c][e28002]Sun Slayer[-][/c] increases to {2}, the damage can trigger Crit."
+755009011,菲斯纳,暗黑降臨,"Damage increases to {1} of Attack, [c][e28002]Dark Star Mark[-][/c] damage increases to {2} of damage taken from Active Skills and Basic Attacks."
+755009012,菲斯纳,暗黑降臨,"Damage increases to {1} of Attack, [c][e28002]Dark Star Mark[-][/c] damage increases to {2} of damage taken from Active Skills and Basic Attacks."
+755009013,菲斯纳,暗黑降臨,"Damage increases to {1} of Attack, [c][e28002]Dark Star Mark[-][/c] damage increases to {2} of damage taken from Active Skills and Basic Attacks."
+755009014,菲斯纳,暗黑降臨,"Damage increases to {1} of Attack, [c][e28002]Dark Star Mark[-][/c] damage increases to {2} of damage taken from Active Skills and Basic Attacks."
+755009015,菲斯纳,暗黑降臨,"Damage increases to {1} of Attack, extra damage increases to {2} of target's Max HP, [c][e28002]Dark Star Mark[-][/c] damage increases to {3} of damage taken from Active Skills and Basic Attacks."
+755009021,菲斯纳,暗神入侵,Attack increase increases to {1}.
+755009022,菲斯纳,暗神入侵,"Attack increase increases to {1}, Crit Damage increase increases to {2}, Speed increase increases to {3}."
+755009023,菲斯纳,暗神入侵,"Attack increase increases to {1}, Crit Damage increase increases to {2}, Speed increase increases to {3}."
+755009024,菲斯纳,暗神入侵,"Attack increase increases to {1}, Crit Damage increase increases to {2}, Speed increase increases to {3}."
+755009025,菲斯纳,暗神入侵,"Attack increase increases to {1}, Crit Damage increase increases to {2}, Speed increase increases to {3}."
+755009031,菲斯纳,暗使操控,"Damage increases to {1} of Attack, [c][e28002]Dark Star Mark[-][/c] damage increases to {2} of damage taken from Active Skills and Basic Attacks."
+755009032,菲斯纳,暗使操控,"Damage increases to {1} of Attack, [c][e28002]Dark Star Mark[-][/c] damage increases to {2} of damage taken from Active Skills and Basic Attacks."
+755009033,菲斯纳,暗使操控,"Damage increases to {1} of Attack, [c][e28002]Dark Star Mark[-][/c] damage increases to {2} of damage taken from Active Skills and Basic Attacks."
+755009034,菲斯纳,暗使操控,"Damage increases to {1} of Attack, [c][e28002]Dark Star Mark[-][/c] damage increases to {2} of damage taken from Active Skills and Basic Attacks."
+755009035,菲斯纳,暗使操控,"Damage increases to {1} of Attack, [c][e28002]Dark Star Mark[-][/c] damage increases to {2} of damage taken from Active Skills and Basic Attacks."
+755009041,菲斯纳,沐浴血光,"Dodge chance of [c][e28002]Blood Ring[-][/c] increases to {1}. New: Everytime Frexie triggers Active skill or Basic attacks, has {2} chance to extend [c][e28002]Blood Ring[-][/c] effect for 1 round."
+755009042,菲斯纳,沐浴血光,"Dodge chance of [c][e28002]Blood Ring[-][/c] increases to {1}. New: Everytime Frexie triggers Active skill or Basic attacks, has {2} chance to extend [c][e28002]Blood Ring[-][/c] effect for 1 round."
+755009043,菲斯纳,沐浴血光,"Dodge chance of [c][e28002]Blood Ring[-][/c] increases to {1}. New: Everytime Frexie triggers Active skill or Basic attacks, has {2} chance to extend [c][e28002]Blood Ring[-][/c] effect for 1 round."
+755009044,菲斯纳,沐浴血光,"Dodge chance of [c][e28002]Blood Ring[-][/c] increases to {1}. New: Everytime Frexie triggers Active skill or Basic attacks, has {2} chance to extend [c][e28002]Blood Ring[-][/c] effect for 1 round."
+755009045,菲斯纳,沐浴血光,"Dodge chance of [c][e28002]Blood Ring[-][/c] increases to {1}. New: Everytime Frexie triggers Active skill or Basic attacks, has {2} chance to extend [c][e28002]Blood Ring[-][/c] effect for 1 round."
+756008011,后羿,蓄勢待發,"Damage increases to {1} of Attack, damage of each stack of [c][e28002]Sun Slayer[-][/c] increases to {2}."
+756008012,后羿,蓄勢待發,"Damage increases to {1} of Attack, damage of each stack of [c][e28002]Sun Slayer[-][/c] increases to {2}."
+756008013,后羿,蓄勢待發,"Damage increases to {1} of Attack, damage of each stack of [c][e28002]Sun Slayer[-][/c] increases to {2}."
+756008014,后羿,蓄勢待發,"Damage increases to {1} of Attack, damage of each stack of [c][e28002]Sun Slayer[-][/c] increases to {2}."
+756008015,后羿,蓄勢待發,"Crit increase increases to {1}, Damage Reduction increase increases to {2}. Damage increases to {3} of Attack, damage of each stack of [c][e28002]Sun Slayer[-][/c] increases to {4}, the damage can Crit."
+756008021,后羿,凝神谛听,Attack increase increases to {1}.
+756008022,后羿,凝神谛听,"Attack increase increases to {1}, Crit Damage increase increases to {2}, Speed increase increases to {3}."
+756008023,后羿,凝神谛听,"Attack increase increases to {1}, Crit Damage increase increases to {2}, Speed increase increases to {3}."
+756008024,后羿,凝神谛听,"Attack increase increases to {1}, Crit Damage increase increases to {2}, Speed increase increases to {3}."
+756008025,后羿,凝神谛听,"Attack increase increases to {1}, Crit Damage increase increases to {2}, Speed increase increases to {3}."
+756008031,后羿,墜日餘暉,New: Has {1} chance remove 1 random mark from self. Damage of each stack of [c][e28002]Sun Slayer[-][/c] increases to {2}.
+756008032,后羿,墜日餘暉,"Chance to remove Mark increases to {1}, damage of each stack of [c][e28002]Sun Slayer[-][/c] increases to {2}."
+756008033,后羿,墜日餘暉,"Chance to remove Mark increases to {1}, damage of each stack of [c][e28002]Sun Slayer[-][/c] increases to {2}."
+756008034,后羿,墜日餘暉,"Chance to remove Mark increases to {1}, damage of each stack of [c][e28002]Sun Slayer[-][/c] increases to {2}."
+756008035,后羿,墜日餘暉,"Chance to remove Mark increases to {1}, damage of each stack of [c][e28002]Sun Slayer[-][/c] increases to {2}, the damage can Crit."
+756008041,后羿,灼目之矢,"Heal effect increases to {1} of Attack, damage of each stack of [c][e28002]Sun Slayer[-][/c] increases to {2}."
+756008042,后羿,灼目之矢,"Heal effect increases to {1} of Attack, damage of each stack of [c][e28002]Sun Slayer[-][/c] increases to {2}."
+756008043,后羿,灼目之矢,"Heal effect increases to {1} of Attack, damage of each stack of [c][e28002]Sun Slayer[-][/c] increases to {2}."
+756008044,后羿,灼目之矢,"Heal effect increases to {1} of Attack, damage of each stack of [c][e28002]Sun Slayer[-][/c] increases to {2}."
+756008045,后羿,灼目之矢,"Sun SlayerHeal effect increases to {1} of Attack, damage of each stack of [c][e28002]Sun Slayer[-][/c] increases to {2}, the damage can trigger Crit."
 754016011,凱茜,林間疊影,Damage increases to {1} of Attack.
 754016012,凱茜,林間疊影,Damage increases to {1} of Attack.
 754016013,凱茜,林間疊影,Damage increases to {1} of Attack.
