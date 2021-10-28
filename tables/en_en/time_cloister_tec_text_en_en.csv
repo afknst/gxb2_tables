@@ -1,0 +1,50 @@
+id,name,desc,unlock
+1,Observation Length · 1,Increases your initial Clockwork of Memory number by {1} when observing in this World of Time.,
+2,Observation Length · 2,Increases your initial Clockwork of Memory number by {1} when observing in this World of Time.,"Requirement: Upgrading ""Observation Length · 1"" to level 2, reach 500 Courage"
+3,Observation Length · 3,Increases your initial Clockwork of Memory number by {1} when observing in this World of Time.,"Requirement: Upgrading ""Observation Length · 2"" to level 3, reach 1000 Courage"
+4,Observation Length · 4,Increases your initial Clockwork of Memory number by {1} when observing in this World of Time.,"Requirement: Upgrading ""Observation Length · 3"" to level 3, reach 1500 Courage"
+5,Observation Length · 5,Increases your initial Clockwork of Memory number by {1} when observing in this World of Time.,"Requirement: Reach 1700 Courage, Charisma and Knowledge"
+6,Basic Supply · 1,"When triggering Supply Card ""Basic Supply"", increase the card level by 1 to offer you more rewards",
+7,Basic Supply · 2,"When triggering Supply Card ""Basic Supply"", increase the card level by 1 to offer you more rewards",Requirement: Observation Progress of this World of Time reaches 10%
+8,Basic Supply · 3,"When triggering Supply Card ""Basic Supply"", increase the card level by 1 to offer you more rewards",Requirement: Observation Progress of this World of Time reaches 20%
+9,Basic Supply · 4,"When triggering Supply Card ""Basic Supply"", increase the card level by 1 to offer you more rewards",Requirement: Observation Progress of this World of Time reaches 30%
+10,Basic Supply · 5,"When triggering Supply Card ""Basic Supply"", increase the card level by 1 to offer you more rewards",Requirement: Observation Progress of this World of Time reaches 40%
+11,Plain Button · 1,"When triggering Supply Card ""Plain Button"", increase the card level by 1 to offer you more rewards",
+12,Plain Button · 2,"When triggering Supply Card ""Plain Button"", increase the card level by 1 to offer you more rewards",Requirement: Observation Progress of this World of Time reaches 20%
+13,Plain Button · 3,"When triggering Supply Card ""Plain Button"", increase the card level by 1 to offer you more rewards",Requirement: Observation Progress of this World of Time reaches 40%
+14,Plain Button · 4,"When triggering Supply Card ""Plain Button"", increase the card level by 1 to offer you more rewards",Requirement: Observation Progress of this World of Time reaches 60%
+15,Plain Button · 5,"When triggering Supply Card ""Plain Button"", increase the card level by 1 to offer you more rewards",Requirement: Observation Progress of this World of Time reaches 80%
+16,Plain Silk · 1,"When triggering Supply Card ""Plain Silk"", increase the card level by 1 to offer you more rewards",
+17,Plain Silk · 1,"When triggering Supply Card ""Plain Silk"", increase the card level by 1 to offer you more rewards",Requirement: Observation Progress of this World of Time reaches 15%
+18,Plain Silk · 3,"When triggering Supply Card ""Plain Silk"", increase the card level by 1 to offer you more rewards",Requirement: Observation Progress of this World of Time reaches 30%
+19,Plain Silk · 4,"When triggering Supply Card ""Plain Silk"", increase the card level by 1 to offer you more rewards",Requirement: Observation Progress of this World of Time reaches 45%
+20,Plain Silk · 5,"When triggering Supply Card ""Plain Silk"", increase the card level by 1 to offer you more rewards",Requirement: Observation Progress of this World of Time reaches 60%
+21,Dyed Silk · 1,"When triggering Supply Card ""Dyed Silk"", increase the card level by 1 to offer you more rewards",
+22,Dyed Silk · 2,"When triggering Supply Card ""Dyed Silk"", increase the card level by 1 to offer you more rewards",Requirement: Observation Progress of this World of Time reaches 20%
+23,Dyed Silk · 3,"When triggering Supply Card ""Dyed Silk"", increase the card level by 1 to offer you more rewards",Requirement: Observation Progress of this World of Time reaches 40%
+24,Dyed Silk · 4,"When triggering Supply Card ""Dyed Silk"", increase the card level by 1 to offer you more rewards",Requirement: Observation Progress of this World of Time reaches 60%
+25,Dyed Silk · 5,"When triggering Supply Card ""Dyed Silk"", increase the card level by 1 to offer you more rewards",Requirement: Observation Progress of this World of Time reaches 80%
+26,Encounter Card Upgrade · 1,"When triggering Encounter Card ""Luna"", increase the card level by 1",
+27,Encounter Card Upgrade · 2,"When triggering Encounter Card ""Blowie"", increase the card level by 1","Requirement: Trigger Encounter Card ""Luna"" 50 times in this World of time for ({1}/50)"
+28,Encounter Card Upgrade · 3,"When triggering Encounter Card ""Angel"", increase the card level by 1","Requirement: Trigger Encounter Card ""Blowie"" 80 times in this World of time for ({1}/80)"
+29,Encounter Card Upgrade · 4,"When triggering Encounter Card ""Fenrir"", increase the card level by 1","Requirement: Trigger Encounter Card ""Angel"" 90 times in this World of time for ({1}/90)"
+30,Encounter Card Upgrade · 5,"When triggering Encounter Card ""Raphael"", increase the card level by 1","Requirement: Trigger Encounter Card ""Fenrir"" 110 times in this World of time for ({1}/110)"
+31,Encounter Card Upgrade · 6,"When triggering Encounter Card ""Teresa"", increase the card level by 1","Requirement: Trigger Encounter Card ""Teresa"" 70 times in this World of time for ({1}/70)"
+32,Encounter Card Upgrade · 7,"When triggering Encounter Card ""Bud Elf"", increase the card level by 1","Requirement: Trigger Encounter Card ""Bud Elf"" 60 times in this World of time for ({1}/60)"
+33,Stage Unlock,Unlock the next Stage of this World of Time (Need to pass the current Stage before you challenge the next Stage),
+34,Courage · 1,"When you challenge Stages in this World of Time or trigger Challenge Cards in the future, increase your Courage by {1}.",
+35,Charisma · 1,"When you challenge Stages in this World of Time or trigger Challenge Cards in the future, increase your Charisma by {1}.",Requirement: Upgrade Courage · 1 to Lv.5
+36,Knowledge · 1,"When you challenge Stages in this World of Time or trigger Challenge Cards in the future, increase your Knowledge by {1}.",Requirement: Upgrade Charisma · 1 to Lv.5
+37,Courage · 2,"When you challenge Stages in this World of Time or trigger Challenge Cards in the future, increase your Courage by {1}.","Requirement: Upgrade Courage · 1 to Lv.5, complete achievement ""Pass Stage 2 in this World of Time"" and claim the reward"
+38,Charisma · 2,"When you challenge Stages in this World of Time or trigger Challenge Cards in the future, increase your Charisma by {1}.","Requirement: upgrade ""Courage · 2"" to Lv.5 or upgrade ""Charisma · 1"" to Lv.5"
+39,Knowledge · 2,"When you challenge Stages in this World of Time or trigger Challenge Cards in the future, increase your Knowledge by {1}.","Requirement: upgrade ""Charisma · 2"" to Lv.5 or upgrade ""Knowledge · 1"" to Lv.5"
+40,Courage · 3,"When you challenge Stages in this World of Time or trigger Challenge Cards in the future, increase your Courage by {1}.","Requirement: Upgrade Courage · 2 to Lv.5, complete achievement ""Pass Stage 5 in this World of Time"" and claim the reward"
+41,Charisma · 3,"When you challenge Stages in this World of Time or trigger Challenge Cards in the future, increase your Charisma by {1}.","Requirement: upgrade ""Courage · 3"" to Lv.5 or upgrade ""Charisma · 2"" to Lv.5"
+42,Knowledge · 3,"When you challenge Stages in this World of Time or trigger Challenge Cards in the future, increase your Knowledge by {1}.","Requirement: upgrade ""Charisma · 3"" to Lv.5 or upgrade ""Knowledge · 2"" to Lv.5"
+43,Courage · 4,"When you challenge Stages in this World of Time or trigger Challenge Cards in the future, increase your Courage by {1}.","Requirement: Upgrade Courage · 3 to Lv.5, complete achievement ""Pass Stage 8 in this World of Time"" and claim the reward"
+44,Charisma · 4,"When you challenge Stages in this World of Time or trigger Challenge Cards in the future, increase your Charisma by {1}.","Requirement: upgrade ""Courage · 4"" to Lv.5 or upgrade ""Charisma · 3"" to Lv.5"
+45,Knowledge · 4,"When you challenge Stages in this World of Time or trigger Challenge Cards in the future, increase your Knowledge by {1}.","Requirement: upgrade ""Charisma · 4"" to Lv.5 or upgrade ""Knowledge · 3"" to Lv.5"
+46,Speed Reading,"Upgrade to get {1} ""Time Essences"" to speed up the process of reading in Echoes of Time",
+47,Card Unlock · 1,"Unlock Encounter Card ""Points"" that can provide you more points, when triggering Encounter Card ""Points"", have chance to increase the points it provides",
+48,Card Unlock · 2,"Unlock Challenge Card ""Challenge · II""","Requirement: Reach 1000 Courage, Charisma and Knowledge"
+49,Card Unlock · 3,"Unlock Challenge Card ""Challenge · III""","Requirement: Reach 2000 Courage, Charisma and Knowledge"

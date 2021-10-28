@@ -1,0 +1,12 @@
+id,name,desc
+1,Stage 1,No special rule for this stage
+2,Stage 2,No special rule for this stage
+3,Stage 3,No special rule for this stage
+4,Stage 4,No special rule for this stage
+5,Stage 5,Special Rule: all your Rangers have their Attack reduced by 50%
+6,Stage 6,Special Rule: all your Priests have their maximum HP reduced by 40%
+7,Stage 7,Special Rule: all your Girls are Silenced in the first 3 rounds of the battle
+8,Stage 8,Special Rule: all your Girls have their Heal Received reduced by 75%
+9,Stage 9,Special Rule: all your enemies heal themselves by 10% of their maximum HP at the end of each round
+10,Stage 10,Special Rule: all your enemies are Immune to all debuffs
+11,Time Vortex,The highest damage you deal in a challenge attempt will be displayed on a ranking board. Tap the button on the right to check out.

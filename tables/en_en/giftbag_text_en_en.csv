@@ -387,9 +387,9 @@ id,name,charge_ios,charge,currency,show_name
 208,Servant Supply 5,99.99,99.99,$,Servant Supply 5
 209,Easter Pack 1,29.99,29.99,$,Easter Pack 1
 210,Easter Pack 2,99.99,99.99,$,Easter Pack 2
-211,Easter Egg Pack 1,99.99,99.99,$,Easter Egg Pack 1
-212,Easter Egg Pack 2,49.99,49.99,$,Easter Egg Pack 2
-213,Easter Egg Pack 3,29.99,29.99,$,Easter Egg Pack 3
+211,Bottles Adrift Pack 1,99.99,99.99,$,Bottles Adrift Pack 1
+212,Bottles Adrift Pack 2,49.99,49.99,$,Bottles Adrift Pack 2
+213,Bottles Adrift Pack 3,29.99,29.99,$,Bottles Adrift Pack 3
 1600101,Estel's Development 1,4.99,4.99,$,Estel's Development 1
 1600102,Estel's Development 2,19.99,19.99,$,Estel's Development 2
 1600103,Estel's Development 3,49.99,49.99,$,Estel's Development 3
@@ -535,3 +535,6 @@ id,name,charge_ios,charge,currency,show_name
 319,Angel Tea Party Special Pack,14.99,14.99,$,Angel Tea Party Special Pack
 320,Beginner's Capsule,69.99,69.99,$,Beginner's Capsule
 321,Beginner Funds,19.99,19.99,$,Beginner Funds
+322,Halloween Surprise 1,9.99,9.99,$,Halloween Surprise 1
+323,Halloween Surprise 2,49.99,49.99,$,Halloween Surprise 2
+324,Halloween Surprise 3,99.99,99.99,$,Halloween Surprise 3

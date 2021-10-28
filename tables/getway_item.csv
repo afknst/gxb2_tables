@@ -56,3 +56,6 @@ id,name,item_id,get_limit,show_activity,lv_limit,function_id,go_window,go_params
 56,-1,,,16,0,,campaign_window,
 57,-1,,,245,0,,,
 58,-1,,,245,0,,activity_window,"select:166,activity_type2:1"
+59,-1,,,248,0,,activity_window,"select:248,large_series:1"
+60,-1,,,249,0,,activity_window,"select:249,large_series:1"
+61,-1,,,250,0,,activity_window,"select:250,large_series:1"

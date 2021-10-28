@@ -9140,17 +9140,17 @@ Skill Effect, cannot be stacked. At the end of each Round, the owner of [c][e280
 Sivney deals (120% of Attack) damage to all enemies and afflicts them with [c][e28002]Aether Leakage[-][/c] for 3 Rounds. Heals the ally with lowest HP for (25% of Sivney\'s max HP) HP. Increases Damage Reduction of an ally in the neighboring position by 10% for 3 Rounds, and grants the same ally 30 Energy. (Sivney will choose the ally whose position in the team is in front of self first)
 
 [c][e28002]Aether Leakage: 
-[-][/c]Skill Effect, cannot be stacked. Increases damage taken by 20%."
+[-][/c]Skill Effect, cannot be stacked. Increases damage taken directly by 20%."
 65302301,Sivney,Aether Blast,"
 Sivney deals (160% of Attack) damage to all enemies and afflicts them with [c][e28002]Aether Leakage[-][/c] for 3 Rounds. Heals the ally with lowest HP for (35% of Sivney\'s max HP) HP. Increases Damage Reduction of an ally in the neighboring position by 20% for 3 Rounds, and grants the same ally 50 Energy. (Sivney will choose the ally whose position in the team is in front of self first)
 
 [c][e28002]Aether Leakage: 
-[-][/c]Skill Effect, cannot be stacked. Increases damage taken by 20%."
+[-][/c]Skill Effect, cannot be stacked. Increases damage taken directly by 20%."
 75301601,Sivney,Aether Blast,"
 Sivney deals (240% of Attack) damage to all enemies and afflicts them with [c][e28002]Aether Leakage[-][/c] for 3 Rounds. Heals the ally with lowest HP for (50% of Sivney\'s max HP) HP. Increases Damage Reduction of an ally in the neighboring position by 40% for 3 Rounds, and grants the same ally 100 Energy. (Sivney will choose the ally whose position in the team is in front of self first)
 
 [c][e28002]Aether Leakage: 
-[-][/c]Skill Effect, cannot be stacked. Increases damage taken by 20%."
+[-][/c]Skill Effect, cannot be stacked. Increases damage taken directly by 20%."
 5301602,Sivney,Research Assistant,"Increases HP by 20%, Damage Reduction by 10%, Heal Amount by 15%, and Speed by 20."
 65302302,Sivney,Research Assistant,"Increases HP by 30%, Damage Reduction by 20%, Heal Amount by 20%, and Speed by 40."
 65302312,Sivney,Research Assistant,"Increases HP by 40%, Damage Reduction by 30%, Heal Amount by 25%, and Speed by 60."
@@ -9167,10 +9167,10 @@ If the enemy is already afflicted with [c][e28002]Aether Leakage[-][/c], removes
 When Sivney is defeated, heals the ally in the neighboring position for (30% of the target\'s Max HP) HP, and grants 30 Energy and 20% Control Immunity to the ally. (Sivney will choose the ally whose position in the team is in front of self first)
 
 [c][e28002]Aether Leakage: [-][/c]
-Skill Effect, cannot be stacked. Increases damage taken by 20%.
+Skill Effect, cannot be stacked. Increases damage taken directly by 20%.
 
 [c][e28002]Aether Exhaustion: [-][/c]
-Skill Effect, cannot be stacked. Increases damage taken by 30% and reduces Heal Received by 10%."
+Skill Effect, cannot be stacked. Increases damage taken directly by 30% and reduces Heal Received by 10%."
 65302304,Sivney,Firm Resolve,"
 Sivney will never stop her pursuit of the truth. 
 
@@ -9179,10 +9179,10 @@ If the enemy is already afflicted with [c][e28002]Aether Leakage[-][/c], removes
 When Sivney is defeated, heals the ally in the neighboring position for (30% of the target\'s Max HP) HP, and grants 50 Energy and 40% Control Immunity to the ally. (Sivney will choose the ally whose position in the team is in front of self first)
 
 [c][e28002]Aether Leakage: [-][/c]
-Skill Effect, cannot be stacked. Increases damage taken by 20%.
+Skill Effect, cannot be stacked. Increases damage taken directly by 20%.
 
 [c][e28002]Aether Exhaustion: [-][/c]
-Skill Effect, cannot be stacked. Increases damage taken by 45% and reduces Heal Received by 15%."
+Skill Effect, cannot be stacked. Increases damage taken directly by 45% and reduces Heal Received by 15%."
 65302314,Sivney,Firm Resolve,"
 Sivney will never stop her pursuit of the truth. 
 
@@ -9191,10 +9191,10 @@ If the enemy is already afflicted with [c][e28002]Aether Leakage[-][/c], removes
 When Sivney is defeated, heals the ally in the neighboring position for (100% of the target\'s Max HP) HP, and grants 100 Energy and 100% Control Immunity to the ally. (Sivney will choose the ally whose position in the team is in front of self first)
 
 [c][e28002]Aether Leakage: [-][/c]
-Skill Effect, cannot be stacked. Increases damage taken by 20%.
+Skill Effect, cannot be stacked. Increases damage taken directly by 20%.
 
 [c][e28002]Aether Exhaustion: [-][/c]
-Skill Effect, cannot be stacked. Increases damage taken by 70% and reduces Heal Received by 20%."
+Skill Effect, cannot be stacked. Increases damage taken directly by 70% and reduces Heal Received by 20%."
 75301604,Sivney,Firm Resolve,"
 Sivney will never stop her pursuit of the truth. 
 
@@ -9203,35 +9203,35 @@ If the enemy is already afflicted with [c][e28002]Aether Leakage[-][/c], removes
 When Sivney is defeated, heals the ally in the neighboring position for (100% of the target\'s Max HP) HP, and grants 100 Energy and 100% Control Immunity to the ally. (Sivney will choose the ally whose position in the team is in front of self first)
 
 [c][e28002]Aether Leakage: [-][/c]
-Skill Effect, cannot be stacked. Increases damage taken by 20%.
+Skill Effect, cannot be stacked. Increases damage taken directly by 20%.
 
 [c][e28002]Aether Exhaustion: [-][/c]
-Skill Effect, cannot be stacked. Increases damage taken by 70% and reduces Heal Received by 20%."
+Skill Effect, cannot be stacked. Increases damage taken directly by 70% and reduces Heal Received by 20%."
 753016011,Sivney,Aether Blast,"
 Sivney deals (245% of Attack) damage to all enemies and afflicts them with [c][e28002]Aether Leakage[-][/c] for 3 Rounds. Heals the ally with lowest HP for (50% of Sivney\'s max HP) HP. Increases Damage Reduction of an ally in the neighboring position by 40% for 3 Rounds, and grants the same ally 100 Energy. (Sivney will choose the ally whose position in the team is in front of self first)
 
 [c][e28002]Aether Leakage: 
-[-][/c]Skill Effect, cannot be stacked. Increases damage taken by 20%."
+[-][/c]Skill Effect, cannot be stacked. Increases damage taken directly by 20%."
 753016012,Sivney,Aether Blast,"
 Sivney deals (250% of Attack) damage to all enemies and afflicts them with [c][e28002]Aether Leakage[-][/c] for 3 Rounds. Heals the ally with lowest HP for (50% of Sivney\'s max HP) HP. Increases Damage Reduction of an ally in the neighboring position by 40% for 3 Rounds, and grants the same ally 100 Energy. (Sivney will choose the ally whose position in the team is in front of self first)
 
 [c][e28002]Aether Leakage: 
-[-][/c]Skill Effect, cannot be stacked. Increases damage taken by 20%."
+[-][/c]Skill Effect, cannot be stacked. Increases damage taken directly by 20%."
 753016013,Sivney,Aether Blast,"
 Sivney deals (255% of Attack) damage to all enemies and afflicts them with [c][e28002]Aether Leakage[-][/c] for 3 Rounds. Heals the ally with lowest HP for (52% of Sivney\'s max HP) HP. Increases Damage Reduction of an ally in the neighboring position by 40% for 3 Rounds, and grants the same ally 100 Energy. (Sivney will choose the ally whose position in the team is in front of self first)
 
 [c][e28002]Aether Leakage: 
-[-][/c]Skill Effect, cannot be stacked. Increases damage taken by 20%."
+[-][/c]Skill Effect, cannot be stacked. Increases damage taken directly by 20%."
 753016014,Sivney,Aether Blast,"
 Sivney deals (260% of Attack) damage to all enemies and afflicts them with [c][e28002]Aether Leakage[-][/c] for 3 Rounds. Heals the ally with lowest HP for (52% of Sivney\'s max HP) HP. Increases Damage Reduction of an ally in the neighboring position by 40% for 3 Rounds, and grants the same ally 100 Energy. (Sivney will choose the ally whose position in the team is in front of self first)
 
 [c][e28002]Aether Leakage: 
-[-][/c]Skill Effect, cannot be stacked. Increases damage taken by 20%."
+[-][/c]Skill Effect, cannot be stacked. Increases damage taken directly by 20%."
 753016015,Sivney,Aether Blast,"
 Sivney deals (265% of Attack) damage to all enemies and afflicts them with [c][e28002]Aether Leakage[-][/c] for 3 Rounds. Heals the ally with lowest HP for (55% of Sivney\'s max HP) HP. Increases Damage Reduction of an ally in the neighboring position by 40% for 3 Rounds, and grants the same ally 100 Energy. (Sivney will choose the ally whose position in the team is in front of self first)
 
 [c][e28002]Aether Leakage: 
-[-][/c]Skill Effect, cannot be stacked. Increases damage taken by 20%."
+[-][/c]Skill Effect, cannot be stacked. Increases damage taken directly by 20%."
 753016021,Sivney,Research Assistant,"Increases HP by 40%, Damage Reduction by 30%, Heal Amount by 25%, and Speed by 62."
 753016022,Sivney,Research Assistant,"Increases HP by 40%, Damage Reduction by 30%, Heal Amount by 25%, and Speed by 64."
 753016023,Sivney,Research Assistant,"Increases HP by 43%, Damage Reduction by 30%, Heal Amount by 25%, and Speed by 66."
@@ -9250,10 +9250,10 @@ If the enemy is already afflicted with [c][e28002]Aether Leakage[-][/c], removes
 When Sivney is defeated, heals the ally in the neighboring position for (100% of the target\'s Max HP) HP, and grants 100 Energy and 100% Control Immunity to the ally. (Sivney will choose the ally whose position in the team is in front of self first)
 
 [c][e28002]Aether Leakage: [-][/c]
-Skill Effect, cannot be stacked. Increases damage taken by 20%.
+Skill Effect, cannot be stacked. Increases damage taken directly by 20%.
 
 [c][e28002]Aether Exhaustion: [-][/c]
-Skill Effect, cannot be stacked. Increases damage taken by 70% and reduces Heal Received by 20%."
+Skill Effect, cannot be stacked. Increases damage taken directly by 70% and reduces Heal Received by 20%."
 753016042,Sivney,Firm Resolve,"
 Sivney will never stop her pursuit of the truth. 
 
@@ -9262,10 +9262,10 @@ If the enemy is already afflicted with [c][e28002]Aether Leakage[-][/c], removes
 When Sivney is defeated, heals the ally in the neighboring position for (100% of the target\'s Max HP) HP, and grants 100 Energy and 100% Control Immunity to the ally. (Sivney will choose the ally whose position in the team is in front of self first)
 
 [c][e28002]Aether Leakage: [-][/c]
-Skill Effect, cannot be stacked. Increases damage taken by 20%.
+Skill Effect, cannot be stacked. Increases damage taken directly by 20%.
 
 [c][e28002]Aether Exhaustion: [-][/c]
-Skill Effect, cannot be stacked. Increases damage taken by 70% and reduces Heal Received by 20%."
+Skill Effect, cannot be stacked. Increases damage taken directly by 70% and reduces Heal Received by 20%."
 753016043,Sivney,Firm Resolve,"
 Sivney will never stop her pursuit of the truth. 
 
@@ -9274,10 +9274,10 @@ If the enemy is already afflicted with [c][e28002]Aether Leakage[-][/c], removes
 When Sivney is defeated, heals the ally in the neighboring position for (100% of the target\'s Max HP) HP, and grants 100 Energy and 100% Control Immunity to the ally. (Sivney will choose the ally whose position in the team is in front of self first)
 
 [c][e28002]Aether Leakage: [-][/c]
-Skill Effect, cannot be stacked. Increases damage taken by 20%.
+Skill Effect, cannot be stacked. Increases damage taken directly by 20%.
 
 [c][e28002]Aether Exhaustion: [-][/c]
-Skill Effect, cannot be stacked. Increases damage taken by 72% and reduces Heal Received by 20%."
+Skill Effect, cannot be stacked. Increases damage taken directly by 72% and reduces Heal Received by 20%."
 753016044,Sivney,Firm Resolve,"
 Sivney will never stop her pursuit of the truth. 
 
@@ -9286,10 +9286,10 @@ If the enemy is already afflicted with [c][e28002]Aether Leakage[-][/c], removes
 When Sivney is defeated, heals the ally in the neighboring position for (100% of the target\'s Max HP) HP, and grants 100 Energy and 100% Control Immunity to the ally. (Sivney will choose the ally whose position in the team is in front of self first)
 
 [c][e28002]Aether Leakage: [-][/c]
-Skill Effect, cannot be stacked. Increases damage taken by 20%.
+Skill Effect, cannot be stacked. Increases damage taken directly by 20%.
 
 [c][e28002]Aether Exhaustion: [-][/c]
-Skill Effect, cannot be stacked. Increases damage taken by 72% and reduces Heal Received by 20%."
+Skill Effect, cannot be stacked. Increases damage taken directly by 72% and reduces Heal Received by 20%."
 753016045,Sivney,Firm Resolve,"
 Sivney will never stop her pursuit of the truth. 
 
@@ -9298,7 +9298,224 @@ If the enemy is already afflicted with [c][e28002]Aether Leakage[-][/c], removes
 When Sivney is defeated, heals the ally in the neighboring position for (100% of the target\'s Max HP) HP, and grants 100 Energy and 100% Control Immunity to the ally. (Sivney will choose the ally whose position in the team is in front of self first)
 
 [c][e28002]Aether Leakage: [-][/c]
-Skill Effect, cannot be stacked. Increases damage taken by 20%.
+Skill Effect, cannot be stacked. Increases damage taken directly by 20%.
 
 [c][e28002]Aether Exhaustion: [-][/c]
-Skill Effect, cannot be stacked. Increases damage taken by 75% and reduces Heal Received by 22%."
+Skill Effect, cannot be stacked. Increases damage taken directly by 75% and reduces Heal Received by 22%."
+6730101,Reaper's Voice,Advanced Skill,"Has a 100%, 66%, and 33% chance of inflicting ""Premonition"" on 3 enemies with the highest speed for 1 round at the start of the battle and the end of each round. (Premonition: Skill effect. Reduces speed by 20.)"
+6730201,Reaper's Voice,Advanced Skill,"Has a 100%, 66%, and 33% chance of inflicting ""Premonition"" on 3 enemies with the highest speed for 1 round at the start of the battle and the end of each round. (Premonition: Skill effect. Reduces speed by 40.)"
+6730301,Reaper's Voice,Advanced Skill,"Has a 100%, 66%, and 33% chance of inflicting ""Premonition"" on 3 enemies with the highest speed for 1 round at the start of the battle and the end of each round. (Premonition: Skill effect. Reduces speed by 60.)"
+6502101,Carnival Staff,Advanced Skill,"Increases the owner's Heal amount by 10%, allows the owner to Immune from the first type of Control effect she receives in a battle; Heals the owner by 4% of her maximum HP when controlled or stacked with Marks."
+6502201,Carnival Staff,Advanced Skill,"Increases the owner's Heal amount by 20%, allows the owner to Immune from the first type of Control effect she receives in a battle; Heals the owner by 6% of her maximum HP when controlled or stacked with Marks."
+6502301,Carnival Staff,Advanced Skill,"Increases the owner's Heal amount by 30%, allows the owner to Immune from the first type of Control effect she receives in a battle; Heals the owner by 8% of her maximum HP when controlled or stacked with Marks."
+6712101,Sacred Vial,Advanced Skill,"When the owner receives a debuff (Control effect excluded), has a 20% chance to replicate the debuff onto 1 random enemy, once the replication is successful, has a 50% chance to remove the debuff from the owner."
+6712201,Sacred Vial,Advanced Skill,"When the owner receives a debuff (Control effect excluded), has a 40% chance to replicate the debuff onto 1 random enemy, once the replication is successful, has a 50% chance to remove the debuff from the owner."
+6712301,Sacred Vial,Advanced Skill,"When the owner receives a debuff (Control effect excluded), has an 80% chance to replicate the debuff onto 1 random enemy, once the replication is successful, has a 50% chance to remove the debuff from the owner."
+6724101,Deception,Advanced Skill,Has 50% chance to provide 20% additional Damage Reduction to a random ally for 1 round at the start of each round.
+6724201,Deception,Advanced Skill,"At the beginning of each round, has a 100% chance to provide 20% additional Damage Reduction and 10% additional Heal Received to 1 random ally for 1 round."
+6724301,Deception,Advanced Skill,"At the beginning of each round, has a 100% chance to provide 20% additional Damage Reduction and 20% additional Heal Received to 1 random ally for 1 round."
+6736101,Nightshade,Advanced Skill,Revives owner with 60% of Maximum HP and 85 Energy after the owner is defeated. (Can be triggered only once in each battle)
+6736201,Nightshade,Advanced Skill,Revives owner with 60% of Maximum HP and 85 Energy after the owner is defeated. (Can be triggered only once in each battle)
+6736301,Nightshade,Advanced Skill,Revives owner with 60% of Maximum HP and 85 Energy after the owner is defeated. (Can be triggered only once in each battle)
+6736102,Nightshade,Advanced Skill,Heals for 20% additional Maximum HP and grants 25% Energy Removal Resist for 1 round.
+6736202,Nightshade,Advanced Skill,"Heals for 40% additional Maximum HP, recovers 65 additional Energy, and grants 50% Energy Removal Resist for 1 round."
+6736302,Nightshade,Advanced Skill,"Heals for 40% additional Maximum HP, recovers 115 additional Energy, and grants 80% Energy Removal Resist for 2 rounds."
+501106,Sky Island,Hunter's Mark,Von Helsing afflicts 1 Hunter's Mark to all your Girls every 6 Rounds
+501107,Sky Island,Hunter's Mark,Von Helsing afflicts 1 Hunter's Mark to all your Girls every 4 Rounds
+502107,Sky Island,Stun and Weaken,"When an ally or enemy is stunned, all enemies gain 5% Attack"
+503110,Sky Island,Blessing of Death,"When an ally or enemy is defeated, all enemies gain 5% Damage Depletion"
+503111,Sky Island,Blessing of Life,The enemy Sivney's Basic Attack will not consume HP.
+5401700,Aurora,Basic Attack,Basic Attack
+65402400,Aurora,Basic Attack,Basic Attack
+75401700,Aurora,Basic Attack,Basic Attack
+5401701,Aurora,Glacial Purgatory,"
+Suffer in the endless winters of the Northern Lands!
+
+Aurora deals (100% of Attack) damage to 1 random enemy and has a 10% chance to [c][e28002]Crystallize[-][/c] it for 2 rounds. If there are 2 or more enemies on the field, this attack will randomly ricochet off them for at most 5 times, increasing damage dealt by 20% of Attack and chance to [c][e28002]Crystallize[-][/c] the target by 10% each time (This damage will not target the same target twice in a row, but can target the same target for more than once).
+
+[c][e28002]Crystallize:[-][/c]
+A Control Effect. Crystallized targets will not be able to use their Active Skill, deal Basic Attacks, Hunt the targets, or Counterattack after being attacked for 2 rounds. This effect can stack."
+65402401,Aurora,Glacial Purgatory,"
+Suffer in the endless winters of the Northern Lands!
+
+Aurora deals (200% of Attack) damage to 1 random enemy and has a 20% chance to [c][e28002]Crystallize[-][/c] it for 2 rounds. If there are 2 or more enemies on the field, this attack will randomly ricochet off them for at most 5 times, increasing damage dealt by 40% of Attack and chance to [c][e28002]Crystallize[-][/c] the target by 10% each time (This damage will not target the same target twice in a row, but can target the same target for more than once).
+
+[c][e28002]Crystallize:[-][/c]
+A Control Effect. Crystallized targets will not be able to use their Active Skill, deal Basic Attacks, Hunt the targets, or Counterattack after being attacked for 2 rounds. This effect can stack."
+75401701,Aurora,Glacial Purgatory,"
+Suffer in the endless winters of the Northern Lands!
+
+Aurora deals (400% of Attack) damage to 1 random enemy and has a 30% chance to [c][e28002]Crystallize[-][/c] it for 2 rounds. If there are 2 or more enemies on the field, this attack will randomly ricochet off them for at most 5 times, increasing damage dealt by 70% of Attack and chance to [c][e28002]Crystallize[-][/c] the target by 10% each time (This damage will not target the same target twice in a row, but can target the same target for more than once).
+
+[c][e28002]Crystallize:[-][/c]
+A Control Effect. Crystallized targets will not be able to use their Active Skill, deal Basic Attacks, Hunt the targets, or Counterattack after being attacked for 2 rounds. This effect can stack."
+5401702,Aurora,Queen's Crown,"This crown is a symbol of my power and my responsibility.\n\nIncreases Aurora's HP by 20%, Attack by 15%, Crit by 10%, and Speed by 20."
+65402402,Aurora,Queen's Crown,"This crown is a symbol of my power and my responsibility.\n\nIncreases Aurora's HP by 30%, Attack by 20%, Crit by 20%, and Speed by 40."
+65402412,Aurora,Queen's Crown,"This crown is a symbol of my power and my responsibility.\n\nIncreases Aurora's HP by 40%, Attack by 25%, Crit by 30%, and Speed by 60."
+75401702,Aurora,Queen's Crown,"This crown is a symbol of my power and my responsibility.\n\nIncreases Aurora's HP by 40%, Attack by 25%, Crit by 30%, and Speed by 60."
+5401703,Aurora,Judgement of Ice,"
+You shall be punished for your insolence.
+
+Aurora\'s Basic Attack changed to deal (100% of Attack) damage against 2 random enemies, [c][01a310]Poisoning[-][/c] them for 2 rounds, dealing (5% of target\'s Maximum HP) damage (no more than 1500% of Aurora\'s Attack) each round. Aurora will also heal herself for (5% of her Maximum HP) for 2 rounds.
+
+[c][01a310]Poison:[-][/c]
+A damage over time. Damage is dealt once when Poison is inflicted and at the beginning of each round during the period of effect."
+65402403,Aurora,Judgement of Ice,"
+You shall be punished for your insolence.
+
+Aurora\'s Basic Attack changed to deal (120% of Attack) damage against 2 random enemies, [c][01a310]Poisoning[-][/c] them for 2 rounds, dealing (10% of target\'s Maximum HP) damage (no more than 1500% of Aurora\'s Attack) each round. Aurora will also heal herself for (10% of her Maximum HP) for 2 rounds.
+
+[c][01a310]Poison:[-][/c]
+A damage over time. Damage is dealt once when Poison is inflicted and at the beginning of each round during the period of effect."
+65402413,Aurora,Judgement of Ice,"
+You shall be punished for your insolence.
+
+Aurora\'s Basic Attack changed to deal (160% of Attack) damage against 2 random enemies, [c][01a310]Poisoning[-][/c] them for 2 rounds, dealing (15% of target\'s Maximum HP) damage (no more than 1500% of Aurora\'s Attack) each round. Aurora will also heal herself for (15% of her Maximum HP) for 2 rounds.
+
+[c][01a310]Poison:[-][/c]
+A damage over time. Damage is dealt once when Poison is inflicted and at the beginning of each round during the period of effect."
+75401703,Aurora,Judgement of Ice,"
+You shall be punished for your insolence.
+
+Aurora\'s Basic Attack changed to deal (160% of Attack) damage against 2 random enemies, [c][01a310]Poisoning[-][/c] them for 2 rounds, dealing (15% of target\'s Maximum HP) damage (no more than 1500% of Aurora\'s Attack) each round. Aurora will also heal herself for (15% of her Maximum HP) for 2 rounds.
+
+[c][01a310]Poison:[-][/c]
+A damage over time. Damage is dealt once when Poison is inflicted and at the beginning of each round during the period of effect."
+5401704,Aurora,Wintry Gales,"
+The frigid winds of the North will protect me from harm.
+
+Aurora will cause the Attacker to deal 5% less damage for all damage types (this effect can be stacked up to 30%) after she is attacked by Basic Attacks or Active Skills. She will also increase her Attack by 5% for 4 rounds. When Aurora deals a Basic Attack or uses her Active Skill, if the target(s) are already [c][e28002]Crystallized[-][/c], she will deal extra (100% of Attack) damage to the target(s).
+
+[c][e28002]Crystallize:[-][/c]
+A Control Effect. Crystallized targets will not be able to use their Active Skill, deal Basic Attacks, Hunt the targets, or Counterattack after being attacked for 2 rounds. This effect can stack."
+65402404,Aurora,Wintry Gales,"
+The frigid winds of the North will protect me from harm.
+
+Aurora will cause the Attacker to deal 7% less damage for all damage types (this effect can be stacked up to 30%) after she is attacked by Basic Attacks or Active Skills. She will also increase her Attack by 10% for 4 rounds. When Aurora deals a Basic Attack or uses her Active Skill, if the target(s) are already [c][e28002]Crystallized[-][/c], she will deal extra (200% of Attack) damage to the target(s).
+
+[c][e28002]Crystallize:[-][/c]
+A Control Effect. Crystallized targets will not be able to use their Active Skill, deal Basic Attacks, Hunt the targets, or Counterattack after being attacked for 2 rounds. This effect can stack."
+65402414,Aurora,Wintry Gales,"
+The frigid winds of the North will protect me from harm.
+
+Aurora will cause the Attacker to deal 10% less damage for all damage types (this effect can be stacked up to 30%) after she is attacked by Basic Attacks or Active Skills. She will also increase her Attack by 15% for 4 rounds. When Aurora deals a Basic Attack or uses her Active Skill, if the target(s) are already [c][e28002]Crystallized[-][/c], she will deal extra (300% of Attack) damage to the target(s).
+
+[c][e28002]Crystallize:[-][/c]
+A Control Effect. Crystallized targets will not be able to use their Active Skill, deal Basic Attacks, Hunt the targets, or Counterattack after being attacked for 2 rounds. This effect can stack."
+75401704,Aurora,Wintry Gales,"
+The frigid winds of the North will protect me from harm.
+
+Aurora will cause the Attacker to deal 10% less damage for all damage types (this effect can be stacked up to 30%) after she is attacked by Basic Attacks or Active Skills. She will also increase her Attack by 15% for 4 rounds. When Aurora deals a Basic Attack or uses her Active Skill, if the target(s) are already [c][e28002]Crystallized[-][/c], she will deal extra (300% of Attack) damage to the target(s).
+
+[c][e28002]Crystallize:[-][/c]
+A Control Effect. Crystallized targets will not be able to use their Active Skill, deal Basic Attacks, Hunt the targets, or Counterattack after being attacked for 2 rounds. This effect can stack."
+754017011,Aurora,Glacial Purgatory,"
+Suffer in the endless winters of the Northern Lands!
+
+Aurora deals (408% of Attack) damage to 1 random enemy and has a 30% chance to [c][e28002]Crystallize[-][/c] it for 2 rounds. If there are 2 or more enemies on the field, this attack will randomly ricochet off them for at most 5 times, increasing damage dealt by 70% of Attack and chance to [c][e28002]Crystallize[-][/c] the target by 10% each time (This damage will not target the same target twice in a row, but can target the same target for more than once).
+
+[c][e28002]Crystallize:[-][/c]
+A Control Effect. Crystallized targets will not be able to use their Active Skill, deal Basic Attacks, Hunt the targets, or Counterattack after being attacked for 2 rounds. This effect can stack."
+754017012,Aurora,Glacial Purgatory,"
+Suffer in the endless winters of the Northern Lands!
+
+Aurora deals (416% of Attack) damage to 1 random enemy and has a 30% chance to [c][e28002]Crystallize[-][/c] it for 2 rounds. If there are 2 or more enemies on the field, this attack will randomly ricochet off them for at most 5 times, increasing damage dealt by 70% of Attack and chance to [c][e28002]Crystallize[-][/c] the target by 10% each time (This damage will not target the same target twice in a row, but can target the same target for more than once).
+
+[c][e28002]Crystallize:[-][/c]
+A Control Effect. Crystallized targets will not be able to use their Active Skill, deal Basic Attacks, Hunt the targets, or Counterattack after being attacked for 2 rounds. This effect can stack."
+754017013,Aurora,Glacial Purgatory,"
+Suffer in the endless winters of the Northern Lands!
+
+Aurora deals (424% of Attack) damage to 1 random enemy and has a 40% chance to [c][e28002]Crystallize[-][/c] it for 2 rounds. If there are 2 or more enemies on the field, this attack will randomly ricochet off them for at most 5 times, increasing damage dealt by 90% of Attack and chance to [c][e28002]Crystallize[-][/c] the target by 10% each time (This damage will not target the same target twice in a row, but can target the same target for more than once).
+
+[c][e28002]Crystallize:[-][/c]
+A Control Effect. Crystallized targets will not be able to use their Active Skill, deal Basic Attacks, Hunt the targets, or Counterattack after being attacked for 2 rounds. This effect can stack."
+754017014,Aurora,Glacial Purgatory,"
+Suffer in the endless winters of the Northern Lands!
+
+Aurora deals (432% of Attack) damage to 1 random enemy and has a 40% chance to [c][e28002]Crystallize[-][/c] it for 2 rounds. If there are 2 or more enemies on the field, this attack will randomly ricochet off them for at most 5 times, increasing damage dealt by 90% of Attack and chance to [c][e28002]Crystallize[-][/c] the target by 10% each time (This damage will not target the same target twice in a row, but can target the same target for more than once).
+
+[c][e28002]Crystallize:[-][/c]
+A Control Effect. Crystallized targets will not be able to use their Active Skill, deal Basic Attacks, Hunt the targets, or Counterattack after being attacked for 2 rounds. This effect can stack."
+754017015,Aurora,Glacial Purgatory,"
+Suffer in the endless winters of the Northern Lands!
+
+Aurora deals (440% of Attack) damage to 1 random enemy and has a 50% chance to [c][e28002]Crystallize[-][/c] it for 2 rounds. If there are 2 or more enemies on the field, this attack will randomly ricochet off them for at most 5 times, increasing damage dealt by 110% of Attack and chance to [c][e28002]Crystallize[-][/c] the target by 10% each time (This damage will not target the same target twice in a row, but can target the same target for more than once).
+
+[c][e28002]Crystallize:[-][/c]
+A Control Effect. Crystallized targets will not be able to use their Active Skill, deal Basic Attacks, Hunt the targets, or Counterattack after being attacked for 2 rounds. This effect can stack."
+754017021,Aurora,Queen's Crown,"This crown is a symbol of my power and my responsibility.\n\nIncreases Aurora's HP by 40%, Attack by 25%, Crit by 30%, and Speed by 62."
+754017022,Aurora,Queen's Crown,"This crown is a symbol of my power and my responsibility.\n\nIncreases Aurora's HP by 40%, Attack by 25%, Crit by 30%, and Speed by 64."
+754017023,Aurora,Queen's Crown,"This crown is a symbol of my power and my responsibility.\n\nIncreases Aurora's HP by 42%, Attack by 25%, Crit by 30%, and Speed by 66."
+754017024,Aurora,Queen's Crown,"This crown is a symbol of my power and my responsibility.\n\nIncreases Aurora's HP by 42%, Attack by 25%, Crit by 30%, and Speed by 68."
+754017025,Aurora,Queen's Crown,"This crown is a symbol of my power and my responsibility.\n\nIncreases Aurora's HP by 44%, Attack by 28%, Crit by 30%, and Speed by 70."
+754017031,Aurora,Judgement of Ice,"
+You shall be punished for your insolence.
+
+Aurora\'s Basic Attack changed to deal (163% of Attack) damage against 2 random enemies, [c][01a310]Poisoning[-][/c] them for 2 rounds, dealing (15% of target\'s Maximum HP) damage (no more than 1500% of Aurora\'s Attack) each round. Aurora will also heal herself for (15% of her Maximum HP) for 2 rounds.
+
+[c][01a310]Poison:[-][/c]
+A damage over time. Damage is dealt once when Poison is inflicted and at the beginning of each round during the period of effect."
+754017032,Aurora,Judgement of Ice,"
+You shall be punished for your insolence.
+
+Aurora\'s Basic Attack changed to deal (166% of Attack) damage against 2 random enemies, [c][01a310]Poisoning[-][/c] them for 2 rounds, dealing (15% of target\'s Maximum HP) damage (no more than 1500% of Aurora\'s Attack) each round. Aurora will also heal herself for (15% of her Maximum HP) for 2 rounds.
+
+[c][01a310]Poison:[-][/c]
+A damage over time. Damage is dealt once when Poison is inflicted and at the beginning of each round during the period of effect."
+754017033,Aurora,Judgement of Ice,"
+You shall be punished for your insolence.
+
+Aurora\'s Basic Attack changed to deal (169% of Attack) damage against 2 random enemies, [c][01a310]Poisoning[-][/c] them for 2 rounds, dealing (15% of target\'s Maximum HP) damage (no more than 1500% of Aurora\'s Attack) each round. Aurora will also heal herself for (15% of her Maximum HP) for 2 rounds.
+
+[c][01a310]Poison:[-][/c]
+A damage over time. Damage is dealt once when Poison is inflicted and at the beginning of each round during the period of effect."
+754017034,Aurora,Judgement of Ice,"
+You shall be punished for your insolence.
+
+Aurora\'s Basic Attack changed to deal (172% of Attack) damage against 2 random enemies, [c][01a310]Poisoning[-][/c] them for 2 rounds, dealing (15% of target\'s Maximum HP) damage (no more than 1500% of Aurora\'s Attack) each round. Aurora will also heal herself for (15% of her Maximum HP) for 2 rounds.
+
+[c][01a310]Poison:[-][/c]
+A damage over time. Damage is dealt once when Poison is inflicted and at the beginning of each round during the period of effect."
+754017035,Aurora,Judgement of Ice,"
+You shall be punished for your insolence.
+
+Aurora\'s Basic Attack changed to deal (175% of Attack) damage against 2 random enemies, [c][01a310]Poisoning[-][/c] them for 2 rounds, dealing (17% of target\'s Maximum HP) damage (no more than 1500% of Aurora\'s Attack) each round. Aurora will also heal herself for (17% of her Maximum HP) for 2 rounds.
+
+[c][01a310]Poison:[-][/c]
+A damage over time. Damage is dealt once when Poison is inflicted and at the beginning of each round during the period of effect."
+754017041,Aurora,Wintry Gales,"
+The frigid winds of the North will protect me from harm.
+
+Aurora will cause the Attacker to deal 10% less damage for all damage types (this effect can be stacked up to 30%) after she is attacked by Basic Attacks or Active Skills. She will also increase her Attack by 15% for 4 rounds. When Aurora deals a Basic Attack or uses her Active Skill, if the target(s) are already [c][e28002]Crystallized[-][/c], she will deal extra (330% of Attack) damage to the target(s).
+
+[c][e28002]Crystallize:[-][/c]
+A Control Effect. Crystallized targets will not be able to use their Active Skill, deal Basic Attacks, Hunt the targets, or Counterattack after being attacked for 2 rounds. This effect can stack."
+754017042,Aurora,Wintry Gales,"
+The frigid winds of the North will protect me from harm.
+
+Aurora will cause the Attacker to deal 10% less damage for all damage types (this effect can be stacked up to 30%) after she is attacked by Basic Attacks or Active Skills. She will also increase her Attack by 15% for 4 rounds. When Aurora deals a Basic Attack or uses her Active Skill, if the target(s) are already [c][e28002]Crystallized[-][/c], she will deal extra (360% of Attack) damage to the target(s).
+
+[c][e28002]Crystallize:[-][/c]
+A Control Effect. Crystallized targets will not be able to use their Active Skill, deal Basic Attacks, Hunt the targets, or Counterattack after being attacked for 2 rounds. This effect can stack."
+754017043,Aurora,Wintry Gales,"
+The frigid winds of the North will protect me from harm.
+
+Aurora will cause the Attacker to deal 10% less damage for all damage types (this effect can be stacked up to 30%) after she is attacked by Basic Attacks or Active Skills. She will also increase her Attack by 15% for 4 rounds. When Aurora deals a Basic Attack or uses her Active Skill, if the target(s) are already [c][e28002]Crystallized[-][/c], she will deal extra (390% of Attack) damage to the target(s).
+
+[c][e28002]Crystallize:[-][/c]
+A Control Effect. Crystallized targets will not be able to use their Active Skill, deal Basic Attacks, Hunt the targets, or Counterattack after being attacked for 2 rounds. This effect can stack."
+754017044,Aurora,Wintry Gales,"
+The frigid winds of the North will protect me from harm.
+
+Aurora will cause the Attacker to deal 10% less damage for all damage types (this effect can be stacked up to 30%) after she is attacked by Basic Attacks or Active Skills. She will also increase her Attack by 15% for 4 rounds. When Aurora deals a Basic Attack or uses her Active Skill, if the target(s) are already [c][e28002]Crystallized[-][/c], she will deal extra (420% of Attack) damage to the target(s).
+
+[c][e28002]Crystallize:[-][/c]
+A Control Effect. Crystallized targets will not be able to use their Active Skill, deal Basic Attacks, Hunt the targets, or Counterattack after being attacked for 2 rounds. This effect can stack."
+754017045,Aurora,Wintry Gales,"
+The frigid winds of the North will protect me from harm.
+
+Aurora will cause the Attacker to deal 10% less damage for all damage types (this effect can be stacked up to 30%) after she is attacked by Basic Attacks or Active Skills. She will also increase her Attack by 17% for 4 rounds. When Aurora deals a Basic Attack or uses her Active Skill, if the target(s) are already [c][e28002]Crystallized[-][/c], she will deal extra (450% of Attack) damage to the target(s).
+
+[c][e28002]Crystallize:[-][/c]
+A Control Effect. Crystallized targets will not be able to use their Active Skill, deal Basic Attacks, Hunt the targets, or Counterattack after being attacked for 2 rounds. This effect can stack."

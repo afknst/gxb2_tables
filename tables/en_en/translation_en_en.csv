@@ -2031,7 +2031,7 @@ MATCH_NUM4,4th Battle
 MATCH_NUM5,5th Battle
 ARENA_ALL_SERVER_MISC,Become the Champion!
 ARENA_ALL_SERVER_QUIZ_WINDOW_HELP,"1. You can choose to support another player after Qualifying Round begins. If the player wins, then the Coins used in supporting them is returned and vice versa.|2. Players can only support themselves in the Finals.|3. The system will automatically decide which battle can be supported in the current round. Battles with players in the same Guild, in the same server, or in the same language-area will be chosen first.|4. Coins that can be used for support depends on the progress you have reached in Campaign. The amount will be the number of Coins you can obtain from Auto-Loot in one day from the furthest Stage you have reached in Campaign (not counting VIP and Subscription bonus).|5. If the player you chose won, you will obtain double the amount of Coins you pledged in support. The rewards will be sent via Mail."
-ARENA_ALL_SERVER_PRE_CHAMPION_WINDOW_HELP,1. Past Champions will show all Champions starting from the first season.|2. You can check the top 8 players of each season by tapping on the respective season.
+ARENA_ALL_SERVER_PRE_CHAMPION_WINDOW_HELP,1. Records of players who have won in Ultimate League before the feature is updated will still be taken into account in Rankings.
 ARENA_ALL_SERVER_NEW_COUNTDOWN,Next Season：
 IMG_GUIDE_JUMP_GAME_1,Valeera will [c][cc0011]recover[-][/c] intellect after landing on a platform. The game will end when intellect reaches zero
 IMG_GUIDE_JUMP_GAME_2,Valeera will lose a lot of intellect if she touches the [c][cc0011]spikes[-][/c]
@@ -2305,7 +2305,7 @@ POTENTIALITY_BACK_TITLE,Reverse
 POTENTIALITY_BACK_TEXT01,Preview
 POTENTIALITY_BACK_TEXT02,Reverse
 PUPPET_PARTNER_NO_CLICK,"Dolls are not available in Graduate, Awake, Limit Break and Skin"
-POTENTIALITY_BACK_WINDOW_HELP,"1. Girls from 1-Star to 10-Star can be Reversed (including those who have Limit-Break status)|2. Dolls are not able to be Awakened, Exchanged, Reversed, Transferred, given Gifts or placed in a Dorm.|3. Gear and Antiques of a Girl who is Reversed will automatically be sent back to Bag.|4. Reverse Rules: |1-Star to 5-Star: the namesake Girl at their original star rank|7-Star Girl Reversal: five 5-Star Dolls of the Reversed Girl's Faction + 2 namesake 5-Star Girls|8-Star Girl Reversal: seven 5-Star Dolls of the Reversed Girl's Faction + 2 namesake 5-Star Girls|9-Star Girl Reversal: one 6-Star Girl of the Reversed Girl's Faction + eight 5-Star Dolls of the Reversed Girl's Faction + 2 namesake 5-Star Girls|10-Star Girl Reversal: two 9-Star Dolls of the Girl's Faction + 5 namesake 5-Star Girls|Limit-Break Stage 1 Girl Reversal: three 9-Star Dolls of the Reversed Girl's Faction + 6 namesake 5-Star Girls|Limit-Break Stage 2 Girl Reversal: four 9-Star Dolls of the Reversed Girl's Faction + 7 namesake 5-Star Girls|Limit-Break Stage 3 Girl Reversal: one 10-Star Doll and four 9-Star Dolls of the Reversed Girl's Faction + 7 namesake 5-Star Girls|Limit-Break Stage 4 Girl Reversal: two 10-Star Dolls of the Reversed Girl's Faction + four 9-Star Dolls of the Reversed Girl's Faction + 8 namesake 5-Star Girls|Limit-Break Stage 5 Girl Reversal: three 10-Star Dolls of the Reversed Girl's Faction + four 9-Star Dolls of the Reversed Girl's Faction + 9 namesake 5-Star Girls|5. Reversing 1-Star to 5-Star Girls will return all resources used on the Girl. Reversing 7-Star to 10-Star Girls WILL NOT RETURN Coins used to level up the Girl; EXP Juice and Lunch Boxes from the Reversed Girl will be PARTIALLY returned. Coins and Crystal Chisels will also be partially returned according to the level of the Reversed Girl's Crystal.|6. Intimacy and Oath will be returned to one of the namesake Girls after being reversed.|7. 5/9/10 Star Dolls received from a Reverse won't be counted for the Monthly Event ""Graduate and Awake""."
+POTENTIALITY_BACK_WINDOW_HELP,"1. Girls from 1-Star to 5-Star and 7-Star to 10-Star can be Reversed (including those who have Limit-Break status)|2. Dolls are not able to be Awakened, Exchanged, Reversed, Transferred, given Gifts or placed in a Dorm.|3. Gear and Antiques of a Girl who is Reversed will automatically be sent back to Bag.|4. Reverse Rules: |1-Star to 5-Star: the namesake Girl at their original star rank|7-Star Girl Reversal: five 5-Star Dolls of the Reversed Girl's Faction + 2 namesake 5-Star Girls|8-Star Girl Reversal: seven 5-Star Dolls of the Reversed Girl's Faction + 2 namesake 5-Star Girls|9-Star Girl Reversal: one 6-Star Doll of the Reversed Girl's Faction + eight 5-Star Dolls of the Reversed Girl's Faction + 3 namesake 5-Star Girls|10-Star Girl Reversal: two 9-Star Dolls of the Girl's Faction + 5 namesake 5-Star Girls|Limit-Break Stage 1 Girl Reversal: three 9-Star Dolls of the Reversed Girl's Faction + 6 namesake 5-Star Girls|Limit-Break Stage 2 Girl Reversal: four 9-Star Dolls of the Reversed Girl's Faction + 7 namesake 5-Star Girls|Limit-Break Stage 3 Girl Reversal: one 10-Star Doll and four 9-Star Dolls of the Reversed Girl's Faction + 7 namesake 5-Star Girls|Limit-Break Stage 4 Girl Reversal: two 10-Star Dolls of the Reversed Girl's Faction + four 9-Star Dolls of the Reversed Girl's Faction + 8 namesake 5-Star Girls|Limit-Break Stage 5 Girl Reversal: three 10-Star Dolls of the Reversed Girl's Faction + four 9-Star Dolls of the Reversed Girl's Faction + 9 namesake 5-Star Girls|5. Reversing 1-Star to 5-Star Girls will return all resources used on the Girl. Reversing 7-Star to 10-Star Girls WILL NOT RETURN Coins used to level up the Girl; EXP Juice and Lunch Boxes from the Reversed Girl will be PARTIALLY returned. Coins and Crystal Chisels will also be partially returned according to the level of the Reversed Girl's Crystal.|6. Intimacy and Oath will be returned to one of the namesake Girls after being reversed.|7. 5/9/10 Star Dolls received from a Reverse won't be counted for the Monthly Event ""Graduate and Awake""."
 POTENTIALITY_BACK_TEXT03,This is irreversible. Are you sure you want to do this?
 POTENTIALITY_BACK_ALTAR_TIP,Dolls cannot be transferred
 SUBSCRIPTION_RECOVER,Recover
@@ -3311,7 +3311,7 @@ ENTRANCE_TEST_HELP_TITLE_2_1,Setup
 ENTRANCE_TEST_HELP_TITLE_2_2,Defense Team
 ENTRANCE_TEST_HELP_DES_2_1,"After reaching Division A, the Girls available will be at Limit Break Stage 5, and you will be able to adjust their [c][cc0011]Potentials[-][/c]."
 ENTRANCE_TEST_HELP_DES_2_2,"After the girl is fully prepared, she will be tagged with a ""Done"" mark."
-ENTRANCE_TEST_HELP_DES_2_3,"Before you engage, please set a [c][cc0011]Defense Team[-][/c] for yourself. Only the girls who are fully prepared can be added in your Defense Team. If your Defense Team loses a battle, you will lose some points. So please set up your Defense Team carefully."
+ENTRANCE_TEST_HELP_DES_2_3,"Before you engage, please set a [c][cc0011]Defense Team[-][/c] for yourself. Only the girls who are fully prepared can be added in your Defense Team. If your Defense Team wins a battle, you will win some points. But you will also lose some points if your Defense Team loses a battle. So please set up your Defense Team carefully."
 ENTRANCE_TEST_HELP_TITLE_3_1,Fight
 ENTRANCE_TEST_HELP_TITLE_3_2,Ranking
 ENTRANCE_TEST_HELP_TITLE_3_3,Reward
@@ -3319,7 +3319,7 @@ ENTRANCE_TEST_HELP_DES_3_1,"Tap [c][cc0011]Fight[-][/c] button to battle with ot
 ENTRANCE_TEST_HELP_DES_3_2,Starting a battle will consume 1 Test Certificate.\nThe number of Test Certificates you own will be reset to 10 Test Certificates at 0:00(UTC/GMT 0) every day.\nExtra Test Certificates can be purchased with Gems.
 ENTRANCE_TEST_HELP_DES_3_3,You can check your current event score and position in the ranking list during the event.
 ENTRANCE_TEST_HELP_DES_3_4,Tap on [c][cc0011]Rewards[-][/c] button to check the missions and rewards available.\nExtra rewards are unlocked after purchasing the [c][cc0011]Admission Prep Package[-][/c].
-ACTIVITY_WARMUP_PACK_TEXT04,Bonus limited-edition avatar for the new girl:
+ACTIVITY_WARMUP_PACK_TEXT04,After purchasing\nYou will get:
 ACTIVITY_WARMUP_PACK_TEXT05,Value
 CHESS_EXCHANGE,Convert
 CHESS_GET_PARTNER,Purchase
@@ -3476,7 +3476,7 @@ WISH_GACHA_TEXT8,x{1}
 MONTH_CARD_VIP,+{1} VIP EXP
 MONTH_CARD_TIP_1,Buy now and get {1} gems.
 MONTH_CARD_TIP_2,Get {1} Gems every day for 30 days
-ACADEMY_ASSESSMENT_WINDOW_HELP_NEW,"1. House Exam now will be divided into seasons that are made up of an exam period (13 days) and a result display period (1 day).|2. The Exams of 6 Houses will all be available during the exam period. But only the girls in the corresponding faction can be used in the exams. You will have your Exam progress reset and receive rewards according to your progress in this season(before the reset) in the result display period.|3. The Exam for each House has 60 stages, the enemies will be different in each season. You will be able to check the detail of the enemy lineups of each stage by tapping the button in the top right corner of the stage.|4. The Admission Tickets will be refreshed to 10 each day, you can purchase more Admission Tickets with Gems.|5. You will get an additional reward for the first time you pass a stage. This reward won't be refreshed by seasons. (But if you have acquired the reward in the old version of this feature, you will still be able to acquire it again for once in the new version)|6. You will get rewards for passing a stage. You will also be able to raid the passed levels with Certificates for additional rewards.|7. The Certificate you hold will be refreshed to 2 each day. And you will increase your daily Certificate refresh amount to 3/4/5 after passing Stage 9/18/30 in the exam of any one of the 6 Houses.|8. You are able to purchase 10 additional Certificates with Gems (The price of Certificates will increase gradually as you buy more in a day) each day. (Certificate you have will also be refreshed so please use them up in time).|9. The daily refresh time for Admission Tickets and Certificates will be at 0:00 （UTC/GMT 0) every day.|10. You will get Exam Scores for passing (not raiding) stages. You can get 1 Exam Score for passing Stage 1-20, 2 Exam Scores for passing Stage 21-40, and 4 Exam Scores for passing Stage 41-60. You will get different rewards on the result display days according to the total Exam Scores you get|11. The player who gets the highest score in the exam of a House will also get a frame that lasts for 14 days from that house. If multiple players get the same Exam Score in 1 season, their position in the ranking list will be arranged according to the time they pass the test. 10 players at most can get the frame in the exam of a House this way(Which means they will also need to get the same highest scores instead of just being in Top 10 of the ranking list). The rewards will be issued via Mail."
+ACADEMY_ASSESSMENT_WINDOW_HELP_NEW,"1. House Exam now will be divided into seasons that are made up of an exam period (13 days) and a result display period (1 day).|2. The Exams of 6 Houses will all be available during the exam period. But only the girls in the corresponding faction can be used in the exams. You will have your Exam progress reset and receive rewards according to your progress in this season(before the reset) in the result display period.|3. The Exam for each House has 60 stages, the enemies will be different in each season. You will be able to check the detail of the enemy lineups of each stage by tapping the button in the top right corner of the stage.|4. The Admission Tickets will be refreshed to 10 each day, you can purchase more Admission Tickets with Gems.|5. You will get an additional reward for the first time you pass a stage. This reward won't be refreshed by seasons.|6. You will get rewards for passing a stage. You will also be able to raid the passed levels with Certificates for additional rewards.|7. The Certificate you hold will be refreshed to 2 each day. And you will increase your daily Certificate refresh amount to 3/4/5 after passing Stage 9/18/30 in the exam of any one of the 6 Houses.|8. You are able to purchase 10 additional Certificates with Gems (The price of Certificates will increase gradually as you buy more in a day) each day. (Certificate you have will also be refreshed so please use them up in time).|9. The daily refresh time for Admission Tickets and Certificates will be at 0:00 （UTC/GMT 0) every day.|10. You will get Exam Scores for passing (not raiding) stages. You can get 1 Exam Score for passing Stage 1-20, 2 Exam Scores for passing Stage 21-40, and 4 Exam Scores for passing Stage 41-60. You will get different rewards on the result display days according to the total Exam Scores you get|11. The player who gets the highest score in the exam of a House will also get a frame that lasts for 14 days from that house. If multiple players get the same Exam Score in 1 season, their position in the ranking list will be arranged according to the time they pass the test. 10 players at most can get the frame in the exam of a House this way(Which means they will also need to get the same highest scores instead of just being in Top 10 of the ranking list). The rewards will be issued via Mail."
 WISH_GACHA_NUM1,100
 WISH_GACHA_NUM2,200
 WISH_GACHA_NUM3,300
@@ -4144,7 +4144,7 @@ SMASH_EGG_HELP,"1. During the event, rewards can be obtained by cracking 3 types
 LIMITED_TASK_TEXT_01,"During the event, complete the tasks below to obtain its reward. Rewards will be sent via Mail!\nPS: Girls Exchange not included!"
 LIMITED_TASK_HELP,"1. During the event, complete the tasks to obtain their rewards. Each section of rewards can only be acquired once. Rewards sent via Mail.|2. Certain tasks have 2 requirements that will need to be completed in order to obtain the rewards.|3. Girls exchanged from Enroll Exchange or Reverse will not be included."
 SMASH_EGG_TEXT_06,Crack {1} {2}
-LARGE_ACTIVITY_EGG_TEXT,Easter Egg
+LARGE_ACTIVITY_EGG_TEXT,Adrift Message
 BP_LOTTERY_CONFIRM,Use {1} Floral Stamp to claim reward?
 SMASH_EGG_TEXT_07,{1}x
 SMASH_EGG_TEXT_08,Tap the eggs to check the rewards.
@@ -4621,7 +4621,7 @@ PERSON_DRESS_MAIN_11,Special Bonus
 PERSON_DRESS_MAIN_12,Attribute Boost
 PERSON_DRESS_MAIN_13,No Special Boost yet
 PERSON_DRESS_MAIN_14,Attribute Description
-PERSON_DRESS_MAIN_HELP,"1. Courage, Charisma and Knowledge will only take effect in battles of the following features: \nJunior Varsity, Varsity, Elite League,  Guild War (Playground), and Ultimate League.|2. During the battles mentioned above, the system will compare your 3 attributes with those of the opponent. The 3 attributes will be compared separately, and the player with the higher attribute will receive Attribute Bonus in the first 5 Rounds of the battle. The player with the lower attribute will not be affected.\nCourage increases all damage dealt to your enemies, Charisma increases Damage Depletion of your Girls, and Knowledge increases Extra Control Rate, Control Immunity, and Speed of your Girls.|Attribute Difference:|1-99/100-199/200-299/300-499/500-799/800-1299/1300-2099/2100-3399/3400-5499/Above 5500|Courage Bonus:|All damage dealt increased by 1%%/2%%/3%%/4%%/5%%/6%%/7%%/8%%/9%%/10%%|Charisma Bonus:|Damage Depletion increased by 1%%/2%%/3%%/4%%/5%%/6%%/7%%/8%%/9%%/10%%|Knowledge Bonus:|Extra Control Rate increased by 1.5%%/3%%/4.5%%/6%%/7.5%%/9%%/10.5%%/12%%/13.5%%/15%%|Control Immunity increased by 1.5%%/3%%/4.5%%/6%%/7.5%%/9%%/10.5%%/12%%/13.5%%/15%%|Speed increased by 2/4/6/8/10/12/14/16/18/20"
+PERSON_DRESS_MAIN_HELP,"1. Courage, Charisma and Knowledge will only take effect in battles of the following features: \nJunior Varsity, Varsity, Elite League,  Guild War (Playground), and Ultimate League.|2. During the battles mentioned above, the system will compare your 3 attributes with those of the opponent. The 3 attributes will be compared separately, and the player with the higher attribute will receive Attribute Bonus in the first 5 Rounds of the battle. The player with the lower attribute will not be affected.\nCourage increases all damage dealt to your enemies, Charisma increases Damage Depletion of your Girls, and Knowledge increases Extra Control Rate, Control Immunity, and Speed of your Girls.|Attribute Difference:|1-99/100-199/200-299/300-499/500-799/800-1299/1300-2099/2100-3399/3400-5499/Above 5500|Courage Bonus:|All damage dealt increased by 1%%/2%%/3%%/4%%/5%%/6%%/7%%/8%%/9%%/10%%|Charisma Bonus:|Damage Depletion increased by 1%%/2%%/3%%/4%%/5%%/6%%/7%%/8%%/9%%/10%%|Knowledge Bonus:|Extra Control Rate increased by 1.5%%/3%%/4.5%%/6%%/7.5%%/9%%/10.5%%/12%%/13.5%%/15%%|Control Immunity increased by 1.5%%/3%%/4.5%%/6%%/7.5%%/9%%/10.5%%/12%%/13.5%%/15%%|Speed increased by 2/4/6/8/10/12/14/16/18/20 (The bonus will be multiplied by 5.5 in Echoes of Time)"
 PERSON_DRESS_HELP,"1. You can check and adjust what you’re wearing and display it to other players on your profile.|2. You can get and equip different Outfit pieces for Head, Body, Legs, Headwear, and Accessories. You MUST equip Outfit pieces for Head, Body, and Legs.|3. Each piece of Outfit might have 1 or more Styles. Some of the Styles are unlocked once you acquire the piece of Outfit, but the rest of them need to be unlocked with Gems. You can switch between unlocked Styles freely.|4. By obtaining different Outfits pieces, you're able to get additional Courage, Charisma, and Knowledge attributes (you do not have to equip corresponding outfits to get their attribute bonus, you will get the attribute bonus once you obtain the Outfit pieces). You can increase the attribute bonus of the Outfit pieces by upgrading them in Closet. Switching and unlocking Styles will only affect the appearance of the Outfit Piece, and will NOT affect the attribute bonus it provides.|5. There are Special Boosts for some single Outfit pieces or sets of Outfits. Different Outfit Pieces may provide different Boosts. The higher the overall star grade of the Outfit Set is, the better the effects of the Special Boosts will be."
 PERSON_DRESS_MAIN_15,Gallery
 PERSON_DRESS_MAIN_16,No Outfit available
@@ -4787,7 +4787,7 @@ ACTIVITY_POPULARITY_VOTE_SURVEYTEXT13,Miss Yume Skin Election
 DRESS_SUMMON_LABEL_2,Tap to check available Outfits
 DRESS_SUMMON_LABEL_4,Orange Outfit piece in [c][e96516]{1}[-][/c] Draw(s)
 DRESS_SUMMON_LABEL_1,Free Chance available: {1}
-DRESS_SUMMON_LABEL_3,"Rates of acquiring ""Beach Blue"" set"
+DRESS_SUMMON_LABEL_3,"Rates of acquiring\n""Halloween Carnival"" set"
 ACTIVITY_POPULARITY_VOTE_SURVEYTEXT10,Miss Yume\nSkin Election
 ACTIVITY_POPULARITY_VOTE_SURVEYTEXT11,"Senpai, thank you for your support! Hope you enjoy a wonderful time on campus!"
 ONE_KEY_UPLEVEL_TITLE,Quick Upgrade
@@ -4866,7 +4866,7 @@ ACTIVITY_ANTIQUE_LEVELUP_TEXT15,"You have reached the limit of 60,000 Antique Ex
 ACTIVITY_ANTIQUE_LEVELUP_TEXT16,"The chosen Antique is currently\nequipped by another Girl, continue?"
 DAILY_QUIZ_TEXT04,"If you need extra Quiz Chances, please enter\nthe number of Chances you would like to purchase:"
 PUB_MISSION_AUTO_TEXT1,Claim in Bulk
-ENTRANCE_TEST_ARTIFACT_CHOOSE_TIPS,The Orange Antiques available here are the ones that have already been obtained by you at least once.
+ENTRANCE_TEST_ARTIFACT_CHOOSE_TIPS,Some Antiques are available by default. Others will be unlocked once you acquire them in the game.
 ENTRANCE_TEST_PARTNER_NOT_READY,You have chosen Girls that haven't been fully equipped yet in your Team. Would you still like to continue?
 ENTRANCE_TEST_BATTLE_JUMP_SET,Adjust
 ENTRANCE_TEST_PET_EXSKILL,The Ulticore Level of the Servants chosen here will have the same Level as your Servants.
@@ -4903,7 +4903,7 @@ ENTRANCE_TEST_LEVEL_UP_NEED,Required\nRanking
 WARMUP_ARENA_REACH_RANK_HELP,Benefits for Division {1}:|{2}|Benefits for Division {3}:|{4}|Benefits for Division {5}:|{6}
 ENTRANCE_TEST_LEVEL_UP_ING,Results are being calculated...
 WARMUP_ARENA_TASK_INFO_1,New Girl Missions
-WARMUP_ARENA_TASK_INFO_2,Sivney - Returns!
+WARMUP_ARENA_TASK_INFO_2,Aurora - Queen of Northland
 WARMUP_ARENA_TASK_INFO_3,Mission Rewards
 WARMUP_ARENA_TASK_INFO_4,Extra Rewards
 WARMUP_ARENA_TASK_INFO_5,Unlock after completing star-marked missions
@@ -4946,7 +4946,7 @@ ACTIVITY_DRESS_GACHA_AWARD_JUMP,Go
 QUICK_STARS_TEXT05,Graduating
 EQUIP_LEVELUP_TEXT_19,Select the Class Set you want to exchange
 EQUIP_LEVELUP_TEXT_20,Select the Class Set you want to receive
-DRESS_SUMMON_LIMIT_ACT_DESC,"Use Plain Buttons and Fancy Buttons to obtain Outfit pieces in the event. The chance to acquire ""Beach Blue"" Outfit set is increased in this Outfit Sale event."
+DRESS_SUMMON_LIMIT_ACT_DESC,"Use Plain Buttons and Fancy Buttons to obtain Outfit pieces in the event. The chance to acquire pieces from the ""Halloween Carnival"" Outfit set is increased in this Outfit Sale event."
 HOUSE_TEXT_60,Confirm to move the Girl to the current floor?
 HOUSE_TEXT_61,No more girls can stay on this floor!
 HOUSE_TEXT_62,Set yourself in this floor
@@ -5031,7 +5031,7 @@ ACTIVITY_MONTHLY_HIKE_SKILL_3,No Skill available for reset
 ACTIVITY_MONTHLY_HIKE_SKILL_4,Saved successfully
 ACTIVITY_MONTHLY_HIKE_SKILL_5,Skill Reset
 BATTLE_OVER_IS_AUTO_CARD,Flip Cards automatically
-ACTIVITY_MONTHLY_HIKE_HELP,"1. There is a total of 53 Stages in Practical Work. Each challenge consumes 1 Practical Map.|2. Practical Maps can be obtained from Campaign Loot and purchased with Gems.|3. Each battle will give a random amount of rewards. Clear a Stage to receive corresponding rewards in Mail and to unlock the next Stage.|4. After clearing Stage 50, the 3 remaining Stages can be challenged repeatedly. A random amount of rewards will be awarded for every challenge, but no rewards are available for clearing those Stages.|5. Clearing the first 50 Stages will grant Practical Skill Points used to upgrade Practical Skills.|6. Practical Skills will only take effect in Practical Work.|7. The event will be refreshed every 30 days. Event progress and Practical Skill progress will be reset to the default state.|8. The damage dealt by Servants will not be counted towards the damage dealt in each stage."
+ACTIVITY_MONTHLY_HIKE_HELP,"1. There is a total of 53 Stages in Practical Work. Each challenge consumes 1 Practical Map.|2. Practical Maps can be obtained from Campaign Loot and purchased with Gems.|3. Each battle will give a random amount of rewards. Clear a Stage to receive corresponding rewards and to unlock the next Stage.|4. After clearing Stage 50, the 3 remaining Stages can be challenged repeatedly. A random amount of rewards will be awarded for every challenge, but no rewards are available for clearing those Stages.|5. Clearing the first 50 Stages will grant Practical Skill Points used to upgrade Practical Skills.|6. Practical Skills will only take effect in Practical Work.|7. The event will be refreshed every 30 days. Event progress and Practical Skill progress will be reset to the default state.|8. The damage dealt by Servants will not be counted towards the damage dealt in each stage."
 ACTIVITY_MONTHLY_HIKE_SKILL_WINDOW,Practical Skill
 ACTIVITY_MONTHLY_HIKE_SKILL_HELP,"1. Consume Practical Skill Points to upgrade Practical Skills. Upgraded Practical Skills will grant more boosts for your Girls.|2. Practical Skills are classified into 3 different Ranks. Practical Skills in Rank 1 has no requirements to unlock. You will need to use a required number of Practical Skill Points to unlock Practical Skills in Ranks 2 and 3.|3. Certain Practical Skills requires one or more Practical Skills to be upgraded to a certain level before they are unlocked.|4. Practical Skills will only take effect in Practical Work, and will return to the default state when the event is reset.|5. You can reset Practical Skills for free once per season. Resetting Practical Skils manually after the first reset will cost Gems."
 ACTIVITY_MONTHLY_TEXT001,Challenge Rewards
@@ -5040,58 +5040,58 @@ SELECT_ALL_YES,All
 SELECT_ALL_NO,Unselect All
 SELECT_ALL_TEXT01,No choices available now
 ACTIVITY_MONTHLY_TEXT003,Preview
-TIME_CLOISTER_HELP01,時間迴廊幫助文本
-TIME_CLOISTER_HELP02,時間迴廊觀測界面幫助文本
-TIME_CLOISTER_HELP03,時間迴廊星空儀界面幫助文本
-TIME_CLOISTER_HELP04,時間迴廊關卡界面幫助文本
-TIME_CLOISTER_TEXT01,成就
-TIME_CLOISTER_TEXT02,關卡
-TIME_CLOISTER_TEXT03,開始觀測
-TIME_CLOISTER_TEXT04,總觀測進度：
-TIME_CLOISTER_TEXT05,該迴廊暫未開放，敬請期待
-TIME_CLOISTER_TEXT06,時間迴廊「{1}」的探索進度達到80%%後解鎖
-TIME_CLOISTER_TEXT07,該迴廊暫未解鎖
-TIME_CLOISTER_TEXT08,觀測中可能會遭遇戰鬥，請選擇出戰戰姬。根據出戰戰姬的總戰力，增加此次觀測中戰鬥的屬性（出戰戰姬在觀測中無法更改）
-TIME_CLOISTER_TEXT09,正在其他時間迴廊中進行觀測
-TIME_CLOISTER_TEXT10,繼續觀測
-TIME_CLOISTER_TEXT11,是否提前結束此次觀測？
-TIME_CLOISTER_TEXT12,觀測已結束
-TIME_CLOISTER_TEXT13,查看
-TIME_CLOISTER_TEXT14,觀測加速
-TIME_CLOISTER_TEXT15,使用「時間之塵」令觀測加速，加速時會消耗對應數量的「回溯懷錶」
-TIME_CLOISTER_TEXT16,剩餘時間
-TIME_CLOISTER_TEXT17,觀測已結束，無需加速
-TIME_CLOISTER_TEXT18,觀測加速成功
-TIME_CLOISTER_TEXT19,觀測中……
-TIME_CLOISTER_TEXT20,觀測完成，點擊進行結算
-TIME_CLOISTER_TEXT21,補給卡
-TIME_CLOISTER_TEXT22,挑戰卡
-TIME_CLOISTER_TEXT23,事件卡
-TIME_CLOISTER_TEXT24,觀測記錄
-TIME_CLOISTER_TEXT25,補給卡預覽
-TIME_CLOISTER_TEXT26,挑戰卡預覽
-TIME_CLOISTER_TEXT27,事件卡預覽
-TIME_CLOISTER_TEXT28,隱藏未解鎖卡牌
-TIME_CLOISTER_TEXT29,獎勵總覽
-TIME_CLOISTER_TEXT30,補給獎勵
-TIME_CLOISTER_TEXT31,挑戰獎勵
-TIME_CLOISTER_TEXT32,星空儀
-TIME_CLOISTER_TEXT33,觀測結算
-TIME_CLOISTER_TEXT34,數據總覽
-TIME_CLOISTER_TEXT35,觀測時長
-TIME_CLOISTER_TEXT36,戰鬥勝率
-TIME_CLOISTER_TEXT37,觀測得分
-TIME_CLOISTER_TEXT38,結算獎勵
-TIME_CLOISTER_TEXT39,觀測獎勵
-TIME_CLOISTER_TEXT40,消耗「星空碎片·無空之殿」可升級星空儀科技
-TIME_CLOISTER_TEXT41,升級
-TIME_CLOISTER_TEXT42,升級預覽
-TIME_CLOISTER_TEXT43,成就：{1}
-TIME_CLOISTER_TEXT44,在此迴廊中進行觀測，達成下列成就即可提高探索度，探索度達到80%%後可解鎖新的時間迴廊
-TIME_CLOISTER_TEXT45,探索度
-TIME_CLOISTER_TEXT46,關卡：{1}
+TIME_CLOISTER_HELP01,"1. You can get rewards by Observing in Echoes of Time.|2. 1 World of Time will be available by default, where you can send your Girls to start Observing in the World of Time.|3. The total power of the Girls you send will be transferred into “Courage”, “Charisma” and “Knowledge” attributes in this Observation.|4. In the World of Time, your Observation Length will depend on the number of “Clockwork of Memory”. When Observation begins you will obtain the maximum “Clockwork of Memory” where 1 “Clockwork of Memory” will be consumed every 6 minutes.|5. You can speed up reading by consuming “Time Essence”, however, the time sped up will still consume the corresponding number of “Clockwork of Memory”. You are able to obtain “Time Essence” by passing the Stages or completing the achievements in Echoes of Time.|6. You can increase the Observation progress by completing the Achievements in the World of time. Once the Observation progress of a World of Time reaches 85%%, you will be able to unlock the next World of Time.|7. There're multiple stages available in each World of Time, you can unlock the stages by upgrading corresponding technologies in the Planetarium when Observing in the corresponding World of Time."
+TIME_CLOISTER_HELP02,"1. During your Observation in Echoes of Time, every 5 minutes of reading will trigger a random card. Supply Cards, Challenge Cards, or Encounter Cards can be triggered, each type of card has a different effect.|2. When a Supply Card is triggered, you will be able to receive corresponding rewards mentioned on the card after the reading is over.|3. When a Challenge Card is triggered, you will enter a special battle. Your power in the battle is related to your “Courage”, “Charisma”, and “Knowledge” attributes. The 3 attributes mentioned provided by your own Outfit and Planetarium upgrades will be displayed in black, the attribute boost provided by the Girls you dispatch will be displayed in green.|4. You will be awarded randomly according to the battle results in Challenge Cards, a losing reward will be less than a winning reward.|5. When an Encounter Card is triggered, there will be no instant effect, but you will be able to complete some corresponding achievements by triggering Encounter Cards.|6. The Observation will end once you run out of “Clockwork of Memory” or can be ended manually. You will therefore also need to manually end your progress and claim your rewards of this Observation.|7. During the ending phase, you will be able to claim the Observation rewards and the system will conclude your achievement progress. You will also be graded according to the Cards you triggered during this Observation and earn a certain amount of ""Time Shards"" to upgrade technologies of the corresponding World of Time in Planetarium."
+TIME_CLOISTER_HELP03,"1. You will get ""Time Shards"" for this World of Time after completing Observations in this World of Time.|2. There're 2 types of technologies for this World of Time, but both of them would need you to consume ""Time Shards"" to upgrade, some of the technologies will need to be unlocked by meeting certain requirements before you can upgrade them.|3. If you upgrade technology during an Observation, it will take effect starting from the next Observation."
+TIME_CLOISTER_HELP04,"1. There're 11 Stages in each World of Time. The first 10 Stages are normal Stages, the 11th Stages are special Stages. You will consume 1 ""Temporal Chip"" for each challenge attempt.|2. The enemy in each Stage has  “Courage”, “Charisma” and “Knowledge” attribute, your corresponding attributes are provided by your Outfits and Planetarium technologies.|3. The detailed effect of the 3 attributes mentioned in rule no.2 can be seen in the help text of Outfit feature.|4. After passing first each normal Stage, you will get a Stage Pass reward.|5. The enemy in special Stages cannot be actually defeated. Your damage dealt in each challenge attempt will be recorded, and the highest damage you deal in a challenge attempt will be used to compete with other players on a ranking board that will conclude a result and issue you rewards according to your position in the ranking board at 0:00 (UTC/GMT 0) every Friday."
+TIME_CLOISTER_TEXT01,Achievements
+TIME_CLOISTER_TEXT02,Stages
+TIME_CLOISTER_TEXT03,Observe
+TIME_CLOISTER_TEXT04,Progress:
+TIME_CLOISTER_TEXT05,Coming Soon
+TIME_CLOISTER_TEXT06,"Unlock after the Observation Progress of ""{1}"" reaches 85%%"
+TIME_CLOISTER_TEXT07,Locked
+TIME_CLOISTER_TEXT08,"You might encounter battles when observing, please set up your lineup. Your attribute will be increased according to the Girls' total Power. (You can't adjust your lineup when observing)"
+TIME_CLOISTER_TEXT09,Observing in another World of Time
+TIME_CLOISTER_TEXT10,Continue
+TIME_CLOISTER_TEXT11,Confirm to end this observation in advance?
+TIME_CLOISTER_TEXT12,The observation is over
+TIME_CLOISTER_TEXT13,Check
+TIME_CLOISTER_TEXT14,Speed Up
+TIME_CLOISTER_TEXT15,"You can accelerate the Observation by consuming “Time Essence”, the time sped up will still consume the corresponding number of “Clockwork of Memory”."
+TIME_CLOISTER_TEXT16,Remaining time
+TIME_CLOISTER_TEXT17,"Observation is completed, you don't need to speed it up"
+TIME_CLOISTER_TEXT18,Observation accelerated
+TIME_CLOISTER_TEXT19,Observing...
+TIME_CLOISTER_TEXT20,"Observation complete, tap to claim your rewards"
+TIME_CLOISTER_TEXT21,Supply\nCard
+TIME_CLOISTER_TEXT22,Challenge\nCard
+TIME_CLOISTER_TEXT23,Encounter\nCard
+TIME_CLOISTER_TEXT24,Record
+TIME_CLOISTER_TEXT25,Supply Preview
+TIME_CLOISTER_TEXT26,Challenge Preview
+TIME_CLOISTER_TEXT27,Encounter Preview
+TIME_CLOISTER_TEXT28,Hide locked Cards
+TIME_CLOISTER_TEXT29,Rewards Overview
+TIME_CLOISTER_TEXT30,Supply Reward
+TIME_CLOISTER_TEXT31,Challenge Reward
+TIME_CLOISTER_TEXT32,Planetarium
+TIME_CLOISTER_TEXT33,Conclusion
+TIME_CLOISTER_TEXT34,Overview
+TIME_CLOISTER_TEXT35,Length
+TIME_CLOISTER_TEXT36,Win Rate
+TIME_CLOISTER_TEXT37,Total Point
+TIME_CLOISTER_TEXT38,Final Reward
+TIME_CLOISTER_TEXT39,Observation Reward
+TIME_CLOISTER_TEXT40,Use 「Time Shard: Skyless Shrine」 to upgrade the Planetarium in Echoes of Time.
+TIME_CLOISTER_TEXT41,Upgrade
+TIME_CLOISTER_TEXT42,Upgrade Preview
+TIME_CLOISTER_TEXT43,Achievement: {1}
+TIME_CLOISTER_TEXT44,"Complete the following achievements by Observing in this World of Time to increase the Observation Progress, a new World of Time will be unlocked once the Observation Progress reaches 85%%."
+TIME_CLOISTER_TEXT45,Total Progress
+TIME_CLOISTER_TEXT46,Checkpoint：{1}
 TIME_CLOISTER_TEXT47,You need to clear the previous Stage first
-TIME_CLOISTER_TEXT48,需要解鎖此迴廊的星空儀科技「關卡解鎖」
+TIME_CLOISTER_TEXT48,Need to unlock 「Stage Unlock」 in the Planetarium in this World of Time
 PUB_MISSION_AUTO_TEXT001,Insufficient Internship Scrolls
 TIME_CLOISTER_TEXT49,No Record yet
 ACTIVITY_MONTHLY_TEXT004,Would you like to save this upgrade?
@@ -5105,3 +5105,113 @@ ARENA_TEAM_RANK_DESC_NEW,Current Rank： {1} Maintain this rank until the end of
 ACTIVITY_MONTHLY_TEXT008,Remaining Point(s):
 ACTIVITY_MONTHLY_TEXT009,{1} Gems required. Continue?
 ALTAR_INFO_4,Preview
+ACTIVITY_ENTRANCE_TEST_RECORD_HELP,"1. After each fight in Entrance Exam, your points will be increased or deducted according to the current points of you and your opponent. The more points the defeated opponent has than you, the more points you will receive after a victory.|2. If you challenge an opponent and lose the fight, no points will be deducted.|3. If you are challenged by a player, the points given for a win or the points deducted for a defeat will be halved."
+NEW_ARENA_ALL_SERVER_HELP,"
+Ultimate League is a league for all players in the game to compete together.
+Each Season of Ultimate League lasts for 28 days and is divided into 5 phases: Preparation Phase, Points Race, Single Elimination, Finals, and Exhibition Period.|1. Preparation Phase|The first day of each season is the Preparation Phase: players can set up their defense lineup during this period, but they cannot engage in battles.|2. Points Race|(1) During the 2nd – 20th day of each season, players will be able to compete in Points Race.
+(2) Players can challenge other players by consuming League Tickets. If players are dissatisfied with their matched opponents, they can refresh to be matched with new opponents. Each player can refresh 5 times max in a day.
+(3) The 10 most recent Battle Records can be viewed.|3. Divisions|(1) There are 6 Divisions in Score Match: Bronze, Silver, Gold, Diamond, Master, and Grandmaster. Each Division (except Master and Grandmaster) will be separated into 5 grades, players will need to promote their grades from Grade 5 to Grade 1 before advancing to the next Division.
+(2) Players can get promoted by 1 grade for every 100 points. The top 320 players in Master Division will advance to Grandmaster Division.
+(3) Players begin at Bronze Division Grade 5 when first entering the Points Race phase. Their Division and Grade will be reset when a new season of Ultimate League begins. However, players will obtain a one-time bonus in points when a new season starts based on their Division in the last season.|4. Battle Rules|(1) Ultimate League has applied a new set of battle rules. Players\' lineup will be separated into battle lineup and backup lineup. After a battle is over, the undefeated Girls in the players\' battle lineup will stay on the battlefield and their HP will not be automatically healed to 100%%.The system will try and fill the lineup back to a full team by using Girls from the Backup Lineup (the system will prioritize setting Backup Girls in Frontline or Backline based on their positions in the Backup Lineup). Then the next round of battle will begin. It will end once all Girls of a player\'s lineup have been defeated.
+(2)Each Girl can participate in 2 battles at most. If they have not been defeated by then, she will automatically be removed and considered as defeated.
+(3) Players can also set the order of Servants. When a battle is lost, the system will place the Servant selected as second option in battle. If a battle is won, the first Servant will remain in the player\'s lineup.
+(4) Backup Girl number and Servants available will be increased according to the players\' Division:
+Bronze: no backup
+Silver: 2 Frontline backup, 4 Backline backup, 2 Servants
+Gold: 4 Frontline backup, 8 Backline backup, 3 Servants
+Diamond: 8 Frontline backup, 16 Backline backup, 5 Servants
+(5) When challenging other players, the number of slots available in your backup lineup will be adjusted according to your opponent\'s Division.
+(6) If the battle exceeds 15 rounds, Girls remaining will increase their Attack and lower their Heal received each round until the battle is over.|4. Single Elimination & Finals|(1) After Points Race is over, the 320 players in Grandmaster Division will be randomly separated into 5 groups (64 players per group) and enter Single Elimination Phase. If there are less than 320 players but more than 64 players in Grandmaster Division, players from Grandmaster Division will be picked according to their position in the ranking list until the remaining players in Grandmaster Division cannot form a complete group. In this case, they will not enter Single Elimination Phase. If there are less than 64 players in Grandmaster Division, players from other Divisions will be picked according to their position on the ranking list (until there\'re 64 players for the Single Elimination Phase).
+(2) 1 race will be held each day.0:00 to 2:00 (UTC/GMT 0) is the ending period. During the ending period, players cannot set or adjust their lineups.
+(3) Only Girls that can be awakened to 10-star can be deployed in Single Elimination and Finals. During battles, all Girls will have the attributes of their 15-Star form at level 330 and their Elite Skill upgrade progress will be kept. They will also be equipped with a full Angel Set (Girls equipped with Class Set Gears will still equip their original Gears), and have their Crystals set at the highest grade. The Servant deployed will be at level 180, the Servant\'s Aura level will be at level 50, and the Servant\'s Ulticore level will be kept. Guild Lab skills will be fully upgraded. Attributes from Main Center in Excursion, Skins, Antiques originally held by the Girl, the Girl\'s current intimacy boost, and the Girl\'s potential status will be kept. If the girl hasn\'t chosen her potential boost in a slot it will be considered empty.
+During battles, the HP and Attack of every Girl will be multiplied based on their star-grade:|5-Star-50%%, 6-Star-51%%, 7-Star-53%%|8-Star-55%%, 9-Star-60%%, 10-Star-65%%|11-Star-70%%, 12-Star-75%%, 13-Star-80%%|14-Star-90%%, 15-Star-100%%|6. Exhibition|(1) Exhibition will last for 2 days after Finals end.|7. Hall of Fame|(1) The top 8 players from each Single Elimination Group of each season will be recorded in the Hall of Fame.
+(2) Records of players who have won in Ultimate League before the feature is updated will still be taken into account in Rankings.|8. Ultimate League Task|(1) During the Points Race period, players can get rewards by completing Tasks in Ultimate League every day.|9. Seasonal Rewards|(1) After Points Race period is over, players will be awarded according to their current Division.
+Notice: Players will need to start 10 or more battles to receive Seasonal Rewards.
+(2) Once the Finals period is over, limited frames that last for 28 days will be issued to players who entered Finals according to their ranks."
+NEW_ARENA_ALL_SERVER_RANK_1,[c][399d21]Bronze{1}[-][/c]
+NEW_ARENA_ALL_SERVER_RANK_2,[c][6b7a86]Silver{1}[-][/c]
+NEW_ARENA_ALL_SERVER_RANK_3,[c][6b7a86]Gold{1}[-][/c]
+NEW_ARENA_ALL_SERVER_RANK_4,[c][6b7a86]Diamond{1}[-][/c]
+NEW_ARENA_ALL_SERVER_RANK_5,[c][6b7a86]Master{1}[-][/c]
+NEW_ARENA_ALL_SERVER_RANK_6,[c][6b7a86]Grandmaster{1}[-][/c]
+NEW_ARENA_ALL_SERVER_TEXT_1,Score Match
+NEW_ARENA_ALL_SERVER_TEXT_2,Division Ranking
+NEW_ARENA_ALL_SERVER_TEXT_3,Overall Ranking
+NEW_ARENA_ALL_SERVER_TEXT_4,Score
+NEW_ARENA_ALL_SERVER_TEXT_5,Frontline
+NEW_ARENA_ALL_SERVER_TEXT_6,Backline
+NEW_ARENA_ALL_SERVER_TEXT_7,Frontline Backup
+NEW_ARENA_ALL_SERVER_TEXT_8,Backline Backup
+NEW_ARENA_ALL_SERVER_TEXT_9,Unlock after reaching Silver Division
+NEW_ARENA_ALL_SERVER_TEXT_10,Unlock after reaching Gold Division
+NEW_ARENA_ALL_SERVER_TEXT_11,Unlock after reaching Diamond Division
+NEW_ARENA_ALL_SERVER_TEXT_12,Refresh ({1})
+NEW_ARENA_ALL_SERVER_TEXT_13,Current Division:
+NEW_ARENA_ALL_SERVER_TEXT_14,Current Reward:
+NEW_ARENA_ALL_SERVER_TEXT_15,Players will be awarded according to their Divisions after Points Race is over (Requirement: Battle 10 times or more)
+NEW_ARENA_ALL_SERVER_TEXT_16,Skip the animation to get the reward for today
+NEW_ARENA_ALL_SERVER_TEXT_17,Group {1}
+NEW_ARENA_ALL_SERVER_TEXT_18,Won as Champion
+DRIFT_BOTTLE_AWARD_WINDOW,Preview
+DRIFT_BOTTLE_TEXT_01,Reward
+DRIFT_BOTTLE_TEXT_02,Open
+DRIFT_BOTTLE_TEXT_03,Ragged Bottle
+DRIFT_BOTTLE_TEXT_04,Plain Bottle
+DRIFT_BOTTLE_TEXT_05,Decorated Bottle
+DRIFT_BOTTLE_HELP,"1. During the event, rewards can be obtained by opening 3 types of bottles.|2. 1 corresponding bottle will be consumed in order to open it. Random rewards will be obtained by chance.|3. Additional rewards will be sent once a certain amount of corresponding bottles have been opened. Rewards will be sent via Mail.|4. Upon opening Plain Bottles and Decorated Bottles, you will acquire skins that you don't own first (unless a copy of each kind of the skins offered within has already been owned).|5. ""Ragged Bottles"" can be obtained by collecting Daily Mail, purchasing with Gems (can purchase 30 Ragged Bottles with Gems at most), purchasing Mega Value Pack, Count's Mystery Gift, Special Skin Pack, Special Gift Pack, and completing Coral Branch Collection. ""Plain Bottles"" can be obtained by opening ""Ragged Bottles"", purchasing Mega Value Pack, Count's Mystery Gift, Special Skin Pack, Luvly's Elite Supply, and Bottles Adrift Pack. ""Decorated Bottles"" can be obtained by opening ""Plain Bottles"", purchasing Mega Value Pack, Count's Mystery Gift, Special Gift Pack, and Bottles Adrift Pack."
+DRIFT_BOTTLE_TEXT_06,Open {1} {2}(s)
+DRIFT_BOTTLE_TEXT_07,{1}x
+DRIFT_BOTTLE_TEXT_08,Tap the Bottles to check the rewards
+NEW_ARENA_ALL_SERVER_TEXT_19,Top {1}
+DRIFT_BOTTLE_TEXT_09,Join to get new skin!
+WARM_UP_GIFT_TEXT_01,Obtainable in New Girl Missions
+WARM_UP_GIFT_TEXT_02,Go
+DRIFT_BOTTLE_TEXT_10,1x
+NEW_ARENA_ALL_MISSION_REFRESH,Task Refreshed
+NEW_ARENA_ALL_MATCH_ERROR,"Opponent lineup adjusted, please choose another opponent"
+TIME_CLOISTER_TEXT50,Technology I
+TIME_CLOISTER_TEXT51,Technology II
+TIME_CLOISTER_TEXT52,Supply Card
+TIME_CLOISTER_TEXT53,Challenge Card
+TIME_CLOISTER_TEXT54,Encounter Card
+NEW_ARENA_ALL_SERVER_TEXT_20,No reset chance left
+TIME_CLOISTER_MISC,Explore the\nSecrets of Time
+NEW_ARENA_ALL_SERVER_TEXT_21,Countdown:
+NEW_ARENA_ALL_SERVER_TEXT_22,Champion List
+NEW_ARENA_ALL_SERVER_TEXT_23,Champion
+NEW_ARENA_ALL_SERVER_TEXT_24,Single Elimination hasn't begun!
+NEW_ARENA_ALL_SERVER_TEXT_25,Countdown
+WARMUP_ARENA_TASK_INFO_7,Challenge Reward
+ACTIVITY_TRICKORTREAT_BUTTON01,Start
+ACTIVITY_TRICKORTREAT_BUTTON02,Missions
+ACTIVITY_TRICKORTREAT_HELP,"
+1. In this event, Little Witch Apate will drink a Ghost Potion, turn into a Ghost, and pull pranks in the various Houses.
+2. In every Round, Apate will pull pranks in the 6 Houses on the Map. The further away the House is from the starting House, the more rewards she will bring back. When the reward from the final House is received, you will enter the next Round.
+3. Every prank pulled will grant a reward. If the reward includes the Ultimate Reward of the current House, Apate will proceed to the next House. If not, she will retreat to the previous House. If she is at the starting House, she will not retreat any further.
+4. There is a chance for Apate to trigger her hidden Witch Powers as she retreats. This will cause her to stay at the current House.
+5. Every prank pulled will yield points. You can claim a Candy Basket whenever 200 points are obtained.
+6. Ghost Potions can be obtained from the following methods:
+Girls X Capsule Points event
+Completing Missions in Potion Brewing
+Gem Purchase (at most 100 Ghost Potions can be obtained from this method)
+Halloween Surprise, Mega Value Packs, Special Skin Packs, Special Gift Packs
+7. Additional rewards, including Apate\'s Pro Trickster skin, will be sent based on how many pranks Apate pulled.
+8. Candy Pumpkins and Candy Baskets can be used to exchange items in the Store."
+ACTIVITY_TRICKORTREAT_TASK01,"Complete missions to obtain the Ghost Potions needed in the ""Trick or Treat"" event~"
+ACTIVITY_TRICKORTREAT_BUTTON03,Pull 1 Prank
+ACTIVITY_TRICKORTREAT_BUTTON04,Pull 10 Pranks
+ACTIVITY_TRICKORTREAT_TEXT01,Pull {1} more Pranks:
+ACTIVITY_TRICKORTREAT_TEXT02,Reward:
+ACTIVITY_TRICKORTREAT_TIPS,Witch powers triggered! Apate stays at this house.
+ACTIVITY_TRICKORTREAT_AWARDS,Pull {1} Prank(s)
+NEW_ARENA_ALL_SERVER_TEXT_26,Points Race starts in：
+ACTIVITY_TRICKORTREAT_TITLE,Trick or treat!
+TIME_CLOISTER_TEXT55,Observing...
+TIME_CLOISTER_TEXT56,"The Observation is over, awaiting calculation..."
+TIME_CLOISTER_TEXT57,No ongoing Observations
+ACTIVITY_TRICKORTREAT_TEXT03,Preview
+ACTIVITY_TRICKORTREAT_TEXT04,Ultimate Reward
+ACTIVITY_TRICKORTREAT_TEXT05,Regular Rewards
+ACTIVITY_TRICKORTREAT_AWARDS_TITLE,Prank Rewards
+ACTIVITY_TRICKORTREAT_AWARDS_JUMP,Skip animation and get rewards immediately today
+REFRESH_SHOP_TIMES,Refresh

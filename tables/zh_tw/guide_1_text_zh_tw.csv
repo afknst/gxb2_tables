@@ -129,3 +129,6 @@ id,desc,mask_icon,icon_offset,mask_icon_h5,icon_offset_h5
 133,,buttoncrop_8,-1|-1,buttoncrop_8_h5,-1|-1
 134,,,,,
 135,這裡是個性裝扮功能的入口，學長可在此查看或修改自己的個性裝扮~,,,,
+136,,,,,
+137,,buttoncrop_27,0|0,buttoncrop_27_h5,0|0
+138,,,,,

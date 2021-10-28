@@ -1,0 +1,6 @@
+id,mark,obj_id,no_click,record,mask_type,mask_icon,icon_offset,obj_scale,hand_type,is_transition,is_black,dialog_type,position,flip_x,finger_flip,sound,is_dragonbones,window_name,delay_frame
+1,,-1,1,0,,,,,,,,1,0|0,,,0,0,time_cloister_main_window,
+2,,turnTable,1,0,1,time_cloister_guide_1,10|10,,,,,1,100|100,1,,0,0,time_cloister_main_window,
+3,,btnAch,1,0,1,time_cloister_guide_2,9|7,,,,,1,200|100,1,,0,0,time_cloister_main_window,
+4,,btnBattle,1,0,1,time_cloister_guide_2,7|6,,,,,1,-200|100,,,0,0,time_cloister_main_window,
+5,,btnGo,0,0,2,buttoncrop_5,0|0,,0|60,,,1,100|0,1,,0,0,time_cloister_main_window,

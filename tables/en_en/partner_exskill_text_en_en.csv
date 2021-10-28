@@ -1424,11 +1424,11 @@ id,name,skill_name,ex_skill_desc
 751014013,凡赫辛,死訊,"Damage increases to {1} of Attack, each stack of [c][e28002]Blood Thirst[-][/c] damage increases to {2}."
 751014014,凡赫辛,死訊,"Damage increases to {1} of Attack, each stack of [c][e28002]Blood Thirst[-][/c] damage increases to {2}."
 751014015,凡赫辛,死訊,"Damage increases to {1} of Attack, each stack of [c][e28002]Blood Thirst[-][/c] damage increases to {2}, each stack of [c][e28002]Hunter’s Mark[-][/c] Attack increase increases to {3} and Crit Damage increase increases to {4}."
-751014021,凡赫辛,狩獵之弩,"Attack increase increases to {1}, Blood Thurst effect increases to {2} of target's Max HP."
-751014022,凡赫辛,狩獵之弩,"Attack increase increases to {1}, HP increase increases to {2}, Blood Thurst effect increases to {3} of target's Max HP."
-751014023,凡赫辛,狩獵之弩,"Attack increase increases to {1}, HP increase increases to {2}, Blood Thurst effect increases to {3} of target's Max HP."
-751014024,凡赫辛,狩獵之弩,"Attack increase increases to {1}, HP increase increases to {2}, Blood Thurst effect increases to {3} of target's Max HP."
-751014025,凡赫辛,狩獵之弩,"Attack increase increases to {1}, HP increase increases to {2}, Blood Thurst effect increases to {3} of target's Max HP."
+751014021,凡赫辛,狩獵之弩,"Attack increase increases to {1}, Blood Thirst effect increases to {2} of target's Max HP."
+751014022,凡赫辛,狩獵之弩,"Attack increase increases to {1}, HP increase increases to {2}, Blood Thirst effect increases to {3} of target's Max HP."
+751014023,凡赫辛,狩獵之弩,"Attack increase increases to {1}, HP increase increases to {2}, Blood Thirst effect increases to {3} of target's Max HP."
+751014024,凡赫辛,狩獵之弩,"Attack increase increases to {1}, HP increase increases to {2}, Blood Thirst effect increases to {3} of target's Max HP."
+751014025,凡赫辛,狩獵之弩,"Attack increase increases to {1}, HP increase increases to {2}, Blood Thirst effect increases to {3} of target's Max HP."
 751014031,凡赫辛,獵物,Damage increases to {1} of Attack.
 751014032,凡赫辛,獵物,Damage increases to {1} of Attack.
 751014033,凡赫辛,獵物,Damage increases to {1} of Attack.
@@ -1639,3 +1639,23 @@ id,name,skill_name,ex_skill_desc
 753016043,魯班,執念,"Damage capacity increases to {1} of Sivney's Attack, damage increase effect of [c][e28002]Aether Exhaustion[-][/c] increases to {2}"
 753016044,魯班,執念,"Damage capacity increases to {1} of Sivney's Attack, damage increase effect of [c][e28002]Aether Exhaustion[-][/c] increases to {2}"
 753016045,魯班,執念,"Damage capacity increases to {1} of Sivney's Attack, damage increase effect of [c][e28002]Aether Exhaustion[-][/c] increases to {2}, Healing Received reduction effect of [c][e28002]Aether Exhaustion[-][/c] increases to {3}."
+754017011,諾麗絲,寒冰煉獄,Damage increases to {1} of Attack.
+754017012,諾麗絲,寒冰煉獄,Damage increases to {1} of Attack.
+754017013,諾麗絲,寒冰煉獄,"Damage increases to {1} of Attack, chance to [c][01a310]Crystallize[-][/c] increases to {2}, ricochet damage increases to {3} of Attack."
+754017014,諾麗絲,寒冰煉獄,"Damage increases to {1} of Attack, chance to [c][01a310]Crystallize[-][/c] increases to {2}, ricochet damage increases to {3} of Attack."
+754017015,諾麗絲,寒冰煉獄,"Damage increases to {1} of Attack, chance to [c][01a310]Crystallize[-][/c] increases to {2}, ricochet damage increases to {3} of Attack."
+754017021,諾麗絲,榮光之冠,Speed increase increases to {1}.
+754017022,諾麗絲,榮光之冠,Speed increase increases to {1}.
+754017023,諾麗絲,榮光之冠,"Speed increase increases to {1}, HP increase increases to {2}."
+754017024,諾麗絲,榮光之冠,"Speed increase increases to {1}, HP increase increases to {2}."
+754017025,諾麗絲,榮光之冠,"Speed increase increases to {1}, HP increase increases to {2}, Attack increase increases to {3}."
+754017031,諾麗絲,雪魄冰種,Damage increases to {1} of Attack.
+754017032,諾麗絲,雪魄冰種,Damage increases to {1} of Attack.
+754017033,諾麗絲,雪魄冰種,Damage increases to {1} of Attack.
+754017034,諾麗絲,雪魄冰種,Damage increases to {1} of Attack.
+754017035,諾麗絲,雪魄冰種,"Damage increases to {1} of Attack, Poison damage increases to {2} of Attack, HP Restoration increases to {3} of Aurora's maximum HP."
+754017041,諾麗絲,北風加佑,Damage increases to {1} of Attack.
+754017042,諾麗絲,北風加佑,Damage increases to {1} of Attack.
+754017043,諾麗絲,北風加佑,Damage increases to {1} of Attack.
+754017044,諾麗絲,北風加佑,Damage increases to {1} of Attack.
+754017045,諾麗絲,北風加佑,"Damage increases to {1} of Attack, Attack increase increases to {2}."

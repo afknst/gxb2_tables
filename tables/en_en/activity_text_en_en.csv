@@ -186,8 +186,8 @@ id,desc,title
 188,Enroll Bonus,Enroll\nBonus
 189,Puppet Parade,Puppet\nParade
 190,Easter Pack,Easter\nPack
-191,Egg Surprise,Egg\nSurprise
-192,Easter Egg Pack,Easter Egg\nPack
+191,Bottles Adrift,Bottles\nAdrift
+192,Bottles Adrift Pack,Bottles Adrift\nPack
 193,Limited Missions,Limited\nMissions
 195,Gift Code,Gift\nCode
 196,Firework Project,Firework\nProject
@@ -231,6 +231,9 @@ id,desc,title
 235,Outfit Sale,Outfit\nSale
 244,Antique Limited Exchange,Antique\nLimited Exchange
 243,Angel Tea Party,Angel\nTea Party
-246,Practical Experience,Practical\nWork
+246,Practical Work,Practical\nWork
 245,Seaside Fishing,Seaside\nFishing
 247,Beginner Funds,Beginner\nFunds
+248,Trick or Treat,Trick\nor Treat
+249,Potion Brewing,Potion\nBrewing
+250,Halloween Surprise,Halloween\nSurprise

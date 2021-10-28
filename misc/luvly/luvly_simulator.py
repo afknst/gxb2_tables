@@ -357,12 +357,12 @@ def res_analyse(_res, _plot=True):
 if __name__ == '__main__':
     # This is the default value
     START = {
-        "RUDDER": 25 + 10,  # 0-108
+        "RUDDER": 44 + 30,  # 0-108
         "ADV_RUDDER": 1,  # 0-2
         "TILE": 12,  # 0-20, see Tiles indexing
-        "CORAL": 71,  # 0-400
-        "PEARL": 100,  # 0-400
-        "CORAL_LEVELS": (1, 3, 3),  # 1-3 for each
+        "CORAL": 6,  # 0-400
+        "PEARL": 10,  # 0-400
+        "CORAL_LEVELS": (1, 1, 1),  # 1-3 for each
         "CONCH": None,  # None or 1-9, see Conch
     }
     L = Luvly(start=START)

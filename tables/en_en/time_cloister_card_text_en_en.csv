@@ -1,0 +1,88 @@
+id,name,desc
+110101,Basic Supply Lv.1,"After this Observation ends, you will receive a random reward from the following list: Coins/EXP Juice/Crystal Chisels/Lunch Boxes/Gems"
+110102,Basic Supply Lv.2,"After this Observation ends, you will receive a random reward from the following list: Coins/EXP Juice/Crystal Chisels/Lunch Boxes/Gems"
+110103,Basic Supply Lv.3,"After this Observation ends, you will receive a random reward from the following list: Coins/EXP Juice/Crystal Chisels/Lunch Boxes/Gems"
+110104,Basic Supply Lv.4,"After this Observation ends, you will receive a random reward from the following list: Coins/EXP Juice/Crystal Chisels/Lunch Boxes/Gems"
+110105,Basic Supply Lv.5,"After this Observation ends, you will receive a random reward from the following list: Coins/EXP Juice/Crystal Chisels/Lunch Boxes/Gems"
+110106,Basic Supply Lv.6,"After this Observation ends, you will receive a random reward from the following list: Coins/EXP Juice/Crystal Chisels/Lunch Boxes/Gems"
+110201,Plain Button Lv.1,"After this Observation ends, you will receive a certain number of Plain Buttons."
+110202,Plain Button Lv.2,"After this Observation ends, you will receive a certain number of Plain Buttons."
+110203,Plain Button Lv.3,"After this Observation ends, you will receive a certain number of Plain Buttons."
+110204,Plain Button Lv.4,"After this Observation ends, you will receive a certain number of Plain Buttons."
+110205,Plain Button Lv.5,"After this Observation ends, you will receive a certain number of Plain Buttons."
+110206,Plain Button Lv.6,"After this Observation ends, you will receive a certain number of Plain Buttons."
+110301,Plain Silk Lv.1,"After this Observation ends, you will receive a certain number of Plain Silk."
+110302,Plain Silk Lv.2,"After this Observation ends, you will receive a certain number of Plain Silk."
+110303,Plain Silk Lv.3,"After this Observation ends, you will receive a certain number of Plain Silk."
+110304,Plain Silk Lv.4,"After this Observation ends, you will receive a certain number of Plain Silk."
+110305,Plain Silk Lv.5,"After this Observation ends, you will receive a certain number of Plain Silk."
+110306,Plain Silk Lv.6,"After this Observation ends, you will receive a certain number of Plain Silk."
+110401,Dyed Silk Lv.1,"After this Observation ends, you will receive a certain number of Dyed Silk."
+110402,Dyed Silk Lv.2,"After this Observation ends, you will receive a certain number of Dyed Silk."
+110403,Dyed Silk Lv.3,"After this Observation ends, you will receive a certain number of Dyed Silk."
+110404,Dyed Silk Lv.4,"After this Observation ends, you will receive a certain number of Dyed Silk."
+110405,Dyed Silk Lv.5,"After this Observation ends, you will receive a certain number of Dyed Silk."
+110406,Dyed Silk Lv.6,"After this Observation ends, you will receive a certain number of Dyed Silk."
+120101,Challenge · I,"In Lv. 1 Challenge Battles, Outfit Attributes (Courage, Charisma, and Knowledge) will be transformed into Battle Attributes."
+120102,Challenge · I (Victory),Obtained full rewards for your Victory in Lv. 1 Challenge Battle.
+120103,Challenge · I (Defeat),Obtained half rewards for your Defeat in Lv. 1 Challenge Battle.
+120201,Challenge · II,"In Lv. 2 Challenge Battles, Outfit Attributes (Courage, Charisma, and Knowledge) will be transformed into Battle Attributes."
+120202,Challenge · II (Victory),Obtained full rewards for your Victory in Lv. 2 Challenge Battle.
+120203,Challenge · II (Defeat),Obtained half rewards for your Defeat in Lv. 2 Challenge Battle.
+120301,Challenge · III,"In Lv. 3 Challenge Battles, Outfit Attributes (Courage, Charisma, and Knowledge) will be transformed into Battle Attributes."
+120302,Challenge · III (Victory),Obtained full rewards for your Victory in Lv. 3 Challenge Battle.
+120303,Challenge · III (Defeat),Obtained half rewards for your Defeat in Lv. 3 Challenge Battle.
+130101,Luna · I,"I was heavily injured and unconscious when Raphael found me near the mountains. She brought me back to Yume Academy and took care of me until I healed. However, when I woke up, the only thing I remembered was my name."
+130102,Luna · II,"All I have is my name: Luna. Aside from that, I have no memories, no belongings, and no friends. There's no one here for me…I'm so lonely here."
+130103,Luna · III,"A person called ""Senpai"" told me that I am no different from any other girl in the Academy. He invited me to become an official student of the Academy, and even gave me a bunny!"
+130104,Luna · IV,"Senpai's name isn't Senpai, and he told me his name (oﾟ▽ﾟ)o I gave him some snacks I made, will he like them?"
+130105,Luna · V,"Senpai suggested that I join the Baking Club, so it seems like he liked the snacks after all! The Club members are kind and children often visit us for snacks. I don't feel lonely anymore."
+130106,Luna · VI,"A tall girl, Angelica, visited us for snacks today. She doesn't look like a child. Hey! Don't laugh at her, Frexie, even grown-ups can have a snack now and then!"
+130107,Luna · VII,"I have a feeling that someone is looking at me, but when I look around, the only person I find is Angelica. But it can't be her: a grown-up that likes sweets and snacks so much can't be a bad person!"
+130201,Blowie · I,"It's been an entire week since I'm here at Yume Academy, and I can't take it anymore~ I like it here, but not having large baths are killing me."
+130202,Blowie · II,"I skipped classes and explored the Academy today. This place is like a prison, with no recreation facilities at all! All I want is a nice bathhouse…"
+130203,Blowie · III,"If there are no bathhouses here, I'll build one myself! But it's so tiring, and I want to have a nice long bath~"
+130204,Blowie · IV,"Another day of working on my dream bathhouse. The first thing to do is to dig out a foundation…wait, what is that thing? A dirty oil lamp?"
+130205,Blowie · V,"I dreamed that a pretty girl emerged from the oil lamp, promising me one wish. I wished for a huge bathhouse. I hope it really appears when I wake up!"
+130206,Blowie · VI,"Oh my, my dream bathhouse is really there! I'll go in right away. Wait a minute, where has the lamp gone?"
+130207,Blowie · VII,"There are so many new buildings in Yume Academy now! Music Venues, Game Centers, and is that a Casino? I wonder who has the lamp now…"
+130301,Angel · I,"I need to purify the demons! It's been three months since my arrival at the Academy, but I have not purified any demons yet. I need to get a grip and start doing my job! By the way, what exactly are demons again?"
+130302,Angel · II,"I seem to be ignoring the obvious: there is a Demon House right in front of my eyes! Take this, Lucifer!"
+130303,Angel · III,"Michael started an hour-long rant that just ended now. All I wanted to do was to exorcise the demons, but Michael is never wrong. Am I mistaken…?"
+130304,Angel · IV,"I promised Michael to not cause any trouble, but that doesn't mean I accept those of House Demon as my own. I'm definitely not working with them on this expedition…wait a minute, where am I?"
+130305,Angel · V,"What a day: I got lost in the wilderness and it started raining cats and dogs. What's worse, a ghost appeared in front of me. Thankfully I had some holy water with me to expel it…is that Wraith from House Demon?"
+130306,Angel · VI,Wraith is very kind: she lead the way back to the Academy even if I was the one that hurt her. I didn't even have time to apologize properly before I fell unconscious due to a fever.
+130307,Angel · VII,I visited House Demon to express my thanks. I don't seem to dislike the students in House Demon as much now…
+130401,Fenrir · I,"I dragged my beat and battered body back home after another fight with a God. Dinner was ready, and Mother urged me to have some delicious roasted dragon."
+130402,Fenrir · II,"I am not born from Mother's womb; her child by blood has long passed away. When I was about to be killed by the Gods, Mother traded her powers as the Divine Wolf for my life and took me under her wing."
+130403,Fenrir · III,"Despite Mother's protection, the Gods still sought for my life; after all, I am the one destined to end the Gods' reign over the world."
+130404,Fenrir · IV,"Fewer attempts are made on my life lately. It seems like the Gods' attention is focused on the mundane planet, where the humans raged war against them. Can humans truly be worthy opponents for Gods? I can't wait to find out myself."
+130405,Fenrir · V,"Human warriors are stronger than I expected; I had a rather satisfying battle with a green-haired knight. If even a regular human warrior has such strength, I'd love to witness the power of their chief. I'm having high expectations for you, Ruler of the Suns."
+130406,Fenrir · VI,"Ruler of the Suns, pfft, how did you ascend to immortality from being a mere mortal? You fit the description of the prophecy even more than I do. But this is not about the prophecy; let's test our strengths against each other, shouldn't we?"
+130407,Fenrir · VII,Scorching air woke me up from the darkness. How long have I been out for…? All I can see is the huge form of Mother and the golden flames devouring the heavens. The humans have won the war.
+130501,Raphael · I,"Medical Record 1: Ithil, Team Leader of Squad 11 in Regiment Alpha, underwent leg surgery today. Her calm was unmoving even when she must be feeling extreme pain. She is one of the few that doesn't need to be knocked out before surgery."
+130502,Raphael · II,"Medical Record 2: Three Soldiers-in-training suffered puncture wounds to the stomach. They really show no mercy in training, don't they? Well, tough luck: the Medical Department doesn't show any mercy too."
+130503,Raphael · III,Another comrade didn't make it through. She was woken forcefully by the pain during the operation and it had to be paused halfway. If only there is a method to stop the patients from feeling pain…
+130504,Raphael · IV,"After consulting with a coworker in the Medical Department, I learned about Ember Lilies, a poisonous plant that paralyzes the human body. However, it is fatal when taken directly."
+130505,Raphael · V,"I acquired some seeds of the Ember Lily and tried planting them. However, I can't weaken the poison for it to be safe for the human body…"
+130506,Raphael · VI,A friend brought me some research notes about the plant; perhaps she once looked into its potential as well. It helped tremendously with my research.
+130507,Raphael · VII,The experiment is a success! The new anesthetic should be available for use soon. I can't wait to share the good news with my friend!
+130601,Teresa · I,"The Father taught me everything I needed to know, and I always looked up to him. However, with the number of disciples dwindling, he has to preach on the streets instead of in the church where he should be."
+130602,Teresa · II,The few disciples we have feign devotion and break every Commandment there is when the Father isn't looking. I've seen them with my own eyes.
+130603,Teresa · III,"I ""persuaded"" people to visit our church through unorthodox means. The Father seems content, and I am as well for seeing him like that. The church is indeed where he belongs."
+130604,Teresa · IV,"He was upset because he found out about what I did, but all I wanted was to see him smile. He just doesn't understand…words don't hold any power, but he refuses to listen…"
+130605,Teresa · V,Why is he upset? Is it because the disciples are here due to threats and bribery instead of his precious preachings?
+130606,Teresa · VI,"The holy text and the commandments of the Deity he believes in hold no power over the people, but violence does. He finally understands, but he left…"
+130607,Teresa · VII,"Some students in the Academy still preach about whatever doctrine that no one but themselves cares about. Trust me, I know by experience."
+130701,Bud Elf · I,"The season when the roses wilt immediately after they bloom has finally passed! Look at the Golden Mustard bushes, aren't the flowers pretty? No, Susan, they cannot be used in the kitchen. Golden Mustards are roses!"
+130702,Bud Elf · II,"Monica, the newcomer, looks at me weirdly, but I don't care! My flower friends are the best!"
+130703,Bud Elf · II,"Hey! Stop running beside the flower fields, they will be hurt if you step on them! I'm not lying, they have feelings too!"
+130704,Bud Elf · IV,"I shouldn't have talked about the plants talking to those people, they keep insinuating that I'm lying or out of my mind. I like Saint, she doesn't do any of these things."
+130705,Bud Elf · V,"Saint says that she believes me that plants have feelings! I'll give her a bunch of buttercups tomorrow, I hope she can hear them speaking as I do!"
+130706,Bud Elf · VI,"Hehe, it's okay, Saint, I stopped caring about how the others talk about me. I think I'm used to it now."
+130707,Bud Elf · VII,"My strength? I'm not really sure where it came from…it makes people scared of me? I never thought about it, because I'm happy as long as I can stay with my flower friends."
+130801,Point x1,Obtain 1 Point. (The total number of Points obtained in this Observation will be calculated towards completing corresponding Achievements.)
+130901,Point x2,Obtain 2 Points. (The total number of Points obtained in this Observation will be calculated towards completing corresponding Achievements.)
+131001,Point x4,Obtain 4 Points. (The total number of Points obtained in this Observation will be calculated towards completing corresponding Achievements.)
+131101,Point x8,Obtain 8 Points. (The total number of Points obtained in this Observation will be calculated towards completing corresponding Achievements.)
+131201,Point x16,Obtain 16 Points. (The total number of Points obtained in this Observation will be calculated towards completing corresponding Achievements.)
