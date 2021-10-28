@@ -2,7 +2,7 @@
 
 Last update: `Oct_28_2021`.
 
-Game version: `1.5.144`.
+Game version: `1.5.145`.
 
 # References
 
