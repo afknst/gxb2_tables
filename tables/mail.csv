@@ -205,4 +205,5 @@ id,name,from,content,date_num,connect_type,window_go
 205,-1,-1,-1,,,
 206,-1,-1,-1,,arena_all_server_rank_text#desc,
 207,-1,-1,-1,,,
-208,-1,-1,-1,,,
+208,-1,-1,-1,,arena_all_server_award#rank,
+209,-1,-1,-1,,,

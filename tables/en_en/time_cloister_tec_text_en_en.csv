@@ -1,9 +1,9 @@
 id,name,desc,unlock
 1,Observation Length · 1,Increases your initial Clockwork of Memory number by {1} when observing in this World of Time.,
-2,Observation Length · 2,Increases your initial Clockwork of Memory number by {1} when observing in this World of Time.,"Requirement: Upgrading ""Observation Length · 1"" to level 2, reach 500 Courage"
-3,Observation Length · 3,Increases your initial Clockwork of Memory number by {1} when observing in this World of Time.,"Requirement: Upgrading ""Observation Length · 2"" to level 3, reach 1000 Courage"
-4,Observation Length · 4,Increases your initial Clockwork of Memory number by {1} when observing in this World of Time.,"Requirement: Upgrading ""Observation Length · 3"" to level 3, reach 1500 Courage"
-5,Observation Length · 5,Increases your initial Clockwork of Memory number by {1} when observing in this World of Time.,"Requirement: Reach 1700 Courage, Charisma and Knowledge"
+2,Observation Length · 2,Increases your initial Clockwork of Memory number by {1} when observing in this World of Time.,"Requirement: Upgrading ""Observation Length · 1"" to level 2, reach 500 Courage (The attribute boost provided by your Girls is not included)"
+3,Observation Length · 3,Increases your initial Clockwork of Memory number by {1} when observing in this World of Time.,"Requirement: Upgrading ""Observation Length · 2"" to level 3, reach 1000 Charisma (The attribute boost provided by your Girls is not included)"
+4,Observation Length · 4,Increases your initial Clockwork of Memory number by {1} when observing in this World of Time.,"Requirement: Upgrading ""Observation Length · 3"" to level 3, reach 1500 Knowledge (The attribute boost provided by your Girls is not included)"
+5,Observation Length · 5,Increases your initial Clockwork of Memory number by {1} when observing in this World of Time.,"Requirement: Reach 1700 Courage, Charisma and Knowledge (The attribute boost provided by your Girls is not included)"
 6,Basic Supply · 1,"When triggering Supply Card ""Basic Supply"", increase the card level by 1 to offer you more rewards",
 7,Basic Supply · 2,"When triggering Supply Card ""Basic Supply"", increase the card level by 1 to offer you more rewards",Requirement: Observation Progress of this World of Time reaches 10%
 8,Basic Supply · 3,"When triggering Supply Card ""Basic Supply"", increase the card level by 1 to offer you more rewards",Requirement: Observation Progress of this World of Time reaches 20%
@@ -46,5 +46,5 @@ id,name,desc,unlock
 45,Knowledge · 4,"When you challenge Stages in this World of Time or trigger Challenge Cards in the future, increase your Knowledge by {1}.","Requirement: upgrade ""Charisma · 4"" to Lv.5 or upgrade ""Knowledge · 3"" to Lv.5"
 46,Speed Reading,"Upgrade to get {1} ""Time Essences"" to speed up the process of reading in Echoes of Time",
 47,Card Unlock · 1,"Unlock Encounter Card ""Points"" that can provide you more points, when triggering Encounter Card ""Points"", have chance to increase the points it provides",
-48,Card Unlock · 2,"Unlock Challenge Card ""Challenge · II""","Requirement: Reach 1000 Courage, Charisma and Knowledge"
-49,Card Unlock · 3,"Unlock Challenge Card ""Challenge · III""","Requirement: Reach 2000 Courage, Charisma and Knowledge"
+48,Card Unlock · 2,"Unlock Challenge Card ""Challenge · II""","Requirement: Reach 1000 Courage, Charisma and Knowledge (The attribute boost provided by your Girls is not included)"
+49,Card Unlock · 3,"Unlock Challenge Card ""Challenge · III""","Requirement: Reach 2000 Courage, Charisma and Knowledge (The attribute boost provided by your Girls is not included)"

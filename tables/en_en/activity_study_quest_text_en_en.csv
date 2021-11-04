@@ -119,33 +119,57 @@ id,text,option1,option2,option3
 12030005,"In Monster House, when a Girl is stunned, N-Gen Iron Fist can deal damage based on the target’s Max HP. Which Antique below best suits N-Gen Iron Fist?","Neutron Blades (increases Attack, Speed, Control Rate)","Echoes (increases Attack, Speed, Block)","Wings of Icarus (increases Precision, Attack, Skill Damage)"
 12030006,"In Monster House, Skye can increase the Speed of her allies. Which of the following below would Skye make a good support?","Girls that become stronger as the battle lasts, such as Kratos, Von Helsing and Trinity.","Girls that rely on counterattack and Block to deal damage such as Fenrir, Sonya and Turin.","Girls who are more effective in their first moves such as Vivian, Izanami, and Apate."
 12030007,"In Monster House, once Nia is defeated, she can Poison all enemies. Which of the following below is best teamed with Nia?",Pandaria (Deals additional damage to Poisoned enemies),Alice (Deals additional damage to Warrior enemies),Amelia (Can Petrify enemies and steal Energy)
-11060001,Who was the examiner for House Fairy during the admission ceremony?,Yuri,KongMing,Aquaris
-11060002,"According to Kong Ming, which of the following characteristics does House Fairy welcome the most?",Honest,Independent,Smart
-11060003,Which House Fairy Girl has a hairstyle that looks like a cute mushroom?,Yuri,Joan,Lavia
-11060004,"After a day's work, you return to your dorm, and find that your room is extremely tidy. Who's the Girl that cleans up your dorm for you?",Mio,Aquaris,Vera
-11060005,A Girl walks through the grass and leaves her half-eaten bread on the ground. And then Bud Elf stops her. Which of the following sentences do you think she would most probably say?,What a waste! You cannot just leave food on the ground and walk away!,You're already late! Let me check the school rules and see how to get you punished!,How dare you step on my neat grass! Are you looking for a fight?
-11060006,What's the name of the Crystal on Krystal's tail?,Miracle Crystal,Philosopher's Stone,The eye of Vulcan
-11060007,A new restaurant is opened in the academy. The owner is now looking for a Girl to promote her restaurant. Which Girl would be suitable for the job?,Mio,Krystal,Joan
-11060008,Who is the Girl that is responsible for the house budget calculation and payment confirmation in House Fairy?,KongMing,Vera,Beary
-11060009,"Before entering Yume Academy, Mio was the witch of a tribe consisting mainly of which type of Servant?",Hunter,Flora,Deerling
-11060010,Aquaris admires another Girl in the academy as she once saved her from Chaos Creatures. Who is that Girl?,Guan Yin,Iron Fist,Sonya
-11060011,Which association does KongMing belong to?,Discipline Committee,Student Union,D.E.F
-11060012,"United Force is an army founded by ""Li"" to fight against Chaos. Ithil, Valeera, Phoenix were all members of the army. Which Regiment of United Force did Linky belong to?",Regiment Beta,Regiment Delta,Regiment Alpha
-11060013,Lucifer is the lead singer of Shining Band. Which of the following Girls are also members of the band?,Nani & Amazon,Bud Elf & KongMing,Kassy & Linky
-11060014,"In House Fairy, Joan started a band with Sonya and Guan Yin. What's the name of this band?",The Apple,The Peach,The Banana
-11060015,"Holly is afraid of doing almost everything, but becomes bold and romantic when talking about what?",Freedom,Life,Love
-11060016,"Vera's culinary skills are ready to rival that of a deadly weapon, but she has not given up after countless attempts. In order to make dishes that replenish energy, she consulted a Girl. Who is that Girl?",Scythe,Raphael,Priestess
-11060017,"Kassy is a born killer, but she finds it hard to continue her previous lifestyle after arriving at Yume Academy, making her lose to another Girl in the competition of assassination skills. Who is this Girl?",Blair,Ithil,Wraith
-11060018,KongMing is truly afraid of being lonely and needs friends. But she joins the Music Club only because she wants to track down a song that she occasionally hears. She finally makes friends with the Girl who plays the song. Who is this Girl in the story?,Apate,Michael,Sapphire
-11060019,Which of the following would Mio most likely say?,"Omnomnom, bring me more food! I’m still hungry!",Meow~ Dried fish tastes so delishes!,"If you are late again, I shall PUNISH you~"
-11060020,A technology conference is held in House Monster to further study Sivney's inventions. Which Girl in House Fairy is suitable for the conference?,Krystal,Amazon,KongMing
-12060001,"During battle, which house does House Fairy gain boost from Faction Rivalry?",House Ghost,House Monster,House Human
-12060002,What would happen when a Girl from House Fairy attacks a Girl from House Human?,30% Additional damage and 15% Precision increase.,Gains extra 15% Crit and extra 25% Crit Damage,There will be no special boosts.
-12060003,If there are 6 Girls from House Fairy in the team. What aura effect will the team gain?,"+20% HP, +18% Precision","+20% HP, +15% Attack","+20% HP, +30% Block Rate"
-12060004,What is Hornet Mark’s effect?,The enemy carrying Hornet Mark(s) will take more damage,Other enemies will receive additional damage when an enemy carrying Hornet Mark(s) gets hit.,Deal damage to all other enemies when an enemy carrying Hornet Mark(s) is defeated.
-12060005,A Girl in House Fairy is able to randomly remove 1 Control Effect from herself. Who is this Girl?,Kassy,KongMing,Holly
-12060006,It's usually a good idea to Silence the enemies and stop them from triggering their Active Skills. Which of the following Girls is able to make that happen?,Amazon,Mio,Aquaris
-12060007,"Mio is able to Burn her enemies when dealing Basic Attacks, triggering her Active Skills or when controlled. Which one of the following Girls can thus team up with Mio?",Empress Saint,Sapphire,Gabriel
-12060008,"Among the Assassins in House Fairy, there's a Girl who can deal great damage to her enemies while healing herself and her allies. Who is this Girl?",Linky,Kassy,Himoto
-12060009,Vera is able to Diminish her enemies. The Diminished enemies will take more damage and deal less damage. But when does the Diminished enemies take additional damage?,When dealing Basic Attacks,When getting Burned,When controlled
-12060010,"When an enemy gets Crystalized, what can she do?",Trigger Active Skills/Deal Basic Attacks,Hunt or Counterattack,Nothing
+11040001,Who was the examiner for House Fairy during the admission ceremony?,Yuri,KongMing,Aquaris
+11040002,"According to Kong Ming, which of the following characteristics does House Fairy welcome the most?",Honest,Independent,Smart
+11040003,Which House Fairy Girl has a hairstyle that looks like a cute mushroom?,Yuri,Joan,Lavia
+11040004,"After a day's work, you return to your dorm, and find that your room is extremely tidy. Who's the Girl that cleans up your dorm for you?",Mio,Aquaris,Vera
+11040005,A Girl walks through the grass and leaves her half-eaten bread on the ground. And then Bud Elf stops her. Which of the following sentences do you think she would most probably say?,What a waste! You cannot just leave food on the ground and walk away!,You're already late! Let me check the school rules and see how to get you punished!,How dare you step on my neat grass! Are you looking for a fight?
+11040006,What's the name of the Crystal on Krystal's tail?,Miracle Crystal,Philosopher's Stone,The eye of Vulcan
+11040007,A new restaurant is opened in the academy. The owner is now looking for a Girl to promote her restaurant. Which Girl would be suitable for the job?,Mio,Krystal,Joan
+11040008,Who is the Girl that is responsible for the house budget calculation and payment confirmation in House Fairy?,KongMing,Vera,Beary
+11040009,"Before entering Yume Academy, Mio was the witch of a tribe consisting mainly of which type of Servant?",Hunter,Flora,Deerling
+11040010,Aquaris admires another Girl in the academy as she once saved her from Chaos Creatures. Who is that Girl?,Guan Yin,Iron Fist,Sonya
+11040011,Which association does KongMing belong to?,Discipline Committee,Student Union,D.E.F
+11040012,"United Force is an army founded by ""Li"" to fight against Chaos. Ithil, Valeera, Phoenix were all members of the army. Which Regiment of United Force did Linky belong to?",Regiment Omega,Regiment Sigma,Regiment Alpha
+11040013,Lucifer is the lead singer of Shining Band. Which of the following Girls are also members of the band?,Nani & Amazon,Bud Elf & KongMing,Kassy & Linky
+11040014,"In House Fairy, Joan started a band with Sonya and Guan Yin. What's the name of this band?",The Apple,The Peach,The Banana
+11040015,"Holly is afraid of doing almost everything, but becomes bold and romantic when talking about what?",Freedom,Life,Love
+11040016,"Vera's culinary skills are ready to rival that of a deadly weapon, but she has not given up after countless attempts. In order to make dishes that replenish energy, she consulted a Girl. Who is that Girl?",Scythe,Raphael,Priestess
+11040017,"Kassy is a born killer, but she finds it hard to continue her previous lifestyle after arriving at Yume Academy, making her lose to another Girl in the competition of assassination skills. Who is this Girl?",Blair,Ithil,Wraith
+11040018,KongMing is truly afraid of being lonely and needs friends. But she joins the Music Club only because she wants to track down a song that she occasionally hears. She finally makes friends with the Girl who plays the song. Who is this Girl in the story?,Apate,Michael,Sapphire
+11040019,Which of the following would Mio most likely say?,"Omnomnom, bring me more food! I’m still hungry!",Meow~ Dried fish tastes so delishes!,"If you are late again, I shall PUNISH you~"
+11040020,A technology conference is held in House Monster to further study Sivney's inventions. Which Girl in House Fairy is suitable for the conference?,Krystal,Amazon,KongMing
+12040001,"During battle, which house does House Fairy gain boost from Faction Rivalry?",House Ghost,House Monster,House Human
+12040002,What would happen when a Girl from House Fairy attacks a Girl from House Human?,30% Additional damage and 15% Precision increase.,Gains extra 15% Crit and extra 25% Crit Damage,There will be no special boosts.
+12040003,If there are 6 Girls from House Fairy in the team. What aura effect will the team gain?,"+20% HP, +18% Precision","+20% HP, +15% Attack","+20% HP, +30% Block Rate"
+12040004,What is Hornet Mark’s effect?,The enemy carrying Hornet Mark(s) will take more damage,Other enemies will receive additional damage when an enemy carrying Hornet Mark(s) gets hit.,Deal damage to all other enemies when an enemy carrying Hornet Mark(s) is defeated.
+12040005,A Girl in House Fairy is able to randomly remove 1 Control Effect from herself. Who is this Girl?,Kassy,KongMing,Holly
+12040006,It's usually a good idea to Silence the enemies and stop them from triggering their Active Skills. Which of the following Girls is able to make that happen?,Amazon,Mio,Aquaris
+12040007,"Mio is able to Burn her enemies when dealing Basic Attacks, triggering her Active Skills or when controlled. Which one of the following Girls can thus team up with Mio?",Empress Saint,Sapphire,Gabriel
+12040008,"Among the Assassins in House Fairy, there's a Girl who can deal great damage to her enemies while healing herself and her allies. Who is this Girl?",Linky,Kassy,Himoto
+12040009,Vera is able to Diminish her enemies. The Diminished enemies will take more damage and deal less damage. But when does the Diminished enemies take additional damage?,When dealing Basic Attacks,When getting Burned,When controlled
+12040010,"When an enemy gets Crystallized, what can she do?",Trigger Active Skills/Deal Basic Attacks,Hunt or Counterattack,Nothing
+11060001,Who was the examiner for House Angel during the admission ceremony?,Michael,Raphael,Gabriel
+11060002,There is a huge harp in the classroom. Whose could it be?,Phoenix,Gabriel,Uriel
+11060003,"According to Michael, which of the following qualities are most valued in House Angel?",Freedom,Mysteriousness,Righteousness
+11060004,Who was the senior representative when Iron Fist and Aquaris joined Yume Academy?,Michael,Phoenix,Angel
+11060005,Which of the following House Angel students don't have wings?,Angel,Angelica,Phoenix
+11060006,Which of the following House Angel students is a member of the Night Patrol disguised as a news reporter?,Raphael,Uriel,Gabriel
+11060007,Luna is in trouble. Who is most likely to help her?,Angelica,Dracula,Scythe
+11060008,Michael had another name aside from Nephilim in mind when she and Lucifer fused together. Which one is it?,Lucifael,Mifer,Lumi
+11060009,"If a student is injured in an Attack from Chaos, where should Senpai bring her to for medical aid?",The Library,The Classrooms,The Infirmary
+11060010,"You heard sounds of people arguing, but there is only one person nearby when you looked around. Who might she be?",Raphael,Angelica,Nephilim
+11060011,The United Forces of Yume was established by Li to fight against Chaos and eventually became the Yume Academy that we know today. Which Regiment of the United Force did Phoenix belong to?,Regiment Omega,Regiment Sigma,Regiment Beta
+11060012,Raphael is a master in Potions and Medicine and crafted an extremely potent potion that became her signature. Which one of the following is it?,Resurrection Potion,Anesthetic,Neurotoxin
+11060013,Senpai first met Phoenix at Grand Library Ulbricht when she was revenging her lost comrades. Who was the one that she attacked?,Turin,Ithil,Kratos
+11060014,"Angel is obsessed with cleanliness and hates filth and evilness. She washes three times a day, and she hates a certain type of dark-colored dessert. Which of the following might that be?",Chocolate Cake,Mango Cake,Strawberry Cake
+11060015,"You are reading in the Library when you notice Phoenix passing by for the third time. When you ask why is she walking around the Library instead of reading, she replies:","Senpai, notice me!",I'm lost again...,You're it!
+11060016,"You are taking a stroll on campus when you see a beautiful girl sitting below a tree. You walk closer and find out that she is Raphael, reading a book. What might be the title of the book?",100 Baked Snacks: The Baking Book,The Ultimate Guide to Horses,Rare Herbs and Where to Find Them
+11060017,"You are taking a stroll on campus when you see a beautiful girl sitting below a tree. You walk closer and find out that she is Luna, reading a book. What might be the title of the book?",100 Baked Snacks: The Baking Book,The Ultimate Guide to Horses,Rare Herbs and Where to Find Them
+11060018,"You are taking a stroll on campus when you see a beautiful girl sitting below a tree. You walk closer and find out that she is Uriel, reading a book. What might be the title of the book?",100 Baked Snacks: The Baking Book,The Ultimate Guide to Horses,Rare Herbs and Where to Find Them
+12060001,"During battle, which house does House Angel gain boosts from Faction Rivalry?",House Demon,House Fairy,House Monster
+12060002,Which aura effect will you trigger when you have 6 Girls from House Angel in the same team?,"Attack +20%, Precision +18%","HP +20%, Damage Reduction +25%","Armor Break +35%, Block +30%"
+12060003,A Girl will deal damage one round after she releases her Active Skill. Who is she?,Gabriel,Uriel,Angelica
+12060004,"Luna's Active Skill ""Holy Light"" stuns her enemy. Which House Angel student will be immune to this Control Effect?",Phoenix,Nephilim,Angel
+12060005,An enemy who has a high HP attribute faces you. Which girl from the following can deal damage based on the maximum HP of the enemy and is most likely to be of help?,Raphael,Nephilim,Selene
+12060006,Which House Angel Student has resurrection abilities?,Angel,Luna,Michael

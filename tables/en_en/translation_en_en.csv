@@ -1994,7 +1994,7 @@ JUMP_GAME_TARGET_POINT,Target: {1} Points
 PACK_FEEDBACK_TEXT01,"You have bought a [c][fff799]{1}[-][/c], \nand have received the following items:"
 PACK_FEEDBACK_TEXT02,Tap anywhere to close
 ARENA_ALL_SERVER_TEXT_1,Hall of Fame
-ARENA_ALL_SERVER_TEXT_2,Qualifying Round
+ARENA_ALL_SERVER_TEXT_2,Single Elimination
 ARENA_ALL_SERVER_TEXT_3,Finals
 ARENA_ALL_SERVER_TEXT_4,Not listed in Hall of Fame yet
 ARENA_ALL_SERVER_TEXT_5,Bet
@@ -2043,7 +2043,7 @@ IMG_GUIDE_JUMP_GAME_7,Will disappear shortly after Valeera steps on it
 IMG_GUIDE_JUMP_GAME_8,Valeera will lose intellect when it is stepped on
 IMG_GUIDE_JUMP_GAME_9,Valeera will [c][cc0011]bounce[-][/c] when she steps on it
 IMG_GUIDE_JUMP_GAME_10,Will force Valeera to move left or right when on it
-ARENA_ALL_SERVER_ROUND_TEXT_0,Group Matches
+ARENA_ALL_SERVER_ROUND_TEXT_0,Single Elimination
 ARENA_ALL_SERVER_TEXT_28,Defense Team
 ARENA_ALL_SERVER_TEXT_29,Are you sure you want to support this player with [c][d48a9d]{1} Coins[-][/c]?
 ARENA_ALL_SERVER_TEXT_30,You can only support yourself in the Finals!
@@ -2056,7 +2056,7 @@ ARENA_ALL_SERVER_OPEN,The feature will be unlocked after：
 ARENA_ALL_SERVER_TEXT_31,The Finals haven't started yet!
 ARENA_ALL_SERVER_TEXT_32,Support Rate
 VOW_SWAP_TIPS,One of these Girls has Oath status with you. The process will consume the Girl and WILL NOT return her Oath Ring. Do you wish to continue?
-CANDY_COLLECT_HELP,"1. Collect Sky Lanterns to exchange rewards with the girls.|2. Tap on a girl to view their rewards exchange page.|3. Tap the “+” icon next to the Sky Lantern icon to view details and acquire methods.|4. Once a reward has been exchanged from each girl further rewards can then be exchanged.|5. Sky Lanterns can be earned by completing the tasks below:|---Get 1 Sky Lantern for each 5-star girl obtained during the event|---Get 5 Sky Lanterns for each 6-star girl obtained during the event|---Get 1 Sky Lantern for each 4+star internship quest completed|---Get 1 Sky Lantern for every 5 Junior Varsity battles|Note: Girls obtained from Enroll – Exchange and girl Reverse is excluded.|6. Once event ends, remaining Sky Lanterns will automatically be exchanged into Coins at a rate of 15K Coins each. Exchange will be sent via Mail."
+CANDY_COLLECT_HELP,"1. Collect Lanterns to exchange rewards with the girls.|2. Tap on a girl to view their rewards exchange page.|3. Tap the “+” icon next to the Lantern icon to view details and acquire methods.|4. You can exchange a second reward from the same girl after one reward has been exchanged from every girl.|5. Lanterns can be earned by completing the tasks below:|---Get 1 Lantern for each 5-star girl obtained during the event|---Get 5 Lanterns for each 6-star girl obtained during the event|---Get 1 Lantern for each 4+star internship quest completed|---Get 1 Lantern for every 5 Junior Varsity battles|Note: There is a limit on how many times the tasks can be completed. Furthermore, Girls obtained from Enroll – Exchange and Girl Reverse will not count towards completing the event tasks.|6. Once event ends, remaining Lanterns will automatically be exchanged into Coins at a rate of 15K Coins each. The Coins will be sent via Mail."
 CANDY_COLLECT_TEXT_1,You can exchange another reward here after you've exchanged a reward from each girl
 CANDY_COLLECT_TEXT_2,Are you sure to exchange this reward?
 CANDY_COLLECT_TEXT_3,Exchange a reward from every girl to exchange a second reward here!
@@ -2305,7 +2305,7 @@ POTENTIALITY_BACK_TITLE,Reverse
 POTENTIALITY_BACK_TEXT01,Preview
 POTENTIALITY_BACK_TEXT02,Reverse
 PUPPET_PARTNER_NO_CLICK,"Dolls are not available in Graduate, Awake, Limit Break and Skin"
-POTENTIALITY_BACK_WINDOW_HELP,"1. Girls from 1-Star to 5-Star and 7-Star to 10-Star can be Reversed (including those who have Limit-Break status)|2. Dolls are not able to be Awakened, Exchanged, Reversed, Transferred, given Gifts or placed in a Dorm.|3. Gear and Antiques of a Girl who is Reversed will automatically be sent back to Bag.|4. Reverse Rules: |1-Star to 5-Star: the namesake Girl at their original star rank|7-Star Girl Reversal: five 5-Star Dolls of the Reversed Girl's Faction + 2 namesake 5-Star Girls|8-Star Girl Reversal: seven 5-Star Dolls of the Reversed Girl's Faction + 2 namesake 5-Star Girls|9-Star Girl Reversal: one 6-Star Doll of the Reversed Girl's Faction + eight 5-Star Dolls of the Reversed Girl's Faction + 3 namesake 5-Star Girls|10-Star Girl Reversal: two 9-Star Dolls of the Girl's Faction + 5 namesake 5-Star Girls|Limit-Break Stage 1 Girl Reversal: three 9-Star Dolls of the Reversed Girl's Faction + 6 namesake 5-Star Girls|Limit-Break Stage 2 Girl Reversal: four 9-Star Dolls of the Reversed Girl's Faction + 7 namesake 5-Star Girls|Limit-Break Stage 3 Girl Reversal: one 10-Star Doll and four 9-Star Dolls of the Reversed Girl's Faction + 7 namesake 5-Star Girls|Limit-Break Stage 4 Girl Reversal: two 10-Star Dolls of the Reversed Girl's Faction + four 9-Star Dolls of the Reversed Girl's Faction + 8 namesake 5-Star Girls|Limit-Break Stage 5 Girl Reversal: three 10-Star Dolls of the Reversed Girl's Faction + four 9-Star Dolls of the Reversed Girl's Faction + 9 namesake 5-Star Girls|5. Reversing 1-Star to 5-Star Girls will return all resources used on the Girl. Reversing 7-Star to 10-Star Girls WILL NOT RETURN Coins used to level up the Girl; EXP Juice and Lunch Boxes from the Reversed Girl will be PARTIALLY returned. Coins and Crystal Chisels will also be partially returned according to the level of the Reversed Girl's Crystal.|6. Intimacy and Oath will be returned to one of the namesake Girls after being reversed.|7. 5/9/10 Star Dolls received from a Reverse won't be counted for the Monthly Event ""Graduate and Awake""."
+POTENTIALITY_BACK_WINDOW_HELP,"1. Girls from 1-Star to 5-Star and 7-Star to 10-Star can be Reversed (including those who have Limit-Break status). Dolls are not able to be Awakened, Exchanged, Reversed, Transferred, given Gifts or placed in a Dorm.|2. Gear and Antiques of a Girl who is Reversed will automatically be sent back to Bag.|3. Reverse Rules: |1-Star to 5-Star: the namesake Girl at their original star rank|7-Star Girl Reversal: five 5-Star Dolls of the Reversed Girl's Faction + 2 namesake 5-Star Girls|8-Star Girl Reversal: seven 5-Star Dolls of the Reversed Girl's Faction + 2 namesake 5-Star Girls|9-Star Girl Reversal: one 6-Star Doll of the Reversed Girl's Faction + eight 5-Star Dolls of the Reversed Girl's Faction + 3 namesake 5-Star Girls|10-Star Girl Reversal: two 9-Star Dolls of the Girl's Faction + 5 namesake 5-Star Girls|Limit-Break Stage 1 Girl Reversal: three 9-Star Dolls of the Reversed Girl's Faction + 6 namesake 5-Star Girls|Limit-Break Stage 2 Girl Reversal: four 9-Star Dolls of the Reversed Girl's Faction + 7 namesake 5-Star Girls|Limit-Break Stage 3 Girl Reversal: one 10-Star Doll + four 9-Star Dolls of the Reversed Girl's Faction + 7 namesake 5-Star Girls|Limit-Break Stage 4 Girl Reversal: two 10-Star Dolls of the Reversed Girl's Faction + four 9-Star Dolls of the Reversed Girl's Faction + 8 namesake 5-Star Girls|Limit-Break Stage 5 Girl Reversal: three 10-Star Dolls of the Reversed Girl's Faction + four 9-Star Dolls of the Reversed Girl's Faction + 9 namesake 5-Star Girls|4. Reversing 1-Star to 5-Star Girls will return all resources used on the Girl. Reversing 7-Star to 10-Star Girls WILL NOT RETURN Coins used to level up the Girl; EXP Juice and Lunch Boxes from the Reversed Girl will be PARTIALLY returned. Coins and Crystal Chisels will also be partially returned according to the level of the Reversed Girl's Crystal. When a Girl at 10-Star or above is reversed, ALL resources used to upgrade her Elite Skills will be returned.|5. Reversing 1-5-Star Girls is free. Reversing 7/8/9-Star Girls will cost 400/600/800 Gems respectively. Reversing Girls at 10-Star or above will cost 5 Diplomas for each Reversal.|6. Intimacy and Oath will be returned to one of the namesake Girls after being reversed.|7. 5/9/10 Star Dolls received from a Reverse won't be counted for the Monthly Event ""Graduate and Awake""."
 POTENTIALITY_BACK_TEXT03,This is irreversible. Are you sure you want to do this?
 POTENTIALITY_BACK_ALTAR_TIP,Dolls cannot be transferred
 SUBSCRIPTION_RECOVER,Recover
@@ -4272,10 +4272,10 @@ FAIR_ARENA_DEMO,Demo Battle
 FAIR_ARENA_EXPLORE,Explore
 FAIR_ARENA_FREE_EXPLORE,Free
 FAIR_ARENA_EXPLORE_LIMIT,Remaining chances: [c][e7724d]{1}[-][/c]
-FAIR_ARENA_HELP1,"1. This event runs for [c][DE512B]6 days[-][/c] during which players can earn great rewards during each Exploration.|2. Once the event ends, additional rewards can be obtained according to your ranking.|3. The Girls, buff, and Antiques obtained in each Exploration will only be valid during that Exploration.|4. [c][DE512B]6[-][/c] Exploration chances will be given on the first day of the event, thereafter [c][DE512B]2[-][/c] Exploration chances will be given each day.|5. Materials will not be consumed in the first two Explorations but [c][DE512B]400 Gems[-][/c] will be required per Exploration thereafter.|6. The event also offers [c][DE512B]5[-][/c] Demo Battle chances if you wish to experience a practice round of Ancient City Battle first. Demo Battle will not consume any materials but rewards from Chests will also not be earned."
-FAIR_ARENA_TIPS_EXPLORE_LIMIT,Insufficient Exploration chances!
+FAIR_ARENA_HELP1,"1. This event runs for [c][DE512B]6 days[-][/c] during which players can earn great rewards for each Exploration in the Ancient City.|2. Once the event ends, additional rewards can be obtained according to your ranking.|3. The Girls, buff, and Antiques obtained in each Exploration will only be valid during that Exploration.|4. Starting an Exploration will cost 1 golden Pickaxe. When you fail in a battle the Golden Pickaxe will be consumed. You can choose to resurrect yourself by paying Gems and continue your exploration or end the exploration and claim your reward.|5. Free Golden Pickaxes will be available after a certain amount of time has passed since the start of the event. Extra Golden Pickaxes can also be purchased with Gems.|6. The event also offers [c][DE512B]5[-][/c] Demo Battle chances if you wish to experience a practice round of Ancient City Battle first. Demo Battle will not consume any Pickaxes but rewards from Chests will also not be earned."
+FAIR_ARENA_TIPS_EXPLORE_LIMIT,You need more Golden Pickaxes!
 FAIR_ARENA_TIPS_DIAMONDS,Insufficient Gems! Unable to Explore!
-FAIR_ARENA_TIPS_EXPLORE_FIRST,"Chances to Explore are rare, head to Demo Battle for a practice round first!"
+FAIR_ARENA_TIPS_EXPLORE_FIRST,The Pickaxes used to Explore are rare. Would you like to practice for free in [c][DE512B]Demo Battle[-][/c] first?\n(Rewards from Chests will not be earned in Demo Battle)
 FAIR_ARENA_TIPS_DEMO,Confirm to Explore in Demo Battle mode? Demo Battle will not consume materials and Chest rewards will not be earned.\nYou currently have {1} Demo Battle chance left.
 FAIR_ARENA_TIPS_DEMO_LIMIT,Insufficient chances to enter Demo Battle!
 FAIR_ARENA_RANK_WINDOW,Ranking
@@ -4307,12 +4307,12 @@ FAIR_ARENA_SUCCESS,Victory
 FAIR_ARENA_FAILURE,Defeat
 FAIR_ARENA_GIVEUP,Quit
 FAIR_ARENA_DESC_END,Chest found!
-FAIR_ARENA_TIPS_REVIVE,"After losing a battle, one Digging Hoe will be consumed to dig up a Chest of the current level."
+FAIR_ARENA_TIPS_REVIVE,"This Golden Pickaxe will be consumed after you fail in a battle. If you don't want to continue your exploration, you will claim rewards from the current level Chest."
 FAIR_ARENA_TIPS_END,"Are you sure you want to quit this round of battle?\nAfter quitting, the winning results of this current Exploration will be tallied."
-FAIR_ARENA_TIPS_REVIVE_UNLOCK1,"Use {1} Gems to unlock a new Digging Hoe? After unlocking, you can add another Girl to your team and continue this journey."
-FAIR_ARENA_TIPS_REVIVE_UNLOCK2,"Unlock a new Digging Hoe? After unlocking, you can find higher-grade Chests. (Unlocking Digging Hoes in Demo Battle will not consume Gems.)"
-FAIR_ARENA_NOTES_REVIVE,New Digging Hoe Can Be Unlocked!
-FAIR_ARENA_TIPS_REVIVE_LIMIT,Digging Hoes depleted!
+FAIR_ARENA_TIPS_REVIVE_UNLOCK1,Confirm to pay {1} Gems and resurrect? You will be able to continue your exploration and add a new Girl to your team after you resurrect.
+FAIR_ARENA_TIPS_REVIVE_UNLOCK2,"Do you need to unlock a Silver Pickaxe? After unlocking it, you will be able to resurrect yourself after a failed battle and continue your exploration. (You won't need to pay Gems when you do this in a Demo Battle)"
+FAIR_ARENA_NOTES_REVIVE,Purchase Silver Pickaxe to continue!
+FAIR_ARENA_TIPS_REVIVE_LIMIT,Pickaxes depleted!
 FAIR_ARENA_DEMO_ABBR,Demo
 FAIR_ARENA_GROUP_BUFF,Aura
 FAIR_ARENA_TIPS_BUFF_UNLOCK,Unlock buff effect in round {1}
@@ -4347,7 +4347,7 @@ FAIR_ARENA_DESC_SETTLE_DEMO,The event is over! The result of Demo Battle is auto
 FAIR_ARENA_TIPS_REVIVE_NO,End
 FAIR_ARENA_TIPS_REVIVE_YES,Unlock
 FAIR_ARENA_GOTO_EXPLORE,Continue
-FAIR_ARENA_GOTO_DEMO,Go
+FAIR_ARENA_GOTO_DEMO,Demo Battle
 ACTIVITY_TIME_REFRESH_TIPS,The rewards are refreshed!
 FAIR_ARENA_TITLE_GIFT,Lv.{1} Chest
 MONTHLY_CARD_OFFER_FIRST,First Time\nDiscount
@@ -5215,3 +5215,24 @@ ACTIVITY_TRICKORTREAT_TEXT05,Regular Rewards
 ACTIVITY_TRICKORTREAT_AWARDS_TITLE,Prank Rewards
 ACTIVITY_TRICKORTREAT_AWARDS_JUMP,Skip animation and get rewards immediately today
 REFRESH_SHOP_TIMES,Refresh
+FAIR_ARENA_OPEN_BACK_PACK_TIPS,Tap a Girl's avatar to check her details and equip her with a suitable Antique!
+FAIR_ARENA_OPEN_BACK_PACK_TIPS2,Don't remind again (during this event)!
+PARTNER_CHALLENGE_CHESS_TEXT01,Trial
+PARTNER_CHALLENGE_CHESS_TEXT02,Trial Challenge
+PARTNER_CHALLENGE_CHESS_TEXT03,Buffs
+PARTNER_CHALLENGE_CHESS_TEXT04,Complete the Trial Challenge of Stage 4-9 to remove the buff effects of the boss in the current stage
+PARTNER_CHALLENGE_CHESS_TEXT05,Complete Trial Challenge to remove 1 of the buff effects of the boss in Stage 10
+PARTNER_CHALLENGE_CHESS_TEXT06,Remove after passing {1} Trial(s)
+FAIR_ARENA_GET_HOE_TIME_EXPLAIN,Gain {1} free Golden Pickaxe(s) in:
+FAIR_ARENA_GET_HOE_EXPLAIN,Every Exploration costs 1 Golden Pickaxe!
+FAIR_ARENA_GET_HOE_BUY_TIMES_YET,Remaining Chances：
+FAIR_ARENA_GET_HOE_BUY_HELP,1. Starting an Exploration will cost 1 Golden Pickaxe.|2. 2 free Golden Pickaxes are available when the event starts. 1 free Golden Pickaxe will become available at 0:00(GMT：0) of the 3rd day and the 5th day of the event.|3. 2 Golden Pickaxes can be purchased every day with Gems. Unpurchased Golden Pickaxes can be purchased later in the event.|4. The price for purchasing Golden Pickaxes will gradually increase with each purchase until the price reaches 400 Gems.
+FAIR_ARENA_GET_HOE_TITLE,Purchase Golden Pickaxe
+FAIR_ARENA_GET_HOE_NONE_TIPS,You have no Golden Pickaxe left! Do you need a new one?
+FAIR_ARENA_GET_HOE_TIME_END,Time Remaining:
+FAIR_ARENA_GET_HOE_SHOW_TIME_NO,Cannot purchase Pickaxes during Results phase!
+FAIR_ARENA_GET_HOE_SHOW_TIMES_NONE,You have purchased all available Pickaxes now!
+FAIR_ARENA_GET_HOE_BUY_TIPS,"The first 3 purchases cost 100, 200, and 300 Gems. From the 4th purchase, each Golden Pickaxe will cost 400 Gems.\nThis purchase will cost your [c][2587e2]{1}[-][/c] Gems, confirm to continue?"
+PARTNER_CHALLENGE_CHESS_TEXT07,"Mika's Character Challenge is in Chess Mode:||1. In Chess mode, use the Chess Tickets you get from the battles to refresh the store and purchase the Girls you need. Only the Girls acquired this way can be used in this mode.|2. If you have 3 identical Girls, the 3 Girls will fuse into a stronger Girl, and you will also get a free refresh chance for this. The 3 girls that show up by this refresh will all be elite Girls, but the store will be refreshed again once you purchase one of the 3 elite Girls refreshed this way.|3. Method to acquire Chess Tickets: Fight in your current Stage, Convert the Girls you don't need.|4. In this mode, your Girls can still be used even if they lost in a battle, but you will still lose Sanity for losing (and the amount of Sanity you lose depends on the number of enemies remaining when you are defeated). Once your Sanity turns 0, you will not be able to fight.|5. There is a Trial Challenge available in each stage from Stage 4 to Stage 9. You will need to clear the Stage while completing the requirements listed in Trial Challenge to complete it.|6. The Boss of Stage 10 has 6 Buffs. Whenever you complete one Trial Challenge, the Boss will lose one Buff, lowering the difficulty of Stage 10.|7. After clearing the Stage, you can repeat the battles. If you completed the requirements when doing so, the Trial Challenge of the Stage will also be completed. However, if the battles are lost, Sanity and Challenge Coupons will be lost as well."
+FAIR_ARENA_TIPS_REVIVE_2,"After purchasing a Silver Pickaxe, you can resurrect yourself after a failed battle and continue your exploration."
+PARTNER_CHALLENGE_CHESS_TEXT08,Reward

@@ -87,7 +87,7 @@ id,name,from,content
 86,Rewards for Live Show,System Message,"Congratulations for unlocking the hard mode for all the songs in Live Show, you've successfully acquired the Rolling Beat skin of Hexa!"
 87,Live Show Rank Reward,System Message,"Congratulations for reaching rank {1} in the Hard mode of all the songs in Live Show, your rewards are attached!"
 88,Ultimate League Open,System Message,"Dear Senpai, the new season of Ultimate League has started! You can join in the bet after Qualifying Round starts~"
-89,Single Elimination Notice,System Message,Congratulations for entering the Single Elimination phase Ultimate League! Please adjust your lineup and prepare for the Single Elimination Phase!
+89,Single Elimination Notice,System Message,Congratulations on entering the Single Elimination phase of Ultimate League! Please adjust your lineup and prepare for the Single Elimination Phase!
 90,Bet Lost,System Message,"Unfortunately, player {1} failed to win this round in the Ultimate League. Please stay tuned to the following matches!"
 91,Bet Won,System Message,"Congratulations, player {1} won in this round! Please collect your rewards for winning the bet~"
 92,Chapter Clear Reward,System Message,"Congratulations! You have cleared Chapter {1} in Observer in Library, here are your rewards!"
@@ -213,3 +213,4 @@ Yuki apologizes for the inconvenience, for any further queries, please don’t h
 206,Points Race Reward,System Message,"Dear Senpai, congratulations on reaching Rank {1} in the Points Race phase of Ultimate League, here's your reward!"
 207,Ultimate League Rank Reward,System Message,"Dear Senpai, congratulations on winning the championship of the current season of Ultimate League! Congratulations! Here is the limited Frame for the champion! It will be available for 28 days, try it on now!"
 208,Ultimate League Rank Reward,System Message,"Dear Senpai, congratulations on reaching Top {1} of the current season of Ultimate League! Congratulations! Here is your limited Frame for your efforts! It will be available for 28 days, try it on now!"
+209,Ancient City Supply,Event Mail,"Iron Fist has prepared a Golden Pickaxe for you! Now it's time to get the rewards in the event ""Ancient City Battle"" with them!"

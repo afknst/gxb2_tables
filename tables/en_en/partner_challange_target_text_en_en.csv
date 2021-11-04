@@ -1,0 +1,7 @@
+id,name,desc
+1,24,At least {1} Girls in your team survives the battle
+2,25,"Inflict Bleed, Poison, and Burn effect once each to the enemies during battle."
+3,26,A Girl in your lineup takes more than {1} damage.
+4,27,The total HP loss of your team is lower than 30% of maximum HP
+5,28,The total Heal amount of your team reaches {1}.
+6,29,Inflict Control effect to the enemies {1} times during battle

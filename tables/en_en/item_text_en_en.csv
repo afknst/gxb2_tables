@@ -1520,7 +1520,7 @@ id,name,brief,desc
 27060,Tricky Yokai,Skins,Tricky Yokai skin of Gambler
 67,Pumpkin,Event Material,Used to exchange rewards in Halloween Preparation event. It cannot be exchanged after the event. Please use it during the event.
 999999999,Candy Heist,,Candy Heist skin of Ennmaya
-99999999,Candy Heist,,Candy Heist skin of Ennmaya
+99999999,Random Halloween Carnival Outfit Chest,Random Chest,"You can get a random Outfit piece of ""Halloween Carnival"" set for opening this chest."
 7062,Sweet Magic,Skins,Sweet Magic skin of Lavia
 27062,Sweet Magic,Skins,Sweet Magic skin of Lavia
 68,Book Spirit,Event Material,Exclusive item that can be exchanged for rewards during its corresponding event.
@@ -2937,7 +2937,7 @@ This book was only an experimental product that was created with well-known stor
 208,Key of Memory,Story Unlock,Used to unlock stories in Memories
 7153,Violet Prophecy,Skins,Violet Prophecy skin of Amelia
 27153,Violet Prophecy,Skins,Violet Prophecy skin of Amelia
-209,Sky Lantern,Event Material,Exclusive item that can be exchanged for rewards during its corresponding event
+209,Lantern,Event Material,Exclusive item that can be exchanged for rewards during its corresponding event
 7154,Doll Tradition,Skins,Doll Tradition skin of Ennmaya
 27154,Doll Tradition,Skins,Doll Tradition skin of Ennmaya
 210,Blue Magic Box,Resource Box,"You can get one of the following rewards randomly by opening this box: 「Lunch Box * 15000, Servant Cookie * 6000, Spirit Cookie * 1000, Lunch Box * 20000, Crystal Chisel * 20000, Orange Antique Exclusive Shard * 50」"
@@ -4200,3 +4200,16 @@ This book was only an experimental product that was created with well-known stor
 4101033,5-Star Customized Chest,Customized Chest,You can select to get 50 shards of a certain 5-Star Girl from Ghost/Human/Monster/Fairy Faction for opening this chest. (The options for this chest won't be updated in the future)
 4601001,Customized Halloween Outfit Chest,Customized Chest,"You can select to get an Outfit piece of ""Halloween Carnival"" Set for opening this chest"
 300,Halloween Gift Box,Resource Box,"You can get one of the following rewards randomly by opening this box: 「Gems*200, Candy Basket*1」"
+301,Golden Pickaxe,Event Material,"Event material, used in event ""Ancient City Battle"".\n\n※This item will be removed after the event ends"
+99999998,Random Sword & Soul Outfit Chest,Random Chest,"You can get a random Outfit piece of ""Sword and Soul"" set for opening this chest."
+99999997,Random Celestial Outfit Chest,Random Chest,"You can get a random Outfit piece of ""Celestial"" set for opening this chest."
+99999996,Random Fluffy Animals Outfit Chest,Random Chest,"You can get a random Outfit piece of ""Fluffy Animals"" set for opening this chest."
+7219,Floral Knight,Skins,Floral Knight skin of Uriel
+27219,Floral Knight,Skins,Floral Knight skin of Uriel
+4201016,Customized Resource Chest,Customized Chest,"You can select to get one of the following rewards for opening this chest:「Coin*400000, Exp Juice*400000, Lunch Box*300, Crystal Chisel*300, Servant Cookie*300, Spirit Cookie*60, Servant Crystal*30, League Ticket*5」"
+7220,Ribbon Twist,Skins,Ribbon Twist skin of Frexie
+27220,Ribbon Twist,Skins,Ribbon Twist skin of Frexie
+9313,Hmm?,Chat emoji,「Hmm?」chat emoji of Mika
+4601002,Customized Sword and Soul Outfit Chest,Customized Chest,"You can select to get an Outfit piece of ""Sword and Soul"" Set for opening this chest"
+4601003,Customized Celestial Outfit Chest,Customized Chest,"You can select to get an Outfit piece of ""Celestial"" Set for opening this chest"
+4601004,Customized Fluffy Animals Outfit Chest,Customized Chest,"You can select to get an Outfit piece of ""Fluffy Animals"" Set for opening this chest"
