@@ -165,3 +165,7 @@ id,name,lv_limit,function_id,stage,go_window,go_params,is_close,close_win_name,l
 166,-1,0,,,activity_window,select:249,1,,,
 167,-1,0,,,activity_window,select:250,1,,,
 168,-1,0,,,,,,,,
+169,-1,0,,,activity_window,"select:254,activity_type2:1",1,,,
+170,-1,0,,,activity_window,select:252,1,,,
+171,-1,0,,,activity_window,select:253,1,,,
+172,-1,0,,,activity_window,select:251,1,,,

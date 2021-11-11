@@ -26,10 +26,10 @@ id,name,desc_1,desc_2,desc_4,desc_5,desc_6,desc_11,activity_id,rank,charge,curre
 25,-1,Weekly Package 4,Pack Hebdomadaire 4,-1,-1,주간 팩 4,Wochenpaket 4,3,0,69.99,,0,,,3500,3500,10025,5,-1,,,com.carolgames.moemoegirls.weekgift4,69.99,,,,,,604800,1,,1,0,0,
 200,-1,Weekly Package 5,Pack Hebdomadaire 5,-1,-1,주간 팩 5,Wochenpaket 5,3,0,79.99,,0,,,4000,4000,10200,5,-1,,,com.carolgames.moemoegirls.weekgift5,79.99,,,,,,604800,1,,1,0,0,
 201,-1,Weekly Package 6,Pack Hebdomadaire 6,-1,-1,주간 팩 6,Wochenpaket 6,3,0,99.99,,0,,,5000,5000,10201,5,-1,,,com.carolgames.moemoegirls.weekgift6,99.99,,,,,,604800,1,,1,0,0,
-26,-1,Value Package 1,Pack de Grande Valeur 1,-1,-1,슈퍼 팩 1,Superpaket 1,12,0,99.99,,0,,,5000,5000,10026,8,-1,,,com.carolgames.moemoegirls.overflow1,99.99,,,,,,604800,8,,1,0,0,
-27,-1,Value Package 2,Pack de Grande Valeur 2,-1,-1,슈퍼 팩 2,Superpaket 2,12,0,69.99,,0,,,3500,3500,10027,8,-1,,,com.carolgames.moemoegirls.overflow2,69.99,,,,,,604800,8,,1,0,0,
-28,-1,Value Package 3,Pack de Grande Valeur 3,-1,-1,슈퍼 팩 3,Superpaket 3,12,0,29.99,,0,,,1500,1500,10028,8,-1,,,com.carolgames.moemoegirls.overflow3,29.99,,,,,,604800,7,,1,0,0,
-29,-1,Value Package 4,Pack de Grande Valeur 4,-1,-1,슈퍼 팩 4,Superpaket 4,12,0,9.99,,0,,,500,500,10029,8,-1,,,com.carolgames.moemoegirls.overflow4,9.99,,,,,,604800,5,,1,0,0,
+26,-1,Value Package 1,Pack de Grande Valeur 1,-1,-1,슈퍼 팩 1,Superpaket 1,12,0,99.99,,0,,,5000,5000,10026,8,-1,,,com.carolgames.moemoegirls.overflow1,99.99,,,,,,604800,7,,1,0,0,
+27,-1,Value Package 2,Pack de Grande Valeur 2,-1,-1,슈퍼 팩 2,Superpaket 2,12,0,69.99,,0,,,3500,3500,10027,8,-1,,,com.carolgames.moemoegirls.overflow2,69.99,,,,,,604800,6,,1,0,0,
+28,-1,Value Package 3,Pack de Grande Valeur 3,-1,-1,슈퍼 팩 3,Superpaket 3,12,0,29.99,,0,,,1500,1500,10028,8,-1,,,com.carolgames.moemoegirls.overflow3,29.99,,,,,,604800,5,,1,0,0,
+29,-1,Value Package 4,Pack de Grande Valeur 4,-1,-1,슈퍼 팩 4,Superpaket 4,12,0,9.99,,0,,,500,500,10029,8,-1,,,com.carolgames.moemoegirls.overflow4,9.99,,,,,,604800,4,,1,0,0,
 30,-1,Value Package 5,Pack de Grande Valeur 5,-1,-1,슈퍼 팩 5,Superpaket 5,12,0,4.99,,0,,,250,250,10030,8,-1,,,com.carolgames.moemoegirls.overflow5,4.99,,,,,,604800,4,,1,0,0,
 31,-1,Value Package 1,Pack de Grande Valeur 1,-1,-1,슈퍼 팩 1,Superpaket 1,15,0,99.99,,0,,,5000,5000,10031,9,-1,,,com.carolgames.moemoegirls.overflow_b1,99.99,,,,,,604800,8,,1,0,0,
 32,-1,Value Package 2,Pack de Grande Valeur 2,-1,-1,슈퍼 팩 2,Superpaket 2,15,0,69.99,,0,,,3500,3500,10032,9,-1,,,com.carolgames.moemoegirls.overflow_b2,69.99,,,,,,604800,7,,1,0,0,
@@ -298,6 +298,14 @@ id,name,desc_1,desc_2,desc_4,desc_5,desc_6,desc_11,activity_id,rank,charge,curre
 322,-1,Halloween Surprise,Surprise d'Halloween,-1,ハロウィンパック,할로윈 깜짝 선물,Pakete zu Halloween,250,0,9.99,,0,,,500,500,10322,103,-1,,,com.carolgames.moemoegirls.halloween,9.99,,,,,,259200,1,,1,0,0,
 323,-1,Halloween Surprise,Surprise d'Halloween,-1,ハロウィンパック,할로윈 깜짝 선물,Pakete zu Halloween,250,0,49.99,,0,,,2500,2500,10323,103,-1,,,com.carolgames.moemoegirls.halloween,49.99,,,,,,259200,1,,1,0,0,
 324,-1,Halloween Surprise,Surprise d'Halloween,-1,ハロウィンパック,할로윈 깜짝 선물,Pakete zu Halloween,250,0,99.99,,0,,,5000,5000,10324,103,-1,,,com.carolgames.moemoegirls.halloween,99.99,,,,,,259200,1,,1,0,0,
+326,-1,Wishing Fountain Supply,Pack à Souhait,-1,-1,소원성취 팩,Wunschpakete,254,0,9.99,,0,,,500,500,10326,104,-1,,,com.carolgames.moemoegirls.pray,9.99,,,,,,604800,1,,1,0,0,
+327,-1,Wishing Fountain Supply,Pack à Souhait,-1,-1,소원성취 팩,Wunschpakete,254,0,29.99,,0,,,1500,1500,10327,104,-1,,,com.carolgames.moemoegirls.pray,29.99,,,,,,604800,1,,1,0,0,
+328,-1,,,-1,,,,252,0,4.99,,0,,,250,250,10328,105,-1,,,com.carolgames.moemoegirls.secrettreasure,4.99,,,,,,,2,,1,0,0,1|1|604800
+329,-1,,,-1,,,,252,0,9.99,,0,,,750,750,10329,105,-1,,,com.carolgames.moemoegirls.secrettreasure,9.99,,,,,,,2,,1,0,0,1|1|604800
+330,-1,,,-1,,,,252,0,29.99,,0,,,1500,1500,10330,105,-1,,,com.carolgames.moemoegirls.secrettreasure,29.99,,,,,,,4,,1,0,0,2|2|604800
+331,-1,,,-1,,,,252,0,49.99,,0,,,2500,2500,10331,105,-1,,,com.carolgames.moemoegirls.secrettreasure,49.99,,,,,,,4,,1,0,0,2|2|604800
+332,-1,,,-1,,,,252,0,69.99,,0,,,3500,3500,10332,105,-1,,,com.carolgames.moemoegirls.secrettreasure,69.99,,,,,,,6,,1,0,0,3|3|604800
+333,-1,,,-1,,,,252,0,99.99,,0,,,5000,5000,10333,105,-1,,,com.carolgames.moemoegirls.secrettreasure,99.99,,,,,,,6,,1,0,0,3|3|604800
 1010101,-1,LV 24 Package,Pack de Niv.24,-1,レベル24パック,레벨 24 팩,Lv.24 Paket,80,0,1.99,NT$,0,,,100,100,1010101,26,-1,,,com.carolgames.moemoegirls.24levelv0,1.99,,,24|31,0,,7200,1,,1,0,0,
 1010201,-1,LV 32 Package,Pack de Niv.32,-1,レベル32パック,레벨 32 팩,Lv.32 Paket,80,0,4.99,NT$,0,,,250,250,1010201,26,-1,,,com.carolgames.moemoegirls.32levelv0,4.99,,,32|47,0,,7200,2,,1,0,0,
 1010301,-1,LV 48 Package,Pack de Niv.48,-1,レベル48パック,레벨 48 팩,Lv.48 Paket,80,0,9.99,NT$,0,,,500,500,1010301,26,-1,,,com.carolgames.moemoegirls.48levelv0,9.99,,,48|57,0,,14400,2,,1,0,0,

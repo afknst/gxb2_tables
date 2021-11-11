@@ -6854,33 +6854,57 @@ She holds a crossbow that has slain countless preys. Attack increases by 35%, HP
 [c][01a310]Bleed[-][/c]
 A damage over time. Damage is dealt once when bleed is inflicted and during the period of effect, damage will be dealt at the beginning of each round."
 5101403,Von Helsing,Prey,"
-When battle starts, Von Helsing [c][e28002]Locks On[-][/c] to the enemy with the highest Attack attribute. Basic Attack changes to attack a single target twice, dealing (80% of Attack) damage each time, each attack stacks 1 [c][e28002]Hunter’s Mark[-][/c] on the target.
+When the battle starts, Von Helsing [c][e28002]Locks On[-][/c] to the enemy with the highest Attack attribute.
+Basic Attack changes to attack a single target twice, dealing (80% of Attack) damage each time, each attack stacks 1 [c][e28002]Hunter’s Mark[-][/c] on the target.
 
 [c][e28002]Locked On:[-][/c]
-Skill effect, Von Helsing’s Basic Attack and Active skill will take priority in selecting the Locked on target. Once target is defeated, Von Helsing will lock onto the enemy who has the highest Attack attribute at that time as her new target.
+Skill effect, Von Helsing’s Basic Attack and Active skill will take priority in selecting the Locked on target.
+Once the Locked On target is defeated, Von Helsing will lock onto the enemy who has the highest Attack attribute at that time as her new target.
+If Von Helsing isn\'t Locked On to any enemy, she will Lock On to the enemy with the highest Attack attribute again when an enemy is defeated.
+
 [c][e28002]Hunter\'s Mark:[-][/c]
-Mark effect, when Von Helsing attacks her target stacked with Hunter\'s Marks, each Hunter’s Mark stacked will increase Von Helsing\'s Damage by (5% of Attack) and Crit Damage by 3% against the target stacked with the mark, can be stacked maximum 8 times. When a target stacked with Hunter\'s Mark is defeated, Von Helsing (the one that stacked the mark) will deal (stacks of Hunter’s Mark at the time of death x 100% of Attack) damage instantly to the enemy with the highest Attack (if there are multiple ally Von Helsings, every Von Helsing will deal damage once based on the number of Hunter Mark stacked on the defeated target)."
+Mark effect, when Von Helsing attacks her target stacked with Hunter\'s Marks, each Hunter’s Mark stacked will increase Von Helsing\'s Damage by (5% of Attack) and Crit Damage by 3% against the target stacked with the mark, can be stacked maximum 8 times.
+When a target stacked with Hunter\'s Mark is defeated, Von Helsing (the one that stacked the mark) will deal (stacks of Hunter’s Mark at the time of death x 100% of Attack) damage instantly to the enemy with the highest Attack.
+(If there are multiple ally Von Helsings, every Von Helsing will deal damage once based on the number of Hunter Mark stacked on the defeated target)"
 65102103,Von Helsing,Prey,"
-When battle starts, Von Helsing [c][e28002]Locks On[-][/c] to the enemy with the highest Attack attribute. Basic Attack changes to attack a single target twice, dealing (100% of Attack) damage each time, each attack stacks 1 [c][e28002]Hunter’s Mark[-][/c] on the target.
+When the battle starts, Von Helsing [c][e28002]Locks On[-][/c] to the enemy with the highest Attack attribute.
+Basic Attack changes to attack a single target twice, dealing (100% of Attack) damage each time, each attack stacks 1 [c][e28002]Hunter’s Mark[-][/c] on the target.
 
 [c][e28002]Locked On:[-][/c]
-Skill effect, Von Helsing’s Basic Attack and Active skill will take priority in selecting the Locked on target. Once target is defeated, Von Helsing will lock onto the enemy who has the highest Attack attribute at that time as her new target.
+Skill effect, Von Helsing’s Basic Attack and Active skill will take priority in selecting the Locked on target.
+Once the Locked On target is defeated, Von Helsing will lock onto the enemy who has the highest Attack attribute at that time as her new target.
+If Von Helsing isn\'t Locked On to any enemy, she will Lock On to the enemy with the highest Attack attribute again when an enemy is defeated.
+
 [c][e28002]Hunter\'s Mark:[-][/c]
-Mark effect, when Von Helsing attacks her target stacked with Hunter\'s Marks, each Hunter’s Mark stacked will increase Von Helsing\'s Damage by (10% of Attack) and Crit Damage by 6% against the target stacked with the mark, can be stacked maximum 8 times. When a target stacked with Hunter\'s Mark is defeated, Von Helsing (the one that stacked the mark) will deal (stacks of Hunter’s Mark at the time of death x 150% of Attack) damage instantly to the enemy with the highest Attack (if there are multiple ally Von Helsings, every Von Helsing will deal damage once based on the number of Hunter Mark stacked on the defeated target)."
+Mark effect, when Von Helsing attacks her target stacked with Hunter\'s Marks, each Hunter’s Mark stacked will increase Von Helsing\'s Damage by (10% of Attack) and Crit Damage by 6% against the target stacked with the mark, can be stacked maximum 8 times.
+When a target stacked with Hunter\'s Mark is defeated, Von Helsing (the one that stacked the mark) will deal (stacks of Hunter’s Mark at the time of death x 150% of Attack) damage instantly to the enemy with the highest Attack.
+(If there are multiple ally Von Helsings, every Von Helsing will deal damage once based on the number of Hunter Mark stacked on the defeated target)"
 65102113,Von Helsing,Prey,"
-When battle starts, Von Helsing [c][e28002]Locks On[-][/c] to the enemy with the highest Attack attribute. Basic Attack changes to attack a single target twice, dealing (150% of Attack) damage each time, each attack stacks 1 [c][e28002]Hunter’s Mark[-][/c] on the target. At the end of each round, Von Helsing stacks 2 [c][e28002]Hunter\'s Mark[-][/c] to the Locked On target.
+When the battle starts, Von Helsing [c][e28002]Locks On[-][/c] to the enemy with the highest Attack attribute.
+Basic Attack changes to attack a single target twice, dealing (150% of Attack) damage each time, each attack stacks 1 [c][e28002]Hunter’s Mark[-][/c] on the target.
 
 [c][e28002]Locked On:[-][/c]
-Skill effect, Von Helsing’s Basic Attack and Active skill will take priority in selecting the Locked on target. Once target is defeated, Von Helsing will lock onto the enemy who has the highest Attack attribute at that time as her new target.
+Skill effect, Von Helsing’s Basic Attack and Active skill will take priority in selecting the Locked on target.
+Once the Locked On target is defeated, Von Helsing will lock onto the enemy who has the highest Attack attribute at that time as her new target.
+If Von Helsing isn\'t Locked On to any enemy, she will Lock On to the enemy with the highest Attack attribute again when an enemy is defeated.
+
 [c][e28002]Hunter\'s Mark:[-][/c]
-Mark effect, when Von Helsing attacks her target stacked with Hunter\'s Marks, each Hunter’s Mark stacked will increase Von Helsing\'s Damage by (20% of Attack) and Crit Damage by 10% against the target stacked with the mark, can be stacked maximum 8 times. When a target stacked with Hunter\'s Mark is defeated, Von Helsing (the one that stacked the mark) will deal (stacks of Hunter’s Mark at the time of death x 300% of Attack) damage instantly to the enemy with the highest Attack (if there are multiple ally Von Helsings, every Von Helsing will deal damage once based on the number of Hunter Mark stacked on the defeated target)."
+Mark effect, when Von Helsing attacks her target stacked with Hunter\'s Marks, each Hunter’s Mark stacked will increase Von Helsing\'s Damage by (20% of Attack) and Crit Damage by 10% against the target stacked with the mark, can be stacked maximum 8 times.
+When a target stacked with Hunter\'s Mark is defeated, Von Helsing (the one that stacked the mark) will deal (stacks of Hunter’s Mark at the time of death x 300% of Attack) damage instantly to the enemy with the highest Attack.
+(If there are multiple ally Von Helsings, every Von Helsing will deal damage once based on the number of Hunter Mark stacked on the defeated target)"
 75101403,Von Helsing,Prey,"
-When battle starts, Von Helsing [c][e28002]Locks On[-][/c] to the enemy with the highest Attack attribute. Basic Attack changes to attack a single target twice, dealing (150% of Attack) damage each time, each attack stacks 1 [c][e28002]Hunter’s Mark[-][/c] on the target. At the end of each round, Von Helsing stacks 2 [c][e28002]Hunter\'s Mark[-][/c] to the Locked On target.
+When the battle starts, Von Helsing [c][e28002]Locks On[-][/c] to the enemy with the highest Attack attribute.
+Basic Attack changes to attack a single target twice, dealing (150% of Attack) damage each time, each attack stacks 1 [c][e28002]Hunter’s Mark[-][/c] on the target.
 
 [c][e28002]Locked On:[-][/c]
-Skill effect, Von Helsing’s Basic Attack and Active skill will take priority in selecting the Locked on target. Once target is defeated, Von Helsing will lock onto the enemy who has the highest Attack attribute at that time as her new target.
+Skill effect, Von Helsing’s Basic Attack and Active skill will take priority in selecting the Locked on target.
+Once the Locked On target is defeated, Von Helsing will lock onto the enemy who has the highest Attack attribute at that time as her new target.
+If Von Helsing isn\'t Locked On to any enemy, she will Lock On to the enemy with the highest Attack attribute again when an enemy is defeated.
+
 [c][e28002]Hunter\'s Mark:[-][/c]
-Mark effect, when Von Helsing attacks her target stacked with Hunter\'s Marks, each Hunter’s Mark stacked will increase Von Helsing\'s Damage by (20% of Attack) and Crit Damage by 10% against the target stacked with the mark, can be stacked maximum 8 times. When a target stacked with Hunter\'s Mark is defeated, Von Helsing (the one that stacked the mark) will deal (stacks of Hunter’s Mark at the time of death x 300% of Attack) damage instantly to the enemy with the highest Attack (if there are multiple ally Von Helsings, every Von Helsing will deal damage once based on the number of Hunter Mark stacked on the defeated target)."
+Mark effect, when Von Helsing attacks her target stacked with Hunter\'s Marks, each Hunter’s Mark stacked will increase Von Helsing\'s Damage by (20% of Attack) and Crit Damage by 10% against the target stacked with the mark, can be stacked maximum 8 times.
+When a target stacked with Hunter\'s Mark is defeated, Von Helsing (the one that stacked the mark) will deal (stacks of Hunter’s Mark at the time of death x 300% of Attack) damage instantly to the enemy with the highest Attack.
+(If there are multiple ally Von Helsings, every Von Helsing will deal damage once based on the number of Hunter Mark stacked on the defeated target)"
 5101404,Von Helsing,Blood Feast,"
 At the beginning of each round, self-gains 1 stack of [c][e28002]Blood Thirst[-][/c]; except for debuffs that deal damage over time, all debuffs taken will be handled as follows: each debuff has 50% chance to change into 1 stack of [c][e28002]Blood Thirst[-][/c] (3 stacks max per round). Enters [c][e28002]Feast Mode[-][/c] until she is defeated when HP is below 50% for the first time or after defeating her first target).
 
@@ -7718,40 +7742,70 @@ She holds a crossbow that has slain countless preys. Attack increases by 38%, HP
 [c][01a310]Bleed[-][/c]
 A damage over time. Damage is dealt once when bleed is inflicted and during the period of effect, damage will be dealt at the beginning of each round."
 751014031,Von Helsing,Prey,"
-When battle starts, Von Helsing [c][e28002]Locks On[-][/c] to the enemy with the highest Attack attribute. Basic Attack changes to attack a single target twice, dealing (153% of Attack) damage each time, each attack stacks 1 [c][e28002]Hunter’s Mark[-][/c] on the target. At the end of each round, Von Helsing stacks 2 [c][e28002]Hunter\'s Mark[-][/c] to the Locked On target.
+When the battle starts, Von Helsing [c][e28002]Locks On[-][/c] to the enemy with the highest Attack attribute.
+Basic Attack changes to attack a single target twice, dealing (153% of Attack) damage each time, each attack stacks 1 [c][e28002]Hunter’s Mark[-][/c] on the target.
 
 [c][e28002]Locked On:[-][/c]
-Skill effect, Von Helsing’s Basic Attack and Active skill will take priority in selecting the Locked on target. Once target is defeated, Von Helsing will lock onto the enemy who has the highest Attack attribute at that time as her new target.
+Skill effect, Von Helsing’s Basic Attack and Active skill will take priority in selecting the Locked on target.
+Once the Locked On target is defeated, Von Helsing will lock onto the enemy who has the highest Attack attribute at that time as her new target.
+If Von Helsing isn\'t Locked On to any enemy, she will Lock On to the enemy with the highest Attack attribute again when an enemy is defeated.
+
 [c][e28002]Hunter\'s Mark:[-][/c]
-Mark effect, when Von Helsing attacks her target stacked with Hunter\'s Marks, each Hunter’s Mark stacked will increase Von Helsing\'s Damage by (20% of Attack) and Crit Damage by 10% against the target stacked with the mark, can be stacked maximum 8 times. When a target stacked with Hunter\'s Mark is defeated, Von Helsing (the one that stacked the mark) will deal (stacks of Hunter’s Mark at the time of death x 300% of Attack) damage instantly to the enemy with the highest Attack (if there are multiple ally Von Helsings, every Von Helsing will deal damage once based on the number of Hunter Mark stacked on the defeated target)."
+Mark effect, when Von Helsing attacks her target stacked with Hunter\'s Marks, each Hunter’s Mark stacked will increase Von Helsing\'s Damage by (20% of Attack) and Crit Damage by 10% against the target stacked with the mark, can be stacked maximum 8 times.
+When a target stacked with Hunter\'s Mark is defeated, Von Helsing (the one that stacked the mark) will deal (stacks of Hunter’s Mark at the time of death x 300% of Attack) damage instantly to the enemy with the highest Attack.
+(If there are multiple ally Von Helsings, every Von Helsing will deal damage once based on the number of Hunter Mark stacked on the defeated target)"
 751014032,Von Helsing,Prey,"
-When battle starts, Von Helsing [c][e28002]Locks On[-][/c] to the enemy with the highest Attack attribute. Basic Attack changes to attack a single target twice, dealing (156% of Attack) damage each time, each attack stacks 1 [c][e28002]Hunter’s Mark[-][/c] on the target. At the end of each round, Von Helsing stacks 2 [c][e28002]Hunter\'s Mark[-][/c] to the Locked On target.
+When the battle starts, Von Helsing [c][e28002]Locks On[-][/c] to the enemy with the highest Attack attribute.
+Basic Attack changes to attack a single target twice, dealing (156% of Attack) damage each time, each attack stacks 1 [c][e28002]Hunter’s Mark[-][/c] on the target.
 
 [c][e28002]Locked On:[-][/c]
-Skill effect, Von Helsing’s Basic Attack and Active skill will take priority in selecting the Locked on target. Once target is defeated, Von Helsing will lock onto the enemy who has the highest Attack attribute at that time as her new target.
+Skill effect, Von Helsing’s Basic Attack and Active skill will take priority in selecting the Locked on target.
+Once the Locked On target is defeated, Von Helsing will lock onto the enemy who has the highest Attack attribute at that time as her new target.
+If Von Helsing isn\'t Locked On to any enemy, she will Lock On to the enemy with the highest Attack attribute again when an enemy is defeated.
+
 [c][e28002]Hunter\'s Mark:[-][/c]
-Mark effect, when Von Helsing attacks her target stacked with Hunter\'s Marks, each Hunter’s Mark stacked will increase Von Helsing\'s Damage by (20% of Attack) and Crit Damage by 10% against the target stacked with the mark, can be stacked maximum 8 times. When a target stacked with Hunter\'s Mark is defeated, Von Helsing (the one that stacked the mark) will deal (stacks of Hunter’s Mark at the time of death x 300% of Attack) damage instantly to the enemy with the highest Attack (if there are multiple ally Von Helsings, every Von Helsing will deal damage once based on the number of Hunter Mark stacked on the defeated target)."
+Mark effect, when Von Helsing attacks her target stacked with Hunter\'s Marks, each Hunter’s Mark stacked will increase Von Helsing\'s Damage by (20% of Attack) and Crit Damage by 10% against the target stacked with the mark, can be stacked maximum 8 times.
+When a target stacked with Hunter\'s Mark is defeated, Von Helsing (the one that stacked the mark) will deal (stacks of Hunter’s Mark at the time of death x 300% of Attack) damage instantly to the enemy with the highest Attack.
+(If there are multiple ally Von Helsings, every Von Helsing will deal damage once based on the number of Hunter Mark stacked on the defeated target)"
 751014033,Von Helsing,Prey,"
-When battle starts, Von Helsing [c][e28002]Locks On[-][/c] to the enemy with the highest Attack attribute. Basic Attack changes to attack a single target twice, dealing (159% of Attack) damage each time, each attack stacks 1 [c][e28002]Hunter’s Mark[-][/c] on the target. At the end of each round, Von Helsing stacks 2 [c][e28002]Hunter\'s Mark[-][/c] to the Locked On target.
+When the battle starts, Von Helsing [c][e28002]Locks On[-][/c] to the enemy with the highest Attack attribute.
+Basic Attack changes to attack a single target twice, dealing (159% of Attack) damage each time, each attack stacks 1 [c][e28002]Hunter’s Mark[-][/c] on the target.
 
 [c][e28002]Locked On:[-][/c]
-Skill effect, Von Helsing’s Basic Attack and Active skill will take priority in selecting the Locked on target. Once target is defeated, Von Helsing will lock onto the current enemy with the highest Attack attribute as her new target.
+Skill effect, Von Helsing’s Basic Attack and Active skill will take priority in selecting the Locked on target.
+Once the Locked On target is defeated, Von Helsing will lock onto the enemy who has the highest Attack attribute at that time as her new target.
+If Von Helsing isn\'t Locked On to any enemy, she will Lock On to the enemy with the highest Attack attribute again when an enemy is defeated.
+
 [c][e28002]Hunter\'s Mark:[-][/c]
-Mark effect, when Von Helsing attacks her target stacked with Hunter\'s Marks, each Hunter’s Mark stacked will increase Von Helsing\'s Damage by (20% of Attack) and Crit Damage by 10% against the target stacked with the mark, can be stacked maximum 8 times. When a target stacked with Hunter\'s Mark is defeated, Von Helsing (the one that stacked the mark) will deal (stacks of Hunter’s Mark at the time of death x 300% of Attack) damage instantly to the enemy with the highest Attack (if there are multiple ally Von Helsings, every Von Helsing will deal damage once based on the number of Hunter Mark stacked on the defeated target)."
+Mark effect, when Von Helsing attacks her target stacked with Hunter\'s Marks, each Hunter’s Mark stacked will increase Von Helsing\'s Damage by (20% of Attack) and Crit Damage by 10% against the target stacked with the mark, can be stacked maximum 8 times.
+When a target stacked with Hunter\'s Mark is defeated, Von Helsing (the one that stacked the mark) will deal (stacks of Hunter’s Mark at the time of death x 300% of Attack) damage instantly to the enemy with the highest Attack.
+(If there are multiple ally Von Helsings, every Von Helsing will deal damage once based on the number of Hunter Mark stacked on the defeated target)"
 751014034,Von Helsing,Prey,"
-When battle starts, Von Helsing [c][e28002]Locks On[-][/c] to the enemy with the highest Attack attribute. Basic Attack changes to attack a single target twice, dealing (162% of Attack) damage each time, each attack stacks 1 [c][e28002]Hunter’s Mark[-][/c] on the target. At the end of each round, Von Helsing stacks 2 [c][e28002]Hunter\'s Mark[-][/c] to the Locked On target.
+When the battle starts, Von Helsing [c][e28002]Locks On[-][/c] to the enemy with the highest Attack attribute.
+Basic Attack changes to attack a single target twice, dealing (162% of Attack) damage each time, each attack stacks 1 [c][e28002]Hunter’s Mark[-][/c] on the target.
 
 [c][e28002]Locked On:[-][/c]
-Skill effect, Von Helsing’s Basic Attack and Active skill will take priority in selecting the Locked on target. Once target is defeated, Von Helsing will lock onto the enemy who has the highest Attack attribute at that time as her new target.
+Skill effect, Von Helsing’s Basic Attack and Active skill will take priority in selecting the Locked on target.
+Once the Locked On target is defeated, Von Helsing will lock onto the enemy who has the highest Attack attribute at that time as her new target.
+If Von Helsing isn\'t Locked On to any enemy, she will Lock On to the enemy with the highest Attack attribute again when an enemy is defeated.
+
 [c][e28002]Hunter\'s Mark:[-][/c]
-Mark effect, when Von Helsing attacks her target stacked with Hunter\'s Marks, each Hunter’s Mark stacked will increase Von Helsing\'s Damage by (20% of Attack) and Crit Damage by 10% against the target stacked with the mark, can be stacked maximum 8 times. When a target stacked with Hunter\'s Mark is defeated, Von Helsing (the one that stacked the mark) will deal (stacks of Hunter’s Mark at the time of death x 300% of Attack) damage instantly to the enemy with the highest Attack (if there are multiple ally Von Helsings, every Von Helsing will deal damage once based on the number of Hunter Mark stacked on the defeated target)."
+Mark effect, when Von Helsing attacks her target stacked with Hunter\'s Marks, each Hunter’s Mark stacked will increase Von Helsing\'s Damage by (20% of Attack) and Crit Damage by 10% against the target stacked with the mark, can be stacked maximum 8 times.
+When a target stacked with Hunter\'s Mark is defeated, Von Helsing (the one that stacked the mark) will deal (stacks of Hunter’s Mark at the time of death x 300% of Attack) damage instantly to the enemy with the highest Attack.
+(If there are multiple ally Von Helsings, every Von Helsing will deal damage once based on the number of Hunter Mark stacked on the defeated target)"
 751014035,Von Helsing,Prey,"
-When battle starts, Von Helsing [c][e28002]Locks On[-][/c] to the enemy with the highest Attack attribute. Basic Attack changes to attack a single target twice, dealing (165% of Attack) damage each time, each attack stacks 1 [c][e28002]Hunter’s Mark[-][/c] on the target. At the end of each round, Von Helsing stacks 2 [c][e28002]Hunter\'s Mark[-][/c] to the Locked On target.
+When the battle starts, Von Helsing [c][e28002]Locks On[-][/c] to the enemy with the highest Attack attribute.
+Basic Attack changes to attack a single target twice, dealing (165% of Attack) damage each time, each attack stacks 1 [c][e28002]Hunter’s Mark[-][/c] on the target.
 
 [c][e28002]Locked On:[-][/c]
-Skill effect, Von Helsing’s Basic Attack and Active skill will take priority in selecting the Locked on target. Once target is defeated, Von Helsing will lock onto the enemy who has the highest Attack attribute at that time as her new target.
+Skill effect, Von Helsing’s Basic Attack and Active skill will take priority in selecting the Locked on target.
+Once the Locked On target is defeated, Von Helsing will lock onto the enemy who has the highest Attack attribute at that time as her new target.
+If Von Helsing isn\'t Locked On to any enemy, she will Lock On to the enemy with the highest Attack attribute again when an enemy is defeated.
+
 [c][e28002]Hunter\'s Mark:[-][/c]
-Mark effect, when Von Helsing attacks her target stacked with Hunter\'s Marks, each Hunter’s Mark stacked will increase Von Helsing\'s Damage by (22% of Attack) and Crit Damage by 12% against the target stacked with the mark, can be stacked maximum 8 times. When a target stacked with Hunter\'s Mark is defeated, Von Helsing (the one that stacked the mark) will deal (stacks of Hunter’s Mark at the time of death x 300% of Attack) damage instantly to the enemy with the highest Attack (if there are multiple ally Von Helsings, every Von Helsing will deal damage once based on the number of Hunter Mark stacked on the defeated target)."
+Mark effect, when Von Helsing attacks her target stacked with Hunter\'s Marks, each Hunter’s Mark stacked will increase Von Helsing\'s Damage by (22% of Attack) and Crit Damage by 12% against the target stacked with the mark, can be stacked maximum 8 times.
+When a target stacked with Hunter\'s Mark is defeated, Von Helsing (the one that stacked the mark) will deal (stacks of Hunter’s Mark at the time of death x 300% of Attack) damage instantly to the enemy with the highest Attack.
+(If there are multiple ally Von Helsings, every Von Helsing will deal damage once based on the number of Hunter Mark stacked on the defeated target)"
 751014041,Von Helsing,Blood Feast,"
 At the beginning of each round, self-gains 1 stack of [c][e28002]Blood Thirst[-][/c]; except for debuffs that deal damage over time, all debuffs taken will be handled as follows: each debuff has 80% chance to change into 1 stack of [c][e28002]Blood Thirst[-][/c] (3 stacks max per round). Enters [c][e28002]Feast Mode[-][/c] until she is defeated when HP is below 50% for the first time or when any girl is defeated in the battle for the first time).
 

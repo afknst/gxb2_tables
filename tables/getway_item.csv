@@ -59,3 +59,7 @@ id,name,item_id,get_limit,show_activity,lv_limit,function_id,go_window,go_params
 59,-1,,,248,0,,activity_window,"select:248,large_series:1"
 60,-1,,,249,0,,activity_window,"select:249,large_series:1"
 61,-1,,,250,0,,activity_window,"select:250,large_series:1"
+62,-1,,,254,0,,activity_window,"select:254,activity_type2:1"
+63,-1,,,252,0,,activity_window,"select:252,large_series:1"
+64,-1,,,253,0,,activity_window,"select:253,large_series:1"
+65,-1,,,251,0,,,

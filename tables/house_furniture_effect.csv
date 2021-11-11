@@ -28,3 +28,4 @@ id,name,effect_name,scale,pos,hero_pos,count,action,next_action,type,is_clip,cli
 27,-1,mianyangxiaowo_chuang,1,-10|-120,,1,appear,28,2,,,,,,,,,,,,
 28,-1,mianyangxiaowo_chuang,1,-10|-120,,1,loop,29,2,,,,,,,,,,,,
 29,-1,mianyangxiaowo_chuang,1,-10|-120,,1,disappear,,2,,,,,,,,,,,,
+30,-1,geshouqie_zhuangshi,1,8|36,,0,idle,,1,,,,1,,,,,,,,
