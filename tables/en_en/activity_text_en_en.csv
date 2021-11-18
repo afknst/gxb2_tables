@@ -54,7 +54,7 @@ id,desc,title
 53,Test application,Test application
 54,Feedback,Feedback
 55,Dorm Decoration,Dorm\nDecoration
-56,Summer Gift,Summer\nGift
+56,Thanksgiving Gifts,Thanksgiving\nGifts
 57,Growth Pack,Growth\nPack
 58,New Server Capsule,New Server\nCapsule
 59,Yume Academy,Yume\nAcademy
@@ -241,3 +241,4 @@ id,desc,title
 251,Treasure Hunt,Treasure\nHunt
 252,Raider's Supply,Raider's\nSupply
 253,Team Assembly,Team\nAssembly
+255,Thanksgiving Feast,Thanksgiving\nFeast

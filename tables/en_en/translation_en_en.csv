@@ -1596,7 +1596,7 @@ PERSON_MUSIC2,Classic
 PERSON_BTN_7,Music
 NORMAL_SLOT_MACHINE,Slot Machine
 HIGH_SLOT_MACHINE,Super Slot Machine
-ACTIVITY_SCHOOL_GIFTBAG_HELP_TEXT,1. There are abundant rewards in each Gift Bag. Players can claim rewards in unlocked Gift Bags by signing in daily. |2. Locked Gift Bags will still hold their rewards. Players can claim all rewards stacked in them once when they're unlocked. |3. Click the Gift Bag to check the rewards. |4. The 3rd Gift Bag will be unlocked once the 2nd Special Gift Pack is purchased.
+ACTIVITY_SCHOOL_GIFTBAG_HELP_TEXT,"1. There are abundant rewards in each Gift Bag. Players can claim rewards in unlocked Gift Bags by signing in daily. |2. Locked Gift Bags will still hold their rewards. Players can claim all rewards stacked in them once when they're unlocked. |3. Click the Gift Bag to check the rewards. |4. The 3rd Gift Bag will be unlocked once the $69.99 Special Gift Pack is purchased.|5. Once the event ends, the remaining Turkey Badges will automatically be recycled into Coins at a rate of 600k per Turkey Badge."
 CHAPTER_COUNT,Chapter {1}
 CHAPTER_TITLE,{1}-{2} {3}
 LOCK_STORY_LIST,This Chapter is locked.
@@ -4903,7 +4903,7 @@ ENTRANCE_TEST_LEVEL_UP_NEED,Required\nRanking
 WARMUP_ARENA_REACH_RANK_HELP,Benefits for Division {1}:|{2}|Benefits for Division {3}:|{4}|Benefits for Division {5}:|{6}
 ENTRANCE_TEST_LEVEL_UP_ING,Results are being calculated...
 WARMUP_ARENA_TASK_INFO_1,New Girl Missions
-WARMUP_ARENA_TASK_INFO_2,Aurora - Queen of Northland
+WARMUP_ARENA_TASK_INFO_2,Robbie - The Girl and Her Mecha
 WARMUP_ARENA_TASK_INFO_3,Mission Rewards
 WARMUP_ARENA_TASK_INFO_4,Extra Rewards
 WARMUP_ARENA_TASK_INFO_5,Unlock after completing star-marked missions
@@ -4995,7 +4995,7 @@ ACTIVITY_TEA_TEXT2,Special gift pack with great rewards and Nephilim's Heaven's 
 ACTIVITY_TEA_TEXT3,Unlock after completing the previous chapter
 ACTIVITY_TEA_TEXT4,Progress
 ACTIVITY_TEA_TEXT5,Complete chapters to get corresponding rewards
-ACTIVITY_FISH_HELP,"1. During the event, ""Fishing Rods"" can be obtained from Daily Mail, Luvly's Journey, Exclusive Tasks, Luvly's Elite Supply Pack, Mega Value Packs, and Special Gift Packs. In Luvly’s Journey, 1 ""Fishing Rod"" can be obtained for each ""Rudder"" or ""Advanced Rudder"" consumed.|2. You can fish in the event by consuming ""Fishing Rods"" (5 Fishing Rods will be consumed for 1 time of fishing) and corresponding rewards can be obtained according to the type of fish you get. If the fish you get happens to be the fish the Mermaid wants, she will offer you an additional gift.|3. The Mermaid's requested fish will be refreshed after the currently requested fish is obtained, the additional gift will also be refreshed at the same time.|4. If the fish you get is not the one the Mermaid wants, the rate to obtain the fish she wants in the next turn will increase by 10%%. The increased rates will be reset after obtaining the requested fish.|5. You will also get a little golden crown or a little silver crown according to the length of the fish you get (this is only for display and won't affect the rewards you get).|6. You will also get additional rewards after catching a certain number of fish.|7. Once the event ends, the remaining Fishing Rods will automatically be recycled into Coins at a rate of 20k per Fishing Rod."
+ACTIVITY_FISH_HELP,"1. During the event, ""Fishing Rods"" can be obtained from Daily Mail, Luvly's Journey, Exclusive Tasks, Luvly's Elite Supply Pack, Thanksgiving Feast, Thanksgiving Gifts, Mega Value Packs, Special Skin Packs and Special Gift Packs. In Luvly’s Journey, 1 ""Fishing Rod"" can be obtained for each ""Rudder"" or ""Advanced Rudder"" consumed.|2. You can fish in the event by consuming ""Fishing Rods"" (5 Fishing Rods will be consumed for 1 time of fishing) and corresponding rewards can be obtained according to the type of fish you get. If the fish you get happens to be the fish the Mermaid wants, she will offer you an additional gift.|3. The Mermaid's requested fish will be refreshed after the currently requested fish is obtained, the additional gift will also be refreshed at the same time.|4. If the fish you get is not the one the Mermaid wants, the rate to obtain the fish she wants in the next turn will increase by 10%%. The increased rates will be reset after obtaining the requested fish.|5. You will get a little golden crown or a little silver crown according to the length of the fish you get. You will also get an additional Golden Crown Reward/Surprise Reward if you get a little golden crown for the first time for each type of fish (each type of fish can get 2 little Golden Crown rewards for being the longest or the shortest) or if you get the specific length of fish and is the one that the Mermaid wants.|6. You will also get additional rewards after catching a certain number of fish.|7. Once the event ends, the remaining Fishing Rods will automatically be recycled into Coins at a rate of 20k per Fishing Rod."
 ACTIVITY_FISH_BUTTON01,Gallery
 ACTIVITY_FISH_BUTTON02,Rewards
 ACTIVITY_FISH_SKIP,Skip
@@ -5110,9 +5110,9 @@ NEW_ARENA_ALL_SERVER_HELP,"
 Ultimate League is a league for all players in the game to compete together.
 Each Season of Ultimate League lasts for 28 days and is divided into 5 phases: Preparation Phase, Points Race, Single Elimination, Finals, and Exhibition Period.|1. Preparation Phase|The first day of each season is the Preparation Phase: players can set up their defense lineup during this period, but they cannot engage in battles.|2. Points Race|(1) During the 2nd – 20th day of each season, players will be able to compete in Points Race.
 (2) Players can challenge other players by consuming League Tickets. If players are dissatisfied with their matched opponents, they can refresh to be matched with new opponents. Each player can refresh 5 times max in a day.
-(3) The number of League Tickets consumed is based on the number of battles started every day. The 1st to 5th battles cost 2 League Tickets each, the 6th to 10th battles cost 3 League Tickets each, the 11th to 15th battles cost 4 League Tickets each, and every battle starting from the 16th battle cost 5 League Tickets each. This resets everyday.
+(3) The number of League Tickets consumed is based on the number of battles started every day. The 1st to 5th battles cost 2 League Tickets each, the 6th to 10th battles cost 3 League Tickets each, the 11th to 15th battles cost 4 League Tickets each, and every battle starting from the 16th battle cost 5 League Tickets each. This resets every day.
 (4) The 10 most recent Battle Records can be viewed.|3. Divisions|(1) There are 6 Divisions in Score Match: Bronze, Silver, Gold, Diamond, Master, and Grandmaster. Each Division (except Master and Grandmaster) will be separated into 5 grades, players will need to promote their grades from Grade 5 to Grade 1 before advancing to the next Division.
-(2) Players can get promoted by 1 grade for every 100 points. The top 320 players in Master Division will advance to Grandmaster Division.
+(2) Players can get promoted by 1 grade for every 100 points. When a player in Master Division reaches rank 320 in overall rankings, they will advance to Grandmaster Division.
 (3) Players begin at Bronze Division Grade 5 when first entering the Points Race phase. Their Division and Grade will be reset when a new season of Ultimate League begins. However, players will obtain a one-time bonus in points when a new season starts based on their Division in the last season.|4. Battle Rules|(1) Ultimate League has applied a new set of battle rules. Players\' lineup will be separated into battle lineup and backup lineup. After a battle is over, the undefeated Girls in the players\' battle lineup will stay on the battlefield and their HP will not be automatically healed to 100%%.The system will try and fill the lineup back to a full team by using Girls from the Backup Lineup (the system will prioritize setting Backup Girls in Frontline or Backline based on their positions in the Backup Lineup). Then the next round of battle will begin. It will end once all Girls of a player\'s lineup have been defeated.
 (2)Each Girl can participate in 2 battles at most. If they have not been defeated by then, she will automatically be removed and considered as defeated.
 (3) Players can also set the order of Servants. When a battle is lost, the system will place the Servant selected as second option in battle. If a battle is won, the first Servant will remain in the player\'s lineup.
@@ -5281,3 +5281,18 @@ ACTIVITY_SECTRETTREASURE_TEXT33,Treasure
 ACTIVITY_SECTRETTREASURE_TEXT34,Reward
 ACTIVITY_SECTRETTREASURE_TEXT35,Select
 ACTIVITY_SECTRETTREASURE_TEXT36,Continue
+ACTIVITY_FISH_GOLDEN_SURPRISE,"Congratulations on getting a [c][ea7900]little golden crown[-][/c] for {1}, here's your little Golden Crown Reward!"
+ACTIVITY_FISH_LENGTH_SURPRISE,"Congratulations on getting a [c][ea7900]{1} cm[-][/c] long {2}, here's your Surprise Reward!"
+ACTIVITY_FISH_SURPRISE_TITLE,Reward
+ACTIVITY_FISH_SURPRISE_BUTTON,Check
+NEW_RECHARGE_PUSH_TEXT01,Total reward: {1} Gems
+SCHOOL_PRACTISE_QUICK1,Smash
+SCHOOL_PRACTISE_QUICK2,"Senpai, you've successfully unlocked ""Smash"" feature! You can pass the first {1} Stages easier with the feature now!"
+SCHOOL_PRACTISE_QUICK3,Select the number of Stages you want to pass
+SCHOOL_PRACTISE_QUICK4,Fight
+SCHOOL_PRACTISE_QUICK_HELP,"1. After passing [c][ea7900]60[-][/c] stages in any one of the House Exams, ""Smash"" feature will be unlocked in the next season.|2. Once the feature is unlocked, you can quickly pass the previous [c][ea7900]([highest stage reached] – 30)[-][/c] Stages without actually entering the battles.|3. This feature unlocks and functions separately in each House.|4. If the number of stages to be completed is more than the number of Admission Tickets you have, corresponding Gems will be consumed to purchase more Admission Tickets for the procedure."
+SCHOOL_PRACTISE_QUICK5,Select the number of Stages you want to pass
+SCHOOL_PRACTISE_QUICK6,"This will cost you {1} Gems, confirm to continue?"
+SCHOOL_PRACTISE_QUICK7,Smash Stage limit reached
+CHOOSE_ARTIFACT,Select Antique
+SCHOOL_PRACTISE_QUICK8,Smash

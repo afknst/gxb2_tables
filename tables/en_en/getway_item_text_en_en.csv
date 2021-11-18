@@ -24,7 +24,7 @@ id,name
 23,Purchase with Gem
 24,Exclusive Task
 25,Jingle Bell Pack
-26,Christmas Gifts
+26,Thanksgiving Gifts
 27,Banquet Preparations
 28,Daily Mail (1/Day)
 29,Luvly's Journey
@@ -42,7 +42,7 @@ id,name
 42,Program Pack
 43,Traces of Time
 44,Magical Supplies
-45,Lucky\nBonus
+45,Lucky Bonus
 46,Bizarre Supply
 47,Adventure Prep
 48,Adventure Team Recruitment
@@ -63,3 +63,4 @@ id,name
 63,Raider's Supply
 64,Team Assembly
 65,Daily Mail (2/Day)
+66,Thanksgiving Feast

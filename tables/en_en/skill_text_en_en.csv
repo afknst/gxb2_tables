@@ -2456,26 +2456,34 @@ A damage over time. Damage is dealt once when poison is inflicted and during the
 75101102,Valeera,Speed Reading,"Valeera speed reads through her new storybook. Basic Attack changed to attack Front-line enemies, dealing (120% of Attack) damage, has (100% chance) to steal 20% of targets' Attack for 3 rounds and reduce their Control Immunity by 15% for 2 rounds."
 5101103,Valeera,Master of Magic,"
 Valeera meditates to increase her mana, increases Attack by 10%, Crit by 20%, HP by 15%, Speed by 15, and deals 30% more damage to [c][01a310]Frozen[-][/c] and [c][01a310]Petrified[-][/c] opponents.
+
 [c][01a310]Freeze:[-][/c]
 A control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack.
+
 [c][01a310]Petrify:[-][/c]
 A control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
 65101803,Valeera,Master of Magic,"
 Valeera meditates to increase her mana, increases Attack by 15%, Crit by 25%, HP by 20%, Speed by 25, and deals 50% more damage to [c][01a310]Frozen[-][/c] and [c][01a310]Petrified[-][/c] opponents.
+
 [c][01a310]Freeze:[-][/c]
 A control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack.
+
 [c][01a310]Petrify:[-][/c]
 A control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
 65101813,Valeera,Master of Magic,"
 Valeera meditates to increase her mana, increases Attack by 20%, Crit by 30%, HP by 25%, Speed by 40, and deals 80% more damage to [c][01a310]Frozen[-][/c] and [c][01a310]Petrified[-][/c] opponents.
+
 [c][01a310]Freeze:[-][/c]
 A control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack.
+
 [c][01a310]Petrify:[-][/c]
 A control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
 75101103,Valeera,Master of Magic,"
 Valeera meditates to increase her mana, increases Attack by 20%, Crit by 30%, HP by 25%, Speed by 40, and deals 80% more damage to [c][01a310]Frozen[-][/c] and [c][01a310]Petrified[-][/c] opponents.
+
 [c][01a310]Freeze:[-][/c]
 A control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack.
+
 [c][01a310]Petrify:[-][/c]
 A control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
 5101104,Valeera,Mana Drain,"
@@ -4085,32 +4093,42 @@ A damage over time. Damage is dealt once when poison is inflicted and during the
 751011025,Valeera,Speed Reading,"Valeera speed reads through her new storybook. Basic Attack changed to attack Front-line enemies, dealing (135% of Attack) damage, has (100% chance) to steal 23% of targets' Attack for 3 rounds and reduce their Control Immunity by 15% for 2 rounds."
 751011031,Valeera,Master of Magic,"
 Valeera meditates to increase her mana, increases Attack by 22%, Crit by 30%, HP by 25%, Speed by 40, and deals 80% more damage to [c][01a310]Frozen[-][/c] and [c][01a310]Petrified[-][/c] opponents.
+
 [c][01a310]Freeze:[-][/c]
 A control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack.
+
 [c][01a310]Petrify:[-][/c]
 A control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
 751011032,Valeera,Master of Magic,"
 Valeera meditates to increase her mana, increases Attack by 22%, Crit by 30%, HP by 27%, Speed by 40, and deals 80% more damage to [c][01a310]Frozen[-][/c] and [c][01a310]Petrified[-][/c] opponents.
+
 [c][01a310]Freeze:[-][/c]
 A control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack.
+
 [c][01a310]Petrify:[-][/c]
 A control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
 751011033,Valeera,Master of Magic,"
 Valeera meditates to increase her mana, increases Attack by 22.5%, Crit by 30%, HP by 27%, Speed by 40, and deals 80% more damage to [c][01a310]Frozen[-][/c] and [c][01a310]Petrified[-][/c] opponents.
+
 [c][01a310]Freeze:[-][/c]
 A control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack.
+
 [c][01a310]Petrify:[-][/c]
 A control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
 751011034,Valeera,Master of Magic,"
 Valeera meditates to increase her mana, increases Attack by 22.5%, Crit by 30%, HP by 27.5%, Speed by 40, and deals 80% more damage to [c][01a310]Frozen[-][/c] and [c][01a310]Petrified[-][/c] opponents.
+
 [c][01a310]Freeze:[-][/c]
 A control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack.
+
 [c][01a310]Petrify:[-][/c]
 A control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
 751011035,Valeera,Master of Magic,"
 Valeera meditates to increase her mana, increases Attack by 23%, Crit by 30%, HP by 28%, Speed by 40, and deals 80% more damage to [c][01a310]Frozen[-][/c] and [c][01a310]Petrified[-][/c] opponents.
+
 [c][01a310]Freeze:[-][/c]
 A control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack.
+
 [c][01a310]Petrify:[-][/c]
 A control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
 751011041,Valeera,Mana Drain,"
@@ -6183,11 +6201,11 @@ Mark effect, if the target takes crit damage, the Critical Strike Mark will be r
 756005013,Raphael,Asylum,"Raphael uses a potion to summon holy light upon enemies, dealing (192% of Attack) damage to 4 random enemies, increasing Attack by 30% and 30 Speed of 4 random allies for 3 rounds. The effects of healing they receive will be increased by 20% for 3 rounds. Has 30% chance to remove all Control Effects from the 4 allies."
 756005014,Raphael,Asylum,"Raphael uses a potion to summon holy light upon enemies, dealing (196% of Attack) damage to 4 random enemies, increasing Attack by 30% and 30 Speed of 4 random allies for 3 rounds. The effects of healing they receive will be increased by 20% for 3 rounds. Has 40% chance to remove all Control Effects from the 4 allies."
 756005015,Raphael,Asylum,"Raphael uses a potion to summon holy light upon enemies, dealing (200% of Attack) damage to 4 random enemies, increasing Attack by 30% and 30 Speed of 4 random allies for 3 rounds. The effects of healing they receive will be increased by 20% for 3 rounds. Has 50% chance to remove all Control Effects from the 4 allies."
-756005021,Raphael,Potion Master,"Raphael increases her stamina by drinking a pre-made potion, which increases 32% of her HP, 45% of her Attack, 30% of her Control Immunity and 8% of her Healing Effect."
-756005022,Raphael,Potion Master,"Raphael increases her stamina by drinking a pre-made potion, which increases 32% of her HP, 47% of her Attack, 30% of her Control Immunity and 16% of her Healing Effect."
-756005023,Raphael,Potion Master,"Raphael increases her stamina by drinking a pre-made potion, which increases 32.5% of her HP, 47% of her Attack, 30% of her Control Immunity and 24% of her Healing Effect."
-756005024,Raphael,Potion Master,"Raphael increases her stamina by drinking a pre-made potion, which increases 32.5% of her HP, 47.5% of her Attack, 30% of her Control Immunity and 32% of her Healing Effect."
-756005025,Raphael,Potion Master,"Raphael increases her stamina by drinking a pre-made potion, which increases 33% of her HP, 48% of her Attack, 30% of her Control Immunity and 40% of her Healing Effect."
+756005021,Raphael,Potion Master,"Raphael increases her stamina by drinking a pre-made potion, which increases 32% of her HP, 45% of her Attack, 30% of her Control Immunity, and 8% of her Heal Amount."
+756005022,Raphael,Potion Master,"Raphael increases her stamina by drinking a pre-made potion, which increases 32% of her HP, 47% of her Attack, 30% of her Control Immunity, and 16% of her Heal Amount."
+756005023,Raphael,Potion Master,"Raphael increases her stamina by drinking a pre-made potion, which increases 32.5% of her HP, 47% of her Attack, 30% of her Control Immunity, and 24% of her Heal Amount."
+756005024,Raphael,Potion Master,"Raphael increases her stamina by drinking a pre-made potion, which increases 32.5% of her HP, 47.5% of her Attack, 30% of her Control Immunity, and 32% of her Heal Amount."
+756005025,Raphael,Potion Master,"Raphael increases her stamina by drinking a pre-made potion, which increases 33% of her HP, 48% of her Attack, 30% of her Control Immunity, and 40% of her Heal Amount."
 756005031,Raphael,Holy Judgement,Raphael's Basic Attack will heal (255% of Attack) HP of 3 random allies for 3 rounds. The allies who have lost HP will be healed first.
 756005032,Raphael,Holy Judgement,Raphael's Basic Attack will heal (260% of Attack) HP of 3 random allies for 3 rounds. The allies who have lost HP will be healed first.
 756005033,Raphael,Holy Judgement,Raphael's Basic Attack will heal (265% of Attack) HP of 3 random allies for 3 rounds. The allies who have lost HP will be healed first.
@@ -9573,3 +9591,298 @@ Aurora will cause the Attacker to deal 10% less damage for all damage types (thi
 
 [c][e28002]Crystallize:[-][/c]
 A Control Effect. Crystallized targets will not be able to use their Active Skill, deal Basic Attacks, Hunt the targets, or Counterattack after being attacked for 2 rounds. This effect can stack."
+5301700,Robbie,Basic Attack,Basic Attack
+65302400,Robbie,Basic Attack,Basic Attack
+75301700,Robbie,Basic Attack,Basic Attack
+5301701,Robbie,Protocol: Erina,"
+When this protocol is activated, Robbie and Erina will launch a combined attack together.
+
+Robbie consumes 30% of current HP and releases her Active Skill.
+She deals (240% of Attack) damage to 1 random Backline enemy and [c][01a310]burns[-][/c] it for 2 Rounds, dealing (240% of Attack) damage per Round. Starting from the next attack, the target will take 10% more damage from [c][01a310]Burn[-][/c] effects for 2 Rounds.
+Robbie will then consume all stacks of [c][e28002]Laser Charge[-][/c], and repeat the same attack and afflict the same effects once to 1 random Backline enemy for each stack. 
+After releasing her Active Skill, Robbie will recover (10% of self Maximum HP) HP.
+At the start of the battle, Robbie gains 2 stacks of [c][e28002]Laser Charge[-][/c].
+
+[c][e28002]Laser Charge:[-][/c]
+A Skill Effect. Every stack grants 20% Energy Removal Resist and can be stacked up to 5 stacks at most.
+
+[c][01a310]Burn:[-][/c]
+A damage over time. Damage is dealt once when Burn is inflicted and at the beginning of each round during the period of effect."
+65302401,Robbie,Protocol: Erina,"
+When this protocol is activated, Robbie and Erina will launch a combined attack together.
+
+Robbie consumes 30% of current HP and releases her Active Skill.
+She deals (360% of Attack) damage to 1 random Backline enemy and [c][01a310]burns[-][/c] it for 2 Rounds, dealing (360% of Attack) damage per Round. Starting from the next attack, the target will take 20% more damage from [c][01a310]Burn[-][/c] effects for 2 Rounds.
+Robbie will then consume all stacks of [c][e28002]Laser Charge[-][/c], and repeat the same attack and afflict the same effects once to 1 random Backline enemy for each stack. 
+After releasing her Active Skill, Robbie will recover (20% of self Maximum HP) HP.
+At the start of the battle, Robbie gains 2 stacks of [c][e28002]Laser Charge[-][/c].
+
+[c][e28002]Laser Charge:[-][/c]
+A Skill Effect. Every stack grants 20% Energy Removal Resist and can be stacked up to 5 stacks at most.
+
+[c][01a310]Burn:[-][/c]
+A damage over time. Damage is dealt once when Burn is inflicted and at the beginning of each round during the period of effect."
+75301701,Robbie,Protocol: Erina,"
+When this protocol is activated, Robbie and Erina will launch a combined attack together.
+
+Robbie consumes 30% of current HP and releases her Active Skill.
+She deals (600% of Attack) damage to 1 random Backline enemy and [c][01a310]burns[-][/c] it for 2 Rounds, dealing (600% of Attack) damage per Round. Starting from the next attack, the target will take 30% more damage from [c][01a310]Burn[-][/c] effects for 2 Rounds.
+Robbie will then consume all stacks of [c][e28002]Laser Charge[-][/c], and repeat the same attack and afflict the same effects once to 1 random Backline enemy for each stack. 
+After releasing her Active Skill, Robbie will recover (30% of self Maximum HP) HP.
+At the start of the battle, Robbie gains 2 stacks of [c][e28002]Laser Charge[-][/c].
+
+[c][e28002]Laser Charge:[-][/c]
+A Skill Effect. Every stack grants 20% Energy Removal Resist and can be stacked up to 5 stacks at most.
+
+[c][01a310]Burn:[-][/c]
+A damage over time. Damage is dealt once when Burn is inflicted and at the beginning of each round during the period of effect."
+5301702,Robbie,Protocol: Synchronization,"
+When this protocol is activated, Robbie and Erina syncronizes on a neuron-level.
+
+Increases Robbie\'s HP by 20%, Attack by 10%, Crit by 10%, Heal Received by 20%, and enables her to be immune from [c][01a310]Silence[-][/c].
+
+[c][01a310]Silence:[-][/c]
+A Control Effect. During this effect, girls affected will not be able to release their Active Skills."
+65302402,Robbie,Protocol: Synchronization,"
+When this protocol is activated, Robbie and Erina syncronizes on a neuron-level.
+
+Increases Robbie\'s HP by 30%, Attack by 20%, Crit by 20%, Heal Received by 30%, and enables her to be immune from [c][01a310]Silence[-][/c].
+
+[c][01a310]Silence:[-][/c]
+A Control Effect. During this effect, girls affected will not be able to release their Active Skills."
+65302412,Robbie,Protocol: Synchronization,"
+When this protocol is activated, Robbie and Erina syncronizes on a neuron-level.
+
+Increases Robbie\'s HP by 40%, Attack by 30%, Crit by 30%, Heal Received by 40%, and enables her to be immune from [c][01a310]Silence[-][/c].
+
+[c][01a310]Silence:[-][/c]
+A Control Effect. During this effect, girls affected will not be able to release their Active Skills."
+75301702,Robbie,Protocol: Synchronization,"
+When this protocol is activated, Robbie and Erina syncronizes on a neuron-level.
+
+Increases Robbie\'s HP by 40%, Attack by 30%, Crit by 30%, Heal Received by 40%, and enables her to be immune from [c][01a310]Silence[-][/c].
+
+[c][01a310]Silence:[-][/c]
+A Control Effect. During this effect, girls affected will not be able to release their Active Skills."
+5301703,Robbie,Protocol: Energization,"
+When this protocol is activated, Robbie will absorb the energy running rampant on the battlefield.
+
+When Robbie deals a Basic Attack, she gains 1 stack of [c][e28002]Laser Charge[-][/c] and has a 30% chance to remove 1 random Debuff(DoT, Attribute Reduction, Control Effect or Marks) from self.
+At the start of each Round, if Robbie is afflicted with a Debuff (DoT, Attribute Reduction, Control Effect or Marks), she gains 10% Damage Depletion for 1 Round.
+
+[c][e28002]Laser Charge：[-][/c]
+A Skill Effect. Every stack grants 20% Energy Removal Resist and can be stacked up to 5 stacks at most."
+65302403,Robbie,Protocol: Energization,"
+When this protocol is activated, Robbie will absorb the energy running rampant on the battlefield.
+
+When Robbie deals a Basic Attack, she gains 1 stack of [c][e28002]Laser Charge[-][/c] and has a 50% chance to remove 1 random Debuff(DoT, Attribute Reduction, Control Effect or Marks) from self.
+At the start of each Round, if Robbie is afflicted with a Debuff (DoT, Attribute Reduction, Control Effect or Marks), she gains 15% Damage Depletion for 1 Round.
+
+[c][e28002]Laser Charge：[-][/c]
+A Skill Effect. Every stack grants 20% Energy Removal Resist and can be stacked up to 5 stacks at most."
+65302413,Robbie,Protocol: Energization,"
+When this protocol is activated, Robbie will absorb the energy running rampant on the battlefield.
+
+When Robbie deals a Basic Attack, she gains 1 stack of [c][e28002]Laser Charge[-][/c] and has 100% chance to remove 1 random Debuff(DoT, Attribute Reduction, Control Effect or Marks) from self.
+At the start of each Round, if Robbie is afflicted with a Debuff (DoT, Attribute Reduction, Control Effect or Marks), she gains 20% Damage Depletion for 1 Round.
+
+[c][e28002]Laser Charge：[-][/c]
+A Skill Effect. Every stack grants 20% Energy Removal Resist and can be stacked up to 5 stacks at most."
+75301703,Robbie,Protocol: Energization,"
+When this protocol is activated, Robbie will absorb the energy running rampant on the battlefield.
+
+When Robbie deals a Basic Attack, she gains 1 stack of [c][e28002]Laser Charge[-][/c] and has 100% chance to remove 1 random Debuff(DoT, Attribute Reduction, Control Effect or Marks) from self.
+At the start of each Round, if Robbie is afflicted with a Debuff (DoT, Attribute Reduction, Control Effect or Marks), she gains 20% Damage Depletion for 1 Round.
+
+[c][e28002]Laser Charge：[-][/c]
+A Skill Effect. Every stack grants 20% Energy Removal Resist and can be stacked up to 5 stacks at most."
+5301704,Robbie,Protocol: Overdrive,"
+This protocol will only be activated in the direst situations, when there is no other choice but to fight.
+
+The more HP Robbie loses in battle, the more Damage Depletion and Damage Boost she will gain. She can gain at most 40% Damage Boost and 20% Damage Depletion from this skill. (The cap will be reached when she has 30% of her maximum HP remaining)
+When Robbie\'s current HP drops below 30% of her maximum HP for the first time in the battle, she will recover (30% of Maximum HP) HP."
+65302404,Robbie,Protocol: Overdrive,"
+This protocol will only be activated in the direst situations, when there is no other choice but to fight.
+
+The more HP Robbie loses in battle, the more Damage Depletion and Damage Boost she will gain. She can gain at most 60% Damage Boost and 30% Damage Depletion from this skill. (The cap will be reached when she has 30% of her maximum HP remaining)
+When Robbie\'s current HP drops below 30% of her maximum HP for the first time in the battle, she will recover (40% of Maximum HP) HP."
+65302414,Robbie,Protocol: Overdrive,"
+This protocol will only be activated in the direst situations, when there is no other choice but to fight.
+
+The more HP Robbie loses in battle, the more Damage Depletion and Damage Boost she will gain. She can gain at most 120% Damage Boost and 40% Damage Depletion from this skill. (The cap will be reached when she has 30% of her maximum HP remaining)
+When Robbie\'s current HP drops below 30% of her maximum HP for the first time in the battle, she will recover (50% of Maximum HP) HP."
+75301704,Robbie,Protocol: Overdrive,"
+This protocol will only be activated in the direst situations, when there is no other choice but to fight.
+
+The more HP Robbie loses in battle, the more Damage Depletion and Damage Boost she will gain. She can gain at most 120% Damage Boost and 40% Damage Depletion from this skill. (The cap will be reached when she has 30% of her maximum HP remaining)
+When Robbie\'s current HP drops below 30% of her maximum HP for the first time in the battle, she will recover (50% of Maximum HP) HP."
+753017011,Robbie,Protocol: Erina,"
+When this protocol is activated, Robbie and Erina will launch a combined attack together.
+
+Robbie consumes 30% of current HP and releases her Active Skill.
+She deals (612% of Attack) damage to 1 random Backline enemy and [c][01a310]burns[-][/c] it for 2 Rounds, dealing (612% of Attack) damage per Round. Starting from the next attack, the target will take 30% more damage from [c][01a310]Burn[-][/c] effects for 2 Rounds.
+Robbie will then consume all stacks of [c][e28002]Laser Charge[-][/c], and repeat the same attack and afflict the same effects once to 1 random Backline enemy for each stack. 
+After releasing her Active Skill, Robbie will recover (30% of self Maximum HP) HP.
+At the start of the battle, Robbie gains 2 stacks of [c][e28002]Laser Charge[-][/c].
+
+[c][e28002]Laser Charge:[-][/c]
+A Skill Effect. Every stack grants 20% Energy Removal Resist and can be stacked up to 5 stacks at most.
+
+[c][01a310]Burn:[-][/c]
+A damage over time. Damage is dealt once when Burn is inflicted and at the beginning of each round during the period of effect."
+753017012,Robbie,Protocol: Erina,"
+When this protocol is activated, Robbie and Erina will launch a combined attack together.
+
+Robbie consumes 30% of current HP and releases her Active Skill.
+She deals (624% of Attack) damage to 1 random Backline enemy and [c][01a310]burns[-][/c] it for 2 Rounds, dealing (624% of Attack) damage per Round. Starting from the next attack, the target will take 30% more damage from [c][01a310]Burn[-][/c] effects for 2 Rounds.
+Robbie will then consume all stacks of [c][e28002]Laser Charge[-][/c], and repeat the same attack and afflict the same effects once to 1 random Backline enemy for each stack. 
+After releasing her Active Skill, Robbie will recover (30% of self Maximum HP) HP.
+At the start of the battle, Robbie gains 2 stacks of [c][e28002]Laser Charge[-][/c].
+
+[c][e28002]Laser Charge:[-][/c]
+A Skill Effect. Every stack grants 20% Energy Removal Resist and can be stacked up to 5 stacks at most.
+
+[c][01a310]Burn:[-][/c]
+A damage over time. Damage is dealt once when Burn is inflicted and at the beginning of each round during the period of effect."
+753017013,Robbie,Protocol: Erina,"
+When this protocol is activated, Robbie and Erina will launch a combined attack together.
+
+Robbie consumes 30% of current HP and releases her Active Skill.
+She deals (636% of Attack) damage to 1 random Backline enemy and [c][01a310]burns[-][/c] it for 2 Rounds, dealing (636% of Attack) damage per Round. Starting from the next attack, the target will take 30% more damage from [c][01a310]Burn[-][/c] effects for 2 Rounds.
+Robbie will then consume all stacks of [c][e28002]Laser Charge[-][/c], and repeat the same attack and afflict the same effects once to 1 random Backline enemy for each stack. 
+After releasing her Active Skill, Robbie will recover (30% of self Maximum HP) HP.
+At the start of the battle, Robbie gains 2 stacks of [c][e28002]Laser Charge[-][/c].
+
+[c][e28002]Laser Charge:[-][/c]
+A Skill Effect. Every stack grants 20% Energy Removal Resist and can be stacked up to 5 stacks at most.
+
+[c][01a310]Burn:[-][/c]
+A damage over time. Damage is dealt once when Burn is inflicted and at the beginning of each round during the period of effect."
+753017014,Robbie,Protocol: Erina,"
+When this protocol is activated, Robbie and Erina will launch a combined attack together.
+
+Robbie consumes 30% of current HP and releases her Active Skill.
+She deals (648% of Attack) damage to 1 random Backline enemy and [c][01a310]burns[-][/c] it for 2 Rounds, dealing (648% of Attack) damage per Round. Starting from the next attack, the target will take 30% more damage from [c][01a310]Burn[-][/c] effects for 2 Rounds.
+Robbie will then consume all stacks of [c][e28002]Laser Charge[-][/c], and repeat the same attack and afflict the same effects once to 1 random Backline enemy for each stack. 
+After releasing her Active Skill, Robbie will recover (30% of self Maximum HP) HP.
+At the start of the battle, Robbie gains 2 stacks of [c][e28002]Laser Charge[-][/c].
+
+[c][e28002]Laser Charge:[-][/c]
+A Skill Effect. Every stack grants 20% Energy Removal Resist and can be stacked up to 5 stacks at most.
+
+[c][01a310]Burn:[-][/c]
+A damage over time. Damage is dealt once when Burn is inflicted and at the beginning of each round during the period of effect."
+753017015,Robbie,Protocol: Erina,"
+When this protocol is activated, Robbie and Erina will launch a combined attack together.
+
+Robbie consumes 30% of her current HP and releases her Active Skill.
+She deals (660% of Attack) damage to 1 random Backline enemy and [c][01a310]burns[-][/c] it for 2 Rounds, dealing (660% of Attack) damage per Round. Starting from the next attack, the target will take 33% more damage from [c][01a310]Burn[-][/c] effects for 2 Rounds.
+Robbie will then consume all stacks of [c][e28002]Laser Charge[-][/c], and repeat the same attack and afflict the same effects once to 1 random Backline enemy for each stack. 
+After releasing her Active Skill, Robbie will recover (33% of self Maximum HP) HP.
+At the start of the battle, Robbie gains 3 stacks of [c][e28002]Laser Charge[-][/c].
+
+[c][e28002]Laser Charge:[-][/c]
+A Skill Effect. Every stack grants 20% Energy Removal Resist and can be stacked up to 5 stacks at most.
+
+[c][01a310]Burn:[-][/c]
+A damage over time. Damage is dealt once when Burn is inflicted and at the beginning of each round during the period of effect."
+753017021,Robbie,Protocol: Synchronization,"
+When this protocol is activated, Robbie and Erina syncronizes on a neuron-level.
+
+Increases Robbie\'s HP by 40%, Attack by 30%, Crit by 30%, Heal Received by 42%, and enables her to be immune from [c][01a310]Silence[-][/c].
+
+[c][01a310]Silence:[-][/c]
+A Control Effect. During this effect, girls affected will not be able to release their Active Skills."
+753017022,Robbie,Protocol: Synchronization,"
+When this protocol is activated, Robbie and Erina syncronizes on a neuron-level.
+
+Increases Robbie\'s HP by 40%, Attack by 30%, Crit by 30%, Heal Received by 44%, and enables her to be immune from [c][01a310]Silence[-][/c].
+
+[c][01a310]Silence:[-][/c]
+A Control Effect. During this effect, girls affected will not be able to release their Active Skills."
+753017023,Robbie,Protocol: Synchronization,"
+When this protocol is activated, Robbie and Erina syncronizes on a neuron-level.
+
+Increases Robbie\'s HP by 40%, Attack by 30%, Crit by 30%, Heal Received by 46%, and enables her to be immune from [c][01a310]Silence[-][/c].
+
+[c][01a310]Silence:[-][/c]
+A Control Effect. During this effect, girls affected will not be able to release their Active Skills."
+753017024,Robbie,Protocol: Synchronization,"
+When this protocol is activated, Robbie and Erina syncronizes on a neuron-level.
+
+Increases Robbie\'s HP by 40%, Attack by 30%, Crit by 30%, Heal Received by 48%, and enables her to be immune from [c][01a310]Silence[-][/c].
+
+[c][01a310]Silence:[-][/c]
+A Control Effect. During this effect, girls affected will not be able to release their Active Skills."
+753017025,Robbie,Protocol: Synchronization,"
+When this protocol is activated, Robbie and Erina syncronizes on a neuron-level.
+
+Increases Robbie\'s HP by 43%, Attack by 33%, Crit by 30%, Heal Received by 50%, and enables her to be immune from [c][01a310]Silence[-][/c].
+
+[c][01a310]Silence:[-][/c]
+A Control Effect. During this effect, girls affected will not be able to release their Active Skills."
+753017031,Robbie,Protocol: Energization,"
+When this protocol is activated, Robbie will absorb the energy running rampant on the battlefield.
+
+When Robbie deals a Basic Attack, she gains 2 stacks of [c][e28002]Laser Charge[-][/c] and has 100% chance to remove 1 random Debuff(DoT, Attribute Reduction, Control Effect or Marks) from self.
+At the start of each Round, if Robbie is afflicted with a Debuff (DoT, Attribute Reduction, Control Effect or Marks), she gains 21% Damage Depletion for 1 Round.
+
+[c][e28002]Laser Charge：[-][/c]
+A Skill Effect. Every stack grants 20% Energy Removal Resist and can be stacked up to 5 stacks at most."
+753017032,Robbie,Protocol: Energization,"
+When this protocol is activated, Robbie will absorb the energy running rampant on the battlefield.
+
+When Robbie deals a Basic Attack, she gains 2 stacks of [c][e28002]Laser Charge[-][/c] and has 100% chance to remove 1 random Debuff(DoT, Attribute Reduction, Control Effect or Marks) from self.
+At the start of each Round, if Robbie is afflicted with a Debuff (DoT, Attribute Reduction, Control Effect or Marks), she gains 22% Damage Depletion for 1 Round.
+
+[c][e28002]Laser Charge：[-][/c]
+A Skill Effect. Every stack grants 20% Energy Removal Resist and can be stacked up to 5 stacks at most."
+753017033,Robbie,Protocol: Energization,"
+When this protocol is activated, Robbie will absorb the energy running rampant on the battlefield.
+
+When Robbie deals a Basic Attack, she gains 2 stacks of [c][e28002]Laser Charge[-][/c] and has 100% chance to remove 1 random Debuff(DoT, Attribute Reduction, Control Effect or Marks) from self.
+At the start of each Round, if Robbie is afflicted with a Debuff (DoT, Attribute Reduction, Control Effect or Marks), she gains 23% Damage Depletion for 1 Round.
+
+[c][e28002]Laser Charge：[-][/c]
+A Skill Effect. Every stack grants 20% Energy Removal Resist and can be stacked up to 5 stacks at most."
+753017034,Robbie,Protocol: Energization,"
+When this protocol is activated, Robbie will absorb the energy running rampant on the battlefield.
+
+When Robbie deals a Basic Attack, she gains 2 stacks of [c][e28002]Laser Charge[-][/c] and has 100% chance to remove 1 random Debuff(DoT, Attribute Reduction, Control Effect or Marks) from self.
+At the start of each Round, if Robbie is afflicted with a Debuff (DoT, Attribute Reduction, Control Effect or Marks), she gains 24% Damage Depletion for 1 Round.
+
+[c][e28002]Laser Charge：[-][/c]
+A Skill Effect. Every stack grants 20% Energy Removal Resist and can be stacked up to 5 stacks at most."
+753017035,Robbie,Protocol: Energization,"
+When this protocol is activated, Robbie will absorb the energy running rampant on the battlefield.
+
+When Robbie deals a Basic Attack, she gains 2 stacks of [c][e28002]Laser Charge[-][/c] and has 100% chance to remove 1 random Debuff(DoT, Attribute Reduction, Control Effect or Marks) from self.
+At the start of each Round, if Robbie is afflicted with a Debuff (DoT, Attribute Reduction, Control Effect or Marks), she gains 25% Damage Depletion for 1 Round.
+
+[c][e28002]Laser Charge：[-][/c]
+A Skill Effect. Every stack grants 20% Energy Removal Resist and can be stacked up to 5 stacks at most."
+753017041,Robbie,Protocol: Overdrive,"
+This protocol will only be activated in the direst situations, when there is no other choice but to fight.
+
+The more HP Robbie loses in battle, the more Damage Depletion and Damage Boost she will gain. She can gain at most 120% Damage Boost and 40% Damage Depletion from this skill. (The cap will be reached when she has 30% of her maximum HP remaining)
+When Robbie\'s current HP drops below 30% of her maximum HP for the first time in the battle, she will recover (54% of Maximum HP) HP."
+753017042,Robbie,Protocol: Overdrive,"
+This protocol will only be activated in the direst situations, when there is no other choice but to fight.
+
+The more HP Robbie loses in battle, the more Damage Depletion and Damage Boost she will gain. She can gain at most 120% Damage Boost and 40% Damage Depletion from this skill. (The cap will be reached when she has 30% of her maximum HP remaining)
+When Robbie\'s current HP drops below 30% of her maximum HP for the first time in the battle, she will recover (58% of Maximum HP) HP."
+753017043,Robbie,Protocol: Overdrive,"
+This protocol will only be activated in the direst situations, when there is no other choice but to fight.
+
+The more HP Robbie loses in battle, the more Damage Depletion and Damage Boost she will gain. She can gain at most 125% Damage Boost and 40% Damage Depletion from this skill. (The cap will be reached when she has 30% of her maximum HP remaining)
+When Robbie\'s current HP drops below 30% of her maximum HP for the first time in the battle, she will recover (62% of Maximum HP) HP."
+753017044,Robbie,Protocol: Overdrive,"
+This protocol will only be activated in the direst situations, when there is no other choice but to fight.
+
+The more HP Robbie loses in battle, the more Damage Depletion and Damage Boost she will gain. She can gain at most 125% Damage Boost and 40% Damage Depletion from this skill. (The cap will be reached when she has 30% of her maximum HP remaining)
+When Robbie\'s current HP drops below 30% of her maximum HP for the first time in the battle, she will recover (66% of Maximum HP) HP."
+753017045,Robbie,Protocol: Overdrive,"
+This protocol will only be activated in the direst situations, when there is no other choice but to fight.
+
+The more HP Robbie loses in battle, the more Damage Depletion and Damage Boost she will gain. She can gain at most 130% Damage Boost and 44% Damage Depletion from this skill. (The cap will be reached when she has 30% of her maximum HP remaining)
+When Robbie\'s current HP drops below 30% of her maximum HP for the first time in the battle, she will recover (70% of Maximum HP) HP."
