@@ -17,6 +17,49 @@ class NpEncoder(json.JSONEncoder):
         return json.JSONEncoder.default(self, obj)
 
 
+def print_boxes(_lang="zh_tw"):
+    _P = Path("./tables/giftbox_optional.csv")
+    _PR = Path(f"./tables/{_lang}/item_text_{_lang}.csv")
+    _T = pd.read_csv(_P)
+    _TR = pd.read_csv(_PR)
+
+    _T['id'] = _T['id'].apply(int).apply(str)
+    _TR['id'] = _TR['id'].apply(int).apply(str)
+
+    def _id2name(_id):
+        if '#' in _id:
+            _id, _num = _id.split('#')
+            if int(_num) == 1:
+                _num = ''
+            else:
+                _num = _num + ' x '
+        else:
+            _num = ''
+        _TS = _TR[_TR['id'] == _id]
+        assert len(_TS) == 1, _id
+
+        if _TS.iloc[0]['brief'] == '造型':
+            return _num + _TS.iloc[0]['desc']
+        return _num + _TS.iloc[0]['name']
+
+    def _split(_items):
+        return _items.split('|')
+
+    def _items2name(_items):
+        return [_id2name(_) for _ in _items]
+
+    _BOXES = _T['id'].apply(_id2name)
+    _ITEMS = _T['item'].apply(_split).apply(_items2name)
+    _T_RES = pd.DataFrame(data={
+        'ID': _T['id'],
+        'BOX_NAME': _BOXES,
+        'ITEMS': _ITEMS,
+    })
+    _T_RES.sort_values("ID", inplace=True)
+    _T_RES.set_index("ID", inplace=True)
+    _T_RES.to_csv("./misc/tables/giftbox_optional_with_names.csv")
+
+
 def print_pets(_lang="en_en", _lua=True):
     _P = Path(f"./tables/{_lang}/pet_text_{_lang}.csv")
     _T = pd.read_csv(_P)
@@ -195,18 +238,20 @@ if __name__ == "__main__":
     # trans_cores()
     # print(all_girls(_lang="en_en"))
     # print_10_girls(_lang="zh_tw", _lua=False)
-    _TEAM = [
-        "Sivney",
-        "Nephilim",
-        "Vivian",
-        "Kassy",
-        "Monica",
-        "Angelica",
-        "Holly",
-        "Apate",
-        "Kassy",
-        "Teresa",
-        "Diana",
-        "Skye",
-    ]
-    print(",\n".join([str(sports(_n)) for _n in _TEAM]))
+    # _TEAM = [
+    #     "Sivney",
+    #     "Nephilim",
+    #     "Vivian",
+    #     "Kassy",
+    #     "Monica",
+    #     "Angelica",
+    #     "Holly",
+    #     "Apate",
+    #     "Kassy",
+    #     "Teresa",
+    #     "Diana",
+    #     "Skye",
+    # ]
+    # print(",\n".join([str(sports(_n)) for _n in _TEAM]))
+
+    print_boxes()
