@@ -38,7 +38,7 @@ id,name,charge_ios,charge,currency,show_name
 35,Free Reload Pack,1.99,1.99,$,Free Reload Pack
 37,Limited Edition 5-star Girl Pack,0.99,0.99,$,Limited Edition 5-star Girl Pack
 38,Subscription,0.99,0.99,$,Subscription
-39,Moon Festival Card,9.99,9.99,$,Moon Festival Card
+39,Black Friday Card,9.99,9.99,$,Black Friday Card
 40,Weekly Subscription,0.99,0.99,$,Weekly Subscription
 41,Monthly Subscription,3.99,3.99,$,Monthly Subscription
 42,Quarterly Subscription,9.99,9.99,$,Quarterly Subscription
@@ -349,8 +349,8 @@ id,name,charge_ios,charge,currency,show_name
 166,Beginner Pack 1,0.99,0.99,$,Beginner Pack 1
 167,Beginner Pack 2,19.99,19.99,$,Beginner Pack 2
 168,Beginner Pack 3,29.99,29.99,$,Beginner Pack 3
-177,May Day Pack 1,49.99,49.99,$,May Day Pack 1
-178,May Day Pack 2,99.99,99.99,$,May Day Pack 2
+177,Black Friday Crazy Sale 1,49.99,49.99,$,Black Friday Crazy Sale 1
+178,Black Friday Crazy Sale 2,99.99,99.99,$,Black Friday Crazy Sale 2
 180,Monthly Kick Off 2,29.99,29.99,$,Monthly Kick Off 2
 181,Monthly Kick Off 3,49.99,49.99,$,Monthly Kick Off 3
 182,Monthly Kick Off 4,69.99,69.99,$,Monthly Kick Off 4
@@ -549,3 +549,11 @@ id,name,charge_ios,charge,currency,show_name
 334,Thanksgiving Feast pack 1,0.99,0.99,$,Thanksgiving Feast pack 1
 335,Thanksgiving Feast pack 2,9.99,9.99,$,Thanksgiving Feast pack 2
 336,Thanksgiving Feast pack 3,49.99,49.99,$,Thanksgiving Feast pack 3
+337,Advent Calendar Gift Pack 1,0.99,0.99,$,Advent Calendar Gift Pack 1
+338,Advent Calendar Gift Pack 2,0.99,0.99,$,Advent Calendar Gift Pack 2
+339,Advent Calendar Gift Pack 3,0.99,0.99,$,Advent Calendar Gift Pack 3
+340,Advent Calendar Gift Pack 4,9.99,9.99,$,Advent Calendar Gift Pack 4
+341,Advent Calendar Gift Pack 5,0.99,0.99,$,Advent Calendar Gift Pack 5
+342,Advent Calendar Gift Pack 6,0.99,0.99,$,Advent Calendar Gift Pack 6
+343,Advent Calendar Gift Pack 7,0.99,0.99,$,Advent Calendar Gift Pack 7
+344,Advent Calendar Gift Pack 8,9.99,9.99,$,Advent Calendar Gift Pack 8

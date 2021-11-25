@@ -2445,7 +2445,7 @@ GUILD_BOSS_TEXT03,每週結算獎勵：
 ACTIVITY_WORLD_BOSS_LEVEL_TIPS,Level {1}
 SUMMON_CONFIRM,扭{1}次需要消耗{2}鑽石，是否繼續？
 TURING_TASK_LIMIT,完成上限
-TURING_TASK_TEXT01,活動期間，完成指定任務，可以獲得醇香美酒。獎勵直接發放至背包
+TURING_TASK_TEXT01,活動期間，完成指定任務，可以獲得購物券。獎勵直接發放至背包
 WELFARE_TEXT01,活動期間，招生達到一定的次數，可以解鎖對應的超值福利道具購買資格！
 WELFARE_TEXT02,活動期間，招生達到{1}次後解鎖
 BEGINNER_QUEST_LOCKED,未解鎖
@@ -3747,7 +3747,7 @@ ACTIVITY_YEAR_FUND_LATE_AWARD_TIP,補領當前獎勵，將花費{1}鑽石，是�
 ACTIVITY_YEAR_FUND_BUY,購買立得：
 ACTIVITY_YEAR_FUND_PRICE,NT$670
 ACTIVITY_DOLL_BUY_UNLIMIT,不限次數
-ACTIVITY_CHRISTMAS_SALE_HELP,1.活動期間，消耗「鹿角糖」可以兌換各檔位獎勵。前2檔獎勵可直接兌換，後續檔位需消耗一定數量的「鹿角糖」後才能兌換。|2.除第一檔為固定獎勵外，後續檔位均分為固定獎勵與自選獎勵。|3.每個檔位、每個自選獎勵都有限購次數：檔位限購次數為0後無法再購買次檔位；自選獎勵限購次數為0後無法再選擇此獎勵。|4.「鹿角糖」可透過烏列爾的請求、聖誕禮物、超值禮包、造型禮包、特惠禮包和聖誕限時禮包獲得！|5.在活動結束後，未使用的「鹿角糖」將會自動兌換成金幣，每個價格為50k，透過信件發放。
+ACTIVITY_CHRISTMAS_SALE_HELP,1.活動期間，消耗「購物券」可以兌換各檔位獎勵。前3檔獎勵可直接兌換，後續檔位需消耗一定數量的「購物券」後才能兌換。|2.所有檔位均分為固定獎勵與自選獎勵。|3.每個檔位、每個自選獎勵都有限購次數：檔位限購次數為0後無法再購買此檔位；自選獎勵限購次數為0後無法再選擇此獎勵。|4.「購物券」可透過購物時光、黑五狂歡購、超值禮包、造型禮包、特惠禮包和探險家禮包獲得！|5.在活動結束後，未使用的「購物券」將會自動兌換成金幣，每個價格為50k，透過信件發放。
 RE_CHECKIN,補 簽
 RE_CHECKIN_TIPS,是否花費{1}鑽石進行補簽？
 SUMMON_GIFTBAG_MENU01,扭蛋抽取 （{1}/{2}）
@@ -3755,8 +3755,8 @@ SUMMON_GIFTBAG_MENU02,戰姬迎新
 SUMMON_GIFTBAG_HELP,1.為了迎接新戰姬正式入學，陸遜為學長準備了特別的福利：在活動期間，抽取高級扭蛋將額外獲得大量收益。每抽取一定數量的高級扭蛋，或是累計獲取一定數量的新戰姬，均可獲得豐富獎勵。|2.下一期活動的時間安排將在學妹2的官方facebook帳號上提前預告，敬請學長關注。
 ACTIVITY_CHRISTMAS_SALE_NEED_COST,活動期間，消耗{1}個{2}後解鎖
 ACTIVITY_CHRISTMAS_SALE_AWARD_PREVIEW,稀有獎勵預覽
-ACTIVITY_CHRISTMAS_SALE_DESC,活動期間，學長可選擇想要的道具，消耗鹿角糖進行兌換！
-LARGE_ACTIVITY_CHRISTMAS_TEXT,聖誕狂歡
+ACTIVITY_CHRISTMAS_SALE_DESC,活動期間，學長可選擇想要的道具，消耗購物券進行兌換！
+LARGE_ACTIVITY_CHRISTMAS_TEXT,黑五雜貨鋪
 ACTIVITY_YEAR_FUND_NOTICE_TEXT02,即將開放，敬請期待…
 ACTIVITY_CHRISTMAS_SALE_TITLE,獎勵自選
 AWARD_LOOK_WINDOW_NEW,獎勵預覽
@@ -4896,14 +4896,14 @@ WARMUP_ARENA_TASK_INFO_3,挑戰任務
 WARMUP_ARENA_TASK_INFO_4,福袋獎勵
 WARMUP_ARENA_TASK_INFO_5,完成標星任務後解鎖
 ACTIVITY_ENTRANCE_TEST_RECORD_TIPS,學長與對手目前不在同一檔位，無法進行挑戰！
-WARMUP_ARENA_TASK_HELP,1.完成新生挑戰任務，可以獲得豐厚的獎勵。|2.透過購買入學福袋，可以解鎖額外的大量獎勵。|3.每獲得一個星標，可以解鎖一段新劇情，為學長揭示新戰姬與幽夢學院各位學員們的故事。
+WARMUP_ARENA_TASK_HELP,1.完成新生挑戰任務，可以獲得豐厚的獎勵。|2.透過購買入學福袋，可以解鎖額外的大量獎勵。|3.每獲得一個星標，可以解鎖一段新劇情，為學長揭示新戰姬與幽夢學園各位學員們的故事。
 ENTRANCE_TEST_NO_FIGHT_PARTNERS,檢測到學長尚未佈置進攻陣容，是否要直接沿用當前的防守陣容？
 PUB_MISSION_AUTO_TEXT4,選擇已完成任務
 LIMITED_FOR_ACTIVITY,活動限定
 ACTIVITY_WARMUP_PACK_TEXT06,查看\n額外獎勵
 ACTIVITY_WARMUP_PACK_TEXT07,前往入學測驗
 ENTRANCE_TEST_NEXT_DAY,正在確定檔位，定檔期間無法進行戰鬥。
-ENTRANCE_TEST_ENERGY_EXCEED,每日0點(UTC/GMT 0)，憑證將重置到10點，溢出的憑證將會消失。是否確認購買憑證？
+ENTRANCE_TEST_ENERGY_EXCEED,每日0點(UTC/GMT 0)，憑證將重置到10枚，溢出的憑證將會消失。是否確認購買憑證？
 ENTRANCE_TEST_LEVEL_UP_DESC,檔位提升
 WARMUP_ARENA_TASK_ENTRANCE,查看獎勵
 SNS_ACTIVITY_TEXT02,參與社區活動領取獎勵
@@ -5101,7 +5101,8 @@ NEW_ARENA_ALL_SERVER_HELP,"
 (3)競技場門票的消耗數量將根據玩家每日戰鬥的次數遞增，第1-5次消耗2張，第6-10次消耗3張，第11-15次消耗4張，16次及以上消耗5張。
 (4)戰鬥記錄中可以查看最近10場戰鬥的錄影。|3.段位|(1)積分賽一共有6個段位：青銅、白銀、黃金、鑽石、王者、超凡。除王者和超凡外，每個段位均有5個小段位，從5到1依次晉升。
 (2)每100積分晉升1個小段位。總排名前320名且達到王者段位的玩家晉升為超凡。
-(3)玩家首次參與積分賽，默認為青銅5段位。新賽季開啟時，將重置玩家段位，並根據上賽季結束時的段位繼承部分積分。|4.戰鬥規則|(1)終極聯賽採用全新的替補制戰鬥規則。玩家陣容分為出戰陣容和替補陣容，每輪戰鬥結束後，未陣亡的戰姬將會保留血量，同時從替補陣容中按順序選取戰姬，將陣容補充至滿員（優先將前排替補填充至前排，後排替補填充至後排），進行下一輪戰鬥，直至一方的所有戰姬全部陣亡。
+(3)玩家首次參與積分賽，默認為青銅5段位。新賽季開啟時，將重置玩家段位，並根據上賽季結束時的段位繼承部分積分。
+(4)青銅、白銀、黃金段位，被挑戰時失敗不扣除積分。達到鑽石段位後，被挑戰時失敗將扣除少量積分。達到王者段位後，被挑戰失敗時將正常扣除積分。|4.戰鬥規則|(1)終極聯賽採用全新的替補制戰鬥規則。玩家陣容分為出戰陣容和替補陣容，每輪戰鬥結束後，未陣亡的戰姬將會保留血量，同時從替補陣容中按順序選取戰姬，將陣容補充至滿員（優先將前排替補填充至前排，後排替補填充至後排），進行下一輪戰鬥，直至一方的所有戰姬全部陣亡。
 (2)每個戰姬至多進行2輪戰鬥，如進行2輪戰鬥後還未陣亡，則強制下場。（可視為陣亡）
 (3)玩家可選擇上陣使魔的順序，當一輪戰鬥失敗時，將按順序替換下一個使魔。戰鬥勝利則原使魔繼續出戰。
 (4)替補陣容的戰姬及使魔數量將根據玩家段位逐漸解鎖。
@@ -5280,3 +5281,13 @@ SCHOOL_PRACTISE_QUICK6,需要消耗{1}鑽石，是否確認
 SCHOOL_PRACTISE_QUICK7,可一鍵通関次數已達到上限
 CHOOSE_ARTIFACT,魂器選擇
 SCHOOL_PRACTISE_QUICK8,一鍵通關
+TRAVEL_NEW_TEXT17,此戰姬已經放置在大本營中，是否撤銷放置？
+TRAVEL_NEW_TEXT18,此前戰姬已經放置在生產建築（麵包坊/許願樹/市集）中，是否撤銷放置？
+ACTIVITY_COUNTDOWN_TEXT01,學長已領取今日簽到獎勵，明日還有豐富獎勵和驚喜禮包哦~
+ACTIVITY_COUNTDOWN_TEXT02,學長已領取今日簽到獎勵，明日還有豐富獎勵可領取哦~
+ACTIVITY_CHRISTMAS_SIGN_UP_TEXT01,已獲得的獎勵
+ACTIVITY_CHRISTMAS_SIGN_UP_TEXT02,今日簽到已結束
+ACTIVITY_COUNTDOWN_HELP,1.活動期間，每日登入即可領取聖誕簽到禮物！|2.在特定日期，學長在獲得簽到禮物時還將觸發每日驚喜禮包。|3.當日的簽到禮物和驚喜禮包在每日刷新後便不可再獲得。
+ACTIVITY_COUNTDOWN_TEXT03,驚喜禮包
+ACTIVITY_COUNTDOWN_TEXT04,簽到獎勵
+ACTIVITY_COUNTDOWN_TIPS,當日可觸發驚喜禮包，學長不要錯過哦~

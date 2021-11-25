@@ -142,18 +142,19 @@ def print_equips(_lang="zh_tw", _slot=6, _lua=True):
             if _slot == __v // 1000:
                 _equips[f"{_k}"] = __v
 
-    if _lua:
-        for _k in _equips:
-            print(f"[\"{_k}\"] = {_equips[_k]},")
-    else:
-        _list = list(_equips.keys())
-        for _i in range(len(_list)):
-            print(_list[-_i - 1])
-    print(len(_equips))
-
     _out = Path("./misc/tables/antiques.json")
     with open(_out, 'w') as _f:
         json.dump(_equips, _f, indent=4, ensure_ascii=False, cls=NpEncoder)
+
+    _equips = {_equips[_k]: _k for _k in _equips}
+    _list = sorted(list(_equips.keys()))
+    if _lua:
+        for _k in _list:
+            print(f"[\"{_equips[_k]}\"] = {_k},")
+    else:
+        for _i in range(len(_list)):
+            print(_equips[_list[-_i - 1]])
+    print(len(_equips))
 
 
 def buff2desc(*_buffs, _lang="zh_tw"):
@@ -168,15 +169,24 @@ def buff2desc(*_buffs, _lang="zh_tw"):
 
 
 def print_cores(_lang="en_en", _lua=True):
+    _GRADES = {
+        1: 'BLUE',
+        2: 'YELLOW',
+        3: 'PURPLE',
+        4: 'GREEN',
+        5: 'RED',
+        6: 'ORANGE',
+        7: 'PINK',
+    }
     _P = Path("./tables/equip.csv")
     _T = pd.read_csv(_P)
-    _T = _T[_T.id // 100 == 57]
-    _T = _T[_T.star == 3]
+    _T = _T[_T.id // 1000 == 5]
     _dict = {}
     # print(len(_T))
     for _r in range(len(_T)):
         _R = _T.iloc[_r]
         _stats = buff2desc(_R.base1, _R.base2, _R.base3, _lang=_lang)
+        _stats = f"{_GRADES[_R.qlt]}{_R.star} {_stats}"
         _dict[_stats] = _R.id
     _list = list(_dict.items())
     _list = sorted(_list, key=lambda x: x[1])
@@ -233,11 +243,11 @@ def sports(_name):
 if __name__ == "__main__":
     # print_pets(_lang="zh_tw", _lua=False)
     # print_lab()
-    # print_equips(_lang="zh_tw", _lua=False)
-    # print_cores(_lang="en_en", _lua=False)
+    # print_equips(_lang="en_en", _lua=True)
+    print_cores(_lang="zh_tw", _lua=True)
     # trans_cores()
     # print(all_girls(_lang="en_en"))
-    # print_10_girls(_lang="zh_tw", _lua=False)
+    # print_10_girls(_lang="en_en", _lua=True)
     # _TEAM = [
     #     "Sivney",
     #     "Nephilim",
@@ -254,4 +264,4 @@ if __name__ == "__main__":
     # ]
     # print(",\n".join([str(sports(_n)) for _n in _TEAM]))
 
-    print_boxes()
+    # print_boxes()

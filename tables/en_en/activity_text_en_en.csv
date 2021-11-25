@@ -34,7 +34,7 @@ id,desc,title
 33,Atelier Valeera,Atelier\nValeera
 34,Servant Raising,Servant\nRaising
 35,Subscription,Subscription
-36,Moon Festival Card,Moon Festival\nCard
+36,Black Friday Card,Black Friday\nCard
 37,Jigsaw,Jigsaw
 38,Subscription,Subscription
 39,Monthly Pack,Monthly\nPack
@@ -83,7 +83,7 @@ id,desc,title
 82,5-star Training Pack,5-Star\nTraining
 84,Winning Heart,Winning\nHeart
 85,New Year Gift Box,New Year\nGift Box
-86,Banquet Preparations,Banquet\nPreparations
+86,Redeem Gifts,Redeem\nGifts
 87,Bonus Sale,Bonus\nSale
 88,Luck Contest,Luck\nContest
 89,Mega Value Pack,Value\nPack
@@ -155,7 +155,7 @@ id,desc,title
 155,Old Campus Exploration,Old Campus\nExploration
 158,韓國kakaopay（韓語專用）,韓國kakaopay（韓語專用）
 159,Monthly Kick Off,Monthly\nKick Off
-160,May Day Pack,May Day\nPack
+160,Black Friday Crazy Sale,Black Friday\nCrazy Sale
 161,An Encounter Through Time,An Encounter\nThrough Time
 162,Newcomer's Trial,Newcomer's\nTrial
 163,Reward Exchange,Reward\nExchange
@@ -166,7 +166,7 @@ id,desc,title
 170,New Year Special,New Year\nSpecial
 171,Christmas Dollhouse,Christmas\nDollhouse
 172,New Year Sign In,New Year\nSign In
-169,Christmas Store,Christmas\nStore
+169,Black Friday Store,Black Friday\nStore
 168,Girls X Capsule Points,Girls X\nCapsule Points
 173,Yume Study Session,Yume\nStudy Session
 174,Turin Enhancement,Turin\nEnhancement
@@ -242,3 +242,4 @@ id,desc,title
 252,Raider's Supply,Raider's\nSupply
 253,Team Assembly,Team\nAssembly
 255,Thanksgiving Feast,Thanksgiving\nFeast
+257,Advent Calendar,Advent\nCalendar

@@ -477,7 +477,7 @@ comic_comment_length_limit_ko_kr,12|120,-1
 activity_letter,36#10|2#1000|940002#50,-1
 activity_birthday_colour_awards,1#18000|1#16000,-1
 activity_birthday_colour_limit,100000,-1
-activity_44_hero_model,kaixi_pifu01_lihui01|496|-1400|0.7|5401602|7222,-1
+activity_44_hero_model,luobi_pifu01_lihui01|197|-1830|0.7|5301702|7225,-1
 activity_birthday_colour_cost,147#1,-1
 activity_birthday_cake_cost,148#1,-1
 activity_birthday_cake_rounds_limit,25,-1
@@ -679,7 +679,7 @@ activity_newbee_fund2_start_time,1616112000,-1
 activity_sprouts_10_award,10|215#10,-1
 activity_sprouts_point_award,80|930200#50,-1
 activity_sprouts_partner_award,51014,-1
-battle_version,3,-1
+battle_version,4,-1
 activity_newbee_fund_get_time_new,20,-1
 puppet_debris_id,940031|940032|940033|940034|940035|940036|940041|940042|940043|940044|940045|940046|940047|940048|940049|940050|940051|940052,-1
 activity_new_partner_test_id,51014,-1
@@ -688,7 +688,8 @@ pet_exlevel_unlock_cost,1#1000000|27#5|216#10,-1
 guild_competition_time,3|7|1,-1
 guild_competition_boss_limit,30,-1
 guild_competition_personal_limit,3,-1
-guild_competition_boss_model,751014|753012|753016,-1
+guild_competition_boss_model,756008|754017|753017,-1
+guild_competition_frame_time,1641168000,-1
 activity_puppet_item,217,-1
 pet_exskill_open_level,120,-1
 bp_lottery_cost,221#50,-1
@@ -760,7 +761,6 @@ pet_training_energy_buy_limit,2,-1
 pet_training_energy_buy_cost,2#80|2#120,-1
 pet_training_lesson_award,0#1|300#1.1|400#1.2|450#1.3|500#1.4|540#1.5,-1
 pet_training_boss_level,120,-1
-guild_competition_frame_time,1637539200,-1
 activity_course_learning_2_cost,231#10,-1
 activity_course_learning_2_award1,800020,-1
 activity_course_learning_2_award2,0.008#1000|0.009#3500|0.01#4000|0.011#1485|1#15,-1

@@ -1617,3 +1617,7 @@ id,type,next_texiao,res_name,res_path,texiao_name,texiao_is_pos,target_pos,is_lo
 1622,1,,houyi_pifu03_hurt03,assets/Effects/hero/houyi,,,,,,0.6,,,,,,,,1,350,650,,,,,,,,
 1623,2,,houyi_pifu03_hurt04,assets/Effects/hero/houyi,,,,,,0.7,99,,,,1,,,,,,,,,,,,,
 1624,2,,houyi_pifu03_hurt05,assets/Effects/hero/houyi,,,,,,0.7,2,,,,,,,,,,,,,,,,,
+1625,3,,luobi_pifu01_unit01,assets/Effects/hero/luobi,,,,,,0.7,,,,,,,,,,,,,,,,,,
+1626,2,,luobi_pifu01_hurt01,assets/Effects/hero/luobi,,,,,,0.7,5,,,,,,,,,,,,,,,,,
+1627,2,,luobi_pifu01_hurt02,assets/Effects/hero/luobi,,,,,,0.7,50,,,,1,,,,,,,,,,,,,
+1628,2,,luobi_pifu01_hurt02,assets/Effects/hero/luobi,texiao02,,,,,0.7,,,,,1,1,,,,,,,,,,,,

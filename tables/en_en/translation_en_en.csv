@@ -2444,7 +2444,7 @@ GUILD_BOSS_TEXT03,Weekly Reward:
 ACTIVITY_WORLD_BOSS_LEVEL_TIPS,Level {1}
 SUMMON_CONFIRM,"{1} Draws will cost you {2} Gems, are you sure to continue?"
 TURING_TASK_LIMIT,Limit
-TURING_TASK_TEXT01,Complete the tasks during the event to get Fine Liquor. The rewards will be sent directly to Bag.
+TURING_TASK_TEXT01,Complete the tasks to get Black Friday Coupons during the event. The rewards will be sent directly to your Bag.
 WELFARE_TEXT01,Unlock the chance to purchase the limited pack with gems by enrolling certain times in Enroll!
 WELFARE_TEXT02,Unlock after Enroll {1} times during the event
 BEGINNER_QUEST_LOCKED,Locked
@@ -3682,7 +3682,7 @@ ACTIVITY_LIMIT_GACHA_HELP,"1. During the event, you can get 3-5 star Girls (Dian
 ACTIVITY_LIMIT_CALL_BOSS_CHALLENGE,Challenge Limit:
 BLACK_FRIDAY_GIFTBAG_DISCOUNT,90%% OFF
 BLACK_FRIDAY_GIFTBAG_PRICE1,Original Price: $499.99
-BLACK_FRIDAY_GIFTBAG_PRICE2,Original Price: $499.99
+BLACK_FRIDAY_GIFTBAG_PRICE2,Original Price: $999.99
 GACHA_LIMIT_CALL_TEXT_1,Get [c][fee19e]{2}[-][/c] in [c][fee19e]{1}[-][/c] draws
 GACHA_LIMIT_BOSS_HELP,"1. You can challenge twice a day.|2. After each battle, you will be awarded with Dews and Coins. The reward will be better as you deal more damage."
 GACHA_LIMIT_EXCHANGE_HELP,"1. During the event, you're able to exchange rewards with Special Recruitment Tickets.|2. After you exchange all the rewards in your current page, the next page will be unlocked.|3. Special Recruitment Tickets can be acquired via Special Recruitment, Recruitment Reward and Skye's Trial.|4. The unused Special Recruitment Tickets will be automatically exchanged into Coins at the rate of 10K Coins each after the event is over. The Coins will be sent via Mail."
@@ -3754,7 +3754,7 @@ ACTIVITY_YEAR_FUND_LATE_AWARD_TIP,"Reclaiming this reward costs {1} gem, purchas
 ACTIVITY_YEAR_FUND_BUY,Purchase to get:
 ACTIVITY_YEAR_FUND_PRICE,$29.99
 ACTIVITY_DOLL_BUY_UNLIMIT,Unlimited
-ACTIVITY_CHRISTMAS_SALE_HELP,"1.During the event, use Deer Candy to exchange sections of rewards. First 2 sections may be directly exchanged. Further sections require a set amount of Deer Candy to be consumed in order to unlock and exchange.|2.Section rewards are divided into fixed rewards and customized rewards (excluding the first section).|3.Each section and customized reward have purchase limits; once the limit reaches 0, no more purchases can be made.|4.Deer Candy can be obtained from Uriel's Plea, Christmas Gift, Mega Value Pack, Special Skin Pack, Special Gift Pack and Jingle Bell Pack!|5. Once the event is over, remaining Deer Candy will automically be exchanged into Coins. Each Deer Candy is worth 50k and will be sent via Mail."
+ACTIVITY_CHRISTMAS_SALE_HELP,"1. During the event, use Black Friday Coupon to exchange sections of rewards. The first 3 sections may be directly exchanged. Further sections require a set amount of Black Friday Coupons to be consumed in order to unlock and exchange.|2. Section rewards are divided into fixed rewards and customized rewards (excluding the first section).|3. Each section and customized reward have purchase limits; once the limit reaches 0, no more purchases can be made.|4. Black Friday Coupons can be obtained from Redeem Gifts, Black Friday Crazy Sale, Mega Value Pack, Special Skin Pack, Special Gift Pack, and Explorer Pack!|5. Once the event is over, the remaining Black Friday Coupon(s) will automatically be exchanged into Coins. Each Black Friday Coupon is worth 50k and will be sent via Mail."
 RE_CHECKIN,Relog
 RE_CHECKIN_TIPS,"{1} Gems to relog, continue?"
 SUMMON_GIFTBAG_MENU01,Capsule Drawn ({1}/{2})
@@ -3762,8 +3762,8 @@ SUMMON_GIFTBAG_MENU02,New Girls
 SUMMON_GIFTBAG_HELP,"1. To officially welcome the new girls, CapsuGirl’s prepared something special: during the event, draw Adv. Capsules to receive additional great rewards. Every target reached for Adv. Capsules drawn or new girls obtained, abundant rewards can be earned.|2. Please stay tune for the next event season update which will be posted on Girl X Battle 2 official Facebook page."
 ACTIVITY_CHRISTMAS_SALE_NEED_COST,Consume {1} {2}s to unlock during the event
 ACTIVITY_CHRISTMAS_SALE_AWARD_PREVIEW,Rare rewards preview
-ACTIVITY_CHRISTMAS_SALE_DESC,Consume Deer Candy to exchange for items that you want!
-LARGE_ACTIVITY_CHRISTMAS_TEXT,Christmas\nCarnival
+ACTIVITY_CHRISTMAS_SALE_DESC,"During the event, you can exchange the rewards you want with Black Friday Coupons!"
+LARGE_ACTIVITY_CHRISTMAS_TEXT,Black Friday Store
 ACTIVITY_YEAR_FUND_NOTICE_TEXT02,Coming soon...
 ACTIVITY_CHRISTMAS_SALE_TITLE,Select reward
 AWARD_LOOK_WINDOW_NEW,Preview
@@ -5113,7 +5113,8 @@ Each Season of Ultimate League lasts for 28 days and is divided into 5 phases: P
 (3) The number of League Tickets consumed is based on the number of battles started every day. The 1st to 5th battles cost 2 League Tickets each, the 6th to 10th battles cost 3 League Tickets each, the 11th to 15th battles cost 4 League Tickets each, and every battle starting from the 16th battle cost 5 League Tickets each. This resets every day.
 (4) The 10 most recent Battle Records can be viewed.|3. Divisions|(1) There are 6 Divisions in Score Match: Bronze, Silver, Gold, Diamond, Master, and Grandmaster. Each Division (except Master and Grandmaster) will be separated into 5 grades, players will need to promote their grades from Grade 5 to Grade 1 before advancing to the next Division.
 (2) Players can get promoted by 1 grade for every 100 points. When a player in Master Division reaches rank 320 in overall rankings, they will advance to Grandmaster Division.
-(3) Players begin at Bronze Division Grade 5 when first entering the Points Race phase. Their Division and Grade will be reset when a new season of Ultimate League begins. However, players will obtain a one-time bonus in points when a new season starts based on their Division in the last season.|4. Battle Rules|(1) Ultimate League has applied a new set of battle rules. Players\' lineup will be separated into battle lineup and backup lineup. After a battle is over, the undefeated Girls in the players\' battle lineup will stay on the battlefield and their HP will not be automatically healed to 100%%.The system will try and fill the lineup back to a full team by using Girls from the Backup Lineup (the system will prioritize setting Backup Girls in Frontline or Backline based on their positions in the Backup Lineup). Then the next round of battle will begin. It will end once all Girls of a player\'s lineup have been defeated.
+(3) Players begin at Bronze Division Grade 5 when first entering the Points Race phase. Their Division and Grade will be reset when a new season of Ultimate League begins. However, players will obtain a one-time bonus in points when a new season starts based on their Division in the last season.
+(4) When a player from Bronze, Silver, and Gold Divisions are challenged by another player but lost the battle, they will not lose points. If a player from Diamond Division is challenged but lost the battle, they will lose fewer points than normal. If a player from Master Division is challenged but lost the battle, they will lose points normally.|4. Battle Rules|(1) Ultimate League has applied a new set of battle rules. Players\' lineup will be separated into battle lineup and backup lineup. After a battle is over, the undefeated Girls in the players\' battle lineup will stay on the battlefield and their HP will not be automatically healed to 100%%.The system will try and fill the lineup back to a full team by using Girls from the Backup Lineup (the system will prioritize setting Backup Girls in Frontline or Backline based on their positions in the Backup Lineup). Then the next round of battle will begin. It will end once all Girls of a player\'s lineup have been defeated.
 (2)Each Girl can participate in 2 battles at most. If they have not been defeated by then, she will automatically be removed and considered as defeated.
 (3) Players can also set the order of Servants. When a battle is lost, the system will place the Servant selected as second option in battle. If a battle is won, the first Servant will remain in the player\'s lineup.
 (4) Backup Girl number and Servants available will be increased according to the players\' Division:
@@ -5287,7 +5288,7 @@ ACTIVITY_FISH_SURPRISE_TITLE,Reward
 ACTIVITY_FISH_SURPRISE_BUTTON,Check
 NEW_RECHARGE_PUSH_TEXT01,Total reward: {1} Gems
 SCHOOL_PRACTISE_QUICK1,Smash
-SCHOOL_PRACTISE_QUICK2,"Senpai, you've successfully unlocked ""Smash"" feature! You can pass the first {1} Stages easier with the feature now!"
+SCHOOL_PRACTISE_QUICK2,"Senpai, you've successfully unlocked ""Smash"" feature! You can pass the following {1} Stages easier in bulk now!"
 SCHOOL_PRACTISE_QUICK3,Select the number of Stages you want to pass
 SCHOOL_PRACTISE_QUICK4,Fight
 SCHOOL_PRACTISE_QUICK_HELP,"1. After passing [c][ea7900]60[-][/c] stages in any one of the House Exams, ""Smash"" feature will be unlocked in the next season.|2. Once the feature is unlocked, you can quickly pass the previous [c][ea7900]([highest stage reached] – 30)[-][/c] Stages without actually entering the battles.|3. This feature unlocks and functions separately in each House.|4. If the number of stages to be completed is more than the number of Admission Tickets you have, corresponding Gems will be consumed to purchase more Admission Tickets for the procedure."
@@ -5296,3 +5297,13 @@ SCHOOL_PRACTISE_QUICK6,"This will cost you {1} Gems, confirm to continue?"
 SCHOOL_PRACTISE_QUICK7,Smash Stage limit reached
 CHOOSE_ARTIFACT,Select Antique
 SCHOOL_PRACTISE_QUICK8,Smash
+TRAVEL_NEW_TEXT17,"The Girl is now in the Main Center of Excursion, confirm to remove her from the facility?"
+TRAVEL_NEW_TEXT18,"The Girl is now in a facility (Food Truck/Wishing Tree/Store) of Excursion, confirm to remove her from the facility?"
+ACTIVITY_COUNTDOWN_TEXT01,You have collected all rewards available today. More rewards and surprise packs await tomorrow~
+ACTIVITY_COUNTDOWN_TEXT02,You have collected all rewards available today. More rewards await tomorrow~
+ACTIVITY_CHRISTMAS_SIGN_UP_TEXT01,Rewards Obtained
+ACTIVITY_CHRISTMAS_SIGN_UP_TEXT02,"As the day has ended, this reward is no longer available!"
+ACTIVITY_COUNTDOWN_HELP,"1. Log in daily during event time to collect rewards from the Advent Calendar!|2. On certain days, an extra Advent Calendar Gift Pack will be triggered when you collect rewards from the Advent Calendar.|3. The reward and gift pack will expire after Daily Reset, so don't forget to collect the reward and purchase the gift pack in time!"
+ACTIVITY_COUNTDOWN_TEXT03,Advent Calendar Pack
+ACTIVITY_COUNTDOWN_TEXT04,Login Reward
+ACTIVITY_COUNTDOWN_TIPS,"Here is the Advent Pack of the day! Don't miss it, Senpai~"

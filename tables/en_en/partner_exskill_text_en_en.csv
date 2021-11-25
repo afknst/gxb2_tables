@@ -1438,7 +1438,7 @@ id,name,skill_name,ex_skill_desc
 751014042,凡赫辛,染血盛宴,Crit increase in [c][e28002]Feast Mode[-][/c] increases to {1} and Control Immunity increase increases to {2}.
 751014043,凡赫辛,染血盛宴,Crit increase in [c][e28002]Feast Mode[-][/c] increases to {1} and Control Immunity increase increases to {2}.
 751014044,凡赫辛,染血盛宴,Crit increase in [c][e28002]Feast Mode[-][/c] increases to {1} and Control Immunity increase increases to {2}.
-751014045,凡赫辛,染血盛宴,"Crit increase in [c][e28002]Feast Mode[-][/c] increases to {1} and Control Immunity increase increases to {2}, chance to change each debuff into 1 stack of [c][e28002]Blood Thirst[-][/c] increases to {3}."
+751014045,凡赫辛,染血盛宴,[c][e28002]狂宴狀態[-][/c]的暴擊加成提升為{1}，免控率加成提升為{2}，將自身每層負面效果(持續性傷害和技能特效除外)轉化成自身一層[c][e28002]嗜血[-][/c]的機率提升為{3} 。
 753015011,皮皮洛,焰火藝術,"Damage increases to {1} of Attack, additional damage to targets increases to {2}, additional damage increase for debuff that the target has increased to {3}, chance to increase the target's remaining rounds of DoT, Attribute Reduction or Control effect increases to {4}."
 753015012,皮皮洛,焰火藝術,"Damage increases to {1} of Attack, additional damage to targets increases to {2}, additional damage increase for debuff that the target has increased to {3}, chance to increase the target's remaining rounds of DoT, Attribute Reduction or Control effect increases to {4}."
 753015013,皮皮洛,焰火藝術,"Damage increases to {1} of Attack, additional damage to targets increases to {2}, additional damage increase for debuff that the target has increased to {3}, chance to increase the target's remaining rounds of DoT, Attribute Reduction or Control effect increases to {4}."

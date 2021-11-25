@@ -6924,7 +6924,7 @@ Mark effect, when Von Helsing attacks her target stacked with Hunter\'s Marks, e
 When a target stacked with Hunter\'s Mark is defeated, Von Helsing (the one that stacked the mark) will deal (stacks of Hunter’s Mark at the time of death x 300% of Attack) damage instantly to the enemy with the highest Attack.
 (If there are multiple ally Von Helsings, every Von Helsing will deal damage once based on the number of Hunter Mark stacked on the defeated target)"
 5101404,Von Helsing,Blood Feast,"
-At the beginning of each round, self-gains 1 stack of [c][e28002]Blood Thirst[-][/c]; except for debuffs that deal damage over time, all debuffs taken will be handled as follows: each debuff has 50% chance to change into 1 stack of [c][e28002]Blood Thirst[-][/c] (3 stacks max per round). Enters [c][e28002]Feast Mode[-][/c] until she is defeated when HP is below 50% for the first time or after defeating her first target).
+At the beginning of each round, self-gains 1 stack of [c][e28002]Blood Thirst[-][/c]; aside from Skill Effects and debuffs that deal damage over time, all debuffs taken will be handled as follows: each debuff has 50% chance to change into 1 stack of [c][e28002]Blood Thirst[-][/c] (3 stacks max per round). Enters [c][e28002]Feast Mode[-][/c] until she is defeated when HP is below 50% for the first time or after defeating her first target).
 
 [c][e28002]Blood Thirst:[-][/c]
 Skill effect, when released, it deals damage to the target and restores an equal amount of HP to self, the amount of damage is determined by her Active skill.
@@ -6933,7 +6933,7 @@ Skill effect, Crit increases by 10%, Control Immunity increases by 20%, Precisio
 [c][01a310]Bleed:[-][/c]
 A damage over time. Damage is dealt once when bleed is inflicted and during the period of effect, damage will be dealt at the beginning of each round."
 65102104,Von Helsing,Blood Feast,"
-At the beginning of each round, self-gains 1 stack of [c][e28002]Blood Thirst[-][/c]; except for debuffs that deal damage over time, all debuffs taken will be handled as follows: each debuff has 60% chance to change into 1 stack of [c][e28002]Blood Thirst[-][/c] (3 stacks max per round). Enters [c][e28002]Feast Mode[-][/c] until she is defeated when HP is below 50% for the first time or after defeating her first target).
+At the beginning of each round, self-gains 1 stack of [c][e28002]Blood Thirst[-][/c]; aside from Skill Effects and debuffs that deal damage over time, all debuffs taken will be handled as follows: each debuff has 60% chance to change into 1 stack of [c][e28002]Blood Thirst[-][/c] (3 stacks max per round). Enters [c][e28002]Feast Mode[-][/c] until she is defeated when HP is below 50% for the first time or after defeating her first target).
 
 [c][e28002]Blood Thirst:[-][/c]
 Skill effect, when released, it deals damage to the target and restores an equal amount of HP to self, the amount of damage is determined by her Active skill.
@@ -6942,7 +6942,7 @@ Skill effect, Crit increases by 15%, Control Immunity increases by 30%, Precisio
 [c][01a310]Bleed:[-][/c]
 A damage over time. Damage is dealt once when bleed is inflicted and during the period of effect, damage will be dealt at the beginning of each round."
 65102114,Von Helsing,Blood Feast,"
-At the beginning of each round, self-gains 1 stack of [c][e28002]Blood Thirst[-][/c]; except for debuffs that deal damage over time, all debuffs taken will be handled as follows: each debuff has 80% chance to change into 1 stack of [c][e28002]Blood Thirst[-][/c] (3 stacks max per round). Enters [c][e28002]Feast Mode[-][/c] until she is defeated when HP is below 50% for the first time or when any girl is defeated in the battle for the first time).
+At the beginning of each round, self-gains 1 stack of [c][e28002]Blood Thirst[-][/c]; aside from Skill Effects and debuffs that deal damage over time, all debuffs taken will be handled as follows: each debuff has 80% chance to change into 1 stack of [c][e28002]Blood Thirst[-][/c] (3 stacks max per round). Enters [c][e28002]Feast Mode[-][/c] until she is defeated when HP is below 50% for the first time or when any girl is defeated in the battle for the first time).
 
 [c][e28002]Blood Thirst:[-][/c]
 Skill effect, when released, it deals damage to the target and restores an equal amount of HP to self, the amount of damage is determined by her Active skill.
@@ -6951,12 +6951,15 @@ Skill effect, Crit increases by 25%, Control Immunity increases by 50%, Precisio
 [c][01a310]Bleed:[-][/c]
 A damage over time. Damage is dealt once when bleed is inflicted and during the period of effect, damage will be dealt at the beginning of each round."
 75101404,Von Helsing,Blood Feast,"
-At the beginning of each round, self-gains 1 stack of [c][e28002]Blood Thirst[-][/c]; except for debuffs that deal damage over time, all debuffs taken will be handled as follows: each debuff has 80% chance to change into 1 stack of [c][e28002]Blood Thirst[-][/c] (3 stacks max per round). Enters [c][e28002]Feast Mode[-][/c] until she is defeated when HP is below 50% for the first time or when any girl is defeated in the battle for the first time).
+At the beginning of each round, self-gains 1 stack of [c][e28002]Blood Thirst[-][/c]; aside from Skill Effects and debuffs that deal damage over time, all debuffs taken will be handled as follows: each debuff has 85% chance to change into 1 stack of [c][e28002]Blood Thirst[-][/c] (3 stacks max per round).
+Von Helsing enters [c][e28002]Feast Mode[-][/c] until she is defeated when her HP drops below 50% for the first time or when any girl is defeated in the battle for the first time.
 
 [c][e28002]Blood Thirst:[-][/c]
 Skill effect, when released, it deals damage to the target and restores an equal amount of HP to self, the amount of damage is determined by her Active skill.
+
 [c][e28002]Feast Mode:[-][/c]
 Skill effect, Crit increases by 25%, Control Immunity increases by 50%, Precision increases by 100% and immune to [c][01a310]Bleed[-][/c].
+
 [c][01a310]Bleed:[-][/c]
 A damage over time. Damage is dealt once when bleed is inflicted and during the period of effect, damage will be dealt at the beginning of each round."
 9010001,Crystal Golem,Mountainous Crumble,"Attacks 2 random enemies, dealing 1765 damage. This attack has 6% chance to [c][01a310]Petrify[-][/c] them for 2 rounds.\n[c][01a310]Petrify:[-][/c]\nA control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
@@ -7825,48 +7828,63 @@ Mark effect, when Von Helsing attacks her target stacked with Hunter\'s Marks, e
 When a target stacked with Hunter\'s Mark is defeated, Von Helsing (the one that stacked the mark) will deal (stacks of Hunter’s Mark at the time of death x 300% of Attack) damage instantly to the enemy with the highest Attack.
 (If there are multiple ally Von Helsings, every Von Helsing will deal damage once based on the number of Hunter Mark stacked on the defeated target)"
 751014041,Von Helsing,Blood Feast,"
-At the beginning of each round, self-gains 1 stack of [c][e28002]Blood Thirst[-][/c]; except for debuffs that deal damage over time, all debuffs taken will be handled as follows: each debuff has 80% chance to change into 1 stack of [c][e28002]Blood Thirst[-][/c] (3 stacks max per round). Enters [c][e28002]Feast Mode[-][/c] until she is defeated when HP is below 50% for the first time or when any girl is defeated in the battle for the first time).
+At the beginning of each round, self-gains 1 stack of [c][e28002]Blood Thirst[-][/c]; aside from Skill Effects and debuffs that deal damage over time, all debuffs taken will be handled as follows: each debuff has 85% chance to change into 1 stack of [c][e28002]Blood Thirst[-][/c] (3 stacks max per round).
+Von Helsing enters [c][e28002]Feast Mode[-][/c] until she is defeated when her HP drops below 50% for the first time or when any girl is defeated in the battle for the first time.
 
 [c][e28002]Blood Thirst:[-][/c]
 Skill effect, when released, it deals damage to the target and restores an equal amount of HP to self, the amount of damage is determined by her Active skill.
+
 [c][e28002]Feast Mode:[-][/c]
 Skill effect, Crit increases by 26%, Control Immunity increases by 51%, Precision increases by 100% and immune to [c][01a310]Bleed[-][/c].
+
 [c][01a310]Bleed:[-][/c]
 A damage over time. Damage is dealt once when bleed is inflicted and during the period of effect, damage will be dealt at the beginning of each round."
 751014042,Von Helsing,Blood Feast,"
-At the beginning of each round, self-gains 1 stack of [c][e28002]Blood Thirst[-][/c]; except for debuffs that deal damage over time, all debuffs taken will be handled as follows: each debuff has 80% chance to change into 1 stack of [c][e28002]Blood Thirst[-][/c] (3 stacks max per round). Enters [c][e28002]Feast Mode[-][/c] until she is defeated when HP is below 50% for the first time or when any girl is defeated in the battle for the first time).
+At the beginning of each round, self-gains 1 stack of [c][e28002]Blood Thirst[-][/c]; aside from Skill Effects and debuffs that deal damage over time, all debuffs taken will be handled as follows: each debuff has 85% chance to change into 1 stack of [c][e28002]Blood Thirst[-][/c] (3 stacks max per round).
+Von Helsing enters [c][e28002]Feast Mode[-][/c] until she is defeated when her HP drops below 50% for the first time or when any girl is defeated in the battle for the first time.
 
 [c][e28002]Blood Thirst:[-][/c]
 Skill effect, when released, it deals damage to the target and restores an equal amount of HP to self, the amount of damage is determined by her Active skill.
+
 [c][e28002]Feast Mode:[-][/c]
 Skill effect, Crit increases by 26.5%, Control Immunity increases by 52%, Precision increases by 100% and immune to [c][01a310]Bleed[-][/c].
+
 [c][01a310]Bleed:[-][/c]
 A damage over time. Damage is dealt once when bleed is inflicted and during the period of effect, damage will be dealt at the beginning of each round."
 751014043,Von Helsing,Blood Feast,"
-At the beginning of each round, self-gains 1 stack of [c][e28002]Blood Thirst[-][/c]; except for debuffs that deal damage over time, all debuffs taken will be handled as follows: each debuff has 80% chance to change into 1 stack of [c][e28002]Blood Thirst[-][/c] (3 stacks max per round). Enters [c][e28002]Feast Mode[-][/c] until she is defeated when HP is below 50% for the first time or when any girl is defeated in the battle for the first time).
+At the beginning of each round, self-gains 1 stack of [c][e28002]Blood Thirst[-][/c]; aside from Skill Effects and debuffs that deal damage over time, all debuffs taken will be handled as follows: each debuff has 85% chance to change into 1 stack of [c][e28002]Blood Thirst[-][/c] (3 stacks max per round).
+Von Helsing enters [c][e28002]Feast Mode[-][/c] until she is defeated when her HP drops below 50% for the first time or when any girl is defeated in the battle for the first time.
 
 [c][e28002]Blood Thirst:[-][/c]
 Skill effect, when released, it deals damage to the target and restores an equal amount of HP to self, the amount of damage is determined by her Active skill.
+
 [c][e28002]Feast Mode:[-][/c]
 Skill effect, Crit increases by 27%, Control Immunity increases by 53%, Precision increases by 100% and immune to [c][01a310]Bleed[-][/c].
+
 [c][01a310]Bleed:[-][/c]
 A damage over time. Damage is dealt once when bleed is inflicted and during the period of effect, damage will be dealt at the beginning of each round."
 751014044,Von Helsing,Blood Feast,"
-At the beginning of each round, self-gains 1 stack of [c][e28002]Blood Thirst[-][/c]; except for debuffs that deal damage over time, all debuffs taken will be handled as follows: each debuff has 80% chance to change into 1 stack of [c][e28002]Blood Thirst[-][/c] (3 stacks max per round). Enters [c][e28002]Feast Mode[-][/c] until she is defeated when HP is below 50% for the first time or when any girl is defeated in the battle for the first time).
+At the beginning of each round, self-gains 1 stack of [c][e28002]Blood Thirst[-][/c]; aside from Skill Effects and debuffs that deal damage over time, all debuffs taken will be handled as follows: each debuff has 85% chance to change into 1 stack of [c][e28002]Blood Thirst[-][/c] (3 stacks max per round).
+Von Helsing enters [c][e28002]Feast Mode[-][/c] until she is defeated when her HP drops below 50% for the first time or when any girl is defeated in the battle for the first time.
 
 [c][e28002]Blood Thirst:[-][/c]
 Skill effect, when released, it deals damage to the target and restores an equal amount of HP to self, the amount of damage is determined by her Active skill.
+
 [c][e28002]Feast Mode:[-][/c]
-Skill effect, Crit increases by 27%, Control Immunity increases by 54%, Precision increases by 100% and immune to [c][01a310]Bleed[-][/c].
+Skill effect, Crit increases by 27.5%, Control Immunity increases by 54%, Precision increases by 100% and immune to [c][01a310]Bleed[-][/c].
+
 [c][01a310]Bleed:[-][/c]
 A damage over time. Damage is dealt once when bleed is inflicted and during the period of effect, damage will be dealt at the beginning of each round."
 751014045,Von Helsing,Blood Feast,"
-At the beginning of each round, self-gains 1 stack of [c][e28002]Blood Thirst[-][/c]; except for debuffs that deal damage over time, all debuffs taken will be handled as follows: each debuff has 85% chance to change into 1 stack of [c][e28002]Blood Thirst[-][/c] (3 stacks max per round). Enters [c][e28002]Feast Mode[-][/c] until she is defeated when HP is below 50% for the first time or when any girl is defeated in the battle for the first time).
+At the beginning of each round, self-gains 1 stack of [c][e28002]Blood Thirst[-][/c]; aside from Skill Effects and debuffs that deal damage over time, all debuffs taken will be handled as follows: each debuff has 90% chance to change into 1 stack of [c][e28002]Blood Thirst[-][/c] (3 stacks max per round).
+Von Helsing enters [c][e28002]Feast Mode[-][/c] until she is defeated when her HP drops below 50% for the first time or when any girl is defeated in the battle for the first time.
 
 [c][e28002]Blood Thirst:[-][/c]
 Skill effect, when released, it deals damage to the target and restores an equal amount of HP to self, the amount of damage is determined by her Active skill.
+
 [c][e28002]Feast Mode:[-][/c]
 Skill effect, Crit increases by 28%, Control Immunity increases by 55%, Precision increases by 100% and immune to [c][01a310]Bleed[-][/c].
+
 [c][01a310]Bleed:[-][/c]
 A damage over time. Damage is dealt once when bleed is inflicted and during the period of effect, damage will be dealt at the beginning of each round."
 101010,Servant,Ulticore Lv. 10,Increases Servant's Skill Damage by 15%
@@ -7878,7 +7896,7 @@ A damage over time. Damage is dealt once when bleed is inflicted and during the 
 201060,Kraken,Ulticore Lv. 60,"When the Servant triggers its Active Skill, increases the Speed the Girl with the highest Attack in the team by 200 for 2 rounds"
 201080,Kraken,Ulticore Lv. 80,"When the Servant triggers its Active Skill, it also allows the Girls who receive extra Attack bonus from this Active Skill to ignore the Damage Reduction of their targets for 2 rounds."
 301060,Deerling,Ulticore Lv. 60,"After the Servant triggers its Active Skill, restores 18% of the Maximum HP for the ally with the lowest HP."
-301080,Deerling,Ulticore Lv. 80,"After the Servant triggers its Active Skill, grants the ally who receives the additional healing (from the effect of Ulticore Lv. 60) 35% Damage Depletion for 2 rounds."
+301080,Deerling,Ulticore Lv. 80,"After the Servant triggers its Active Skill, the allies who receives the additional healing (from the effect of Ulticore Lv. 60) will take 35% less damage for 2 rounds."
 401060,Void,Ulticore Lv. 60,"When the Servant triggers its Active Skill, the rate for Silence to take effect won’t be affected by the Immunity of targets."
 401080,Void,Ulticore Lv. 80,"When the Servant triggers its Active Skill, has 30% chance to disable 2 random enemies from performing Basic Attacks for 2 rounds."
 501060,Robert,Ulticore Lv. 60,"When the Servant triggers its Active Skill, the rate for Stun to take effect won’t be affected by the Immunity of targets."
@@ -9598,13 +9616,13 @@ A Control Effect. Crystallized targets will not be able to use their Active Skil
 When this protocol is activated, Robbie and Erina will launch a combined attack together.
 
 Robbie consumes 30% of current HP and releases her Active Skill.
-She deals (240% of Attack) damage to 1 random Backline enemy and [c][01a310]burns[-][/c] it for 2 Rounds, dealing (240% of Attack) damage per Round. Starting from the next attack, the target will take 10% more damage from [c][01a310]Burn[-][/c] effects for 2 Rounds.
-Robbie will then consume all stacks of [c][e28002]Laser Charge[-][/c], and repeat the same attack and afflict the same effects once to 1 random Backline enemy for each stack. 
+She deals (240% of Attack) damage to 1 random Backline enemy and [c][01a310]burns[-][/c] it for 2 Rounds, dealing (240% of Attack) damage per Round.Starting from the next attack, the target will take 10% more damage from [c][01a310]Burn[-][/c] effects for 2 Rounds.
 After releasing her Active Skill, Robbie will recover (10% of self Maximum HP) HP.
 At the start of the battle, Robbie gains 2 stacks of [c][e28002]Laser Charge[-][/c].
 
 [c][e28002]Laser Charge:[-][/c]
 A Skill Effect. Every stack grants 20% Energy Removal Resist and can be stacked up to 5 stacks at most.
+When releasing her Active Skill, Robbie will consume all stacks of [c][e28002]Laser Charge[-][/c], and deal the same amount of damage caused by the Active Skill and afflict the same effects once to 1 random Backline enemy for each stack.
 
 [c][01a310]Burn:[-][/c]
 A damage over time. Damage is dealt once when Burn is inflicted and at the beginning of each round during the period of effect."
@@ -9612,13 +9630,13 @@ A damage over time. Damage is dealt once when Burn is inflicted and at the begin
 When this protocol is activated, Robbie and Erina will launch a combined attack together.
 
 Robbie consumes 30% of current HP and releases her Active Skill.
-She deals (360% of Attack) damage to 1 random Backline enemy and [c][01a310]burns[-][/c] it for 2 Rounds, dealing (360% of Attack) damage per Round. Starting from the next attack, the target will take 20% more damage from [c][01a310]Burn[-][/c] effects for 2 Rounds.
-Robbie will then consume all stacks of [c][e28002]Laser Charge[-][/c], and repeat the same attack and afflict the same effects once to 1 random Backline enemy for each stack. 
+She deals (360% of Attack) damage to 1 random Backline enemy and [c][01a310]burns[-][/c] it for 2 Rounds, dealing (360% of Attack) damage per Round.Starting from the next attack, the target will take 20% more damage from [c][01a310]Burn[-][/c] effects for 2 Rounds.
 After releasing her Active Skill, Robbie will recover (20% of self Maximum HP) HP.
 At the start of the battle, Robbie gains 2 stacks of [c][e28002]Laser Charge[-][/c].
 
 [c][e28002]Laser Charge:[-][/c]
 A Skill Effect. Every stack grants 20% Energy Removal Resist and can be stacked up to 5 stacks at most.
+When releasing her Active Skill, Robbie will consume all stacks of [c][e28002]Laser Charge[-][/c], and deal the same amount of damage caused by the Active Skill and afflict the same effects once to 1 random Backline enemy for each stack.
 
 [c][01a310]Burn:[-][/c]
 A damage over time. Damage is dealt once when Burn is inflicted and at the beginning of each round during the period of effect."
@@ -9626,13 +9644,13 @@ A damage over time. Damage is dealt once when Burn is inflicted and at the begin
 When this protocol is activated, Robbie and Erina will launch a combined attack together.
 
 Robbie consumes 30% of current HP and releases her Active Skill.
-She deals (600% of Attack) damage to 1 random Backline enemy and [c][01a310]burns[-][/c] it for 2 Rounds, dealing (600% of Attack) damage per Round. Starting from the next attack, the target will take 30% more damage from [c][01a310]Burn[-][/c] effects for 2 Rounds.
-Robbie will then consume all stacks of [c][e28002]Laser Charge[-][/c], and repeat the same attack and afflict the same effects once to 1 random Backline enemy for each stack. 
+She deals (600% of Attack) damage to 1 random Backline enemy and [c][01a310]burns[-][/c] it for 2 Rounds, dealing (600% of Attack) damage per Round.Starting from the next attack, the target will take 30% more damage from [c][01a310]Burn[-][/c] effects for 2 Rounds.
 After releasing her Active Skill, Robbie will recover (30% of self Maximum HP) HP.
 At the start of the battle, Robbie gains 2 stacks of [c][e28002]Laser Charge[-][/c].
 
 [c][e28002]Laser Charge:[-][/c]
 A Skill Effect. Every stack grants 20% Energy Removal Resist and can be stacked up to 5 stacks at most.
+When releasing her Active Skill, Robbie will consume all stacks of [c][e28002]Laser Charge[-][/c], and deal the same amount of damage caused by the Active Skill and afflict the same effects once to 1 random Backline enemy for each stack.
 
 [c][01a310]Burn:[-][/c]
 A damage over time. Damage is dealt once when Burn is inflicted and at the beginning of each round during the period of effect."
@@ -9671,7 +9689,8 @@ When Robbie deals a Basic Attack, she gains 1 stack of [c][e28002]Laser Charge[-
 At the start of each Round, if Robbie is afflicted with a Debuff (DoT, Attribute Reduction, Control Effect or Marks), she gains 10% Damage Depletion for 1 Round.
 
 [c][e28002]Laser Charge：[-][/c]
-A Skill Effect. Every stack grants 20% Energy Removal Resist and can be stacked up to 5 stacks at most."
+A Skill Effect. Every stack grants 20% Energy Removal Resist and can be stacked up to 5 stacks at most.
+When releasing her Active Skill, Robbie will consume all stacks of [c][e28002]Laser Charge[-][/c], and deal the same amount of damage caused by the Active Skill and afflict the same effects once to 1 random Backline enemy for each stack"
 65302403,Robbie,Protocol: Energization,"
 When this protocol is activated, Robbie will absorb the energy running rampant on the battlefield.
 
@@ -9679,7 +9698,8 @@ When Robbie deals a Basic Attack, she gains 1 stack of [c][e28002]Laser Charge[-
 At the start of each Round, if Robbie is afflicted with a Debuff (DoT, Attribute Reduction, Control Effect or Marks), she gains 15% Damage Depletion for 1 Round.
 
 [c][e28002]Laser Charge：[-][/c]
-A Skill Effect. Every stack grants 20% Energy Removal Resist and can be stacked up to 5 stacks at most."
+A Skill Effect. Every stack grants 20% Energy Removal Resist and can be stacked up to 5 stacks at most.
+When releasing her Active Skill, Robbie will consume all stacks of [c][e28002]Laser Charge[-][/c], and deal the same amount of damage caused by the Active Skill and afflict the same effects once to 1 random Backline enemy for each stack"
 65302413,Robbie,Protocol: Energization,"
 When this protocol is activated, Robbie will absorb the energy running rampant on the battlefield.
 
@@ -9687,7 +9707,8 @@ When Robbie deals a Basic Attack, she gains 1 stack of [c][e28002]Laser Charge[-
 At the start of each Round, if Robbie is afflicted with a Debuff (DoT, Attribute Reduction, Control Effect or Marks), she gains 20% Damage Depletion for 1 Round.
 
 [c][e28002]Laser Charge：[-][/c]
-A Skill Effect. Every stack grants 20% Energy Removal Resist and can be stacked up to 5 stacks at most."
+A Skill Effect. Every stack grants 20% Energy Removal Resist and can be stacked up to 5 stacks at most.
+When releasing her Active Skill, Robbie will consume all stacks of [c][e28002]Laser Charge[-][/c], and deal the same amount of damage caused by the Active Skill and afflict the same effects once to 1 random Backline enemy for each stack"
 75301703,Robbie,Protocol: Energization,"
 When this protocol is activated, Robbie will absorb the energy running rampant on the battlefield.
 
@@ -9695,7 +9716,8 @@ When Robbie deals a Basic Attack, she gains 1 stack of [c][e28002]Laser Charge[-
 At the start of each Round, if Robbie is afflicted with a Debuff (DoT, Attribute Reduction, Control Effect or Marks), she gains 20% Damage Depletion for 1 Round.
 
 [c][e28002]Laser Charge：[-][/c]
-A Skill Effect. Every stack grants 20% Energy Removal Resist and can be stacked up to 5 stacks at most."
+A Skill Effect. Every stack grants 20% Energy Removal Resist and can be stacked up to 5 stacks at most.
+When releasing her Active Skill, Robbie will consume all stacks of [c][e28002]Laser Charge[-][/c], and deal the same amount of damage caused by the Active Skill and afflict the same effects once to 1 random Backline enemy for each stack"
 5301704,Robbie,Protocol: Overdrive,"
 This protocol will only be activated in the direst situations, when there is no other choice but to fight.
 
@@ -9720,13 +9742,13 @@ When Robbie\'s current HP drops below 30% of her maximum HP for the first time i
 When this protocol is activated, Robbie and Erina will launch a combined attack together.
 
 Robbie consumes 30% of current HP and releases her Active Skill.
-She deals (612% of Attack) damage to 1 random Backline enemy and [c][01a310]burns[-][/c] it for 2 Rounds, dealing (612% of Attack) damage per Round. Starting from the next attack, the target will take 30% more damage from [c][01a310]Burn[-][/c] effects for 2 Rounds.
-Robbie will then consume all stacks of [c][e28002]Laser Charge[-][/c], and repeat the same attack and afflict the same effects once to 1 random Backline enemy for each stack. 
+She deals (600% of Attack) damage to 1 random Backline enemy and [c][01a310]burns[-][/c] it for 2 Rounds, dealing (600% of Attack) damage per Round.Starting from the next attack, the target will take 30% more damage from [c][01a310]Burn[-][/c] effects for 2 Rounds.
 After releasing her Active Skill, Robbie will recover (30% of self Maximum HP) HP.
 At the start of the battle, Robbie gains 2 stacks of [c][e28002]Laser Charge[-][/c].
 
 [c][e28002]Laser Charge:[-][/c]
 A Skill Effect. Every stack grants 20% Energy Removal Resist and can be stacked up to 5 stacks at most.
+When releasing her Active Skill, Robbie will consume all stacks of [c][e28002]Laser Charge[-][/c], and deal the same amount of damage caused by the Active Skill and afflict the same effects once to 1 random Backline enemy for each stack.
 
 [c][01a310]Burn:[-][/c]
 A damage over time. Damage is dealt once when Burn is inflicted and at the beginning of each round during the period of effect."
@@ -9734,13 +9756,13 @@ A damage over time. Damage is dealt once when Burn is inflicted and at the begin
 When this protocol is activated, Robbie and Erina will launch a combined attack together.
 
 Robbie consumes 30% of current HP and releases her Active Skill.
-She deals (624% of Attack) damage to 1 random Backline enemy and [c][01a310]burns[-][/c] it for 2 Rounds, dealing (624% of Attack) damage per Round. Starting from the next attack, the target will take 30% more damage from [c][01a310]Burn[-][/c] effects for 2 Rounds.
-Robbie will then consume all stacks of [c][e28002]Laser Charge[-][/c], and repeat the same attack and afflict the same effects once to 1 random Backline enemy for each stack. 
+She deals (624% of Attack) damage to 1 random Backline enemy and [c][01a310]burns[-][/c] it for 2 Rounds, dealing (624% of Attack) damage per Round.Starting from the next attack, the target will take 30% more damage from [c][01a310]Burn[-][/c] effects for 2 Rounds.
 After releasing her Active Skill, Robbie will recover (30% of self Maximum HP) HP.
 At the start of the battle, Robbie gains 2 stacks of [c][e28002]Laser Charge[-][/c].
 
 [c][e28002]Laser Charge:[-][/c]
 A Skill Effect. Every stack grants 20% Energy Removal Resist and can be stacked up to 5 stacks at most.
+When releasing her Active Skill, Robbie will consume all stacks of [c][e28002]Laser Charge[-][/c], and deal the same amount of damage caused by the Active Skill and afflict the same effects once to 1 random Backline enemy for each stack.
 
 [c][01a310]Burn:[-][/c]
 A damage over time. Damage is dealt once when Burn is inflicted and at the beginning of each round during the period of effect."
@@ -9748,13 +9770,13 @@ A damage over time. Damage is dealt once when Burn is inflicted and at the begin
 When this protocol is activated, Robbie and Erina will launch a combined attack together.
 
 Robbie consumes 30% of current HP and releases her Active Skill.
-She deals (636% of Attack) damage to 1 random Backline enemy and [c][01a310]burns[-][/c] it for 2 Rounds, dealing (636% of Attack) damage per Round. Starting from the next attack, the target will take 30% more damage from [c][01a310]Burn[-][/c] effects for 2 Rounds.
-Robbie will then consume all stacks of [c][e28002]Laser Charge[-][/c], and repeat the same attack and afflict the same effects once to 1 random Backline enemy for each stack. 
+She deals (636% of Attack) damage to 1 random Backline enemy and [c][01a310]burns[-][/c] it for 2 Rounds, dealing (636% of Attack) damage per Round.Starting from the next attack, the target will take 30% more damage from [c][01a310]Burn[-][/c] effects for 2 Rounds.
 After releasing her Active Skill, Robbie will recover (30% of self Maximum HP) HP.
 At the start of the battle, Robbie gains 2 stacks of [c][e28002]Laser Charge[-][/c].
 
 [c][e28002]Laser Charge:[-][/c]
 A Skill Effect. Every stack grants 20% Energy Removal Resist and can be stacked up to 5 stacks at most.
+When releasing her Active Skill, Robbie will consume all stacks of [c][e28002]Laser Charge[-][/c], and deal the same amount of damage caused by the Active Skill and afflict the same effects once to 1 random Backline enemy for each stack.
 
 [c][01a310]Burn:[-][/c]
 A damage over time. Damage is dealt once when Burn is inflicted and at the beginning of each round during the period of effect."
@@ -9762,27 +9784,27 @@ A damage over time. Damage is dealt once when Burn is inflicted and at the begin
 When this protocol is activated, Robbie and Erina will launch a combined attack together.
 
 Robbie consumes 30% of current HP and releases her Active Skill.
-She deals (648% of Attack) damage to 1 random Backline enemy and [c][01a310]burns[-][/c] it for 2 Rounds, dealing (648% of Attack) damage per Round. Starting from the next attack, the target will take 30% more damage from [c][01a310]Burn[-][/c] effects for 2 Rounds.
-Robbie will then consume all stacks of [c][e28002]Laser Charge[-][/c], and repeat the same attack and afflict the same effects once to 1 random Backline enemy for each stack. 
+She deals (648% of Attack) damage to 1 random Backline enemy and [c][01a310]burns[-][/c] it for 2 Rounds, dealing (648% of Attack) damage per Round.Starting from the next attack, the target will take 30% more damage from [c][01a310]Burn[-][/c] effects for 2 Rounds.
 After releasing her Active Skill, Robbie will recover (30% of self Maximum HP) HP.
 At the start of the battle, Robbie gains 2 stacks of [c][e28002]Laser Charge[-][/c].
 
 [c][e28002]Laser Charge:[-][/c]
 A Skill Effect. Every stack grants 20% Energy Removal Resist and can be stacked up to 5 stacks at most.
+When releasing her Active Skill, Robbie will consume all stacks of [c][e28002]Laser Charge[-][/c], and deal the same amount of damage caused by the Active Skill and afflict the same effects once to 1 random Backline enemy for each stack.
 
 [c][01a310]Burn:[-][/c]
 A damage over time. Damage is dealt once when Burn is inflicted and at the beginning of each round during the period of effect."
 753017015,Robbie,Protocol: Erina,"
 When this protocol is activated, Robbie and Erina will launch a combined attack together.
 
-Robbie consumes 30% of her current HP and releases her Active Skill.
-She deals (660% of Attack) damage to 1 random Backline enemy and [c][01a310]burns[-][/c] it for 2 Rounds, dealing (660% of Attack) damage per Round. Starting from the next attack, the target will take 33% more damage from [c][01a310]Burn[-][/c] effects for 2 Rounds.
-Robbie will then consume all stacks of [c][e28002]Laser Charge[-][/c], and repeat the same attack and afflict the same effects once to 1 random Backline enemy for each stack. 
+Robbie consumes 30% of current HP and releases her Active Skill.
+She deals (660% of Attack) damage to 1 random Backline enemy and [c][01a310]burns[-][/c] it for 2 Rounds, dealing (660% of Attack) damage per Round.Starting from the next attack, the target will take 33% more damage from [c][01a310]Burn[-][/c] effects for 2 Rounds.
 After releasing her Active Skill, Robbie will recover (33% of self Maximum HP) HP.
-At the start of the battle, Robbie gains 3 stacks of [c][e28002]Laser Charge[-][/c].
+At the start of the battle, Robbie gains 2 stacks of [c][e28002]Laser Charge[-][/c].
 
 [c][e28002]Laser Charge:[-][/c]
 A Skill Effect. Every stack grants 20% Energy Removal Resist and can be stacked up to 5 stacks at most.
+When releasing her Active Skill, Robbie will consume all stacks of [c][e28002]Laser Charge[-][/c], and deal the same amount of damage caused by the Active Skill and afflict the same effects once to 1 random Backline enemy for each stack.
 
 [c][01a310]Burn:[-][/c]
 A damage over time. Damage is dealt once when Burn is inflicted and at the beginning of each round during the period of effect."
@@ -9828,7 +9850,8 @@ When Robbie deals a Basic Attack, she gains 2 stacks of [c][e28002]Laser Charge[
 At the start of each Round, if Robbie is afflicted with a Debuff (DoT, Attribute Reduction, Control Effect or Marks), she gains 21% Damage Depletion for 1 Round.
 
 [c][e28002]Laser Charge：[-][/c]
-A Skill Effect. Every stack grants 20% Energy Removal Resist and can be stacked up to 5 stacks at most."
+A Skill Effect. Every stack grants 20% Energy Removal Resist and can be stacked up to 5 stacks at most.
+When releasing her Active Skill, Robbie will consume all stacks of [c][e28002]Laser Charge[-][/c], and deal the same amount of damage caused by the Active Skill and afflict the same effects once to 1 random Backline enemy for each stack"
 753017032,Robbie,Protocol: Energization,"
 When this protocol is activated, Robbie will absorb the energy running rampant on the battlefield.
 
@@ -9836,7 +9859,8 @@ When Robbie deals a Basic Attack, she gains 2 stacks of [c][e28002]Laser Charge[
 At the start of each Round, if Robbie is afflicted with a Debuff (DoT, Attribute Reduction, Control Effect or Marks), she gains 22% Damage Depletion for 1 Round.
 
 [c][e28002]Laser Charge：[-][/c]
-A Skill Effect. Every stack grants 20% Energy Removal Resist and can be stacked up to 5 stacks at most."
+A Skill Effect. Every stack grants 20% Energy Removal Resist and can be stacked up to 5 stacks at most.
+When releasing her Active Skill, Robbie will consume all stacks of [c][e28002]Laser Charge[-][/c], and deal the same amount of damage caused by the Active Skill and afflict the same effects once to 1 random Backline enemy for each stack"
 753017033,Robbie,Protocol: Energization,"
 When this protocol is activated, Robbie will absorb the energy running rampant on the battlefield.
 
@@ -9844,7 +9868,8 @@ When Robbie deals a Basic Attack, she gains 2 stacks of [c][e28002]Laser Charge[
 At the start of each Round, if Robbie is afflicted with a Debuff (DoT, Attribute Reduction, Control Effect or Marks), she gains 23% Damage Depletion for 1 Round.
 
 [c][e28002]Laser Charge：[-][/c]
-A Skill Effect. Every stack grants 20% Energy Removal Resist and can be stacked up to 5 stacks at most."
+A Skill Effect. Every stack grants 20% Energy Removal Resist and can be stacked up to 5 stacks at most.
+When releasing her Active Skill, Robbie will consume all stacks of [c][e28002]Laser Charge[-][/c], and deal the same amount of damage caused by the Active Skill and afflict the same effects once to 1 random Backline enemy for each stack"
 753017034,Robbie,Protocol: Energization,"
 When this protocol is activated, Robbie will absorb the energy running rampant on the battlefield.
 
@@ -9852,7 +9877,8 @@ When Robbie deals a Basic Attack, she gains 2 stacks of [c][e28002]Laser Charge[
 At the start of each Round, if Robbie is afflicted with a Debuff (DoT, Attribute Reduction, Control Effect or Marks), she gains 24% Damage Depletion for 1 Round.
 
 [c][e28002]Laser Charge：[-][/c]
-A Skill Effect. Every stack grants 20% Energy Removal Resist and can be stacked up to 5 stacks at most."
+A Skill Effect. Every stack grants 20% Energy Removal Resist and can be stacked up to 5 stacks at most.
+When releasing her Active Skill, Robbie will consume all stacks of [c][e28002]Laser Charge[-][/c], and deal the same amount of damage caused by the Active Skill and afflict the same effects once to 1 random Backline enemy for each stack"
 753017035,Robbie,Protocol: Energization,"
 When this protocol is activated, Robbie will absorb the energy running rampant on the battlefield.
 
@@ -9860,7 +9886,8 @@ When Robbie deals a Basic Attack, she gains 2 stacks of [c][e28002]Laser Charge[
 At the start of each Round, if Robbie is afflicted with a Debuff (DoT, Attribute Reduction, Control Effect or Marks), she gains 25% Damage Depletion for 1 Round.
 
 [c][e28002]Laser Charge：[-][/c]
-A Skill Effect. Every stack grants 20% Energy Removal Resist and can be stacked up to 5 stacks at most."
+A Skill Effect. Every stack grants 20% Energy Removal Resist and can be stacked up to 5 stacks at most.
+When releasing her Active Skill, Robbie will consume all stacks of [c][e28002]Laser Charge[-][/c], and deal the same amount of damage caused by the Active Skill and afflict the same effects once to 1 random Backline enemy for each stack"
 753017041,Robbie,Protocol: Overdrive,"
 This protocol will only be activated in the direst situations, when there is no other choice but to fight.
 
@@ -9886,3 +9913,19 @@ This protocol will only be activated in the direst situations, when there is no 
 
 The more HP Robbie loses in battle, the more Damage Depletion and Damage Boost she will gain. She can gain at most 130% Damage Boost and 44% Damage Depletion from this skill. (The cap will be reached when she has 30% of her maximum HP remaining)
 When Robbie\'s current HP drops below 30% of her maximum HP for the first time in the battle, she will recover (70% of Maximum HP) HP."
+501108,Sky Island,Energy Conversion,"Before Angelica attacks, she removes all Energy from herself and deals 10% more damage with her Basic Attack."
+501109,Sky Island,Double Tap I,There is a 50% chance for Angelica to deal her Basic Attack twice.
+501110,Sky Island,Double Tap II,There is a 100% chance for Angelica to deal her Basic Attack twice.
+502108,Sky Island,Crystallize - Attack Absorption,"When an ally is [c][e28002]Crystallized[-][/c], her Attack will be lowered by 20%, and all enemies will gain 5% Attack. Both effects last for 3 Rounds."
+502109,Sky Island,Crystallize - Energy Absorption,"When an ally is Crystallized, she will lose 100 Energy, and all enemies will gain 50 Energy."
+503112,Sky Island,Damage Denial,"When a DoT Effect is afflicted to an ally or an enemy, all enemies will gain 5% Damage Reduction for 3 Rounds."
+503113,Sky Island,Energy - Burn,"When Burn is afflicted to an ally, 1 random enemy will gain 100 Energy."
+643101,Fate Crystal,Antique Skill,+25 Energy
+643201,Fate Crystal,Antique Skill,+30 Energy
+643301,Fate Crystal,Antique Skill,+35 Energy
+643401,Fate Crystal,Antique Skill,+40 Energy
+643501,Fate Crystal,Antique Skill,+45 Energy
+643601,Fate Crystal,Antique Skill,+50 Energy
+6742101,Tool of Trade,Antique Skill,"Before the owner releases her Active Skill, she gains 5% Crit, her attacks will ignore 5% of the targets' Crit Resist, and every 1% Crit that she has will grant her 1% extra Crit Damage. All of the aforementioned effects last for 1 round."
+6742201,Tool of Trade,Antique Skill,"Before the owner releases her Active Skill, she gains 10% Crit, her attacks will ignore 5% of the targets' Crit Resist, and every 1% Crit that she has will grant her 1.5% extra Crit Damage. All of the aforementioned effects last for 1 round."
+6742301,Tool of Trade,Antique Skill,"Before the owner releases her Active Skill, she gains 15% Crit, her attacks will ignore 5% of the targets' Crit Resist, and every 1% Crit that she has will grant her 2% extra Crit Damage. All of the aforementioned effects last for 1 round."

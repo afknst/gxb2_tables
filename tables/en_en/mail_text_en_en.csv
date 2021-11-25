@@ -59,7 +59,7 @@ id,name,from,content
 58,Guild War Final Round,System Message,Congratulations! Your guild is ranked in Top {1} in the Final Round of the Guild War. Here are your rewards!
 59,Guild War Final Round,System Message,"Congratulations! Your guild was the runner up in the Guild War Final Round! To reward your skill and valor, here is your prize!"
 60,Guild War Final Round,System Message,"Congratulations! Your guild was the champion in the Guild War Final Round! To reward your skill and valor, here is your prize!"
-61,Moon Festival Card,System Message,You are a Lv. {1} user and you get the following rewards today. Your Moon Festival Card still has {3} days to expire!
+61,Black Friday Card,System Message,"You are an Lv. {1} player, here is your reward today! Your Black Friday Card will expire in {3} days!"
 62,Monthly Pass just renewed,Monthly Pass,Thank you for renewing your Monthly Pass. Your current subscription expires in {1} days.
 63,Mini Pass just renewed,Mini Pass,Thank you for renewing your Mini Pass. Your current subscription expires in {1} days.
 64,Jigsaw Puzzle Event,Event Mail,Congratulations! You completed {1} Jigsaw Puzzles. You've earned the following rewards!

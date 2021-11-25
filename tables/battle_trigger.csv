@@ -140,4 +140,5 @@ id,trigger,desc,is_god_skill,limit_times,is_die_pas,is_hp_pas,is_can_use_by_pas
 139,NO_FREE_HARM,-1,,,,,1
 140,SELF_DOT,-1,,,,,1
 141,SELF_UNCONTROL_DEBUFF,-1,,,,,1
-142,FIRST_SELF_HP_LOW,-1,,,,,
+142,ENEMY_ATTACK_BEFORE,-1,,,,,
+143,BEFORE_SELF_ENERGY_SKILL_2,-1,,,,,

@@ -1,4 +1,7 @@
-id,function_id,battle_count,battle_ids,icon,building_icon,building_fx,contribution,power,score_first,score_shrink,score_period,map_buffs,neutral_change,third_shrink
-1,1,100,1001|1002,icon_a,building_1,,100,999,500,0,360,1101|1102|1103,0,-0.1
-2,2,100,1001|1003,icon_b,building_2,,150,9999,1000,-10,720,1201|1202|1203,-0.1,0
-3,3,100,1001|1004,icon_c,,fx_buliding3,250,99999,1500,-50,180,1301|1302|1303,0,0
+id,function_id,battle_count,battle_count_2,battle_ids,icon,building_icon,building_fx,contribution,power,score_first,score_shrink,score_period,map_buffs,neutral_change,third_shrink,truce
+1,1,2,2,99023023,icon_a,building_1,,100,999,500,0,360,,0,-0.1,1800
+2,2,5,3,99023023|99023022,icon_b,building_2,,150,9999,1000,0.1,720,,-0.1,0,3600
+3,3,20,10,99023023|99023022,icon_c,,fx_epd_building3,250,99999,1500,0.1,180,14001|14001|14001,0,0,600
+4,3,10,20,99023023|99023022,icon_a,building_1,,100,999,500,0,360,,0,-0.1,1800
+5,4,100,50,99023023|99023022|99023023,icon_b,building_2,,150,9999,1000,0.1,,,-0.1,0,3600
+6,5,,,,icon_c,,fx_epd_building3,,,,,,14001|14001|14001,,,
