@@ -64,3 +64,6 @@ id,name,item_id,get_limit,show_activity,lv_limit,function_id,go_window,go_params
 64,-1,,,253,0,,activity_window,"select:253,large_series:1"
 65,-1,,,251,0,,,
 66,-1,,,255,0,,activity_window,"select:255,activity_type2:1"
+67,-1,,,64,0,,activity_jackpot_machine_giftbag_window,
+68,-1,,,64,0,,activity_window,"select:64,activity_type2:1"
+69,-1,,,64,0,,,

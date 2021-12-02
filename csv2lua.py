@@ -154,7 +154,7 @@ def print_equips(_lang="zh_tw", _slot=6, _lua=True):
     else:
         for _i in range(len(_list)):
             print(_equips[_list[-_i - 1]])
-    print(len(_equips))
+        print(len(_equips))
 
 
 def buff2desc(*_buffs, _lang="zh_tw"):
@@ -202,9 +202,10 @@ def print_cores(_lang="en_en", _lua=True):
         json.dump(_dict, _f, indent=4, ensure_ascii=False, cls=NpEncoder)
 
 
-def print_lab(_lua=True):
+def print_lab(_lua=True, _page=1):
     _P = Path("./tables/guild_skill.csv")
     _T = pd.read_csv(_P)
+    _T = _T[_T.reset // 10 == _page - 1]
     for _r in range(len(_T)):
         _R = _T.iloc[_r]
         if _lua:
@@ -240,11 +241,37 @@ def sports(_name):
     return _Ti.iloc[0]["id"]
 
 
+def print_tables():
+    print("SERVANTS = {")
+    print_pets(_lang="zh_tw")
+    print_pets(_lang="en_en")
+    print("}\n")
+
+    print("ANTIQUES = {")
+    print_equips(_lang="zh_tw")
+    print_equips(_lang="en_en")
+    print("}\n")
+
+    print("CORES = {")
+    print_cores(_lang="zh_tw")
+    print_cores(_lang="en_en")
+    print("}\n")
+
+    print("GUILD_1ST_PAGE = {")
+    print_lab()
+    print("}\n")
+
+    print("GUILD_FULL = {")
+    print_lab()
+    print_lab(_page=2)
+    print("}\n")
+
+
 if __name__ == "__main__":
     # print_pets(_lang="zh_tw", _lua=False)
     # print_lab()
     # print_equips(_lang="en_en", _lua=True)
-    print_cores(_lang="zh_tw", _lua=True)
+    # print_cores(_lang="zh_tw", _lua=True)
     # trans_cores()
     # print(all_girls(_lang="en_en"))
     # print_10_girls(_lang="en_en", _lua=True)
@@ -265,3 +292,4 @@ if __name__ == "__main__":
     # print(",\n".join([str(sports(_n)) for _n in _TEAM]))
 
     # print_boxes()
+    print_tables()

@@ -2,4 +2,4 @@ id,group_name,icon,pos_initial,netural
 1,DEF,icon_a,6|3,
 2,-1,icon_b,11|6,
 3,-1,icon_c,5|11,
-0,-1,icon_netural,,1
+4,-1,icon_netural,,1

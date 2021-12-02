@@ -62,7 +62,7 @@ id,desc,title
 61,Beach Game,Beach Game
 62,Special Rewards,Special Rewards
 63,Yume Tea Party,Yume\nTea Party
-64,Anniversary Slot Machine,Anniversary\nSlot Machine
+64,Jackpot of Fortune,Jackpot\nof Fortune
 65,Anniversary Slot Pt,Anniversary\nSlot Pt
 66,Jingle Bell Pack,Jingle Bell\nPack
 67,Live Show,Live Show
@@ -243,3 +243,5 @@ id,desc,title
 253,Team Assembly,Team\nAssembly
 255,Thanksgiving Feast,Thanksgiving\nFeast
 257,Advent Calendar,Advent\nCalendar
+259,Promotion Program,Promotion\nProgram
+258,Lucky Draw,Lucky\nDraw

@@ -29,3 +29,7 @@ id,name,effect_name,scale,pos,hero_pos,count,action,next_action,type,is_clip,cli
 28,-1,mianyangxiaowo_chuang,1,-10|-120,,1,loop,29,2,,,,,,,,,,,,
 29,-1,mianyangxiaowo_chuang,1,-10|-120,,1,disappear,,2,,,,,,,,,,,,
 30,-1,geshouqie_zhuangshi,1,8|36,,0,idle,,1,,,,1,,,,,,,,
+31,-1,garden_fountain,1,0|112,,0,animation,,1,,,,1,,,,,,,,
+32,-1,garden_cat,1,0|20,,0,idle,,2,,,,1,,,,,,75|25,33|34,45
+33,-1,garden_cat,1,0|20,,0,idle,,1,,,,1,,,,,,,,
+34,-1,garden_cat,1,0|20,,0,wake,,1,,,,1,,,,,,,,

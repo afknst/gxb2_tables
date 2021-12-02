@@ -9616,13 +9616,13 @@ A Control Effect. Crystallized targets will not be able to use their Active Skil
 When this protocol is activated, Robbie and Erina will launch a combined attack together.
 
 Robbie consumes 30% of current HP and releases her Active Skill.
-She deals (240% of Attack) damage to 1 random Backline enemy and [c][01a310]burns[-][/c] it for 2 Rounds, dealing (240% of Attack) damage per Round.Starting from the next attack, the target will take 10% more damage from [c][01a310]Burn[-][/c] effects for 2 Rounds.
+She deals (240% of Attack) damage to 1 random Backline enemy and [c][01a310]burns[-][/c] it for 2 Rounds, dealing (240% of Attack) damage per Round. Starting from the next [c][01a310]Burn[-][/c] damage dealt, the target will take 10% more damage from [c][01a310]Burn[-][/c] effects for 2 Rounds.
 After releasing her Active Skill, Robbie will recover (10% of self Maximum HP) HP.
 At the start of the battle, Robbie gains 2 stacks of [c][e28002]Laser Charge[-][/c].
 
 [c][e28002]Laser Charge:[-][/c]
 A Skill Effect. Every stack grants 20% Energy Removal Resist and can be stacked up to 5 stacks at most.
-When releasing her Active Skill, Robbie will consume all stacks of [c][e28002]Laser Charge[-][/c], and deal the same amount of damage caused by the Active Skill and afflict the same effects once to 1 random Backline enemy for each stack.
+When releasing her Active Skill, Robbie will consume all stacks of [c][e28002]Laser Charge[-][/c], and deal the same attack as the Active Skill and afflict the same effects once to 1 random Backline enemy for each stack.
 
 [c][01a310]Burn:[-][/c]
 A damage over time. Damage is dealt once when Burn is inflicted and at the beginning of each round during the period of effect."
@@ -9630,13 +9630,13 @@ A damage over time. Damage is dealt once when Burn is inflicted and at the begin
 When this protocol is activated, Robbie and Erina will launch a combined attack together.
 
 Robbie consumes 30% of current HP and releases her Active Skill.
-She deals (360% of Attack) damage to 1 random Backline enemy and [c][01a310]burns[-][/c] it for 2 Rounds, dealing (360% of Attack) damage per Round.Starting from the next attack, the target will take 20% more damage from [c][01a310]Burn[-][/c] effects for 2 Rounds.
+She deals (360% of Attack) damage to 1 random Backline enemy and [c][01a310]burns[-][/c] it for 2 Rounds, dealing (360% of Attack) damage per Round. Starting from the next [c][01a310]Burn[-][/c] damage dealt, the target will take 20% more damage from [c][01a310]Burn[-][/c] effects for 2 Rounds.
 After releasing her Active Skill, Robbie will recover (20% of self Maximum HP) HP.
 At the start of the battle, Robbie gains 2 stacks of [c][e28002]Laser Charge[-][/c].
 
 [c][e28002]Laser Charge:[-][/c]
 A Skill Effect. Every stack grants 20% Energy Removal Resist and can be stacked up to 5 stacks at most.
-When releasing her Active Skill, Robbie will consume all stacks of [c][e28002]Laser Charge[-][/c], and deal the same amount of damage caused by the Active Skill and afflict the same effects once to 1 random Backline enemy for each stack.
+When releasing her Active Skill, Robbie will consume all stacks of [c][e28002]Laser Charge[-][/c], and deal the same attack as the Active Skill and afflict the same effects once to 1 random Backline enemy for each stack.
 
 [c][01a310]Burn:[-][/c]
 A damage over time. Damage is dealt once when Burn is inflicted and at the beginning of each round during the period of effect."
@@ -9644,13 +9644,13 @@ A damage over time. Damage is dealt once when Burn is inflicted and at the begin
 When this protocol is activated, Robbie and Erina will launch a combined attack together.
 
 Robbie consumes 30% of current HP and releases her Active Skill.
-She deals (600% of Attack) damage to 1 random Backline enemy and [c][01a310]burns[-][/c] it for 2 Rounds, dealing (600% of Attack) damage per Round.Starting from the next attack, the target will take 30% more damage from [c][01a310]Burn[-][/c] effects for 2 Rounds.
+She deals (600% of Attack) damage to 1 random Backline enemy and [c][01a310]burns[-][/c] it for 2 Rounds, dealing (600% of Attack) damage per Round. Starting from the next [c][01a310]Burn[-][/c] damage dealt, the target will take 30% more damage from [c][01a310]Burn[-][/c] effects for 2 Rounds.
 After releasing her Active Skill, Robbie will recover (30% of self Maximum HP) HP.
 At the start of the battle, Robbie gains 2 stacks of [c][e28002]Laser Charge[-][/c].
 
 [c][e28002]Laser Charge:[-][/c]
 A Skill Effect. Every stack grants 20% Energy Removal Resist and can be stacked up to 5 stacks at most.
-When releasing her Active Skill, Robbie will consume all stacks of [c][e28002]Laser Charge[-][/c], and deal the same amount of damage caused by the Active Skill and afflict the same effects once to 1 random Backline enemy for each stack.
+When releasing her Active Skill, Robbie will consume all stacks of [c][e28002]Laser Charge[-][/c], and deal the same attack as the Active Skill and afflict the same effects once to 1 random Backline enemy for each stack.
 
 [c][01a310]Burn:[-][/c]
 A damage over time. Damage is dealt once when Burn is inflicted and at the beginning of each round during the period of effect."
@@ -9742,13 +9742,13 @@ When Robbie\'s current HP drops below 30% of her maximum HP for the first time i
 When this protocol is activated, Robbie and Erina will launch a combined attack together.
 
 Robbie consumes 30% of current HP and releases her Active Skill.
-She deals (600% of Attack) damage to 1 random Backline enemy and [c][01a310]burns[-][/c] it for 2 Rounds, dealing (600% of Attack) damage per Round.Starting from the next attack, the target will take 30% more damage from [c][01a310]Burn[-][/c] effects for 2 Rounds.
+She deals (600% of Attack) damage to 1 random Backline enemy and [c][01a310]burns[-][/c] it for 2 Rounds, dealing (600% of Attack) damage per Round. Starting from the next [c][01a310]Burn[-][/c] damage dealt, the target will take 30% more damage from [c][01a310]Burn[-][/c] effects for 2 Rounds.
 After releasing her Active Skill, Robbie will recover (30% of self Maximum HP) HP.
 At the start of the battle, Robbie gains 2 stacks of [c][e28002]Laser Charge[-][/c].
 
 [c][e28002]Laser Charge:[-][/c]
 A Skill Effect. Every stack grants 20% Energy Removal Resist and can be stacked up to 5 stacks at most.
-When releasing her Active Skill, Robbie will consume all stacks of [c][e28002]Laser Charge[-][/c], and deal the same amount of damage caused by the Active Skill and afflict the same effects once to 1 random Backline enemy for each stack.
+When releasing her Active Skill, Robbie will consume all stacks of [c][e28002]Laser Charge[-][/c], and deal the same attack as the Active Skill and afflict the same effects once to 1 random Backline enemy for each stack.
 
 [c][01a310]Burn:[-][/c]
 A damage over time. Damage is dealt once when Burn is inflicted and at the beginning of each round during the period of effect."
@@ -9756,13 +9756,13 @@ A damage over time. Damage is dealt once when Burn is inflicted and at the begin
 When this protocol is activated, Robbie and Erina will launch a combined attack together.
 
 Robbie consumes 30% of current HP and releases her Active Skill.
-She deals (624% of Attack) damage to 1 random Backline enemy and [c][01a310]burns[-][/c] it for 2 Rounds, dealing (624% of Attack) damage per Round.Starting from the next attack, the target will take 30% more damage from [c][01a310]Burn[-][/c] effects for 2 Rounds.
+She deals (624% of Attack) damage to 1 random Backline enemy and [c][01a310]burns[-][/c] it for 2 Rounds, dealing (624% of Attack) damage per Round. Starting from the next [c][01a310]Burn[-][/c] damage dealt, the target will take 30% more damage from [c][01a310]Burn[-][/c] effects for 2 Rounds.
 After releasing her Active Skill, Robbie will recover (30% of self Maximum HP) HP.
 At the start of the battle, Robbie gains 2 stacks of [c][e28002]Laser Charge[-][/c].
 
 [c][e28002]Laser Charge:[-][/c]
 A Skill Effect. Every stack grants 20% Energy Removal Resist and can be stacked up to 5 stacks at most.
-When releasing her Active Skill, Robbie will consume all stacks of [c][e28002]Laser Charge[-][/c], and deal the same amount of damage caused by the Active Skill and afflict the same effects once to 1 random Backline enemy for each stack.
+When releasing her Active Skill, Robbie will consume all stacks of [c][e28002]Laser Charge[-][/c], and deal the same attack as the Active Skill and afflict the same effects once to 1 random Backline enemy for each stack.
 
 [c][01a310]Burn:[-][/c]
 A damage over time. Damage is dealt once when Burn is inflicted and at the beginning of each round during the period of effect."
@@ -9770,13 +9770,13 @@ A damage over time. Damage is dealt once when Burn is inflicted and at the begin
 When this protocol is activated, Robbie and Erina will launch a combined attack together.
 
 Robbie consumes 30% of current HP and releases her Active Skill.
-She deals (636% of Attack) damage to 1 random Backline enemy and [c][01a310]burns[-][/c] it for 2 Rounds, dealing (636% of Attack) damage per Round.Starting from the next attack, the target will take 30% more damage from [c][01a310]Burn[-][/c] effects for 2 Rounds.
+She deals (636% of Attack) damage to 1 random Backline enemy and [c][01a310]burns[-][/c] it for 2 Rounds, dealing (636% of Attack) damage per Round. Starting from the next [c][01a310]Burn[-][/c] damage dealt, the target will take 30% more damage from [c][01a310]Burn[-][/c] effects for 2 Rounds.
 After releasing her Active Skill, Robbie will recover (30% of self Maximum HP) HP.
 At the start of the battle, Robbie gains 2 stacks of [c][e28002]Laser Charge[-][/c].
 
 [c][e28002]Laser Charge:[-][/c]
 A Skill Effect. Every stack grants 20% Energy Removal Resist and can be stacked up to 5 stacks at most.
-When releasing her Active Skill, Robbie will consume all stacks of [c][e28002]Laser Charge[-][/c], and deal the same amount of damage caused by the Active Skill and afflict the same effects once to 1 random Backline enemy for each stack.
+When releasing her Active Skill, Robbie will consume all stacks of [c][e28002]Laser Charge[-][/c], and deal the same attack as the Active Skill and afflict the same effects once to 1 random Backline enemy for each stack.
 
 [c][01a310]Burn:[-][/c]
 A damage over time. Damage is dealt once when Burn is inflicted and at the beginning of each round during the period of effect."
@@ -9784,13 +9784,13 @@ A damage over time. Damage is dealt once when Burn is inflicted and at the begin
 When this protocol is activated, Robbie and Erina will launch a combined attack together.
 
 Robbie consumes 30% of current HP and releases her Active Skill.
-She deals (648% of Attack) damage to 1 random Backline enemy and [c][01a310]burns[-][/c] it for 2 Rounds, dealing (648% of Attack) damage per Round.Starting from the next attack, the target will take 30% more damage from [c][01a310]Burn[-][/c] effects for 2 Rounds.
+She deals (648% of Attack) damage to 1 random Backline enemy and [c][01a310]burns[-][/c] it for 2 Rounds, dealing (648% of Attack) damage per Round. Starting from the next [c][01a310]Burn[-][/c] damage dealt, the target will take 30% more damage from [c][01a310]Burn[-][/c] effects for 2 Rounds.
 After releasing her Active Skill, Robbie will recover (30% of self Maximum HP) HP.
 At the start of the battle, Robbie gains 2 stacks of [c][e28002]Laser Charge[-][/c].
 
 [c][e28002]Laser Charge:[-][/c]
 A Skill Effect. Every stack grants 20% Energy Removal Resist and can be stacked up to 5 stacks at most.
-When releasing her Active Skill, Robbie will consume all stacks of [c][e28002]Laser Charge[-][/c], and deal the same amount of damage caused by the Active Skill and afflict the same effects once to 1 random Backline enemy for each stack.
+When releasing her Active Skill, Robbie will consume all stacks of [c][e28002]Laser Charge[-][/c], and deal the same attack as the Active Skill and afflict the same effects once to 1 random Backline enemy for each stack.
 
 [c][01a310]Burn:[-][/c]
 A damage over time. Damage is dealt once when Burn is inflicted and at the beginning of each round during the period of effect."
@@ -9798,13 +9798,13 @@ A damage over time. Damage is dealt once when Burn is inflicted and at the begin
 When this protocol is activated, Robbie and Erina will launch a combined attack together.
 
 Robbie consumes 30% of current HP and releases her Active Skill.
-She deals (660% of Attack) damage to 1 random Backline enemy and [c][01a310]burns[-][/c] it for 2 Rounds, dealing (660% of Attack) damage per Round.Starting from the next attack, the target will take 33% more damage from [c][01a310]Burn[-][/c] effects for 2 Rounds.
+She deals (660% of Attack) damage to 1 random Backline enemy and [c][01a310]burns[-][/c] it for 2 Rounds, dealing (660% of Attack) damage per Round. Starting from the next [c][01a310]Burn[-][/c] damage dealt, the target will take 33% more damage from [c][01a310]Burn[-][/c] effects for 2 Rounds.
 After releasing her Active Skill, Robbie will recover (33% of self Maximum HP) HP.
 At the start of the battle, Robbie gains 2 stacks of [c][e28002]Laser Charge[-][/c].
 
 [c][e28002]Laser Charge:[-][/c]
 A Skill Effect. Every stack grants 20% Energy Removal Resist and can be stacked up to 5 stacks at most.
-When releasing her Active Skill, Robbie will consume all stacks of [c][e28002]Laser Charge[-][/c], and deal the same amount of damage caused by the Active Skill and afflict the same effects once to 1 random Backline enemy for each stack.
+When releasing her Active Skill, Robbie will consume all stacks of [c][e28002]Laser Charge[-][/c], and deal the same attack as the Active Skill and afflict the same effects once to 1 random Backline enemy for each stack.
 
 [c][01a310]Burn:[-][/c]
 A damage over time. Damage is dealt once when Burn is inflicted and at the beginning of each round during the period of effect."

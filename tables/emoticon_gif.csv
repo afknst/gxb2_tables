@@ -1,8 +1,8 @@
 id,image,gif,is_show,gif_pos_zh_tw,gif_pos_en_en,gif_pos_de_de,gif_pos_fr_fr,gif_pos_jp_jp,gif_pos_ko_kr,gif_scale,is_award,item_id,collection_id,word,rank
-1,emotion_dynamic_01,emoticon_gif01,1,0|14,0|-48,0|-48,0|-48,0|-48,0|-48,0.8,,,72001,-1,
-2,emotion_dynamic_02,emoticon_gif02,1,0|14,0|0,0|0,0|0,0|0,0|0,0.7,,,72002,-1,
-3,emotion_dynamic_03,emoticon_gif03,1,0|14,0|0,0|0,0|0,0|0,0|0,0.8,,,72003,-1,
-4,emotion_dynamic_04,emoticon_gif04,1,0|28,0|-60,0|-60,0|-60,0|-60,0|-60,0.8,,,72004,-1,
+1,emotion_dynamic_01,emoticon_gif01,0,0|14,0|-48,0|-48,0|-48,0|-48,0|-48,0.8,,,72001,-1,
+2,emotion_dynamic_02,emoticon_gif02,0,0|14,0|0,0|0,0|0,0|0,0|0,0.7,,,72002,-1,
+3,emotion_dynamic_03,emoticon_gif03,0,0|14,0|0,0|0,0|0,0|0,0|0,0.8,,,72003,-1,
+4,emotion_dynamic_04,emoticon_gif04,0,0|28,0|-60,0|-60,0|-60,0|-60,0|-60,0.8,,,72004,-1,
 5,emotion_dynamic_05,emoticon_gif05,1,24|24,0|0,0|0,0|0,0|0,0|0,0.75,,,72005,-1,
 6,emotion_dynamic_06,emoticon_gif06,1,24|24,0|0,0|0,0|0,0|0,0|0,0.75,,,72006,-1,
 7,emotion_dynamic_07,emoticon_gif07,1,18|24,0|0,0|0,0|0,0|0,0|0,0.75,,,72007,-1,
