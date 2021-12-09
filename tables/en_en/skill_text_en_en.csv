@@ -3548,10 +3548,10 @@ Skill effect, when allies are hit with Active Skill or Basic Attack, there is a 
 65102002,Vivian,Star Murmurs,"A wielded staff is able to hear the stars whisper. HP increases by 15%, Control Immunity increases by 20%, Speed increases by 20, healing received increases by 20%."
 65102012,Vivian,Star Murmurs,"A wielded staff is able to hear the stars whisper. HP increases by 25%, Control Immunity increases by 30%, Speed increases by 30, healing received increases by 30%."
 75101302,Vivian,Star Murmurs,"A wielded staff is able to hear the stars whisper. HP increases by 25%, Control Immunity increases by 30%, Speed increases by 30, healing received increases by 30%."
-5101303,Vivian,Divination,"Vivian predicts that an astral disaster shall befall. At the end of a round, there is 70% chance to reduce 15 Energy of 2 enemies and 70% to reduce their Speed by 20 for 2 rounds"
-65102003,Vivian,Divination,"Vivian predicts that an astral disaster shall befall. At the end of a round, there is 70% chance to reduce 25 Energy of 2 enemies and 70% to reduce their Speed by 30 for 2 rounds"
-65102013,Vivian,Divination,"Vivian predicts that an astral disaster shall befall. At the end of a round, there is 70% chance to reduce 35 Energy of 2 enemies and 70% to reduce their Speed by 40 for 2 rounds"
-75101303,Vivian,Divination,"Vivian predicts that an astral disaster shall befall. At the end of a round, there is 70% chance to reduce 35 Energy of 2 enemies and 70% to reduce their Speed by 40 for 2 rounds"
+5101303,Vivian,Divination,"Vivian predicts that an astral disaster shall befall. At the end of a round, there is 70% chance to reduce 15 Energy of 2 enemies and 70% to reduce their Speed by 20 for 2 rounds."
+65102003,Vivian,Divination,"Vivian predicts that an astral disaster shall befall. At the end of a round, there is 70% chance to reduce 25 Energy of 2 enemies and 70% to reduce their Speed by 30 for 2 rounds."
+65102013,Vivian,Divination,"Vivian predicts that an astral disaster shall befall. At the end of a round, there is 70% chance to reduce 35 Energy of 2 enemies and 70% to reduce their Speed by 40 for 2 rounds."
+75101303,Vivian,Divination,"Vivian predicts that an astral disaster shall befall. At the end of a round, there is 70% chance to reduce 35 Energy of 2 enemies and 70% to reduce their Speed by 40 for 2 rounds."
 5101304,Vivian,Star Link,"
 The sky bears witness, the stars and the moon united and the pain is shared. Releases [c][e28002]Galaxy[-][/c] on 1 random enemy at the beginning of each battle; at the beginning of each round, if an enemy carrying [c][e28002]Galaxy[-][/c] is defeated in the previous round, Vivian will tag [c][e28002]Galaxy[-][/c] on another random enemy.
 
@@ -4211,11 +4211,11 @@ Skill effect, when allies are hit with Active Skill or Basic Attack, there is a 
 751013023,Vivian,Star Murmurs,"A wielded staff is able to hear the stars whisper. HP increases by 27.5%, Control Immunity increases by 30%, Speed increases by 35, healing received increases by 30%."
 751013024,Vivian,Star Murmurs,"A wielded staff is able to hear the stars whisper. HP increases by 27.5%, Control Immunity increases by 30%, Speed increases by 40, healing received increases by 30%."
 751013025,Vivian,Star Murmurs,"A wielded staff is able to hear the stars whisper. HP increases by 28%, Control Immunity increases by 30%, Speed increases by 40, healing received increases by 30%."
-751013031,Vivian,Divination,"Vivian predicts that an astral disaster shall befall. At the end of a round, there is 75% chance to reduce 35 Energy of 2 enemies and 70% to reduce their Speed by 40 for 2 rounds"
-751013032,Vivian,Divination,"Vivian predicts that an astral disaster shall befall. At the end of a round, there is 75% chance to reduce 35 Energy of 2 enemies and 75% to reduce their Speed by 40 for 2 rounds"
-751013033,Vivian,Divination,"Vivian predicts that an astral disaster shall befall. At the end of a round, there is 77% chance to reduce 35 Energy of 2 enemies and 75% to reduce their Speed by 40 for 2 rounds"
-751013034,Vivian,Divination,"Vivian predicts that an astral disaster shall befall. At the end of a round, there is 77% chance to reduce 35 Energy of 2 enemies and 77% to reduce their Speed by 40 for 2 rounds"
-751013035,Vivian,Divination,"Vivian predicts that an astral disaster shall befall. At the end of a round, there is 80% chance to reduce 35 Energy of 2 enemies and 80% to reduce their Speed by 40 for 2 rounds"
+751013031,Vivian,Divination,"Vivian predicts that an astral disaster shall befall. At the end of a round, there is 75% chance to reduce 35 Energy of 2 enemies and 70% to reduce their Speed by 40 for 2 rounds."
+751013032,Vivian,Divination,"Vivian predicts that an astral disaster shall befall. At the end of a round, there is 75% chance to reduce 35 Energy of 2 enemies and 75% to reduce their Speed by 40 for 2 rounds."
+751013033,Vivian,Divination,"Vivian predicts that an astral disaster shall befall. At the end of a round, there is 77% chance to reduce 35 Energy of 2 enemies and 75% to reduce their Speed by 40 for 2 rounds."
+751013034,Vivian,Divination,"Vivian predicts that an astral disaster shall befall. At the end of a round, there is 77% chance to reduce 35 Energy of 2 enemies and 77% to reduce their Speed by 40 for 2 rounds."
+751013035,Vivian,Divination,"Vivian predicts that an astral disaster shall befall. At the end of a round, there is 80% chance to reduce 35 Energy of 2 enemies and 80% to reduce their Speed by 40 for 2 rounds."
 751013041,Vivian,Star Link,"
 The sky bears witness, the stars and the moon united and the pain is shared. Releases [c][e28002]Galaxy[-][/c] on 1 random enemy at the beginning of each battle; at the beginning of each round, if an enemy carrying [c][e28002]Galaxy[-][/c] is defeated in the previous round, Vivian will tag [c][e28002]Galaxy[-][/c] on another random enemy.
 
@@ -6437,7 +6437,7 @@ For what you owe me, I\'ll double the repayment! When Apate is defeated, [c][e28
 
 [c][e28002]Volos:[-][/c]
 Skill effect, at the end of the round, deals (20% of HP lost) damage against the enemy with the lowest HP (not exceeding 1500% of Apate\'s Attack).
-When Apate returns to battle, Volos will return to its original size..
+When Apate returns to battle, Volos will return to its original size.
 [c][e28002]Voice of Siren:[-][/c]
 Skill effect, once 4 stacks are reached, Apate will revive with 50% HP and 100 Energy at the start of the next round."
 65501804,Apate,Hell Reborn,"
@@ -6445,7 +6445,7 @@ For what you owe me, I\'ll double the repayment! When Apate is defeated, [c][e28
 
 [c][e28002]Volos:[-][/c]
 Skill effect, at the end of the round, deals (30% of HP lost) damage against the enemy with the lowest HP (not exceeding 1500% of Apate\'s Attack).
-When Apate returns to battle, Volos will return to its original size..
+When Apate returns to battle, Volos will return to its original size.
 [c][e28002]Voice of Siren:[-][/c]
 Skill effect, once 4 stacks are reached, Apate will revive with 70% HP and 100 Energy at the start of the next round."
 65501814,Apate,Hell Reborn,"
@@ -6453,7 +6453,7 @@ For what you owe me, I\'ll double the repayment! When Apate is defeated, [c][e28
 
 [c][e28002]Volos:[-][/c]
 Skill effect, at the end of the round, deals (50% of HP lost) damage against the enemy with the lowest HP (not exceeding 1500% of Apate\'s Attack).
-When Apate returns to battle, Volos will return to its original size..
+When Apate returns to battle, Volos will return to its original size.
 [c][e28002]Voice of Siren:[-][/c]
 Skill effect, once 4 stacks are reached, Apate will revive with 100% HP and 100 Energy at the start of the next round."
 75500804,Apate,Hell Reborn,"
@@ -6461,7 +6461,7 @@ For what you owe me, I\'ll double the repayment! When Apate is defeated, [c][e28
 
 [c][e28002]Volos:[-][/c]
 Skill effect, at the end of the round, deals (50% of HP lost) damage against the enemy with the lowest HP (not exceeding 1500% of Apate\'s Attack).
-When Apate returns to battle, Volos will return to its original size..
+When Apate returns to battle, Volos will return to its original size.
 [c][e28002]Voice of Siren:[-][/c]
 Skill effect, once 4 stacks are reached, Apate will revive with 100% HP and 100 Energy at the start of the next round."
 754014011,Vera,Dreamland Adventure,"When it's bedtime, good kids should go to sleep. Goodnight~ Deals (408% of Attack) Damage to 1 random enemy and [c][e28002]Diminishes[-][/c] them for 2 rounds. Exerts [c][e28002]Lullaby[-][/c] on 3 random allies for 2 rounds.\n[c][e28002]Diminish[-][/c]: Skill effect, all damages received increases by 31% and all damages dealt reduced by 50%, take (5% of self maximum HP) damage (no more than 1500% of Vera's Attack) when using Active skills or Basic Attacks, cannot be stacked.\n[c][e28002]Lullaby[-][/c]: Skill effect, when Active Skill or Basic Attack damage is received, the girl that has received this status effect deals (306% of Attack) Damage (ignoring Armor) back to the enemy and restores own (153% of Attack) HP."
@@ -6738,7 +6738,7 @@ For what you owe me, I\'ll double the repayment! When Apate is defeated, [c][e28
 
 [c][e28002]Volos:[-][/c]
 Skill effect, at the end of the round, deals (52% of HP lost) damage against the enemy with the lowest HP (not exceeding 1500% of Apate\'s Attack).
-When Apate returns to battle, Volos will return to its original size..
+When Apate returns to battle, Volos will return to its original size.
 [c][e28002]Voice of Siren:[-][/c]
 Skill effect, once 4 stacks are reached, Apate will revive with 100% HP and 100 Energy at the start of the next round."
 755008042,Apate,Hell Reborn,"
@@ -6746,7 +6746,7 @@ For what you owe me, I\'ll double the repayment! When Apate is defeated, [c][e28
 
 [c][e28002]Volos:[-][/c]
 Skill effect, at the end of the round, deals (52.5% of HP lost) damage against the enemy with the lowest HP (not exceeding 1500% of Apate\'s Attack).
-When Apate returns to battle, Volos will return to its original size..
+When Apate returns to battle, Volos will return to its original size.
 [c][e28002]Voice of Siren:[-][/c]
 Skill effect, once 4 stacks are reached, Apate will revive with 100% HP and 100 Energy at the start of the next round."
 755008043,Apate,Hell Reborn,"
@@ -6754,7 +6754,7 @@ For what you owe me, I\'ll double the repayment! When Apate is defeated, [c][e28
 
 [c][e28002]Volos:[-][/c]
 Skill effect, at the end of the round, deals (53% of HP lost) damage against the enemy with the lowest HP (not exceeding 1500% of Apate\'s Attack).
-When Apate returns to battle, Volos will return to its original size..
+When Apate returns to battle, Volos will return to its original size.
 [c][e28002]Voice of Siren:[-][/c]
 Skill effect, once 4 stacks are reached, Apate will revive with 100% HP and 100 Energy at the start of the next round."
 755008044,Apate,Hell Reborn,"
@@ -6762,7 +6762,7 @@ For what you owe me, I\'ll double the repayment! When Apate is defeated, [c][e28
 
 [c][e28002]Volos:[-][/c]
 Skill effect, at the end of the round, deals (54% of HP lost) damage against the enemy with the lowest HP (not exceeding 1500% of Apate\'s Attack).
-When Apate returns to battle, Volos will return to its original size..
+When Apate returns to battle, Volos will return to its original size.
 [c][e28002]Voice of Siren:[-][/c]
 Skill effect, once 4 stacks are reached, Apate will revive with 100% HP and 100 Energy at the start of the next round."
 755008045,Apate,Hell Reborn,"
@@ -6770,7 +6770,7 @@ For what you owe me, I\'ll double the repayment! When Apate is defeated, [c][e28
 
 [c][e28002]Volos:[-][/c]
 Skill effect, at the end of the round, deals (55% of HP lost) damage against the enemy with the lowest HP (not exceeding 1500% of Apate\'s Attack).
-When Apate returns to battle, Volos will return to its original size..
+When Apate returns to battle, Volos will return to its original size.
 [c][e28002]Voice of Siren:[-][/c]
 Skill effect, once 4 stacks are reached, Apate will revive with 100% HP and 100 Energy at the start of the next round."
 5201500,Mika,Basic Attack,Basic Attack
@@ -8887,21 +8887,21 @@ A Skill Effect. Cannot be stacked. When the owner of Cat Eyes releases an Active
 754016043,Kassy,Wild Strength,"At the start of the battle, Kassy grants 35 Speed and 23% Crit Damage to all allies (effect doubled for Assassin allies) for 2 rounds. At the end of each round, grants 23% Attack and 10% Crit to all allies (effect doubled for Assassin allies) for 2 rounds."
 754016044,Kassy,Wild Strength,"At the start of the battle, Kassy grants 35 Speed and 24% Crit Damage to all allies (effect doubled for Assassin allies) for 2 rounds. At the end of each round, grants 24% Attack and 10% Crit to all allies (effect doubled for Assassin allies) for 2 rounds."
 754016045,Kassy,Wild Strength,"At the start of the battle, Kassy grants 40 Speed and 25% Crit Damage to all allies (effect doubled for Assassin allies) for 3 rounds. At the end of each round, grants 25% Attack and 12% Crit to all allies (effect doubled for Assassin allies) for 2 rounds."
-6436101,Fate Crystal,Advanced Skill,"When the owner triggers her Active skill, provides 10 Energy for all allies and has a 50% chance to provide 10 additional Energy."
-6436201,Fate Crystal,Advanced Skill,"When the owner triggers her Active skill, provides 20 Energy for all allies."
-6436301,Fate Crystal,Advanced Skill,"When the owner triggers her Active skill, provides 20 Energy for all allies and has a 50% chance to provide 10 additional Energy."
-6454101,Fusion Umbrella,Advanced Skill,"Reduces damage received, damage taken won't surpass 33% of the owner's maximum HP (reduced damage will not exceed 100% of owner's Maximum HP)."
-6454201,Fusion Umbrella,Advanced Skill,"Reduces damage received, damage taken won't surpass 25% of the owner's maximum HP (reduced damage will not exceed 100% of owner's Maximum HP)."
-6454301,Fusion Umbrella,Advanced Skill,"Reduces damage received, damage taken won't surpass 20% of the owner's maximum HP (reduced damage will not exceed 100% of owner's Maximum HP)."
-6718101,Eternal Dawn,Advanced Skill,Provides 15% additional Damage Depletion which will decrease by 5% each round at the start of battle.
-6718201,Eternal Dawn,Advanced Skill,Provides 30% additional Damage Depletion which will decrease by 5% each round at the start of battle.
-6718301,Eternal Dawn,Advanced Skill,Provides 45% additional Damage Depletion which will decrease by 5% each round at the start of battle.
-6442101,The Wings of Icarus,Advanced Skill,"At the end of each round, increases the owner's Attack by 4% and all damage dealt by her by 1%"
-6442201,The Wings of Icarus,Advanced Skill,"At the end of each round, increases the owner's Attack by 7% and all damage dealt by her by 2%"
-6442301,The Wings of Icarus,Advanced Skill,"At the end of each round, increases the owner's Attack by 11% and all damage dealt by her by 4%"
-6706101,Soul Destruction,Advanced Skill,"When the owner deals Basic Attacks or Active Skills, stacks Grievous Wound on the enemy with the lowest HP for 1 round (Grievous Wound: Skill Effect, can't stack and can be replaced. Reduces the target's Healing Received and Damage Depletion by 10%)."
-6706201,Soul Destruction,Advanced Skill,"When the owner deals Basic Attacks or Active Skills, stacks Grievous Wound on the enemy with the lowest HP for 1 round (Grievous Wound: Skill Effect, can't stack and can be replaced. Reduces the target's Healing Received and Damage Depletion by 20%)."
-6706301,Soul Destruction,Advanced Skill,"When the owner deals Basic Attacks or Active Skills, stacks Grievous Wound on the enemy with the lowest HP for 1 round (Grievous Wound: Skill Effect, can't stack and can be replaced. Reduces the target's Healing Received and Damage Depletion by 30%)."
+6436101,Fate Crystal,Antique Skill,"When the owner triggers her Active skill, provides 10 Energy for all allies and has a 50% chance to provide 10 additional Energy."
+6436201,Fate Crystal,Antique Skill,"When the owner triggers her Active skill, provides 20 Energy for all allies."
+6436301,Fate Crystal,Antique Skill,"When the owner triggers her Active skill, provides 20 Energy for all allies and has a 50% chance to provide 10 additional Energy."
+6454101,Fusion Umbrella,Antique Skill,"Reduces damage received, damage taken won't surpass 33% of the owner's maximum HP (reduced damage will not exceed 100% of owner's Maximum HP)."
+6454201,Fusion Umbrella,Antique Skill,"Reduces damage received, damage taken won't surpass 25% of the owner's maximum HP (reduced damage will not exceed 100% of owner's Maximum HP)."
+6454301,Fusion Umbrella,Antique Skill,"Reduces damage received, damage taken won't surpass 20% of the owner's maximum HP (reduced damage will not exceed 100% of owner's Maximum HP)."
+6718101,Eternal Dawn,Antique Skill,Provides 15% additional Damage Depletion which will decrease by 5% each round at the start of battle.
+6718201,Eternal Dawn,Antique Skill,Provides 30% additional Damage Depletion which will decrease by 5% each round at the start of battle.
+6718301,Eternal Dawn,Antique Skill,Provides 45% additional Damage Depletion which will decrease by 5% each round at the start of battle.
+6442101,The Wings of Icarus,Antique Skill,"At the end of each round, increases the owner's Attack by 4% and all damage dealt by her by 1%"
+6442201,The Wings of Icarus,Antique Skill,"At the end of each round, increases the owner's Attack by 7% and all damage dealt by her by 2%"
+6442301,The Wings of Icarus,Antique Skill,"At the end of each round, increases the owner's Attack by 11% and all damage dealt by her by 4%"
+6706101,Soul Destruction,Antique Skill,"When the owner deals Basic Attacks or Active Skills, stacks Grievous Wound on the enemy with the lowest HP for 1 round (Grievous Wound: Skill Effect, can't stack and can be replaced. Reduces the target's Healing Received and Damage Depletion by 10%)."
+6706201,Soul Destruction,Antique Skill,"When the owner deals Basic Attacks or Active Skills, stacks Grievous Wound on the enemy with the lowest HP for 1 round (Grievous Wound: Skill Effect, can't stack and can be replaced. Reduces the target's Healing Received and Damage Depletion by 20%)."
+6706301,Soul Destruction,Antique Skill,"When the owner deals Basic Attacks or Active Skills, stacks Grievous Wound on the enemy with the lowest HP for 1 round (Grievous Wound: Skill Effect, can't stack and can be replaced. Reduces the target's Healing Received and Damage Depletion by 30%)."
 5201700,Monica,Basic Attack,Basic Attack
 65202400,Monica,Basic Attack,Basic Attack
 75201700,Monica,Basic Attack,Basic Attack
@@ -9206,21 +9206,21 @@ Skill Effect, cannot be stacked. At the end of each Round, the owner of [c][e280
 503107,Sky Island,Energy Recovery,"Starting from Round 3, all Backline enemies recover 50 Energy at the end of each Round."
 503108,Sky Island,Take Cover,"In odd-number Rounds, all Frontline enemies gain 50% Block."
 503109,Sky Island,Time to Attack,"In even-number Rounds, all Backline enemies gain 50% Crit Damage."
-6448101,Thorn's Heart,Advanced Skill,"Deals (10% of target's maximum HP, no more than 2500% of owner's Attack) extra damage when Crit is triggered with Basic Attack or Active skill."
-6448201,Thorn's Heart,Advanced Skill,"Deals (17.5% of target's maximum HP, no more than 2500% of owner's Attack) extra damage when Crit is triggered with Basic Attack or Active skill."
-6448301,Thorn's Heart,Advanced Skill,"Deals (25% of target's maximum HP, no more than 2500% of owner's Attack) extra damage when Crit is triggered with Basic Attack or Active skill."
-6490101,Chainblade Axe,Advanced Skill,"When the owner deals Active Skills or Basic Attacks, heals the owner by 30% of the damage dealt. (the extra damages mentioned in Active Skills or Passive skills will not be calculated)"
-6490201,Chainblade Axe,Advanced Skill,"When the owner deals Active Skills or Basic Attacks, heals the owner by 60% of the damage dealt. (the extra damages mentioned in Active Skills or Passive skills will not be calculated)"
-6490301,Chainblade Axe,Advanced Skill,"When the owner deals Active Skills or Basic Attacks, heals the owner by 90% of the damage dealt. (the extra damages mentioned in Active Skills or Passive skills will not be calculated)"
-6460101,Echoes,Advanced Skill,"When the owner takes damage, reduce the damage received by 50% of the owner's Attack; If the owner still takes damage after the damage reduction, heals the owner by 15% of the owner's Attack"
-6460201,Echoes,Advanced Skill,"When the owner takes damage, reduce the damage received by 100% of the owner's Attack; If the owner still takes damage after the damage reduction, heals the owner by 30% of the owner's Attack"
-6460301,Echoes,Advanced Skill,"When the owner takes damage, reduce the damage received by 200% of the owner's Attack; If the owner still takes damage after the damage reduction, heals the owner by 50% of the owner's Attack"
-6466101,Burning Blades,Advanced Skill,"After the Antique's shield is destroyed, heals the owner by 5% of maximum HP, increases the owner's Damage Depletion by 10% for 2 rounds"
-6466202,Burning Blades,Advanced Skill,"The shield can prevent 4 damages now; After the Antique's shield is destroyed, heals the owner by 10% of maximum HP, increases the owner's Damage Depletion by 15% for 2 rounds"
-6466302,Burning Blades,Advanced Skill,"The shield can prevent 4 damages now; After the Antique's shield is destroyed, heals the owner by 20% of maximum HP, increases the owner's Damage Depletion by 25% for 3 rounds"
-6478101,Neutron Blades,Advanced Skill,"Provides the owner 10% Extra Control Rate, 10 Speed in battle"
-6478201,Neutron Blades,Advanced Skill,"Provides the owner 15% Extra Control Rate, 20 Speed in battle"
-6478301,Neutron Blades,Advanced Skill,"Provides the owner 20% Extra Control Rate, 30 Speed in battle"
+6448101,Thorn's Heart,Antique Skill,"Deals (10% of target's maximum HP, no more than 2500% of owner's Attack) extra damage when Crit is triggered with Basic Attack or Active skill."
+6448201,Thorn's Heart,Antique Skill,"Deals (17.5% of target's maximum HP, no more than 2500% of owner's Attack) extra damage when Crit is triggered with Basic Attack or Active skill."
+6448301,Thorn's Heart,Antique Skill,"Deals (25% of target's maximum HP, no more than 2500% of owner's Attack) extra damage when Crit is triggered with Basic Attack or Active skill."
+6490101,Chainblade Axe,Antique Skill,"When the owner deals Active Skills or Basic Attacks, heals the owner by 30% of the damage dealt. (the extra damages mentioned in Active Skills or Passive skills will not be calculated)"
+6490201,Chainblade Axe,Antique Skill,"When the owner deals Active Skills or Basic Attacks, heals the owner by 60% of the damage dealt. (the extra damages mentioned in Active Skills or Passive skills will not be calculated)"
+6490301,Chainblade Axe,Antique Skill,"When the owner deals Active Skills or Basic Attacks, heals the owner by 90% of the damage dealt. (the extra damages mentioned in Active Skills or Passive skills will not be calculated)"
+6460101,Echoes,Antique Skill,"When the owner takes damage, reduce the damage received by 50% of the owner's Attack; If the owner still takes damage after the damage reduction, heals the owner by 15% of the owner's Attack"
+6460201,Echoes,Antique Skill,"When the owner takes damage, reduce the damage received by 100% of the owner's Attack; If the owner still takes damage after the damage reduction, heals the owner by 30% of the owner's Attack"
+6460301,Echoes,Antique Skill,"When the owner takes damage, reduce the damage received by 200% of the owner's Attack; If the owner still takes damage after the damage reduction, heals the owner by 50% of the owner's Attack"
+6466101,Burning Blades,Antique Skill,"After the Antique's shield is destroyed, heals the owner by 5% of maximum HP, increases the owner's Damage Depletion by 10% for 2 rounds"
+6466202,Burning Blades,Antique Skill,"The shield can prevent 4 damages now; After the Antique's shield is destroyed, heals the owner by 10% of maximum HP, increases the owner's Damage Depletion by 15% for 2 rounds"
+6466302,Burning Blades,Antique Skill,"The shield can prevent 4 damages now; After the Antique's shield is destroyed, heals the owner by 20% of maximum HP, increases the owner's Damage Depletion by 25% for 3 rounds"
+6478101,Neutron Blades,Antique Skill,"Provides the owner 10% Extra Control Rate, 10 Speed in battle"
+6478201,Neutron Blades,Antique Skill,"Provides the owner 15% Extra Control Rate, 20 Speed in battle"
+6478301,Neutron Blades,Antique Skill,"Provides the owner 20% Extra Control Rate, 30 Speed in battle"
 6466201,Antique Burning Blades 6,Antique Skill,Provides a shield that can prevent 3 direct damage or DoT damage when owner takes lethal damage (Can be triggered only once in each battle)
 6466301,Antique Burning Blades 6,Antique Skill,Provides a shield that can prevent 3 direct damage or DoT damage when owner takes lethal damage (Can be triggered only once in each battle)
 5301600,Sivney,Basic Attack,Basic Attack
@@ -9392,24 +9392,24 @@ Skill Effect, cannot be stacked. Increases damage taken directly by 20%.
 
 [c][e28002]Aether Exhaustion: [-][/c]
 Skill Effect, cannot be stacked. Increases damage taken directly by 75% and reduces Heal Received by 22%."
-6730101,Reaper's Voice,Advanced Skill,"Has a 100%, 66%, and 33% chance of inflicting ""Premonition"" on 3 enemies with the highest speed for 1 round at the start of the battle and the end of each round. (Premonition: Skill effect. Reduces speed by 20.)"
-6730201,Reaper's Voice,Advanced Skill,"Has a 100%, 66%, and 33% chance of inflicting ""Premonition"" on 3 enemies with the highest speed for 1 round at the start of the battle and the end of each round. (Premonition: Skill effect. Reduces speed by 40.)"
-6730301,Reaper's Voice,Advanced Skill,"Has a 100%, 66%, and 33% chance of inflicting ""Premonition"" on 3 enemies with the highest speed for 1 round at the start of the battle and the end of each round. (Premonition: Skill effect. Reduces speed by 60.)"
-6502101,Carnival Staff,Advanced Skill,"Increases the owner's Heal amount by 10%, allows the owner to Immune from the first type of Control effect she receives in a battle; Heals the owner by 4% of her maximum HP when controlled or stacked with Marks."
-6502201,Carnival Staff,Advanced Skill,"Increases the owner's Heal amount by 20%, allows the owner to Immune from the first type of Control effect she receives in a battle; Heals the owner by 6% of her maximum HP when controlled or stacked with Marks."
-6502301,Carnival Staff,Advanced Skill,"Increases the owner's Heal amount by 30%, allows the owner to Immune from the first type of Control effect she receives in a battle; Heals the owner by 8% of her maximum HP when controlled or stacked with Marks."
-6712101,Sacred Vial,Advanced Skill,"When the owner receives a debuff (Control effect excluded), has a 20% chance to replicate the debuff onto 1 random enemy, once the replication is successful, has a 50% chance to remove the debuff from the owner."
-6712201,Sacred Vial,Advanced Skill,"When the owner receives a debuff (Control effect excluded), has a 40% chance to replicate the debuff onto 1 random enemy, once the replication is successful, has a 50% chance to remove the debuff from the owner."
-6712301,Sacred Vial,Advanced Skill,"When the owner receives a debuff (Control effect excluded), has an 80% chance to replicate the debuff onto 1 random enemy, once the replication is successful, has a 50% chance to remove the debuff from the owner."
-6724101,Deception,Advanced Skill,Has 50% chance to provide 20% additional Damage Reduction to a random ally for 1 round at the start of each round.
-6724201,Deception,Advanced Skill,"At the beginning of each round, has a 100% chance to provide 20% additional Damage Reduction and 10% additional Heal Received to 1 random ally for 1 round."
-6724301,Deception,Advanced Skill,"At the beginning of each round, has a 100% chance to provide 20% additional Damage Reduction and 20% additional Heal Received to 1 random ally for 1 round."
-6736101,Nightshade,Advanced Skill,Revives owner with 60% of Maximum HP and 85 Energy after the owner is defeated. (Can be triggered only once in each battle)
-6736201,Nightshade,Advanced Skill,Revives owner with 60% of Maximum HP and 85 Energy after the owner is defeated. (Can be triggered only once in each battle)
-6736301,Nightshade,Advanced Skill,Revives owner with 60% of Maximum HP and 85 Energy after the owner is defeated. (Can be triggered only once in each battle)
-6736102,Nightshade,Advanced Skill,Heals for 20% additional Maximum HP and grants 25% Energy Removal Resist for 1 round.
-6736202,Nightshade,Advanced Skill,"Heals for 40% additional Maximum HP, recovers 65 additional Energy, and grants 50% Energy Removal Resist for 1 round."
-6736302,Nightshade,Advanced Skill,"Heals for 40% additional Maximum HP, recovers 115 additional Energy, and grants 80% Energy Removal Resist for 2 rounds."
+6730101,Reaper's Voice,Antique Skill,"Has a 100%, 66%, and 33% chance of inflicting ""Premonition"" on 3 enemies with the highest speed for 1 round at the start of the battle and the end of each round. (Premonition: Skill effect. Reduces speed by 20.)"
+6730201,Reaper's Voice,Antique Skill,"Has a 100%, 66%, and 33% chance of inflicting ""Premonition"" on 3 enemies with the highest speed for 1 round at the start of the battle and the end of each round. (Premonition: Skill effect. Reduces speed by 40.)"
+6730301,Reaper's Voice,Antique Skill,"Has a 100%, 66%, and 33% chance of inflicting ""Premonition"" on 3 enemies with the highest speed for 1 round at the start of the battle and the end of each round. (Premonition: Skill effect. Reduces speed by 60.)"
+6502101,Carnival Staff,Antique Skill,"Increases the owner's Heal amount by 10%, allows the owner to Immune from the first type of Control effect she receives in a battle; Heals the owner by 4% of her maximum HP when controlled or stacked with Marks."
+6502201,Carnival Staff,Antique Skill,"Increases the owner's Heal amount by 20%, allows the owner to Immune from the first type of Control effect she receives in a battle; Heals the owner by 6% of her maximum HP when controlled or stacked with Marks."
+6502301,Carnival Staff,Antique Skill,"Increases the owner's Heal amount by 30%, allows the owner to Immune from the first type of Control effect she receives in a battle; Heals the owner by 8% of her maximum HP when controlled or stacked with Marks."
+6712101,Sacred Vial,Antique Skill,"When the owner receives a debuff (Control effect excluded), has a 20% chance to replicate the debuff onto 1 random enemy, once the replication is successful, has a 50% chance to remove the debuff from the owner."
+6712201,Sacred Vial,Antique Skill,"When the owner receives a debuff (Control effect excluded), has a 40% chance to replicate the debuff onto 1 random enemy, once the replication is successful, has a 50% chance to remove the debuff from the owner."
+6712301,Sacred Vial,Antique Skill,"When the owner receives a debuff (Control effect excluded), has an 80% chance to replicate the debuff onto 1 random enemy, once the replication is successful, has a 50% chance to remove the debuff from the owner."
+6724101,Deception,Antique Skill,Has 50% chance to provide 20% additional Damage Reduction to a random ally for 1 round at the start of each round.
+6724201,Deception,Antique Skill,"At the beginning of each round, has a 100% chance to provide 20% additional Damage Reduction and 10% additional Heal Received to 1 random ally for 1 round."
+6724301,Deception,Antique Skill,"At the beginning of each round, has a 100% chance to provide 20% additional Damage Reduction and 20% additional Heal Received to 1 random ally for 1 round."
+6736101,Nightshade,Antique Skill,Revives owner with 60% of Maximum HP and 85 Energy after the owner is defeated. (Can be triggered only once in each battle)
+6736201,Nightshade,Antique Skill,Revives owner with 60% of Maximum HP and 85 Energy after the owner is defeated. (Can be triggered only once in each battle)
+6736301,Nightshade,Antique Skill,Revives owner with 60% of Maximum HP and 85 Energy after the owner is defeated. (Can be triggered only once in each battle)
+6736102,Nightshade,Antique Skill,Heals for 20% additional Maximum HP and grants 25% Energy Removal Resist for 1 round.
+6736202,Nightshade,Antique Skill,"Heals for 40% additional Maximum HP, recovers 65 additional Energy, and grants 50% Energy Removal Resist for 1 round."
+6736302,Nightshade,Antique Skill,"Heals for 40% additional Maximum HP, recovers 115 additional Energy, and grants 80% Energy Removal Resist for 2 rounds."
 501106,Sky Island,Hunter's Mark,Von Helsing afflicts 1 Hunter's Mark to all your Girls every 6 Rounds
 501107,Sky Island,Hunter's Mark,Von Helsing afflicts 1 Hunter's Mark to all your Girls every 4 Rounds
 502107,Sky Island,Stun and Weaken,"When an ally or enemy is stunned, all enemies gain 5% Attack"

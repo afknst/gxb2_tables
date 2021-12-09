@@ -144,7 +144,7 @@ PUB_SPEED_FREE,免 費
 PUB_MISSION_COMPLETE2,完 成
 PUB_TICKET_NO_ENOUGH1,普通打工卷數量不足！
 PUB_TICKET_NO_ENOUGH2,高級打工卷數量不足！
-TAVERN_WINDOW_TIPS,1.在指定的時間內執行戰姬任務能獲得豐厚的獎勵。一個戰姬不能執行多個打工任務。|2.每日可完成的任務有數量限制，提升VIP等級可提高任務總數上限。|3.刷新可重置當前所有未開始執行的任務，每天定時自動刷新1次，你也可以透過花費鑽石刷新。|4.刷新後，使用任務卷軸增加的任務也會被重置。|5.花費鑽石可以加速完成正在執行中的任務。|6.各星打工任務刷新的機率如下：|1星任務25.6%%、2星任務27%%、3星任務23.2%%、4星任務15%%、5星任務8%%、6星任務1%%、7星任務0.2%%。|7.使用基礎打工任務卷軸，會獲得1-4星打工任務，各星打工任務的概率如下：|1星任務20%%、2星任務27%%、3星任務35%%、4星任務18%%。|使用高級打工任務卷軸，會獲得4-7星打工任務，各星打工任務的概率如下：|4星任務56%%、5星任務35%%、6星任務7%%、7星任務2%%。
+TAVERN_WINDOW_TIPS,1.在指定的時間內執行戰姬任務能獲得豐厚的獎勵。一個戰姬不能執行多個打工任務。|2.每日可完成的任務有數量限制，提升VIP等級可提高任務總數上限。|3.刷新可重置當前所有未開始執行的任務，每天定時自動刷新1次，你也可以透過花費鑽石刷新。|4.刷新後，使用任務卷軸增加的任務也會被重置。|5.花費鑽石可以加速完成正在執行中的任務。|6.各星打工任務刷新的機率如下：|1星任務25.6%%、2星任務27%%、3星任務23.2%%、4星任務15%%、5星任務8%%、6星任務1%%、7星任務0.2%%。|7.使用基礎打工任務卷軸，會獲得1-4星打工任務，各星打工任務的概率如下：|1星任務20%%、2星任務27%%、3星任務35%%、4星任務18%%。|使用高級打工任務卷軸，會獲得4-7星打工任務，各星打工任務的概率如下：|4星任務56%%、5星任務35%%、6星任務7%%、7星任務2%%。|8.學長可擁有基礎打工捲軸和高級打工捲軸的上限都為999。
 ITEM_SUMMON,召喚
 ITEM_SELL,出售
 ITEM_DETAIL,詳情
@@ -225,7 +225,7 @@ GAMBLE_UP_WOMAN_TALK_4,高級遊戲機說話4
 GAMBLE_UP_WOMAN_TALK_5,高級遊戲機說話5
 OPEN_SLOT_TIPS,花費{1}鑽石購買{2}個戰姬攜帶數量上限？
 NOT_ENOUGH,{1}不足！
-LOCK_PARTNER_TIPS,戰姬已經鎖定|戰姬在校園聯賽陣容中|戰姬在巔峰聯賽陣容中|戰姬在組隊競技場陣容中|戰姬被設置為看板娘|戰姬在宿舍里休息中|戰姬在校外遠足的大本營中|戰姬在校外遠足的收益建築中
+LOCK_PARTNER_TIPS,戰姬已經鎖定|戰姬在校園聯賽陣容中|戰姬在巔峰聯賽陣容中|戰姬在組隊競技場陣容中|戰姬被設置為看板娘|戰姬在宿舍里休息中|戰姬在校外遠足的大本營中|戰姬在校外遠足的收益建築中||戰姬在終極聯賽防守陣容中
 ALTAR_DECOMPOSE_TIP,確定要讓4星及4星以上的戰姬轉學走嗎？
 ALTAR_HERO_NUM_TEXT,剩餘戰姬：
 ALTAR_SMART_TEXT,快速放入
@@ -374,7 +374,7 @@ RANK_TEXT02,層數
 FREE2,免費
 FREE3,免 費
 SUMMON_X_TIME,扭{1}次
-SUMMON_HELP_1,"1.普通扭蛋可以抽取品質較低的戰姬（1星、2星、3星、4星、5星）,普通扭蛋需要消耗普通扭蛋幣。|2.高級扭蛋可以抽取品質高的戰姬（3星、4星、5星）,高級扭蛋需要消耗鑽石或高級扭蛋幣。|3.友情扭蛋可以抽取品質一般的戰姬（2星、3星、4星、5星），友情扭蛋需要消耗愛心，學長可獲得的愛心數量上限為1000個，超過上限後將無法再繼續累積。|4.每次高級扭蛋抽取可以獲得10點金蛋能量，積累1000點能量並且成為VIP3即可打開該金蛋。打開金蛋後，有100%%的機率從友情扭蛋的範圍中獲得一名5星戰姬。|5.高級扭蛋各星卡獲得的機率為：|   3星78.42%%、4星20%%、5星1.58%%|   抽卡活動時高級扭蛋各星卡獲得的機率為：|   3星77.84%%、4星19%%、5星3.16%%|   友情扭蛋各星卡獲得的機率為：|   2星32%%、3星54%%、4星13.2%%、5星0.8%%|   普通扭蛋各星卡獲得的機率為：|   1星56%%、2星34%%、3星8.5%%、4星1.45%%、5星0.05%% "
+SUMMON_HELP_1,"1.普通扭蛋可以抽取品質較低的戰姬（1星、2星、3星、4星、5星）,普通扭蛋需要消耗普通扭蛋幣。|2.高級扭蛋可以抽取品質高的戰姬（3星、4星、5星）,高級扭蛋需要消耗鑽石或高級扭蛋幣。|3.友情扭蛋可以抽取品質一般的戰姬（2星、3星、4星、5星），友情扭蛋需要消耗愛心，學長可獲得的愛心數量上限為1000個，超過上限後將無法再繼續累積。|4.每次高級扭蛋抽取可以獲得10點金蛋能量，積累1000點能量並且成為VIP3即可打開該金蛋。打開金蛋後，有100%%的機率從友情扭蛋的範圍中獲得一名5星戰姬。|5.學長可擁有普通扭蛋幣和高級扭蛋幣的上限都為9999。|6.高級扭蛋各星卡獲得的機率為：|   3星78.42%%、4星20%%、5星1.58%%|   抽卡活動時高級扭蛋各星卡獲得的機率為：|   3星77.84%%、4星19%%、5星3.16%%|   友情扭蛋各星卡獲得的機率為：|   2星32%%、3星54%%、4星13.2%%、5星0.8%%|   普通扭蛋各星卡獲得的機率為：|   1星56%%、2星34%%、3星8.5%%、4星1.45%%、5星0.05%% "
 SUMMON_HELP_2,高級扭蛋各星卡獲得的機率為：|3星78.42%%、4星20%%、5星1.58%%||抽卡活動時高級扭蛋各星卡獲得的機率為：|3星77.84%%、4星19%%、5星3.16%%||友情扭蛋各星卡獲得的機率為：|2星32%%、3星54%%、4星13.2%%、5星0.8%%||普通扭蛋各星卡獲得的機率為：|1星56%%、2星34%%、3星8.5%%、4星1.45%%、5星0.05%%
 SUMMON_HELP_3,高級扭蛋抽取可獲得金蛋能量，能量攢滿後可開啟金蛋，從友情扭蛋的範圍中隨機獲得一名5星戰姬。需要達到VIP3開啟金蛋。
 NIUDANJI,扭 蛋
@@ -1009,7 +1009,7 @@ SHENXUE_INIT_TEXT,請從列表中選擇要升學的戰姬
 ARTIFACT_UP_TITLE,魂器升級
 TREASURE_CHANGE_TITLE,轉 換
 WORLD_BOSS_SWEEP_WARNING,一次最多掃蕩50次喔！
-ZHONGQIU_FESTIVAL_TEXT,1.活動期間，使用「幻影水晶球」可以在活動頁面換取豐厚獎勵。|2.「幻影水晶球」可透過掛機掉落、超值禮包或點擊加號使用凝結的幻影兌換獲得！|3.「幻影水晶球」在活動最後的24小時里不可繼續獲得，僅可兌換獎勵。|4.獲得「幻影水晶球」的相關禮包將會在活動最後的24小時之前下架，請提前購買哦！|5.在活動結束後，未使用的「幻影水晶球」將會自動兌換成金幣，每個價格為15000，透過信件發放。
+ZHONGQIU_FESTIVAL_TEXT,1.活動期間，使用「幻影水晶球」可以在活動頁面換取豐厚獎勵。|2.「幻影水晶球」可透過掛機掉落、超值禮包、造型禮包、特惠禮包或點擊加號使用凝結的幻影兌換獲得！|3.「幻影水晶球」在活動最後的24小時里不可繼續獲得，僅可兌換獎勵。|4.獲得「幻影水晶球」的相關禮包將會在活動最後的24小時之前下架，請提前購買哦！|5.在活動結束後，未使用的「幻影水晶球」將會自動兌換成金幣，每個價格為15000，透過信件發放。
 MID_AUTUMN_ACTIVITY_EXCHANGE_TITLE,活動兌換
 MID_AUTUMN_NOT_ENOUGH_WARNING,所需幻影水晶球不足
 COMIC_ALREADY_LAST,當前已是最後一話
@@ -3278,10 +3278,10 @@ WISH_GACHA_TEXT_2,抽取{1}次心願扭蛋
 WISH_GACHA_GOTOGACHA,前往扭蛋
 WISH_GACHA_TIPS_1,活動期間，累計抽取心願扭蛋可根據次數獲得對應檔位獎勵
 WISH_GACHA_TIPS_2,點擊選擇心願戰姬
-WISH_GACHA_TIPS_3,活動期間抽取心願扭蛋有更高機率獲得5星戰姬，抽取次數越多，獲得{1}機率越高。
+WISH_GACHA_TIPS_3,活動期間，學長可自由選擇或更換心願戰姬進行心願扭蛋，扭蛋次數越多，獲得心願戰姬機率越高(更換心願戰姬不影響抽取心願戰姬的機率和進度)。
 WISH_GACHA_SELECT_PARTNER_WINDOW,選擇心願戰姬
 WISH_GACHA_SELECT_PARTNER_TIPS_1,請選擇心願戰姬
-WISH_GACHA_SELECT_PARTNER_TIPS_2,選擇後不可再次更換心願戰姬，是否確認選擇？
+WISH_GACHA_SELECT_PARTNER_TIPS_2,是否確認選擇心願戰姬？
 PET_STORY_UNLOCK,將使魔進化到{1}階解鎖
 THE_PET_HAS_NOT_DATA,該使魔暫無相關故事
 ACTIVITY_ENTRANCE_TEST_BUY_TILI_WINDOW,購買入學測驗憑證
@@ -3362,7 +3362,7 @@ SPIRIT_STAGE_LOCK_TIPS,需要等級達到{1}級且命魂戰力達到{2}後開啟
 SPIRIT_STAGE_REWARD_TITLE,命魂任務完成獎勵
 SHOP_MAP_TEXT05,專屬魂器商店
 CONCERN_SNS_HTTP,https://www.facebook.com/cht.gxb2/
-ACTIVITY_KEYBOARD_HELP,1.活動期間，消耗1個「琴槌」就可以敲響琴鍵，隨機獲取其中一個獎勵。若抽取到中央的“金色音符”（無需再次消耗琴槌），則會再隨機獲得一個上方琴譜上的獎勵並刷新琴鍵上的獎勵。|2.當上方琴譜上的所有獎勵獲取完成後，琴鍵中央的“金色音符”將自動變更為「橙色專屬魂器自選禮盒*1」。|3.「琴槌」可透過摸彩贏積分、摸彩幸運禮、造型禮包、特惠禮包、超值禮包和每日信件獲得！|4.在活動結束後，未使用的「琴槌」將會自動兌換成金幣，每個價格為100k，透過信件發放。
+ACTIVITY_KEYBOARD_HELP,1.活動期間，消耗1個「琴槌」就可以敲響琴鍵，隨機獲取其中一個獎勵。若抽取到中央的「金色音符」（無需再次消耗琴槌），則會從上方已選擇的琴譜中隨機抽取獎勵，並刷新琴鍵上的獎勵。|2.第2-6個琴譜將在抽取2、4、7、9、11次「金色音符」後解鎖，學長可點擊琴譜前方的序號選擇想要抽取的琴譜。|3.當上方琴譜上的所有獎勵獲取完成後，琴鍵中央的「金色音符」將自動變更為「普通資源自選禮盒*30」。|4.在活動結束後，未使用的「琴槌」將會自動兌換成金幣，每個價格為100k，透過信件發放。
 HAD_COLLECTED,已收集：
 ENTRANCE_TEST_TILI_OK_TIPS,成功購買{1}枚憑證
 MAX,MAX
@@ -4174,7 +4174,7 @@ GUILD_COMPETITION_RANK_NAME,排行
 GUILD_COMPETITION_EVERY_BOSS_AWARD,總排名獎勵:
 ACTIVITY_PARTNER_GALLERY_AWARD,累計獲得 {1} 分
 ACTIVITY_PARTNER_GALLERY_TIP,點亮指定5、6星戰姬對應圖鑑即可獲得豐厚獎勵
-ACTIVITY_PARTNER_GALLERY_HELP,1.解鎖指定戰姬的5、6星圖鑑可獲得積分：| 5星-2分  6星-5分| 具體戰姬列表及解鎖情況可點擊「查看詳情」按鈕查看|2.非活動期間解鎖的戰姬圖鑑同樣計入積分。（再次獲得已解鎖圖鑑的戰姬無法重複獲得積分）|3.累計獲得指定數量積分後即可領取獎勵。
+ACTIVITY_PARTNER_GALLERY_HELP,1.解鎖指定戰姬的5、6星圖鑑可獲得積分：| 5星-2分  6星-5分| 具體戰姬列表及解鎖情況可點擊「查看詳情」按鈕查看|2.非活動期間解鎖的戰姬圖鑑同樣計入積分。（再次獲得已解鎖圖鑑的戰姬無法重複獲得積分，通過置換獲得的10星及以上戰姬不會解鎖6星圖鑒）|3.累計獲得指定數量積分後即可領取獎勵。
 ACTIVITY_PARTNER_GALLERY_CHECK,查看詳情
 ACTIVITY_PARTNER_GALLERY_TITLE,積分詳情
 ACTIVITY_PARTNER_GALLERY_POINT,當前積分：
@@ -5314,7 +5314,7 @@ SENPAI_DRESS_GIFTBOX_WARN,此裝扮部位已有，是否繼續兌換？
 TIME_CLOISTER_TEXT62,升級星空儀科技后可提升此卡牌等級
 ACTIVITY_JACKPOT_MACHINE1,普通拉霸機
 ACTIVITY_JACKPOT_MACHINE2,高級拉霸機
-ACTIVITY_JACKPOT_TIPS,購買拉霸特權卡或在普通拉霸機中轉動40次，便可解鎖高級拉霸機哦~
+ACTIVITY_JACKPOT_TIPS,購買拉霸特權卡或在普通拉霸機中轉動{1}次（1次=5能量），便可解鎖高級拉霸機哦~
 ACTIVITY_JACKPOT_GIFTBAG_TITLE,拉霸助力禮包
 ACTIVITY_JACKPOT_GIFTBAG_TEXT01,特別供應
 ACTIVITY_JACKPOT_GIFTBAG_TEXT02,常駐供應
@@ -5336,3 +5336,78 @@ ACTIVITY_JACKPOT_UPDATE_BUTTON,前往
 ACTIVITY_JACKPOT_EXCHANGE_TIPS,學長已獲得特權卡，是否使用特權將拉霸積分兌換為高級拉霸積分呢？
 ACTIVITY_JACKPOT_EXCHANGE_BUTTON01,繼續抽獎
 ACTIVITY_JACKPOT_EXCHANGE_BUTTON02,前往兌換
+WISH_GACHA_TEXT9,更換戰姬
+WISH_GACHA_TEXT10,心願扭蛋不計入任務和成就
+SALE_MAIN_TITLE,限時折扣
+SALE_COUNTDOWN,折扣結束
+SALE_UPPER_TITLE,折扣
+SALE_MONTH_GIFTBAG1,原價:
+SALE_MONTH_GIFTBAG2,原價: NT$330
+SALE_MONTH_GIFTBAG3,原價: NT$990
+SALE_MONTH_GIFTBAG4,原價: NT$1690
+SALE_MONTH_GIFTBAG5,原價: NT$2290
+SALE_MONTH_GIFTBAG6,原價: NT$2690
+SALE_MONTH_GIFTBAG7,原價: NT$3290
+SALE_MONTH_CARD,原價: NT$490
+SALE_WEEK_GIFTBAG2,原價: NT$670
+SALE_DAY_GIFTBAG1,原價: NT$33
+SALE_DAY_GIFTBAG2,原價: NT$70
+ACTIVITY_KEYBOARD_TEXT1,是否選擇本行為目標琴譜？
+ACTIVITY_KEYBOARD_TEXT2,還需抽到{1}次金色音符解鎖
+ARCTIC_EXPEDITION_TEXT_1,遠征積分：
+ARCTIC_EXPEDITION_TEXT_2,昨日新增：
+ARCTIC_EXPEDITION_TEXT_3,持有地塊
+ARCTIC_EXPEDITION_TEXT_4,佔有量
+ARCTIC_EXPEDITION_TEXT_5,遠征積分收益
+ARCTIC_EXPEDITION_TEXT_6,地塊資訊
+ARCTIC_EXPEDITION_TEXT_7,營地加成
+ARCTIC_EXPEDITION_TEXT_8,戰鬥時有額外加成
+ARCTIC_EXPEDITION_TEXT_9,守軍數量
+ARCTIC_EXPEDITION_TEXT_10,[u]集結中[/u]
+ARCTIC_EXPEDITION_TEXT_11,當前守軍
+ARCTIC_EXPEDITION_TEXT_12,免戰中
+ARCTIC_EXPEDITION_GROUP_1,學生會
+ARCTIC_EXPEDITION_GROUP_2,DEF
+ARCTIC_EXPEDITION_GROUP_3,風紀委員會
+ARCTIC_EXPEDITION_GROUP_4,中立
+ARCTIC_EXPEDITION_TEXT_13,戰鬥結果
+ARCTIC_EXPEDITION_TEXT_14,勝利次數
+ARCTIC_EXPEDITION_TEXT_15,貢獻勛章
+ARCTIC_EXPEDITION_TEXT_16,守軍
+ARCTIC_EXPEDITION_TEXT_17,守軍數量已增加！
+ARCTIC_EXPEDITION_TEXT_18,每經歷1場戰鬥，會降低1點精力
+ARCTIC_EXPEDITION_TEXT_19,新時代已開啟！
+ARCTIC_EXPEDITION_TIME_MISSION_TEXT_1,時代目標
+ARCTIC_EXPEDITION_TIME_MISSION_TEXT_2,遠征積分
+ARCTIC_EXPEDITION_TIME_MISSION_TEXT_3,完成狀態
+ARCTIC_EXPEDITION_TIME_MISSION_TEXT_4,遠征進度
+ARCTIC_EXPEDITION_TIME_MISSION_TEXT_5,倒數計時後解鎖新時代：
+WISH_GACHA_TEXT11,更換心願戰姬
+WISH_GACHA_TEXT12,是否確認更換心願战姬？
+ARCTIC_EXPEDITION_TEXT_24,守軍數量已減少！
+SALE_PRICE_TEXT01,67%% OFF
+SALE_PRICE_TEXT02,40%% OFF
+ACTIVITY_KEYBOARD_TEXT3,當前可以抽取更高層數的大獎，是否仍要選擇此行為目標琴譜？
+TIME_CLOISTER_TEXT63,敵人屬性
+TIME_CLOISTER_TEXT64,本關敵人
+ARCTIC_EXPEDITION_TEXT_20,極地遠征
+ARCTIC_EXPEDITION_TEXT_21,時代尚未解鎖
+ARCTIC_EXPEDITION_TEXT_22,霜崩-未甦醒…|霜崩-已甦醒！|霜崩-已落敗…
+ARCTIC_EXPEDITION_TEXT_23,全场排行|陣營內排行
+ARCTIC_EXPEDITION_TEXT_25,倒計時後開始遠征：
+ARCTIC_EXPEDITION_TEXT_26,倒計時後遠征結束：
+ARCTIC_EXPEDITION_TEXT_27,活動已結束
+ACTIVITY_LUCKYBOXES_TEXT01,抽1次
+ACTIVITY_LUCKYBOXES_TEXT02,抽10次
+ACTIVITY_LUCKYBOXES_TEXT03,幸運值
+ACTIVITY_LUCKYBOXES_TEXT04,幸運禮包
+ACTIVITY_LUCKYBOXES_TEXT05,幸運幣不足
+ACTIVITY_LUCKYBOXES_TEXT06,選擇大獎
+ACTIVITY_LUCKYBOXES_TEXT07,選擇獎勵
+ACTIVITY_LUCKYBOXES_TEXT08,選擇一個獎勵作爲大獎，獲得本輪所有大獎后獎勵將會刷新。
+ACTIVITY_LUCKYBOXES_TEXT09,獎勵預覽
+ACTIVITY_LUCKYBOXES_TEXT10,第{1}輪
+ACTIVITY_LUCKYBOXES_TEXT11,已獲得的獎勵
+ACTIVITY_LUCKYBOXES_TEXT12,限時禮包
+ACTIVITY_LUCKYBOXES_TEXT13,請先選擇一個獎勵作爲大獎
+DUNGEON_TEXT1,當前戰姬血量已滿

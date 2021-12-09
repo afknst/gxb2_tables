@@ -144,7 +144,7 @@ PUB_SPEED_FREE,Free
 PUB_MISSION_COMPLETE2,Finish
 PUB_TICKET_NO_ENOUGH1,You don't have any Internship Scrolls!
 PUB_TICKET_NO_ENOUGH2,Not enough Advanced Internship Scrolls!
-TAVERN_WINDOW_TIPS,"1. Rewards will be given for completing Internships in the given amount of time. Each Girl can only perform 1 task at a time.|2. There is a daily limit for available Internships. You can increase this limit by upgrading your VIP level.|3. Internships that have not yet been started can be refreshed. You can spend Gems to refresh Internships that you don't want.|4. You can use Internship Scrolls to get additional Internships (The Internships acquired this way can also be refreshed).|5. You can spend Gems to speed up the process.|6. Odds for refreshing Internships: 1-star quest: 25.6%%, 2-star quest: 27%%, 3-star quest: 23.2%%, 4-star quest: 15%%, 5-star quest: 8%%, 6-star quest: 1%%, 7-star quest: 0.2%%.|Odds for using Internship Scroll: 1-star quest: 20%%, 2-star quest: 27%%, 3-star quest: 35%%, 4-star quest: 18%%.|Odds for using Advance Internship Scroll: 4-star quest: 56%%, 5-star quest: 35%%, 6-star quest: 7%%, 7-star quest: 2%%."
+TAVERN_WINDOW_TIPS,"1. Rewards will be given for completing Internships in the given amount of time. Each Girl can only perform 1 task at a time.|2. There is a daily limit for available Internships. You can increase this limit by upgrading your VIP level.|3. Internships that have not yet been started can be refreshed. You can spend Gems to refresh Internships that you don't want.|4. You can use Internship Scrolls to get additional Internships (The Internships acquired this way can also be refreshed).|5. You can spend Gems to speed up the process.|6. Odds for refreshing Internships: 1-star quest: 25.6%%, 2-star quest: 27%%, 3-star quest: 23.2%%, 4-star quest: 15%%, 5-star quest: 8%%, 6-star quest: 1%%, 7-star quest: 0.2%%.|Odds for using Internship Scroll: 1-star quest: 20%%, 2-star quest: 27%%, 3-star quest: 35%%, 4-star quest: 18%%.|Odds for using Advance Internship Scroll: 4-star quest: 56%%, 5-star quest: 35%%, 6-star quest: 7%%, 7-star quest: 2%%.|8. Players can own 999 Internship Scrolls and 999 Advance Internship Scrolls at most."
 ITEM_SUMMON,Summon
 ITEM_SELL,Sell
 ITEM_DETAIL,Details
@@ -225,7 +225,7 @@ GAMBLE_UP_WOMAN_TALK_4,Super Slot Machine talks 4
 GAMBLE_UP_WOMAN_TALK_5,Super Slot Machine talks 5
 OPEN_SLOT_TIPS,Spend {1} Gems to add {2} Girl capacity?
 NOT_ENOUGH,Not enough {1}
-LOCK_PARTNER_TIPS,The Girl is locked|The Girl is in Junior Varsity Lineup|The Girl is in Varsity Lineup|The Girl is in Elite League Lineup|The Girl is set as Wallpaper Girl|The Girl is in Dorm|The Girl is in the Main Center of School Excursion|The Girl is assigned to a School Excursion Facility
+LOCK_PARTNER_TIPS,The Girl is locked|The Girl is in Junior Varsity Lineup|The Girl is in Varsity Lineup|The Girl is in Elite League Lineup|The Girl is set as Wallpaper Girl|The Girl is in Dorm|The Girl is in the Main Center of School Excursion|The Girl is assigned to a School Excursion Facility||The Girl is in Ultimate League Lineup
 ALTAR_DECOMPOSE_TIP,This Girl's Star Rank is higher than 3. Are you sure you want to transfer her?
 ALTAR_HERO_NUM_TEXT,Remaining:
 ALTAR_SMART_TEXT,Auto Select
@@ -374,7 +374,7 @@ RANK_TEXT02,Level
 FREE2,Free
 FREE3,Free
 SUMMON_X_TIME,Draw {1}
-SUMMON_HELP_1,"1. Regular Capsules cost 1 Regular Capsule Coin and contain Girls from Star Level 1-5.|2. Advanced Capsules cost 1 Advanced Capsule Coin and contain Girls from Star Level 3-5.|3. BFF Capsules contain Girls from Star Level 2-5. BFF Capsules cost Hearts (players can have 1,000 Hearts max). |4. Collecting Advanced Capsules gives you 10 Capsule Coin Egg Energy. Any player at VIP 3 or above can open a golden egg, using 1000 energy. This will guarantee a random 5-star girl a BFF Capsule can provide.|5. Advanced Capsule odds are as follows: |3-star 78.42%%, 4-star 20%%, 5-star 1.58%%.|6. Advanced Capsule odds during the Girls X Capsule Points event are as follows: |3-star 77.84%%, 4-star 19%%, 5-star 3.16%%.|7. BFF Capsule odds: |2-star 32%%, 3-star 54%%, 4-star 13.2%%, 5-star 0.8%%.|8.  Regular Capsule odds: 1-star 56%%, 2-star 34%%, 3-star 8.5%%, 4-star 1.45%%, 5-star 0.05%%."
+SUMMON_HELP_1,"1. Regular Capsules cost 1 Regular Capsule Coin and contain Girls from Star Level 1-5.|2. Advanced Capsules cost 1 Advanced Capsule Coin and contain Girls from Star Level 3-5.|3. BFF Capsules contain Girls from Star Level 2-5. BFF Capsules cost Hearts (players can have 1,000 Hearts max). |4. Collecting Advanced Capsules gives you 10 Capsule Coin Egg Energy. Any player at VIP 3 or above can open a golden egg, using 1000 energy. This will guarantee a random 5-star girl a BFF Capsule can provide.|5. Players can own 9,999 Adv. Capsule Coins at most.|6. Advanced Capsule odds are as follows: |3-star 78.42%%, 4-star 20%%, 5-star 1.58%%.|7. Advanced Capsule odds during the Girls X Capsule Points event are as follows: |3-star 77.84%%, 4-star 19%%, 5-star 3.16%%.|8. BFF Capsule odds: |2-star 32%%, 3-star 54%%, 4-star 13.2%%, 5-star 0.8%%.|9. Regular Capsule odds: 1-star 56%%, 2-star 34%%, 3-star 8.5%%, 4-star 1.45%%, 5-star 0.05%%."
 SUMMON_HELP_2,"Advanced Capsule odds are as follows: |3-star 78.42%%, 4-star 20%%, 5-star 1.58%%.||Advanced Capsule odds during the Girls X Capsule Points event are as follows: |3-star 77.84%%, 4-star 19%%, 5-star 3.16%%.||BFF Capsule odds: |2-star 32%%, 3-star 54%%, 4-star 13.2%%, 5-star 0.8%%.|| Regular Capsule odds: 1-star 56%%, 2-star 34%%, 3-star 8.5%%, 4-star 1.45%%, 5-star 0.05%%."
 SUMMON_HELP_3,Each Adv. Capsule draw can provide energy for the Golden Egg. You consume 1000 energy to open up a Golden Egg. This will guarantee a random 5-star girl a BFF Capsule can provide. You will need to reach VIP3 to open the Golden Egg.
 NIUDANJI,Capsule
@@ -1002,7 +1002,7 @@ SHENXUE_INIT_TEXT,Please select a Girl to Graduate
 ARTIFACT_UP_TITLE,Upgrade Antique
 TREASURE_CHANGE_TITLE,Exchange Crystal
 WORLD_BOSS_SWEEP_WARNING,You can only Raid 50 times at once!
-ZHONGQIU_FESTIVAL_TEXT,"1. During the event, use Elemental Orbs to exchange rewards on this page!|2. Elemental Orbs can be acquired from Campaign Loot, Special Gift Pack, or exchange with Elementium by clicking the ""+"" button!|3. You cannot get Elemental Orbs during the last 24 hours of the event, and can only use Elemental Orbs to exchange rewards.|4. The Gift Packs that provide Elemental Orbs will also not be available in the final 24 hours of the event.|5. After the event is over, the unused Elemental Orbs will be automatically retrieved by the system and exchanged into Coins. Each Elemental Orb is worth 15K. The Coins will be issued to your account via Mail."
+ZHONGQIU_FESTIVAL_TEXT,"1. During the event, use Elemental Orbs to exchange rewards on this page!|2. Elemental Orbs can be acquired from Campaign Loot, Mega Value Pack, Special Gift Pack, Special Skin Pack, or exchange with Elementium by clicking the ""+"" button!|3. You cannot get Elemental Orbs during the last 24 hours of the event, and can only use Elemental Orbs to exchange rewards.|4. The Gift Packs that provide Elemental Orbs will also not be available in the final 24 hours of the event.|5. After the event is over, the unused Elemental Orbs will be automatically retrieved by the system and exchanged into Coins. Each Elemental Orb is worth 15K. The Coins will be issued to your account via Mail."
 MID_AUTUMN_ACTIVITY_EXCHANGE_TITLE,Event Exchange
 MID_AUTUMN_NOT_ENOUGH_WARNING,Not enough Elemental Orb
 COMIC_ALREADY_LAST,Last Episode
@@ -1774,7 +1774,7 @@ MAKE_CAKE_TEXT04_LOCK,Unlock previous rewards in order to unlock the next reward
 MAKE_CAKE_TEXT04_UNLOCK,Exchange any item to unlock the next
 MAKE_CAKE_TEXT05,Extra gains for each exchange:
 ASSASSIN_SUIT,Assassin Suit
-ACTIVITY_JACKPOT_POINT_HELP,You will get 1 point for each Energy consumed. And the rewards will be issued via Mail when you acquire certain points!
+ACTIVITY_JACKPOT_POINT_HELP,You will get 1 point for each Energy consumed. Rewards will be issued via Mail when you acquire the required number of points!
 ACTIVITY_JACKPOT_POINT_LIST,Consume {1} Energy
 ACTIVITY_JACKPOT_HELP_TEXT,"1. Use Jackpot Energy (5 energy for each spin) to spin Basic Jackpot and Super Jackpot for item rewards, Jackpot Points, or Super Jackpot Points. If two or more of the same girl is displayed in the result, Jackpot Points or Super Jackpot Points will be rewarded based on which Jackpot you were spinning from. If all of the girls displayed in the result are different, a random item reward will be given.|2. You can choose the amount of Jackpot Energy you want to use before each spin. If you choose to consume multiple times of Jackpot Energy in the next spin, the reward for the spin will thus be multiplied.|3. Super Jackpot will be unlocked after acquiring Advanced Access or spinning the Basic Jackpot 40 times.|4. Jackpot Points and Super Jackpot Points can be used to draw from Basic Draw and Super Draw respectively. After getting all the rewards of Basic Draw/Super Draw, the rewards of Basic Draw/Super Draw will be reset.|5. Additional rewards will also be granted based on how many times you spin the Super Jackpot.|6. Jackpot Points and Super Jackpot Points are required to participate in Lucky Draw, where you will receive a random reward from Basic Draw or Super Draw for each draw. Once all rewards from Basic Draw or Super Draw are claimed, it will be reset.|7. Jackpot Energy can be obtained from the following methods: Daily Reward Mail, Jackpot Support Pack, Mega Value Pack, Special Gift Pack, Special Skin Pack, Girls Assembly, and Enroll Exam.|8. After the event ends, any remaining Jackpot Energy, Jackpot Points, and Super Jackpot Points will be removed from your account and changed into Coins. Jackpot Energy will be transformed into 25K Coins each, Jackpot Points will be transformed into 25K Coins each, and Super Jackpot Points will be transformed into 50K Coins each. The Coins will be sent via Mail."
 ACTIVITY_JACKPOT_ENERGY_USE,Use x {1}
@@ -3285,10 +3285,10 @@ WISH_GACHA_TEXT_2,Draw {1} Wish Capsules
 WISH_GACHA_GOTOGACHA,Capsule
 WISH_GACHA_TIPS_1,"During the event, get the corresponding rewards by drawing certain times from Wish Capsule"
 WISH_GACHA_TIPS_2,Tap to choose the girl you wish to get
-WISH_GACHA_TIPS_3,"During the event, the rate to get 5-star Girls from Wish Capsule is raised, the more times you draw, the higher chance you will have to get {1}."
+WISH_GACHA_TIPS_3,The Wish Girl can be chosen and changed freely anytime during the event. The odds to obtain the Wish Girl will gradually increase with each draw made in Wish Capsule. (Changing the Wish Girl will neither affect the odds to obtain the Wish Girl nor the Chance-increase progress)
 WISH_GACHA_SELECT_PARTNER_WINDOW,Choose your Wish Girl
 WISH_GACHA_SELECT_PARTNER_TIPS_1,Please choose your Wish Girl
-WISH_GACHA_SELECT_PARTNER_TIPS_2,Selection cannot be changed after confirmation. Would you like to continue?
+WISH_GACHA_SELECT_PARTNER_TIPS_2,Confirm to choose the Girl as your Wish Girl?
 PET_STORY_UNLOCK,Unlock after evolving the Servant to stage {1}.
 THE_PET_HAS_NOT_DATA,Librarian is still collecting informations of this Servant
 ACTIVITY_ENTRANCE_TEST_BUY_TILI_WINDOW,Purchase Test Certificate
@@ -3369,7 +3369,7 @@ SPIRIT_STAGE_LOCK_TIPS,Unlocked when Level reaches {1} and Soulbound power reach
 SPIRIT_STAGE_REWARD_TITLE,Rewards for Quest
 SHOP_MAP_TEXT05,Antique Store
 CONCERN_SNS_HTTP,https://www.facebook.com/en.gxb2/
-ACTIVITY_KEYBOARD_HELP,"1. During the event, you can use 1 Percussion Mallet to hit one of the keys and get 1 reward. If you hit the ""Golden Note"", you will get 1 random reward on the list above and refresh the rewards on the keyboard|2. After you have acquired all the rewards on the list, you will get 1*Customized Ex.Orange Antique Chest for hitting ""Golden Note"".|3. You can acquire Percussion Mallets from Slot Points event, Lucky Bonus, Special Gift Pack, Special Skin Pack, Mega Value Pack and Daily Mail!|4. The unused Percussion Mallet will be automatically exchanged into Coins at the price of 100K Coins each after the event is over."
+ACTIVITY_KEYBOARD_HELP,"1. During the event, you can use 1 Percussion Mallet to hit one of the keys and get 1 reward. If you hit the ""Golden Note"", you will get 1 random reward from the sheet selected and all rewards on the keyboard will be refreshed.|2. Sheet 2 to Sheet 6 will be unlocked after you hit the ""Golden Note"" for the 2nd, 4th, 7th, 9th, and 11th time, you can switch between the sheets by tapping on the number button on the page.|3. After you have acquired all the rewards on a sheet, you will get 30 * Customized Resource Chest as the reward for hitting the ""Golden Note"".|4. The unused Percussion Mallet will automatically be exchanged to 100K Coins each once the event is over. They will be sent via Mail."
 HAD_COLLECTED,Collected:
 ENTRANCE_TEST_TILI_OK_TIPS,{1} Certificate(s) purchased
 MAX,MAX
@@ -4181,7 +4181,7 @@ GUILD_COMPETITION_RANK_NAME,Rank
 GUILD_COMPETITION_EVERY_BOSS_AWARD,Rank Reward:
 ACTIVITY_PARTNER_GALLERY_AWARD,Obtain {1} Points
 ACTIVITY_PARTNER_GALLERY_TIP,"Unlock the required 5, 6-star Girl Cards to obtain rich rewards."
-ACTIVITY_PARTNER_GALLERY_HELP,"1. Unlock the required 5, 6-star Girl Cards to obtain points:|5-star = 2 Point, 6-star = 5 Points|Tap “Details” to find out more on how to unlock and for the list of Girls.|2. Points can still be accumulated when unlocking Girl Cards before or after the event. (Unlocking Card is completed in Girls-Gallery, so you will only be rewarded for unlocking the same Girl Card once.)|3. Reach goal Points to obtain rewards."
+ACTIVITY_PARTNER_GALLERY_HELP,"1. Unlock the required 5, 6-star Girl Cards to obtain points:|5-star = 2 Point, 6-star = 5 Points|Tap “Details” to find out more on how to unlock and for the list of Girls.|2. Points can still be accumulated when unlocking Girl Cards before or after the event. (Unlocking Card is completed in Girls-Gallery, so you will only be rewarded for unlocking the same Girl Card once.)(You will not unlock a 6-star Girl Card by the Girl's 10-star (or higher) version via ""Replace"" feature.)|3. Reach goal Points to obtain rewards."
 ACTIVITY_PARTNER_GALLERY_CHECK,Details
 ACTIVITY_PARTNER_GALLERY_TITLE,Points
 ACTIVITY_PARTNER_GALLERY_POINT,Current Points:
@@ -4621,7 +4621,7 @@ PERSON_DRESS_MAIN_11,Special Bonus
 PERSON_DRESS_MAIN_12,Attribute Boost
 PERSON_DRESS_MAIN_13,No Special Boost yet
 PERSON_DRESS_MAIN_14,Attribute Description
-PERSON_DRESS_MAIN_HELP,"1. Courage, Charisma and Knowledge will only take effect in battles of the following features: \nJunior Varsity, Varsity, Elite League,  Guild War (Playground), and Ultimate League.|2. During the battles mentioned above, the system will compare your 3 attributes with those of the opponent. The 3 attributes will be compared separately, and the player with the higher attribute will receive Attribute Bonus in the first 5 Rounds of the battle. The player with the lower attribute will not be affected.\nCourage increases all damage dealt to your enemies, Charisma increases Damage Depletion of your Girls, and Knowledge increases Extra Control Rate, Control Immunity, and Speed of your Girls.|Attribute Difference:|1-99/100-199/200-299/300-499/500-799/800-1299/1300-2099/2100-3399/3400-5499/Above 5500|Courage Bonus:|All damage dealt increased by 1%%/2%%/3%%/4%%/5%%/6%%/7%%/8%%/9%%/10%%|Charisma Bonus:|Damage Depletion increased by 1%%/2%%/3%%/4%%/5%%/6%%/7%%/8%%/9%%/10%%|Knowledge Bonus:|Extra Control Rate increased by 1.5%%/3%%/4.5%%/6%%/7.5%%/9%%/10.5%%/12%%/13.5%%/15%%|Control Immunity increased by 1.5%%/3%%/4.5%%/6%%/7.5%%/9%%/10.5%%/12%%/13.5%%/15%%|Speed increased by 2/4/6/8/10/12/14/16/18/20 (The bonus will be multiplied by 5.5 in Echoes of Time)"
+PERSON_DRESS_MAIN_HELP,"1. Courage, Charisma and Knowledge will only take effect in battles of the following features: \nJunior Varsity, Varsity, Elite League,  Guild War (Playground), and Ultimate League.|2. During the battles mentioned above, the system will compare your 3 attributes with those of the opponent. The 3 attributes will be compared separately, and the player with the higher attribute will receive Attribute Bonus in the first 5 Rounds of the battle. The player with the lower attribute will not be affected.\nCourage increases all damage dealt to your enemies, Charisma increases Damage Depletion of your Girls, and Knowledge increases Extra Control Rate, Control Immunity, and Speed of your Girls.|Attribute Difference:|1-99/100-199/200-299/300-499/500-799/800-1299/1300-2099/2100-3399/3400-5499/Above 5500|Courage Bonus:|All damage dealt increased by 1%%/2%%/3%%/4%%/5%%/6%%/7%%/8%%/9%%/10%%|Charisma Bonus:|Damage Depletion increased by 1%%/2%%/3%%/4%%/5%%/6%%/7%%/8%%/9%%/10%%|Knowledge Bonus:|Extra Control Rate increased by 1.5%%/3%%/4.5%%/6%%/7.5%%/9%%/10.5%%/12%%/13.5%%/15%%|Control Immunity increased by 1.5%%/3%%/4.5%%/6%%/7.5%%/9%%/10.5%%/12%%/13.5%%/15%%|Speed increased by 2/4/6/8/10/12/14/16/18/20|(The bonus will be multiplied by 5 in Echoes of Time)"
 PERSON_DRESS_HELP,"1. You can check and adjust what you’re wearing and display it to other players on your profile.|2. You can get and equip different Outfit pieces for Head, Body, Legs, Headwear, and Accessories. You MUST equip Outfit pieces for Head, Body, and Legs.|3. Each piece of Outfit might have 1 or more Styles. Some of the Styles are unlocked once you acquire the piece of Outfit, but the rest of them need to be unlocked with Gems. You can switch between unlocked Styles freely.|4. By obtaining different Outfits pieces, you're able to get additional Courage, Charisma, and Knowledge attributes (you do not have to equip corresponding outfits to get their attribute bonus, you will get the attribute bonus once you obtain the Outfit pieces). You can increase the attribute bonus of the Outfit pieces by upgrading them in Closet. Switching and unlocking Styles will only affect the appearance of the Outfit Piece, and will NOT affect the attribute bonus it provides.|5. There are Special Boosts for some single Outfit pieces or sets of Outfits. Different Outfit Pieces may provide different Boosts. The higher the overall star grade of the Outfit Set is, the better the effects of the Special Boosts will be."
 PERSON_DRESS_MAIN_15,Gallery
 PERSON_DRESS_MAIN_16,No Outfit available
@@ -5330,7 +5330,7 @@ SENPAI_DRESS_GIFTBOX_WARN,You already own this Outfit piece. Would you still lik
 TIME_CLOISTER_TEXT62,Upgrade corresponding technologies in the Planetarium to level up this Card.
 ACTIVITY_JACKPOT_MACHINE1,Basic Jackpot
 ACTIVITY_JACKPOT_MACHINE2,Super Jackpot
-ACTIVITY_JACKPOT_TIPS,Purchase Advanced Access or spin the Basic Jackpot 40 times to unlock Super Jackpot!
+ACTIVITY_JACKPOT_TIPS,Purchase Advanced Access or spin the Basic Jackpot {1} time(s) (every 5 Jackpot Energy consumed will count as 1 spin) to unlock Super Jackpot.
 ACTIVITY_JACKPOT_GIFTBAG_TITLE,Jackpot Support Pack
 ACTIVITY_JACKPOT_GIFTBAG_TEXT01,Special Offer
 ACTIVITY_JACKPOT_GIFTBAG_TEXT02,Standard Packs
@@ -5349,3 +5349,58 @@ ACTIVITY_GROWTH_PLAN_TEXT19,Would you like to spend {1} Gems to recover your Gro
 ACTIVITY_JACKPOT_TEXT01,Exclusive Pack
 ACTIVITY_JACKPOT_TEXT02,"Congratulations, you've unlocked Super Jackpot! Tap ""Go"" to check it out!"
 ACTIVITY_JACKPOT_UPDATE_BUTTON,Go
+ACTIVITY_JACKPOT_EXCHANGE_TIPS,"Senpai, you've acquired the Advanced Access, do you want to exchange your Jackpot Points for Super Jackpot Points now?"
+ACTIVITY_JACKPOT_EXCHANGE_BUTTON01,Continue
+ACTIVITY_JACKPOT_EXCHANGE_BUTTON02,Exchange
+WISH_GACHA_TEXT9,Switch
+WISH_GACHA_TEXT10,Wish Capsule won't count in Daily Task and Trophies
+SALE_MAIN_TITLE,Limited offers
+SALE_COUNTDOWN,Discount ends in
+SALE_UPPER_TITLE,Discount
+SALE_MONTH_GIFTBAG1,Original Price:
+SALE_MONTH_GIFTBAG2,Original Price: $9.99
+SALE_MONTH_GIFTBAG3,Original Price: $29.99
+SALE_MONTH_GIFTBAG4,Original Price: $49.99
+SALE_MONTH_GIFTBAG5,Original Price: $69.99
+SALE_MONTH_GIFTBAG6,Original Price: $79.99
+SALE_MONTH_GIFTBAG7,Original Price: $99.99
+SALE_MONTH_CARD,Original Price: $14.99
+SALE_WEEK_GIFTBAG2,Original Price: $19.99
+SALE_DAY_GIFTBAG1,Original Price: $0.99
+SALE_DAY_GIFTBAG2,Original Price: $1.99
+ACTIVITY_KEYBOARD_TEXT1,Confirm to choose this sheet?
+ACTIVITY_KEYBOARD_TEXT2,Unlocks after {1} Golden Note(s) hit
+ARCTIC_EXPEDITION_TEXT_1,Faction Points:
+ARCTIC_EXPEDITION_TEXT_2,Obtained Yesterday:
+ARCTIC_EXPEDITION_TEXT_3,Occupied Territory
+ARCTIC_EXPEDITION_TEXT_4,Number
+ARCTIC_EXPEDITION_TEXT_5,Faction Points
+ARCTIC_EXPEDITION_TEXT_6,Information
+ARCTIC_EXPEDITION_TEXT_7,Base Buff
+ARCTIC_EXPEDITION_TEXT_8,Extra boost in battles
+ARCTIC_EXPEDITION_TEXT_9,Number of Defenders
+ARCTIC_EXPEDITION_TEXT_10,[u]Assembling[/u]
+ARCTIC_EXPEDITION_TEXT_11,Current Defender
+ARCTIC_EXPEDITION_TEXT_12,In Truce
+ARCTIC_EXPEDITION_GROUP_1,Student Union
+ARCTIC_EXPEDITION_GROUP_2,D.E.F
+ARCTIC_EXPEDITION_GROUP_3,Discipline Committee
+ARCTIC_EXPEDITION_GROUP_4,Neutral
+ARCTIC_EXPEDITION_TEXT_13,Battle Result
+ARCTIC_EXPEDITION_TEXT_14,Victories
+ARCTIC_EXPEDITION_TEXT_15,Personal Contribution
+ARCTIC_EXPEDITION_TEXT_16,Defender
+ARCTIC_EXPEDITION_TEXT_17,Number of Defenders increased!
+ARCTIC_EXPEDITION_TEXT_18,Lose 1 point of Stamina after 1 battle
+ARCTIC_EXPEDITION_TEXT_19,A new era has begun!
+ARCTIC_EXPEDITION_TIME_MISSION_TEXT_1,Exploration Tasks
+ARCTIC_EXPEDITION_TIME_MISSION_TEXT_2,Points Rewards
+ARCTIC_EXPEDITION_TIME_MISSION_TEXT_3,Complete Status:
+ARCTIC_EXPEDITION_TIME_MISSION_TEXT_4,Exploration Progress
+ARCTIC_EXPEDITION_TIME_MISSION_TEXT_5,New era unlocked in:
+WISH_GACHA_TEXT11,Switch
+WISH_GACHA_TEXT12,Confirm to switch your Wish Girl?
+ARCTIC_EXPEDITION_TEXT_20,Number of Defenders decreased!
+SALE_PRICE_TEXT01,67%% OFF
+SALE_PRICE_TEXT02,40%% OFF
+ACTIVITY_KEYBOARD_TEXT3,You can proceed to the next Sheet for better rewards. Do you still want to receive rewards from the current Sheet?

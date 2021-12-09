@@ -1,8 +1,8 @@
 # gxb2_tables
 
-Last update: `Dec_02_2021`.
+Last update: `Dec_09_2021`.
 
-Game version: `1.5.199`.
+Game version: `1.5.212`.
 
 # References
 
