@@ -3369,7 +3369,7 @@ SPIRIT_STAGE_LOCK_TIPS,Unlocked when Level reaches {1} and Soulbound power reach
 SPIRIT_STAGE_REWARD_TITLE,Rewards for Quest
 SHOP_MAP_TEXT05,Antique Store
 CONCERN_SNS_HTTP,https://www.facebook.com/en.gxb2/
-ACTIVITY_KEYBOARD_HELP,"1. During the event, you can use 1 Percussion Mallet to hit one of the keys and get 1 reward. If you hit the ""Golden Note"", you will get 1 random reward from the sheet selected and all rewards on the keyboard will be refreshed.|2. Sheet 2 to Sheet 6 will be unlocked after you hit the ""Golden Note"" for the 2nd, 4th, 7th, 9th, and 11th time, you can switch between the sheets by tapping on the number button on the page.|3. After you have acquired all the rewards on a sheet, you will get 30 * Customized Resource Chest as the reward for hitting the ""Golden Note"".|4. The unused Percussion Mallet will automatically be exchanged to 100K Coins each once the event is over. They will be sent via Mail."
+ACTIVITY_KEYBOARD_HELP,"1. During the event, you can use 1 Percussion Mallet to hit one of the keys and get 1 reward. If you hit the ""Golden Note"", you will get 1 random reward from the sheet selected and all rewards on the keyboard will be refreshed.|2. Sheet 2 to Sheet 6 will be unlocked after you hit the ""Golden Note"" for the 2nd, 4th, 7th, 9th, and 11th time, you can switch between the sheets by tapping on the number button on the page.|3. After you have acquired all the rewards on a sheet, 30 * Customized Resource Chest will be provided as the reward instead for hitting the ""Golden Note"".|4. The unused Percussion Mallet will automatically be exchanged to 100K Coins each once the event is over. They will be sent via Mail."
 HAD_COLLECTED,Collected:
 ENTRANCE_TEST_TILI_OK_TIPS,{1} Certificate(s) purchased
 MAX,MAX
@@ -4903,7 +4903,7 @@ ENTRANCE_TEST_LEVEL_UP_NEED,Required\nRanking
 WARMUP_ARENA_REACH_RANK_HELP,Benefits for Division {1}:|{2}|Benefits for Division {3}:|{4}|Benefits for Division {5}:|{6}
 ENTRANCE_TEST_LEVEL_UP_ING,Results are being calculated...
 WARMUP_ARENA_TASK_INFO_1,New Girl Missions
-WARMUP_ARENA_TASK_INFO_2,Robbie - The Girl and Her Mecha
+WARMUP_ARENA_TASK_INFO_2,New Arrivals
 WARMUP_ARENA_TASK_INFO_3,Mission Rewards
 WARMUP_ARENA_TASK_INFO_4,Extra Rewards
 WARMUP_ARENA_TASK_INFO_5,Unlock after completing star-marked missions
@@ -5370,37 +5370,136 @@ SALE_DAY_GIFTBAG1,Original Price: $0.99
 SALE_DAY_GIFTBAG2,Original Price: $1.99
 ACTIVITY_KEYBOARD_TEXT1,Confirm to choose this sheet?
 ACTIVITY_KEYBOARD_TEXT2,Unlocks after {1} Golden Note(s) hit
-ARCTIC_EXPEDITION_TEXT_1,Faction Points:
+ARCTIC_EXPEDITION_TEXT_1,Expedition Points:
 ARCTIC_EXPEDITION_TEXT_2,Obtained Yesterday:
-ARCTIC_EXPEDITION_TEXT_3,Occupied Territory
+ARCTIC_EXPEDITION_TEXT_3,Captured Territory
 ARCTIC_EXPEDITION_TEXT_4,Number
-ARCTIC_EXPEDITION_TEXT_5,Faction Points
-ARCTIC_EXPEDITION_TEXT_6,Information
+ARCTIC_EXPEDITION_TEXT_5,Point Bonus
+ARCTIC_EXPEDITION_TEXT_6,Territory Info
 ARCTIC_EXPEDITION_TEXT_7,Base Buff
 ARCTIC_EXPEDITION_TEXT_8,Extra boost in battles
 ARCTIC_EXPEDITION_TEXT_9,Number of Defenders
-ARCTIC_EXPEDITION_TEXT_10,[u]Assembling[/u]
+ARCTIC_EXPEDITION_TEXT_10,[u]Assembling[/u] (Answered：{1} Time(s))
 ARCTIC_EXPEDITION_TEXT_11,Current Defender
 ARCTIC_EXPEDITION_TEXT_12,In Truce
-ARCTIC_EXPEDITION_GROUP_1,Student Union
+ARCTIC_EXPEDITION_GROUP_1,Discipline Committee
 ARCTIC_EXPEDITION_GROUP_2,D.E.F
-ARCTIC_EXPEDITION_GROUP_3,Discipline Committee
+ARCTIC_EXPEDITION_GROUP_3,Student Union
 ARCTIC_EXPEDITION_GROUP_4,Neutral
 ARCTIC_EXPEDITION_TEXT_13,Battle Result
 ARCTIC_EXPEDITION_TEXT_14,Victories
 ARCTIC_EXPEDITION_TEXT_15,Personal Contribution
 ARCTIC_EXPEDITION_TEXT_16,Defender
 ARCTIC_EXPEDITION_TEXT_17,Number of Defenders increased!
-ARCTIC_EXPEDITION_TEXT_18,Lose 1 point of Stamina after 1 battle
+ARCTIC_EXPEDITION_TEXT_18,1 Stamina will be lost after each battle. Stamina will be reset at 0:00 (UTC/GMT 0) every day.
 ARCTIC_EXPEDITION_TEXT_19,A new era has begun!
-ARCTIC_EXPEDITION_TIME_MISSION_TEXT_1,Exploration Tasks
-ARCTIC_EXPEDITION_TIME_MISSION_TEXT_2,Points Rewards
+ARCTIC_EXPEDITION_TIME_MISSION_TEXT_1,Goal of the Era
+ARCTIC_EXPEDITION_TIME_MISSION_TEXT_2,Expedition Points
 ARCTIC_EXPEDITION_TIME_MISSION_TEXT_3,Complete Status:
-ARCTIC_EXPEDITION_TIME_MISSION_TEXT_4,Exploration Progress
-ARCTIC_EXPEDITION_TIME_MISSION_TEXT_5,New era unlocked in:
+ARCTIC_EXPEDITION_TIME_MISSION_TEXT_4,Expedition Progress
+ARCTIC_EXPEDITION_TIME_MISSION_TEXT_5,New era unlocked in: {1}
 WISH_GACHA_TEXT11,Switch
 WISH_GACHA_TEXT12,Confirm to switch your Wish Girl?
-ARCTIC_EXPEDITION_TEXT_20,Number of Defenders decreased!
+ARCTIC_EXPEDITION_TEXT_24,Number of Defenders decreased!
 SALE_PRICE_TEXT01,67%% OFF
 SALE_PRICE_TEXT02,40%% OFF
 ACTIVITY_KEYBOARD_TEXT3,You can proceed to the next Sheet for better rewards. Do you still want to receive rewards from the current Sheet?
+TIME_CLOISTER_TEXT63,Enemy Attribute
+TIME_CLOISTER_TEXT64,Enemy
+ARCTIC_EXPEDITION_TEXT_20,Northland Expedition
+ARCTIC_EXPEDITION_TEXT_21,The Era is locked
+ARCTIC_EXPEDITION_TEXT_22,Avalanchee Sleeping...|Avalanchee Awaken!|Avalanchee Defeated...
+ARCTIC_EXPEDITION_TEXT_23,Overall Ranking|Faction Ranking
+ARCTIC_EXPEDITION_TEXT_25,Expedition starts in:
+ARCTIC_EXPEDITION_TEXT_26,Expedition ends in:
+ARCTIC_EXPEDITION_TEXT_27,The Event has ended!
+ACTIVITY_LUCKYBOXES_TEXT01,Draw 1 Time
+ACTIVITY_LUCKYBOXES_TEXT02,Draw 10 Times
+ACTIVITY_LUCKYBOXES_TEXT03,Luck
+ACTIVITY_LUCKYBOXES_TEXT04,Lucky Pack
+ACTIVITY_LUCKYBOXES_TEXT05,Insufficient Lucky Coins
+ACTIVITY_LUCKYBOXES_TEXT06,Select an Ultimate Prize!
+ACTIVITY_LUCKYBOXES_TEXT07,Select Reward
+ACTIVITY_LUCKYBOXES_TEXT08,"Select one of the rewards as the Ultimate Prize of the current round, all the rewards will be reset once all the Ultimate Prizes in the current round are claimed."
+ACTIVITY_LUCKYBOXES_TEXT09,Preview
+ACTIVITY_LUCKYBOXES_TEXT10,R. {1}
+ACTIVITY_LUCKYBOXES_TEXT11,Rewards Obtained
+ACTIVITY_LUCKYBOXES_TEXT12,Limited Offer
+ACTIVITY_LUCKYBOXES_TEXT13,Please select a reward as the Ultimate Prize!
+DUNGEON_TEXT1,The Girl's HP is full
+ARCTIC_EXPEDITION_TEXT_28,Faction Ranking
+ARCTIC_EXPEDITION_TEXT_29,Personal Ranking
+ARCTIC_EXPEDITION_TEXT_30,Faction No.{1}
+ARCTIC_EXPEDITION_TEXT_31,Contribution Reward
+ARCTIC_EXPEDITION_TEXT_32,Faction Reward
+ARCTIC_EXPEDITION_TEXT_33,You will receive rewards according to your Faction's Ranking and Personal Ranking after the countdown is over.
+ARCTIC_EXPEDITION_TEXT_34,You will receive rewards according to your Faction Ranking after the countdown is over.
+ARCTIC_EXPEDITION_BUY_TIPS,You will get [c][4799FF]1[-][/c] Bar of Chocolate after the countdown is over
+ARCTIC_EXPEDITION_TEXT_36,Can't challenge now.
+ARCTIC_EXPEDITION_TEXT_37,The number of Defenders has reached capacity!
+ARCTIC_EXPEDITION_TEXT_38,The territory is too far to challenge
+ARCTIC_EXPEDITION_TEXT_39,You need more Bars of Chocolate
+ARCTIC_EXPEDITION_TEXT_40,Number of Defenders has reached capacity!
+ARCTIC_EXPEDITION_HELP_MAIN,"1. Northland Expedition will last for [c][4799FF]14[-][/c] days; the event will be divided into Preparation Phase ([c][4799FF]1[-][/c] day), Expedition Phase ([c][4799FF]12[-][/c] days), and Exhibition Phase ([c][4799FF]1[-][/c] day).|2. Players from several servers will explore together on 1 map. You will be separated into 3 factions according to your server: [c][CD9500]Discipline Committee[-][/c], [c][C13726]D.E.F[-][/c], or [c][4AB32F]Student Union[-][/c]. The main base of the 3 factions mentioned will be located in 3 different locations on the map.|3. During the Expedition Phase, you can explore the map and challenge enemies with other players to win rewards.|4. During the Expedition Phase, players from all 3 factions need to work together to solve the crisis in Northland. After the Expedition is over, each player will receive rewards according to his/her ranking in their faction and the ranking of his/her faction.|5. The map is separated into blocks of territory, during the Expedition Phase, you can challenge the territories around your main base or the territories your faction has captured. Once the last defender of a territory is defeated by you or other players from your faction, your faction will be able to capture the territory.|6. The Faction Ranking is made based on the points your faction has. Once a territory is captured, the system will provide Expedition Points to the factions whose players have joined the attack and according to the damage the players deal in the territory, therefore the Expedition Points provided to each faction may be different.|7. Your Personal Ranking in your faction is based on the number of [c][4799FF]""Personal Contribution""[-][/c] you own. You can obtain [c][4799FF]""Personal Contribution""[-][/c] after each battle in the event. The higher damage dealt and the higher level of difficulty of the defender, the more [c][4799FF]""Personal Contribution""[-][/c] you can get."
+ARCTIC_EXPEDITION_HELP_CELL,"1. There are multiple defenders in each territory, once all defenders are defeated, the faction whose players defeated the last defender will capture the territory.|2. During the Expedition Phase, the system will provide [c][4799FF]1[-][/c] Bar of Chocolate in every 4.8 hours  ([c][4799FF]5[-][/c] Bars of Chocolate can be obtained each day). You can also purchase [c][4799FF]2[-][/c] extra Bars of Chocolate each day at the price of [c][4799FF]100[-][/c] Gems each; The unused Bars of Chocolate and its purchase chance can be accumulated, where the chocolate bar capacity is [c][4799FF]15[-][/c] and you will not able to get free Bars of Chocolate from the system if you own 15 or more Bars of Chocolate at the same time. During the event, [c][4799FF]1[-][/c] Bar of Chocolate will be required per challenge against the Defenders. Only Girls who are over Lv. [c][4799FF]100[-][/c] can join the battles in the event.|3. If you defeat a defender in a challenge, you can continue with the challenge and fight the next defender without consuming more Bars of Chocolate until you fail or reach a 3/4/5 (the limit goes up as the Era advances) win streak. If a battle is not finished in 15 rounds, you will lose the battle.|4. After a challenge is lost, the current defender's HP will not recover before being challenged by the next player.|5. The weather in Northland is unpleasant, your Girls will lose [c][4799FF]1[-][/c] Stamina point after each battle. A Girl's power will be reduced if her Stamina is too low.|6. You can still challenge a territory that is already captured by your faction. Each victory in a territory of your faction will bring it [c][4799FF]1[-][/c] additional squad of defenders to better defend the invasion of players from other factions."
+ARCTIC_EXPEDITION_HELP_ERA,"1. The Expedition Phase will be divided into 3 Eras: [c][4799FF]Northern Crisis[-][/c], [c][4799FF]Avalanchee Disaster[-][/c], and [c][4799FF]Aftermath[-][/c].|2. There are goals that need to be completed in each Era. Your faction will get Expedition Points after each Goal is completed according to your Faction's contribution in reaching the goal.|3. After completing all goals in an Era, the event will enter the next Era at 0:00 (UTC/GMT 0) on the next day. Your win streak limit when challenging territories will increase as the Era advances. (Northern Crisis: [c][4799FF]3[-][/c], Avalanche Disaster: [c][4799FF]4[-][/c], Aftermath: [c][4799FF]5[-][/c])"
+ARCTIC_EXPEDITION_HELP_AWARD,"1. Once the Expedition Phase ends, you will be rewarded according to your Faction Ranking and Personal Ranking.|2. Depending on your Contribution in the event, your reward obtained may be different to other players. More players in your faction will be able to receive better Personal Rewards the higher your Faction is ranked.|3. Once the Expedition Phase ends, all players will receive a reward according to their Faction Ranking."
+ARCTIC_EXPEDITION_HELP_ENERGY,1. Each challenge attempt consumes [c][4799FF]1[-][/c] Bar of Chocolate.|2. [c][4799FF]1[-][/c] Bar of Chocolate can be obtained in every 4.8 hours during the Preparation Phase and Expedition Phase.|3. [c][4799FF]2[-][/c] extra Bars of Chocolate can also be purchased each day at the price of [c][4799FF]100[-][/c] Gems each.|4. The unused Bars of Chocolate and its purchase chance can be accumulated.|5. You will not be able to get free Bars of Chocolate from the system if you own [c][4799FF]15[-][/c] or more Bars of Chocolate at the same time.
+TIME_CLOISTER_HELP05,"1. A Support Girl can be available in Stage battles and Skirmish battles in this World of Time.|2. You can improve the Support Girl's attribute and skill effects by upgrading her with ""Nightmare Points"".|3. ""Nightmare Points"" can also be used to upgrade the Support Girl's Advanced Skills. By doing that, you can get an additional buff of Courage, Charisma, and Knowledge when engaging in Stage battles, Challenge battles, and Skirmish battles in this World of Time. (Advanced Skill can still take effect even when the Support Girl is not in your lineup)"
+TIME_CLOISTER_TEXT65,Technology · Support
+TIME_CLOISTER_TEXT66,"Upgrade your Support Girl or promote her Advanced Skills with ""Nightmare Points"""
+TIME_CLOISTER_TEXT67,Display
+ACTIVITY_LUCKYBOXES_TEXT14,"1.  Lucky Coins can be used to draw from the Lucky Dips machine and get rewards during the event. Normal rewards or Ultimate Prizes can be obtained from the machine. The Ultimate Prize will need to be manually selected.|2. 2 Lucky points can be obtained from each draw. When 100 Lucky Points are reached, there is a 100%% chance to obtain an Ultimate Prize, once it is claimed your Lucky Points will reset to 0.|3. There are 3 Ultimate Prizes in each round. Once all 3 Ultimate Prizes are obtained, you will enter the next round and the selection for Ultimate Prizes will be updated. After you've completed 6 rounds, the Ultimate Prize selection will be refreshed back to the 1st round.|4. Lucky Coins can be obtained from Daily Mails, by purchasing Lucky Dip packs, or completing the tasks below:|---Get 1 Lucky Coin for every 3 League Tickets consumed|---Get 1 Lucky Coin for every 200 Gems consumed|---Get 1 Lucky Coin for each 3-star or above Internship Quest completed|---Get 1 Lucky Coin for every 200 Crystal Chisels consumed|---Get 1 Lucky Coin for every Rudder used|---Get 2 Lucky Coins for every 250 VIP EXP obtained during the event|5. Once the event ends, your Lucky Coins, Lucky Points, and Reward Progress will be kept till the next event."
+ACTIVITY_LUCKYBOXES_TEXT15,"After the end of the event, your Lucky Coins, Lucky Points, and the Reward Progress will be kept until the next event."
+TIME_CLOISTER_TEXT68,Please display an {1} to complete the request.
+TIME_CLOISTER_TEXT69,Please display an Outfit piece that reaches the requirement
+TIME_CLOISTER_TEXT70,Display Successful
+TIME_CLOISTER_TEXT71,"The rewards from some of the card(s) currently cannot be claimed as the request(s) on the card(s) is/are not completed, confirm to continue?"
+TIME_CLOISTER_TEXT72,Blue
+TIME_CLOISTER_TEXT73,Gold
+TIME_CLOISTER_TEXT74,Purple
+TIME_CLOISTER_TEXT75,Green
+TIME_CLOISTER_TEXT76,Red
+TIME_CLOISTER_TEXT77,Orange
+TIME_CLOISTER_TEXT78,Pink
+TIME_CLOISTER_TEXT79,Outfit (Head)
+TIME_CLOISTER_TEXT80,Outfit (Body)
+TIME_CLOISTER_TEXT81,Outfit (Legs)
+TIME_CLOISTER_TEXT82,Outfit (Headwear)
+TIME_CLOISTER_TEXT83,Outfit (Accessories)
+ARCTIC_EXPEDITION_TEXT_41,Guard
+ARCTIC_EXPEDITION_TEXT_42,Purchase Bars of Chocolates
+ARCTIC_EXPEDITION_TEXT_43,"Avalanchee has not been awakened yet, you can not challenge it in the current Era!"
+ARCTIC_EXPEDITION_TEXT_44,Assemble
+ARCTIC_EXPEDITION_TEXT_45,Assembling
+ARCTIC_EXPEDITION_TEXT_46,This block of territory is under protection and cannot be attacked now!
+ARCTIC_EXPEDITION_TEXT_47,No Battle Record
+ARCTIC_EXPEDITION_TEXT_48,The top 50 players in the Faction Ranking can send Assemble Orders
+ARCTIC_EXPEDITION_TEXT_49,Players are Assembling in this block of territory. Do you want to cancel the Assembly that you launched?
+ARCTIC_EXPEDITION_TEXT_50,Confirm to consume {1} Gems to Assemble the players of your faction?
+ARCTIC_EXPEDITION_TEXT_51,"Too many Assembly Orders are given recently, please try later."
+ARCTIC_EXPEDITION_TEXT_52,"You can only launch 1 Assembly order each day, please try again tomorrow."
+ARCTIC_EXPEDITION_TEXT_53,"An Assembly order is active in this block of territory, you don't need to launch another Assembly order here."
+ACTIVITY_LUCKYBOXES_TEXT16,Are you sure you want to choose this Reward?
+TIME_CLOISTER_TEXT84,Use 「Time Shard: Nephrite Stairways」 to upgrade the Planetarium in Echoes of Time.
+TIME_CLOISTER_TEXT85,Advanced Skill
+ARCTIC_EXPEDITION_TEXT_54,A new Era has begun! Please re-enter this page to refresh.
+ARCTIC_EXPEDITION_TEXT_55,Territory info
+ARCTIC_EXPEDITION_TEXT_56,First Capture (Expedition Pt)
+ARCTIC_EXPEDITION_TEXT_57,Daily Reward (Expedition Pt)
+ARCTIC_EXPEDITION_TEXT_58,Defender Defeat Contribution
+CHAT_TAP_25,Faction
+CHAT_TAP_26,System
+ARCTIC_EXPEDITION_TEXT_59,/Day
+ARCTIC_EXPEDITION_TEXT_60,Expedition Points
+ARCTIC_CHAT_WINDOW,Expedition Chat
+TIME_CLOISTER_TEXT86,Outfit Dispay
+ARCTIC_EXPEDITION_TEXT_61,"The controller of this block of territory has changed, please refresh the page"
+ARCTIC_EXPEDITION_TEXT_62,Avalanchee has been defeated already!
+ARCTIC_EXPEDITION_TEXT_63,"The Expedition is over, you cannot purchase more chocolate!"
+ARCTIC_EXPEDITION_TEXT_64,Can't launch Assemble order now!
+ARCTIC_EXPEDITION_TEXT_65,Can't challenge now!
+ARCTIC_EXPEDITION_TEXT_66,Era
+ARCTIC_EXPEDITION_TEXT_67,Enter
+ARCTIC_EXPEDITION_TEXT_68,Territory Buff
+ARCTIC_EXPEDITION_TEXT_69,A Main Base or Research Station is nearby

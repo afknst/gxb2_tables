@@ -396,7 +396,7 @@ id,unknown_2,name,desc
 3300501,Marynari,Headbutt,"Deals (77% of Attack) damage against Front-line enemies, dealing extra (42% of Attack) damage each round for 2 rounds."
 3400101,Robin,Heave Smash,"Deals (70% of Attack) damage against Front-line enemies, dealing extra (46% of Attack) damage each round for 2 rounds."
 3400201,Sisha,Heave Smash,Deals (147% of Attack) damage against 2 random enemies.
-3400301,Mythra,Surprise,Deals (160% of Attack) damage against 1 enemy and heals 1 Front-line ally for (75% of Attack) HP.
+3400301,Mythra,Surprise,Deals (160% of Attack) damage against 1 enemy and heals 1 random Front-line ally for (75% of Attack) HP.
 3400401,Athena,Feign Attack,"Deals (120% of Attack) damage against an enemy, dealing extra (54% of Attack) damage each round for 2 rounds."
 3400501,Kenshin,Assault,Deals (119% of Attack) damage against Front-line enemies and reduces their 21% of Armor for 2 rounds.
 3500101,Reo,Mind Attack,"Deals (110% of Attack) damage against 1 random enemy and (100% chance) to [c][01a310]Petrify[-][/c] it for 2 rounds.\n[c][01a310]Petrify:[-][/c]\nA control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
@@ -582,7 +582,7 @@ A control effect. During this effect, girls affected will not be able to deal Ba
 A damage over time. Damage is dealt once when poison is inflicted and during the period of effect, damage will be dealt at the beginning of each round."
 65101201,Cynthia,Butterfly Effect,"Deals (100% of Attack) damage against 4 random enemies, dealing extra (30% of Attack) damage each round till their death."
 65101301,Werewolf,Wind Attack,Deals (192% of Attack) damage against 2 random Back-line enemies and gains 25% Armor Break for 2 rounds.
-65101401,Nona,Winner's Crown,"Deals (147% of Attack) damage against Front-line enemies and has a 40% chance) to [c][01a310]Freeze[-][/c] them for 2 rounds, heals 3 random allies for (180% of Attack) HP.\n[c][01a310]Freeze:[-][/c]\nA control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
+65101401,Nona,Winner's Crown,"Deals (147% of Attack) damage against Front-line enemies and has a 40% chance to [c][01a310]Freeze[-][/c] them for 2 rounds, heals 3 random allies for (180% of Attack) HP.\n[c][01a310]Freeze:[-][/c]\nA control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
 65101501,Gambler,Danger Card,"Deals (128% of Attack) damage against 3 random enemies, dealing extra (100% of Attack) [c][01a310]Bleed[-][/c] damage each round for 3 rounds, the [c][01a310]Bleed[-][/c] damage will increase to 148% each round for 2 rounds for Ranger class enemies.\n[c][01a310]Bleed:[-][/c]\nA damage over time. Damage is dealt once when bleed is inflicted and during the period of effect, damage will be dealt at the beginning of each round."
 65101601,Fencer,Cold Fury,"Deals (144% of Attack) damage against Front-line enemies and has a 55% chance to [c][01a310]Freeze[-][/c] them for 2 rounds, heals self for (15% of MAXIMUM HP) HP.\n[c][01a310]Freeze:[-][/c]\nA control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
 65101701,Sakura,Sakura Dance,"Deals (138% of Attack) damage against Back-line enemies and (29% chance) to [c][01a310]Petrify[-][/c] them for 2 rounds, reducing their 22% Armor for 3 rounds.\n[c][01a310]Petrify:[-][/c]\nA control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
@@ -826,7 +826,7 @@ Mark effect, if the target takes crit damage, the Critical Strike Mark will be r
 4300302,Liz,Dark Shield,Increases Armor by 24% and HP by 15%.
 4300402,Anna,Strong Mind,Increases Attack by 15%.
 4300502,Omega,Max Power,"When attacked (Counterattack not included), gains 3% Attack for 2 rounds."
-4300602,Lightin,Thunder Field,Attacking steals 14% of the target's Attack.
+4300602,Lightin,Thunder Field,"When dealing a Basic Attack, steals 14% of the target's Attack."
 4300702,Iron Fist,Bloom,Attack has a 50% chance to heal the ally with lowest HP for (50% of Attack) HP.
 4300802,Ada,Chance,Increases 20% HP.
 4400102,Beary,Critical Strike,Increases Crit by 25%.
@@ -918,7 +918,7 @@ A control effect. During this effect, girls affected will not be able to deal Ba
 54300302,Liz,Dark Shield,"Increases Armor by 32%, HP by 25%."
 54300402,Anna,Strong Mind,"Increases Attack by 20%, HP by 25%."
 54300502,Omega,Max Power,"When attacked (Counterattack not included), gains 6% Attack for 2 rounds."
-54300602,Lightin,Thunder Field,Attacking steals 18% of the target's Attack.
+54300602,Lightin,Thunder Field,"When dealing a Basic Attack, steals 18% of the target's Attack."
 54300702,Iron Fist,Bloom,Attack has a 50% chance to heal the ally with lowest HP for (90% of Attack) HP.
 54300802,Ada,Chance,Increases HP by 30%.
 54400102,Beary,Critical Strike,Increases Crit by 30%.
@@ -976,7 +976,7 @@ A control effect. During this effect, girls affected will not be able to deal Ba
 65300502,Amelia,Magic Weaken II,"Basic Attack will reduce the target's energy by 30, also has a 55% chance to [c][01a310]Petrify[-][/c] target for 1 round.\n[c][01a310]Petrify:[-][/c]\nA control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
 65300602,Angel,Holy Light II,Each Attack heals self for (80% of Attack) HP and increases Holy Damage by 15% for 4 rounds.
 65301102,Alice,Plasma Shield II,"Increases Armor by 72%, Attack by 20% and Deals extra 50% damage against Warrior class enemies."
-65301202,Lightin,Thunder Field II,Attacking steals 18% of the target's Attack.
+65301202,Lightin,Thunder Field II,"When dealing a Basic Attack, steals 18% of the target's Attack."
 65301302,Diva,War Control II,Increases Attack by 20%.
 65301402,Iron Fist,Bloom II,Attack has a 50% chance to heal the ally with lowest HP for (110% of Attack) HP.
 65301502,Muppet,Muppet Curse II,Basic Attack has a 100% chance to steal target's Armor by 20% for 3 rounds.
@@ -1129,14 +1129,14 @@ A control effect. During this effect, girls affected will not be able to deal Ba
 5200603,Geisha,Final Movement,"After death, has 40% chance to [c][01a310]Stun[-][/c] Back-line enemies for 2 rounds.\n[c][01a310]Stun:[-][/c]\nA control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
 5200703,Sonya,Wild Nature,"Increases Armor by 24%, Attack by 15%, HP by 15%, and Precision by 10%."
 5200803,Caitlyn,Killing Hall,Increases Block rate by 25% and Attack by 20%.
-5200903,Guan Yin,Reflection,Each attack increases self Block rate by 5% and Attack by 10%.
+5200903,Guan Yin,Reflection,Each Basic Attack increases self Block rate by 5% and Attack by 10%.
 5201003,Librarian,Word: None,"Increases 60% Skill Damage and 25% HP, increases 10% Precision."
 5300103,Priestess,Mark Maker,"
 Basic Attack tags the target with a [c][e28002]Yinyang Mark[-][/c]. 
 
 [c][e28002]Yinyang Mark:[-][/c]
 Mark effect, increases Priestess\'s damage against her enemies by 15%, can stack."
-5300203,Alice,Veteran,Each attack increases self 8% Attack for 6 rounds
+5300203,Alice,Veteran,Each Basic Attack increases self 8% Attack for 6 rounds
 5300303,Nia,Toy Armor,"After death, [c][01a310]Poisons[-][/c] all enemies, dealing (55% of Attack) damage each round for 3 rounds.\n[c][01a310]Poison:[-][/c]\nA damage over time. Damage is dealt once when poison is inflicted and during the period of effect, damage will be dealt at the beginning of each round."
 5300403,Muppet,Muppet Shield,"Increases HP by 20%, Attack by 15% and Armor by 20%."
 5300503,Nobunaga,Power Boost,"Increases Attack by 30%, HP by 15%, and Crit Damage by 10%. "
@@ -1226,7 +1226,7 @@ Mark effect, if the target takes crit damage, the Critical Strike Mark will be r
 65101503,Gambler,Killing Heart II,"Increases Precision by 25%, Attack by 25%, HP by 15% and Armor Break by 28%, dealing extra 100% damage on [c][01a310]Bleeding[-][/c] enemies.\n[c][01a310]Bleed:[-][/c]\nA damage over time. Damage is dealt once when bleed is inflicted and during the period of effect, damage will be dealt at the beginning of each round."
 65101603,Fencer,Winter is Coming,"Increases Attack by 10%, HP by 30% and Armor by 20%, immune to [c][01a310]Freeze[-][/c].\n[c][01a310]Freeze:[-][/c]\nA control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
 65101703,Sakura,Killing Mark,"Deals extra 110% damage to [c][01a310]Petrified[-][/c] targets, Basic Attack changed to Deals (85% of Attack) damage against Back-line enemies and has 15% chance to petrify them for 2 rounds.\n[c][01a310]Petrify:[-][/c]\nA control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
-65200103,Guan Yin,Reflection II,Each attack increases self Block rate by 7% and Attack by 13%.
+65200103,Guan Yin,Reflection II,Each Basic Attack increases self Block rate by 7% and Attack by 13%.
 65200203,Librarian,Word: None II,"Increases 75% Skill Damage and 35% HP, increases 20% Precision."
 65200303,Nia,Toy Armor II,"After death, [c][01a310]Poisons[-][/c] all enemies, dealing (63% of Attack) damage each round for 3 rounds.\n[c][01a310]Poison:[-][/c]\nA damage over time. Damage is dealt once when poison is inflicted and during the period of effect, damage will be dealt at the beginning of each round."
 65200403,Nobunaga,Power Boost II,"Increases Attack by 40%, HP by 20%, and Crit Damage by 20%. "
@@ -1249,7 +1249,7 @@ Mark effect, if the target takes crit damage, the Critical Strike Mark will be r
 65300403,Pandaria,Poison Shot II,"Each Crit has a 100% chance to [c][01a310]Poison[-][/c] the target, dealing (66% of Attack) damage each round for 2 rounds.\n[c][01a310]Poison:[-][/c]\nA damage over time. Damage is dealt once when poison is inflicted and during the period of effect, damage will be dealt at the beginning of each round."
 65300503,Amelia,Black Hole II,"Increases Skill Damage by 87.5%, HP by 45% and Speed by 50."
 65300603,Angel,Angel Power II,"Increases Holy Damage by 48%, Attack by 20%, HP by 20% and Crit by 15%."
-65301103,Alice,VeteranII,Each attack increases self Attack by 14% for 6 rounds.
+65301103,Alice,VeteranII,Each Basic Attack increases self Attack by 14% for 6 rounds.
 65301203,Lightin,Lightning II,Deals extra 30% damage against Assassins.
 65301303,Diva,Overheat II,"Deals extra 35% damage to [c][01a310]Burning[-][/c] enemies.\n[c][01a310]Burn:[-][/c]\nA damage over time. Damage is dealt once when burn is inflicted and during the period of effect, damage will be dealt at the beginning of each round."
 65301403,Iron Fist,Heal II,"When attacked (Counterattack not included), has 100% chance to heal self for (50% of Attack) HP."
@@ -1297,7 +1297,7 @@ Mark effect, if the target takes crit damage, the Critical Strike Mark will be r
 75200203,Javelin,Dragon Fury III,"When attacked (Counterattack not included), reduces the attacker's Attack by 9% and increases self Attack by 9%. Last for 3 rounds."
 75200303,Geisha,Final Movement III,"After death, has 90% chance to [c][01a310]Stun[-][/c] Back-line enemies for 2 rounds.\n[c][01a310]Stun:[-][/c]\nA control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
 75200403,Caitlyn,Killing Hall III,Increases Block rate by 35% and Attack by 40%.
-75200503,Guan Yin,Reflection III,Each attack increases self Block rate by 10% and Attack by 16%.
+75200503,Guan Yin,Reflection III,Each Basic Attack increases self Block rate by 10% and Attack by 16%.
 75200603,Librarian,Word: None III,"Increases 95% Skill Damage and 50% HP, increases 30% Precision."
 75200703,Blowie,Soul of Wind III,Increases HP by 35% and Attack by 25%.
 75200803,Hottie,Mind Shock III,"Basic Attack targets 3 random enemies, dealing (80% of Attack) damage."
@@ -1309,7 +1309,7 @@ Mark effect, if the target takes crit damage, the Critical Strike Mark will be r
 75300403,Toyo,Sword Soul III,"Attack has a 75% chance to [c][01a310]Burn[-][/c] the target, dealing (110% of Attack) damage each round for 2 rounds.\n[c][01a310]Burn:[-][/c]\nA damage over time. Damage is dealt once when burn is inflicted and during the period of effect, damage will be dealt at the beginning of each round."
 75300503,Masamune,Counterstrike III,"When critical attacked (Counterattack not included), has a 100% chance to Counterattack, dealing (320% of Attack) damage."
 75300603,Hexa,Assassin's Code III,"Whenever an enemy Girl dies, gains Attack by 30%."
-75300703,Alice,VeteranIII,Each attack increases own Attack by 20% and Damage Reduction by 3% for 6 rounds.
+75300703,Alice,VeteranIII,Each Basic Attack increases own Attack by 20% and Damage Reduction by 3% for 6 rounds.
 75300803,Muppet,Muppet Shield III,"Increases HP by 40%, Attack by 35% and Armor by 40%."
 75300903,Priestess,Mark Maker,"
 Basic Attack tags the target with the [c][e28002]Yinyang Mark[-][/c]. Steals target\'s Attack by 10% for 2 rounds. 
@@ -1609,7 +1609,7 @@ Mark effect, if the target takes crit damage, the Critical Strike Mark will be r
 65300512,Amelia,Magic Weaken III,"Basic Attack will reduce the target's energy by 50, also has an 100% chance to [c][01a310]Petrify[-][/c] target for 1 round.\n[c][01a310]Petrify:[-][/c]\nA control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
 65300612,Angel,Holy Light III,Each Attack heals self for (195% of Attack) HP and increases Holy Damage by 20% for 4 rounds.
 65301112,Alice,Plasma Shield III,"Increases Armor by 40%, Attack by 25% and HP by 40%, deals extra 70% damage against Warrior class enemies."
-65301212,Lightin,Thunder Field III,Each attack steals the target's 20% Attack.
+65301212,Lightin,Thunder Field III,"When dealing a Basic Attack, steals 20% of the target's Attack."
 65301312,Diva,War Control III,Increases Attack by 30%.
 65301412,Iron Fist,Bloom III,Attack has a 50% chance to heal the ally with lowest HP for (150% of Attack) HP.
 65301512,Muppet,Muppet Curse III,Basic Attack has a 100% chance to steal target's Armor by 25% for 3 rounds.
@@ -1653,7 +1653,7 @@ A control effect. During this effect, girls affected will not be able to deal Ba
 65101513,Gambler,Killing Heart III,"Increases Precision by 25%, Attack by 30%, HP by 30% and Armor Break by 32%, dealing extra 140% damage on [c][01a310]Bleeding[-][/c] enemies.\n[c][01a310]Bleed:[-][/c]\nA damage over time. Damage is dealt once when bleed is inflicted and during the period of effect, damage will be dealt at the beginning of each round."
 65101613,Fencer,Winter is Coming,"Increases Attack by 15%, HP by 40% and Armor by 30%, immune to [c][01a310]Freeze[-][/c].\n[c][01a310]Freeze:[-][/c]\nA control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
 65101713,Sakura,Killing Mark,"Deals extra 160% damage to [c][01a310]Petrified[-][/c] targets, Basic Attack changed to Deals (95% of Attack) damage against Back-line enemies and has 20% chance to [c][01a310]Petrify[-][/c] them for 2 rounds.\n[c][01a310]Petrify:[-][/c]\nA control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
-65200113,Guan Yin,Reflection III,Each attack increases self Block rate by 10% and Attack by 16%.
+65200113,Guan Yin,Reflection III,Each Basic Attack increases self Block rate by 10% and Attack by 16%.
 65200213,Librarian,Word: None III,"Increases 95% Skill Damage and 50% HP, increases 30% Precision."
 65200313,Nia,Toy Armor III,"After death, [c][01a310]Poisons[-][/c] all enemies, dealing (105% of Attack) damage each round for 3 rounds.\n[c][01a310]Poison:[-][/c]\nA damage over time. Damage is dealt once when poison is inflicted and during the period of effect, damage will be dealt at the beginning of each round."
 65200413,Nobunaga,Power Boost III,"Increases Attack by 50%, HP by 25%, and Crit Damage by 30%. "
@@ -1676,7 +1676,7 @@ A control effect. During this effect, girls affected will not be able to deal Ba
 65300413,Pandaria,Poison Shot III,"Each Crit has a 100% chance to [c][01a310]Poison[-][/c] the target, dealing (78% of Attack) damage each round for 2 rounds.\n[c][01a310]Poison:[-][/c]\nA damage over time. Damage is dealt once when poison is inflicted and during the period of effect, damage will be dealt at the beginning of each round."
 65300513,Amelia,Black Hole III,"Increases Skill Damage by 100%, HP by 55% and Speed by 60."
 65300613,Angel,Angel Power III,"Increases Holy Damage by 60%, Attack by 25%, HP by 20% and Crit by 20%."
-65301113,Alice,VeteranIII,Each attack increases own Attack by 20% and Damage Reduction by 3% for 6 rounds.
+65301113,Alice,VeteranIII,Each Basic Attack increases own Attack by 20% and Damage Reduction by 3% for 6 rounds.
 65301213,Lightin,Lightning III,Deals extra 40% damage against Assassins.
 65301313,Diva,Overheat III,"Deals extra 45% damage to [c][01a310]Burning[-][/c] enemies.\n[c][01a310]Burn:[-][/c]\nA damage over time. Damage is dealt once when burn is inflicted and during the period of effect, damage will be dealt at the beginning of each round."
 65301413,Iron Fist,Heal III,"When attacked (Counterattack not included), has 100% chance to heal self for (56% of Attack) HP."
@@ -4916,11 +4916,11 @@ Mark effect, the Round Mark will be removed 1 round later and deals (275% of Att
 753007023,Alice,Plasma Shield,"Increases Armor by 40%, Attack by 27.5% and HP by 42%, deals extra 70% damage against Warrior class enemies."
 753007024,Alice,Plasma Shield,"Increases Armor by 40%, Attack by 27.5% and HP by 42.5%, deals extra 70% damage against Warrior class enemies."
 753007025,Alice,Plasma Shield,"Increases Armor by 40%, Attack by 28% and HP by 43%, deals extra 70% damage against Warrior class enemies."
-753007031,Alice,Veteran,Each attack increases own Attack by 21% and Damage Reduction by 3% for 6 rounds.
-753007032,Alice,Veteran,Each attack increases own Attack by 21.5% and Damage Reduction by 3% for 6 rounds.
-753007033,Alice,Veteran,Each attack increases own Attack by 22% and Damage Reduction by 3% for 6 rounds.
-753007034,Alice,Veteran,Each attack increases own Attack by 22.5% and Damage Reduction by 3% for 6 rounds.
-753007035,Alice,Veteran,Each attack increases own Attack by 23% and Damage Reduction by 4% for 6 rounds.
+753007031,Alice,Veteran,Each Basic Attack increases own Attack by 21% and Damage Reduction by 3% for 6 rounds.
+753007032,Alice,Veteran,Each Basic Attack increases own Attack by 21.5% and Damage Reduction by 3% for 6 rounds.
+753007033,Alice,Veteran,Each Basic Attack increases own Attack by 22% and Damage Reduction by 3% for 6 rounds.
+753007034,Alice,Veteran,Each Basic Attack increases own Attack by 22.5% and Damage Reduction by 3% for 6 rounds.
+753007035,Alice,Veteran,Each Basic Attack increases own Attack by 23% and Damage Reduction by 4% for 6 rounds.
 753007041,Alice,Heal,"When attacked (Counterattack not included), heals self for (102% of Attack) HP."
 753007042,Alice,Heal,"When attacked (Counterattack not included), heals self for (104% of Attack) HP."
 753007043,Alice,Heal,"When attacked (Counterattack not included), heals self for (106% of Attack) HP."
@@ -7975,7 +7975,7 @@ Skill effect, when dealing Active skill or Basic Attack, she will additionally d
 65102212,Blair,Dead-Leaf Moth,"An ordinary life is too short. Attack increases by 35%, Crit increases by 35%, Crit Damage increases by 50%, Speed increases by 60, and Control Immunity increases by 30%."
 75101502,Blair,Dead-Leaf Moth,"An ordinary life is too short. Attack increases by 35%, Crit increases by 35%, Crit Damage increases by 50%, Speed increases by 60, and Control Immunity increases by 30%."
 5101503,Blair,Moth Hellfire,"
-Fall and perish! Let’s fall into the endless hellfire! When dealing Active skill or Basic Attack, deals 20% Poison damage for 2 rounds. When Active skill or Basic Attack Crits, deals an additional 20% Bleed damage for 2 rounds. After she defeats an enemy, stacks [c][e28002]Moon Dust[-][/c] on 1 random enemy for 3 rounds and increases own Armor Break by 30% for 3 rounds. 
+Fall and perish! Let’s fall into the endless hellfire! When dealing Active skill or Basic Attack, deals 20% Poison damage for 2 rounds. When Active skill or Basic Attack Crits, deals an additional 20% Bleed damage for 2 rounds. After she defeats an enemy, stacks [c][e28002]Moon Dust[-][/c] on 1 random enemy for 3 rounds and increases own Armor Break by 30% for 3 rounds. (If this enemy isn\'t defeated by [c][e28002]Moon Dust[-][/c], its effect will immediately trigger once.)
 
 [c][e28002]Moon Dust:[-][/c]
 Skill effect, when dealing Active skill or Basic Attack, she will additionally deal the same attack once to enemies stacked with Moon Dust and changes 30% of the damage dealt into her own HP (DoTs not included), does not stack. 
@@ -7984,7 +7984,7 @@ A damage over time. Damage is dealt once when poison is inflicted and during the
 [c][01a310]Bleed:[-][/c]
 A damage over time. Damage is dealt once when bleed is inflicted and during the period of effect, damage will be dealt at the beginning of each round."
 65102203,Blair,Moth Hellfire,"
-Fall and perish! Let’s fall into the endless hellfire! When dealing Active skill or Basic Attack, deals 30% Poison damage for 2 rounds. When Active skill or Basic Attack Crits, deals an additional 30% Bleed damage for 2 rounds. After she defeats an enemy, stacks [c][e28002]Moon Dust[-][/c] on 1 random enemy for 3 rounds and increases own Armor Break by 50% for 3 rounds. 
+Fall and perish! Let’s fall into the endless hellfire! When dealing Active skill or Basic Attack, deals 30% Poison damage for 2 rounds. When Active skill or Basic Attack Crits, deals an additional 30% Bleed damage for 2 rounds. After she defeats an enemy, stacks [c][e28002]Moon Dust[-][/c] on 1 random enemy for 3 rounds and increases own Armor Break by 50% for 3 rounds.  (If this enemy isn\'t defeated by [c][e28002]Moon Dust[-][/c], its effect will immediately trigger once.)
 
 [c][e28002]Moon Dust:[-][/c]
 Skill effect, when dealing Active skill or Basic Attack, she will additionally deal the same attack once to enemies stacked with Moon Dust and changes 50% of the damage dealt into her own HP (DoTs not included), does not stack. 
@@ -7993,7 +7993,7 @@ A damage over time. Damage is dealt once when poison is inflicted and during the
 [c][01a310]Bleed:[-][/c]
 A damage over time. Damage is dealt once when bleed is inflicted and during the period of effect, damage will be dealt at the beginning of each round."
 65102213,Blair,Moth Hellfire,"
-Fall and perish! Let’s fall into the endless hellfire! When dealing Active skill or Basic Attack, deals 50% Poison damage for 2 rounds. When Active skill or Basic Attack Crits, deals an additional 50% Bleed damage for 2 rounds. After she defeats an enemy, stacks [c][e28002]Moon Dust[-][/c] on 1 random enemy for 3 rounds and increases own Armor Break by 100% for 3 rounds. 
+Fall and perish! Let’s fall into the endless hellfire! When dealing Active skill or Basic Attack, deals 50% Poison damage for 2 rounds. When Active skill or Basic Attack Crits, deals an additional 50% Bleed damage for 2 rounds. After she defeats an enemy, stacks [c][e28002]Moon Dust[-][/c] on 1 random enemy for 3 rounds and increases own Armor Break by 100% for 3 rounds.  (If this enemy isn\'t defeated by [c][e28002]Moon Dust[-][/c], its effect will immediately trigger once.)
 
 [c][e28002]Moon Dust:[-][/c]
 Skill effect, when dealing Active skill or Basic Attack, she will additionally deal the same attack once to enemies stacked with Moon Dust and changes 100% of the damage dealt into her own HP (DoTs not included), does not stack. 
@@ -8002,7 +8002,7 @@ A damage over time. Damage is dealt once when poison is inflicted and during the
 [c][01a310]Bleed:[-][/c]
 A damage over time. Damage is dealt once when bleed is inflicted and during the period of effect, damage will be dealt at the beginning of each round."
 75101503,Blair,Moth Hellfire,"
-Fall and perish! Let’s fall into the endless hellfire! When dealing Active skill or Basic Attack, deals 50% Poison damage for 2 rounds. When Active skill or Basic Attack Crits, deals an additional 50% Bleed damage for 2 rounds. After she defeats an enemy, stacks [c][e28002]Moon Dust[-][/c] on 1 random enemy for 3 rounds and increases own Armor Break by 100% for 3 rounds. 
+Fall and perish! Let’s fall into the endless hellfire! When dealing Active skill or Basic Attack, deals 50% Poison damage for 2 rounds. When Active skill or Basic Attack Crits, deals an additional 50% Bleed damage for 2 rounds. After she defeats an enemy, stacks [c][e28002]Moon Dust[-][/c] on 1 random enemy for 3 rounds and increases own Armor Break by 100% for 3 rounds.  (If this enemy isn\'t defeated by [c][e28002]Moon Dust[-][/c], its effect will immediately trigger once.)
 
 [c][e28002]Moon Dust:[-][/c]
 Skill effect, when dealing Active skill or Basic Attack, she will additionally deal the same attack once to enemies stacked with Moon Dust and changes 100% of the damage dealt into her own HP (DoTs not included), does not stack. 
@@ -8129,7 +8129,7 @@ Skill effect, when dealing Active skill or Basic Attack, she will additionally d
 751015024,Blair,Dead-Leaf Moth,"An ordinary life is too short. Attack increases by 37.5%, Crit increases by 37.5%, Crit Damage increases by 50%, Speed increases by 60, and Control Immunity increases by 30%."
 751015025,Blair,Dead-Leaf Moth,"An ordinary life is too short. Attack increases by 38%, Crit increases by 38%, Crit Damage increases by 50%, Speed increases by 60, and Control Immunity increases by 30%."
 751015031,Blair,Moth Hellfire,"
-Fall and perish! Let’s fall into the endless hellfire! When dealing Active skill or Basic Attack, deals 51% Poison damage for 2 rounds. When Active skill or Basic Attack Crits, deals an additional 51% Bleed damage for 2 rounds. After she defeats an enemy, stacks [c][e28002]Moon Dust[-][/c] on 1 random enemy for 3 rounds and increases own Armor Break by 102% for 3 rounds. 
+Fall and perish! Let’s fall into the endless hellfire! When dealing Active skill or Basic Attack, deals 51% Poison damage for 2 rounds. When Active skill or Basic Attack Crits, deals an additional 51% Bleed damage for 2 rounds. After she defeats an enemy, stacks [c][e28002]Moon Dust[-][/c] on 1 random enemy for 3 rounds and increases own Armor Break by 102% for 3 rounds.  (If this enemy isn\'t defeated by [c][e28002]Moon Dust[-][/c], its effect will immediately trigger once.)
 
 [c][e28002]Moon Dust:[-][/c]
 Skill effect, when dealing Active skill or Basic Attack, she will additionally deal the same attack once to enemies stacked with Moon Dust and changes 102% of the damage dealt into her own HP (DoTs not included), does not stack. 
@@ -8138,7 +8138,7 @@ A damage over time. Damage is dealt once when poison is inflicted and during the
 [c][01a310]Bleed:[-][/c]
 A damage over time. Damage is dealt once when bleed is inflicted and during the period of effect, damage will be dealt at the beginning of each round.0"
 751015032,Blair,Moth Hellfire,"
-Fall and perish! Let’s fall into the endless hellfire! When dealing Active skill or Basic Attack, deals 52% Poison damage for 2 rounds. When Active skill or Basic Attack Crits, deals an additional 52% Bleed damage for 2 rounds. After she defeats an enemy, stacks [c][e28002]Moon Dust[-][/c] on 1 random enemy for 3 rounds and increases own Armor Break by 100% for 3 rounds. 
+Fall and perish! Let’s fall into the endless hellfire! When dealing Active skill or Basic Attack, deals 52% Poison damage for 2 rounds. When Active skill or Basic Attack Crits, deals an additional 52% Bleed damage for 2 rounds. After she defeats an enemy, stacks [c][e28002]Moon Dust[-][/c] on 1 random enemy for 3 rounds and increases own Armor Break by 100% for 3 rounds.  (If this enemy isn\'t defeated by [c][e28002]Moon Dust[-][/c], its effect will immediately trigger once.)
 
 [c][e28002]Moon Dust:[-][/c]
 Skill effect, when dealing Active skill or Basic Attack, she will additionally deal the same attack once to enemies stacked with Moon Dust and changes 104% of the damage dealt into her own HP (DoTs not included), does not stack. 
@@ -8147,7 +8147,7 @@ A damage over time. Damage is dealt once when poison is inflicted and during the
 [c][01a310]Bleed:[-][/c]
 A damage over time. Damage is dealt once when bleed is inflicted and during the period of effect, damage will be dealt at the beginning of each round."
 751015033,Blair,Moth Hellfire,"
-Fall and perish! Let’s fall into the endless hellfire! When dealing Active skill or Basic Attack, deals 53% Poison damage for 2 rounds. When Active skill or Basic Attack Crits, deals an additional 53% Bleed damage for 2 rounds. After she defeats an enemy, stacks [c][e28002]Moon Dust[-][/c] on 1 random enemy for 3 rounds and increases own Armor Break by 100% for 3 rounds. 
+Fall and perish! Let’s fall into the endless hellfire! When dealing Active skill or Basic Attack, deals 53% Poison damage for 2 rounds. When Active skill or Basic Attack Crits, deals an additional 53% Bleed damage for 2 rounds. After she defeats an enemy, stacks [c][e28002]Moon Dust[-][/c] on 1 random enemy for 3 rounds and increases own Armor Break by 100% for 3 rounds.  (If this enemy isn\'t defeated by [c][e28002]Moon Dust[-][/c], its effect will immediately trigger once.)
 
 [c][e28002]Moon Dust:[-][/c]
 Skill effect, when dealing Active skill or Basic Attack, she will additionally deal the same attack once to enemies stacked with Moon Dust and changes 106% of the damage dealt into her own HP (DoTs not included), does not stack. 
@@ -8156,7 +8156,7 @@ A damage over time. Damage is dealt once when poison is inflicted and during the
 [c][01a310]Bleed:[-][/c]
 A damage over time. Damage is dealt once when bleed is inflicted and during the period of effect, damage will be dealt at the beginning of each round."
 751015034,Blair,Moth Hellfire,"
-Fall and perish! Let’s fall into the endless hellfire! When dealing Active skill or Basic Attack, deals 54% Poison damage for 2 rounds. When Active skill or Basic Attack Crits, deals an additional 54% Bleed damage for 2 rounds. After she defeats an enemy, stacks [c][e28002]Moon Dust[-][/c] on 1 random enemy for 3 rounds and increases own Armor Break by 100% for 3 rounds. 
+Fall and perish! Let’s fall into the endless hellfire! When dealing Active skill or Basic Attack, deals 54% Poison damage for 2 rounds. When Active skill or Basic Attack Crits, deals an additional 54% Bleed damage for 2 rounds. After she defeats an enemy, stacks [c][e28002]Moon Dust[-][/c] on 1 random enemy for 3 rounds and increases own Armor Break by 100% for 3 rounds.  (If this enemy isn\'t defeated by [c][e28002]Moon Dust[-][/c], its effect will immediately trigger once.)
 
 [c][e28002]Moon Dust:[-][/c]
 Skill effect, when dealing Active skill or Basic Attack, she will additionally deal the same attack once to enemies stacked with Moon Dust and changes 108% of the damage dealt into her own HP (DoTs not included), does not stack. 
@@ -8165,7 +8165,7 @@ A damage over time. Damage is dealt once when poison is inflicted and during the
 [c][01a310]Bleed:[-][/c]
 A damage over time. Damage is dealt once when bleed is inflicted and during the period of effect, damage will be dealt at the beginning of each round."
 751015035,Blair,Moth Hellfire,"
-Fall and perish! Let’s fall into the endless hellfire! When dealing Active skill or Basic Attack, deals 55% Poison damage for 2 rounds. When Active skill or Basic Attack Crits, deals an additional 55% Bleed damage for 2 rounds. After she defeats an enemy, stacks [c][e28002]Moon Dust[-][/c] on 1 random enemy for 3 rounds and increases own Armor Break by 100% for 3 rounds. 
+Fall and perish! Let’s fall into the endless hellfire! When dealing Active skill or Basic Attack, deals 55% Poison damage for 2 rounds. When Active skill or Basic Attack Crits, deals an additional 55% Bleed damage for 2 rounds. After she defeats an enemy, stacks [c][e28002]Moon Dust[-][/c] on 1 random enemy for 3 rounds and increases own Armor Break by 100% for 3 rounds.  (If this enemy isn\'t defeated by [c][e28002]Moon Dust[-][/c], its effect will immediately trigger once.)
 
 [c][e28002]Moon Dust:[-][/c]
 Skill effect, when dealing Active skill or Basic Attack, she will additionally deal the same attack once to enemies stacked with Moon Dust and changes 110% of the damage dealt into her own HP (DoTs not included), does not stack. 
@@ -9212,9 +9212,9 @@ Skill Effect, cannot be stacked. At the end of each Round, the owner of [c][e280
 6490101,Chainblade Axe,Antique Skill,"When the owner deals Active Skills or Basic Attacks, heals the owner by 30% of the damage dealt. (the extra damages mentioned in Active Skills or Passive skills will not be calculated)"
 6490201,Chainblade Axe,Antique Skill,"When the owner deals Active Skills or Basic Attacks, heals the owner by 60% of the damage dealt. (the extra damages mentioned in Active Skills or Passive skills will not be calculated)"
 6490301,Chainblade Axe,Antique Skill,"When the owner deals Active Skills or Basic Attacks, heals the owner by 90% of the damage dealt. (the extra damages mentioned in Active Skills or Passive skills will not be calculated)"
-6460101,Echoes,Antique Skill,"When the owner takes damage, reduce the damage received by 50% of the owner's Attack; If the owner still takes damage after the damage reduction, heals the owner by 15% of the owner's Attack"
-6460201,Echoes,Antique Skill,"When the owner takes damage, reduce the damage received by 100% of the owner's Attack; If the owner still takes damage after the damage reduction, heals the owner by 30% of the owner's Attack"
-6460301,Echoes,Antique Skill,"When the owner takes damage, reduce the damage received by 200% of the owner's Attack; If the owner still takes damage after the damage reduction, heals the owner by 50% of the owner's Attack"
+6460101,Echoes,Antique Skill,"When the owner takes damage from any source (excluding damage taken from Healing Curse), reduce the damage received by 50% of the owner's Attack; If the owner still takes damage after the damage reduction, heals the owner by 15% of the owner's Attack"
+6460201,Echoes,Antique Skill,"When the owner takes damage from any source (excluding damage taken from Healing Curse), reduce the damage received by 100% of the owner's Attack; If the owner still takes damage after the damage reduction, heals the owner by 30% of the owner's Attack"
+6460301,Echoes,Antique Skill,"When the owner takes damage from any source (excluding damage taken from Healing Curse), reduce the damage received by 200% of the owner's Attack; If the owner still takes damage after the damage reduction, heals the owner by 50% of the owner's Attack"
 6466101,Burning Blades,Antique Skill,"After the Antique's shield is destroyed, heals the owner by 5% of maximum HP, increases the owner's Damage Depletion by 10% for 2 rounds"
 6466202,Burning Blades,Antique Skill,"The shield can prevent 4 damages now; After the Antique's shield is destroyed, heals the owner by 10% of maximum HP, increases the owner's Damage Depletion by 15% for 2 rounds"
 6466302,Burning Blades,Antique Skill,"The shield can prevent 4 damages now; After the Antique's shield is destroyed, heals the owner by 20% of maximum HP, increases the owner's Damage Depletion by 25% for 3 rounds"
@@ -9929,3 +9929,608 @@ When Robbie\'s current HP drops below 30% of her maximum HP for the first time i
 6742101,Tool of Trade,Antique Skill,"Before the owner releases her Active Skill, she gains 5% Crit, her attacks will ignore 5% of the targets' Crit Resist, and every 1% Crit that she has will grant her 1% extra Crit Damage. All of the aforementioned effects last for 1 round."
 6742201,Tool of Trade,Antique Skill,"Before the owner releases her Active Skill, she gains 10% Crit, her attacks will ignore 5% of the targets' Crit Resist, and every 1% Crit that she has will grant her 1.5% extra Crit Damage. All of the aforementioned effects last for 1 round."
 6742301,Tool of Trade,Antique Skill,"Before the owner releases her Active Skill, she gains 15% Crit, her attacks will ignore 5% of the targets' Crit Resist, and every 1% Crit that she has will grant her 2% extra Crit Damage. All of the aforementioned effects last for 1 round."
+5600900,Gwen & Brigit,Basic Attack,Basic Attack
+65601900,Gwen & Brigit,Basic Attack,Basic Attack
+75600900,Gwen & Brigit,Basic Attack,Basic Attack
+5600901,Gwen & Brigit,Winged Deaths,"
+O butterfly, fluttereth thy wings!
+
+Deals (120% of Attack) damage to 3 random enemies (will target enemies afflicted with more stacks of [c][e28002]Gilded Butterflies[-][/c] first).
+ If the target is afflicted by at least 1 stack of [c][e28002]Gilded Butterflies[-][/c], Gwen & Brigit will deal an extra (120% of Attack) damage to the target.
+ If the target is afflicted by at least 3 stacks of [c][e28002]Gilded Butterflies[-][/c], Gwen & Brigit will deal an extra (120% of Attack) damage to the target for a second time.
+ If the target is afflicted by at least 5 stacks of [c][e28002]Gilded Butterflies[-][/c], clears all but 1 stack of [c][e28002]Gilded Butterflies[-][/c] from the target, and casts [c][e28002]Harbingers of Death[-][/c] to the target.
+
+[c][e28002]Gilded Butterflies: [-][/c]
+A Skill Effect, can be stacked. 
+For each stack of [c][e28002]Gilded Butterflies[-][/c] that the target has, it will have 1% more chance to take Critical Strikes from the Gwen & Brigit who afflicted this effect and Crit Damage of the Critical Strikes dealt by the aforementioned Gwen & Brigit will be increased by 1%.
+When the Gwen & Brigit who afflicted [c][e28002]Gilded Butterflies[-][/c] is attacked by the target afflicted by this effect, her Front-line allies will help take 10% of damage dealt and split the damage taken between themselves. (Damage that the Frontline allies take for her will be reduced by their own Damage Depletion attribute. When there are no allies in the Front-line to take damage for her, this effect will not be activated.)
+[c][e28002]Harbingers of Death:[-][/c]
+A Skill Effect, cannot be stacked. 
+Deals (300% of Attack) fixed damage that will neither Crit nor be affected by any attribute or effect that increases or reduces damage to the target. 
+If the target isn’t defeated after taking this damage, Gwen & Brigit will deal a Basic Attack."
+65601901,Gwen & Brigit,Winged Deaths,"
+O butterfly, fluttereth thy wings!
+
+Deals (200% of Attack) damage to 3 random enemies (will target enemies afflicted with more stacks of [c][e28002]Gilded Butterflies[-][/c] first).
+ If the target is afflicted by at least 1 stack of [c][e28002]Gilded Butterflies[-][/c], Gwen & Brigit will deal an extra (200% of Attack) damage to the target.
+ If the target is afflicted by at least 3 stacks of [c][e28002]Gilded Butterflies[-][/c], Gwen & Brigit will deal an extra (200% of Attack) damage to the target for a second time.
+ If the target is afflicted by at least 5 stacks of [c][e28002]Gilded Butterflies[-][/c], clears all but 1 stack of [c][e28002]Gilded Butterflies[-][/c] from the target, and casts [c][e28002]Harbingers of Death[-][/c] to the target.
+
+[c][e28002]Gilded Butterflies: [-][/c]
+A Skill Effect, can be stacked. 
+For each stack of [c][e28002]Gilded Butterflies[-][/c] that the target has, it will have 3% more chance to take Critical Strikes from the Gwen & Brigit who afflicted this effect and Crit Damage of the Critical Strikes dealt by the aforementioned Gwen & Brigit will be increased by 3%.
+When the Gwen & Brigit who afflicted [c][e28002]Gilded Butterflies[-][/c] is attacked by the target afflicted by this effect, her Front-line allies will help take 20% of damage dealt and split the damage taken between themselves. (Damage that the Frontline allies take for her will be reduced by their own Damage Depletion attribute. When there are no allies in the Front-line to take damage for her, this effect will not be activated.)
+[c][e28002]Harbingers of Death:[-][/c]
+A Skill Effect, cannot be stacked. 
+Deals (600% of Attack) fixed damage that will neither Crit nor be affected by any attribute or effect that increases or reduces damage to the target. 
+If the target isn’t defeated after taking this damage, Gwen & Brigit will deal a Basic Attack."
+75600901,Gwen & Brigit,Winged Deaths,"
+O butterfly, fluttereth thy wings!
+
+Deals (500% of Attack) damage to 3 random enemies (will target enemies afflicted with more stacks of [c][e28002]Gilded Butterflies[-][/c] first).
+ If the target is afflicted by at least 1 stack of [c][e28002]Gilded Butterflies[-][/c], Gwen & Brigit will deal an extra (500% of Attack) damage to the target.
+ If the target is afflicted by at least 3 stacks of [c][e28002]Gilded Butterflies[-][/c], Gwen & Brigit will deal an extra (500% of Attack) damage to the target for a second time.
+ If the target is afflicted by at least 5 stacks of [c][e28002]Gilded Butterflies[-][/c], clears all but 1 stack of [c][e28002]Gilded Butterflies[-][/c] from the target, and casts [c][e28002]Harbingers of Death[-][/c] to the target.
+
+[c][e28002]Gilded Butterflies: [-][/c]
+A Skill Effect, can be stacked. 
+For each stack of [c][e28002]Gilded Butterflies[-][/c] that the target has, it will have 5% more chance to take Critical Strikes from the Gwen & Brigit who afflicted this effect and Crit Damage of the Critical Strikes dealt by the aforementioned Gwen & Brigit will be increased by 5%.
+When the Gwen & Brigit who afflicted [c][e28002]Gilded Butterflies[-][/c] is attacked by the target afflicted by this effect, her Front-line allies will help take 30% of damage dealt and split the damage taken between themselves. (Damage that the Frontline allies take for her will be reduced by their own Damage Depletion attribute. When there are no allies in the Front-line to take damage for her, this effect will not be activated.)
+[c][e28002]Harbingers of Death:[-][/c]
+A Skill Effect, cannot be stacked. 
+Deals (1000% of Attack) fixed damage that will neither Crit nor be affected by any attribute or effect that increases or reduces damage to the target. 
+If the target isn’t defeated after taking this damage, Gwen & Brigit will deal a Basic Attack."
+5600902,Gwen & Brigit,Eternal Companions,"We are inseparable.\n\nIncreases Gwen & Brigit's Attack by 20%, Crit by 10%, Holy Damage by 40%, Control Immunity by 10%, and Speed by 20."
+65601902,Gwen & Brigit,Eternal Companions,"We are inseparable.\n\nIncreases Gwen & Brigit's Attack by 30%, Crit by 20%, Holy Damage by 60%, Control Immunity by 20%, and Speed by 40."
+65601912,Gwen & Brigit,Eternal Companions,"We are inseparable.\n\nIncreases Gwen & Brigit's Attack by 40%, Crit by 30%, Holy Damage by 80%, Control Immunity by 30%, and Speed by 60."
+75600902,Gwen & Brigit,Eternal Companions,"We are inseparable.\n\nIncreases Gwen & Brigit's Attack by 40%, Crit by 30%, Holy Damage by 80%, Control Immunity by 30%, and Speed by 60."
+5600903,Gwen & Brigit,Cage of Concealment,"
+Brigit: “This Cage is perfect for hiding our spoils!”
+
+Basic Attack changed to deal (100% of Attack) damage to 3 enemies with the lowest HP on the battlefield.
+If the target is afflicted by at least 1 stack of [c][e28002]Gilded Butterflies[-][/c], Gwen & Brigit will deal an extra (100% of Attack) damage to it, and has a 50% chance to afflict 1 stack of [c][e28002]Gilded Butterflies[-][/c] to the target.
+At the start of the battle, Gwen & Brigit afflicts 1 stack of [c][e28002]Gilded Butterflies[-][/c] that lasts for 4 rounds to all enemies.
+
+[c][e28002]Gilded Butterflies: [-][/c]
+A Skill Effect, can be stacked. 
+For each stack of [c][e28002]Gilded Butterflies[-][/c] that the target has, it will have 1% more chance to take Critical Strikes from the Gwen & Brigit who afflicted this effect and Crit Damage of the Critical Strikes dealt by the aforementioned Gwen & Brigit will be increased by 1%.
+When the Gwen & Brigit who afflicted [c][e28002]Gilded Butterflies[-][/c] is attacked by the target afflicted by this effect, her Front-line allies will help take 10% of damage dealt and split the damage taken between themselves. (Damage that the Frontline allies take for her will be reduced by their own Damage Depletion attribute. When there are no allies in the Front-line to take damage for her, this effect will not be activated.)"
+65601903,Gwen & Brigit,Cage of Concealment,"
+Brigit: “This Cage is perfect for hiding our spoils!”
+
+Basic Attack changed to deal (140% of Attack) damage to 3 enemies with the lowest HP on the battlefield.
+If the target is afflicted by at least 1 stack of [c][e28002]Gilded Butterflies[-][/c], Gwen & Brigit will deal an extra (140% of Attack) damage to it, and has a 70% chance to afflict 1 stack of [c][e28002]Gilded Butterflies[-][/c] to the target.
+At the start of the battle, Gwen & Brigit afflicts 1 stack of [c][e28002]Gilded Butterflies[-][/c] that lasts for 4 rounds to all enemies.
+
+[c][e28002]Gilded Butterflies: [-][/c]
+A Skill Effect, can be stacked. 
+For each stack of [c][e28002]Gilded Butterflies[-][/c] that the target has, it will have 3% more chance to take Critical Strikes from the Gwen & Brigit who afflicted this effect and Crit Damage of the Critical Strikes dealt by the aforementioned Gwen & Brigit will be increased by 3%.
+When the Gwen & Brigit who afflicted [c][e28002]Gilded Butterflies[-][/c] is attacked by the target afflicted by this effect, her Front-line allies will help take 20% of damage dealt and split the damage taken between themselves. (Damage that the Frontline allies take for her will be reduced by their own Damage Depletion attribute. When there are no allies in the Front-line to take damage for her, this effect will not be activated.)"
+65601913,Gwen & Brigit,Cage of Concealment,"
+Brigit: “This Cage is perfect for hiding our spoils!”
+
+Basic Attack changed to deal (300% of Attack) damage to 3 enemies with the lowest HP on the battlefield.
+If the target is afflicted by at least 1 stack of [c][e28002]Gilded Butterflies[-][/c], Gwen & Brigit will deal an extra (300% of Attack) damage to it, and has 100% chance to afflict 1 stack of [c][e28002]Gilded Butterflies[-][/c] to the target.
+At the start of the battle, Gwen & Brigit afflicts 1 stack of [c][e28002]Gilded Butterflies[-][/c] that lasts for 4 rounds to all enemies.
+
+[c][e28002]Gilded Butterflies: [-][/c]
+A Skill Effect, can be stacked. 
+For each stack of [c][e28002]Gilded Butterflies[-][/c] that the target has, it will have 5% more chance to take Critical Strikes from the Gwen & Brigit who afflicted this effect and Crit Damage of the Critical Strikes dealt by the aforementioned Gwen & Brigit will be increased by 5%.
+When the Gwen & Brigit who afflicted [c][e28002]Gilded Butterflies[-][/c] is attacked by the target afflicted by this effect, her Front-line allies will help take 30% of damage dealt and split the damage taken between themselves. (Damage that the Frontline allies take for her will be reduced by their own Damage Depletion attribute. When there are no allies in the Front-line to take damage for her, this effect will not be activated.)"
+75600903,Gwen & Brigit,Cage of Concealment,"
+Brigit: “This Cage is perfect for hiding our spoils!”
+
+Basic Attack changed to deal (300% of Attack) damage to 3 enemies with the lowest HP on the battlefield.
+If the target is afflicted by at least 1 stack of [c][e28002]Gilded Butterflies[-][/c], Gwen & Brigit will deal an extra (300% of Attack) damage to it, and has 100% chance to afflict 1 stack of [c][e28002]Gilded Butterflies[-][/c] to the target.
+At the start of the battle, Gwen & Brigit afflicts 1 stack of [c][e28002]Gilded Butterflies[-][/c] that lasts for 4 rounds to all enemies.
+
+[c][e28002]Gilded Butterflies: [-][/c]
+A Skill Effect, can be stacked. 
+For each stack of [c][e28002]Gilded Butterflies[-][/c] that the target has, it will have 5% more chance to take Critical Strikes from the Gwen & Brigit who afflicted this effect and Crit Damage of the Critical Strikes dealt by the aforementioned Gwen & Brigit will be increased by 5%.
+When the Gwen & Brigit who afflicted [c][e28002]Gilded Butterflies[-][/c] is attacked by the target afflicted by this effect, her Front-line allies will help take 30% of damage dealt and split the damage taken between themselves. (Damage that the Frontline allies take for her will be reduced by their own Damage Depletion attribute. When there are no allies in the Front-line to take damage for her, this effect will not be activated.)"
+5600904,Gwen & Brigit,Hour of Need,"
+Gwen: “Wealth belongs to those who need it the most.”
+
+When an ally deals a Critical Strike, she recovers (50% of self Attack) HP and gains 10 Speed that lasts for 2 rounds.
+When other allies releases Active Skills or deals Basic Attacks, Gwen & Brigit has a 30% chance to afflict 1 stack of [c][e28002]Gilded Butterflies[-][/c] that lasts for 4 rounds to 3 enemies with the lowest HP.
+
+[c][e28002]Gilded Butterflies: [-][/c]
+A Skill Effect, can be stacked. 
+For each stack of [c][e28002]Gilded Butterflies[-][/c] that the target has, it will have 1% more chance to take Critical Strikes from the Gwen & Brigit who afflicted this effect and Crit Damage of the Critical Strikes dealt by the aforementioned Gwen & Brigit will be increased by 1%.
+When the Gwen & Brigit who afflicted [c][e28002]Gilded Butterflies[-][/c] is attacked by the target afflicted by this effect, her Front-line allies will help take 10% of damage dealt and split the damage taken between themselves. (Damage that the Frontline allies take for her will be reduced by their own Damage Depletion attribute. When there are no allies in the Front-line to take damage for her, this effect will not be activated.)"
+65601904,Gwen & Brigit,Hour of Need,"
+Gwen: “Wealth belongs to those who need it the most.”
+
+When an ally deals a Critical Strike, she recovers (150% of self Attack) HP and gains 10 Speed that lasts for 2 rounds.
+When other allies releases Active Skills or deals Basic Attacks, Gwen & Brigit has a 50% chance to afflict 1 stack of [c][e28002]Gilded Butterflies[-][/c] that lasts for 4 rounds to 3 enemies with the lowest HP.
+
+[c][e28002]Gilded Butterflies: [-][/c]
+A Skill Effect, can be stacked. 
+For each stack of [c][e28002]Gilded Butterflies[-][/c] that the target has, it will have 3% more chance to take Critical Strikes from the Gwen & Brigit who afflicted this effect and Crit Damage of the Critical Strikes dealt by the aforementioned Gwen & Brigit will be increased by 3%.
+When the Gwen & Brigit who afflicted [c][e28002]Gilded Butterflies[-][/c] is attacked by the target afflicted by this effect, her Front-line allies will help take 20% of damage dealt and split the damage taken between themselves. (Damage that the Frontline allies take for her will be reduced by their own Damage Depletion attribute. When there are no allies in the Front-line to take damage for her, this effect will not be activated.)"
+65601914,Gwen & Brigit,Hour of Need,"
+Gwen: “Wealth belongs to those who need it the most.”
+
+When an ally deals a Critical Strike, she recovers (300% of self Attack) HP and gains 10 Speed that lasts for 2 rounds.
+When other allies releases Active Skills or deals Basic Attacks, Gwen & Brigit has a 70% chance to afflict 1 stack of [c][e28002]Gilded Butterflies[-][/c] that lasts for 4 rounds to 3 enemies with the lowest HP.
+
+[c][e28002]Gilded Butterflies: [-][/c]
+A Skill Effect, can be stacked. 
+For each stack of [c][e28002]Gilded Butterflies[-][/c] that the target has, it will have 5% more chance to take Critical Strikes from the Gwen & Brigit who afflicted this effect and Crit Damage of the Critical Strikes dealt by the aforementioned Gwen & Brigit will be increased by 5%.
+When the Gwen & Brigit who afflicted [c][e28002]Gilded Butterflies[-][/c] is attacked by the target afflicted by this effect, her Front-line allies will help take 30% of damage dealt and split the damage taken between themselves. (Damage that the Frontline allies take for her will be reduced by their own Damage Depletion attribute. When there are no allies in the Front-line to take damage for her, this effect will not be activated.)"
+75600904,Gwen & Brigit,Hour of Need,"
+Gwen: “Wealth belongs to those who need it the most.”
+
+When an ally deals a Critical Strike, she recovers (300% of self Attack) HP and gains 10 Speed that lasts for 2 rounds.
+When other allies releases Active Skills or deals Basic Attacks, Gwen & Brigit has a 70% chance to afflict 1 stack of [c][e28002]Gilded Butterflies[-][/c] that lasts for 4 rounds to 3 enemies with the lowest HP.
+
+[c][e28002]Gilded Butterflies: [-][/c]
+A Skill Effect, can be stacked. 
+For each stack of [c][e28002]Gilded Butterflies[-][/c] that the target has, it will have 5% more chance to take Critical Strikes from the Gwen & Brigit who afflicted this effect and Crit Damage of the Critical Strikes dealt by the aforementioned Gwen & Brigit will be increased by 5%.
+When the Gwen & Brigit who afflicted [c][e28002]Gilded Butterflies[-][/c] is attacked by the target afflicted by this effect, her Front-line allies will help take 30% of damage dealt and split the damage taken between themselves. (Damage that the Frontline allies take for her will be reduced by their own Damage Depletion attribute. When there are no allies in the Front-line to take damage for her, this effect will not be activated.)"
+756009011,Gwen & Brigit,Winged Deaths,"
+O butterfly, fluttereth thy wings!
+
+Deals (510% of Attack) damage to 3 random enemies (will target enemies afflicted with more stacks of [c][e28002]Gilded Butterflies[-][/c] first).
+ If the target is afflicted by at least 1 stack of [c][e28002]Gilded Butterflies[-][/c], Gwen & Brigit will deal an extra (510% of Attack) damage to the target.
+ If the target is afflicted by at least 3 stacks of [c][e28002]Gilded Butterflies[-][/c], Gwen & Brigit will deal an extra (510% of Attack) damage to the target for a second time.
+ If the target is afflicted by at least 5 stacks of [c][e28002]Gilded Butterflies[-][/c], clears all but 1 stack of [c][e28002]Gilded Butterflies[-][/c] from the target, and casts [c][e28002]Harbingers of Death[-][/c] to the target.
+
+[c][e28002]Gilded Butterflies: [-][/c]
+A Skill Effect, can be stacked. 
+For each stack of [c][e28002]Gilded Butterflies[-][/c] that the target has, it will have 5% more chance to take Critical Strikes from the Gwen & Brigit who afflicted this effect and Crit Damage of the Critical Strikes dealt by the aforementioned Gwen & Brigit will be increased by 5%.
+When the Gwen & Brigit who afflicted [c][e28002]Gilded Butterflies[-][/c] is attacked by the target afflicted by this effect, her Front-line allies will help take 30% of damage dealt and split the damage taken between themselves. (Damage that the Frontline allies take for her will be reduced by their own Damage Depletion attribute. When there are no allies in the Front-line to take damage for her, this effect will not be activated.)
+[c][e28002]Harbingers of Death:[-][/c]
+A Skill Effect, cannot be stacked. 
+Deals (1260% of Attack) fixed damage that will neither Crit nor be affected by any attribute or effect that increases or reduces damage to the target. 
+If the target isn’t defeated after taking this damage, Gwen & Brigit will deal a Basic Attack."
+756009012,Gwen & Brigit,Winged Deaths,"
+O butterfly, fluttereth thy wings!
+
+Deals (520% of Attack) damage to 3 random enemies (will target enemies afflicted with more stacks of [c][e28002]Gilded Butterflies[-][/c] first).
+ If the target is afflicted by at least 1 stack of [c][e28002]Gilded Butterflies[-][/c], Gwen & Brigit will deal an extra (520% of Attack) damage to the target.
+ If the target is afflicted by at least 3 stacks of [c][e28002]Gilded Butterflies[-][/c], Gwen & Brigit will deal an extra (520% of Attack) damage to the target for a second time.
+ If the target is afflicted by at least 5 stacks of [c][e28002]Gilded Butterflies[-][/c], clears all but 1 stack of [c][e28002]Gilded Butterflies[-][/c] from the target, and casts [c][e28002]Harbingers of Death[-][/c] to the target.
+
+[c][e28002]Gilded Butterflies: [-][/c]
+A Skill Effect, can be stacked. 
+For each stack of [c][e28002]Gilded Butterflies[-][/c] that the target has, it will have 5% more chance to take Critical Strikes from the Gwen & Brigit who afflicted this effect and Crit Damage of the Critical Strikes dealt by the aforementioned Gwen & Brigit will be increased by 5%.
+When the Gwen & Brigit who afflicted [c][e28002]Gilded Butterflies[-][/c] is attacked by the target afflicted by this effect, her Front-line allies will help take 30% of damage dealt and split the damage taken between themselves. (Damage that the Frontline allies take for her will be reduced by their own Damage Depletion attribute. When there are no allies in the Front-line to take damage for her, this effect will not be activated.)
+[c][e28002]Harbingers of Death:[-][/c]
+A Skill Effect, cannot be stacked. 
+Deals (1320% of Attack) fixed damage that will neither Crit nor be affected by any attribute or effect that increases or reduces damage to the target. 
+If the target isn’t defeated after taking this damage, Gwen & Brigit will deal a Basic Attack."
+756009013,Gwen & Brigit,Winged Deaths,"
+O butterfly, fluttereth thy wings!
+
+Deals (530% of Attack) damage to 3 random enemies (will target enemies afflicted with more stacks of [c][e28002]Gilded Butterflies[-][/c] first).
+ If the target is afflicted by at least 1 stack of [c][e28002]Gilded Butterflies[-][/c], Gwen & Brigit will deal an extra (530% of Attack) damage to the target.
+ If the target is afflicted by at least 3 stacks of [c][e28002]Gilded Butterflies[-][/c], Gwen & Brigit will deal an extra (530% of Attack) damage to the target for a second time.
+ If the target is afflicted by at least 5 stacks of [c][e28002]Gilded Butterflies[-][/c], clears all but 1 stack of [c][e28002]Gilded Butterflies[-][/c] from the target, and casts [c][e28002]Harbingers of Death[-][/c] to the target.
+
+[c][e28002]Gilded Butterflies: [-][/c]
+A Skill Effect, can be stacked. 
+For each stack of [c][e28002]Gilded Butterflies[-][/c] that the target has, it will have 5% more chance to take Critical Strikes from the Gwen & Brigit who afflicted this effect and Crit Damage of the Critical Strikes dealt by the aforementioned Gwen & Brigit will be increased by 5%.
+When the Gwen & Brigit who afflicted [c][e28002]Gilded Butterflies[-][/c] is attacked by the target afflicted by this effect, her Front-line allies will help take 30% of damage dealt and split the damage taken between themselves. (Damage that the Frontline allies take for her will be reduced by their own Damage Depletion attribute. When there are no allies in the Front-line to take damage for her, this effect will not be activated.)
+[c][e28002]Harbingers of Death:[-][/c]
+A Skill Effect, cannot be stacked. 
+Deals (1380% of Attack) fixed damage that will neither Crit nor be affected by any attribute or effect that increases or reduces damage to the target. 
+If the target isn’t defeated after taking this damage, Gwen & Brigit will deal a Basic Attack."
+756009014,Gwen & Brigit,Winged Deaths,"
+O butterfly, fluttereth thy wings!
+
+Deals (540% of Attack) damage to 3 random enemies (will target enemies afflicted with more stacks of [c][e28002]Gilded Butterflies[-][/c] first).
+ If the target is afflicted by at least 1 stack of [c][e28002]Gilded Butterflies[-][/c], Gwen & Brigit will deal an extra (540% of Attack) damage to the target.
+ If the target is afflicted by at least 3 stacks of [c][e28002]Gilded Butterflies[-][/c], Gwen & Brigit will deal an extra (540% of Attack) damage to the target for a second time.
+ If the target is afflicted by at least 5 stacks of [c][e28002]Gilded Butterflies[-][/c], clears all but 1 stack of [c][e28002]Gilded Butterflies[-][/c] from the target, and casts [c][e28002]Harbingers of Death[-][/c] to the target.
+
+[c][e28002]Gilded Butterflies: [-][/c]
+A Skill Effect, can be stacked. 
+For each stack of [c][e28002]Gilded Butterflies[-][/c] that the target has, it will have 5% more chance to take Critical Strikes from the Gwen & Brigit who afflicted this effect and Crit Damage of the Critical Strikes dealt by the aforementioned Gwen & Brigit will be increased by 5%.
+When the Gwen & Brigit who afflicted [c][e28002]Gilded Butterflies[-][/c] is attacked by the target afflicted by this effect, her Front-line allies will help take 30% of damage dealt and split the damage taken between themselves. (Damage that the Frontline allies take for her will be reduced by their own Damage Depletion attribute. When there are no allies in the Front-line to take damage for her, this effect will not be activated.)
+[c][e28002]Harbingers of Death:[-][/c]
+A Skill Effect, cannot be stacked. 
+Deals (1440% of Attack) fixed damage that will neither Crit nor be affected by any attribute or effect that increases or reduces damage to the target. 
+If the target isn’t defeated after taking this damage, Gwen & Brigit will deal a Basic Attack."
+756009015,Gwen & Brigit,Winged Deaths,"
+O butterfly, fluttereth thy wings!
+
+Deals (550% of Attack) damage to 3 random enemies (will target enemies afflicted with more stacks of [c][e28002]Gilded Butterflies[-][/c] first).
+ If the target is afflicted by at least 1 stack of [c][e28002]Gilded Butterflies[-][/c], Gwen & Brigit will deal an extra (550% of Attack) damage to the target.
+ If the target is afflicted by at least 3 stacks of [c][e28002]Gilded Butterflies[-][/c], Gwen & Brigit will deal an extra (550% of Attack) damage to the target for a second time.
+ If the target is afflicted by at least 5 stacks of [c][e28002]Gilded Butterflies[-][/c], clears all but 1 stack of [c][e28002]Gilded Butterflies[-][/c] from the target, and casts [c][e28002]Harbingers of Death[-][/c] to the target.
+
+[c][e28002]Gilded Butterflies: [-][/c]
+A Skill Effect, can be stacked. 
+For each stack of [c][e28002]Gilded Butterflies[-][/c] that the target has, it will have 5% more chance to take Critical Strikes from the Gwen & Brigit who afflicted this effect and Crit Damage of the Critical Strikes dealt by the aforementioned Gwen & Brigit will be increased by 5%.
+When the Gwen & Brigit who afflicted [c][e28002]Gilded Butterflies[-][/c] is attacked by the target afflicted by this effect, her Front-line allies will help take 30% of damage dealt and split the damage taken between themselves. (Damage that the Frontline allies take for her will be reduced by their own Damage Depletion attribute. When there are no allies in the Front-line to take damage for her, this effect will not be activated.)
+[c][e28002]Harbingers of Death:[-][/c]
+A Skill Effect, cannot be stacked. 
+Deals (1500% of Attack) fixed damage that will neither Crit nor be affected by any attribute or effect that increases or reduces damage to the target. 
+If the target isn’t defeated after taking this damage, Gwen & Brigit will deal a Basic Attack."
+756009021,Gwen & Brigit,Eternal Companions,"We are inseparable.\n\nIncreases Gwen & Brigit's Attack by 40%, Crit by 30%, Holy Damage by 80%, Control Immunity by 30%, and Speed by 62."
+756009022,Gwen & Brigit,Eternal Companions,"We are inseparable.\n\nIncreases Gwen & Brigit's Attack by 40%, Crit by 30%, Holy Damage by 80%, Control Immunity by 30%, and Speed by 64."
+756009023,Gwen & Brigit,Eternal Companions,"We are inseparable.\n\nIncreases Gwen & Brigit's Attack by 40%, Crit by 30%, Holy Damage by 84%, Control Immunity by 30%, and Speed by 66."
+756009024,Gwen & Brigit,Eternal Companions,"We are inseparable.\n\nIncreases Gwen & Brigit's Attack by 40%, Crit by 30%, Holy Damage by 84%, Control Immunity by 30%, and Speed by 68."
+756009025,Gwen & Brigit,Eternal Companions,"We are inseparable.\n\nIncreases Gwen & Brigit's Attack by 43%, Crit by 30%, Holy Damage by 88%, Control Immunity by 30%, and Speed by 70."
+756009031,Gwen & Brigit,Cage of Concealment,"
+Brigit: “This Cage is perfect for hiding our spoils!”
+
+Basic Attack changed to deal (306% of Attack) damage to 3 enemies with the lowest HP on the battlefield.
+If the target is afflicted by at least 1 stack of [c][e28002]Gilded Butterflies[-][/c], Gwen & Brigit will deal an extra (306% of Attack) damage to it, and has 100% chance to afflict 1 stack of [c][e28002]Gilded Butterflies[-][/c] to the target.
+At the start of the battle, Gwen & Brigit afflicts 1 stack of [c][e28002]Gilded Butterflies[-][/c] that lasts for 4 rounds to all enemies.
+
+[c][e28002]Gilded Butterflies: [-][/c]
+A Skill Effect, can be stacked. 
+For each stack of [c][e28002]Gilded Butterflies[-][/c] that the target has, it will have 5% more chance to take Critical Strikes from the Gwen & Brigit who afflicted this effect and Crit Damage of the Critical Strikes dealt by the aforementioned Gwen & Brigit will be increased by 5%.
+When the Gwen & Brigit who afflicted [c][e28002]Gilded Butterflies[-][/c] is attacked by the target afflicted by this effect, her Front-line allies will help take 30% of damage dealt and split the damage taken between themselves. (Damage that the Frontline allies take for her will be reduced by their own Damage Depletion attribute. When there are no allies in the Front-line to take damage for her, this effect will not be activated.)"
+756009032,Gwen & Brigit,Cage of Concealment,"
+Brigit: “This Cage is perfect for hiding our spoils!”
+
+Basic Attack changed to deal (312% of Attack) damage to 3 enemies with the lowest HP on the battlefield.
+If the target is afflicted by at least 1 stack of [c][e28002]Gilded Butterflies[-][/c], Gwen & Brigit will deal an extra (312% of Attack) damage to it, and has 100% chance to afflict 1 stack of [c][e28002]Gilded Butterflies[-][/c] to the target.
+At the start of the battle, Gwen & Brigit afflicts 1 stack of [c][e28002]Gilded Butterflies[-][/c] that lasts for 4 rounds to all enemies.
+
+[c][e28002]Gilded Butterflies: [-][/c]
+A Skill Effect, can be stacked. 
+For each stack of [c][e28002]Gilded Butterflies[-][/c] that the target has, it will have 5% more chance to take Critical Strikes from the Gwen & Brigit who afflicted this effect and Crit Damage of the Critical Strikes dealt by the aforementioned Gwen & Brigit will be increased by 5%.
+When the Gwen & Brigit who afflicted [c][e28002]Gilded Butterflies[-][/c] is attacked by the target afflicted by this effect, her Front-line allies will help take 30% of damage dealt and split the damage taken between themselves. (Damage that the Frontline allies take for her will be reduced by their own Damage Depletion attribute. When there are no allies in the Front-line to take damage for her, this effect will not be activated.)"
+756009033,Gwen & Brigit,Cage of Concealment,"
+Brigit: “This Cage is perfect for hiding our spoils!”
+
+Basic Attack changed to deal (318% of Attack) damage to 3 enemies with the lowest HP on the battlefield.
+If the target is afflicted by at least 1 stack of [c][e28002]Gilded Butterflies[-][/c], Gwen & Brigit will deal an extra (318% of Attack) damage to it, and has 100% chance to afflict 1 stack of [c][e28002]Gilded Butterflies[-][/c] to the target.
+At the start of the battle, Gwen & Brigit afflicts 1 stack of [c][e28002]Gilded Butterflies[-][/c] that lasts for 4 rounds to all enemies.
+
+[c][e28002]Gilded Butterflies: [-][/c]
+A Skill Effect, can be stacked. 
+For each stack of [c][e28002]Gilded Butterflies[-][/c] that the target has, it will have 5% more chance to take Critical Strikes from the Gwen & Brigit who afflicted this effect and Crit Damage of the Critical Strikes dealt by the aforementioned Gwen & Brigit will be increased by 5%.
+When the Gwen & Brigit who afflicted [c][e28002]Gilded Butterflies[-][/c] is attacked by the target afflicted by this effect, her Front-line allies will help take 30% of damage dealt and split the damage taken between themselves. (Damage that the Frontline allies take for her will be reduced by their own Damage Depletion attribute. When there are no allies in the Front-line to take damage for her, this effect will not be activated.)"
+756009034,Gwen & Brigit,Cage of Concealment,"
+Brigit: “This Cage is perfect for hiding our spoils!”
+
+Basic Attack changed to deal (324% of Attack) damage to 3 enemies with the lowest HP on the battlefield.
+If the target is afflicted by at least 1 stack of [c][e28002]Gilded Butterflies[-][/c], Gwen & Brigit will deal an extra (324% of Attack) damage to it, and has 100% chance to afflict 1 stack of [c][e28002]Gilded Butterflies[-][/c] to the target.
+At the start of the battle, Gwen & Brigit afflicts 1 stack of [c][e28002]Gilded Butterflies[-][/c] that lasts for 4 rounds to all enemies.
+
+[c][e28002]Gilded Butterflies: [-][/c]
+A Skill Effect, can be stacked. 
+For each stack of [c][e28002]Gilded Butterflies[-][/c] that the target has, it will have 5% more chance to take Critical Strikes from the Gwen & Brigit who afflicted this effect and Crit Damage of the Critical Strikes dealt by the aforementioned Gwen & Brigit will be increased by 5%.
+When the Gwen & Brigit who afflicted [c][e28002]Gilded Butterflies[-][/c] is attacked by the target afflicted by this effect, her Front-line allies will help take 30% of damage dealt and split the damage taken between themselves. (Damage that the Frontline allies take for her will be reduced by their own Damage Depletion attribute. When there are no allies in the Front-line to take damage for her, this effect will not be activated.)"
+756009035,Gwen & Brigit,Cage of Concealment,"
+Brigit: “This Cage is perfect for hiding our spoils!”
+
+Basic Attack changed to deal (330% of Attack) damage to 3 enemies with the lowest HP on the battlefield.
+If the target is afflicted by at least 1 stack of [c][e28002]Gilded Butterflies[-][/c], Gwen & Brigit will deal an extra (330% of Attack) damage to it, and has 100% chance to afflict 2 stacks of [c][e28002]Gilded Butterflies[-][/c] to the target.
+At the start of the battle, Gwen & Brigit afflicts 2 stacks of [c][e28002]Gilded Butterflies[-][/c] that lasts for 4 rounds to all enemies.
+
+[c][e28002]Gilded Butterflies: [-][/c]
+A Skill Effect, can be stacked. 
+For each stack of [c][e28002]Gilded Butterflies[-][/c] that the target has, it will have 5% more chance to take Critical Strikes from the Gwen & Brigit who afflicted this effect and Crit Damage of the Critical Strikes dealt by the aforementioned Gwen & Brigit will be increased by 5%.
+When the Gwen & Brigit who afflicted [c][e28002]Gilded Butterflies[-][/c] is attacked by the target afflicted by this effect, her Front-line allies will help take 30% of damage dealt and split the damage taken between themselves. (Damage that the Frontline allies take for her will be reduced by their own Damage Depletion attribute. When there are no allies in the Front-line to take damage for her, this effect will not be activated.)"
+756009041,Gwen & Brigit,Hour of Need,"
+Gwen: “Wealth belongs to those who need it the most.”
+
+When an ally deals a Critical Strike, she recovers (306% of self Attack) HP and gains 10 Speed that lasts for 2 rounds.
+When other allies releases Active Skills or deals Basic Attacks, Gwen & Brigit has a 70% chance to afflict 1 stack of [c][e28002]Gilded Butterflies[-][/c] that lasts for 4 rounds to 3 enemies with the lowest HP.
+
+[c][e28002]Gilded Butterflies: [-][/c]
+A Skill Effect, can be stacked. 
+For each stack of [c][e28002]Gilded Butterflies[-][/c] that the target has, it will have 5% more chance to take Critical Strikes from the Gwen & Brigit who afflicted this effect and Crit Damage of the Critical Strikes dealt by the aforementioned Gwen & Brigit will be increased by 5%.
+When the Gwen & Brigit who afflicted [c][e28002]Gilded Butterflies[-][/c] is attacked by the target afflicted by this effect, her Front-line allies will help take 30% of damage dealt and split the damage taken between themselves. (Damage that the Frontline allies take for her will be reduced by their own Damage Depletion attribute. When there are no allies in the Front-line to take damage for her, this effect will not be activated.)"
+756009042,Gwen & Brigit,Hour of Need,"
+Gwen: “Wealth belongs to those who need it the most.”
+
+When an ally deals a Critical Strike, she recovers (312% of self Attack) HP and gains 10 Speed that lasts for 2 rounds.
+When other allies releases Active Skills or deals Basic Attacks, Gwen & Brigit has a 70% chance to afflict 1 stack of [c][e28002]Gilded Butterflies[-][/c] that lasts for 4 rounds to 3 enemies with the lowest HP.
+
+[c][e28002]Gilded Butterflies: [-][/c]
+A Skill Effect, can be stacked. 
+For each stack of [c][e28002]Gilded Butterflies[-][/c] that the target has, it will have 5% more chance to take Critical Strikes from the Gwen & Brigit who afflicted this effect and Crit Damage of the Critical Strikes dealt by the aforementioned Gwen & Brigit will be increased by 5%.
+When the Gwen & Brigit who afflicted [c][e28002]Gilded Butterflies[-][/c] is attacked by the target afflicted by this effect, her Front-line allies will help take 30% of damage dealt and split the damage taken between themselves. (Damage that the Frontline allies take for her will be reduced by their own Damage Depletion attribute. When there are no allies in the Front-line to take damage for her, this effect will not be activated.)"
+756009043,Gwen & Brigit,Hour of Need,"
+Gwen: “Wealth belongs to those who need it the most.”
+
+When an ally deals a Critical Strike, she recovers (318% of self Attack) HP and gains 10 Speed that lasts for 2 rounds.
+When other allies releases Active Skills or deals Basic Attacks, Gwen & Brigit has a 70% chance to afflict 1 stack of [c][e28002]Gilded Butterflies[-][/c] that lasts for 4 rounds to 3 enemies with the lowest HP.
+
+[c][e28002]Gilded Butterflies: [-][/c]
+A Skill Effect, can be stacked. 
+For each stack of [c][e28002]Gilded Butterflies[-][/c] that the target has, it will have 5% more chance to take Critical Strikes from the Gwen & Brigit who afflicted this effect and Crit Damage of the Critical Strikes dealt by the aforementioned Gwen & Brigit will be increased by 5%.
+When the Gwen & Brigit who afflicted [c][e28002]Gilded Butterflies[-][/c] is attacked by the target afflicted by this effect, her Front-line allies will help take 30% of damage dealt and split the damage taken between themselves. (Damage that the Frontline allies take for her will be reduced by their own Damage Depletion attribute. When there are no allies in the Front-line to take damage for her, this effect will not be activated.)"
+756009044,Gwen & Brigit,Hour of Need,"
+Gwen: “Wealth belongs to those who need it the most.”
+
+When an ally deals a Critical Strike, she recovers (324% of self Attack) HP and gains 10 Speed that lasts for 2 rounds.
+When other allies releases Active Skills or deals Basic Attacks, Gwen & Brigit has a 70% chance to afflict 1 stack of [c][e28002]Gilded Butterflies[-][/c] that lasts for 4 rounds to 3 enemies with the lowest HP.
+
+[c][e28002]Gilded Butterflies: [-][/c]
+A Skill Effect, can be stacked. 
+For each stack of [c][e28002]Gilded Butterflies[-][/c] that the target has, it will have 5% more chance to take Critical Strikes from the Gwen & Brigit who afflicted this effect and Crit Damage of the Critical Strikes dealt by the aforementioned Gwen & Brigit will be increased by 5%.
+When the Gwen & Brigit who afflicted [c][e28002]Gilded Butterflies[-][/c] is attacked by the target afflicted by this effect, her Front-line allies will help take 30% of damage dealt and split the damage taken between themselves. (Damage that the Frontline allies take for her will be reduced by their own Damage Depletion attribute. When there are no allies in the Front-line to take damage for her, this effect will not be activated.)"
+756009045,Gwen & Brigit,Hour of Need,"
+Gwen: “Wealth belongs to those who need it the most.”
+
+When an ally deals a Critical Strike, she recovers (330% of self Attack) HP and gains 10 Speed that lasts for 2 rounds.
+When other allies releases Active Skills or deals Basic Attacks, Gwen & Brigit has a 75% chance to afflict 1 stack of [c][e28002]Gilded Butterflies[-][/c] that lasts for 4 rounds to 3 enemies with the lowest HP.
+
+[c][e28002]Gilded Butterflies: [-][/c]
+A Skill Effect, can be stacked. 
+For each stack of [c][e28002]Gilded Butterflies[-][/c] that the target has, it will have 5% more chance to take Critical Strikes from the Gwen & Brigit who afflicted this effect and Crit Damage of the Critical Strikes dealt by the aforementioned Gwen & Brigit will be increased by 5%.
+When the Gwen & Brigit who afflicted [c][e28002]Gilded Butterflies[-][/c] is attacked by the target afflicted by this effect, her Front-line allies will help take 30% of damage dealt and split the damage taken between themselves. (Damage that the Frontline allies take for her will be reduced by their own Damage Depletion attribute. When there are no allies in the Front-line to take damage for her, this effect will not be activated.)"
+5501100,Maia,Basic Attack,Basic Attack
+65502000,Maia,Basic Attack,Basic Attack
+75501000,Maia,Basic Attack,Basic Attack
+5501101,Maia,Calamity Claws,"
+Maia draws power from mortals’ desperation, wreaking havoc on her enemies.
+
+Deals (200% of Attack) damage to 4 random enemies, has a 30% chance to remove 1 Attribute Increase Buff from the target and afflict 1 stack of [c][e28002]Malediction[-][/c] that lasts for 3 rounds to it.
+
+[c][e28002]Malediction:[-][/c]
+A Mark Effect, can be stacked.
+[c][e28002]Malediction[-][/c] will be triggered when the owner gains an Attribute Increase Buff. When triggered, it will remove 1 stack of Attribute Increase Buff and deal (300% of Maia’s Attack) damage to the target. Stacks of [c][e28002]Malediction[-][/c] will be removed after being triggered."
+65502001,Maia,Calamity Claws,"
+Maia draws power from mortals’ desperation, wreaking havoc on her enemies.
+
+Deals (300% of Attack) damage to 4 random enemies, has a 50% chance to remove 1 Attribute Increase Buff from the target and afflict 2 stacks of [c][e28002]Malediction[-][/c] that lasts for 3 rounds to it.
+
+[c][e28002]Malediction:[-][/c]
+A Mark Effect, can be stacked.
+[c][e28002]Malediction[-][/c] will be triggered when the owner gains an Attribute Increase Buff. When triggered, it will remove 1 stack of Attribute Increase Buff and deal (500% of Maia’s Attack) damage to the target. Stacks of [c][e28002]Malediction[-][/c] will be removed after being triggered."
+75501001,Maia,Calamity Claws,"
+Maia draws power from mortals’ desperation, wreaking havoc on her enemies.
+
+Deals (800% of Attack) damage to 4 random enemies, has 100% chance to remove 1 Attribute Increase Buff from the target and afflict 3 stacks of [c][e28002]Malediction[-][/c] that lasts for 3 rounds to it.
+
+[c][e28002]Malediction:[-][/c]
+A Mark Effect, can be stacked.
+[c][e28002]Malediction[-][/c] will be triggered when the owner gains an Attribute Increase Buff. When triggered, it will remove 1 stack of Attribute Increase Buff and deal (1500% of Maia’s Attack) damage to the target. Stacks of [c][e28002]Malediction[-][/c] will be removed after being triggered."
+5501102,Maia,Goddess of Chaos,"As the Goddess of Chaos, Maia holds unimaginable powers.\n\nIncreases Maia's HP by 10%, Attack by 20%, Heal Received by 10%, Control Immunity by 10%, and Speed by 40."
+65502002,Maia,Goddess of Chaos,"As the Goddess of Chaos, Maia holds unimaginable powers.\n\nIncreases Maia's HP by 20%, Attack by 30%, Heal Received by 20%, Control Immunity by 20%, and Speed by 60."
+65502012,Maia,Goddess of Chaos,"As the Goddess of Chaos, Maia holds unimaginable powers.\n\nIncreases Maia's HP by 30%, Attack by 40%, Heal Received by 30%, Control Immunity by 30%, and Speed by 80."
+75501002,Maia,Goddess of Chaos,"As the Goddess of Chaos, Maia holds unimaginable powers.\n\nIncreases Maia's HP by 30%, Attack by 40%, Heal Received by 30%, Control Immunity by 30%, and Speed by 80."
+5501103,Maia,Disciple Delirium,"
+Her maniac worshippers carry out her orders before her orders reach them.
+
+Basic Attack changes to deal (200% of Attack) damage to 2 enemies with highest Attack attribute, lowers all damage they deal by 10% (can be lowered for at most 40%), and afflict 1 stack of [c][e28002]Malediction[-][/c] that lasts for 3 rounds to the targets.
+When attacked by Basic Attacks or Active Skills, Maia steals 10 Energy from the attacker and heals herself for (5% of Maia\'s Maximum HP) HP (She will only heal herself due to this effect for at most 6 times in a round).
+
+[c][e28002]Malediction:[-][/c]
+A Mark Effect, can be stacked.
+[c][e28002]Malediction[-][/c] will be triggered when the owner gains an Attribute Increase Buff. When triggered, it will remove 1 stack of Attribute Increase Buff and deal (300% of Maia’s Attack) damage to the target. Stacks of [c][e28002]Malediction[-][/c] will be removed after triggered."
+65502003,Maia,Disciple Delirium,"
+Her maniac worshippers carry out her orders before her orders reach them.
+
+Basic Attack changes to deal (300% of Attack) damage to 2 enemies with highest Attack attribute, lower all damage they deal by 15% (can be lowered for at most 40%), and afflict 1 stack of [c][e28002]Malediction[-][/c] that lasts for 3 rounds to the targets.
+When attacked by Basic Attacks or Active Skills, Maia steals 10 Energy from the attacker and heals herself for (5% of Maia\'s Maximum HP) HP (She will only heal herself due to this effect for at most 6 times in a round).
+
+[c][e28002]Malediction:[-][/c]
+A Mark Effect, can be stacked.
+[c][e28002]Malediction[-][/c] will be triggered when the owner gains an Attribute Increase Buff. When triggered, it will remove 1 stack of Attribute Increase Buff and deal (500% of Maia’s Attack) damage to the target. Stacks of [c][e28002]Malediction[-][/c] will be removed after triggered."
+65502013,Maia,Disciple Delirium,"
+Her maniac worshippers carry out her orders before her orders reach them.
+
+Basic Attack changes to deal (600% of Attack) damage to 2 enemies with highest Attack attribute, lower all damage they deal by 20% (can be lowered for at most 40%), and afflict 1 stack of [c][e28002]Malediction[-][/c] that lasts for 3 rounds to the targets.
+When attacked by Basic Attacks or Active Skills, Maia steals 10 Energy from the attacker and heals herself for (5% of Maia\'s Maximum HP) HP (She will only heal herself due to this effect for at most 6 times in a round).
+
+[c][e28002]Malediction:[-][/c]
+A Mark Effect, can be stacked.
+[c][e28002]Malediction[-][/c] will be triggered when the owner gains an Attribute Increase Buff. When triggered, it will remove 1 stack of Attribute Increase Buff and deal (1500% of Maia’s Attack) damage to the target. Stacks of [c][e28002]Malediction[-][/c] will be removed after triggered."
+75501003,Maia,Disciple Delirium,"
+Her maniac worshippers carry out her orders before her orders reach them.
+
+Basic Attack changes to deal (600% of Attack) damage to 2 enemies with highest Attack attribute, lowers all damage they deal by 20% (can be lowered for at most 40%), and afflict 1 stack of [c][e28002]Malediction[-][/c] that lasts for 3 rounds to the targets.
+When attacked by Basic Attacks or Active Skills, Maia steals 10 Energy from the attacker and heals herself for (5% of Maia\'s Maximum HP) HP (She will only heal herself due to this effect for at most 6 times in a round).
+
+[c][e28002]Malediction:[-][/c]
+A Mark Effect, can be stacked.
+[c][e28002]Malediction[-][/c] will be triggered when the owner gains an Attribute Increase Buff. When triggered, it will remove 1 stack of Attribute Increase Buff and deal (1500% of Maia’s Attack) damage to the target. Stacks of [c][e28002]Malediction[-][/c] will be removed after triggered."
+5501104,Maia,Curse of Chaos,"
+Those who wish for the power of Chaos will only be scarred for eternity.
+
+At the end of each round, deals (4% of target’s Maximum HP) damage (No more than 2500% of Maia’s Attack) to all enemies and afflicts 1 stack of [c][e28002]Chaos Scar[-][/c] that lasts for 6 rounds to the targets. 
+Deals (10% of lost HP) extra damage (No more than 2500% of Maia’s Attack) to 2 enemies with the highest Attack attribute.
+When Maia takes Lethal damage, she will ignore this damage and all other damages taken in this round, and will recover (20% of Maia’s Maximum HP) HP at the end of each round starting from this round and in the 2 following rounds. (This effect can only be triggered once per battle)
+
+[c][e28002]Chaos Scar:[-][/c]
+A Skill Effect, can be stacked.
+Every stack of [c][e28002]Chaos Scar[-][/c] lowers 4% of the target’s Maximum HP and 2% of Heal Received. Maximum HP lowered by [c][e28002]Chaos Scar[-][/c] cannot be recovered through healing effects. At most 40% Maximum HP and 40% Heal Received can be lowered by [c][e28002]Chaos Scar[-][/c]."
+65502004,Maia,Curse of Chaos,"
+Those who wish for the power of Chaos will only be scarred for eternity.
+
+At the end of each round, deals (6% of target’s Maximum HP) damage (No more than 2500% of Maia’s Attack) to all enemies and afflicts 1 stack of [c][e28002]Chaos Scar[-][/c] that lasts for 6 rounds to the targets. 
+Deals (20% of target\'s lost HP) extra damage (No more than 2500% of Maia’s Attack) to 2 enemies with the highest Attack attribute.
+When Maia takes Lethal damage, she will ignore this damage and all other damages taken in this round, and will recover (20% of Maia’s Maximum HP) HP at the end of each round starting from this round and in the 2 following rounds. (This effect can only be triggered once per battle)
+
+[c][e28002]Chaos Scar:[-][/c]
+A Skill Effect, can be stacked.
+Every stack of [c][e28002]Chaos Scar[-][/c] lowers 6% of the target’s Maximum HP and 3% of Heal Received. Maximum HP lowered by [c][e28002]Chaos Scar[-][/c] cannot be recovered through healing effects. At most 40% Maximum HP and 40% Heal Received can be lowered by [c][e28002]Chaos Scar[-][/c]."
+65502014,Maia,Curse of Chaos,"
+Those who wish for the power of Chaos will only be scarred for eternity.
+
+At the end of each round, deals (8% of target’s Maximum HP) damage (No more than 2500% of Maia’s Attack) to all enemies and afflicts 1 stack of [c][e28002]Chaos Scar[-][/c] that lasts for 6 rounds to the targets. 
+Deals (30% of target\'s lost HP) extra damage (No more than 2500% of Maia’s Attack) to 2 enemies with the highest Attack attribute.
+When Maia takes Lethal damage, she will ignore this damage and all other damages taken in this round, and will recover (20% of Maia’s Maximum HP) HP at the end of each round starting from this round and in the 2 following rounds. (This effect can only be triggered once per battle)
+
+[c][e28002]Chaos Scar:[-][/c]
+A Skill Effect, can be stacked.
+Every stack of [c][e28002]Chaos Scar[-][/c] lowers 8% of the target’s Maximum HP and 5% of Heal Received. Maximum HP lowered by [c][e28002]Chaos Scar[-][/c] cannot be recovered through healing effects. At most 40% Maximum HP and 40% Heal Received can be lowered by [c][e28002]Chaos Scar[-][/c]. "
+75501004,Maia,Curse of Chaos,"
+Those who wish for the power of Chaos will only be scarred for eternity.
+
+At the end of each round, deals (8% of target’s Maximum HP) damage (No more than 2500% of Maia’s Attack) to all enemies and afflicts 1 stack of [c][e28002]Chaos Scar[-][/c] that lasts for 6 rounds to the targets. 
+Deals (30% of target\'s lost HP) extra damage (No more than 2500% of Maia’s Attack) to 2 enemies with the highest Attack attribute.
+When Maia takes Lethal damage, she will ignore this damage and all other damages taken in this round, and will recover (20% of Maia’s Maximum HP) HP at the end of each round starting from this round and in the 2 following rounds. (This effect can only be triggered once per battle)
+
+[c][e28002]Chaos Scar:[-][/c]
+A Skill Effect, can be stacked.
+Every stack of [c][e28002]Chaos Scar[-][/c] lowers 8% of the target’s Maximum HP and 5% of Heal Received. Maximum HP lowered by [c][e28002]Chaos Scar[-][/c] cannot be recovered through healing effects. At most 40% Maximum HP and 40% Heal Received can be lowered by [c][e28002]Chaos Scar[-][/c]."
+755010011,Maia,Calamity Claws,"
+Maia draws power from mortals’ desperation, wreaking havoc on her enemies.
+
+Deals (880% of Attack) damage to 4 random enemies, has 100% chance to remove 1 Attribute Increase Buff from the target and afflict 3 stacks of [c][e28002]Malediction[-][/c] that lasts for 3 rounds to it.
+
+[c][e28002]Malediction:[-][/c]
+A Mark Effect, can be stacked.
+[c][e28002]Malediction[-][/c] will be triggered when the owner gains an Attribute Increase Buff. When triggered, it will remove 1 stack of Attribute Increase Buff and deal (1600% of Maia’s Attack) damage to the target. Stacks of [c][e28002]Malediction[-][/c] will be removed after being triggered."
+755010012,Maia,Calamity Claws,"
+Maia draws power from mortals’ desperation, wreaking havoc on her enemies.
+
+Deals (960% of Attack) damage to 4 random enemies, has 100% chance to remove 1 Attribute Increase Buff from the target and afflict 3 stacks of [c][e28002]Malediction[-][/c] that lasts for 3 rounds to it.
+
+[c][e28002]Malediction:[-][/c]
+A Mark Effect, can be stacked.
+[c][e28002]Malediction[-][/c] will be triggered when the owner gains an Attribute Increase Buff. When triggered, it will remove 1 stack of Attribute Increase Buff and deal (1700% of Maia’s Attack) damage to the target. Stacks of [c][e28002]Malediction[-][/c] will be removed after being triggered."
+755010013,Maia,Calamity Claws,"
+Maia draws power from mortals’ desperation, wreaking havoc on her enemies.
+
+Deals (1040% of Attack) damage to 4 random enemies, has 100% chance to remove 1 Attribute Increase Buff from the target and afflict 3 stacks of [c][e28002]Malediction[-][/c] that lasts for 3 rounds to it.
+
+[c][e28002]Malediction:[-][/c]
+A Mark Effect, can be stacked.
+[c][e28002]Malediction[-][/c] will be triggered when the owner gains an Attribute Increase Buff. When triggered, it will remove 1 stack of Attribute Increase Buff and deal (1800% of Maia’s Attack) damage to the target. Stacks of [c][e28002]Malediction[-][/c] will be removed after being triggered."
+755010014,Maia,Calamity Claws,"
+Maia draws power from mortals’ desperation, wreaking havoc on her enemies.
+
+Deals (1120% of Attack) damage to 4 random enemies, has 100% chance to remove 1 Attribute Increase Buff from the target and afflict 3 stacks of [c][e28002]Malediction[-][/c] that lasts for 3 rounds to it.
+
+[c][e28002]Malediction:[-][/c]
+A Mark Effect, can be stacked.
+[c][e28002]Malediction[-][/c] will be triggered when the owner gains an Attribute Increase Buff. When triggered, it will remove 1 stack of Attribute Increase Buff and deal (1900% of Maia’s Attack) damage to the target. Stacks of [c][e28002]Malediction[-][/c] will be removed after being triggered."
+755010015,Maia,Calamity Claws,"
+Maia draws power from mortals’ desperation, wreaking havoc on her enemies.
+
+Deals (1200% of Attack) damage to 4 random enemies, has 100% chance to remove 1 Attribute Increase Buff from the target and afflict 3 stacks of [c][e28002]Malediction[-][/c] that lasts for 3 rounds to it.
+
+[c][e28002]Malediction:[-][/c]
+A Mark Effect, can be stacked.
+[c][e28002]Malediction[-][/c] will be triggered when the owner gains an Attribute Increase Buff. When triggered, it will remove 1 stack of Attribute Increase Buff and deal (2000% of Maia’s Attack) damage to the target. Stacks of [c][e28002]Malediction[-][/c] will be removed after being triggered."
+755010021,Maia,Goddess of Chaos,"As the Goddess of Chaos, Maia holds unimaginable powers.\n\nIncreases Maia's HP by 30%, Attack by 40%, Heal Received by 30%, Control Immunity by 30%, and Speed by 82."
+755010022,Maia,Goddess of Chaos,"As the Goddess of Chaos, Maia holds unimaginable powers.\n\nIncreases Maia's HP by 30%, Attack by 40%, Heal Received by 30%, Control Immunity by 30%, and Speed by 84."
+755010023,Maia,Goddess of Chaos,"As the Goddess of Chaos, Maia holds unimaginable powers.\n\nIncreases Maia's HP by 30%, Attack by 40%, Heal Received by 30%, Control Immunity by 30%, and Speed by 86."
+755010024,Maia,Goddess of Chaos,"As the Goddess of Chaos, Maia holds unimaginable powers.\n\nIncreases Maia's HP by 30%, Attack by 40%, Heal Received by 30%, Control Immunity by 30%, and Speed by 88."
+755010025,Maia,Goddess of Chaos,"As the Goddess of Chaos, Maia holds unimaginable powers.\n\nIncreases Maia's HP by 33%, Attack by 43%, Heal Received by 30%, Control Immunity by 30%, and Speed by 90."
+755010031,Maia,Disciple Delirium,"
+Her maniac worshippers carry out her orders before her orders reach them.
+
+Basic Attack changes to deal (660% of Attack) damage to 2 enemies with highest Attack attribute, lower all damage they deal by 20% (can be lowered for at most 40%), and afflict 1 stack of [c][e28002]Malediction[-][/c] that lasts for 3 rounds to the targets.
+When attacked by Basic Attacks or Active Skills, Maia steals 10 Energy from the attacker and heals herself for (5% of Maia\'s Maximum HP) HP (She will only heal herself due to this effect for at most 6 times in a round).
+
+[c][e28002]Malediction:[-][/c]
+A Mark Effect, can be stacked.
+[c][e28002]Malediction[-][/c] will be triggered when the owner gains an Attribute Increase Buff. When triggered, it will remove 1 stack of Attribute Increase Buff and deal (1600% of Maia’s Attack) damage to the target. Stacks of [c][e28002]Malediction[-][/c] will be removed after triggered."
+755010032,Maia,Disciple Delirium,"
+Her maniac worshippers carry out her orders before her orders reach them.
+
+Basic Attack changes to deal (720% of Attack) damage to 2 enemies with highest Attack attribute, lower all damage they deal by 20% (can be lowered for at most 40%), and afflict 1 stack of [c][e28002]Malediction[-][/c] that lasts for 3 rounds to the targets.
+When attacked by Basic Attacks or Active Skills, Maia steals 10 Energy from the attacker and heals herself for (5% of Maia\'s Maximum HP) HP (She will only heal herself due to this effect for at most 6 times in a round).
+
+[c][e28002]Malediction:[-][/c]
+A Mark Effect, can be stacked.
+[c][e28002]Malediction[-][/c] will be triggered when the owner gains an Attribute Increase Buff. When triggered, it will remove 1 stack of Attribute Increase Buff and deal (1700% of Maia’s Attack) damage to the target. Stacks of [c][e28002]Malediction[-][/c] will be removed after triggered."
+755010033,Maia,Disciple Delirium,"
+Her maniac worshippers carry out her orders before her orders reach them.
+
+Basic Attack changes to deal (780% of Attack) damage to 2 enemies with highest Attack attribute, lower all damage they deal by 20% (can be lowered for at most 40%), and afflict 1 stack of [c][e28002]Malediction[-][/c] that lasts for 3 rounds to the targets.
+When attacked by Basic Attacks or Active Skills, Maia steals 10 Energy from the attacker and heals herself for (5% of Maia\'s Maximum HP) HP (She will only heal herself due to this effect for at most 6 times in a round).
+
+[c][e28002]Malediction:[-][/c]
+A Mark Effect, can be stacked.
+[c][e28002]Malediction[-][/c] will be triggered when the owner gains an Attribute Increase Buff. When triggered, it will remove 1 stack of Attribute Increase Buff and deal (1800% of Maia’s Attack) damage to the target. Stacks of [c][e28002]Malediction[-][/c] will be removed after triggered."
+755010034,Maia,Disciple Delirium,"
+Her maniac worshippers carry out her orders before her orders reach them.
+
+Basic Attack changes to deal (840% of Attack) damage to 2 enemies with highest Attack attribute, lower all damage they deal by 20% (can be lowered for at most 40%), and afflict 1 stack of [c][e28002]Malediction[-][/c] that lasts for 3 rounds to the targets.
+When attacked by Basic Attacks or Active Skills, Maia steals 10 Energy from the attacker and heals herself for (5% of Maia\'s Maximum HP) HP (She will only heal herself due to this effect for at most 6 times in a round).
+
+[c][e28002]Malediction:[-][/c]
+A Mark Effect, can be stacked.
+[c][e28002]Malediction[-][/c] will be triggered when the owner gains an Attribute Increase Buff. When triggered, it will remove 1 stack of Attribute Increase Buff and deal (1900% of Maia’s Attack) damage to the target. Stacks of [c][e28002]Malediction[-][/c] will be removed after triggered."
+755010035,Maia,Disciple Delirium,"
+Her maniac worshippers carry out her orders before her orders reach them.
+
+Basic Attack changes to deal (900% of Attack) damage to 2 enemies with highest Attack attribute, lowers all damage they deal by 22% (can be lowered for at most 40%), and afflict 1 stack of [c][e28002]Malediction[-][/c] that lasts for 3 rounds to the targets.
+When attacked by Basic Attacks or Active Skills, Maia steals 10 Energy from the attacker and heals herself for (8% of Maia\'s Maximum HP) HP (She will only heal herself due to this effect for at most 6 times in a round).
+
+[c][e28002]Malediction:[-][/c]
+A Mark Effect, can be stacked.
+[c][e28002]Malediction[-][/c] will be triggered when the owner gains an Attribute Increase Buff. When triggered, it will remove 1 stack of Attribute Increase Buff and deal (2000% of Maia’s Attack) damage to the target. Stacks of [c][e28002]Malediction[-][/c] will be removed after triggered."
+755010041,Maia,Curse of Chaos,"
+Those who wish for the power of Chaos will only be scarred for eternity.
+
+At the end of each round, deals (8% of target’s Maximum HP) damage (No more than 2500% of Maia’s Attack) to all enemies and afflicts 1 stack of [c][e28002]Chaos Scar[-][/c] that lasts for 6 rounds to the targets. 
+Deals (32% of target\'s lost HP) extra damage (No more than 2500% of Maia’s Attack) to 2 enemies with the highest Attack attribute.
+When Maia takes Lethal damage, she will ignore this damage and all other damages taken in this round, and will recover (20% of Maia’s Maximum HP) HP at the end of each round starting from this round and in the 2 following rounds. (This effect can only be triggered once per battle)
+
+[c][e28002]Chaos Scar:[-][/c]
+A Skill Effect, can be stacked.
+Every stack of [c][e28002]Chaos Scar[-][/c] lowers 8% of the target’s Maximum HP and 5% of Heal Received. Maximum HP lowered by [c][e28002]Chaos Scar[-][/c] cannot be recovered through healing effects. At most 40% Maximum HP and 40% Heal Received can be lowered by [c][e28002]Chaos Scar[-][/c]."
+755010042,Maia,Curse of Chaos,"
+Those who wish for the power of Chaos will only be scarred for eternity.
+
+At the end of each round, deals (8% of target’s Maximum HP) damage (No more than 2500% of Maia’s Attack) to all enemies and afflicts 1 stack of [c][e28002]Chaos Scar[-][/c] that lasts for 6 rounds to the targets. 
+Deals (34% of target\'s lost HP) extra damage (No more than 2500% of Maia’s Attack) to 2 enemies with the highest Attack attribute.
+When Maia takes Lethal damage, she will ignore this damage and all other damages taken in this round, and will recover (20% of Maia’s Maximum HP) HP at the end of each round starting from this round and in the 2 following rounds. (This effect can only be triggered once per battle)
+
+[c][e28002]Chaos Scar:[-][/c]
+A Skill Effect, can be stacked.
+Every stack of [c][e28002]Chaos Scar[-][/c] lowers 8% of the target’s Maximum HP and 5% of Heal Received. Maximum HP lowered by [c][e28002]Chaos Scar[-][/c] cannot be recovered through healing effects. At most 40% Maximum HP and 40% Heal Received can be lowered by [c][e28002]Chaos Scar[-][/c]."
+755010043,Maia,Curse of Chaos,"
+Those who wish for the power of Chaos will only be scarred for eternity.
+
+At the end of each round, deals (8% of target’s Maximum HP) damage (No more than 2500% of Maia’s Attack) to all enemies and afflicts 1 stack of [c][e28002]Chaos Scar[-][/c] that lasts for 6 rounds to the targets. 
+Deals (36% of target\'s lost HP) extra damage (No more than 2500% of Maia’s Attack) to 2 enemies with the highest Attack attribute.
+When Maia takes Lethal damage, she will ignore this damage and all other damages taken in this round, and will recover (23% of Maia’s Maximum HP) HP at the end of each round starting from this round and in the 2 following rounds. (This effect can only be triggered once per battle)
+
+[c][e28002]Chaos Scar:[-][/c]
+A Skill Effect, can be stacked.
+Every stack of [c][e28002]Chaos Scar[-][/c] lowers 8% of the target’s Maximum HP and 5% of Heal Received. Maximum HP lowered by [c][e28002]Chaos Scar[-][/c] cannot be recovered through healing effects. At most 40% Maximum HP and 40% Heal Received can be lowered by [c][e28002]Chaos Scar[-][/c]."
+755010044,Maia,Curse of Chaos,"
+Those who wish for the power of Chaos will only be scarred for eternity.
+
+At the end of each round, deals (8% of target’s Maximum HP) damage (No more than 2500% of Maia’s Attack) to all enemies and afflicts 1 stack of [c][e28002]Chaos Scar[-][/c] that lasts for 6 rounds to the targets. 
+Deals (38% of target\'s lost HP) extra damage (No more than 2500% of Maia’s Attack) to 2 enemies with the highest Attack attribute.
+When Maia takes Lethal damage, she will ignore this damage and all other damages taken in this round, and will recover (23% of Maia’s Maximum HP) HP at the end of each round starting from this round and in the 2 following rounds. (This effect can only be triggered once per battle)
+
+[c][e28002]Chaos Scar:[-][/c]
+A Skill Effect, can be stacked.
+Every stack of [c][e28002]Chaos Scar[-][/c] lowers 8% of the target’s Maximum HP and 5% of Heal Received. Maximum HP lowered by [c][e28002]Chaos Scar[-][/c] cannot be recovered through healing effects. At most 40% Maximum HP and 40% Heal Received can be lowered by [c][e28002]Chaos Scar[-][/c]."
+755010045,Maia,Curse of Chaos,"
+Those who wish for the power of Chaos will only be scarred for eternity.
+
+At the end of each round, deals (10% of target’s Maximum HP) damage (No more than 2500% of Maia’s Attack) to all enemies and afflicts 1 stack of [c][e28002]Chaos Scar[-][/c] that lasts for 6 rounds to the targets. 
+Deals (40% of target\'s lost HP) extra damage (No more than 2500% of Maia’s Attack) to 2 enemies with the highest Attack attribute.
+When Maia takes Lethal damage, she will ignore this damage and all other damages taken in this round, and will recover (25% of Maia’s Maximum HP) HP at the end of each round starting from this round and in the 2 following rounds. (This effect can only be triggered once per battle)
+
+[c][e28002]Chaos Scar:[-][/c]
+A Skill Effect, can be stacked.
+Every stack of [c][e28002]Chaos Scar[-][/c] lowers 10% of the target’s Maximum HP and 5% of Heal Received. Maximum HP lowered by [c][e28002]Chaos Scar[-][/c] cannot be recovered through healing effects. At most 40% Maximum HP and 40% Heal Received can be lowered by [c][e28002]Chaos Scar[-][/c]."
+200001101,Avalanchee,Skyward Wail,"
+Bone-chilling cold and bitterness form an urge to howl into the unknown...
+
+Avalanchee causes a hailstorm to deal (600% of Attack) damage to 4 random enemies and deal extra damage based on the sum of all enemies\' levels when the battle starts: the higher the enemies\' total levels are, the more damage this will deal. This will not change when the enemies are defeated. After dealing damage, Avalanchee removes 1 Buff from the targets and afflicts them with [c][e28002]Biting Cold[-][/c] that lasts for 2 rounds.
+
+[c][e28002]Biting Cold:[-][/c]
+A Skill Effect. Energy gained from Basic Attacks lowered to 25. This effect cannot stack. "
+200001102,Avalanchee,Snowstorm,"
+At the end of each Round, the frigid winds bring upon 1 stack of [c][e28002]Snowstorm[-][/c] on the field.
+
+[c][e28002]Snowstorm:[-][/c]
+A Skill Effect. When [c][e28002]Snowstorm[-][/c] exists on the field, all allies gain 20% Energy Removal Resist, 20% Control Immunity, and Front-line enemies lose 20% Heal Received. This effect can stack. 
+After Avalanchee releases its Active Skill, all existing [c][e28002]Snowstorm[-][/c] stacks will be removed from the field."
+200001103,Avalanchee,Hibernation,"
+Avalanchee lurks beneath the icebergs, gradually building up energy.
+
+At the start of the battle, Avalanchee gains 50% Damage Depletion and 50% Control Immunity that lowers by 10% per round in the following rounds, until both Attribute boosts reach 0%.
+When taking damage, damage taken will not surpass 25% of Avalanchee\'s Maximum HP. Furthermore, other allies of Avalanchee will take 50% of damage dealt for Avalanchee and split the damage evenly between them."
+200001105,Avalanchee,Avalanchee,"
+Avalanchee crumbles the glaciers under its huge claw when it deals a Basic Attack, causing chunks of snow and ice to rain down upon Front-line enemies, dealing (200% of Attack) damage. It deals extra damage based on the sum of all enemies\' levels when the battle starts: the higher the enemies\' total levels are, the more damage this will deal. This will not change when the enemies are defeated. Afterwards, Avalanchee has a 50% chance to [c][01a310]freeze[-][/c] the targets for 2 rounds.
+
+[c][01a310]Freeze:[-][/c]
+A control effect. During this effect, girls affected will not be able to deal Basic Attacks, release their Active Skills, Hunt or Counterattack."
+125600301,Research Station Bonus,Research Station Bonus 1,This block is located at a distance of 1 block from the Research Station. All allies deal 50% more damage in battle.
+125600302,Research Station Bonus,Research Station Bonus 2,This block is located at a distance of 2 blocks from the Research Station. All allies deal 30% more damage in battle.
+125600303,Research Station Bonus,Research Station Bonus 3,This block is located at a distance of 3 blocks from the Research Station. All allies deal 10% more damage in battle.
+125600401,Main Base Bonus,Main Base Bonus 1,"This block is located at a distance of 1 block from the Main Base. All allies gain 180,000 HP, 30% extra HP, 12,000 Attack, and 30% extra Attack in battle."
+125600402,Main Base Bonus,Main Base Bonus 2,"This block is located at a distance of 2 blocks from the Main Base. All allies gain 120,000 HP, 20% extra HP, 8,000 Attack, and 20% extra Attack in battle."
+125600403,Main Base Bonus,Main Base Bonus 3,"This block is located at a distance of 3 blocks from the Main Base. All allies gain 60,000 HP, 10% extra HP, 4,000 Attack, and 10% extra Attack in battle."

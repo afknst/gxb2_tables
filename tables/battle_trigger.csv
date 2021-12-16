@@ -89,7 +89,7 @@ id,trigger,desc,is_god_skill,limit_times,is_die_pas,is_hp_pas,is_can_use_by_pas
 88,SELF_TEAM_CK_ATTACK,-1,,,,,
 89,SELF_TEAM_YX_PUGONG,-1,,,,,
 90,SELF_TEAM_CK_ATTACK_FIRST_TIME,-1,,,,,
-91,SELF_REMOVE_BUFF_RESET,-1,,,,,
+91,SELF_REMOVE_BUFF_RESET,-1,,,,,1
 92,SELF_ROUND_REFLECT_ATTACKED,-1,,,,,
 93,ODD_ROUND,-1,,,,,
 94,FIRST_TWO_ROUND_END,-1,,,,,
@@ -147,3 +147,4 @@ id,trigger,desc,is_god_skill,limit_times,is_die_pas,is_hp_pas,is_can_use_by_pas
 146,HURTED_BY_LOWER_HP,-1,,,,,
 147,ENEMY_CONTROLED_6,-1,,,,,
 148,GOD_INIT_FIGHTER_SKILL,-1,,,,,
+149,ONLY_FRIEND_PUGONG,-1,,,,,

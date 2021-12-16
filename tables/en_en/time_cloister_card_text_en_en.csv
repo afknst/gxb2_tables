@@ -86,3 +86,147 @@ id,name,desc,unlock_desc
 131001,Point x4,Obtain 4 Points. (The total number of Points obtained in this Observation will be calculated towards completing corresponding Achievements.),
 131101,Point x8,Obtain 8 Points. (The total number of Points obtained in this Observation will be calculated towards completing corresponding Achievements.),
 131201,Point x16,Obtain 16 Points. (The total number of Points obtained in this Observation will be calculated towards completing corresponding Achievements.),
+210101,Basic Supply Lv.1,"After this Observation ends, you will receive a random reward from the following list: Coins/EXP Juice/Crystal Chisels/Lunch Boxes/Gems",
+210102,Basic Supply Lv.2,"After this Observation ends, you will receive a random reward from the following list: Coins/EXP Juice/Crystal Chisels/Lunch Boxes/Gems",
+210103,Basic Supply Lv.3,"After this Observation ends, you will receive a random reward from the following list: Coins/EXP Juice/Crystal Chisels/Lunch Boxes/Gems",
+210104,Basic Supply Lv.4,"After this Observation ends, you will receive a random reward from the following list: Coins/EXP Juice/Crystal Chisels/Lunch Boxes/Gems",
+210105,Basic Supply Lv.5,"After this Observation ends, you will receive a random reward from the following list: Coins/EXP Juice/Crystal Chisels/Lunch Boxes/Gems",
+210106,Basic Supply Lv.6,"After this Observation ends, you will receive a random reward from the following list: Coins/EXP Juice/Crystal Chisels/Lunch Boxes/Gems",
+210201,Plain Button Lv.1,"After this Observation ends, you will receive a certain number of Plain Buttons.",
+210202,Plain Button Lv.2,"After this Observation ends, you will receive a certain number of Plain Buttons.",
+210203,Plain Button Lv.3,"After this Observation ends, you will receive a certain number of Plain Buttons.",
+210204,Plain Button Lv.4,"After this Observation ends, you will receive a certain number of Plain Buttons.",
+210205,Plain Button Lv.5,"After this Observation ends, you will receive a certain number of Plain Buttons.",
+210206,Plain Button Lv.6,"After this Observation ends, you will receive a certain number of Plain Buttons.",
+210301,Plain Silk Lv.1,"After this Observation ends, you will receive a certain number of Plain Silk.",
+210302,Plain Silk Lv.2,"After this Observation ends, you will receive a certain number of Plain Silk.",
+210303,Plain Silk Lv.3,"After this Observation ends, you will receive a certain number of Plain Silk.",
+210304,Plain Silk Lv.4,"After this Observation ends, you will receive a certain number of Plain Silk.",
+210305,Plain Silk Lv.5,"After this Observation ends, you will receive a certain number of Plain Silk.",
+210306,Plain Silk Lv.6,"After this Observation ends, you will receive a certain number of Plain Silk.",
+210401,Dyed Silk Lv.1,"After this Observation ends, you will receive a certain number of Dyed Silk.",
+210402,Dyed Silk Lv.2,"After this Observation ends, you will receive a certain number of Dyed Silk.",
+210403,Dyed Silk Lv.3,"After this Observation ends, you will receive a certain number of Dyed Silk.",
+210404,Dyed Silk Lv.4,"After this Observation ends, you will receive a certain number of Dyed Silk.",
+210405,Dyed Silk Lv.5,"After this Observation ends, you will receive a certain number of Dyed Silk.",
+210406,Dyed Silk Lv.6,"After this Observation ends, you will receive a certain number of Dyed Silk.",
+210501,Nightmare · 1,"After this Observation ends, you will get 1 ""Nightmare Point""",
+210601,Nightmare · 2,"After this Observation ends, you will get 2 ""Nightmare Points""",
+210701,Nightmare · 4,"After this Observation ends, you will get 4 ""Nightmare Points""",
+210801,Nightmare · 6,"After this Observation ends, you will get 1 ""Nightmare Point""",
+210901,Nightmare · 8,"After this Observation ends, you will get 1 ""Nightmare Point""",
+211001,Nightmare · 10,"After this Observation ends, you will get 10 ""Nightmare Points""",
+211101,Outfit Display · Head 1,Display an Outfit piece as required after triggering this card. You can randomly get one of the following rewards after the Observation ends if you complete the requirement: Coin/Exp Juice/Crystal Chisel/Lunch Box/Gem,
+211201,Outfit Display · Head 2,Display an Outfit piece as required after triggering this card. You can randomly get one of the following rewards after the Observation ends if you complete the requirement: Coin/Exp Juice/Crystal Chisel/Lunch Box/Gem,
+211301,Outfit Display · Head 3,Display an Outfit piece as required after triggering this card. You can randomly get one of the following rewards after the Observation ends if you complete the requirement: Coin/Exp Juice/Crystal Chisel/Lunch Box/Gem,
+211401,Outfit Display · Body 1,Display an Outfit piece as required after triggering this card. You can randomly get one of the following rewards after the Observation ends if you complete the requirement: Coin/Exp Juice/Crystal Chisel/Lunch Box/Gem,
+211501,Outfit Display · Body 2,Display an Outfit piece as required after triggering this card. You can randomly get one of the following rewards after the Observation ends if you complete the requirement: Coin/Exp Juice/Crystal Chisel/Lunch Box/Gem,
+211601,Outfit Display · Body 3,Display an Outfit piece as required after triggering this card. You can randomly get one of the following rewards after the Observation ends if you complete the requirement: Coin/Exp Juice/Crystal Chisel/Lunch Box/Gem,
+211701,Outfit Display · Legs 1,Display an Outfit piece as required after triggering this card. You can randomly get one of the following rewards after the Observation ends if you complete the requirement: Coin/Exp Juice/Crystal Chisel/Lunch Box/Gem,
+211801,Outfit Display · Legs 2,Display an Outfit piece as required after triggering this card. You can randomly get one of the following rewards after the Observation ends if you complete the requirement: Coin/Exp Juice/Crystal Chisel/Lunch Box/Gem,
+211901,Outfit Display · Legs 3,Display an Outfit piece as required after triggering this card. You can randomly get one of the following rewards after the Observation ends if you complete the requirement: Coin/Exp Juice/Crystal Chisel/Lunch Box/Gem,
+212001,Outfit Display · Headwear 1,Display an Outfit piece as required after triggering this card. You can randomly get one of the following rewards after the Observation ends if you complete the requirement: Coin/Exp Juice/Crystal Chisel/Lunch Box/Gem,
+212101,Outfit Display · Headwear 2,Display an Outfit piece as required after triggering this card. You can randomly get one of the following rewards after the Observation ends if you complete the requirement: Coin/Exp Juice/Crystal Chisel/Lunch Box/Gem,
+212201,Outfit Display · Headwear 3,Display an Outfit piece as required after triggering this card. You can randomly get one of the following rewards after the Observation ends if you complete the requirement: Coin/Exp Juice/Crystal Chisel/Lunch Box/Gem,
+212301,Outfit Display · Accessories 1,Display an Outfit piece as required after triggering this card. You can randomly get one of the following rewards after the Observation ends if you complete the requirement: Coin/Exp Juice/Crystal Chisel/Lunch Box/Gem,
+212401,Outfit Display · Accessories 2,Display an Outfit piece as required after triggering this card. You can randomly get one of the following rewards after the Observation ends if you complete the requirement: Coin/Exp Juice/Crystal Chisel/Lunch Box/Gem,
+212501,Outfit Display · Accessories 3,Display an Outfit piece as required after triggering this card. You can randomly get one of the following rewards after the Observation ends if you complete the requirement: Coin/Exp Juice/Crystal Chisel/Lunch Box/Gem,
+212601,Outfit Display · Attribute 1,Display an Outfit piece as required after triggering this card. You can randomly get one of the following rewards after the Observation ends if you complete the requirement: Coin/Exp Juice/Crystal Chisel/Lunch Box/Gem,
+212701,Outfit Display · Attribute 2,Display an Outfit piece as required after triggering this card. You can randomly get one of the following rewards after the Observation ends if you complete the requirement: Coin/Exp Juice/Crystal Chisel/Lunch Box/Gem,
+212801,Outfit Display · Attribute 3,Display an Outfit piece as required after triggering this card. You can randomly get one of the following rewards after the Observation ends if you complete the requirement: Coin/Exp Juice/Crystal Chisel/Lunch Box/Gem,
+220101,Challenge · I,"In Lv. 1 Challenge Battles, Outfit Attributes (Courage, Charisma, and Knowledge) will be transformed into Battle Attributes.",
+220102,Challenge · I (Victory),Obtained full rewards for your Victory in Lv. 1 Challenge Battle.,
+220103,Challenge · I (Defeat),Obtained half rewards for your Defeat in Lv. 1 Challenge Battle.,
+220201,Challenge · II,"In Lv. 2 Challenge Battles, Outfit Attributes (Courage, Charisma, and Knowledge) will be transformed into Battle Attributes.",
+220202,Challenge · II (Victory),Obtained full rewards for your Victory in Lv. 2 Challenge Battle.,
+220203,Challenge · II (Defeat),Obtained half rewards for your Defeat in Lv. 2 Challenge Battle.,
+220301,Challenge · III,"In Lv. 3 Challenge Battles, Outfit Attributes (Courage, Charisma, and Knowledge) will be transformed into Battle Attributes.",
+220302,Challenge · III (Victory),Obtained full rewards for your Victory in Lv. 3 Challenge Battle.,
+220303,Challenge · III (Defeat),Obtained half rewards for your Defeat in Lv. 3 Challenge Battle.,
+220401,Skirmish I,"Challenge the enemy with your lineup, you can add the Support Girl in your lineup (But you will need to unlock her in Planetarium first)",
+220402,Skirmish I (Victory),Obtained full rewards for your Victory in Skirmish I.,
+220403,Skirmish I (Defeat),Obtained part of the rewards for your Defeat in Skirmish I.,
+220501,Skirmish II,"Challenge the enemy with your lineup, you can add the Support Girl in your lineup (But you will need to unlock her in Planetarium first)",
+220502,Skirmish II (Victory),Obtained full rewards for your Victory in Skirmish II.,
+220503,Skirmish II (Defeat),Obtained part of the rewards for your Defeat in Skirmish II.,
+220601,Skirmish III,"Challenge the enemy with your lineup, you can add the Support Girl in your lineup (But you will need to unlock her in Planetarium first)",
+220602,Skirmish III (Victory),Obtained full rewards for your Victory in Skirmish III.,
+220603,Skirmish III (Defeat),Obtained part of the rewards for your Defeat in Skirmish III.,
+220701,Skirmish IV,"Challenge the enemy with your lineup, you can add the Support Girl in your lineup (But you will need to unlock her in Planetarium first)",
+220702,Skirmish IV (Victory),Obtained full rewards for your Victory in Skirmish IV.,
+220703,Skirmish IV (Defeat),Obtained part of the rewards for your Defeat in Skirmish IV.,
+220801,Skirmish V,"Challenge the enemy with your lineup, you can add the Support Girl in your lineup (But you will need to unlock her in Planetarium first)",
+220802,Skirmish V (Victory),Obtained full rewards for your Victory in Skirmish V.,
+220803,Skirmish V (Defeat),Obtained part of the rewards for your Defeat in Skirmish V.,
+230101,Vera · I,Senpai is sneezing again. Did he catch a cold? I knew that he can't take care of himself without me!,
+230102,Vera · II,"I helped Senpai switch to nice, thick comforters. What was he even thinking, using the same thin blankets that he used in summer? No wonder he caught a cold!","Unlock after ""Encounter Card Upgrade · 1"" reaches Lv.1"
+230103,Vera · III,The Academy is filled with sneezing students today. It's easy to catch a cold in this season. Perhaps I should start working on recipes that can help the immunity system…achoo!,"Unlock after ""Encounter Card Upgrade · 1"" reaches Lv.2"
+230104,Vera · IV,"Achoo! I can't believe I caught a cold too despite always staying warm and exercising frequently. If even I caught a cold, the others must be faring worse. I need to work on that recipe fast…!","Unlock after ""Encounter Card Upgrade · 1"" reaches Lv.3"
+230105,Vera · V,"I set up a small table in the Academy for my special recipe and posted announcements about it, but no one came…Achoo! I feel dizzy…what's happening…?","Unlock after ""Encounter Card Upgrade · 1"" reaches Lv.4"
+230106,Vera · VI,"…Senpai? Raphael? Where am I? …Oh, I had a fever and fainted? I'm so sorry for making you worry…","Unlock after ""Encounter Card Upgrade · 1"" reaches Lv.5"
+230107,Vera · VII,"Here, Senpai, this is a new dish that I made…wait, you didn't see the announcement? So that's why no one came! I was worried that no one wanted to try my cooking.","Unlock after ""Encounter Card Upgrade · 1"" reaches Lv.6"
+230201,Caitlyn · I,"(Yawns) Chevalir? Yeah, go on ahead, I'll sleep in today…I stayed up late playing games last night…ZZZZ",
+230202,Caitlyn · II,"Fully recovered! I'm staying at home today: nothing beats gaming at home! Hey, what are you doing, taking away my VR goggles like that?!","Unlock after ""Encounter Card Upgrade · 2"" reaches Lv.1"
+230203,Caitlyn · III,"Wait a minute, I thought the Academy was for girls only? What's a boy like you doing here? Besides, why are you in my room?? Oh, I missed the Opening Ceremony?","Unlock after ""Encounter Card Upgrade · 2"" reaches Lv.2"
+230204,Caitlyn · IV,"I seem to recall a similar scene from the dating sim I'm playing right now, where the protagonist is the only boy in an all-girls school. What did the students call him again…Master?","Unlock after ""Encounter Card Upgrade · 2"" reaches Lv.3"
+230205,Caitlyn · V,"Nope, I'm not going out there. Besides, no dating sim protagonist orders the heroine to leave her room. It just doesn't happen!","Unlock after ""Encounter Card Upgrade · 2"" reaches Lv.4"
+230206,Caitlyn · VI,"Master didn't visit me today. It's his loss, I'll finish this game without him. I can't wait to see what will happen to the girl who refused to leave her room…wait, that's the end??","Unlock after ""Encounter Card Upgrade · 2"" reaches Lv.5"
+230207,Caitlyn · VII,"Yo, isn't it Senpai? I've started a new game and I'm cosplaying as the bikini-wearing heroine who shoots down zombies at the beach now, so I'm not calling you Master anymore. Or do you still want to be called Master?","Unlock after ""Encounter Card Upgrade · 2"" reaches Lv.6"
+230301,Boxer · I,"Nice boxing gloves! Sapphire knows me so well. She might say that she doesn't like me, but I know that she cares about me deeply.",
+230302,Boxer · II,"More students are infected by Chaos now. I must double my training so I can protect Sapphire, Geisha, and Miya from the infected!","Unlock after ""Encounter Card Upgrade · 3"" reaches Lv.1"
+230303,Boxer · III,Why is Sapphire hurt? She wasn't supposed to fight! She should have hidden somewhere safe with the others while I fought outside!,"Unlock after ""Encounter Card Upgrade · 3"" reaches Lv.2"
+230304,Boxer · IV,"Why did you do this, KongMing? Sapphire's hands are for playing musical instruments, not for holding weapons. You must have tricked her to fight for the Discipline Committee!!","Unlock after ""Encounter Card Upgrade · 3"" reaches Lv.3"
+230305,Boxer · V,"You can save your breath, I don't care or want to hear your pathetic excuses. If you have the guts to face me, meet me on the roof after class today!","Unlock after ""Encounter Card Upgrade · 3"" reaches Lv.4"
+230306,Boxer · VI,"S-Sapphire? Shouldn't you be resting in the Infirmary…no, of course we're not fighting, right KongMing?","Unlock after ""Encounter Card Upgrade · 3"" reaches Lv.5"
+230307,Boxer · VII,"Ouch, ouch, ouch, that hurts. Raphael, can you try being more gentle? Thanks…No, Sapphire, I don't mean that you hit hard or anything. This is nothing but a scratch…ouch…","Unlock after ""Encounter Card Upgrade · 3"" reaches Lv.6"
+230401,Nobunaga · I,"Bullied kids flock to me like chicks to a mother hen. I don't know why they act like this, but I won't let them down.",
+230402,Nobunaga · II,"The adults look down upon me because I'm not the model student that they wanted. They try to stop the kids from following my lead but to no avail. The kids make their own decisions, and they have decided to stay with me.","Unlock after ""Encounter Card Upgrade · 4"" reaches Lv.1"
+230403,Nobunaga · III,"I am known as being idiotic, violent, absolutely-out-of-my-mind, what else? What they say about me doesn't affect me at all; I know what I should do with my life.","Unlock after ""Encounter Card Upgrade · 4"" reaches Lv.2"
+230404,Nobunaga · IV,"Interesting, someone dares to challenge my authority. They can have the title of King if they want it: King or not, my followers chose to follow me with their own will, not due to a useless title.","Unlock after ""Encounter Card Upgrade · 4"" reaches Lv.3"
+230405,Nobunaga · V,"My sister seems to be envious of my reputation. However, I have no plans of sharing my position with her, even if she is close to me personally.","Unlock after ""Encounter Card Upgrade · 4"" reaches Lv.4"
+230406,Nobunaga · VI,It's time to assert my authority and position as the only rightful leader of House Monster. I will prove that I am more than a mindless simpleton.,"Unlock after ""Encounter Card Upgrade · 4"" reaches Lv.5"
+230407,Nobunaga · VII,"There are few people that you can truly trust in your life; everyone will end up betraying you, even the most loyal of subordinates. The fire in Honnoji Temple destroyed any trust I had in others.","Unlock after ""Encounter Card Upgrade · 4"" reaches Lv.6"
+230501,Diana · I,The winter sun shines brightly at noon. I promised my sister an outdoor picnic today in the grassy fields…she loved nature.,
+230502,Diana · II,"The lights dimmed, and ominous violet fumes lurked on the landscape. We ended the picnic prematurely, and my sister wasn't happy with this.","Unlock after ""Encounter Card Upgrade · 5"" reaches Lv.1"
+230503,Diana · III,"Everyone in town noticed the change in weather, but no one knew the reason. My sister trailed sullenly behind me as we made our way back, complaining that I don't keep my promises.","Unlock after ""Encounter Card Upgrade · 5"" reaches Lv.2"
+230504,Diana · IV,"The purple mist formed into a huge claw, destroying houses and uprooting trees. My neighbors struggled but were eventually sucked into the void.","Unlock after ""Encounter Card Upgrade · 5"" reaches Lv.3"
+230505,Diana · V,"I ran. When I looked back, I couldn't find my sister anywhere. Where was my sister? …Where am I?","Unlock after ""Encounter Card Upgrade · 5"" reaches Lv.4"
+230506,Diana · VI,"I forgot something important. It's like something was ripped out of my chest, but I couldn't quite put a finger on what it was. I felt lost…and anguished.","Unlock after ""Encounter Card Upgrade · 5"" reaches Lv.5"
+230507,Diana · VII,"The sun and the moon were meant to be together: I thrive under the moonlight, but only the sunlight can comfort me. I can't live without one or the other.","Unlock after ""Encounter Card Upgrade · 5"" reaches Lv.6"
+230601,Sakura · I,"A girl asked me: ""Do you feel sorrowful when the cherry blossoms wither and fall?"" I felt that she was referring to my name Sakura and she seemed to imply that my fate shares that of the cherry blossoms.",
+230602,Sakura · II,"She apologized profusely when she realized how offensive the question was. She didn't have to; I didn't take it to heart. If I am destined to live like the short-lived flower, then all I need to do is to make sure I live my life to the fullest before I pass away.","Unlock after ""Encounter Card Upgrade · 6"" reaches Lv.1"
+230603,Sakura · III,"The petals of the cherry blossoms fall like rain, and I am enchanted by the sight. Unfortunately, most fail to appreciate the beauty of the withering flowers and focus only on the blooming blossoms.","Unlock after ""Encounter Card Upgrade · 6"" reaches Lv.2"
+230604,Sakura · IV,People often take me as a fickle person due to my love for cherry blossoms. I understand neither their logic behind this nor their audacity of making assumptions about people that they don't really know.,"Unlock after ""Encounter Card Upgrade · 6"" reaches Lv.3"
+230605,Sakura · V,"I was training with my sword under the cherry blossom trees when the petals began to fall. I didn't want to hurt the blossoms, so I stopped.","Unlock after ""Encounter Card Upgrade · 6"" reaches Lv.4"
+230606,Sakura · VI,"When watching the petals, I found out that they fall rhythmically, like notes in music. I can't help but dance to the ""music"" they play.","Unlock after ""Encounter Card Upgrade · 6"" reaches Lv.5"
+230607,Sakura · VII,"I felt sudden bouts of joy and sadness when dancing. When I came back to my senses, I found that I was surrounded by other students watching me. How embarrassing…","Unlock after ""Encounter Card Upgrade · 6"" reaches Lv.6"
+230701,Hottie · I,"Graduate from Yume Academy? Why should I, when there are so many cute girls on campus that I can still teach?",
+230702,Hottie · II,"Saint seems to be one of those more rebellious students. Unfortunately for her, she's just my type~","Unlock after ""Encounter Card Upgrade · 7"" reaches Lv.1"
+230703,Hottie · III,"Oooh, look at how prettily she blushes with my ""Ribbon of Lust""! Where has her cold and aloof expression gone, hmm?","Unlock after ""Encounter Card Upgrade · 7"" reaches Lv.2"
+230704,Hottie · IV,I hope she won't skip my classes next time; I'd like to believe that I have built a good rapport with her now.,"Unlock after ""Encounter Card Upgrade · 7"" reaches Lv.3"
+230705,Hottie · V,"Nobunaga, you're one of those students too, aren't you? You're putting on a brave face, but your voice is trembling…I suppose you need some ""private lessons"" from me too~","Unlock after ""Encounter Card Upgrade · 7"" reaches Lv.4"
+230706,Hottie · VI,"I try my best to help my students grow into their better selves with my ""Ribbon of Lust""…are you ready?","Unlock after ""Encounter Card Upgrade · 7"" reaches Lv.5"
+230707,Hottie · VII,"I always feel great after chatting with my students. However, when I am all alone in my dorms and reminiscing the time spent with them…I start to feel lonely.","Unlock after ""Encounter Card Upgrade · 7"" reaches Lv.6"
+230801,Point x1,Obtain 1 Point. (The total number of Points obtained in this Observation will be calculated towards completing corresponding Achievements.),
+230901,Point x2,Obtain 2 Points. (The total number of Points obtained in this Observation will be calculated towards completing corresponding Achievements.),
+231001,Point x4,Obtain 4 Points. (The total number of Points obtained in this Observation will be calculated towards completing corresponding Achievements.),
+231101,Point x8,Obtain 8 Points. (The total number of Points obtained in this Observation will be calculated towards completing corresponding Achievements.),
+231201,Point x16,Obtain 16 Points. (The total number of Points obtained in this Observation will be calculated towards completing corresponding Achievements.),
+211102,Outfit Display · Head 1,"You've completed the display, you will receive a random reward from the following list after this Observation ends: Coins/EXP Juice/Crystal Chisels/Lunch Boxes/Gems",
+211202,Outfit Display · Head 2,"You've completed the display, you will receive a random reward from the following list after this Observation ends: Coins/EXP Juice/Crystal Chisels/Lunch Boxes/Gems",
+211302,Outfit Display · Head 3,"You've completed the display, you will receive a random reward from the following list after this Observation ends: Coins/EXP Juice/Crystal Chisels/Lunch Boxes/Gems",
+211402,Outfit Display · Body 1,"You've completed the display, you will receive a random reward from the following list after this Observation ends: Coins/EXP Juice/Crystal Chisels/Lunch Boxes/Gems",
+211502,Outfit Display · Body 2,"You've completed the display, you will receive a random reward from the following list after this Observation ends: Coins/EXP Juice/Crystal Chisels/Lunch Boxes/Gems",
+211602,Outfit Display · Body 3,"You've completed the display, you will receive a random reward from the following list after this Observation ends: Coins/EXP Juice/Crystal Chisels/Lunch Boxes/Gems",
+211702,Outfit Display · Legs 1,"You've completed the display, you will receive a random reward from the following list after this Observation ends: Coins/EXP Juice/Crystal Chisels/Lunch Boxes/Gems",
+211802,Outfit Display · Legs 2,"You've completed the display, you will receive a random reward from the following list after this Observation ends: Coins/EXP Juice/Crystal Chisels/Lunch Boxes/Gems",
+211902,Outfit Display · Legs 3,"You've completed the display, you will receive a random reward from the following list after this Observation ends: Coins/EXP Juice/Crystal Chisels/Lunch Boxes/Gems",
+212002,Outfit Display · Headwear 1,"You've completed the display, you will receive a random reward from the following list after this Observation ends: Coins/EXP Juice/Crystal Chisels/Lunch Boxes/Gems",
+212102,Outfit Display · Headwear 2,"You've completed the display, you will receive a random reward from the following list after this Observation ends: Coins/EXP Juice/Crystal Chisels/Lunch Boxes/Gems",
+212202,Outfit Display · Headwear 3,"You've completed the display, you will receive a random reward from the following list after this Observation ends: Coins/EXP Juice/Crystal Chisels/Lunch Boxes/Gems",
+212302,Outfit Display · Accessories 1,"You've completed the display, you will receive a random reward from the following list after this Observation ends: Coins/EXP Juice/Crystal Chisels/Lunch Boxes/Gems",
+212402,Outfit Display · Accessories 2,"You've completed the display, you will receive a random reward from the following list after this Observation ends: Coins/EXP Juice/Crystal Chisels/Lunch Boxes/Gems",
+212502,Outfit Display · Accessories 3,"You've completed the display, you will receive a random reward from the following list after this Observation ends: Coins/EXP Juice/Crystal Chisels/Lunch Boxes/Gems",
+212602,Outfit Display · Attribute 1,"You've completed the display, you will receive a random reward from the following list after this Observation ends: Coins/EXP Juice/Crystal Chisels/Lunch Boxes/Gems",
+212702,Outfit Display · Attribute 2,"You've completed the display, you will receive a random reward from the following list after this Observation ends: Coins/EXP Juice/Crystal Chisels/Lunch Boxes/Gems",
+212802,Outfit Display · Attribute 3,"You've completed the display, you will receive a random reward from the following list after this Observation ends: Coins/EXP Juice/Crystal Chisels/Lunch Boxes/Gems",

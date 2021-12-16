@@ -46,5 +46,55 @@ id,name,desc,unlock
 45,Knowledge · 4,"When you challenge Stages in this World of Time or trigger Challenge Cards in the future, increase your Knowledge by {1}.","Requirement: upgrade ""Charisma · 4"" to Lv.5 or upgrade ""Knowledge · 3"" to Lv.5"
 46,Speed Reading,"Upgrade to get {1} ""Time Essences"" to speed up the process of reading in Echoes of Time",
 47,Card Unlock · 1,"Unlock Encounter Card ""Points"" that can provide you more points, when triggering Encounter Card ""Points"", have chance to increase the points it provides",
-48,Card Unlock · 2,"Unlock Challenge Card ""Challenge · II""","Requirement: Reach 1000 Courage, Charisma and Knowledge (The attribute boost provided by your Girls is not included)"
-49,Card Unlock · 3,"Unlock Challenge Card ""Challenge · III""","Requirement: Reach 2000 Courage, Charisma and Knowledge (The attribute boost provided by your Girls is not included)"
+48,Card Unlock · 2,"Unlock Challenge Card ""Challenge · II"", the upgrade will be activated in the next Observation","Requirement: Reach 1000 Courage, Charisma and Knowledge (The attribute boost provided by your Girls is not included)"
+49,Card Unlock · 3,"Unlock Challenge Card ""Challenge · III"", the upgrade will be activated in the next Observation","Requirement: Reach 2000 Courage, Charisma and Knowledge (The attribute boost provided by your Girls is not included)"
+50,Observation Length · 1,Increases your initial Clockwork of Memory number by {1} when observing in this World of Time.,
+51,Observation Length · 2,Increases your initial Clockwork of Memory number by {1} when observing in this World of Time.,"Requirement: Upgrading ""Observation Length · 1"" to level 2, reach 500 Courage (The attribute boost provided by your Girls is not included)"
+52,Observation Length · 3,Increases your initial Clockwork of Memory number by {1} when observing in this World of Time.,"Requirement: Upgrading ""Observation Length · 2"" to level 3, reach 1000 Charisma (The attribute boost provided by your Girls is not included)"
+53,Observation Length · 4,Increases your initial Clockwork of Memory number by {1} when observing in this World of Time.,"Requirement: Upgrading ""Observation Length · 3"" to level 3, reach 1500 Knowledge (The attribute boost provided by your Girls is not included)"
+54,Observation Length · 5,Increases your initial Clockwork of Memory number by {1} when observing in this World of Time.,"Requirement: Reach 1700 Courage, Charisma and Knowledge (The attribute boost provided by your Girls is not included)"
+55,Basic Supply · 1,"When triggering Supply Card ""Basic Supply"", increase the card level by 1 to offer you more rewards",
+56,Basic Supply · 2,"When triggering Supply Card ""Basic Supply"", increase the card level by 1 to offer you more rewards",Requirement: Observation Progress of this World of Time reaches 10%
+57,Basic Supply · 3,"When triggering Supply Card ""Basic Supply"", increase the card level by 1 to offer you more rewards",Requirement: Observation Progress of this World of Time reaches 20%
+58,Basic Supply · 4,"When triggering Supply Card ""Basic Supply"", increase the card level by 1 to offer you more rewards",Requirement: Observation Progress of this World of Time reaches 30%
+59,Basic Supply · 5,"When triggering Supply Card ""Basic Supply"", increase the card level by 1 to offer you more rewards",Requirement: Observation Progress of this World of Time reaches 40%
+60,Plain Button · 1,"When triggering Supply Card ""Plain Button"", increase the card level by 1 to offer you more rewards",
+61,Plain Button · 2,"When triggering Supply Card ""Plain Button"", increase the card level by 1 to offer you more rewards",Requirement: Observation Progress of this World of Time reaches 20%
+62,Plain Button · 3,"When triggering Supply Card ""Plain Button"", increase the card level by 1 to offer you more rewards",Requirement: Observation Progress of this World of Time reaches 40%
+63,Plain Button · 4,"When triggering Supply Card ""Plain Button"", increase the card level by 1 to offer you more rewards",Requirement: Observation Progress of this World of Time reaches 60%
+64,Plain Button · 5,"When triggering Supply Card ""Plain Button"", increase the card level by 1 to offer you more rewards",Requirement: Observation Progress of this World of Time reaches 80%
+65,Plain Silk · 1,"When triggering Supply Card ""Plain Silk"", increase the card level by 1 to offer you more rewards",
+66,Plain Silk · 1,"When triggering Supply Card ""Plain Silk"", increase the card level by 1 to offer you more rewards",Requirement: Observation Progress of this World of Time reaches 15%
+67,Plain Silk · 3,"When triggering Supply Card ""Plain Silk"", increase the card level by 1 to offer you more rewards",Requirement: Observation Progress of this World of Time reaches 30%
+68,Plain Silk · 4,"When triggering Supply Card ""Plain Silk"", increase the card level by 1 to offer you more rewards",Requirement: Observation Progress of this World of Time reaches 45%
+69,Plain Silk · 5,"When triggering Supply Card ""Plain Silk"", increase the card level by 1 to offer you more rewards",Requirement: Observation Progress of this World of Time reaches 60%
+70,Dyed Silk · 1,"When triggering Supply Card ""Dyed Silk"", increase the card level by 1 to offer you more rewards",
+71,Dyed Silk · 2,"When triggering Supply Card ""Dyed Silk"", increase the card level by 1 to offer you more rewards",Requirement: Observation Progress of this World of Time reaches 20%
+72,Dyed Silk · 3,"When triggering Supply Card ""Dyed Silk"", increase the card level by 1 to offer you more rewards",Requirement: Observation Progress of this World of Time reaches 40%
+73,Dyed Silk · 4,"When triggering Supply Card ""Dyed Silk"", increase the card level by 1 to offer you more rewards",Requirement: Observation Progress of this World of Time reaches 60%
+74,Dyed Silk · 5,"When triggering Supply Card ""Dyed Silk"", increase the card level by 1 to offer you more rewards",Requirement: Observation Progress of this World of Time reaches 80%
+75,Outfit Display · Head,"Unlock the next level of Supply Card ""Outfit Display · Head"", the upgrade will be activated in the next Observation",
+76,Outfit Display · Body,"Unlock the next level of Supply Card ""Outfit Display · Body"", the upgrade will be activated in the next Observation",
+77,Outfit Display · Legs,"Unlock the next level of Supply Card ""Outfit Display · Legs"", the upgrade will be activated in the next Observation",
+78,Outfit Display · Headwear,"Unlock the next level of Supply Card ""Outfit Display · Headwear"", the upgrade will be activated in the next Observation",
+79,Outfit Display · Accessories,"Unlock the next level of Supply Card ""Outfit Display · Accessories"", the upgrade will be activated in the next Observation",
+80,Outfit Display · Attribute,"Unlock the next level of Supply Card ""Outfit Display · Attribute, the upgrade will be activated in the next Observation",
+81,Encounter Card Upgrade · 1,"When triggering Encounter Card ""Vera"", increase the card level by 1",
+82,Encounter Card Upgrade · 2,"When triggering Encounter Card ""Caitlyn"", increase the card level by 1","Requirement: Trigger Encounter Card ""Vera"" 50 times in this World of time for ({1}/50)"
+83,Encounter Card Upgrade · 3,"When triggering Encounter Card ""Boxer"", increase the card level by 1","Requirement: Trigger Encounter Card ""Caitlyn"" 50 times in this World of time for ({1}/50)"
+84,Encounter Card Upgrade · 4,"When triggering Encounter Card ""Nobunaga"", increase the card level by 1","Requirement: Trigger Encounter Card ""Boxer"" 50 times in this World of time for ({1}/50)"
+85,Encounter Card Upgrade · 5,"When triggering Encounter Card ""Diana"", increase the card level by 1","Requirement: Trigger Encounter Card ""Nobunaga"" 50 times in this World of time for ({1}/50)"
+86,Encounter Card Upgrade · 6,"When triggering Encounter Card ""Sakura"", increase the card level by 1","Requirement: Trigger Encounter Card ""Diana"" 50 times in this World of time for ({1}/50)"
+87,Encounter Card Upgrade · 7,"When triggering Encounter Card ""Hottie"", increase the card level by 1","Requirement: Trigger Encounter Card ""Sakura"" 50 times in this World of time for ({1}/50)"
+88,Stage Unlock,Unlock the next Stage of this World of Time (Need to pass the current Stage before you challenge the next Stage),
+89,Speed Reading,"Upgrade to get 2 ""Time Essences"" to speed up the process of reading in Echoes of Time",
+90,Card Unlock · Points,"Unlock Encounter Card ""Points"" that can provide you more points, when triggering Encounter Card ""Points"", have chance to increase the points it provides",
+91,Card Unlock · Battle 1,"Unlock Challenge Card ""Challenge · II""","Requirement: Reach 1000 Courage, Charisma and Knowledge (The attribute boost provided by your Girls is not included)"
+92,Card Unlock · Battle 2,"Unlock Challenge Card ""Challenge · III"", the upgrade will be activated in the next Observation","Requirement: Reach 2000 Courage, Charisma and Knowledge (The attribute boost provided by your Girls is not included)"
+93,Card Unlock · Battle 3,"Unlock the next level of Challenge Card ""Skirmish"", the upgrade will be activated in the next Observation","Requirement: challenge Challenge Card ""Skirmish I"" 10 times in this World of time for ({1}/10)"
+94,Card Unlock · Nightmare,"Unlock the next level of Supply Card ""Nightmare"", the upgrade will be activated in the next Observation",
+95,Support · Upgrade,Upgrade the Support Girl in this World of Time,
+96,Support · Advanced Skill 1,"When you challenge Stages in this World of Time or trigger Challenge Cards in the future, increase your Courage by {1}.",
+97,Support · Advanced Skill 2,"When you challenge Stages in this World of Time or trigger Challenge Cards in the future, increase your Charisma by {1}.",
+98,Support · Advanced Skill 3,"When you challenge Stages in this World of Time or trigger Challenge Cards in the future, increase your Knowledge by {1}.",
+99,Support · Advanced Skill 4,"When you challenge Stages in this World of Time or trigger Challenge Cards in the future, increase your Courage, Charisma, and Knowledge by {1}.",

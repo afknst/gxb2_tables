@@ -1,4 +1,5 @@
 id,state,brief,detail
 1,Concentrated,+10% Damage,Increase Damage in battle by 10% when your Girls' Stamina reaches 24
+2,Normal,No Effect,The Girl's Stamina is between 13-23. There will be no special effect in battle.
 3,Exhausted,-30% Damage; -30% Heal Received,Reduce your Girls' Damage and Heal Received by 30% when your Girls' Stamina is between 1-12
 4,Frostbitten,-60% Damage; -60% Heal Received,Reduce your Girls' Damage and Heal Received by 60% when your Girls' Stamina reaches 0

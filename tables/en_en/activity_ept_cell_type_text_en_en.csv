@@ -1,10 +1,15 @@
 id,name,desc
 1,Empty,
-2,Ice Field I,佔位
-3,Ice Field II,佔位
-4,Research Station,佔位
-5,Floating Ice,佔位
-6,Snow Mountain,佔位
-7,Main Base - Student Union,佔位
-8,Main Base - D.E.F,佔位
-9,Main Base - Discipline Committee,佔位
+2,Ice Field I,"A normal Ice Field, the defenders here are good at attacking."
+3,Ice Field I,"A normal Ice Field, the defenders here are good at defending."
+4,Ice Field II,An Ice Field that is close to Snow Mountain. The defenders here are better equipped and good at attacking.
+5,Ice Field II,An Ice Field that is close to Snow Mountain. The defenders here are better equipped and good at defending.
+6,Research Station,The research station established by Sivney. The players from the Faction that captures this territory can gain support from here if they are nearby. (in 3 blocks)
+7,Floating Ice,A large Floating Ice. The defenders here are armed to the teeth and good at attacking.
+8,Floating Ice,A large Floating Ice. The defenders here are armed to the teeth and good at defending.
+9,Snow Mountain,"The Snow Mountain in the middle of Northland. Beneath it, it's a giant Chaos Creature named Avalanchee."
+10,Main Base - Discipline Committee,The Main Base of Discipline Committee. The players from Discipline Committee can gain support from here if they are nearby. (in 3 blocks)
+11,Main Base - D.E.F,The Main Base of D.E.F. The players from D.E.F can gain support from here if they are nearby. (in 3 blocks)
+12,Main Base - Student Union,The Main Base of Student Union. The players from Student Union can gain support from here if they are nearby. (in 3 blocks)
+13,測試用格,不翻譯
+14,測試用格,不翻譯

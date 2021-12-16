@@ -1,0 +1,8 @@
+id,string,explanation,range,channel,connect_type
+1,-1,-1,1,2,activity_ept_cell_type_text#name|activity_ept_cells#cell_xy|||translation#arctic_expedition_group
+2,-1,-1,1,2,activity_ept_cell_type_text#name|activity_ept_cells#cell_xy
+3,-1,-1,1,2,activity_ept_era_text#name
+4,-1,-1,2,2,activity_ept_era_text#name|activity_ept_era_text#desc
+5,-1,-1,0,1,|activity_ept_cell_type_text#name|activity_ept_cells#cell_xy
+6,-1,-1,1,0,activity_ept_cells#id
+7,-1,-1,1,0,activity_ept_cells#id

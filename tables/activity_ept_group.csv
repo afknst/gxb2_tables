@@ -1,5 +1,5 @@
 id,group_name,icon,pos_initial,netural
-1,DEF,icon_a,6|3,
-2,-1,icon_b,11|6,
-3,-1,icon_c,5|11,
-4,-1,icon_netural,,1
+1,-1,arctic_expedition_cell_group_icon_1,6|3,
+2,DEF,arctic_expedition_cell_group_icon_2,11|6,
+3,-1,arctic_expedition_cell_group_icon_3,5|11,
+4,-1,arctic_expedition_cell_group_icon_4,,1
