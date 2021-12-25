@@ -9946,7 +9946,7 @@ For each stack of [c][e28002]Gilded Butterflies[-][/c] that the target has, it w
 When the Gwen & Brigit who afflicted [c][e28002]Gilded Butterflies[-][/c] is attacked by the target afflicted by this effect, her Front-line allies will help take 10% of damage dealt and split the damage taken between themselves. (Damage that the Frontline allies take for her will be reduced by their own Damage Depletion attribute. When there are no allies in the Front-line to take damage for her, this effect will not be activated.)
 [c][e28002]Harbingers of Death:[-][/c]
 A Skill Effect, cannot be stacked. 
-Deals (300% of Attack) fixed damage that will neither Crit nor be affected by any attribute or effect that increases or reduces damage to the target. 
+Deals (300% of Attack) fixed damage that will neither Crit nor be affected by attributes or effects that increase or reduce damage to the target. 
 If the target isn’t defeated after taking this damage, Gwen & Brigit will deal a Basic Attack."
 65601901,Gwen & Brigit,Winged Deaths,"
 O butterfly, fluttereth thy wings!
@@ -9962,7 +9962,7 @@ For each stack of [c][e28002]Gilded Butterflies[-][/c] that the target has, it w
 When the Gwen & Brigit who afflicted [c][e28002]Gilded Butterflies[-][/c] is attacked by the target afflicted by this effect, her Front-line allies will help take 20% of damage dealt and split the damage taken between themselves. (Damage that the Frontline allies take for her will be reduced by their own Damage Depletion attribute. When there are no allies in the Front-line to take damage for her, this effect will not be activated.)
 [c][e28002]Harbingers of Death:[-][/c]
 A Skill Effect, cannot be stacked. 
-Deals (600% of Attack) fixed damage that will neither Crit nor be affected by any attribute or effect that increases or reduces damage to the target. 
+Deals (600% of Attack) fixed damage that will neither Crit nor be affected by attributes or effects that increase or reduce damage to the target. 
 If the target isn’t defeated after taking this damage, Gwen & Brigit will deal a Basic Attack."
 75600901,Gwen & Brigit,Winged Deaths,"
 O butterfly, fluttereth thy wings!
@@ -9978,7 +9978,7 @@ For each stack of [c][e28002]Gilded Butterflies[-][/c] that the target has, it w
 When the Gwen & Brigit who afflicted [c][e28002]Gilded Butterflies[-][/c] is attacked by the target afflicted by this effect, her Front-line allies will help take 30% of damage dealt and split the damage taken between themselves. (Damage that the Frontline allies take for her will be reduced by their own Damage Depletion attribute. When there are no allies in the Front-line to take damage for her, this effect will not be activated.)
 [c][e28002]Harbingers of Death:[-][/c]
 A Skill Effect, cannot be stacked. 
-Deals (1000% of Attack) fixed damage that will neither Crit nor be affected by any attribute or effect that increases or reduces damage to the target. 
+Deals (1000% of Attack) fixed damage that will neither Crit nor be affected by attributes or effects that increase or reduce damage to the target. 
 If the target isn’t defeated after taking this damage, Gwen & Brigit will deal a Basic Attack."
 5600902,Gwen & Brigit,Eternal Companions,"We are inseparable.\n\nIncreases Gwen & Brigit's Attack by 20%, Crit by 10%, Holy Damage by 40%, Control Immunity by 10%, and Speed by 20."
 65601902,Gwen & Brigit,Eternal Companions,"We are inseparable.\n\nIncreases Gwen & Brigit's Attack by 30%, Crit by 20%, Holy Damage by 60%, Control Immunity by 20%, and Speed by 40."
@@ -10031,7 +10031,7 @@ When the Gwen & Brigit who afflicted [c][e28002]Gilded Butterflies[-][/c] is att
 5600904,Gwen & Brigit,Hour of Need,"
 Gwen: “Wealth belongs to those who need it the most.”
 
-When an ally deals a Critical Strike, she recovers (50% of self Attack) HP and gains 10 Speed that lasts for 2 rounds.
+When an ally deals a Critical Strike, she recovers (50% of Gwen & Brigit\'s Attack) HP and gains 10 Speed that lasts for 2 rounds.
 When other allies releases Active Skills or deals Basic Attacks, Gwen & Brigit has a 30% chance to afflict 1 stack of [c][e28002]Gilded Butterflies[-][/c] that lasts for 4 rounds to 3 enemies with the lowest HP.
 
 [c][e28002]Gilded Butterflies: [-][/c]
@@ -10041,7 +10041,7 @@ When the Gwen & Brigit who afflicted [c][e28002]Gilded Butterflies[-][/c] is att
 65601904,Gwen & Brigit,Hour of Need,"
 Gwen: “Wealth belongs to those who need it the most.”
 
-When an ally deals a Critical Strike, she recovers (150% of self Attack) HP and gains 10 Speed that lasts for 2 rounds.
+When an ally deals a Critical Strike, she recovers (150% of Gwen & Brigit\'s Attack) HP and gains 10 Speed that lasts for 2 rounds.
 When other allies releases Active Skills or deals Basic Attacks, Gwen & Brigit has a 50% chance to afflict 1 stack of [c][e28002]Gilded Butterflies[-][/c] that lasts for 4 rounds to 3 enemies with the lowest HP.
 
 [c][e28002]Gilded Butterflies: [-][/c]
@@ -10051,7 +10051,7 @@ When the Gwen & Brigit who afflicted [c][e28002]Gilded Butterflies[-][/c] is att
 65601914,Gwen & Brigit,Hour of Need,"
 Gwen: “Wealth belongs to those who need it the most.”
 
-When an ally deals a Critical Strike, she recovers (300% of self Attack) HP and gains 10 Speed that lasts for 2 rounds.
+When an ally deals a Critical Strike, she recovers (300% of Gwen & Brigit\'s Attack) HP and gains 10 Speed that lasts for 2 rounds.
 When other allies releases Active Skills or deals Basic Attacks, Gwen & Brigit has a 70% chance to afflict 1 stack of [c][e28002]Gilded Butterflies[-][/c] that lasts for 4 rounds to 3 enemies with the lowest HP.
 
 [c][e28002]Gilded Butterflies: [-][/c]
@@ -10061,7 +10061,7 @@ When the Gwen & Brigit who afflicted [c][e28002]Gilded Butterflies[-][/c] is att
 75600904,Gwen & Brigit,Hour of Need,"
 Gwen: “Wealth belongs to those who need it the most.”
 
-When an ally deals a Critical Strike, she recovers (300% of self Attack) HP and gains 10 Speed that lasts for 2 rounds.
+When an ally deals a Critical Strike, she recovers (300% of Gwen & Brigit\'s Attack) HP and gains 10 Speed that lasts for 2 rounds.
 When other allies releases Active Skills or deals Basic Attacks, Gwen & Brigit has a 70% chance to afflict 1 stack of [c][e28002]Gilded Butterflies[-][/c] that lasts for 4 rounds to 3 enemies with the lowest HP.
 
 [c][e28002]Gilded Butterflies: [-][/c]
@@ -10082,7 +10082,7 @@ For each stack of [c][e28002]Gilded Butterflies[-][/c] that the target has, it w
 When the Gwen & Brigit who afflicted [c][e28002]Gilded Butterflies[-][/c] is attacked by the target afflicted by this effect, her Front-line allies will help take 30% of damage dealt and split the damage taken between themselves. (Damage that the Frontline allies take for her will be reduced by their own Damage Depletion attribute. When there are no allies in the Front-line to take damage for her, this effect will not be activated.)
 [c][e28002]Harbingers of Death:[-][/c]
 A Skill Effect, cannot be stacked. 
-Deals (1260% of Attack) fixed damage that will neither Crit nor be affected by any attribute or effect that increases or reduces damage to the target. 
+Deals (1260% of Attack) fixed damage that will neither Crit nor be affected by attributes or effects that increase or reduce damage to the target. 
 If the target isn’t defeated after taking this damage, Gwen & Brigit will deal a Basic Attack."
 756009012,Gwen & Brigit,Winged Deaths,"
 O butterfly, fluttereth thy wings!
@@ -10098,7 +10098,7 @@ For each stack of [c][e28002]Gilded Butterflies[-][/c] that the target has, it w
 When the Gwen & Brigit who afflicted [c][e28002]Gilded Butterflies[-][/c] is attacked by the target afflicted by this effect, her Front-line allies will help take 30% of damage dealt and split the damage taken between themselves. (Damage that the Frontline allies take for her will be reduced by their own Damage Depletion attribute. When there are no allies in the Front-line to take damage for her, this effect will not be activated.)
 [c][e28002]Harbingers of Death:[-][/c]
 A Skill Effect, cannot be stacked. 
-Deals (1320% of Attack) fixed damage that will neither Crit nor be affected by any attribute or effect that increases or reduces damage to the target. 
+Deals (1320% of Attack) fixed damage that will neither Crit nor be affected by attributes or effects that increase or reduce damage to the target. 
 If the target isn’t defeated after taking this damage, Gwen & Brigit will deal a Basic Attack."
 756009013,Gwen & Brigit,Winged Deaths,"
 O butterfly, fluttereth thy wings!
@@ -10114,7 +10114,7 @@ For each stack of [c][e28002]Gilded Butterflies[-][/c] that the target has, it w
 When the Gwen & Brigit who afflicted [c][e28002]Gilded Butterflies[-][/c] is attacked by the target afflicted by this effect, her Front-line allies will help take 30% of damage dealt and split the damage taken between themselves. (Damage that the Frontline allies take for her will be reduced by their own Damage Depletion attribute. When there are no allies in the Front-line to take damage for her, this effect will not be activated.)
 [c][e28002]Harbingers of Death:[-][/c]
 A Skill Effect, cannot be stacked. 
-Deals (1380% of Attack) fixed damage that will neither Crit nor be affected by any attribute or effect that increases or reduces damage to the target. 
+Deals (1380% of Attack) fixed damage that will neither Crit nor be affected by attributes or effects that increase or reduce damage to the target. 
 If the target isn’t defeated after taking this damage, Gwen & Brigit will deal a Basic Attack."
 756009014,Gwen & Brigit,Winged Deaths,"
 O butterfly, fluttereth thy wings!
@@ -10130,7 +10130,7 @@ For each stack of [c][e28002]Gilded Butterflies[-][/c] that the target has, it w
 When the Gwen & Brigit who afflicted [c][e28002]Gilded Butterflies[-][/c] is attacked by the target afflicted by this effect, her Front-line allies will help take 30% of damage dealt and split the damage taken between themselves. (Damage that the Frontline allies take for her will be reduced by their own Damage Depletion attribute. When there are no allies in the Front-line to take damage for her, this effect will not be activated.)
 [c][e28002]Harbingers of Death:[-][/c]
 A Skill Effect, cannot be stacked. 
-Deals (1440% of Attack) fixed damage that will neither Crit nor be affected by any attribute or effect that increases or reduces damage to the target. 
+Deals (1440% of Attack) fixed damage that will neither Crit nor be affected by attributes or effects that increase or reduce damage to the target. 
 If the target isn’t defeated after taking this damage, Gwen & Brigit will deal a Basic Attack."
 756009015,Gwen & Brigit,Winged Deaths,"
 O butterfly, fluttereth thy wings!
@@ -10146,7 +10146,7 @@ For each stack of [c][e28002]Gilded Butterflies[-][/c] that the target has, it w
 When the Gwen & Brigit who afflicted [c][e28002]Gilded Butterflies[-][/c] is attacked by the target afflicted by this effect, her Front-line allies will help take 30% of damage dealt and split the damage taken between themselves. (Damage that the Frontline allies take for her will be reduced by their own Damage Depletion attribute. When there are no allies in the Front-line to take damage for her, this effect will not be activated.)
 [c][e28002]Harbingers of Death:[-][/c]
 A Skill Effect, cannot be stacked. 
-Deals (1500% of Attack) fixed damage that will neither Crit nor be affected by any attribute or effect that increases or reduces damage to the target. 
+Deals (1500% of Attack) fixed damage that will neither Crit nor be affected by attributes or effects that increase or reduce damage to the target. 
 If the target isn’t defeated after taking this damage, Gwen & Brigit will deal a Basic Attack."
 756009021,Gwen & Brigit,Eternal Companions,"We are inseparable.\n\nIncreases Gwen & Brigit's Attack by 40%, Crit by 30%, Holy Damage by 80%, Control Immunity by 30%, and Speed by 62."
 756009022,Gwen & Brigit,Eternal Companions,"We are inseparable.\n\nIncreases Gwen & Brigit's Attack by 40%, Crit by 30%, Holy Damage by 80%, Control Immunity by 30%, and Speed by 64."
@@ -10211,7 +10211,7 @@ When the Gwen & Brigit who afflicted [c][e28002]Gilded Butterflies[-][/c] is att
 756009041,Gwen & Brigit,Hour of Need,"
 Gwen: “Wealth belongs to those who need it the most.”
 
-When an ally deals a Critical Strike, she recovers (306% of self Attack) HP and gains 10 Speed that lasts for 2 rounds.
+When an ally deals a Critical Strike, she recovers (306% of Gwen & Brigit\'s Attack) HP and gains 10 Speed that lasts for 2 rounds.
 When other allies releases Active Skills or deals Basic Attacks, Gwen & Brigit has a 70% chance to afflict 1 stack of [c][e28002]Gilded Butterflies[-][/c] that lasts for 4 rounds to 3 enemies with the lowest HP.
 
 [c][e28002]Gilded Butterflies: [-][/c]
@@ -10221,7 +10221,7 @@ When the Gwen & Brigit who afflicted [c][e28002]Gilded Butterflies[-][/c] is att
 756009042,Gwen & Brigit,Hour of Need,"
 Gwen: “Wealth belongs to those who need it the most.”
 
-When an ally deals a Critical Strike, she recovers (312% of self Attack) HP and gains 10 Speed that lasts for 2 rounds.
+When an ally deals a Critical Strike, she recovers (312% of Gwen & Brigit\'s Attack) HP and gains 10 Speed that lasts for 2 rounds.
 When other allies releases Active Skills or deals Basic Attacks, Gwen & Brigit has a 70% chance to afflict 1 stack of [c][e28002]Gilded Butterflies[-][/c] that lasts for 4 rounds to 3 enemies with the lowest HP.
 
 [c][e28002]Gilded Butterflies: [-][/c]
@@ -10231,7 +10231,7 @@ When the Gwen & Brigit who afflicted [c][e28002]Gilded Butterflies[-][/c] is att
 756009043,Gwen & Brigit,Hour of Need,"
 Gwen: “Wealth belongs to those who need it the most.”
 
-When an ally deals a Critical Strike, she recovers (318% of self Attack) HP and gains 10 Speed that lasts for 2 rounds.
+When an ally deals a Critical Strike, she recovers (318% of Gwen & Brigit\'s Attack) HP and gains 10 Speed that lasts for 2 rounds.
 When other allies releases Active Skills or deals Basic Attacks, Gwen & Brigit has a 70% chance to afflict 1 stack of [c][e28002]Gilded Butterflies[-][/c] that lasts for 4 rounds to 3 enemies with the lowest HP.
 
 [c][e28002]Gilded Butterflies: [-][/c]
@@ -10241,7 +10241,7 @@ When the Gwen & Brigit who afflicted [c][e28002]Gilded Butterflies[-][/c] is att
 756009044,Gwen & Brigit,Hour of Need,"
 Gwen: “Wealth belongs to those who need it the most.”
 
-When an ally deals a Critical Strike, she recovers (324% of self Attack) HP and gains 10 Speed that lasts for 2 rounds.
+When an ally deals a Critical Strike, she recovers (324% of Gwen & Brigit\'s Attack) HP and gains 10 Speed that lasts for 2 rounds.
 When other allies releases Active Skills or deals Basic Attacks, Gwen & Brigit has a 70% chance to afflict 1 stack of [c][e28002]Gilded Butterflies[-][/c] that lasts for 4 rounds to 3 enemies with the lowest HP.
 
 [c][e28002]Gilded Butterflies: [-][/c]
@@ -10251,7 +10251,7 @@ When the Gwen & Brigit who afflicted [c][e28002]Gilded Butterflies[-][/c] is att
 756009045,Gwen & Brigit,Hour of Need,"
 Gwen: “Wealth belongs to those who need it the most.”
 
-When an ally deals a Critical Strike, she recovers (330% of self Attack) HP and gains 10 Speed that lasts for 2 rounds.
+When an ally deals a Critical Strike, she recovers (330% of Gwen & Brigit\'s Attack) HP and gains 10 Speed that lasts for 2 rounds.
 When other allies releases Active Skills or deals Basic Attacks, Gwen & Brigit has a 75% chance to afflict 1 stack of [c][e28002]Gilded Butterflies[-][/c] that lasts for 4 rounds to 3 enemies with the lowest HP.
 
 [c][e28002]Gilded Butterflies: [-][/c]
@@ -10528,9 +10528,39 @@ Avalanchee crumbles the glaciers under its huge claw when it deals a Basic Attac
 
 [c][01a310]Freeze:[-][/c]
 A control effect. During this effect, girls affected will not be able to deal Basic Attacks, release their Active Skills, Hunt or Counterattack."
-125600301,Research Station Bonus,Research Station Bonus 1,This block is located at a distance of 1 block from the Research Station. All allies deal 50% more damage in battle.
-125600302,Research Station Bonus,Research Station Bonus 2,This block is located at a distance of 2 blocks from the Research Station. All allies deal 30% more damage in battle.
-125600303,Research Station Bonus,Research Station Bonus 3,This block is located at a distance of 3 blocks from the Research Station. All allies deal 10% more damage in battle.
+125600301,Research Station Bonus,Research Station Buff 1,This block is located at a distance of 1 block from the Research Station. All allies deal 50% more damage in battle.
+125600302,Research Station Bonus,Research Station Buff 2,This block is located at a distance of 2 blocks from the Research Station. All allies deal 30% more damage in battle.
+125600303,Research Station Bonus,Research Station Buff 3,This block is located at a distance of 3 blocks from the Research Station. All allies deal 10% more damage in battle.
 125600401,Main Base Bonus,Main Base Bonus 1,"This block is located at a distance of 1 block from the Main Base. All allies gain 180,000 HP, 30% extra HP, 12,000 Attack, and 30% extra Attack in battle."
 125600402,Main Base Bonus,Main Base Bonus 2,"This block is located at a distance of 2 blocks from the Main Base. All allies gain 120,000 HP, 20% extra HP, 8,000 Attack, and 20% extra Attack in battle."
 125600403,Main Base Bonus,Main Base Bonus 3,"This block is located at a distance of 3 blocks from the Main Base. All allies gain 60,000 HP, 10% extra HP, 4,000 Attack, and 10% extra Attack in battle."
+674301,Snow Chime,Antique Skill,The owner receives 50% more Energy when she is attacked.
+674401,Snow Chime,Antique Skill,The owner receives 60% more Energy when she is attacked.
+674501,Snow Chime,Antique Skill,The owner receives 70% more Energy when she is attacked.
+674601,Snow Chime,Antique Skill,The owner receives 80% more Energy when she is attacked.
+674701,Snow Chime,Antique Skill,The owner receives 90% more Energy when she is attacked.
+674801,Snow Chime,Antique Skill,The owner receives 100% more Energy when she is attacked.
+6748101,Snow Chime,Antique Skill,"
+When the battle starts, casts [c][e28002]Blessings of Snow[-][/c] to the owner and Frontline allies (if the owner is positioned in the Frontline, then the boosts the owner receive will be doubled).
+When the ally with the lowest HP takes damage from any source for the first time in a round, the owner of this Antique will take the damage for the aforementioned ally. This effect activates once per round.
+After the owner of this Antique releases their Active Skill, heals the owner and the ally with lowest HP for (10% of the target\'s Maximum HP) HP respectively.
+
+[c][e28002]Blessings of Snow: [-][/c]
+A Skill Effect, cannot be stacked. 
+Increases Heal Received by 10%, Damage Depletion by 10%, and Energy when attacked by 10%."
+6748201,Snow Chime,Antique Skill,"
+When the battle starts, casts [c][e28002]Blessings of Snow[-][/c] to the owner and Frontline allies (if the owner is positioned in the Frontline, then the boosts the owner receive will be doubled).
+When the ally with the lowest HP takes damage from any source for the first time in a round, the owner of this Antique will take the damage for the aforementioned ally. This effect activates once per round.
+After the owner of this Antique releases their Active Skill, heals the owner and the ally with lowest HP for (15% of the target\'s Maximum HP) HP respectively.
+
+[c][e28002]Blessings of Snow: [-][/c]
+A Skill Effect, cannot be stacked. 
+Increases Heal Received by 15%, Damage Depletion by 15%, and Energy when attacked by 10%."
+6748301,Snow Chime,Antique Skill,"
+When the battle starts, casts [c][e28002]Blessings of Snow[-][/c] to the owner and Frontline allies (if the owner is positioned in the Frontline, then the boosts the owner receive will be doubled).
+When the ally with the lowest HP takes damage from any source for the first time in a round, the owner of this Antique will take the damage for the aforementioned ally. This effect activates once per round.
+After the owner of this Antique releases their Active Skill, heals the owner and the ally with lowest HP for (20% of the target\'s Maximum HP) HP respectively.
+
+[c][e28002]Blessings of Snow: [-][/c]
+A Skill Effect, cannot be stacked. 
+Increases Heal Received by 20%, Damage Depletion by 20%, and Energy when attacked by 20%."

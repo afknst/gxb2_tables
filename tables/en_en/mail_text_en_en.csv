@@ -9,7 +9,7 @@ id,name,from,content
 8,Mini Pass Rewards,Mini Pass,"Dear Senpai, please collect the following rewards in time. Your Mini Pass will expire in {1} day(s)."
 9,Mini Pass Expired,Mini Pass,"Dear Senpai, your Mini Pass has expired. Please visit the Homework section to renew your Mini Pass. As a reminder, the Mini pass is 10 times cheaper than buying Gems individually!"
 10,Summon Girl Rewards,Summon Rewards,Congratulations on summoning {1} during the event. Your rewards are available in Mail on the FrontPage.
-11,Daily Rewards,System Message,Login daily during the event to get Adv. Capsule Coin x3. Your rewards are attached.
+11,Daily Rewards,System Message,Login every day during event and you can collect Adv. Capsule Coin x 3 and Christmas Sock x 1.
 12,Capsule Reward,System Message,"Congratulations, you've completed {1} Adv. Capsule Draws during event Girls X Capsule Points, here's your reward."
 13,Daily Rewards,System Message,"Login every day during the event and you will receive Seal x 1, Jackpot Energy x 10. Your rewards are attached."
 14,Enroll Rewards,System Message,Congratulations on reaching {1} points during the Enroll event. Here are your rewards~!
@@ -59,7 +59,7 @@ id,name,from,content
 58,Guild War Final Round,System Message,Congratulations! Your guild is ranked in Top {1} in the Final Round of the Guild War. Here are your rewards!
 59,Guild War Final Round,System Message,"Congratulations! Your guild was the runner up in the Guild War Final Round! To reward your skill and valor, here is your prize!"
 60,Guild War Final Round,System Message,"Congratulations! Your guild was the champion in the Guild War Final Round! To reward your skill and valor, here is your prize!"
-61,Black Friday Card,System Message,"You are an Lv. {1} player, here is your reward today! Your Black Friday Card will expire in {3} days!"
+61,Christmas Card,System Message,You are a Lv. {1} user and you get the following rewards today. Your Christmas Card still has {3} days to expire!
 62,Monthly Pass just renewed,Monthly Pass,Thank you for renewing your Monthly Pass. Your current subscription expires in {1} days.
 63,Mini Pass just renewed,Mini Pass,Thank you for renewing your Mini Pass. Your current subscription expires in {1} days.
 64,Jigsaw Puzzle Event,Event Mail,Congratulations! You completed {1} Jigsaw Puzzles. You've earned the following rewards!
@@ -111,7 +111,7 @@ id,name,from,content
 110,Speed Challenge Reward,System Message,"Congratulations Senpai, you are No.{1} in the ranking list of Speed Challenge, your reward is attached!"
 111,Test Objective Reward,System Message,"Dear Senpai,\n\nCongratulations on completing the Test Objectives, here are your rewards!"
 112,Event Item Retrieve,System Message,"Dear Senpai, the event: {1} is over, the {2} {3}s you have are retrieved, here's your reward."
-113,Girls Reward,System Message,"Congratulations for acquiring {2} {1} time(s) during the event, here's your reward!"
+113,Girls Reward,System Message,"Congratulations for acquiring {1} Maia or Gwen & Brigit during the event, here's your reward!"
 114,Colorful Balloon Reward,System Message,Congratulations for getting {1} Intimacy Points in event: Colorful Balloon. Here's your reward.
 115,First Audition Reward,System Message,"Congratulations for becoming No.{1} in First Audition, your rewards are attached!"
 116,First Audition Reward,System Message,"Congratulations on being in the first {1}% in First Audition, your rewards are attached!"
@@ -216,3 +216,8 @@ Yuki apologizes for the inconvenience, for any further queries, please don’t h
 209,Ancient City Supply,Event Mail,"Iron Fist has prepared a Golden Pickaxe for you! Now it's time to get the rewards in the event ""Ancient City Battle"" with them!"
 210,Expedition Reward (Personal),Event Mail,The elves of Northland prepared a reward for your contribution!
 211,Expedition Reward (Faction),Event Mail,"Congratulations, your faction reached No. {1} in Northland Expedition, here's your reward!"
+212,Reward,System Message,"You are defeated by the Chaos Boss, get the supply and keep attacking! (Outfit Bonus triggered, you received additional Crystal Chisels!)"
+213,Reward,System Message,"You have dealt great damage to Chaos Boss, and he's retreating for now, please claim your reward and pursue. (Outfit Bonus triggered, you received additional Crystal Chisels!)"
+214,Reward,System Message,"You have successfully purified the Chaos Boss and have entered a more dangerous area, please claim your reward. (Outfit Bonus triggered, you received additional Crystal Chisels!)"
+215,Christmas Exchange Notice,Event Mail,"Dear Senpai, the event: ""Christmas Exchange"" is about to end, please don't forget to exchange the gifts you want!"
+216,Above the Fireplace,Event Mail,"Congratulations, you've hung {1} Christmas Socks in event: ""Above the Fireplace""! Here's your reward!"

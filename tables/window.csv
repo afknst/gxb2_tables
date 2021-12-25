@@ -784,3 +784,5 @@ activity_luckyboxes_giftbag_window,ActivityLuckyboxesGiftbagWindow,activity_luck
 activity_luckyboxes_choose_special_award_window,ActivityLuckyboxesChooseSpecialAwardWindow,activity_luckyboxes_choose_special_award_window,ACTIVITY_LUCKYBOXES_CHOOSE_SPECIAL_AWARD_WINDOW,4,-1,-1,2,,2,2,-2,1,,,,814,-1,,,,
 arctic_chat_window,ArcticChatWindow,arctic_chat_window,CHAT_WINDOW,4,-1,-1,2,,2,2,-2,1,,,,815,-1,,,,
 arctic_expedition_cell_detail_window,ArcticExpeditionCellDetailWindow,arctic_expedition_cell_detail_window,ARCTIC_EXPEDITION_CELL_DETAIL_WINDOW,4,-1,-1,2,,,,-2,1,,,,816,-1,,,,
+battle_test_json_window,BattleTestJsonWindow,battle_test_json_window,,6,-1,-1,2,,1,1,-1,1,,,,817,-1,,,,
+activity_christmas_exchange_award_select_window,ActivityChristmasExchangeAwardSelectWindow,activity_christmas_exchange_award_select_window,ACTIVITY_CHRISTMAS_EXCHANGE_AWARD_SELECT_WINDOW,4,-1,-1,2,,2,2,-2,1,,,,818,-1,,,,

@@ -9,7 +9,7 @@ miss,Block,Dodge
 crit,Crit,Crit
 critTime,Crit Damage,Crit Damage
 brk,Armor Break,Armor Break
-free,Immune Ctrl,Immune Ctrl
+free,CC Immune,CC Immune
 trueAtk,Holy Damage,Holy Damage
 energy,Energy,Energy
 decDmg,DMG Reduction,DMG Reduction

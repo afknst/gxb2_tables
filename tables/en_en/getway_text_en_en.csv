@@ -32,7 +32,7 @@ id,name
 32,FrontPage
 33,Friend Boss
 34,Friends
-35,Mail
+35,Daily Mail
 36,Chat
 37,Regular Capsule
 38,Advanced Capsule
@@ -60,7 +60,7 @@ id,name
 60,Special Skin Pack
 61,Exclusive-Enroll Exam
 62,Exam Store
-63,Turin's Mission
+63,Xmas Sock Hunt
 64,Value Pack
 65,Special Gift Pack
 66,Exclusive Task
@@ -158,7 +158,7 @@ id,name
 170,Raider's Supply
 171,Team Assembly
 172,Treasure Hunt
-173,Thanksgiving Gifts
+173,Christmas Gifts
 174,Thanksgiving Feast
 175,Jackpot Support Pack
 176,Jackpot of Fortune
@@ -172,3 +172,12 @@ id,name
 185,Consume 1 Seal ({1}/80)
 186,Consume 1 Rudder ({1}/80)
 187,Lucky Pack
+188,A Visit from Santa
+189,Jingle Bell Pack
+190,Christmas Exchange
+191,Monthly Pack Discount
+192,Weekly Pack Discount
+193,Monthly Pass Discount
+194,Mini Pass Discount
+195,Yume Privilege Discount
+196,Daily Pack Discount

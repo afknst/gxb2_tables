@@ -34,7 +34,7 @@ id,desc,title
 33,Atelier Valeera,Atelier\nValeera
 34,Servant Raising,Servant\nRaising
 35,Subscription,Subscription
-36,Black Friday Card,Black Friday\nCard
+36,Christmas Card,Christmas\nCard
 37,Jigsaw,Jigsaw
 38,Subscription,Subscription
 39,Monthly Pack,Monthly\nPack
@@ -54,7 +54,7 @@ id,desc,title
 53,Test application,Test application
 54,Feedback,Feedback
 55,Dorm Decoration,Dorm\nDecoration
-56,Thanksgiving Gifts,Thanksgiving\nGifts
+56,Christmas Gifts,Christmas\nGifts
 57,Growth Pack,Growth\nPack
 58,New Server Capsule,New Server\nCapsule
 59,Yume Academy,Yume\nAcademy
@@ -83,7 +83,7 @@ id,desc,title
 82,5-star Training Pack,5-Star\nTraining
 84,Winning Heart,Winning\nHeart
 85,New Year Gift Box,New Year\nGift Box
-86,Redeem Gifts,Redeem\nGifts
+86,Xmas Sock Hunt,Xmas Sock\nHunt
 87,Bonus Sale,Bonus\nSale
 88,Luck Contest,Luck\nContest
 89,Mega Value Pack,Value\nPack
@@ -255,3 +255,6 @@ id,desc,title
 268,Weekly Pack Discount,Weekly Pack\nDiscount
 269,Daily Pack Discount,Daily Pack\nDiscount
 260,Lucky Dips,Lucky\nDips
+270,A Visit from Santa,A Visit\nfrom Santa
+271,Christmas Exchange,Christmas\nExchange
+272,Above the Fireplace,Above\nthe Fireplace

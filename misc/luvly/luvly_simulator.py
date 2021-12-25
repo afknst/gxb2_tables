@@ -357,11 +357,11 @@ def res_analyse(_res, _plot=True):
 if __name__ == '__main__':
     # This is the default value
     START = {
-        "RUDDER": 80,  # 0-108
+        "RUDDER": 36 + 30,  # 0-108
         "ADV_RUDDER": 1,  # 0-2
         "TILE": 12,  # 0-20, see Tiles indexing
-        "CORAL": 9,  # 0-400
-        "PEARL": 0,  # 0-400
+        "CORAL": 15,  # 0-400
+        "PEARL": 25,  # 0-400
         "CORAL_LEVELS": (1, 1, 1),  # 1-3 for each
         "CONCH": None,  # None or 1-9, see Conch
     }

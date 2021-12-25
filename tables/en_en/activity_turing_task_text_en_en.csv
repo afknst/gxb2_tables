@@ -2,11 +2,9 @@ id,task_desc
 1,Acquire a 5-star Girl
 2,Graduate 1 Girl to 6-star
 3,Awake 1 Girl to 10-star
-4,Finish a 5-Star Quest in Internship
-5,Finish a 6-Star Quest in Internship
-6,Finish a 7-Star Quest in Internship
+4,Finish a 4-star Internship quest
+5,Finish a 5-Star Quest in Internship quest
+6,Finish a 6-Star Quest in Internship quest
 7,Consume 3 League Tickets
-8,Consume 1M Coins
-9,Consume 1M Exp Juice
-10,Consume 200 Crystal Chisels
-11,Pull Adv. Capsule 10 times
+8,Consume 200 Gems
+9,Pull Adv. Capsule 10 times

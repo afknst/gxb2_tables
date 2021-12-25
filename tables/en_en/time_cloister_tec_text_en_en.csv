@@ -44,7 +44,7 @@ id,name,desc,unlock
 43,Courage · 4,"When you challenge Stages in this World of Time or trigger Challenge Cards in the future, increase your Courage by {1}.","Requirement: Upgrade Courage · 3 to Lv.5, complete achievement ""Pass Stage 8 in this World of Time"" and claim the reward"
 44,Charisma · 4,"When you challenge Stages in this World of Time or trigger Challenge Cards in the future, increase your Charisma by {1}.","Requirement: upgrade ""Courage · 4"" to Lv.5 or upgrade ""Charisma · 3"" to Lv.5"
 45,Knowledge · 4,"When you challenge Stages in this World of Time or trigger Challenge Cards in the future, increase your Knowledge by {1}.","Requirement: upgrade ""Charisma · 4"" to Lv.5 or upgrade ""Knowledge · 3"" to Lv.5"
-46,Speed Reading,"Upgrade to get {1} ""Time Essences"" to speed up the process of reading in Echoes of Time",
+46,Speed Reading,"Upgrade to get {1} ""Time Essences"" to speed up the Observation in Echoes of Time",
 47,Card Unlock · 1,"Unlock Encounter Card ""Points"" that can provide you more points, when triggering Encounter Card ""Points"", have chance to increase the points it provides",
 48,Card Unlock · 2,"Unlock Challenge Card ""Challenge · II"", the upgrade will be activated in the next Observation","Requirement: Reach 1000 Courage, Charisma and Knowledge (The attribute boost provided by your Girls is not included)"
 49,Card Unlock · 3,"Unlock Challenge Card ""Challenge · III"", the upgrade will be activated in the next Observation","Requirement: Reach 2000 Courage, Charisma and Knowledge (The attribute boost provided by your Girls is not included)"
@@ -87,7 +87,7 @@ id,name,desc,unlock
 86,Encounter Card Upgrade · 6,"When triggering Encounter Card ""Sakura"", increase the card level by 1","Requirement: Trigger Encounter Card ""Diana"" 50 times in this World of time for ({1}/50)"
 87,Encounter Card Upgrade · 7,"When triggering Encounter Card ""Hottie"", increase the card level by 1","Requirement: Trigger Encounter Card ""Sakura"" 50 times in this World of time for ({1}/50)"
 88,Stage Unlock,Unlock the next Stage of this World of Time (Need to pass the current Stage before you challenge the next Stage),
-89,Speed Reading,"Upgrade to get 2 ""Time Essences"" to speed up the process of reading in Echoes of Time",
+89,Speed Reading,"Upgrade to get {1} ""Time Essences"" to speed up the Observation in Echoes of Time",
 90,Card Unlock · Points,"Unlock Encounter Card ""Points"" that can provide you more points, when triggering Encounter Card ""Points"", have chance to increase the points it provides",
 91,Card Unlock · Battle 1,"Unlock Challenge Card ""Challenge · II""","Requirement: Reach 1000 Courage, Charisma and Knowledge (The attribute boost provided by your Girls is not included)"
 92,Card Unlock · Battle 2,"Unlock Challenge Card ""Challenge · III"", the upgrade will be activated in the next Observation","Requirement: Reach 2000 Courage, Charisma and Knowledge (The attribute boost provided by your Girls is not included)"

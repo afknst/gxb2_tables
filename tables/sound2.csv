@@ -1,4 +1,6 @@
 id,res,length,loops,is_play_self,delay,type,desc,volume,destroy,pause_bg,is_ogg
+530150901,partner_sound/53015_web/530150901,8,1,0,0,1,0,70,1,0.2,
+530151001,partner_sound/53015_web/530151001,6,1,0,0,1,0,70,1,0.2,
 530151101,partner_sound/53015_web/530151101,5,1,0,0,1,0,70,1,0.2,
 530151102,partner_sound/53015_web/530151102,12,1,0,0,1,0,70,1,0.2,
 530151301,partner_sound/53015_web/530151301,6,1,0,0,1,0,70,1,0.2,

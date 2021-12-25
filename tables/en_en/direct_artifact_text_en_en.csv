@@ -75,3 +75,4 @@ id,artifact_name,artifact_desc
 6730,Reaper's Voice,"Provides additional Energy, enables the owner to trigger her Active skill earlier;\nProvides additional Immunity, grants the owner ability to resist Control Skills."
 6736,Nightshade,"Revives the owner and provides additional Energy when the owner is revived, allows the owner to perform better in battles"
 6742,Tool of Trade,"Provides Attack, Crit Damage and Speed;\nGuarantees its owner earlier moves in a round;\nThe antique will also increase the Crit Damage dealt by the owner according to the owner's Crit attribute after upgrading to Pink quality."
+6748,Snow Chime,Greatly increases the Energy the owner and her allies in front-line receive when they're attacked while increasing their Heal Received and Damage Depletion;\nAllows the owner to take the damage instead of the ally with the lowest HP;\nHeals the owner and the ally with the lowest HP when the owner triggers her Active skill.

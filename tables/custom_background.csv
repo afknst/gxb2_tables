@@ -69,3 +69,4 @@ id,picture,picture_small_size,type,group,name,unlock_type,unlock_value,unlock_de
 68,houyi_summer_scene,houyi_summer_scene_small,1,5,-1,11,1,-1,2#300,,2000068,,,,,
 69,feisina_summer_scene,feisina_summer_scene_small,1,5,-1,11,1,-1,2#300,,2000069,,,,,
 70,login_sunshine1,login_sunshine_small,2,5,-1,11,1,-1,2#300,,2000070,login_sunshine,animation,login_sunshine_bg,-410|640,0|0
+71,login_Halloween2021_scene,login_Halloween2021_small,2,5,-1,11,1,-1,2#300,,2000071,login_Halloween2021,texiao01,login_Halloween2021_bg,-410|641,0|0
