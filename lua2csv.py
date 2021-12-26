@@ -12,6 +12,7 @@ TO_COMBINE = [
     "item",
     "main_plot",
     "monster",
+    "partner",
     "partner_plot",
     "partner_warmup_plot",
     "skill",
@@ -89,6 +90,7 @@ def lua_convert(_file_path, _out=".csv"):
 
 def combine(_t):
     _csv_files = sorted(TABLES.glob(f'./{_t}?.csv'))
+    # print(_t, _csv_files)
     print("[TO COMBINE]", *_csv_files)
     _combined_csv = pd.concat([pd.read_csv(_) for _ in _csv_files])
     _combined_csv.sort_values("id", inplace=True)

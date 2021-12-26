@@ -727,46 +727,46 @@
         652021,
         752014
     ],
-    "Angel-Warrior 2": [
+    "Angel - Warrior 2": [
         1100012
     ],
-    "Angel-Warrior 3": [
+    "Angel - Warrior 3": [
         1100013
     ],
-    "Angel-Mage 1": [
+    "Angel - Mage 1": [
         1100021
     ],
-    "Angel-Mage 2": [
+    "Angel - Mage 2": [
         1100022
     ],
-    "Angel-Mage 3": [
+    "Angel - Mage 3": [
         1100023
     ],
-    "Angel-Ranger 1": [
+    "Angel - Ranger 1": [
         1100031
     ],
-    "Angel-Ranger 2": [
+    "Angel - Ranger 2": [
         1100032
     ],
-    "Angel-Ranger 3": [
+    "Angel - Ranger 3": [
         1100033
     ],
-    "Angel-Assassin 1": [
+    "Angel - Assassin 1": [
         1100041
     ],
-    "Angel-Assassin 2": [
+    "Angel - Assassin 2": [
         1100042
     ],
-    "Angel-Assassin 3": [
+    "Angel - Assassin 3": [
         1100043
     ],
     "Angel-Priest 1": [
         1100051
     ],
-    "Angel-Priest 2": [
+    "Angel - Priest 2": [
         1100052
     ],
-    "Angel-Priest 3": [
+    "Angel - Priest 3": [
         1100053
     ],
     "Vivian": [
@@ -837,7 +837,18 @@
     "Angelica": [
         56008,
         656018,
-        756008
+        756008,
+        2000012,
+        2000013,
+        2000014,
+        2000015,
+        2000016,
+        2000017,
+        2000018,
+        2000019,
+        2000020,
+        2000021,
+        2000022
     ],
     "Kassy": [
         54016,
@@ -868,5 +879,15 @@
         53017,
         653024,
         753017
+    ],
+    "Gwen & Brigit": [
+        56009,
+        656019,
+        756009
+    ],
+    "Maia": [
+        55011,
+        655020,
+        755010
     ]
 }

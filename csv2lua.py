@@ -73,7 +73,7 @@ def print_pets(_lang="en_en", _lua=True):
 
 
 def print_10_girls(_lang="en_en", _lua=True):
-    _P = Path("./tables/partner.csv")
+    _P = Path("./combined_tables/partner.csv")
     _T = pd.read_csv(_P)
     _10_girls = set()
     for _r in range(len(_T)):
@@ -94,6 +94,10 @@ def print_10_girls(_lang="en_en", _lua=True):
         _list = list(_dict.keys())
         for _i in range(len(_list)):
             print(_list[-_i - 1])
+
+    _out = Path(f"./misc/tables/girls_10_{_lang}.json")
+    with open(_out, 'w') as _f:
+        json.dump(_dict, _f, indent=4, ensure_ascii=False, cls=NpEncoder)
     print(len(_dict))
 
 
@@ -270,11 +274,11 @@ def print_tables():
 if __name__ == "__main__":
     # print_pets(_lang="zh_tw", _lua=False)
     # print_lab()
-    # print_equips(_lang="en_en", _lua=True)
-    # print_cores(_lang="zh_tw", _lua=True)
+    print_equips(_lang="en_en", _lua=False)
+    print_cores(_lang="en_en", _lua=False)
     # trans_cores()
     # print(all_girls(_lang="en_en"))
-    # print_10_girls(_lang="en_en", _lua=True)
+    print_10_girls(_lang="en_en", _lua=False)
     # _TEAM = [
     #     "Sivney",
     #     "Nephilim",
@@ -292,4 +296,4 @@ if __name__ == "__main__":
     # print(",\n".join([str(sports(_n)) for _n in _TEAM]))
 
     # print_boxes()
-    print_tables()
+    # print_tables()
