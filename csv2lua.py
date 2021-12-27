@@ -63,13 +63,20 @@ def print_boxes(_lang="zh_tw"):
 def print_pets(_lang="en_en", _lua=True):
     _P = Path(f"./tables/{_lang}/pet_text_{_lang}.csv")
     _T = pd.read_csv(_P)
+    _dict = {}
 
     for _r in range(len(_T)):
+        _dict[_T.iloc[_r][1]] = _T.iloc[_r].id
         if _lua:
             _r_new = f"[\"{_T.iloc[_r][1]}\"] = {_T.iloc[_r].id},"
             print(_r_new)
         else:
             print(_T.iloc[_r][1])
+
+    _out = Path(f"./misc/tables/servants_{_lang}.json")
+    with open(_out, 'w') as _f:
+        json.dump(_dict, _f, indent=4, ensure_ascii=False, cls=NpEncoder)
+    print(len(_dict))
 
 
 def print_10_girls(_lang="en_en", _lua=True):
@@ -272,13 +279,14 @@ def print_tables():
 
 
 if __name__ == "__main__":
-    # print_pets(_lang="zh_tw", _lua=False)
+    # print_pets(_lang="en_en", _lua=False)
+    # print_equips(_lang="en_en", _lua=False)
+    # print_cores(_lang="en_en", _lua=False)
+    # print_10_girls(_lang="en_en", _lua=False)
     # print_lab()
-    print_equips(_lang="en_en", _lua=False)
-    print_cores(_lang="en_en", _lua=False)
     # trans_cores()
     # print(all_girls(_lang="en_en"))
-    print_10_girls(_lang="en_en", _lua=False)
+
     # _TEAM = [
     #     "Sivney",
     #     "Nephilim",
@@ -296,4 +304,6 @@ if __name__ == "__main__":
     # print(",\n".join([str(sports(_n)) for _n in _TEAM]))
 
     # print_boxes()
-    # print_tables()
+
+    # python csv2lua.py > ../gxb2_battle/misc/tables.lua
+    print_tables()
