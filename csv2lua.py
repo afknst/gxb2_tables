@@ -76,7 +76,7 @@ def print_pets(_lang="en_en", _lua=True):
     _out = Path(f"./misc/tables/servants_{_lang}.json")
     with open(_out, 'w') as _f:
         json.dump(_dict, _f, indent=4, ensure_ascii=False, cls=NpEncoder)
-    print(len(_dict))
+    # print(len(_dict))
 
 
 def print_10_girls(_lang="en_en", _lua=True):
@@ -113,7 +113,8 @@ def all_girls(_lang="zh_tw"):
     _T = pd.read_csv(_P)
     _dict = {}
     for _r in range(len(_T)):
-        _k = _T.iloc[_r][1].replace(u'\xa0', ' ')
+        # _k = _T.iloc[_r][1].replace(u'\xa0', ' ')
+        _k = _T.iloc[_r][1]
         if _k in _dict:
             _dict[_k].append(_T.iloc[_r].id)
         else:
@@ -279,10 +280,10 @@ def print_tables():
 
 
 if __name__ == "__main__":
-    # print_pets(_lang="en_en", _lua=False)
-    # print_equips(_lang="en_en", _lua=False)
-    # print_cores(_lang="en_en", _lua=False)
-    # print_10_girls(_lang="en_en", _lua=False)
+    print_pets(_lang="en_en", _lua=False)
+    print_equips(_lang="en_en", _lua=False)
+    print_cores(_lang="en_en", _lua=False)
+    print_10_girls(_lang="en_en", _lua=False)
     # print_lab()
     # trans_cores()
     # print(all_girls(_lang="en_en"))
@@ -306,4 +307,4 @@ if __name__ == "__main__":
     # print_boxes()
 
     # python csv2lua.py > ../gxb2_battle/misc/tables.lua
-    print_tables()
+    # print_tables()
