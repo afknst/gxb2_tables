@@ -58,7 +58,7 @@ gacha_ensure_guarantee,500,-1
 gacha_ensure_partner,55011#655020#755010|56009#656019#756009,-1
 gacha_ensure_partner_handbook,55011#655020#755010|56009#656019#756009,-1
 daily_mail_awards_gacha,2|44,-1
-daily_mail_awards_tree,3|42,-1
+daily_mail_awards_tree,3|31|32,-1
 daily_mail_awards_gamble,18|37|24,-1
 daily_mail_awards_drift,30|6|40|43,-1
 daily_mail_awards_week,18|22,-1
@@ -114,7 +114,7 @@ activity_cv_share_award,2#100,-1
 stage_activity_dropbox,74,-1
 stage_activity_dropbox2,20,-1
 stage_activity_dropbox3,74,-1
-stage_activity_dropbox4,74,-1
+stage_activity_dropbox4,85,-1
 guild_transfer_cd,604800,-1
 activity_guard_boss_hp,100,-1
 activity_guard_item_atk,49#10,-1
@@ -555,7 +555,7 @@ partner_challenge_chess_award2,10,-1
 partner_challenge_chess_hp,50,-1
 partner_challenge_chess_sell,2|7,-1
 entrance_test_slot_sort_type_show_list,9|4|5|6|7|0|1|8,-1
-activity_147_hero_model,fanhexin_pifu02_lihui01|476|-1684|0.7|5101403|7229,-1
+activity_147_hero_model,nuolisi_pifu01_lihui01|502|-1880|0.7|5401702|7233,-1
 school_practise_ticket02_default_2,25,-1
 school_practise_new_help_tips,2,-1
 plot_fade_time,0.5,-1
@@ -951,7 +951,9 @@ activity_christmas_socks_buy,2#20|311#1,-1
 activity_christmas_socks_buy_limit,100,-1
 activity_christmas_socks_insure,100,-1
 activity_newbee_gacha_old_close_time,1640260800,-1
-activity_newbee_gacha_dropbox_new,900005,-1
-activity_newbee_gacha_dropbox_5_new,900006,-1
+activity_newbee_gacha_dropbox_new,900007,-1
+activity_newbee_gacha_dropbox_5_new,900008,-1
 activity_newbee_gacha_dropbox_new_time,1640908800,-1
 activity_christmas_socks_max,300,-1
+activity_newbee_gacha_jump_new,55010|52017|53017|51016|54016|56008,-1
+friend_apply_limit,50,-1

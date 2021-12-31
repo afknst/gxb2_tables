@@ -1682,7 +1682,7 @@ id,name,brief,desc
 79,Support Ticket,Event Material,Exclusive items that can be used to vote in Winning Heart.
 80,Support Ticket,Event Material,Exclusive items that can be used to vote in Winning Heart.
 81,Lucky Gift,Resource Box,Each Contains 100K Coins and 70K Exp Juice
-82,Lovely Gift,Resource Box,"You can get one of the following rewards randomly by opening this box(The chance for each gift is equal)：「Adv. Capsule Coins x1, Seal x1, Super Slot Ticket x1, 5-star Girls Shard x10, Orange Antique Shard x5」"
+82,Lovely Gift,Resource Box,"You can get one of the following rewards randomly by opening this box(The chance for each gift is equal)：「Adv. Capsule Coin x1, Seal x1, Super Slot Ticket x1, 5-star Girls Shard x10, Orange Antique Shard x5」"
 7075,Winter Wonder,Skins,Winter Wonder skin of Annie
 27075,Winter Wonder,Skins,Winter Wonder skin of Annie
 20001033,2020 Exclusive avatar,Special Avatars,2020 Exclusive avatar
@@ -4747,3 +4747,9 @@ This book was only an experimental product that was created with well-known stor
 311,Treetopper,Event Material,"Event material, used in event ""Christmas Exchange"""
 7232,Xmas Hand Out,Skins,Xmas Hand Out skin of Gwen & Brigit
 27232,Xmas Hand Out,Skins,Xmas Hand Out skin of Gwen & Brigit
+7233,Warm Snow,Skins,Warm Snow skin of Aurora
+27233,Warm Snow,Skins,Warm Snow skin of Aurora
+7234,Fortune Prayer,Skins,Fortune Prayer skin of Giana
+27234,Fortune Prayer,Skins,Fortune Prayer skin of Giana
+312,2022 Lucky Gift,Resource Box,"You can get one of the following rewards randomly by opening this box: 「Coins*388k, Exp Juice*388k, Lunch Box*388, Crystal Chisel*388, Servant Cookies*388, Spirit Cookie*66」"
+313,2022 Lovely Gift,Resource Box,"You can get one of the following rewards randomly by opening this box(The chance for each gift is equal)：「Adv. Capsule Coins x1, Seal x1, Super Slot Ticket x1, 5-star Girls Shard x10, Afterglow x50」"

@@ -1,0 +1,7 @@
+id,type,mark,obj_id,no_click,record,mask_type,offset,mask_icon,icon_offset,obj_scale,unknown_12,is_transition,is_black,dialog_type,position,flip_x,finger_flip,sound,is_dragonbones,window_name,delay_frame,hand_pos,hand_type
+1,1,,-1,1,0,,,,,,,,,1,0|0,,,0,0,main_window,,,
+2,1,,btnStory,1,0,2,,buttoncrop_2,0|0,,,,,1,0|0,1,,0,0,main_window,,,
+3,1,,MainwinBottomBtn_3,0,0,0,,,0|0,,,,,1,0|0,1,,0,0,main_window,,,
+101,2,,-1,1,0,,,,,,,,,1,0|0,,,0,0,main_window,,,
+102,2,,btnStory,1,0,2,,buttoncrop_2,0|0,,,,,1,0|0,1,,0,0,main_window,,,
+103,2,,MainwinBottomBtn_3,0,0,0,,,0|0,,,,,1,0|0,1,,0,0,main_window,,,

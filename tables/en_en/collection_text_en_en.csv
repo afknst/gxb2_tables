@@ -190,26 +190,26 @@ id,name,desc
 31004,Gold Avatar,Third Place of Elite League
 31005,Silver Avatar,No.4-10 of Elite League
 31006,Bronze Avatar,No.11-20 of Elite League
-31007,Halloween Avatar,Exclusives
-31008,Jigsaw Special Avatar,Exclusives
-31009,New Year Avatar,Exclusives
-31010,Snow Exclusive,Exclusives
-31011,Limited Time Avatar,Exclusives
-31012,Spring Festival Exclusive avatar,Exclusives
+31007,Halloween Avatar,"Exclusives, League Store"
+31008,Jigsaw Special Avatar,"Exclusives, League Store"
+31009,New Year Avatar,"Exclusives, League Store"
+31010,Snow Exclusive,"Exclusives, League Store"
+31011,Limited Time Avatar,"Exclusives, League Store"
+31012,Spring Festival Exclusive avatar,"Exclusives, League Store"
 31013,“Miss Fortune”: Unlucky,Trophies
 31014,“Miss Fortune”: Poor,Trophies
 31015,“Miss Fortune”: Cursed,Trophies
-31016,Spring Exclusive Avatar,Exclusives
-31017,Oath Avatar,Exclusives
-31018,Easter Avatar,Exclusives
-31019,Mother's Day Avatar,Exclusives
-31020,Opening Ceremony Avatar,Exclusives
-31021,Dragon Boat Festival Avatar,Exclusives
-31022,Beach Game Avatar,Exclusives
+31016,Spring Exclusive Avatar,"Exclusives, League Store"
+31017,Oath Avatar,"Exclusives, League Store"
+31018,Easter Avatar,"Exclusives, League Store"
+31019,Mother's Day Avatar,"Exclusives, League Store"
+31020,Opening Ceremony Avatar,"Exclusives, League Store"
+31021,Dragon Boat Festival Avatar,"Exclusives, League Store"
+31022,Beach Game Avatar,"Exclusives, League Store"
 31023,Anniversary Exclusive Avatar,Exclusives
 31024,Summer Ice Cream Avatar,Exclusives
 31025,Sword of Determination,Exclusives
-31026,Band Performance,Exclusives
+31026,Band Performance,"Exclusives, League Store"
 31027,Maple Leaf,Exclusives
 31028,Black Cat,Exclusives
 31029,2020 Exclusive avatar,Exclusives
@@ -219,11 +219,11 @@ id,name,desc
 32003,Guild Battle Semi-Finals Avatar Frame,Guild War Top 4
 32004,Guild Battle Final Eight Avatar Frame,Guild War Top 8
 32005,Guild Battle Final Sixteenth Avatar Frame,Guild War Top 16
-32006,True Oath,Exclusives
-32008,A Cool Summer,Exclusives
-32009,Pool Party,Exclusives
-32010,Band Performance,Exclusives
-32011,Senior Scholar,Exclusives
+32006,True Oath,"Exclusives, League Store"
+32008,A Cool Summer,"Exclusives, League Store"
+32009,Pool Party,"Exclusives, League Store"
+32010,Band Performance,"Exclusives, League Store"
+32011,Senior Scholar,"Exclusives, League Store"
 32012,Ultimate League Top 64,Reach Top 64 in Ultimate League
 32013,Ultimate League Top 8,Reach Top 8 in Ultimate League
 32014,Ultimate League Top 4,Reach Top 4 in Ultimate League
@@ -233,7 +233,7 @@ id,name,desc
 32018,Ultimate League Champion,Become the Champion in Ultimate League for 4 times
 32019,Ultimate League Champion,Become the Champion in Ultimate League for 5 times
 32020,Turin's Keepsake,Turin's Character Challenge
-32021,Love Bubble,Exclusives
+32021,Love Bubble,"Exclusives, League Store"
 32022,Splendid,Media Event
 32023,Gold Medal Athlete,Exclusives
 32024,Silver Medal Athlete,Exclusives
@@ -793,7 +793,7 @@ id,name,desc
 50062,Dorm Building (Inside),Purchase with Coins
 50063,Secret Lab,Purchase with Coins
 50064,Training Field,Purchase with Coins
-50065,Opening Ceremony (Outside)  ,Purchase with Coins
+50065,Opening Ceremony (Outside),Purchase with Coins
 31056,Limit: Frexie & Angelica,Exclusives
 31057,3rd Anniversary Avatar,Exclusives
 10184,Evening Gown,Exclusives
@@ -940,3 +940,5 @@ id,name,desc
 40290,Winter Telephone Box,Fantasy Book
 10232,Xmas Hand Out,Exclusives
 50071,Halloween Party,Purchase with Gems
+10233,Warm Snow,Exclusives
+10234,Fortune Prayer,Exclusives

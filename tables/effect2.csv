@@ -1,4 +1,10 @@
 id,type,buff,num,round,prob
+1420004,1420,dressKnowledgefree,60,5,1
+1420005,1420,dressKnowledgefree,75,5,1
+1420006,1420,dressKnowledgefree,90,5,1
+1420007,1420,dressKnowledgefree,105,5,1
+1420008,1420,dressKnowledgefree,120,5,1
+1420009,1420,dressKnowledgefree,135,5,1
 1420010,1420,dressKnowledgefree,150,5,1
 1420011,1420,dressKnowledgefree,75,5,1
 1420012,1420,dressKnowledgefree,150,5,1
@@ -196,3 +202,7 @@ id,type,buff,num,round,prob
 1465001,1465,snowWindMix,0.1|0.1|0.1,99,1
 1465002,1465,snowWindMix,0.15|0.15|0.15,99,1
 1465003,1465,snowWindMix,0.2|0.2|0.2,99,1
+1466001,1466,harmShareOnce,1,2,1
+1467001,1467,attrBuffClear,,0,0.3
+1467002,1467,attrBuffClear,,0,0.5
+1467003,1467,attrBuffClear,,0,1

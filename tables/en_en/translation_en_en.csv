@@ -2865,7 +2865,7 @@ SETTING_ASSISTANT,On Duty
 ENEMY_PREVIEW,Enemy Preview
 BOSS_LEVEL_SWITCH,Change the level of Boss
 BEGIN,Change
-MY_ASSISTANT,My Girl on Duty
+MY_ASSISTANT,My Girl
 FRIEND_ASSISTANT,Allies
 THIS_WEEK_ASSIST_NUM,Supported Battles
 SELECT_ONE_ASSISTANT_IN,Please select your allies
@@ -3502,7 +3502,7 @@ LIMIT_BUY_TIMES,Purchase limit: {1}
 ENTRANCE_TEST_HELP_DES_1_1_NONEWGIRL,The Entrance Exam for the new semester has begun!\nIt's a perfect chance for you to test out the new Girls on campus!
 GUILD_KICK_TIPS,Are you sure to remove this player from your Guild?
 ACADEMY_ASSESSMENT_WINDOW_HELP_NEW_2,"1. The new version of the feature: House Exams is updated. It now will be divided into seasons that are made up of an exam period (13 days) and a result display period (1 day).|2. The Exams of 6 Houses will all be available during the exam period. But only the girls in the corresponding faction can be used in the exams. You will have your Exam progress reset and receive rewards according to your progress in this season(before the reset) in the result display period.|3. The Exam for each House has 100 stages, the enemies will be different in each season. You will be able to check the detail of the enemy lineups of each stage by tapping the button in the top right corner of the stage.|4. The Admission Tickets will be refreshed to 25 each day, you can purchase more Admission Tickets with Gems.|5. You will get an additional reward for the first time you pass a stage. This reward won't be refreshed by seasons. (But if you have acquired the reward in the old version of this feature, you will still be able to acquire it again for once in the new version)|6. You will get rewards for passing a stage. You will also be able to raid the passed levels with Certificates for additional rewards.|7. The Certificate you hold will be refreshed to 2 each day. And you will increase your daily Certificate refresh amount to 3/4/5 after passing Stage 9/18/30 in the exam of any one of the 6 Houses and get 1 additional Certificate on the day you achieve this.|8. You are able to purchase 10 additional Certificates with Gems (The price of Certificates will increase gradually as you buy more in a day) each day. (Certificate you have will also be refreshed so please use them up in time).|9. The daily refresh time for Admission Tickets and Certificates will be at 0:00 （UTC/GMT 0) every day.|10. You will get Exam Scores for passing (not raiding) stages. You can get 1 Exam Score for passing Stage 1-20, 2 Exam Scores for passing Stage 21-40, 4 Exam Scores for passing Stage 41-60, 6 Exam Scores for passing Stage 61-80 and 8 Exam Scores for passing Stage 81-100. You will get different rewards on the result display days according to the total Exam Scores you get|11. The player who gets the highest score in the exam of a House will also get a frame that lasts for 14 days from that house. If multiple players get the same Exam Score in 1 season, their position in the ranking list will be arranged according to the time they pass the test. 10 players at most can get the frame in the exam of a House this way(Which means they will also need to get the same highest scores instead of just being in Top 10 of the ranking list). The rewards will be issued via Mail."
-GACHA_GUARANTEE_TEXT,"1. During the event, all chances to obtain 5-star girls will be [c][DE512B]doubled[-][/c].|2. For every [c][DE512B]100[-][/c] Advanced Capsules drawn, an additional increased rate to obtain the new Girl will be added on top of the doubled rate.|3. Once [c][DE512B]500[-][/c] draws have been reached, [c][DE512B]Gwen & Brigit[-][/c] or </font>或[c][DE512B]Maia[-][/c] is guaranteed to be drawn. Thereafter, your progress will reset."
+GACHA_GUARANTEE_TEXT,"1. During the event, all chances to obtain 5-star girls will be [c][DE512B]doubled[-][/c].|2. For every [c][DE512B]100[-][/c] Advanced Capsules drawn, an additional increased rate to obtain the new Girl will be added on top of the doubled rate.|3. Once [c][DE512B]500[-][/c] draws have been reached, [c][DE512B]Gwen & Brigit[-][/c] or [c][DE512B]Maia[-][/c] is guaranteed to be drawn. Thereafter, your progress will reset."
 GACHA_GUARANTEE_UP,Rate UP
 ACTIVITY_ICE_SECRET_BOSS_TEXT01,Chances:{1}
 ACTIVITY_ICE_SECRET_BOSS_TEXT02,Not enough Challenge Chance!
@@ -5182,7 +5182,7 @@ NEW_ARENA_ALL_SERVER_TEXT_21,Countdown:
 NEW_ARENA_ALL_SERVER_TEXT_22,Champion List
 NEW_ARENA_ALL_SERVER_TEXT_23,Champion
 NEW_ARENA_ALL_SERVER_TEXT_24,Single Elimination hasn't begun!
-NEW_ARENA_ALL_SERVER_TEXT_25,Countdown
+NEW_ARENA_ALL_SERVER_TEXT_25,Starts in
 WARMUP_ARENA_TASK_INFO_7,Challenge Reward
 ACTIVITY_TRICKORTREAT_BUTTON01,Start
 ACTIVITY_TRICKORTREAT_BUTTON02,Missions
@@ -5509,7 +5509,7 @@ ARCTIC_EXPEDITION_GROUP_1_notNL,Discipline Committee
 ARCTIC_EXPEDITION_GROUP_2_notNL,D.E.F
 ARCTIC_EXPEDITION_GROUP_3_notNL,Student Union
 ACTIVITY_SOCKS_TASK_TEXT,Complete the tasks to collect the lost Christmas socks. Hang the Christmas Socks by the bed and you might be visited by Santa Claus!
-ACTIVITY_SOCKS_CHANGE_HELP,"1. You can exchange your Christmas gifts during the event!|2. After selecting the item or Girl (the Girl you give out needs to be a 5-star Lv. 1 Girl) you want to give out and the gift you want to receive, you can complete the gift exchange by consuming a certain amount of ""Treetoppers"". (The amount of ""Treetoppers"" you will need to consume might be different depending on the gift you want to exchange)|3. The gift you give out will be deducted from Bag after the exchange is completed, but in Collection, the item will still be shown as unlocked.|4 You can obtain ""Treetoppers"" from event ""A Visit from Santa"" or purchase with Gems (You can purchase 100 ""Treetoppers"" with Gems at most)|5. After the event ends, the remaining ""Treetoppers"" will automatically be recycled into Coins at a rate of 5k per “Treetopper”."
+ACTIVITY_SOCKS_CHANGE_HELP,"1. You can exchange your Christmas gifts during the event!|2. After selecting the item or Girl (the Girl you give out needs to be a 5-star Lv. 1 Girl) you want to give out and the gift you want to receive, you can complete the gift exchange by consuming a certain amount of ""Treetoppers"". (The amount of ""Treetoppers"" you will need to consume might be different depending on the gift you want to give out and exchange)|3. The gift you give out will be deducted from Bag after the exchange is completed, but in Collection, the item will still be shown as unlocked.|4 You can obtain ""Treetoppers"" from event ""A Visit from Santa"" or purchase with Gems (You can purchase 100 ""Treetoppers"" with Gems at most)|5. After the event ends, the remaining ""Treetoppers"" will automatically be recycled into Coins at a rate of 5k per “Treetopper”."
 ACTIVITY_SOCKS_AWARD_TEXT,You can get additional rewards after consuming a certain number of Christmas Socks!
 ACTIVITY_SOCKS_GAMBLE_HELP,"1. Santa Claus has arrived!|2. You can get a reward and 1 Treetopper from Santa Claus for each “Christmas Sock” you hang. Your next reward will be upgraded after claiming 1 reward from Santa Claus. (The reward you can get can be upgraded to Lv.3 at most)|3. You can get additional rewards after the total level of the rewards you receive from Santa Claus reaches certain numbers.|4. You can get additional rewards after using a certain number of ""Christmas Socks"".|5. You can obtain ""Christmas Socks"" from Xmas Sock Hunt, Daily Mail, Christmas Gifts, Jingle Bell Pack, Mega Value Pack, Special Gift Pack, and Special Skin Pack.|6. Once the event ends, the remaining ""Christmas Socks"" will automatically be recycled into Coins at a rate of 25k per “Christmas Sock”."
 ACTIVITY_SOCKS_GAMBLE_LEVEL,Total level: {1}
@@ -5541,3 +5541,9 @@ ACTIVITY_SOCKS_CHANGE_TEXT10,You need to select the exchange material and the ex
 ACTIVITY_SOCKS_CHANGE_TEXT11,Please select the exchange material
 A_AND_B,{1} and {2}
 ACTIVITY_SOCKS_CHANGE_TEXT12,Please select the exchange reward
+BAG_NUM_LIMIT_TEXT1,"The {1} you have has reached the capacity limit, please use them on time"
+BAG_NUM_LIMIT_TEXT2,The number of {1} that you own will soon reach or has already reached the limit. Please use them in time.
+ALTAR_INFO_5,This Girl cannot be reversed
+ALTAR_INFO_6,This Girl doesn't need to be reversed
+GAMBLE_JUMP_CARTOON,Don't play capsule animation again
+FRIEND_APPLY_LIMIT_TIPS,"The number of friend requests has reached the limit, please check it out"

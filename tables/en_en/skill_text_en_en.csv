@@ -6796,22 +6796,22 @@ Control effect, the Taunted target will compulsively target the Mika that afflic
 65202212,Mika,Terra Guardian,"Mika is able to form crystallized shields from earth and stone, increasing her own Armor by 30%, HP increases by 40%, Attack increases by 25%, Control Immunity increases by 30% and Energy increases by 50 at the start of battle."
 75201502,Mika,Terra Guardian,"Mika is able to form crystallized shields from earth and stone, increasing her own Armor by 30%, HP increases by 40%, Attack increases by 25%, Control Immunity increases by 30% and Energy increases by 50 at the start of battle."
 5201503,Mika,Vigilance,"
-During battle, Mika often recalls those tragic memories, where her vigilance transpired from pain. When dealing Basic Attack, restores own (50% of Attack) HP for 2 rounds; when attacked, steals 10% Attack from the attacker for 2 rounds and has a 10% chance to [c][e28002]Taunt[-][/c] the attacker for 2 rounds.
+During battle, Mika often recalls those tragic memories, where her vigilance transpired from pain. When dealing Basic Attack, restores own (50% of Attack) HP for 2 rounds; when attacked by Basic Attacks or Active Skills, steals 10% Attack from the attacker for 2 rounds and has a 10% chance to [c][e28002]Taunt[-][/c] the attacker for 2 rounds.
 
 [c][e28002]Taunt:[-][/c]
 Control effect, the Taunted target will compulsively target the Mika that afflicted [c][e28002]Taunt[-][/c] when releasing their Active Skill, when dealing a Basic Attack, or when triggering a Passive Skill that affects the enemies."
 65202203,Mika,Vigilance,"
-During battle, Mika often recalls those tragic memories, where her vigilance transpired from pain. When dealing Basic Attack, restores own (100% of Attack) HP for 2 rounds; when attacked, steals 15% Attack from the attacker for 2 rounds and has a 20% chance to [c][e28002]Taunt[-][/c] the attacker for 2 rounds.
+During battle, Mika often recalls those tragic memories, where her vigilance transpired from pain. When dealing Basic Attack, restores own (100% of Attack) HP for 2 rounds; when attacked by Basic Attacks or Active Skills, steals 15% Attack from the attacker for 2 rounds and has a 20% chance to [c][e28002]Taunt[-][/c] the attacker for 2 rounds.
 
 [c][e28002]Taunt:[-][/c]
 Control effect, the Taunted target will compulsively target the Mika that afflicted [c][e28002]Taunt[-][/c] when releasing their Active Skill, when dealing a Basic Attack, or when triggering a Passive Skill that affects the enemies."
 65202213,Mika,Vigilance,"
-During battle, Mika often recalls those tragic memories, where her vigilance transpired from pain. When dealing Basic Attack, restores own (150% of Attack) HP for 2 rounds; when attacked, steals 20% Attack from the attacker for 2 rounds and has a 30% chance to [c][e28002]Taunt[-][/c] the attacker for 2 rounds.
+During battle, Mika often recalls those tragic memories, where her vigilance transpired from pain. When dealing Basic Attack, restores own (150% of Attack) HP for 2 rounds; when attacked by Basic Attacks or Active Skills, steals 20% Attack from the attacker for 2 rounds and has a 30% chance to [c][e28002]Taunt[-][/c] the attacker for 2 rounds.
 
 [c][e28002]Taunt:[-][/c]
 Control effect, the Taunted target will compulsively target the Mika that afflicted [c][e28002]Taunt[-][/c] when releasing their Active Skill, when dealing a Basic Attack, or when triggering a Passive Skill that affects the enemies."
 75201503,Mika,Vigilance,"
-During battle, Mika often recalls those tragic memories, where her vigilance transpired from pain. When dealing Basic Attack, restores own (150% of Attack) HP for 2 rounds; when attacked, steals 20% Attack from the attacker for 2 rounds and has a 30% chance to [c][e28002]Taunt[-][/c] the attacker for 2 rounds.
+During battle, Mika often recalls those tragic memories, where her vigilance transpired from pain. When dealing Basic Attack, restores own (150% of Attack) HP for 2 rounds; when attacked by Basic Attacks or Active Skills, steals 20% Attack from the attacker for 2 rounds and has a 30% chance to [c][e28002]Taunt[-][/c] the attacker for 2 rounds.
 
 [c][e28002]Taunt:[-][/c]
 Control effect, the Taunted target will compulsively target the Mika that afflicted [c][e28002]Taunt[-][/c] when releasing their Active Skill, when dealing a Basic Attack, or when triggering a Passive Skill that affects the enemies."
@@ -7653,27 +7653,27 @@ Control effect, the Taunted target will compulsively target the Mika that afflic
 752015024,Mika,Terra Guardian,"Mika is able to form crystallized shields from earth and stone, increasing her own Armor by 30%, HP increases by 42.5%, Attack increases by 27.5%, Control Immunity increases by 30% and Energy increases by 50 at the start of battle."
 752015025,Mika,Terra Guardian,"Mika is able to form crystallized shields from earth and stone, increasing her own Armor by 30%, HP increases by 43%, Attack increases by 28%, Control Immunity increases by 30% and Energy increases by 50 at the start of battle."
 752015031,Mika,Vigilance,"
-During battle, Mika often recalls those tragic memories, where her vigilance transpired from pain. When dealing Basic Attack, restores own (153% of Attack) HP for 2 rounds; when attacked, steals 20% Attack from the attacker for 2 rounds and has a 30% chance to [c][e28002]Taunt[-][/c] the attacker for 2 rounds.
+During battle, Mika often recalls those tragic memories, where her vigilance transpired from pain. When dealing Basic Attack, restores own (153% of Attack) HP for 2 rounds; when attacked by Basic Attacks or Active Skills, steals 20% Attack from the attacker for 2 rounds and has a 30% chance to [c][e28002]Taunt[-][/c] the attacker for 2 rounds.
 
 [c][e28002]Taunt:[-][/c]
 Control effect, the Taunted target will compulsively target the Mika that afflicted [c][e28002]Taunt[-][/c] when releasing their Active Skill, when dealing a Basic Attack, or when triggering a Passive Skill that affects the enemies."
 752015032,Mika,Vigilance,"
-During battle, Mika often recalls those tragic memories, where her vigilance transpired from pain. When dealing Basic Attack, restores own (156% of Attack) HP for 2 rounds; when attacked, steals 20% Attack from the attacker for 2 rounds and has a 30% chance to [c][e28002]Taunt[-][/c] the attacker for 2 rounds.
+During battle, Mika often recalls those tragic memories, where her vigilance transpired from pain. When dealing Basic Attack, restores own (156% of Attack) HP for 2 rounds; when attacked by Basic Attacks or Active Skills, steals 20% Attack from the attacker for 2 rounds and has a 30% chance to [c][e28002]Taunt[-][/c] the attacker for 2 rounds.
 
 [c][e28002]Taunt:[-][/c]
 Control effect, the Taunted target will compulsively target the Mika that afflicted [c][e28002]Taunt[-][/c] when releasing their Active Skill, when dealing a Basic Attack, or when triggering a Passive Skill that affects the enemies."
 752015033,Mika,Vigilance,"
-During battle, Mika often recalls those tragic memories, where her vigilance transpired from pain. When dealing Basic Attack, restores own (159% of Attack) HP for 2 rounds; when attacked, steals 20% Attack from the attacker for 2 rounds and has a 30% chance to [c][e28002]Taunt[-][/c] the attacker for 2 rounds.
+During battle, Mika often recalls those tragic memories, where her vigilance transpired from pain. When dealing Basic Attack, restores own (159% of Attack) HP for 2 rounds; when attacked by Basic Attacks or Active Skills, steals 20% Attack from the attacker for 2 rounds and has a 30% chance to [c][e28002]Taunt[-][/c] the attacker for 2 rounds.
 
 [c][e28002]Taunt:[-][/c]
 Control effect, the Taunted target will compulsively target the Mika that afflicted [c][e28002]Taunt[-][/c] when releasing their Active Skill, when dealing a Basic Attack, or when triggering a Passive Skill that affects the enemies."
 752015034,Mika,Vigilance,"
-During battle, Mika often recalls those tragic memories, where her vigilance transpired from pain. When dealing Basic Attack, restores own (162% of Attack) HP for 2 rounds; when attacked, steals 20% Attack from the attacker for 2 rounds and has a 30% chance to [c][e28002]Taunt[-][/c] the attacker for 2 rounds.
+During battle, Mika often recalls those tragic memories, where her vigilance transpired from pain. When dealing Basic Attack, restores own (162% of Attack) HP for 2 rounds; when attacked by Basic Attacks or Active Skills, steals 20% Attack from the attacker for 2 rounds and has a 30% chance to [c][e28002]Taunt[-][/c] the attacker for 2 rounds.
 
 [c][e28002]Taunt:[-][/c]
 Control effect, the Taunted target will compulsively target the Mika that afflicted [c][e28002]Taunt[-][/c] when releasing their Active Skill, when dealing a Basic Attack, or when triggering a Passive Skill that affects the enemies."
 752015035,Mika,Vigilance,"
-During battle, Mika often recalls those tragic memories, where her vigilance transpired from pain. When dealing Basic Attack, restores own (165% of Attack) HP for 2 rounds; when attacked, steals 22% Attack from the attacker for 2 rounds and has a 35% chance to [c][e28002]Taunt[-][/c] the attacker for 2 rounds.
+During battle, Mika often recalls those tragic memories, where her vigilance transpired from pain. When dealing Basic Attack, restores own (165% of Attack) HP for 2 rounds; when attacked by Basic Attacks or Active Skills, steals 22% Attack from the attacker for 2 rounds and has a 35% chance to [c][e28002]Taunt[-][/c] the attacker for 2 rounds.
 
 [c][e28002]Taunt:[-][/c]
 Control effect, the Taunted target will compulsively target the Mika that afflicted [c][e28002]Taunt[-][/c] when releasing their Active Skill, when dealing a Basic Attack, or when triggering a Passive Skill that affects the enemies."
@@ -9978,7 +9978,7 @@ For each stack of [c][e28002]Gilded Butterflies[-][/c] that the target has, it w
 When the Gwen & Brigit who afflicted [c][e28002]Gilded Butterflies[-][/c] is attacked by the target afflicted by this effect, her Front-line allies will help take 30% of damage dealt and split the damage taken between themselves. (Damage that the Frontline allies take for her will be reduced by their own Damage Depletion attribute. When there are no allies in the Front-line to take damage for her, this effect will not be activated.)
 [c][e28002]Harbingers of Death:[-][/c]
 A Skill Effect, cannot be stacked. 
-Deals (1000% of Attack) fixed damage that will neither Crit nor be affected by attributes or effects that increase or reduce damage to the target. 
+Deals (1200% of Attack) fixed damage that will neither Crit nor be affected by attributes or effects that increase or reduce damage to the target. 
 If the target isn’t defeated after taking this damage, Gwen & Brigit will deal a Basic Attack."
 5600902,Gwen & Brigit,Eternal Companions,"We are inseparable.\n\nIncreases Gwen & Brigit's Attack by 20%, Crit by 10%, Holy Damage by 40%, Control Immunity by 10%, and Speed by 20."
 65601902,Gwen & Brigit,Eternal Companions,"We are inseparable.\n\nIncreases Gwen & Brigit's Attack by 30%, Crit by 20%, Holy Damage by 60%, Control Immunity by 20%, and Speed by 40."
@@ -10319,7 +10319,7 @@ A Mark Effect, can be stacked.
 75501003,Maia,Disciple Delirium,"
 Her maniac worshippers carry out her orders before her orders reach them.
 
-Basic Attack changes to deal (600% of Attack) damage to 2 enemies with highest Attack attribute, lowers all damage they deal by 20% (can be lowered for at most 40%), and afflict 1 stack of [c][e28002]Malediction[-][/c] that lasts for 3 rounds to the targets.
+Basic Attack changes to deal (600% of Attack) damage to 2 enemies with highest Attack attribute, lower all damage they deal by 20% (can be lowered for at most 40%), and afflict 1 stack of [c][e28002]Malediction[-][/c] that lasts for 3 rounds to the targets.
 When attacked by Basic Attacks or Active Skills, Maia steals 10 Energy from the attacker and heals herself for (5% of Maia\'s Maximum HP) HP (She will only heal herself due to this effect for at most 6 times in a round).
 
 [c][e28002]Malediction:[-][/c]
@@ -10449,7 +10449,7 @@ A Mark Effect, can be stacked.
 755010035,Maia,Disciple Delirium,"
 Her maniac worshippers carry out her orders before her orders reach them.
 
-Basic Attack changes to deal (900% of Attack) damage to 2 enemies with highest Attack attribute, lowers all damage they deal by 22% (can be lowered for at most 40%), and afflict 1 stack of [c][e28002]Malediction[-][/c] that lasts for 3 rounds to the targets.
+Basic Attack changes to deal (900% of Attack) damage to 2 enemies with highest Attack attribute, lower all damage they deal by 22% (can be lowered for at most 40%), and afflict 1 stack of [c][e28002]Malediction[-][/c] that lasts for 3 rounds to the targets.
 When attacked by Basic Attacks or Active Skills, Maia steals 10 Energy from the attacker and heals herself for (8% of Maia\'s Maximum HP) HP (She will only heal herself due to this effect for at most 6 times in a round).
 
 [c][e28002]Malediction:[-][/c]
@@ -10542,7 +10542,7 @@ A control effect. During this effect, girls affected will not be able to deal Ba
 674801,Snow Chime,Antique Skill,The owner receives 100% more Energy when she is attacked.
 6748101,Snow Chime,Antique Skill,"
 When the battle starts, casts [c][e28002]Blessings of Snow[-][/c] to the owner and Frontline allies (if the owner is positioned in the Frontline, then the boosts the owner receive will be doubled).
-When the ally with the lowest HP takes damage from any source for the first time in a round, the owner of this Antique will take the damage for the aforementioned ally. This effect activates once per round.
+When the ally with the lowest HP takes damage from Basic Attacks or Active Skills for the first time in a round, the owner of this Antique will take the damage for the aforementioned ally. This effect activates once per round.
 After the owner of this Antique releases their Active Skill, heals the owner and the ally with lowest HP for (10% of the target\'s Maximum HP) HP respectively.
 
 [c][e28002]Blessings of Snow: [-][/c]
@@ -10550,7 +10550,7 @@ A Skill Effect, cannot be stacked.
 Increases Heal Received by 10%, Damage Depletion by 10%, and Energy when attacked by 10%."
 6748201,Snow Chime,Antique Skill,"
 When the battle starts, casts [c][e28002]Blessings of Snow[-][/c] to the owner and Frontline allies (if the owner is positioned in the Frontline, then the boosts the owner receive will be doubled).
-When the ally with the lowest HP takes damage from any source for the first time in a round, the owner of this Antique will take the damage for the aforementioned ally. This effect activates once per round.
+When the ally with the lowest HP takes damage from Basic Attacks or Active Skills for the first time in a round, the owner of this Antique will take the damage for the aforementioned ally. This effect activates once per round.
 After the owner of this Antique releases their Active Skill, heals the owner and the ally with lowest HP for (15% of the target\'s Maximum HP) HP respectively.
 
 [c][e28002]Blessings of Snow: [-][/c]
@@ -10558,7 +10558,7 @@ A Skill Effect, cannot be stacked.
 Increases Heal Received by 15%, Damage Depletion by 15%, and Energy when attacked by 10%."
 6748301,Snow Chime,Antique Skill,"
 When the battle starts, casts [c][e28002]Blessings of Snow[-][/c] to the owner and Frontline allies (if the owner is positioned in the Frontline, then the boosts the owner receive will be doubled).
-When the ally with the lowest HP takes damage from any source for the first time in a round, the owner of this Antique will take the damage for the aforementioned ally. This effect activates once per round.
+When the ally with the lowest HP takes damage from Basic Attacks or Active Skills for the first time in a round, the owner of this Antique will take the damage for the aforementioned ally. This effect activates once per round.
 After the owner of this Antique releases their Active Skill, heals the owner and the ally with lowest HP for (20% of the target\'s Maximum HP) HP respectively.
 
 [c][e28002]Blessings of Snow: [-][/c]

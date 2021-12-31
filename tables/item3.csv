@@ -1,4 +1,10 @@
 id,name,brief,desc,name1,type,type_config,qlt,group,is_economy,stack_limit,level,icon,light_effect,gift_id,is_auto_open,equip,pub_scroll_type,partner_cost,treasure_cost,get_ways,go_window,getway_item,dropbox_show,is_sell,sell_price,summon_id,show_in_bag,show_bag_type,filter_type,show_in_forge,skin_id,collection_id,para,avatar_frame_effect,effect_mask,dress_id
+1140019,-1,-1,,-1,22,1002,2,,0,,,icon_1140019,,,,,,,,,,,,,,,,,,,,40275,,,,
+1140020,-1,-1,,-1,22,1002,2,,0,,,icon_1140020,,,,,,,,,,,,,,,,,,,,40276,,,,
+1140021,-1,-1,,-1,22,1002,2,,0,,,icon_1140021,,,,,,,,,,,,,,,,,,,,40277,,,,
+1140022,-1,-1,,-1,22,1002,2,,0,,,icon_1140022,,,,,,,,,,,,,,,,,,,,40278,,,,
+1140023,-1,-1,,-1,22,1002,2,,0,,,icon_1140023,,,,,,,,,,,,,,,,,,,,40279,,,,
+1140024,-1,-1,,-1,22,1002,2,,0,,,icon_1140024,,,,,,,,,,,,,,,,,,,,40280,,,,
 1140025,-1,-1,,-1,22,1002,2,,0,,,icon_1140025,,,,,,,,,,,,,,,,,,,,40281,,,,
 1140026,-1,-1,,-1,22,1002,2,,0,,,icon_1140026,,,,,,,,,,,,,,,,,,,,40282,,,,
 1140027,-1,-1,,-1,22,1002,2,,0,,,icon_1140027,,,,,,,,,,,,,,,,,,,,40283,,,,
