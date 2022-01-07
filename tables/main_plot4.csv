@@ -1,6 +1,4 @@
 id,next_id,select_next_ids,select,plot,name,image_path,is_memory,res_path,image_xy,image_move,dialog_type,partner_avatar,picture,picture_xy,picture_scale,scale,partner_picture_xy,type,show_type,disappear_type,show_time,disappear_time,position_move,swap_overlap,map_swap,image_mirror,cg_show,cg_path,cg_scale,cg_layer,cg_show_type,cg_start_xy,cg_show_time,cg_show_xy,cg_disappear_type,cg_disappear_xy,cg_disappear_time,sound,music,ambient_sound,bubble_mirror,bubble_xy,bubble_expression,no_click_time,effect,effect_sound,effect_scale,effect_xy,effect_layer,effect_count,jitter
-3270,3271,,0,,-1,club_hall,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-3271,3272,,0,,*,club_hall,,,,,,,,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 3272,-1,,0,,-1,club_hall,,partner_picture_5101102,,,,,,,,1,0|0,0,1,6,1,1,0|0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,
 3273,3274,,0,16-8 ,-1,club_hall,,partner_picture_tuling,,,,,,,,1,0|0,0,1,6,1,1,0|0,0,,,,,,,,,,,,,,,7002,,,,,,,,,,,,
 3274,3275,,0,,-1,club_hall,,partner_picture_tuling,,,,,,,,1,0|0,0,1,6,1,1,0|0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,

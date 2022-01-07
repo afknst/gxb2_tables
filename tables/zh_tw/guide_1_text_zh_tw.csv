@@ -132,3 +132,7 @@ id,desc,mask_icon,icon_offset,mask_icon_h5,icon_offset_h5
 136,,,,,
 137,,buttoncrop_27,0|0,buttoncrop_27_h5,0|0
 138,,,,,
+139,,,,,
+140,,buttoncrop_8,-1|-1,buttoncrop_8_h5,-1|-1
+141,,,,,
+142,,,,,

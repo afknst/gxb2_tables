@@ -1,6 +1,4 @@
 id,next_id,select_next_ids,select,plot,name,image_path,is_memory,res_path,image_xy,image_move,dialog_type,partner_avatar,picture,picture_xy,picture_scale,scale,partner_picture_xy,type,show_type,disappear_type,show_time,disappear_time,position_move,swap_overlap,map_swap,image_mirror,cg_show,cg_path,cg_scale,cg_layer,cg_show_type,cg_start_xy,cg_show_time,cg_show_xy,cg_disappear_type,cg_disappear_xy,cg_disappear_time,sound,music,ambient_sound,bubble_mirror,bubble_xy,bubble_expression,no_click_time,effect,effect_sound,effect_scale,effect_xy,effect_layer,effect_count,jitter
-2179,2180,,0,,-1,yingxinhuichang,,partner_picture_56003,,,,,,,,1,0|0,0,1,6,1,1,0|0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2180,2181,,0,,-1,yingxinhuichang,,partner_picture_51004,,,,,,,,1,0|0,0,1,6,1,1,0|0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2181,2182,,0,,-1,yingxinhuichang,,partner_picture_54007,,,,,,,,1,0|0,0,1,6,1,1,0|0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2182,2183,,0,,-1,yingxinhuichang,,partner_picture_54007,,,,,,,,1,0|0,0,1,6,1,1,0|0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2183,-1,,0,,*,yingxinhuichang,,partner_picture_54007,,,,,,,,1,0|0,2,1,6,1,1,0|0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1090,3 +1088,5 @@ id,next_id,select_next_ids,select,plot,name,image_path,is_memory,res_path,image_
 3267,3268,,0,,-1,club_hall,,partner_picture_55006,,,,,,,,1,0|0,0,1,6,1,1,0|0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,
 3268,-1,,0,,-1,club_hall,,partner_picture_55006,,,,,,,,1,0|0,0,1,6,1,1,0|0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,
 3269,3270,,0,16-7c,*,club_hall,,,,,,,,,,,,2,,,,,,,,,,,,,,,,,,,,,7002,,,,,,,,,,,,
+3270,3271,,0,,-1,club_hall,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3271,3272,,0,,*,club_hall,,,,,,,,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

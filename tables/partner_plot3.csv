@@ -1,6 +1,4 @@
 id,next_id,select_next_ids,select,plot,name,image_path,type,res_path,map_swap,image_xy,image_move,dialog_type,partner_avatar,picture,picture_xy,picture_scale,is_memory,scale,partner_picture_xy,show_type,disappear_type,show_time,disappear_time,position_move,swap_overlap,image_mirror,cg_show,cg_path,cg_scale,cg_layer,cg_show_type,cg_start_xy,cg_show_time,cg_show_xy,cg_disappear_type,cg_disappear_xy,cg_disappear_time,sound,music,expression,face,face_pos,face_scale,bubble_mirror,bubble_xy,bubble_expression,no_click_time,effect,effect_scale,effect_xy,effect_layer,effect_count,jitter
-1695,-1,,,,-1,leader_office,0,partner_picture_56004,,,,,,,,,,1,0|0,1,6,1,1,0|0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1696,1697,,,1-4A,-1,junwudalou,0,partner_picture_34004,,,,,,,,,,1,0|0,1,6,1,1,0|0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1697,1698,,,,-1,junwudalou,0,partner_picture_54010,,,,,,,,,,1,0|0,1,6,1,1,0|0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1698,1699,,,,-1,junwudalou,0,partner_picture_56004,,,,,,,,,,1,0|0,1,6,1,1,0|0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1699,1700,,,,-1,junwudalou,0,partner_picture_56004,,,,,,,,,,1,0|0,1,6,1,1,0|0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1110,3 +1108,5 @@ id,next_id,select_next_ids,select,plot,name,image_path,type,res_path,map_swap,im
 2803,2804,,,,-1,fengji_office,0,partner_picture_752005,,,,,,,,,2,1,0|0,1,6,1,1,0|0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2804,2805,,,,-1,fengji_office,0,partner_picture_54007,1,,,,,,,,2,1,0|0,1,6,1,1,0|0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2805,2806,,,,-1,fengji_office,0,partner_picture_54007,,,,,,,,,2,1,0|0,1,6,1,1,0|0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2806,2807,,,,-1,fengji_office,0,partner_picture_54007,,,,,,,,,2,1,0|0,1,6,1,1,0|0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2807,2808,,,,-1,chaos_school,0,partner_picture_9999996,1,,,,,,,,,1,0|0,1,6,1,1,0|0,0,,,,,,,,,,,,,,,,,,,,,,,mohua#texiao01,,360#640,1,0,

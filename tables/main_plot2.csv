@@ -1,6 +1,4 @@
 id,next_id,select_next_ids,select,plot,name,image_path,is_memory,res_path,image_xy,image_move,dialog_type,partner_avatar,picture,picture_xy,picture_scale,scale,partner_picture_xy,type,show_type,disappear_type,show_time,disappear_time,position_move,swap_overlap,map_swap,image_mirror,cg_show,cg_path,cg_scale,cg_layer,cg_show_type,cg_start_xy,cg_show_time,cg_show_xy,cg_disappear_type,cg_disappear_xy,cg_disappear_time,sound,music,ambient_sound,bubble_mirror,bubble_xy,bubble_expression,no_click_time,effect,effect_sound,effect_scale,effect_xy,effect_layer,effect_count,jitter
-1088,1089,,0,,-1,small_garden,,partner_picture_54002,,,,,,,,1,0|0,0,1,6,1,1,0|0,,,,,,,,,,,,,,,60065,,,,,,,,,,,,,
-1089,-1,,0,,-1,small_garden,,partner_picture_54002,,,,,,,,1,0|0,0,10,6,1,1,0|0,,,,,,,,,,,,,,,60068,,,,,,,,,,,,,
 1090,1091,,0,5-8c,-1,small_garden,,partner_picture_4300704,,,,,,,,1,0|0,0,1,6,1,1,0|0,,,,,,,,,,,,,,,60035,7001,2158,,,,,,,,,,,
 1091,1092,,0,,-1,small_garden,,partner_picture_54002,,,,,,,,1,0|0,0,1,6,1,1,0|0,,,,,,,,,,,,,,,60055,,,,,,,,,,,,,
 1092,1093,,0,,-1,small_garden,,partner_picture_54002,,,,,,,,1,0|0,0,1,6,1,1,0|0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1090,3 +1088,5 @@ id,next_id,select_next_ids,select,plot,name,image_path,is_memory,res_path,image_
 2176,2177,,0,,-1,yingxinhuichang,,partner_picture_54007,,,,,,,,1,0|0,0,1,6,1,1,0|0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2177,2178,,0,,*,yingxinhuichang,,partner_picture_54007,,,,,,,,1,0|0,2,1,6,1,1,0|0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2178,2179,,0,,-1,yingxinhuichang,,partner_picture_54007,,,,,,,,1,0|0,0,1,6,1,1,0|0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2179,2180,,0,,-1,yingxinhuichang,,partner_picture_56003,,,,,,,,1,0|0,0,1,6,1,1,0|0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2180,2181,,0,,-1,yingxinhuichang,,partner_picture_51004,,,,,,,,1,0|0,0,1,6,1,1,0|0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,

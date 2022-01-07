@@ -1402,7 +1402,7 @@ TEN_STAR_EXCHANGE_TEXT01,Please select the same girl
 TEN_STAR_EXCHANGE_TEXT02,Please select a 10-Star Girl
 TEN_STAR_EXCHANGE_TEXT04,Please select required materials
 TEN_STAR_EXCHANGE_SUMMARY,You'll fuse a certain 10-star girl by consuming other girls n this event. Please view Help for more details.
-TEN_STAR_EXCHANGE_HELP,"1. Girls Exchange allows you to exchange an existing 10-Star (or 10-Star +) for another Girl in the same House (Star rank will remain the same and an identical Girl will not appear.)|2. To exchange a 10-Star Girl, you require 5 Diploma and a certain number of 5-Star Girls. The higher the level, the more 5-Star Girls will be required.|3. Once the exchange has been completed, the original 10-Star Girl’s level, grade, gear, crystal, antique and Limit Break stage will be transferred to the new 10-Star Girl.|4. Through this exchange, Intimacy will be transferred from the 5-Star Girl with the highest Intimacy.|5. If an Oath was made with a consumed 5-Star Girl, the Oath will automatically be transferred to the new Girl, without the Oath Ring being returned.|6. For the 5-Star Girl consumed in this exchange, resources equivalent to being Transferred will be returned.|7. Diplomas can be acquired through limited-time events."
+TEN_STAR_EXCHANGE_HELP,"1. Girls Exchange allows you to exchange an existing 10-Star (or 10-Star +) for another Girl in the same House (Star rank will remain the same and copies of the original Girl will NOT be returned.)|2. 5 Diploma and the required number of identical 5-Star Girls are needed to exchange a girl at 10-Star or above. The higher the level, the more 5-Star Girls will be required.|3. Once the exchange has been completed, the original 10-Star Girl’s Level, Grade, Gear, Crystal, Antique, and Limit Break stage will be transferred to the new 10-Star Girl.|4. Through this exchange, Intimacy will be transferred from the 5-Star Girl with the highest Intimacy regardless of the original Girl's Intimacy.|5. If an Oath was made with a consumed 5-Star Girl, the Oath will automatically be transferred to the new Girl, without the Oath Ring being returned.|6. For the 5-Star Girl consumed in this exchange, resources equivalent to being Transferred will be returned.|7. Diplomas can be acquired through limited-time events."
 TEN_STAR_EXCHANGE_TEXT05,Exchange for 10-Star {1}?
 TEN_STAR_EXCHANGE_TEXT06,You can't exchange this 10-Star Girl with herself.
 TEN_STAR_EXCHANGE_TEXT03,Exchange?
@@ -2305,7 +2305,7 @@ POTENTIALITY_BACK_TITLE,Reverse
 POTENTIALITY_BACK_TEXT01,Preview
 POTENTIALITY_BACK_TEXT02,Reverse
 PUPPET_PARTNER_NO_CLICK,"Dolls are not available in Graduate, Awake, Limit Break and Skin"
-POTENTIALITY_BACK_WINDOW_HELP,"1. Girls from 1-Star to 5-Star and 7-Star to 10-Star can be Reversed (including those who have Limit-Break status). Dolls are not able to be Awakened, Exchanged, Reversed, Transferred, given Gifts or placed in a Dorm.|2. Gear and Antiques of a Girl who is Reversed will automatically be sent back to Bag.|3. Reverse Rules: |1-Star to 5-Star: the namesake Girl at their original star rank|7-Star Girl Reversal: five 5-Star Dolls of the Reversed Girl's Faction + 2 namesake 5-Star Girls|8-Star Girl Reversal: seven 5-Star Dolls of the Reversed Girl's Faction + 2 namesake 5-Star Girls|9-Star Girl Reversal: one 6-Star Doll of the Reversed Girl's Faction + eight 5-Star Dolls of the Reversed Girl's Faction + 3 namesake 5-Star Girls|10-Star Girl Reversal: two 9-Star Dolls of the Girl's Faction + 5 namesake 5-Star Girls|Limit-Break Stage 1 Girl Reversal: three 9-Star Dolls of the Reversed Girl's Faction + 6 namesake 5-Star Girls|Limit-Break Stage 2 Girl Reversal: four 9-Star Dolls of the Reversed Girl's Faction + 7 namesake 5-Star Girls|Limit-Break Stage 3 Girl Reversal: one 10-Star Doll + four 9-Star Dolls of the Reversed Girl's Faction + 7 namesake 5-Star Girls|Limit-Break Stage 4 Girl Reversal: two 10-Star Dolls of the Reversed Girl's Faction + four 9-Star Dolls of the Reversed Girl's Faction + 8 namesake 5-Star Girls|Limit-Break Stage 5 Girl Reversal: three 10-Star Dolls of the Reversed Girl's Faction + four 9-Star Dolls of the Reversed Girl's Faction + 9 namesake 5-Star Girls|4. Reversing 1-Star to 5-Star Girls will return all resources used on the Girl. (If Outfit bonuses were triggered when upgrading the Girls' Crystal, this will also be considered in the calculation) Reversing 7-Star to 10-Star Girls WILL NOT RETURN Coins used to level up the Girl; EXP Juice and Lunch Boxes from the Reversed Girl will be PARTIALLY returned. Coins and Crystal Chisels will also be partially returned according to the level of the Reversed Girl's Crystal. When a Girl at 10-Star or above is reversed, ALL resources used to upgrade her Elite Skills will be returned.|5. Reversing 1-5-Star Girls is free. Reversing 7/8/9-Star Girls will cost 400/600/800 Gems respectively. Reversing Girls at 10-Star or above will cost 5 Diplomas for each Reversal.|6. Intimacy and Oath will be returned to one of the namesake Girls after being reversed.|7. 5/9/10 Star Dolls received from a Reverse won't be counted for the Monthly Event ""Graduate and Awake""."
+POTENTIALITY_BACK_WINDOW_HELP,"1. Girls from 1-Star to 5-Star and 7-Star to 10-Star can be Reversed (including those who have Limit-Break status). 6-Star Girls cannot be reversed for now. Dolls are not able to be Awakened, Exchanged, Reversed, Transferred, given Gifts or placed in a Dorm.|2. Gear and Antiques of a Girl who is Reversed will automatically be sent back to Bag.|3. Results of Reversal: |1-Star to 5-Star: the namesake Girl at their original star rank|7-Star Girl Reversal: five 5-Star Dolls of the Reversed Girl's Faction + 2 namesake 5-Star Girls|8-Star Girl Reversal: seven 5-Star Dolls of the Reversed Girl's Faction + 2 namesake 5-Star Girls|9-Star Girl Reversal: one 6-Star Doll of the Reversed Girl's Faction + eight 5-Star Dolls of the Reversed Girl's Faction + 3 namesake 5-Star Girls|10-Star Girl Reversal: two 9-Star Dolls of the Girl's Faction + 5 namesake 5-Star Girls|Limit-Break Stage 1 Girl Reversal: three 9-Star Dolls of the Reversed Girl's Faction + 6 namesake 5-Star Girls|Limit-Break Stage 2 Girl Reversal: four 9-Star Dolls of the Reversed Girl's Faction + 7 namesake 5-Star Girls|Limit-Break Stage 3 Girl Reversal: one 10-Star Doll + four 9-Star Dolls of the Reversed Girl's Faction + 7 namesake 5-Star Girls|Limit-Break Stage 4 Girl Reversal: two 10-Star Dolls of the Reversed Girl's Faction + four 9-Star Dolls of the Reversed Girl's Faction + 8 namesake 5-Star Girls|Limit-Break Stage 5 Girl Reversal: three 10-Star Dolls of the Reversed Girl's Faction + four 9-Star Dolls of the Reversed Girl's Faction + 9 namesake 5-Star Girls|4. Reversing 1-Star to 5-Star Girls will return all resources used on the Girl. (If Outfit bonuses were triggered when upgrading the Girls' Crystal, this will also be considered in the calculation) Reversing 7-Star to 10-Star Girls WILL NOT RETURN Coins used to level up the Girl; EXP Juice and Lunch Boxes from the Reversed Girl will be PARTIALLY returned. Coins and Crystal Chisels will also be partially returned according to the level of the Reversed Girl's Crystal. When a Girl at 10-Star or above is reversed, ALL resources used to upgrade her Elite Skills will be returned.|5. Reversing 1-5-Star Girls is free. Reversing 7/8/9-Star Girls will cost 400/600/800 Gems respectively. Reversing Girls at 10-Star or above will cost 5 Diplomas for each Reversal.|6. Intimacy and Oath will be returned to one of the namesake Girls after being reversed.|7. 5/9/10 Star Dolls received from a Reverse won't be counted for the Monthly Event ""Graduate and Awake""."
 POTENTIALITY_BACK_TEXT03,This is irreversible. Are you sure you want to do this?
 POTENTIALITY_BACK_ALTAR_TIP,Dolls cannot be transferred
 SUBSCRIPTION_RECOVER,Recover
@@ -2573,7 +2573,9 @@ ACTIVITY_PRAY_HELP,"
 1. During the event, after choosing a House, you can choose 5 Girls that you want from a list of Girls that can be obtained from the corresponding House, and add them to the Wishing Fountain.|2. Making wishes in the Wishing Fountain of the House you\'ve chosen will cost Prayer Coins and will grant House Shards of the corresponding House. There is a chance to receive Rainbow Shards as well.|3. When making wishes in Angel and Demon Wishing Fountains, there is a 13%% chance to receive double rewards and House Shards, and a 2%% chance to receive triple rewards and House Shards.
     When making wishes in Ghost, Human, Monster, and Fairy Wishing Fountains, there is a 30%% chance to receive double rewards and House Shards, and a 10%% chance to receive triple rewards and House Shards.|4. Collect the required number of House Shards of the same House to merge them and summon 1 random Girl from the Wishing Fountain of the corresponding House. After collecting the required number of Rainbow Shards, you can merge them, and choose one girl from the Wishing Fountains of all 6 Houses.|5. The required number of House Shards needed to summon a Girl is also the maximum number of House Shards you can own at the same time. When making multiple wishes at once, if you reach this limit in the process, the extra Prayer Coins that were used will be returned. However, if you received more House Shards than the number needed to summon a Girl from the Wishing Fountain due to receiving double or triple rewards, the extra House Shards and random rewards will not be returned to you.|6. 500 Gems are needed to change the girls chosen in the Wishing Fountain of a House.|7. After receiving 1 Girl from the Wishing Fountain, you will not receive the same girl again until you change the girls available from it. When all 5 Girls chosen have been claimed, you can change your choice for free.|8. Extra rewards will be given based on the number of Girls received in this event.|9. You will receive one random reward from the list below for every wish made:
 200K Coins, 200K EXP Juice, 200 Lunch Boxes, 200 Crystal Chisels, 1 Rune Engraving, 1 Lucky Crystal, or 10 Afterglow Antiques.|10. Prayer Coins can be obtained from the following methods:
-     Purchase with Gems (at most 300 can be obtained this way)
+     Daily Mail
+     Purchase with Gems (at most 200 can be obtained this way)
+     Lucky Bonus
      Mega Value Packs
      Special Skin Packs
      Special Gift Packs
@@ -3293,7 +3295,7 @@ PET_STORY_UNLOCK,Unlock after evolving the Servant to stage {1}.
 THE_PET_HAS_NOT_DATA,Librarian is still collecting informations of this Servant
 ACTIVITY_ENTRANCE_TEST_BUY_TILI_WINDOW,Purchase Test Certificate
 ACTIVITY_ENTRANCE_TEST_TIME_TIPS,Reset to 10 Test Certificates after:
-ACTIVITY_ENTRANCE_TEST_TILI_HELP,"1. You will obtain 15 Test Certificates when you enter the event page for the first time. The number of Test Certificates will be reset to 10 Test Certificates at 0:00 (UTC/GMT 0) every day during the event.|2. Extra Test Certificates can be purchased with Gems, but there is a daily limit of [c][cc0011]20[-][/c] extra Test Certificates that can be purchased."
+ACTIVITY_ENTRANCE_TEST_TILI_HELP,"1. You will obtain 20 Test Certificates when you enter the event page for the first time. The number of Test Certificates will be reset to 10 Test Certificates at 0:00 (UTC/GMT 0) every day during the event.|2. Extra Test Certificates can be purchased with Gems, but there is a daily limit of [c][cc0011]20[-][/c] extra Test Certificates that can be purchased. The price of Test Certificate will increase as you purchase more Test Certificates in a day."
 ACTIVITY_ENTRANCE_TEST_TILI_FULL,You have enough Test Certificates
 ENTRANCE_TEST_UNEQUIP_TIP,Set incomplete
 ENTRANCE_TEST_NEW_HERO_TIPS,New Girl is here!
@@ -3750,7 +3752,7 @@ ACTIVITY_YEAR_FUND_DES,Obtain rewards for 30 days upon opening New Year Special!
 ACTIVITY_YEAR_FUND_TOTAL_CRYSTAL,Total Value
 ACTIVITY_YEAR_FUND_AWARD_TIPS,Tap unclaimed rewards to reclaim
 ACTIVITY_YEAR_FUND_LATE_AWARD,Reclaimable
-ACTIVITY_YEAR_FUND_LATE_AWARD_TIP,"Reclaiming this reward costs {1} gem, purchase?"
+ACTIVITY_YEAR_FUND_LATE_AWARD_TIP,"Reclaiming this reward costs {1} gems, confirm to continue?"
 ACTIVITY_YEAR_FUND_BUY,Purchase to get:
 ACTIVITY_YEAR_FUND_PRICE,$29.99
 ACTIVITY_DOLL_BUY_UNLIMIT,Unlimited
@@ -5546,4 +5548,61 @@ BAG_NUM_LIMIT_TEXT2,The number of {1} that you own will soon reach or has alread
 ALTAR_INFO_5,This Girl cannot be reversed
 ALTAR_INFO_6,This Girl doesn't need to be reversed
 GAMBLE_JUMP_CARTOON,Don't play capsule animation again
-FRIEND_APPLY_LIMIT_TIPS,"The number of friend requests has reached the limit, please check it out"
+FRIEND_APPLY_LIMIT_TIPS,"The number of friend requests you have received has reached the limit, please check it out"
+SHOW_WINDOW_HELP,"1. There are 4 Showcases available, one each for Tests, Patrol, Security Squad, and House Exams. The Showcases will unlock after their corresponding feature become available.|2. There are 3 Booths (Courage, Charisma, and Knowledge) in each Showcase. Each Booth has 5 Slots, some of the Slots will be locked until you meet their requirements to unlock.|3. 1 Outfit piece can be put into an unlocked Slot, however, different Slots have different requirements for the Outfit pieces to display.|4. Each Outfit displayed will provide a Score for its corresponding Booth (e.g. if an Outfit piece is put in a Courage Booth Slot, it will provide 1 Score for each Courage point it has).|5. Rewards will be calculated once daily according to each Showcase's total score. Rewards will be claimed automatically when you enter a Showcase. 3 Days of rewards can be held at most."
+SHOW_WINDOW_SHOP_HELP,"1. ""Rare Tags"" and ""Metal Tags"" can be obtained from daily Showcase rewards and be used to purchase in the Showcase Store.|2. ""Rare Tags"" can be used to activate buffs in different features. 4 Stacks of buffs can be activated at the same time max. The purchase limit of the buffs will be refreshed every week.|3. ""Metal Tags"" can be used to purchase items in the Showcase Store. The purchase limit of the items on the “Rare” page will not be refreshed but the purchase limit of the items on the “Common” page will be refreshed weekly."
+SHOW_WINDOW_TEXT01,Put your Outfits in the Booths and let the Girls judge your taste! Don't miss the chance to lead the trend of the Academy!
+SHOW_WINDOW_TEXT02,Booth {1}
+SHOW_WINDOW_TEXT03,Locked
+SHOW_WINDOW_TEXT04,Unlock after {1} is unlocked
+SHOW_WINDOW_TEXT05,Booth info
+SHOW_WINDOW_TEXT06,ID
+SHOW_WINDOW_TEXT07,Slot
+SHOW_WINDOW_TEXT08,Rating
+SHOW_WINDOW_TEXT09,Daily Reward
+SHOW_WINDOW_TEXT10,Courage Booth
+SHOW_WINDOW_TEXT11,Charisma Booth
+SHOW_WINDOW_TEXT12,Knowledge Booth
+SHOW_WINDOW_TEXT13,Slot Unlock
+SHOW_WINDOW_TEXT14,Slot Unlocked
+SHOW_WINDOW_TEXT15,You need to unlock the previous Slot in this Booth first
+SHOW_WINDOW_TEXT16,This Slot is only available for Outfit that meets the following requirement: {1}
+SHOW_WINDOW_TEXT17,"This Slot is only available for Outfit that meets the following requirements: {1}, {2}"
+SHOW_WINDOW_TEXT18,Rewards
+SHOW_WINDOW_TEXT19,Current Score:
+SHOW_WINDOW_TEXT20,Current Rating:
+SHOW_WINDOW_TEXT21,Current Reward:
+SHOW_WINDOW_TEXT22,Rewards sent at 0:00 (UTC/GMT 0)
+SHOW_WINDOW_TEXT23,Booth Score:
+SHOW_WINDOW_TEXT24,Slot {1}
+SHOW_WINDOW_TEXT25,Slot Score:
+SHOW_WINDOW_TEXT26,Display
+SHOW_WINDOW_TEXT27,Display message of {1} saved successfully
+SHOW_WINDOW_TEXT28,"This Outfit piece is displayed in Slot {1} of this Booth. This adjustment will remove the Outfit piece from that Slot, confirm to continue?"
+SHOW_WINDOW_TEXT29,"This Outfit piece is displayed in Slot {3} of Booth {1}: {2}. This adjustment will remove the Outfit piece from that Slot, confirm to continue?"
+SHOW_WINDOW_TEXT30,Showcase Store
+SHOW_WINDOW_TEXT31,Buff
+SHOW_WINDOW_TEXT32,Rare
+SHOW_WINDOW_TEXT33,Common
+SHOW_WINDOW_TEXT34,Purchase limit: {1}
+SHOW_WINDOW_TEXT35,Inactive
+SHOW_WINDOW_TEXT36,{1} stack(s) in active
+SHOW_WINDOW_TEXT37,{1} stacks of Buff(s) will expire after {2} battle(s)
+SHOW_WINDOW_TEXT38,Purchased
+SHOW_WINDOW_TEXT39,Stage {1}
+SHOW_WINDOW_TEXT40,Unlock after total score reaches {1}
+SHOW_WINDOW_TEXT41,Available after this Stage is unlocked
+SHOW_WINDOW_TEXT42,Purchased
+SHOW_WINDOW_TEXT43,Show total score
+SHOW_WINDOW_TEXT44,Collectable In {1}
+DUNGEON_NAME_1,Easy
+DUNGEON_NAME_2,Normal
+DUNGEON_NAME_3,Hard
+DUNGEON_NAME_4,Extreme
+DUNGEON_NAME_5,Fantasy
+DUNGEON_NAME_6,Nightmare
+SHOW_WINDOW_TEXT45,Stage 1|Stage 2|Stage 3|Stage 4
+NEW_ARENA_ALL_SERVER_TEXT_27,Season {1}
+WORLD_BOSS_SWEEP_TIPS2,Auto Challenge the next Stage
+ACTIVITY_GIFTBAG_OPTIONAL_WINDOW_TEXT,Customized Supply
+SHOW_WINDOW_TEXT46,You already have 4 stacks of this buff activated!

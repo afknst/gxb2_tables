@@ -1,6 +1,4 @@
 id,next_id,select_next_ids,select,plot,name,image_path,type,res_path,spine_path,map_swap,image_xy,image_move,dialog_type,partner_avatar,picture,picture_xy,picture_scale,is_memory,scale,partner_picture_xy,show_type,disappear_type,show_time,disappear_time,position_move,swap_overlap,image_mirror,cg_show,cg_path,cg_scale,cg_show_type,cg_start_xy,cg_show_time,cg_show_xy,cg_disappear_type,cg_disappear_xy,cg_disappear_time,sound,music,expression,face,face_scale,face_pos,bubble_mirror,bubble_xy,bubble_expression,no_click_time,effect,effect_scale,effect_xy,effect_layer,effect_count,jitter
-3329,3330,,,,-1,bg_wild,0,partner_picture_54007,,,,,,,,,,,1,0|0,1,6,1,1,0|0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,
-3330,-1,,,,-1,bg_wild,0,partner_picture_43007,,,,,,,,,,,1,0|0,1,6,1,1,0|0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,
 3331,3332,,,-1,-1,bg_volcano_erupt,0,partner_picture_yinyue,,,,,,,,,,,1,0|0,1,6,1,1,0|0,0,,,,,,,,,,,,,,,,,,,,,,plot_guiji_faster#texiao01,1,360#640,1,1,
 3332,3333,,,,-1,bg_volcano_erupt,0,partner_picture_53007,,,,,,,,,,,1,0|0,1,6,1,1,0|0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,
 3333,3334,,,,-1,bg_volcano_erupt,0,partner_picture_51011,,,,,,,,,,,1,0|0,1,6,1,1,0|0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1110,3 +1108,5 @@ id,next_id,select_next_ids,select,plot,name,image_path,type,res_path,spine_path,
 5081,5082,,,,*,forest,2,partner_picture_751001,,0,,,,,,,,,1,0|0,1,6,1,1,0|0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,
 5082,5083,,,,-1,forest,0,partner_picture_751001,,0,,,,,,,,,1,0|0,1,6,1,1,0|0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,
 5083,5084,,,,*,forest,2,,,0,,,,,,,,,,,1,6,1,1,0|0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5084,5085,,,,*,forest,2,,,0,,,,,,,,,,,1,6,1,1,0|0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5085,5086,,,,*,forest,2,,,0,,,,,,,,,,,1,6,1,1,0|0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,

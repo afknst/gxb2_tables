@@ -1,6 +1,6 @@
 type,desc
 1,Please display an {2} of {1} or higher quality to complete the request
-2,Please display a {1} of {2}-star or higher {3} to complete the request
+2,"Please display an Outfit piece that meets the following requirement: {1}, {2}-star or higher, {3}"
 3,Please display an Outfit piece that provides at least {1} Courage to complete the request
 4,Please display an Outfit piece that provides at least {1} Charisma to complete the request
 5,Please display an Outfit piece that provides at least {1} Knowledge to complete the request

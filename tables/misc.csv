@@ -59,7 +59,7 @@ gacha_ensure_partner,55011#655020#755010|56009#656019#756009,-1
 gacha_ensure_partner_handbook,55011#655020#755010|56009#656019#756009,-1
 daily_mail_awards_gacha,2|44,-1
 daily_mail_awards_tree,3|31|32,-1
-daily_mail_awards_gamble,18|37|24,-1
+daily_mail_awards_gamble,18|37|45,-1
 daily_mail_awards_drift,30|6|40|43,-1
 daily_mail_awards_week,18|22,-1
 daily_mail_awards_arena,30|8|19,-1
@@ -385,7 +385,7 @@ test_server_prophet_test_time,1597968000|1598572800,-1
 test_server_entry_level_limit,120,-1
 test_server_entry_tower_limit,400,-1
 activity_pray_buy_price,2#100,-1
-activity_pray_buy_limit,300,-1
+activity_pray_buy_limit,200,-1
 activity_pray_select_price,2#500,-1
 activity_pray_submit_award,32003,-1
 activity_pray_submit_rate_normal,1,-1
@@ -477,7 +477,7 @@ comic_comment_length_limit_ko_kr,12|120,-1
 activity_letter,36#10|2#1000|940002#50,-1
 activity_birthday_colour_awards,1#18000|1#16000,-1
 activity_birthday_colour_limit,100000,-1
-activity_44_hero_model,kawenbodi_pifu01_lihui01|516|-1603|0.7|5600902|7232,-1
+activity_44_hero_model,yunmu_pifu04_lihui01|570|-1082|0.7|5201505|7236,-1
 activity_birthday_colour_cost,147#1,-1
 activity_birthday_cake_cost,148#1,-1
 activity_birthday_cake_rounds_limit,25,-1
@@ -688,8 +688,8 @@ pet_exlevel_unlock_cost,1#1000000|27#5|216#10,-1
 guild_competition_time,3|7|1,-1
 guild_competition_boss_limit,30,-1
 guild_competition_personal_limit,3,-1
-guild_competition_boss_model,756008|754017|753017,-1
-guild_competition_frame_time,1641340800,-1
+guild_competition_boss_model,755010|755005|756009,-1
+guild_competition_frame_time,1644796800,-1
 activity_puppet_item,217,-1
 pet_exskill_open_level,120,-1
 bp_lottery_cost,221#50,-1
@@ -957,3 +957,5 @@ activity_newbee_gacha_dropbox_new_time,1640908800,-1
 activity_christmas_socks_max,300,-1
 activity_newbee_gacha_jump_new,55010|52017|53017|51016|54016|56008,-1
 friend_apply_limit,50,-1
+show_window_shop_refresh,604800,-1
+show_window_point_rank,0|170|450|800|1100|1400,-1

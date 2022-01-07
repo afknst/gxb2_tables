@@ -8710,7 +8710,7 @@ id,type,buff,num,round,prob
 1208003,1208,frighten,0,2,0.5
 1208004,1208,frighten,0,2,0.25
 1208005,1208,frighten,0,2,1
-1208006,1208,frighten,0,3,1
+1208006,1208,frighten,0,2,0.3
 1208007,1208,frighten,0,2,0.2
 1208008,1208,frighten,0,2,0.3
 1208009,1208,frighten,0,2,0.5
@@ -9095,6 +9095,7 @@ id,type,buff,num,round,prob
 1284006,1284,starMoon,0.81,99,1
 1284007,1284,starMoon,0.82,99,1
 1284008,1284,starMoon,0.83,99,1
+1284009,1284,starMoon,0.01,99,1
 1286001,1286,weiweianHeal,0,0,1
 1287001,1287,fragranceGet,1,99,1
 1288001,1288,fragranceDecDmg,0.01,99,1
@@ -9998,3 +9999,4 @@ id,type,buff,num,round,prob
 1420001,1420,dressKnowledgefree,15,5,1
 1420002,1420,dressKnowledgefree,30,5,1
 1420003,1420,dressKnowledgefree,45,5,1
+1420004,1420,dressKnowledgefree,60,5,1

@@ -1,6 +1,4 @@
 id,next_id,select_next_ids,select,plot,name,image_path,type,res_path,map_swap,image_xy,image_move,dialog_type,partner_avatar,picture,picture_xy,picture_scale,is_memory,scale,partner_picture_xy,show_type,disappear_type,show_time,disappear_time,position_move,swap_overlap,image_mirror,cg_show,cg_path,cg_scale,cg_layer,cg_show_type,cg_start_xy,cg_show_time,cg_show_xy,cg_disappear_type,cg_disappear_xy,cg_disappear_time,sound,music,expression,face,face_pos,face_scale,bubble_mirror,bubble_xy,bubble_expression,no_click_time,effect,effect_scale,effect_xy,effect_layer,effect_count,jitter
-1114,1115,,0,,-1,xuchu_flower,0,,0,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,
-1115,1116,,0,,-1,xuchu_flower,0,,0,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,
 1116,-1,,0,,-1,xuchu_flower,0,,0,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,
 1117,1118,,0,-1,-1,kitchen,0,partner_picture_52004,0,,,,,,,,,1,0|0,1,6,1,1,0|0,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,
 1118,1119,,0,,-1,kitchen,0,,0,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1110,3 +1108,5 @@ id,next_id,select_next_ids,select,plot,name,image_path,type,res_path,map_swap,im
 1692,1693,,,,-1,leader_office,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1693,1694,,,,-1,leader_office,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1694,1695,,,,-1,leader_office,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1695,-1,,,,-1,leader_office,0,partner_picture_56004,,,,,,,,,,1,0|0,1,6,1,1,0|0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1696,1697,,,1-4A,-1,junwudalou,0,partner_picture_34004,,,,,,,,,,1,0|0,1,6,1,1,0|0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,

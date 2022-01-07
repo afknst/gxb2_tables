@@ -194,3 +194,7 @@ id,name,lv_limit,function_id,stage,go_window,go_params,is_close,close_win_name,l
 195,-1,0,,,activity_window,"select:265,activity_type2:1",1,,,
 196,-1,0,,,activity_window,"select:266,activity_type2:1",1,,,
 197,-1,0,,,activity_window,"select:85,activity_type2:1",1,,,
+198,-1,82,32,122,friend_team_boss_window,,1,,,
+199,-1,999,2,55,time_cloister_main_window,,1,,,
+200,-1,90,34,142,arena_all_server_window,,1,,,
+201,-1,78,40,112,explore_window,,1,,,

@@ -1,6 +1,4 @@
 id,next_id,select_next_ids,select,plot,name,image_path,type,res_path,map_swap,image_xy,image_move,dialog_type,partner_avatar,picture,picture_xy,picture_scale,is_memory,scale,partner_picture_xy,show_type,disappear_type,show_time,disappear_time,position_move,swap_overlap,image_mirror,cg_show,cg_path,cg_scale,cg_layer,cg_show_type,cg_start_xy,cg_show_time,cg_show_xy,cg_disappear_type,cg_disappear_xy,cg_disappear_time,sound,music,expression,face,face_pos,face_scale,bubble_mirror,bubble_xy,bubble_expression,no_click_time,effect,effect_scale,effect_xy,effect_layer,effect_count,jitter
-1111,1112,,,,-1,new_school,0,partner_picture_751001,0,,,,,,,,,1,0|0,1,6,1,1,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-1112,1113,,,,-1,new_school,0,partner_picture_751001,0,,,,,,,,,1,0|0,24,6,1,1,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1113,1114,,,,-1,new_school,0,partner_picture_751001,0,,,,,,,,,1,0|0,1,6,1,1,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1114,1115,1115|1115,1,,-1,new_school,0,partner_picture_51013_faceless,0,,,,,,,,,0.9,112|362,1,6,1,1,,0,,,,,,,,,,,,,,,,partner_picture_51013_44,,,,,,,,,,,,
 1115,1116,,,,-1,forest,0,partner_picture_51012,1,,,,,,,,,1,0|0,1,6,1,1,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1110,3 +1108,5 @@ id,next_id,select_next_ids,select,plot,name,image_path,type,res_path,map_swap,im
 2219,2220,,,,,shitang,1,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2220,2221,,,,,shitang,1,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2221,2222,,,,-1,shitang,0,partner_picture_53015,0,,,,,,,,,1,0|0,1,6,1,1,,,,,,,,,,,,,,,,,,partner_picture_53015_laugh,,,,,,,,,,,,
+2222,2223,,,,-1,shitang,0,partner_picture_51016,0,,,,,,,,,1,0|0,1,6,1,1,,,,,,,,,,,,,,,,,,partner_picture_51016_enjoy,,,,,,,,,,,,
+2223,2224,,,,-1,shitang,0,partner_picture_53015,0,,,,,,,,,1,0|0,1,6,1,1,,,,,,,,,,,,,,,,,,partner_picture_53015_laugh,,,,,,,,,,,,

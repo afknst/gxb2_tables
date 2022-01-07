@@ -1109,3 +1109,5 @@ id,next_id,select_next_ids,select,plot,name,image_path,type,res_path,map_swap,im
 1108,1109,1109,1,,-1,playground,0,partner_picture_yinyue,0,,,,,,,,,1,0|0,1,6,1,1,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1109,1110,,,,-1,playground,0,partner_picture_yinyue,0,,,,,,,,,1,0|0,1,6,1,1,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1110,1111,,,,-1,new_school,0,partner_picture_751001,1,,,,,,,,,1,0|0,1,6,1,1,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1111,1112,,,,-1,new_school,0,partner_picture_751001,0,,,,,,,,,1,0|0,1,6,1,1,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1112,1113,,,,-1,new_school,0,partner_picture_751001,0,,,,,,,,,1,0|0,24,6,1,1,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,

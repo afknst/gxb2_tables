@@ -1,6 +1,4 @@
 id,next_id,select_next_ids,select,plot,name,image_path,type,res_path,map_swap,image_xy,image_move,dialog_type,partner_avatar,picture,picture_xy,picture_scale,is_memory,scale,partner_picture_xy,show_type,disappear_type,show_time,disappear_time,position_move,swap_overlap,image_mirror,cg_show,cg_path,cg_scale,cg_layer,cg_show_type,cg_start_xy,cg_show_time,cg_show_xy,cg_disappear_type,cg_disappear_xy,cg_disappear_time,sound,music,expression,face,face_pos,face_scale,bubble_mirror,bubble_xy,bubble_expression,no_click_time,effect,effect_scale,effect_xy,effect_layer,effect_count,jitter
-5029,5030,,,,,bg_town,1,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-5030,5031,,,,,bg_town,1,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 5031,-1,,,,,bg_town,1,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 5032,5033,,,,,fanpai_bg,1,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 5033,5034,,,,-1,fanpai_bg,0,partner_picture_55004,0,,,,,,,,,1,0|0,1,6,1,1,0|0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,

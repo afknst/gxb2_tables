@@ -10564,3 +10564,8 @@ After the owner of this Antique releases their Active Skill, heals the owner and
 [c][e28002]Blessings of Snow: [-][/c]
 A Skill Effect, cannot be stacked. 
 Increases Heal Received by 20%, Damage Depletion by 20%, and Energy when attacked by 20%."
+501111,Sky Island,Malediction,The Maia in the enemy team will afflict 1 stack of Malediction to all your Girls at the end of each round.
+502110,Sky Island,Divination,Divination skill of the Vivian in the enemy team will target all her enemies and has a 100% chance to be triggered.
+503114,Sky Island,Critical Strike I,Increase your enemies' Crit by 30%
+503115,Sky Island,Critical Strike II,Increase your enemies' Crit by 60%
+502111,Sky Island,Star Link,The Girl who is afflicted Galaxy by Vivian in the enemy team will only receive 1% of the damage the Vivian takes. 
