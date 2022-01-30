@@ -57,7 +57,7 @@ id,desc,mask_icon,icon_offset,mask_icon_h5,icon_offset_h5
 56,"Senpai, we've collected more loot!\nTap here to collect it.",buttoncrop_21,0|2,,
 57,Great work!\nYou're ready for the next stage!,buttoncrop_20,-16|0,,
 58,,,,,
-59,"You're doing well, Senpai, but don't forget to collect your auto-loot. After [c][d76500]10 hours[-][/c], Auto-Battle will stop collecting auto-loot.",,,,
+59,"You're doing well, Senpai, but don't forget to collect your auto-loot. After [c][d76500]12 hours[-][/c], Auto-Battle will stop collecting auto-loot.",,,,
 60,"Something has happened on the [c][d76500]FrontPage[-][/c].\nLet's go take a look, Senpai~!",buttoncrop_1,0|0,,
 61,Tap on [c][d76500]Newbie Benefits[-][/c] to claim [c][d76500]online rewards[-][/c] now~,buttoncrop_15,0|0,buttoncrop_14_h5,0|0
 62,Tap here to collect your [c][d76500]online rewards[-][/c]!,buttoncrop_35,0|0,,

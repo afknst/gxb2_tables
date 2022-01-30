@@ -9,9 +9,9 @@ id,name,from,content
 8,Mini Pass Rewards,Mini Pass,"Dear Senpai, please collect the following rewards in time. Your Mini Pass will expire in {1} day(s)."
 9,Mini Pass Expired,Mini Pass,"Dear Senpai, your Mini Pass has expired. Please visit the Homework section to renew your Mini Pass. As a reminder, the Mini pass is 10 times cheaper than buying Gems individually!"
 10,Summon Girl Rewards,Summon Rewards,Congratulations on summoning {1} during the event. Your rewards are available in Mail on the FrontPage.
-11,Daily Rewards,System Message,Login every day during event and you can collect Adv. Capsule Coin x 3 and Christmas Sock x 1.
+11,Daily Rewards,System Message,"Login every day during the event and you will receive Adv. Capsule Coin x 3, Lucky Coin x 2. Your rewards are attached."
 12,Capsule Reward,System Message,"Congratulations, you've completed {1} Adv. Capsule Draws during event Girls X Capsule Points, here's your reward."
-13,Daily Rewards,System Message,"During the event, login daily to receive Seal x 1,2022 Lucky Gift x 5, 2022 Lovely Gift x 1. Your rewards are attached."
+13,Daily Rewards,System Message,"Login every day during the event and you will receive Seal x 1, Match x 1. Your rewards are attached."
 14,Enroll Rewards,System Message,Congratulations on reaching {1} points during the Enroll event. Here are your rewards~!
 15,Boss Fight Rewards,System Message,Congratulations on defeating your friend's Boss. You have received the following rewards for your service!
 16,Boss Fight Rewards,System Message,The friend BOSS you found has been defeated. You have received the following rewards for your help!
@@ -19,10 +19,10 @@ id,name,from,content
 18,Girls Assembly Rewards,System Message,Congratulations! You reached a goal during the Girls Assembly Event. The following are your rewards.
 19,Beta Period Reload Rebate,System Message,Thank you for purchasing {1}. Here is your bonus reward for supporting us during the testing phase!
 20,Lottery Rewards,System Message,Congratulations! You reached {1} points during the Slot Machine Event! Here are your rewards~!
-21,Daily Rewards,System Message,"Login every day during the event and you will receive Elemental Orb x 100, Advance Internship Scroll x 1, and Prayer Coin x 5. Your rewards are attached."
+21,Daily Rewards,System Message,"Login every day during the event and you will receive Elemental Orb x 100, Advance Internship Scroll x 1, and Match x 1. Your rewards are attached."
 22,Internship Rewards,System Message,Congratulations! You've completed {1} star internship quest during the Internship Event! Here are your rewards.
 23,Reload Notice,System Message,Thank you for purchasing {1}. Your items are available in Bag. Have a look~!
-24,Daily Rewards,System Message,"Login every day during the event and you will receive Rudder x 4, Gem x 150, Ragged Bottle x 5, Lucky Coin x 2. Your rewards are attached."
+24,Daily Rewards,System Message,"Login every day during the event and you will receive Rudder x 4, Gem x 150, Fishing Rod x 5. Your rewards are attached."
 25,League Battle Rewards,System Message,Congratulations! You reached a goal during the League event. Here are your rewards~!
 26,Subscription,Subscription,Congratulations! You are a Weekly Pass holder. Your Coin Loot will increase by 100% for the next 168 hours. This benefit is combined with VIP benefits.
 27,Weekly Pass will expire,Weekly Pass,Your Weekly Pass expires today. Please renew your Weekly Pass to continue enjoying the benefits. Looting Coin is increased 100% while the pass is active~!
@@ -59,7 +59,7 @@ id,name,from,content
 58,Guild War Final Round,System Message,Congratulations! Your guild is ranked in Top {1} in the Final Round of the Guild War. Here are your rewards!
 59,Guild War Final Round,System Message,"Congratulations! Your guild was the runner up in the Guild War Final Round! To reward your skill and valor, here is your prize!"
 60,Guild War Final Round,System Message,"Congratulations! Your guild was the champion in the Guild War Final Round! To reward your skill and valor, here is your prize!"
-61,Christmas Card,System Message,You are a Lv. {1} user and you get the following rewards today. Your Christmas Card still has {3} days to expire!
+61,Spring Festival Card,System Message,You are a level {1} user. Here's your reward today. Your Spring Festival Card will expire in {3} days!
 62,Monthly Pass just renewed,Monthly Pass,Thank you for renewing your Monthly Pass. Your current subscription expires in {1} days.
 63,Mini Pass just renewed,Mini Pass,Thank you for renewing your Mini Pass. Your current subscription expires in {1} days.
 64,Jigsaw Puzzle Event,Event Mail,Congratulations! You completed {1} Jigsaw Puzzles. You've earned the following rewards!
@@ -111,7 +111,7 @@ id,name,from,content
 110,Speed Challenge Reward,System Message,"Congratulations Senpai, you are No.{1} in the ranking list of Speed Challenge, your reward is attached!"
 111,Test Objective Reward,System Message,"Dear Senpai,\n\nCongratulations on completing the Test Objectives, here are your rewards!"
 112,Event Item Retrieve,System Message,"Dear Senpai, the event: {1} is over, the {2} {3}s you have are retrieved, here's your reward."
-113,Girls Reward,System Message,"Congratulations for acquiring {1} Maia or Gwen & Brigit during the event, here's your reward!"
+113,Girls Reward,System Message,"Congratulations for acquiring {2} {1} time(s) during the event, here's your reward!"
 114,Colorful Balloon Reward,System Message,Congratulations for getting {1} Intimacy Points in event: Colorful Balloon. Here's your reward.
 115,First Audition Reward,System Message,"Congratulations for becoming No.{1} in First Audition, your rewards are attached!"
 116,First Audition Reward,System Message,"Congratulations on being in the first {1}% in First Audition, your rewards are attached!"
@@ -150,7 +150,7 @@ id,name,from,content
 149,Newbie Benefit Reward,System Message,"Senpai, congratulations for completing the task. Here's the reward you forgot to claim at the event page!"
 150,Newbie Benefit Progress,System Message,"Senpai, congratulations for getting {1} points in Newbie Benefit! Here's the reward you forgot to claim in the event page!"
 151,Luvly's Reward,Event Mail,"Senpai, congratulations for collecting {1} Coral Branch(es), here's your reward!"
-152,Daily Rewards,System Message,"Login every day during the event and you will receive Rudder x 4, Gem x 150, Ragged Bottle x 5, Lucky Coin x 2. Your rewards are attached."
+152,Daily Rewards,System Message,"Login every day during the event and you will receive Rudder x 4, Gem x 150, Fishing Rod x 5. Your rewards are attached."
 153,Event Item Retrieve,System Message,"Dear Senpai, event: {1} is ended, {2} x {3} of yours have been retrieved."
 154,Exploration Ranking Reward,System Message,"Congratulations, Senpai! You're No. {1} in this season of Old Campus Exploration, here's your reward!"
 155,Exploration Reward,System Message,"Dear Senpai, the event: Old Campus Exploration has ended, here's your unclaimed reward!"
@@ -195,7 +195,7 @@ Yuki apologizes for the inconvenience, for any further queries, please don’t h
 187,Miss Yume Pageant - Vote Reward,Event Mail,"Dear Senpai, congratulations, you completed the voting task in ""Miss Yume Pageant"". Here's your reward!"
 188,Blessings from the Stars,Event Mail,"Dear Senpai, please accept the gift from Vivian! Hope you enjoy the life in Yume Academy like always!"
 190,Entrance Exam Notice,Event Mail,Congratulations! Your rank in Entrance Exam has been promoted !Head to the event page to check out the new details of your promotion!
-191,Opening Ceremony Reward,System Message,Congratulations on completing the event task of Outfit Store Opening Ceremony! Here's your reward!
+191,Outfit Shopping Spree,System Message,Congratulations on completing the event task of Outfit Shopping Spree! Here's your reward!
 192,Red Riding Hood,Event Mail,"Thanks for purchasing Red Riding Hood's Gift, here's your reward for today. Your Grade 3 reward will expire in {1} days!"
 193,Red Riding Hood,Event Mail,"Thanks for purchasing Red Riding Hood's Gift, here's your reward for today. Your Grade 2 reward will expire in {1} days!"
 194,Skin Adjustment Compensation,System Message,"Dear Senpai, the background design for the skin ""Watergun Fight"" is adjusted in the recent update. (The background of the skin now is deleted and becomes an available background in Menu-Image). Please take these 300 Gems as compensation, and you can choose to purchase the background (Beach Corner) in Menu-Image with the Gems compensated to you because of this adjustment.\nWe would like to apologize for any inconvenience caused. For any further assistance, please do not hesitate to contact Yuki via the in-game GM channel."
@@ -221,3 +221,7 @@ Yuki apologizes for the inconvenience, for any further queries, please don’t h
 214,Reward,System Message,"You have successfully purified the Chaos Boss and have entered a more dangerous area, please claim your reward. (Outfit Bonus triggered, you received additional Crystal Chisels!)"
 215,Christmas Exchange Notice,Event Mail,"Dear Senpai, the event: ""Christmas Exchange"" is about to end, please don't forget to exchange the gifts you want!"
 216,Above the Fireplace,Event Mail,"Congratulations, you've hung {1} Christmas Socks in event: ""Above the Fireplace""! Here's your reward!"
+217,Old Campus Exploration Hint,System Message,"Dear Senpai, Old Campus Exploration will end in less than 24 hours! Don't forget to check it out!"
+218,Exclusive Packs Hint,System Message,"Dear Senpai, {1} will expire in 24 hours! Don't miss this exclusive chance to get it!"
+219,Firework Carnival Invitation,System Message,"Dear Senpai, do you plan to join our Firework Carnival today? Here are some matches you might need to light the fireworks!"
+220,Firework Festival Reward,System Message,"Congratulations! You've completed {1} firework display(s) during the event, here's your reward!"

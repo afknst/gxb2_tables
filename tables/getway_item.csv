@@ -70,3 +70,5 @@ id,name,item_id,get_limit,show_activity,lv_limit,function_id,go_window,go_params
 70,-1,,,270,0,,activity_window,"select:270,large_series:1"
 71,-1,,,184,0,,activity_window,"select:184,activity_type2:1"
 72,-1,,,235,0,,activity_window,"select:235,activity_type2:1"
+73,-1,,,274,0,,,
+74,-1,,3,276,0,,activity_window,"select:276,activity_type2:1"

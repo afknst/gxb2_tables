@@ -440,7 +440,7 @@ id,unknown_2,name,desc
 4600201,Calista,Holy Light,"Deals (91% of Attack) damage against Front-line enemies and (35% chance) to [c][01a310]Stun[-][/c] them for 2 rounds. Deals extra 50% damage against enemy Warriors.\n[c][01a310]Stun:[-][/c]\nA control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
 4600301,Selene,Cross Light,"Deals (160% of Attack) damage against 2 random enemies and (20% chance) to [c][01a310]Stun[-][/c] them for 2 rounds.\n[c][01a310]Stun:[-][/c]\nA control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
 5100101,Sapphire,Ghost Blast,"Deals (116% of Attack) damage against Back-line enemies and (25% chance) to [c][01a310]Petrify[-][/c] them for 2 rounds.\n[c][01a310]Petrify:[-][/c]\nA control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
-5100201,Gambler,Danger Card,"Deals (132% of Attack) damage against 2 random enemies, dealing extra (60% of Attack) [c][01a310]Bleed[-][/c] damage each round for 3 rounds, the [c][01a310]Bleed[-][/c] damage will increase to 92% each round for 2 rounds for Ranger class enemies.\n[c][01a310]Bleed:[-][/c]\nA damage over time. Damage is dealt once when bleed is inflicted and during the period of effect, damage will be dealt at the beginning of each round."
+5100201,Gambler,Danger Card,"Deals (132% of Attack) damage against 2 random enemies, dealing extra (60% of Attack) [c][01a310]Bleed[-][/c] damage each round for 2 rounds, the [c][01a310]Bleed[-][/c] damage will increase to 92% each round for 2 rounds for Ranger class enemies.\n[c][01a310]Bleed:[-][/c]\nA damage over time. Damage is dealt once when bleed is inflicted and during the period of effect, damage will be dealt at the beginning of each round."
 5100301,Succuba,Life Drain,Deals (80% of Attack) damage against Back-line enemies and heals self for (80% of Attack) HP.
 5100401,Dracula,Bat Blast,"Deals (120% of Attack) damage against 3 random enemies and has an 80% chance to [c][01a310]Stun[-][/c] enemy Mages for 2 rounds.\n[c][01a310]Stun:[-][/c]\nA control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
 5100501,Wu Kong,Holy Stick,"Deals (100% of Attack) damage against 3 random enemies and (60% chance) to [c][01a310]Stun[-][/c] enemy Assassins for 2 rounds.\n[c][01a310]Stun:[-][/c]\nA control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
@@ -707,7 +707,7 @@ Deals (150% of Attack) damage against Back-line enemies and (32% chance) to [c][
 Mark effct, the Round Mark will be removed 2 round later and deals (250% of Attack) damage at the same time, can stack.
 [c][01a310]Stun:[-][/c]
 A control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
-75300601,Hexa,Justice Rains,"Deals (190% of Attack) damage against 2 random backline enemies, steals 30% Attack from target for 2 rounds, gains Crit Damage by 40% for 3 rounds and self-heals (35% of Damage) HP."
+75300601,Hexa,Justice Rains,"Deals (190% of Attack) damage against 2 random backline enemies, steals 30% Attack from target for 3 rounds, gains Crit Damage by 40% for 3 rounds and self-heals (35% of Damage) HP."
 75300701,Alice,Dragon Fight,"Deals (146% of Attack) damage against all enemies, dealing extra 140% damage to Warrior class enemies. Gains 12% Damage Reduction."
 75300801,Muppet,Muppet String,"Deals (200% of Attack) damage against Front-line enemies, if the enemy has lower HP than self, deals extra (18% of the enemy's MAXIMUM health) damage, increases self Attack by 15% and Armor Break by 15%."
 75300901,Priestess,Yinyang Strike,"
@@ -3050,33 +3050,33 @@ Kratos leaves no chance for the wounded to recover. Basic Attack targets the ene
 [c][e28002]Terrorize:[-][/c]
 Control effect, terrorized targets cannot perform Basic Attacks."
 5500704,Kratos,War Machine,"
-No matter how long the battle last for, Kratos never seems to be tired. Gains 5% Attack, 5% Crit Damage, and a [c][e28002]Barrier of Darkness[-][/c] with every Basic Attack or Active Skill done by Kratos. When an enemy is [c][e28002]Terrorized[-][/c], heals self for (50% of Attack) HP and gains a [c][e28002]Barrier of Darkness[-][/c].
+No matter how long the battle last for, Kratos never seems to be tired. Gains 5% Attack, 5% Crit Damage, and a [c][e28002]Shield of Darkness[-][/c] with every Basic Attack or Active Skill done by Kratos. When an enemy is [c][e28002]Terrorized[-][/c], heals self for (50% of Attack) HP and gains a [c][e28002]Shield of Darkness[-][/c].
 
 [c][e28002]Terrorize:[-][/c]
 Control effect, terrorized targets cannot perform Basic Attacks.
-[c][e28002] Barrier of Darkness:[-][/c]
-Skill effect, each Barrier of Darkness grants 10% Control Immunity and 3% Damage Reduction. Kratos can gain 5 Barriers of Darkness at most."
+[c][e28002]Shield of Darkness:[-][/c]
+Skill effect, each Shield of Darkness grants 10% Control Immunity and 3% Damage Reduction. Kratos can gain 5 Shields of Darkness at most."
 65501604,Kratos,War Machine,"
-No matter how long the battle last for, Kratos never seems to be tired. Gains 10% Attack, 10% Crit Damage, and a [c][e28002]Barrier of Darkness[-][/c] with every Basic Attack or Active Skill done by Kratos. When an enemy is [c][e28002]Terrorized[-][/c], heals self for (100% of Attack) HP and gains a [c][e28002]Barrier of Darkness[-][/c].
+No matter how long the battle last for, Kratos never seems to be tired. Gains 10% Attack, 10% Crit Damage, and a [c][e28002]Shield of Darkness[-][/c] with every Basic Attack or Active Skill done by Kratos. When an enemy is [c][e28002]Terrorized[-][/c], heals self for (100% of Attack) HP and gains a [c][e28002]Shield of Darkness[-][/c].
 
 [c][e28002]Terrorize:[-][/c]
 Control effect, terrorized targets cannot perform Basic Attacks.
-[c][e28002] Barrier of Darkness:[-][/c]
-Skill effect, each Barrier of Darkness grants 15% Control Immunity and 4.5% Damage Reduction. Kratos can gain 5 Barriers of Darkness at most."
+[c][e28002]Shield of Darkness:[-][/c]
+Skill effect, each Shield of Darkness grants 15% Control Immunity and 4.5% Damage Reduction. Kratos can gain 5 Shields of Darkness at most."
 65501614,Kratos,War Machine,"
-No matter how long the battle last for, Kratos never seems to be tired. Gains 15% Attack, 15% Crit Damage, and a [c][e28002]Barrier of Darkness[-][/c] with every Basic Attack or Active Skill done by Kratos. When an enemy is [c][e28002]Terrorized[-][/c], heals self for (150% of Attack) HP and gains a [c][e28002]Barrier of Darkness[-][/c].
+No matter how long the battle last for, Kratos never seems to be tired. Gains 15% Attack, 15% Crit Damage, and a [c][e28002]Shield of Darkness[-][/c] with every Basic Attack or Active Skill done by Kratos. When an enemy is [c][e28002]Terrorized[-][/c], heals self for (150% of Attack) HP and gains a [c][e28002]Shield of Darkness[-][/c].
 
 [c][e28002]Terrorize:[-][/c]
 Control effect, terrorized targets cannot perform Basic Attacks.
-[c][e28002] Barrier of Darkness:[-][/c]
-Skill effect, each Barrier of Darkness grants 20% Control Immunity and 6% Damage Reduction. Kratos can gain 5 Barriers of Darkness at most."
+[c][e28002]Shield of Darkness:[-][/c]
+Skill effect, each Shield of Darkness grants 20% Control Immunity and 6% Damage Reduction. Kratos can gain 5 Shields of Darkness at most."
 75500604,Kratos,War Machine,"
-No matter how long the battle last for, Kratos never seems to be tired. Gains 15% Attack, 15% Crit Damage, and a [c][e28002]Barrier of Darkness[-][/c] with every Basic Attack or Active Skill done by Kratos. When an enemy is [c][e28002]Terrorized[-][/c], heals self for (150% of Attack) HP and gains a [c][e28002]Barrier of Darkness[-][/c].
+No matter how long the battle last for, Kratos never seems to be tired. Gains 15% Attack, 15% Crit Damage, and a [c][e28002]Shield of Darkness[-][/c] with every Basic Attack or Active Skill done by Kratos. When an enemy is [c][e28002]Terrorized[-][/c], heals self for (150% of Attack) HP and gains a [c][e28002]Shield of Darkness[-][/c].
 
 [c][e28002]Terrorize:[-][/c]
 Control effect, terrorized targets cannot perform Basic Attacks.
-[c][e28002] Barrier of Darkness:[-][/c]
-Skill effect, each Barrier of Darkness grants 20% Control Immunity and 6% Damage Reduction. Kratos can gain 5 Barriers of Darkness at most."
+[c][e28002]Shield of Darkness:[-][/c]
+Skill effect, each Shield of Darkness grants 20% Control Immunity and 6% Damage Reduction. Kratos can gain 5 Shields of Darkness at most."
 5600600,Nephilim,Basic Attack,Basic Attack
 65601600,Nephilim,Basic Attack,Basic Attack
 75600600,Nephilim,Basic Attack,Basic Attack
@@ -3448,28 +3448,28 @@ Deals 180% of Basic Attack to frontline enemies, gaining 1 [c][e28002]Dauntless[
 [c][e28002]Dauntless:[-][/c]
 Mark effect, when taking damage from Active Skill or Basic Attack, remove 1 stack of Dauntless reduce 50% of Damage and reflects back on the attacker."
 5201404,Rogue,Royal Flush,"
-When Rogue Crits, deals an additional (30% of Attack damage) against all her enemies, gain 1 stack of [c][e28002]Disrespect[-][/c] and [c][e28002]Dauntless[-][/c] effect.
+When Rogue Crits, deals an additional (30% of Attack) damage against all her enemies, gain 1 stack of [c][e28002]Disrespect[-][/c] and [c][e28002]Dauntless[-][/c] effect.
 
 [c][e28002]Disrespect:[-][/c]
 Skill effect, when controlled, remove 1 stack of Disrespect to immune from the control effect.
 [c][e28002]Dauntless:[-][/c]
 Mark effect, when taking damage from Active Skill or Basic Attack, remove 1 stack of Dauntless reduce 20% of Damage and reflects back on the attacker."
 65202104,Rogue,Royal Flush,"
-When Rogue Crits, deals an additional (60% of Attack damage) against all her enemies, gain 1 stack of [c][e28002]Disrespect[-][/c] and [c][e28002]Dauntless[-][/c] effect.
+When Rogue Crits, deals an additional (60% of Attack) damage against all her enemies, gain 1 stack of [c][e28002]Disrespect[-][/c] and [c][e28002]Dauntless[-][/c] effect.
 
 [c][e28002]Disrespect:[-][/c]
 Skill effect, when controlled, remove 1 stack of Disrespect to immune from the control effect.
 [c][e28002]Dauntless:[-][/c]
 Mark effect, when taking damage from Active Skill or Basic Attack, remove 1 stack of Dauntless reduce 30% of Damage and reflects back on the attacker."
 65202114,Rogue,Royal Flush,"
-When Rogue Crits, deals an additional (100% of Attack damage) against all her enemies, gain 1 stack of [c][e28002]Disrespect[-][/c] and [c][e28002]Dauntless[-][/c] effect.
+When Rogue Crits, deals an additional (100% of Attack) damage against all her enemies, gain 1 stack of [c][e28002]Disrespect[-][/c] and [c][e28002]Dauntless[-][/c] effect.
 
 [c][e28002]Disrespect:[-][/c]
 Skill effect, when controlled, remove 1 stack of Disrespect to immune from the control effect.
 [c][e28002]Dauntless:[-][/c]
 Mark effect, when taking damage from Active Skill or Basic Attack, remove 1 stack of Dauntless reduce 50% of Damage and reflects back on the attacker."
 75201404,Rogue,Royal Flush,"
-When Rogue Crits, deals an additional (100% of Attack damage) against all her enemies, gain 1 stack of [c][e28002]Disrespect[-][/c] and [c][e28002]Dauntless[-][/c] effect.
+When Rogue Crits, deals an additional (100% of Attack) damage against all her enemies, gain 1 stack of [c][e28002]Disrespect[-][/c] and [c][e28002]Dauntless[-][/c] effect.
 
 [c][e28002]Disrespect:[-][/c]
 Skill effect, when controlled, remove 1 stack of Disrespect to immune from the control effect.
@@ -4677,35 +4677,35 @@ Deals 198% of Basic Attack to frontline enemies, gaining 1 [c][e28002]Dauntless[
 [c][e28002]Dauntless:[-][/c]
 Mark effect, when taking damage from Active Skill or Basic Attack, remove 1 stack of Dauntless reduce 50% of Damage and reflects back on the attacker."
 752014041,Rogue,Royal Flush,"
-When Rogue Crits, deals an additional (102% of Attack damage) against all her enemies, gain 1 stack of [c][e28002]Disrespect[-][/c] and [c][e28002]Dauntless[-][/c] effect.
+When Rogue Crits, deals an additional (102% of Attack) damage against all her enemies, gain 1 stack of [c][e28002]Disrespect[-][/c] and [c][e28002]Dauntless[-][/c] effect.
 
 [c][e28002]Disrespect:[-][/c]
 Skill effect, when controlled, remove 1 stack of Disrespect to immune from the control effect.
 [c][e28002]Dauntless:[-][/c]
 Mark effect, when taking damage from Active Skill or Basic Attack, remove 1 stack of Dauntless reduce 50% of Damage and reflects back on the attacker."
 752014042,Rogue,Royal Flush,"
-When Rogue Crits, deals an additional (104% of Attack damage) against all her enemies, gain 1 stack of [c][e28002]Disrespect[-][/c] and [c][e28002]Dauntless[-][/c] effect.
+When Rogue Crits, deals an additional (104% of Attack) damage against all her enemies, gain 1 stack of [c][e28002]Disrespect[-][/c] and [c][e28002]Dauntless[-][/c] effect.
 
 [c][e28002]Disrespect:[-][/c]
 Skill effect, when controlled, remove 1 stack of Disrespect to immune from the control effect.
 [c][e28002]Dauntless:[-][/c]
 Mark effect, when taking damage from Active Skill or Basic Attack, remove 1 stack of Dauntless reduce 50% of Damage and reflects back on the attacker."
 752014043,Rogue,Royal Flush,"
-When Rogue Crits, deals an additional (106% of Attack damage) against all her enemies, gain 1 stack of [c][e28002]Disrespect[-][/c] and [c][e28002]Dauntless[-][/c] effect.
+When Rogue Crits, deals an additional (106% of Attack) damage against all her enemies, gain 1 stack of [c][e28002]Disrespect[-][/c] and [c][e28002]Dauntless[-][/c] effect.
 
 [c][e28002]Disrespect:[-][/c]
 Skill effect, when controlled, remove 1 stack of Disrespect to immune from the control effect.
 [c][e28002]Dauntless:[-][/c]
 Mark effect, when taking damage from Active Skill or Basic Attack, remove 1 stack of Dauntless reduce 50% of Damage and reflects back on the attacker."
 752014044,Rogue,Royal Flush,"
-When Rogue Crits, deals an additional (108% of Attack damage) against all her enemies, gain 1 stack of [c][e28002]Disrespect[-][/c] and [c][e28002]Dauntless[-][/c] effect.
+When Rogue Crits, deals an additional (108% of Attack) damage against all her enemies, gain 1 stack of [c][e28002]Disrespect[-][/c] and [c][e28002]Dauntless[-][/c] effect.
 
 [c][e28002]Disrespect:[-][/c]
 Skill effect, when controlled, remove 1 stack of Disrespect to immune from the control effect.
 [c][e28002]Dauntless:[-][/c]
 Mark effect, when taking damage from Active Skill or Basic Attack, remove 1 stack of Dauntless reduce 50% of Damage and reflects back on the attacker."
 752014045,Rogue,Royal Flush,"
-When Rogue Crits, deals an additional (110% of Attack damage) against all her enemies, gain 1 stack of [c][e28002]Disrespect[-][/c] and [c][e28002]Dauntless[-][/c] effect.
+When Rogue Crits, deals an additional (110% of Attack) damage against all her enemies, gain 1 stack of [c][e28002]Disrespect[-][/c] and [c][e28002]Dauntless[-][/c] effect.
 
 [c][e28002]Disrespect:[-][/c]
 Skill effect, when controlled, remove 1 stack of Disrespect to immune from the control effect.
@@ -4886,11 +4886,11 @@ While below 50% health, increases Damage Reduction to self by 50% for 3 rounds a
 
 [c][e28002]Round Mark:[-][/c]
 Mark effect, the Round Mark will be removed 1 round later and deals (275% of Attack) damage at the same time, can stack. (Can only trigger once)"
-753006011,Hexa,Justice Rains,"Deals (193% of Attack) damage against 2 random backline enemies, steals 30% Attack from target for 2 rounds, gains Crit Damage by 40% for 3 rounds and self-heals (35% of Damage) HP."
-753006012,Hexa,Justice Rains,"Deals (196% of Attack) damage against 2 random backline enemies, steals 30% Attack from target for 2 rounds, gains Crit Damage by 40% for 3 rounds and self-heals (35% of Damage) HP."
-753006013,Hexa,Justice Rains,"Deals (199% of Attack) damage against 2 random backline enemies, steals 30% Attack from target for 2 rounds, gains Crit Damage by 40% for 3 rounds and self-heals (35% of Damage) HP."
-753006014,Hexa,Justice Rains,"Deals (202% of Attack) damage against 2 random backline enemies, steals 30% Attack from target for 2 rounds, gains Crit Damage by 40% for 3 rounds and self-heals (35% of Damage) HP."
-753006015,Hexa,Justice Rains,"Deals (205% of Attack) damage against 2 random backline enemies, steals 35% Attack from target for 2 rounds, gains Crit Damage by 40% for 3 rounds and self-heals (35% of Damage) HP."
+753006011,Hexa,Justice Rains,"Deals (193% of Attack) damage against 2 random backline enemies, steals 30% Attack from target for 3 rounds, gains Crit Damage by 40% for 3 rounds and self-heals (35% of Damage) HP."
+753006012,Hexa,Justice Rains,"Deals (196% of Attack) damage against 2 random backline enemies, steals 30% Attack from target for 3 rounds, gains Crit Damage by 40% for 3 rounds and self-heals (35% of Damage) HP."
+753006013,Hexa,Justice Rains,"Deals (199% of Attack) damage against 2 random backline enemies, steals 30% Attack from target for 3 rounds, gains Crit Damage by 40% for 3 rounds and self-heals (35% of Damage) HP."
+753006014,Hexa,Justice Rains,"Deals (202% of Attack) damage against 2 random backline enemies, steals 30% Attack from target for 3 rounds, gains Crit Damage by 40% for 3 rounds and self-heals (35% of Damage) HP."
+753006015,Hexa,Justice Rains,"Deals (205% of Attack) damage against 2 random backline enemies, steals 35% Attack from target for 3 rounds, gains Crit Damage by 40% for 3 rounds and self-heals (35% of Damage) HP."
 753006021,Hexa,Holy Power,"Increases Attack by 37%, Crit by 30% and HP by 20%"
 753006022,Hexa,Holy Power,"Increases Attack by 37%, Crit by 30% and HP by 22%"
 753006023,Hexa,Holy Power,"Increases Attack by 37.5%, Crit by 30% and HP by 22%"
@@ -5932,40 +5932,40 @@ Kratos leaves no chance for the wounded to recover. Basic Attack targets the ene
 [c][e28002]Terrorize:[-][/c]
 Control effect, terrorized targets cannot perform Basic Attacks."
 755006041,Kratos,War Machine,"
-No matter how long the battle last for, Kratos never seems to be tired. Gains 15% Attack, 15% Crit Damage, and a [c][e28002]Barrier of Darkness[-][/c] with every Basic Attack or Active Skill done by Kratos. When an enemy is [c][e28002]Terrorized[-][/c], heals self for (156% of Attack) HP and gains a [c][e28002]Barrier of Darkness[-][/c].
+No matter how long the battle last for, Kratos never seems to be tired. Gains 15% Attack, 15% Crit Damage, and a [c][e28002]Shield of Darkness[-][/c] with every Basic Attack or Active Skill done by Kratos. When an enemy is [c][e28002]Terrorized[-][/c], heals self for (156% of Attack) HP and gains a [c][e28002]Shield of Darkness[-][/c].
 
 [c][e28002]Terrorize:[-][/c]
 Control effect, terrorized targets cannot perform Basic Attacks.
-[c][e28002] Barrier of Darkness:[-][/c]
-Skill effect, each Barrier of Darkness grants 20% Control Immunity and 6% Damage Reduction. Kratos can gain 5 Barriers of Darkness at most."
+[c][e28002]Shield of Darkness:[-][/c]
+Skill effect, each Shield of Darkness grants 20% Control Immunity and 6% Damage Reduction. Kratos can gain 5 Shields of Darkness at most."
 755006042,Kratos,War Machine,"
-No matter how long the battle last for, Kratos never seems to be tired. Gains 15% Attack, 15% Crit Damage, and a [c][e28002]Barrier of Darkness[-][/c] with every Basic Attack or Active Skill done by Kratos. When an enemy is [c][e28002]Terrorized[-][/c], heals self for (159% of Attack) HP and gains a [c][e28002]Barrier of Darkness[-][/c].
+No matter how long the battle last for, Kratos never seems to be tired. Gains 15% Attack, 15% Crit Damage, and a [c][e28002]Shield of Darkness[-][/c] with every Basic Attack or Active Skill done by Kratos. When an enemy is [c][e28002]Terrorized[-][/c], heals self for (159% of Attack) HP and gains a [c][e28002]Shield of Darkness[-][/c].
 
 [c][e28002]Terrorize:[-][/c]
 Control effect, terrorized targets cannot perform Basic Attacks.
-[c][e28002] Barrier of Darkness:[-][/c]
-Skill effect, each Barrier of Darkness grants 20% Control Immunity and 6% Damage Reduction. Kratos can gain 5 Barriers of Darkness at most."
+[c][e28002]Shield of Darkness:[-][/c]
+Skill effect, each Shield of Darkness grants 20% Control Immunity and 6% Damage Reduction. Kratos can gain 5 Shields of Darkness at most."
 755006043,Kratos,War Machine,"
-No matter how long the battle last for, Kratos never seems to be tired. Gains 15% Attack, 15% Crit Damage, and a [c][e28002]Barrier of Darkness[-][/c] with every Basic Attack or Active Skill done by Kratos. When an enemy is [c][e28002]Terrorized[-][/c], heals self for (162% of Attack) HP and gains a [c][e28002]Barrier of Darkness[-][/c].
+No matter how long the battle last for, Kratos never seems to be tired. Gains 15% Attack, 15% Crit Damage, and a [c][e28002]Shield of Darkness[-][/c] with every Basic Attack or Active Skill done by Kratos. When an enemy is [c][e28002]Terrorized[-][/c], heals self for (162% of Attack) HP and gains a [c][e28002]Shield of Darkness[-][/c].
 
 [c][e28002]Terrorize:[-][/c]
 Control effect, terrorized targets cannot perform Basic Attacks.
-[c][e28002] Barrier of Darkness:[-][/c]
-Skill effect, each Barrier of Darkness grants 20% Control Immunity and 6% Damage Reduction. Kratos can gain 5 Barriers of Darkness at most."
+[c][e28002]Shield of Darkness:[-][/c]
+Skill effect, each Shield of Darkness grants 20% Control Immunity and 6% Damage Reduction. Kratos can gain 5 Shields of Darkness at most."
 755006044,Kratos,War Machine,"
-No matter how long the battle last for, Kratos never seems to be tired. Gains 15% Attack, 15% Crit Damage, and a [c][e28002]Barrier of Darkness[-][/c] with every Basic Attack or Active Skill done by Kratos. When an enemy is [c][e28002]Terrorized[-][/c], heals self for (164% of Attack) HP and gains a [c][e28002]Barrier of Darkness[-][/c].
+No matter how long the battle last for, Kratos never seems to be tired. Gains 15% Attack, 15% Crit Damage, and a [c][e28002]Shield of Darkness[-][/c] with every Basic Attack or Active Skill done by Kratos. When an enemy is [c][e28002]Terrorized[-][/c], heals self for (164% of Attack) HP and gains a [c][e28002]Shield of Darkness[-][/c].
 
 [c][e28002]Terrorize:[-][/c]
 Control effect, terrorized targets cannot perform Basic Attacks.
-[c][e28002] Barrier of Darkness:[-][/c]
-Skill effect, each Barrier of Darkness grants 20% Control Immunity and 6% Damage Reduction. Kratos can gain 5 Barriers of Darkness at most."
+[c][e28002]Shield of Darkness:[-][/c]
+Skill effect, each Shield of Darkness grants 20% Control Immunity and 6% Damage Reduction. Kratos can gain 5 Shields of Darkness at most."
 755006045,Kratos,War Machine,"
-No matter how long the battle last for, Kratos never seems to be tired. Gains 17% Attack, 15% Crit Damage, and a [c][e28002]Barrier of Darkness[-][/c] with every Basic Attack or Active Skill done by Kratos. When an enemy is [c][e28002]Terrorized[-][/c], heals self for (166% of Attack) HP and gains a [c][e28002]Barrier of Darkness[-][/c].
+No matter how long the battle last for, Kratos never seems to be tired. Gains 17% Attack, 15% Crit Damage, and a [c][e28002]Shield of Darkness[-][/c] with every Basic Attack or Active Skill done by Kratos. When an enemy is [c][e28002]Terrorized[-][/c], heals self for (166% of Attack) HP and gains a [c][e28002]Shield of Darkness[-][/c].
 
 [c][e28002]Terrorize:[-][/c]
 Control effect, terrorized targets cannot perform Basic Attacks.
-[c][e28002] Barrier of Darkness:[-][/c]
-Skill effect, each Barrier of Darkness grants 20% Control Immunity and 6% Damage Reduction. Kratos can gain 5 Barriers of Darkness at most."
+[c][e28002]Shield of Darkness:[-][/c]
+Skill effect, each Shield of Darkness grants 20% Control Immunity and 6% Damage Reduction. Kratos can gain 5 Shields of Darkness at most."
 755007011,Izanami,Death Blossom,"
 Izanami protects her allies with her deathly blossoms. Deals (204% of Attack) Damage to frontline enemies and has 75% chance to [c][01a310]Petrify[-][/c] targets for 2 rounds, adding 2 stack of [c][e28002]Lily Shield[-][/c] to all allies.
 
@@ -8711,7 +8711,7 @@ My bow is fully drawn; it\'s time to hunt. Run as far as you like, but my arrow 
 In the next round, deals (1632% of Attack) damage to all enemies, and gains 4 stacks of [c][e28002]Sun Slayer[-][/c] that lasts for 4 rounds.
 
 [c][e28002]Sun Slayer: [-][/c]
-Skill Effect, Angelica will Hunt the enemy with lowest HP percentage the same number of times as the stacks of Sun Slayer that she has when she triggers Active Skills and Basic Attacks, dealing (1306% of Attack) damage each time. The stacks of Sun Slayer will not be removed after use."
+Skill Effect, Angelica will Hunt the enemy with lowest HP percentage the same number of times as the stacks of Sun Slayer that she has when she triggers Active Skills and Basic Attacks, dealing (306% of Attack) damage each time. The stacks of Sun Slayer will not be removed after use."
 756008012,Angelica,"Ready, Aim, Fire!","
 My bow is fully drawn; it\'s time to hunt. Run as far as you like, but my arrow will find its way through your heart. Increases self Crit by 50% and Damage Reduction by 40% for 2 rounds, and prepares to release a rain of arrows upon all enemies in the next round. Preparation Period lasts for 1 round, starting from the round this skill is used. During Preparation Period, Angelica will not be able to attack the enemy, is immune to all Control Effects, and will not have her Energy increased or decreased. 
 In the next round, deals (1664% of Attack) damage to all enemies, and gains 4 stacks of [c][e28002]Sun Slayer[-][/c] that lasts for 4 rounds.
@@ -8729,7 +8729,7 @@ My bow is fully drawn; it\'s time to hunt. Run as far as you like, but my arrow 
 In the next round, deals (1728% of Attack) damage to all enemies, and gains 4 stacks of [c][e28002]Sun Slayer[-][/c] that lasts for 4 rounds.
 
 [c][e28002]Sun Slayer: [-][/c]
-Skill Effect, Angelica will Hunt the enemy with lowest HP percentage the same number of times as the stacks of Sun Slayer that she has when she triggers Active Skills and Basic Attacks, dealing (1324% of Attack) damage each time. The stacks of Sun Slayer will not be removed after use."
+Skill Effect, Angelica will Hunt the enemy with lowest HP percentage the same number of times as the stacks of Sun Slayer that she has when she triggers Active Skills and Basic Attacks, dealing (324% of Attack) damage each time. The stacks of Sun Slayer will not be removed after use."
 756008015,Angelica,"Ready, Aim, Fire!","
 My bow is fully drawn; it\'s time to hunt. Run as far as you like, but my arrow will find its way through your heart. Increases self Crit by 55% and Damage Reduction by 44% for 2 rounds, and prepares to release a rain of arrows upon all enemies in the next round. Preparation Period lasts for 1 round, starting from the round this skill is used. During Preparation Period, Angelica will not be able to attack the enemy, is immune to all Control Effects, and will not have her Energy increased or decreased. 
 In the next round, deals (1760% of Attack) damage to all enemies, and gains 4 stacks of [c][e28002]Sun Slayer[-][/c] that lasts for 4 rounds.
@@ -9003,7 +9003,7 @@ A Control Effect. During this effect, girls affected will not be able to release
 
 [c][e28002]Terrorize:[-][/c]
 A Control Effect. Terrorized targets cannot perform Basic Attacks."
-5101602,Diana,Chaotic Moon,"My powers come from the distant Moon. Increases HP by 10%, Crit by 20%, Control Immunity by 10% and Speed by 20."
+5101602,Diana,Chaotic Moon,"My powers come from the distant Moon. Increases HP by 10%, Crit by 10%, Control Immunity by 10% and Speed by 20."
 65102302,Diana,Chaotic Moon,"My powers come from the distant Moon. Increases HP by 20%, Crit by 20%, Control Immunity by 20% and Speed by 40."
 65102312,Diana,Chaotic Moon,"My powers come from the distant Moon. Increases HP by 35%, Crit by 30%, Control Immunity by 30% and Speed by 60."
 75101602,Diana,Chaotic Moon,"My powers come from the distant Moon. Increases HP by 35%, Crit by 30%, Control Immunity by 30% and Speed by 60."
@@ -10569,3 +10569,231 @@ Increases Heal Received by 20%, Damage Depletion by 20%, and Energy when attacke
 503114,Sky Island,Critical Strike I,Increase your enemies' Crit by 30%
 503115,Sky Island,Critical Strike II,Increase your enemies' Crit by 60%
 502111,Sky Island,Star Link,The Girl who is afflicted Galaxy by Vivian in the enemy team will only receive 1% of the damage the Vivian takes. 
+5201800,Hermes,Basic Attack,Basic Attack
+65202500,Hermes,Basic Attack,Basic Attack
+75201800,Hermes,Basic Attack,Basic Attack
+5201801,Hermes,Power of Wealth,"
+Everything in the world can be bought...the only question is whether you can afford it.
+
+Deals (240% of Attack) damage to 3 enemies with the highest Attack attribute and gains a [c][e28002]Magick Barrier[-][/c] with (30% of damage dealt) BP.
+If Hermes is already protected by [c][e28002]Magick Barrier[-][/c] when she releases her Active Skill, damage dealt will become Critical damage, and she will deal (60% of the target\'s current HP) extra damage to 1 random enemy (Damage dealt will not surpass 5000% of Hermes\' Attack).
+
+[c][e28002]Magick Barrier:[-][/c]
+A Skill Effect that can stack.
+Nullifies all incoming damage for the owner. The Magick Barrier\'s durability depends on how many Barrier Points (BP) it has: 1 BP nullifies 1 damage. When the Magick Barrier\'s BP reaches 0, it will shatter and disappear. A Magick Barrier can have up to (100% of owner\'s maximum HP) BP."
+65202501,Hermes,Power of Wealth,"
+Everything in the world can be bought...the only question is whether you can afford it.
+
+Deals (480% of Attack) damage to 3 enemies with the highest Attack attribute and gains a [c][e28002]Magick Barrier[-][/c] with (40% of damage dealt) BP.
+If Hermes is already protected by [c][e28002]Magick Barrier[-][/c] when she releases her Active Skill, damage dealt will become Critical damage, and she will deal (70% of the target\'s current HP) extra damage to 1 random enemy (Damage dealt will not surpass 5000% of Hermes\' Attack).
+
+[c][e28002]Magick Barrier:[-][/c]
+A Skill Effect that can stack.
+Nullifies all incoming damage for the owner. The Magick Barrier\'s durability depends on how many Barrier Points (BP) it has: 1 BP nullifies 1 damage. When the Magick Barrier\'s BP reaches 0, it will shatter and disappear. A Magick Barrier can have up to (100% of owner\'s maximum HP) BP."
+75201801,Hermes,Power of Wealth,"
+Everything in the world can be bought...the only question is whether you can afford it.
+
+Deals (1200% of Attack) damage to 3 enemies with the highest Attack attribute and gains a [c][e28002]Magick Barrier[-][/c] with (50% of damage dealt) BP.
+If Hermes is already protected by [c][e28002]Magick Barrier[-][/c] when she releases her Active Skill, damage dealt will become Critical damage, and she will deal (80% of the target\'s current HP) extra damage to 1 random enemy (Damage dealt will not surpass 5000% of Hermes\' Attack).
+
+[c][e28002]Magick Barrier:[-][/c]
+A Skill Effect that can stack.
+Nullifies all incoming damage for the owner. The Magick Barrier\'s durability depends on how many Barrier Points (BP) it has: 1 BP nullifies 1 damage. When the Magick Barrier\'s BP reaches 0, it will shatter and disappear. A Magick Barrier can have up to (100% of owner\'s maximum HP) BP."
+5201802,Hermes,Smart Investments,"I see countless business opportunities.\n\nIncreases Hermes' HP by 15%, Attack by 15%, Control Immunity by 10%, Speed by 20, and reduces Critical Damage taken by 15%."
+65202502,Hermes,Smart Investments,"I see countless business opportunities.\n\nIncreases Hermes' HP by 20%, Attack by 25%, Control Immunity by 20%, Speed by 40, and reduces Critical Damage taken by 20%."
+65202512,Hermes,Smart Investments,"I see countless business opportunities.\n\nIncreases Hermes' HP by 25%, Attack by 35%, Control Immunity by 30%, Speed by 60, and reduces Critical Damage taken by 25%."
+75201802,Hermes,Smart Investments,"I see countless business opportunities.\n\nIncreases Hermes' HP by 25%, Attack by 35%, Control Immunity by 30%, Speed by 60, and reduces Critical Damage taken by 25%."
+5201803,Hermes,Risky Ventures,"
+Can\'t you see how much this investment will bring me?
+
+Basic Attack changed to deal (100% of Attack) damage to 3 enemies with the highest Attack attribute, gains a [c][e28002]Magick Barrier[-][/c] with (30% of damage dealt) BP, and lowers the targets\' Attack and Crit Damage by 10% for 4 Rounds.
+
+[c][e28002]Magick Barrier:[-][/c]
+A Skill Effect that can stack.
+Nullifies all incoming damage for the owner. The Magick Barrier\'s durability depends on how many Barrier Points (BP) it has: 1 BP nullifies 1 damage. When the Magick Barrier\'s BP reaches 0, it will shatter and disappear. A Magick Barrier can have up to (100% of owner\'s maximum HP) BP."
+65202503,Hermes,Risky Ventures,"
+Can\'t you see how much this investment will bring me?
+
+Basic Attack changed to deal (200% of Attack) damage to 3 enemies with the highest Attack attribute, gains a [c][e28002]Magick Barrier[-][/c] with (40% of damage dealt) BP, and lowers the targets\' Attack by 20% and Crit Damage by 15% for 4 Rounds.
+
+[c][e28002]Magick Barrier:[-][/c]
+A Skill Effect that can stack.
+Nullifies all incoming damage for the owner. The Magick Barrier\'s durability depends on how many Barrier Points (BP) it has: 1 BP nullifies 1 damage. When the Magick Barrier\'s BP reaches 0, it will shatter and disappear. A Magick Barrier can have up to (100% of owner\'s maximum HP) BP."
+65202513,Hermes,Risky Ventures,"
+Can\'t you see how much this investment will bring me?
+
+Basic Attack changed to deal (300% of Attack) damage to 3 enemies with the highest Attack attribute, gains a [c][e28002]Magick Barrier[-][/c] with (50% of damage dealt) BP, and lowers the targets\' Attack by 30% and Crit Damage by 20% for 4 Rounds.
+
+[c][e28002]Magick Barrier:[-][/c]
+A Skill Effect that can stack.
+Nullifies all incoming damage for the owner. The Magick Barrier\'s durability depends on how many Barrier Points (BP) it has: 1 BP nullifies 1 damage. When the Magick Barrier\'s BP reaches 0, it will shatter and disappear. A Magick Barrier can have up to (100% of owner\'s maximum HP) BP."
+75201803,Hermes,Risky Ventures,"
+Can\'t you see how much this investment will bring me?
+
+Basic Attack changed to deal (300% of Attack) damage to 3 enemies with the highest Attack attribute, gains a [c][e28002]Magick Barrier[-][/c] with (50% of damage dealt) BP, and lowers the targets\' Attack by 30% and Crit Damage by 20% for 4 Rounds.
+
+[c][e28002]Magick Barrier:[-][/c]
+A Skill Effect that can stack.
+Nullifies all incoming damage for the owner. The Magick Barrier\'s durability depends on how many Barrier Points (BP) it has: 1 BP nullifies 1 damage. When the Magick Barrier\'s BP reaches 0, it will shatter and disappear. A Magick Barrier can have up to (100% of owner\'s maximum HP) BP."
+5201804,Hermes,Alluring Mirage,"
+There is a difference between manipulating wealth and being manipulated by wealth.
+
+At the end of each Round, Hermes first deals (20% of target\'s current HP) to 1 random enemy (Damage dealt will not surpass 2500% of Hermes\' Attack), then deals (20% of target\'s lost HP) to the enemy with lowest HP on the battlefield (Damage dealt will not surpass 2500% of Hermes\' Attack), and gains a [c][e28002]Magick Barrier[-][/c] with (20% of the aforementioned damages) BP.
+
+[c][e28002]Magick Barrier:[-][/c]
+A Skill Effect that can stack.
+Nullifies all incoming damage for the owner. The Magick Barrier\'s durability depends on how many Barrier Points (BP) it has: 1 BP nullifies 1 damage. When the Magick Barrier\'s BP reaches 0, it will shatter and disappear. A Magick Barrier can have up to (100% of owner\'s maximum HP) BP."
+65202504,Hermes,Alluring Mirage,"
+There is a difference between manipulating wealth and being manipulated by wealth.
+
+At the end of each Round, Hermes first deals (30% of target\'s current HP) to 1 random enemy (Damage dealt will not surpass 2500% of Hermes\' Attack), then deals (30% of target\'s lost HP) to the enemy with lowest HP on the battlefield (Damage dealt will not surpass 2500% of Hermes\' Attack), and gains a [c][e28002]Magick Barrier[-][/c] with (25% of the aforementioned damages) BP.
+
+[c][e28002]Magick Barrier:[-][/c]
+A Skill Effect that can stack.
+Nullifies all incoming damage for the owner. The Magick Barrier\'s durability depends on how many Barrier Points (BP) it has: 1 BP nullifies 1 damage. When the Magick Barrier\'s BP reaches 0, it will shatter and disappear. A Magick Barrier can have up to (100% of owner\'s maximum HP) BP."
+65202514,Hermes,Alluring Mirage,"
+There is a difference between manipulating wealth and being manipulated by wealth.
+
+At the end of each Round, Hermes first deals (40% of target\'s current HP) to 1 random enemy (Damage dealt will not surpass 2500% of Hermes\' Attack), then deals (40% of target\'s lost HP) to the enemy with lowest HP on the battlefield (Damage dealt will not surpass 2500% of Hermes\' Attack), and gains a [c][e28002]Magick Barrier[-][/c] with (30% of the aforementioned damages) BP.
+
+[c][e28002]Magick Barrier:[-][/c]
+A Skill Effect that can stack.
+Nullifies all incoming damage for the owner. The Magick Barrier\'s durability depends on how many Barrier Points (BP) it has: 1 BP nullifies 1 damage. When the Magick Barrier\'s BP reaches 0, it will shatter and disappear. A Magick Barrier can have up to (100% of owner\'s maximum HP) BP."
+75201804,Hermes,Alluring Mirage,"
+There is a difference between manipulating wealth and being manipulated by wealth.
+
+At the end of each Round, Hermes first deals (40% of target\'s current HP) to 1 random enemy (Damage dealt will not surpass 2500% of Hermes\' Attack), then deals (40% of target\'s lost HP) to the enemy with lowest HP on the battlefield (Damage dealt will not surpass 2500% of Hermes\' Attack), and gains a [c][e28002]Magick Barrier[-][/c] with (30% of the aforementioned damages) BP.
+
+[c][e28002]Magick Barrier:[-][/c]
+A Skill Effect that can stack.
+Nullifies all incoming damage for the owner. The Magick Barrier\'s durability depends on how many Barrier Points (BP) it has: 1 BP nullifies 1 damage. When the Magick Barrier\'s BP reaches 0, it will shatter and disappear. A Magick Barrier can have up to (100% of owner\'s maximum HP) BP."
+752018011,Hermes,Power of Wealth,"
+Everything in the world can be bought...the only question is whether you can afford it.
+
+Deals (1260% of Attack) damage to 3 enemies with the highest Attack attribute and gains a [c][e28002]Magick Barrier[-][/c] with (50% of damage dealt) BP.
+If Hermes is already protected by [c][e28002]Magick Barrier[-][/c] when she releases her Active Skill, damage dealt will become Critical damage, and she will deal (80% of the target\'s current HP) extra damage to 1 random enemy (Damage dealt will not surpass 5000% of Hermes\' Attack).
+
+[c][e28002]Magick Barrier:[-][/c]
+A Skill Effect that can stack.
+Nullifies all incoming damage for the owner. The Magick Barrier\'s durability depends on how many Barrier Points (BP) it has: 1 BP nullifies 1 damage. When the Magick Barrier\'s BP reaches 0, it will shatter and disappear. A Magick Barrier can have up to (100% of owner\'s maximum HP) BP."
+752018012,Hermes,Power of Wealth,"
+Everything in the world can be bought...the only question is whether you can afford it.
+
+Deals (1320% of Attack) damage to 3 enemies with the highest Attack attribute and gains a [c][e28002]Magick Barrier[-][/c] with (50% of damage dealt) BP.
+If Hermes is already protected by [c][e28002]Magick Barrier[-][/c] when she releases her Active Skill, damage dealt will become Critical damage, and she will deal (80% of the target\'s current HP) extra damage to 1 random enemy (Damage dealt will not surpass 5000% of Hermes\' Attack).
+
+[c][e28002]Magick Barrier:[-][/c]
+A Skill Effect that can stack.
+Nullifies all incoming damage for the owner. The Magick Barrier\'s durability depends on how many Barrier Points (BP) it has: 1 BP nullifies 1 damage. When the Magick Barrier\'s BP reaches 0, it will shatter and disappear. A Magick Barrier can have up to (100% of owner\'s maximum HP) BP."
+752018013,Hermes,Power of Wealth,"
+Everything in the world can be bought...the only question is whether you can afford it.
+
+Deals (1380% of Attack) damage to 3 enemies with the highest Attack attribute and gains a [c][e28002]Magick Barrier[-][/c] with (52% of damage dealt) BP.
+If Hermes is already protected by [c][e28002]Magick Barrier[-][/c] when she releases her Active Skill, damage dealt will become Critical damage, and she will deal (82% of the target\'s current HP) extra damage to 1 random enemy (Damage dealt will not surpass 5000% of Hermes\' Attack).
+
+[c][e28002]Magick Barrier:[-][/c]
+A Skill Effect that can stack.
+Nullifies all incoming damage for the owner. The Magick Barrier\'s durability depends on how many Barrier Points (BP) it has: 1 BP nullifies 1 damage. When the Magick Barrier\'s BP reaches 0, it will shatter and disappear. A Magick Barrier can have up to (100% of owner\'s maximum HP) BP."
+752018014,Hermes,Power of Wealth,"
+Everything in the world can be bought...the only question is whether you can afford it.
+
+Deals (1440% of Attack) damage to 3 enemies with the highest Attack attribute and gains a [c][e28002]Magick Barrier[-][/c] with (52% of damage dealt) BP.
+If Hermes is already protected by [c][e28002]Magick Barrier[-][/c] when she releases her Active Skill, damage dealt will become Critical damage, and she will deal (82% of the target\'s current HP) extra damage to 1 random enemy (Damage dealt will not surpass 5000% of Hermes\' Attack).
+
+[c][e28002]Magick Barrier:[-][/c]
+A Skill Effect that can stack.
+Nullifies all incoming damage for the owner. The Magick Barrier\'s durability depends on how many Barrier Points (BP) it has: 1 BP nullifies 1 damage. When the Magick Barrier\'s BP reaches 0, it will shatter and disappear. A Magick Barrier can have up to (100% of owner\'s maximum HP) BP."
+752018015,Hermes,Power of Wealth,"
+Everything in the world can be bought...the only question is whether you can afford it.
+
+Deals (1500% of Attack) damage to 3 enemies with the highest Attack attribute and gains a [c][e28002]Magick Barrier[-][/c] with (55% of damage dealt) BP.
+If Hermes is already protected by [c][e28002]Magick Barrier[-][/c] when she releases her Active Skill, damage dealt will become Critical damage, and she will deal (85% of the target\'s current HP) extra damage to 1 random enemy (Damage dealt will not surpass 5000% of Hermes\' Attack).
+
+[c][e28002]Magick Barrier:[-][/c]
+A Skill Effect that can stack.
+Nullifies all incoming damage for the owner. The Magick Barrier\'s durability depends on how many Barrier Points (BP) it has: 1 BP nullifies 1 damage. When the Magick Barrier\'s BP reaches 0, it will shatter and disappear. A Magick Barrier can have up to (100% of owner\'s maximum HP) BP."
+752018021,Hermes,Smart Investments,"I see countless business opportunities.\n\nIncreases Hermes' HP by 25%, Attack by 35%, Control Immunity by 30%, Speed by 62, and reduces Critical Damage taken by 25%."
+752018022,Hermes,Smart Investments,"I see countless business opportunities.\n\nIncreases Hermes' HP by 25%, Attack by 35%, Control Immunity by 30%, Speed by 64, and reduces Critical Damage taken by 25%."
+752018023,Hermes,Smart Investments,"I see countless business opportunities.\n\nIncreases Hermes' HP by 25%, Attack by 35%, Control Immunity by 30%, Speed by 66, and reduces Critical Damage taken by 25%."
+752018024,Hermes,Smart Investments,"I see countless business opportunities.\n\nIncreases Hermes' HP by 25%, Attack by 35%, Control Immunity by 30%, Speed by 68, and reduces Critical Damage taken by 25%."
+752018025,Hermes,Smart Investments,"I see countless business opportunities.\n\nIncreases Hermes' HP by 28%, Attack by 38%, Control Immunity by 30%, Speed by 70, and reduces Critical Damage taken by 25%."
+752018031,Hermes,Risky Ventures,"
+Can\'t you see how much this investment will bring me?
+
+Basic Attack changed to deal (306% of Attack) damage to 3 enemies with the highest Attack attribute, gains a [c][e28002]Magick Barrier[-][/c] with (50% of damage dealt) BP, and lowers the targets\' Attack by 30% and Crit Damage by 20% for 4 Rounds.
+
+[c][e28002]Magick Barrier:[-][/c]
+A Skill Effect that can stack.
+Nullifies all incoming damage for the owner. The Magick Barrier\'s durability depends on how many Barrier Points (BP) it has: 1 BP nullifies 1 damage. When the Magick Barrier\'s BP reaches 0, it will shatter and disappear. A Magick Barrier can have up to (100% of owner\'s maximum HP) BP."
+752018032,Hermes,Risky Ventures,"
+Can\'t you see how much this investment will bring me?
+
+Basic Attack changed to deal (312% of Attack) damage to 3 enemies with the highest Attack attribute, gains a [c][e28002]Magick Barrier[-][/c] with (50% of damage dealt) BP, and lowers the targets\' Attack by 30% and Crit Damage by 20% for 4 Rounds.
+
+[c][e28002]Magick Barrier:[-][/c]
+A Skill Effect that can stack.
+Nullifies all incoming damage for the owner. The Magick Barrier\'s durability depends on how many Barrier Points (BP) it has: 1 BP nullifies 1 damage. When the Magick Barrier\'s BP reaches 0, it will shatter and disappear. A Magick Barrier can have up to (100% of owner\'s maximum HP) BP."
+752018033,Hermes,Risky Ventures,"
+Can\'t you see how much this investment will bring me?
+
+Basic Attack changed to deal (318% of Attack) damage to 3 enemies with the highest Attack attribute, gains a [c][e28002]Magick Barrier[-][/c] with (52% of damage dealt) BP, and lowers the targets\' Attack by 30% and Crit Damage by 20% for 4 Rounds.
+
+[c][e28002]Magick Barrier:[-][/c]
+A Skill Effect that can stack.
+Nullifies all incoming damage for the owner. The Magick Barrier\'s durability depends on how many Barrier Points (BP) it has: 1 BP nullifies 1 damage. When the Magick Barrier\'s BP reaches 0, it will shatter and disappear. A Magick Barrier can have up to (100% of owner\'s maximum HP) BP."
+752018034,Hermes,Risky Ventures,"
+Can\'t you see how much this investment will bring me?
+
+Basic Attack changed to deal (324% of Attack) damage to 3 enemies with the highest Attack attribute, gains a [c][e28002]Magick Barrier[-][/c] with (52% of damage dealt) BP, and lowers the targets\' Attack by 30% and Crit Damage by 20% for 4 Rounds.
+
+[c][e28002]Magick Barrier:[-][/c]
+A Skill Effect that can stack.
+Nullifies all incoming damage for the owner. The Magick Barrier\'s durability depends on how many Barrier Points (BP) it has: 1 BP nullifies 1 damage. When the Magick Barrier\'s BP reaches 0, it will shatter and disappear. A Magick Barrier can have up to (100% of owner\'s maximum HP) BP."
+752018035,Hermes,Risky Ventures,"
+Can\'t you see how much this investment will bring me?
+
+Basic Attack changed to deal (330% of Attack) damage to 3 enemies with the highest Attack attribute, gains a [c][e28002]Magick Barrier[-][/c] with (55% of damage dealt) BP, and lowers the targets\' Attack by 33% and Crit Damage by 20% for 4 Rounds.
+
+[c][e28002]Magick Barrier:[-][/c]
+A Skill Effect that can stack.
+Nullifies all incoming damage for the owner. The Magick Barrier\'s durability depends on how many Barrier Points (BP) it has: 1 BP nullifies 1 damage. When the Magick Barrier\'s BP reaches 0, it will shatter and disappear. A Magick Barrier can have up to (100% of owner\'s maximum HP) BP."
+752018041,Hermes,Alluring Mirage,"
+There is a difference between manipulating wealth and being manipulated by wealth.
+
+At the end of each Round, Hermes first deals (41% of target\'s current HP) to 1 random enemy (Damage dealt will not surpass 2500% of Hermes\' Attack), then deals (41% of target\'s lost HP) to the enemy with lowest HP on the battlefield (Damage dealt will not surpass 2500% of Hermes\' Attack), and gains a [c][e28002]Magick Barrier[-][/c] with (30% of the aforementioned damages) BP.
+
+[c][e28002]Magick Barrier:[-][/c]
+A Skill Effect that can stack.
+Nullifies all incoming damage for the owner. The Magick Barrier\'s durability depends on how many Barrier Points (BP) it has: 1 BP nullifies 1 damage. When the Magick Barrier\'s BP reaches 0, it will shatter and disappear. A Magick Barrier can have up to (100% of owner\'s maximum HP) BP."
+752018042,Hermes,Alluring Mirage,"
+There is a difference between manipulating wealth and being manipulated by wealth.
+
+At the end of each Round, Hermes first deals (42% of target\'s current HP) to 1 random enemy (Damage dealt will not surpass 2500% of Hermes\' Attack), then deals (42% of target\'s lost HP) to the enemy with lowest HP on the battlefield (Damage dealt will not surpass 2500% of Hermes\' Attack), and gains a [c][e28002]Magick Barrier[-][/c] with (30% of the aforementioned damages) BP.
+
+[c][e28002]Magick Barrier:[-][/c]
+A Skill Effect that can stack.
+Nullifies all incoming damage for the owner. The Magick Barrier\'s durability depends on how many Barrier Points (BP) it has: 1 BP nullifies 1 damage. When the Magick Barrier\'s BP reaches 0, it will shatter and disappear. A Magick Barrier can have up to (100% of owner\'s maximum HP) BP."
+752018043,Hermes,Alluring Mirage,"
+There is a difference between manipulating wealth and being manipulated by wealth.
+
+At the end of each Round, Hermes first deals (43% of target\'s current HP) to 1 random enemy (Damage dealt will not surpass 2500% of Hermes\' Attack), then deals (43% of target\'s lost HP) to the enemy with lowest HP on the battlefield (Damage dealt will not surpass 2500% of Hermes\' Attack), and gains a [c][e28002]Magick Barrier[-][/c] with (30% of the aforementioned damages) BP.
+
+[c][e28002]Magick Barrier:[-][/c]
+A Skill Effect that can stack.
+Nullifies all incoming damage for the owner. The Magick Barrier\'s durability depends on how many Barrier Points (BP) it has: 1 BP nullifies 1 damage. When the Magick Barrier\'s BP reaches 0, it will shatter and disappear. A Magick Barrier can have up to (100% of owner\'s maximum HP) BP."
+752018044,Hermes,Alluring Mirage,"
+There is a difference between manipulating wealth and being manipulated by wealth.
+
+At the end of each Round, Hermes first deals (44% of target\'s current HP) to 1 random enemy (Damage dealt will not surpass 2500% of Hermes\' Attack), then deals (44% of target\'s lost HP) to the enemy with lowest HP on the battlefield (Damage dealt will not surpass 2500% of Hermes\' Attack), and gains a [c][e28002]Magick Barrier[-][/c] with (30% of the aforementioned damages) BP.
+
+[c][e28002]Magick Barrier:[-][/c]
+A Skill Effect that can stack.
+Nullifies all incoming damage for the owner. The Magick Barrier\'s durability depends on how many Barrier Points (BP) it has: 1 BP nullifies 1 damage. When the Magick Barrier\'s BP reaches 0, it will shatter and disappear. A Magick Barrier can have up to (100% of owner\'s maximum HP) BP."
+752018045,Hermes,Alluring Mirage,"
+There is a difference between manipulating wealth and being manipulated by wealth.
+
+At the end of each Round, Hermes first deals (45% of target\'s current HP) to 1 random enemy (Damage dealt will not surpass 2500% of Hermes\' Attack), then deals (45% of target\'s lost HP) to the enemy with lowest HP on the battlefield (Damage dealt will not surpass 2500% of Hermes\' Attack), and gains a [c][e28002]Magick Barrier[-][/c] with (33% of the aforementioned damages) BP.
+
+[c][e28002]Magick Barrier:[-][/c]
+A Skill Effect that can stack.
+Nullifies all incoming damage for the owner. The Magick Barrier\'s durability depends on how many Barrier Points (BP) it has: 1 BP nullifies 1 damage. When the Magick Barrier\'s BP reaches 0, it will shatter and disappear. A Magick Barrier can have up to (100% of owner\'s maximum HP) BP."

@@ -1,0 +1,5 @@
+id,name,水鏡深戀淨靈皮膚,type,pos,qlt,star,item_lv,price,base1,base2,base3,skill_id,ex_skill,group,job,act,form,suit_name,suit1,suit2,suit3,suit_skills,icon,formula,need_formula,treasure_upgrade,treasure_all_upgrade,treasure_refresh,treasure_lock_up,treasure_max,treasure_weight,artifact_exp,artifact_upg,artifact_next,initial_artifact,power,partner_model,avatar,fx_index,get_ways
+7239,-1,-1,12,7,6,6,1,0,hpP#0.03,atkP#0.04,crit#40,,,,,,,,,,,,partner_avatar_5600903,,,,,,,,,,,,,,5600903,partner_avatar_5600903,2,
+7240,-1,-1,12,7,6,6,1,0,hpP#0.04,atkP#0.03,critTime#100,,,,,,,,,,,,partner_avatar_5401603,,,,,,,,,,,,,,5401603,partner_avatar_5401603,2,
+7241,-1,-1,12,7,6,6,1,0,atkP#0.03,hpP#0.05,healB#0.03,,,,,,,,,,,,partner_avatar_5201704,,,,,,,,,,,,,,5201704,partner_avatar_5201704,3,
+7242,-1,-1,12,7,6,6,1,0,atkP#0.04,decDmg#40,crit#40,,,,,,,,,,,,partner_avatar_5101404,,,,,,,,,,,,,,5101404,partner_avatar_5101404,3,

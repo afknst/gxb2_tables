@@ -101,17 +101,17 @@ id,desc
 1001402,"Has 10% chance of obtaining 50% extra Pages when claiming rewards from Daily, Weekly, or Extra Tasks in Fantasy Book."
 1001403,"Has 15% chance of obtaining 50% extra Pages when claiming rewards from Daily, Weekly, or Extra Tasks in Fantasy Book."
 1001404,"Has 25% chance of obtaining 50% extra Pages when claiming rewards from Daily, Weekly, or Extra Tasks in Fantasy Book."
-1001501,Campaign Loot will accumulate for 15 more minutes past the 10-hour limit. (This effect can stack.)
-1001502,Campaign Loot will accumulate for 20 more minutes past the 10-hour limit. (This effect can stack.)
-1001503,Campaign Loot will accumulate for 25 more minutes past the 10-hour limit. (This effect can stack.)
-1001504,Campaign Loot will accumulate for 35 more minutes past the 10-hour limit. (This effect can stack.)
-1001505,Campaign Loot will accumulate for 45 more minutes past the 10-hour limit. (This effect can stack.)
-1001506,Campaign Loot will accumulate for 65 more minutes past the 10-hour limit. (This effect can stack.)
-1001507,Campaign Loot will accumulate for 5 more minutes past the 10-hour limit. (This effect can stack.)
-1001508,Campaign Loot will accumulate for 5 more minutes past the 10-hour limit. (This effect can stack.)
-1001509,Campaign Loot will accumulate for 5 more minutes past the 10-hour limit. (This effect can stack.)
-1001510,Campaign Loot will accumulate for 5 more minutes past the 10-hour limit. (This effect can stack.)
-1001511,Campaign Loot will accumulate for 5 more minutes past the 10-hour limit. (This effect can stack.)
+1001501,Campaign Loot will accumulate for 15 more minutes past the 12-hour limit. (This effect can stack.)
+1001502,Campaign Loot will accumulate for 20 more minutes past the 12-hour limit. (This effect can stack.)
+1001503,Campaign Loot will accumulate for 25 more minutes past the 12-hour limit. (This effect can stack.)
+1001504,Campaign Loot will accumulate for 35 more minutes past the 12-hour limit. (This effect can stack.)
+1001505,Campaign Loot will accumulate for 45 more minutes past the 12-hour limit. (This effect can stack.)
+1001506,Campaign Loot will accumulate for 65 more minutes past the 12-hour limit. (This effect can stack.)
+1001507,Campaign Loot will accumulate for 5 more minutes past the 12-hour limit. (This effect can stack.)
+1001508,Campaign Loot will accumulate for 5 more minutes past the 12-hour limit. (This effect can stack.)
+1001509,Campaign Loot will accumulate for 5 more minutes past the 12-hour limit. (This effect can stack.)
+1001510,Campaign Loot will accumulate for 5 more minutes past the 12-hour limit. (This effect can stack.)
+1001511,Campaign Loot will accumulate for 5 more minutes past the 12-hour limit. (This effect can stack.)
 1001601,Adds 5 more Girls Capacity
 1001602,Adds 10 more Girls Capacity
 1001603,Adds 20 more Girls Capacity
@@ -190,17 +190,17 @@ id,desc
 1002509,Has 0.2% chance of obtaining 4% extra Standard Files when claiming stage rewards in Old Campus Exploration (This effect can stack)
 1002510,Has 0.2% chance of obtaining 4% extra Standard Files when claiming stage rewards in Old Campus Exploration (This effect can stack)
 1002511,Has 0.2% chance of obtaining 4% extra Standard Files when claiming stage rewards in Old Campus Exploration (This effect can stack)
-1002601,Obtain 0.25% extra Christal Chisels when receiving rewards of Security Squad
-1002602,Obtain 0.5% extra Christal Chisels when receiving rewards of Security Squad
-1002603,Obtain 0.75% extra Christal Chisels when receiving rewards of Security Squad
-1002604,Obtain 1% extra Christal Chisels when receiving rewards of Security Squad
-1002605,Obtain 1.5% extra Christal Chisels when receiving rewards of Security Squad
-1002606,Obtain 2.5% extra Christal Chisels when receiving rewards of Security Squad
-1002607,Obtain 0.1% extra Christal Chisels when receiving rewards of Security Squad
-1002608,Obtain 0.1% extra Christal Chisels when receiving rewards of Security Squad
-1002609,Obtain 0.1% extra Christal Chisels when receiving rewards of Security Squad
-1002610,Obtain 0.1% extra Christal Chisels when receiving rewards of Security Squad
-1002611,Obtain 0.1% extra Christal Chisels when receiving rewards of Security Squad
+1002601,Obtain 0.25% extra Crystal Chisels when receiving rewards of Security Squad
+1002602,Obtain 0.5% extra Crystal Chisels when receiving rewards of Security Squad
+1002603,Obtain 0.75% extra Crystal Chisels when receiving rewards of Security Squad
+1002604,Obtain 1% extra Crystal Chisels when receiving rewards of Security Squad
+1002605,Obtain 1.5% extra Crystal Chisels when receiving rewards of Security Squad
+1002606,Obtain 2.5% extra Crystal Chisels when receiving rewards of Security Squad
+1002607,Obtain 0.1% extra Crystal Chisels when receiving rewards of Security Squad
+1002608,Obtain 0.1% extra Crystal Chisels when receiving rewards of Security Squad
+1002609,Obtain 0.1% extra Crystal Chisels when receiving rewards of Security Squad
+1002610,Obtain 0.1% extra Crystal Chisels when receiving rewards of Security Squad
+1002611,Obtain 0.1% extra Crystal Chisels when receiving rewards of Security Squad
 1002701,Has 4% chance of obtaining 5% extra rewards when defeating Friend Bosses
 1002702,Has 6% chance of obtaining 5% extra rewards when defeating Friend Bosses
 1002703,Has 8% chance of obtaining 5% extra rewards when defeating Friend Bosses
@@ -228,14 +228,47 @@ id,desc
 1003202,Has 0.5% chance to double the reward when claiming the rewards of Daily Quiz · Girl Quiz
 1003203,Has 1% chance to double the reward when claiming the rewards of Daily Quiz · Girl Quiz
 1003204,Has 2% chance to double the reward when claiming the rewards of Daily Quiz · Girl Quiz
-1003301,Has 2% chance of returning 20% Gems consumed when purchasing Admission Tickets (This effect can stack))
-1003302,Has 3% chance of returning 20% Gems consumed when purchasing Admission Tickets (This effect can stack))
-1003303,Has 4% chance of returning 20% Gems consumed when purchasing Admission Tickets (This effect can stack))
-1003304,Has 5% chance of returning 20% Gems consumed when purchasing Admission Tickets (This effect can stack))
-1003305,Has 7% chance of returning 20% Gems consumed when purchasing Admission Tickets (This effect can stack))
-1003306,Has 10% chance of returning 20% Gems consumed when purchasing Admission Tickets (This effect can stack))
-1003307,Has 1% chance of returning 20% Gems consumed when purchasing Admission Tickets (This effect can stack))
-1003308,Has 1% chance of returning 20% Gems consumed when purchasing Admission Tickets (This effect can stack))
-1003309,Has 1% chance of returning 20% Gems consumed when purchasing Admission Tickets (This effect can stack))
-1003310,Has 1% chance of returning 20% Gems consumed when purchasing Admission Tickets (This effect can stack))
-1003311,Has 1% chance of returning 20% Gems consumed when purchasing Admission Tickets (This effect can stack))
+1003301,Has 2% chance of returning 20% Gems consumed when purchasing Admission Tickets (This effect can stack)
+1003302,Has 3% chance of returning 20% Gems consumed when purchasing Admission Tickets (This effect can stack)
+1003303,Has 4% chance of returning 20% Gems consumed when purchasing Admission Tickets (This effect can stack)
+1003304,Has 5% chance of returning 20% Gems consumed when purchasing Admission Tickets (This effect can stack)
+1003305,Has 7% chance of returning 20% Gems consumed when purchasing Admission Tickets (This effect can stack)
+1003306,Has 10% chance of returning 20% Gems consumed when purchasing Admission Tickets (This effect can stack)
+1003307,Has 1% chance of returning 20% Gems consumed when purchasing Admission Tickets (This effect can stack)
+1003308,Has 1% chance of returning 20% Gems consumed when purchasing Admission Tickets (This effect can stack)
+1003309,Has 1% chance of returning 20% Gems consumed when purchasing Admission Tickets (This effect can stack)
+1003310,Has 1% chance of returning 20% Gems consumed when purchasing Admission Tickets (This effect can stack)
+1003311,Has 1% chance of returning 20% Gems consumed when purchasing Admission Tickets (This effect can stack)
+1003401,Has 4% chance of obtaining 20% extra Metal Tags when claiming Showcase Rewards
+1003402,Has 8% chance of obtaining 20% extra Metal Tags when claiming Showcase Rewards
+1003403,Has 12% chance of obtaining 20% extra Metal Tags when claiming Showcase Rewards
+1003404,Has 16% chance of obtaining 20% extra Metal Tags when claiming Showcase Rewards
+1003405,Has 20% chance of obtaining 20% extra Metal Tags when claiming Showcase Rewards
+1003406,Has 30% chance of obtaining 20% extra Metal Tags when claiming Showcase Rewards
+1003407,Has 1% chance of obtaining 20% extra Metal Tags when claiming Showcase Rewards
+1003408,Has 1% chance of obtaining 20% extra Metal Tags when claiming Showcase Rewards
+1003409,Has 1% chance of obtaining 20% extra Metal Tags when claiming Showcase Rewards
+1003410,Has 1% chance of obtaining 20% extra Metal Tags when claiming Showcase Rewards
+1003411,Has 1% chance of obtaining 20% extra Metal Tags when claiming Showcase Rewards
+1003501,Has 4% chance of obtaining 20% extra Portfolios after each Seal is consumed.
+1003502,Has 6% chance of obtaining 20% extra Portfolios after each Seal is consumed.
+1003503,Has 8% chance of obtaining 20% extra Portfolios after each Seal is consumed.
+1003504,Has 10% chance of obtaining 20% extra Portfolios after each Seal is consumed.
+1003505,Has 12% chance of obtaining 20% extra Portfolios after each Seal is consumed.
+1003506,Has 18% chance of obtaining 20% extra Portfolios after each Seal is consumed.
+1003507,Has 0.4% chance of obtaining 20% extra Portfolios after each Seal is consumed.
+1003508,Has 0.4% chance of obtaining 20% extra Portfolios after each Seal is consumed.
+1003509,Has 0.4% chance of obtaining 20% extra Portfolios after each Seal is consumed.
+1003510,Has 0.4% chance of obtaining 20% extra Portfolios after each Seal is consumed.
+1003511,Has 0.4% chance of obtaining 20% extra Portfolios after each Seal is consumed.
+1003601,Has 1% chance of obtaining double Golden Egg energy after each Adv. Capsule is pulled (This effect can stack)
+1003602,Has 2% chance of obtaining double Golden Egg energy after each Adv. Capsule is pulled (This effect can stack)
+1003603,Has 3% chance of obtaining double Golden Egg energy after each Adv. Capsule is pulled (This effect can stack)
+1003604,Has 4% chance of obtaining double Golden Egg energy after each Adv. Capsule is pulled (This effect can stack)
+1003605,Has 5% chance of obtaining double Golden Egg energy after each Adv. Capsule is pulled (This effect can stack)
+1003606,Has 7% chance of obtaining double Golden Egg energy after each Adv. Capsule is pulled (This effect can stack)
+1003607,Has 0.2% chance of obtaining double Golden Egg energy after each Adv. Capsule is pulled (This effect can stack)
+1003608,Has 0.2% chance of obtaining double Golden Egg energy after each Adv. Capsule is pulled (This effect can stack)
+1003609,Has 0.2% chance of obtaining double Golden Egg energy after each Adv. Capsule is pulled (This effect can stack)
+1003610,Has 0.2% chance of obtaining double Golden Egg energy after each Adv. Capsule is pulled (This effect can stack)
+1003611,Has 0.2% chance of obtaining double Golden Egg energy after each Adv. Capsule is pulled (This effect can stack)

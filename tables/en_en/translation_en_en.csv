@@ -112,7 +112,7 @@ HEAL,Heal
 FAIL_ADVICE,Use the following methods to become stronger
 PUB_MISSION_FULL_HERO,You already have enough Girls to battle!
 BATTLE_TIPS_TITLE,Faction Rivalry
-CAMPAIGN_WINDOW_HELP,"1. Each battle zone contains several Stages. Pass all the zones on Normal to unlock Hard Mode. |2. Rewards are granted for beating each Stage. |3. Requirements must be met to unlock each stage. |4. Auto-Battle will collect loot for up to 10 hours. You must return to collect past rewards in order to collect more. |5. Auto-Battle grants EXP Juice, Player EXP, and Coins. Higher stages grant greater rewards. |6. Auto-Battle will also periodically drop other kinds of loot."
+CAMPAIGN_WINDOW_HELP,"1. Each battle zone contains several Stages. Pass all the zones on Normal to unlock Hard Mode. |2. Rewards are granted for beating each Stage. |3. Requirements must be met to unlock each stage. |4. Auto-Battle will collect loot for up to 12 hours. You must return to collect past rewards in order to collect more. |5. Auto-Battle grants EXP Juice, Player EXP, and Coins. Higher stages grant greater rewards. |6. Auto-Battle will also periodically drop other kinds of loot."
 CAMPAIGN_HANG_FORMATION_WINDOW,Team
 SHENXUE_SELECT_WINDOW,Please select Girls to use
 NO_PARTNER,No Girls Selected
@@ -144,7 +144,7 @@ PUB_SPEED_FREE,Free
 PUB_MISSION_COMPLETE2,Finish
 PUB_TICKET_NO_ENOUGH1,You don't have any Internship Scrolls!
 PUB_TICKET_NO_ENOUGH2,Not enough Advanced Internship Scrolls!
-TAVERN_WINDOW_TIPS,"1. Rewards will be given for completing Internships in the given amount of time. Each Girl can only perform 1 task at a time.|2. There is a daily limit for available Internships. You can increase this limit by upgrading your VIP level.|3. Internships that have not yet been started can be refreshed. You can spend Gems to refresh Internships that you don't want.|4. You can use Internship Scrolls to get additional Internships (The Internships acquired this way can also be refreshed).|5. You can spend Gems to speed up the process.|6. Odds for refreshing Internships: 1-star quest: 25.6%%, 2-star quest: 27%%, 3-star quest: 23.2%%, 4-star quest: 15%%, 5-star quest: 8%%, 6-star quest: 1%%, 7-star quest: 0.2%%.|Odds for using Internship Scroll: 1-star quest: 20%%, 2-star quest: 27%%, 3-star quest: 35%%, 4-star quest: 18%%.|Odds for using Advance Internship Scroll: 4-star quest: 56%%, 5-star quest: 35%%, 6-star quest: 7%%, 7-star quest: 2%%.|8. Players can own 999 Internship Scrolls and 999 Advance Internship Scrolls at most."
+TAVERN_WINDOW_TIPS,"1. Rewards will be given for completing Internships in the given amount of time. Each Girl can only perform 1 task at a time.|2. There is a daily limit for Internships that are automatically refreshed. You can increase this limit by upgrading your VIP level.|3. Internships that have not yet been started can be refreshed. You can spend Gems to refresh Internships that you don't want.|4. You can use Internship Scrolls to get additional Internships (The Internships acquired this way can also be refreshed).|5. You can spend Gems to speed up the process.|6. Odds for refreshing Internships: 1-star quest: 25.6%%, 2-star quest: 27%%, 3-star quest: 23.2%%, 4-star quest: 15%%, 5-star quest: 8%%, 6-star quest: 1%%, 7-star quest: 0.2%%.|Odds for using Internship Scroll: 1-star quest: 20%%, 2-star quest: 27%%, 3-star quest: 35%%, 4-star quest: 18%%.|Odds for using Advance Internship Scroll: 4-star quest: 56%%, 5-star quest: 35%%, 6-star quest: 7%%, 7-star quest: 2%%.|8. Players can own 999 Internship Scrolls and 999 Advance Internship Scrolls at most."
 ITEM_SUMMON,Summon
 ITEM_SELL,Sell
 ITEM_DETAIL,Details
@@ -1110,7 +1110,7 @@ REST_ZONE,Rest Area
 MATCH_ZONE,Competition Area
 GUILD_TEAM,Guild Team
 GUILD_WAR_NO_MATCH_TEAM,No guild matched
-GUILD_WAR_HELP,"The Playground is organized into seasons with each season lasting one week. |Each season is divided into 3 phases: the Qualifying Round, Finals, and Off-Season.| |Qualifying Round| 1. Time: Monday 00:00 – Friday 24:00 (GMT 0) | 2. Registration: Guild Leaders and Deputy Leaders must sign their guild up to participate in the Qualifying Round. | 3. Requirements: Guild Lv. 12 or above is required. Each Guild should send between 10-15 Teams. Each Guild Member deploys one team. | 4. Guild Leaders and Deputy Leaders can arrange battle teams. |5. Guild Leaders and Deputy Leaders can 3 hidden teams. |6. Guild Leaders and Deputy Leaders match-up opponents at the Playground. Leaders are allowed 10 seconds to complete the match-up. | 7. Each battle consumes 1 point of Guild Stamina, which is recovered every 3 hours. | 8. Each team can battle 3 times. | 9. If the battle exceeds 15 rounds, Girls remaining will increase their Attack and lower their Healing received each round until the battle is over. | 10. The winning team gains Battle Points for each victory. The Guild that wins the most battles gains Playground Points. | 11. Guilds are ranked based on their Playground Points. | 12. Rewards are sent to Mail based on their Playground Rank. | Finals| 1. The top 16 Guilds in the Qualifying Round automatically enter the Finals. The system matches up qualified Guilds with opponents based on their ranking. | 2. Preparation time: Saturday 00:00 to 16:00; Competition time: Saturday 16:00 to 18:00. | 3. Special frames will be removed when a new season begins. | 4. At the end of the competition, rewards will be sent to Mail based on rank. | 5. Final Ranking Rewards: | Rank 1: 4,000 Guild coins, 1,500,000 Coins| Rank 2: 3,000 Guild coins, 1,000,000 Coins| Rank 3-4: 2,000 Guild coins, 750,000 Coins| Rank 5-8: 1,500 Guild coins, 500,000 Coins| Rank 9-16: 1,000 Guild coins, 250,000 Coins. | Off-Season| 1. In the Off-Season, players can check the battle records from the Finals. | Attention: If players leave their Guild during the Playground season, they will not receive rewards and participate until the next Playground season."
+GUILD_WAR_HELP,"The Playground is organized into seasons with each season lasting one week. |Each season is divided into 3 phases: the Qualifying Round, Finals, and Off-Season.| |Qualifying Round| 1. Time: Monday 00:00 – Friday 24:00 (GMT 0) | 2. Registration: Guild Leaders and Deputy Leaders must sign their guild up to participate in the Qualifying Round. | 3. Requirements: Guild Lv. 12 or above is required. Each Guild should send between 10-15 Teams. Each Guild Member deploys one team. | 4. Guild Leaders and Deputy Leaders can arrange battle teams. |5. Guild Leaders and Deputy Leaders can 3 hidden teams. |6. Guild Leaders and Deputy Leaders match-up opponents at the Playground. Leaders are allowed 10 seconds to complete the match-up. | 7. Each battle consumes 1 point of Guild Stamina, which is recovered every 3 hours. | 8. Each team can battle 3 times. | 9. If the battle exceeds 15 rounds, Girls remaining will increase their Attack and lower their Healing received each round until the battle is over. | 10. The winning team gains Battle Points for each victory. The Guild that wins the most battles gains Playground Points. | 11. Guilds are ranked based on their Playground Points. | 12. Rewards are sent to Mail based on their Playground Rank.| 13. Only the Guild Leader and the Deputy Leader of a Guild can see the actual order of the Guild members in Playground.| Finals| 1. The top 16 Guilds in the Qualifying Round automatically enter the Finals. The system matches up qualified Guilds with opponents based on their ranking. | 2. Preparation time: Saturday 00:00 to 16:00; Competition time: Saturday 16:00 to 18:00. | 3. Special frames will be removed when a new season begins. | 4. At the end of the competition, rewards will be sent to Mail based on rank. | 5. Final Ranking Rewards: | Rank 1: 4,000 Guild coins, 1,500,000 Coins| Rank 2: 3,000 Guild coins, 1,000,000 Coins| Rank 3-4: 2,000 Guild coins, 750,000 Coins| Rank 5-8: 1,500 Guild coins, 500,000 Coins| Rank 9-16: 1,000 Guild coins, 250,000 Coins. | Off-Season| 1. In the Off-Season, players can check the battle records from the Finals. | Attention: If players leave their Guild during the Playground season, they will not receive rewards and participate until the next Playground season."
 GUILD_WAR_FORMATION,Guild War Team
 GUILD_WAR_FORMATION_WINDOW,Team Info
 GUILD_WAR_SWITCH_TEAM_WINDOW,Select Team to Exchange
@@ -1496,10 +1496,10 @@ SUBSCRIPTION_DISABLE_TIPS,Subscription is currently not available. Please 
 DATES_SOUND_TIPS,Voice is currently unavailable
 COMPLETE,OK
 CANCEL_2,Cancel
-ACTIVITY_WEDDING_MISSION_DESC_1,Claim Loot {1} times
+ACTIVITY_WEDDING_MISSION_DESC_1,Purchase {1} piece(s) of Furniture
 ACTIVITY_WEDDING_MISSION_DESC_2,Complete {1} Internship Quests
-ACTIVITY_WEDDING_MISSION_DESC_3,Engage in {1} Junior Varsity Battles
-ACTIVITY_WEDDING_MISSION_DESC_4,Send gifts {1} times
+ACTIVITY_WEDDING_MISSION_DESC_3,Complete {1} Daily Quiz(zes)
+ACTIVITY_WEDDING_MISSION_DESC_4,Send {1} gifts
 WEDDING_VOTE_TEXT_1,True Love's Ticket
 WEDDING_VOTE_TEXT_2,Popularity
 WEDDING_VOTE_TEXT_3,Get Tickets
@@ -1512,7 +1512,7 @@ WEDDING_VOTE_TEXT_9,Number of votes
 WEDDING_VOTE_TEXT_10,Haven't voted yet
 WEDDING_VOTE_TEXT_11,Outcome
 WEDDING_VOTE_TEXT_12,The event is over. You cannot vote
-WEDDING_VOTE_TEXT_13,"1. The event will last 14 days. During the event, you can acquire True Love's Tickets by completing tasks to vote for the girls who you like. The girls with the highest votes will be considered first when the Academy makes a new Oath Skin. (If the girl already has an Oath skin, the chance will move on to the next girl on the ranking list)|2. This is the forth voting event so the girls who earned the top 3 positions (Iron Fist, Angel, Hexa, Esau & Jacob, Hottie, Sakura, Ithil, KongMing and Nephilim) on the previous event will not be in this one.|3. This event has Group Matches and Finals. The girls from Ghost, Monster, and Demon Faction will be in Group A. The girls from Human, Fairy, and Angel Faction will be in Group B. The 6 winners from Group A will be concluded in the 1st-4th day of the event. The 6 winners from Group B will be concluded in the 5th-8th day of the event. The Finals will begin from the 9th day of the event and end on the last day of the event.|4. Players lower than Level 30 cannot vote.|5. There are 4 tasks for this event. You can acquire 1 True Love's Ticket for completing each task. The tasks will refresh every day, but the True Love's Tickets that are not claimed will not be sent to you automatically.|6. The True Love's Tickets you're holding will refresh to 0 at the end of each round of Group Matches. Please use up the True Love's Tickets that you already have on time.|7. Once you spend a certain number of True Love's Tickets, you will receive the rewards via Mail. You can check for details of the prizes at the preview page.|8. The voting number will refresh after a certain period of time or when you vote.|9. You are able to acquire Frames exclusive for this event. If you already acquired the 2 Frames of this event, you will get Gems as reward instead."
+WEDDING_VOTE_TEXT_13,"1. The event will last 14 days. During the event, you can acquire True Love's Tickets by completing tasks to vote for the girls who you like. The girls with the highest votes will be considered first when the Academy makes a new Oath Skin. (If the girl already has an Oath skin, the chance will move on to the next girl on the ranking list)|2. This is the fifth voting event so the girls who earned the top 3 positions (Iron Fist, Angel, Hexa, Esau & Jacob, Hottie, Sakura, Ithil, KongMing, Nephilim, Fenrir, Rogue, and Izanami) on the previous event will not be in this one.|3. This event has Group Matches and Finals. The girls from Ghost, Monster, and Demon Faction will be in Group A. The girls from Human, Fairy, and Angel Faction will be in Group B. The 6 winners from Group A will be concluded in the 1st-4th day of the event. The 4 winners from Group B will be concluded in the 5th-8th day of the event. The Finals will begin from the 9th day of the event and end on the last day of the event.|4. Players lower than Level 30 cannot vote.|5. There are 4 tasks for this event. You can acquire 1 True Love's Ticket for completing each task. The tasks will refresh every day, but the True Love's Tickets that are not claimed will not be sent to you automatically.|6. The True Love's Tickets you're holding will refresh to 0 at the end of each round of Group Matches. Please use up the True Love's Tickets that you already have on time.|7. Once you spend a certain number of True Love's Tickets, you will receive the rewards via Mail. You can check for details of the prizes on the preview page.|8. The voting number will refresh after a certain period of time or when you vote.| You are able to acquire Frames exclusive for this event."
 WEDDING_VOTE_TEXT_14,Default
 WEDDING_VOTE_TEXT_15,Votes remaining:{1}
 GAME_REPAIR_TIPS,"If something wrong happens that causes you to have login issues, you can click the ""Client Repair"" button to fix it. The system will automatically restart the game when the repair process is complete."
@@ -1764,7 +1764,7 @@ DAILY_QUIZ_DESC,There are higher levels of reward to be earned. Tap here to chal
 DAILY_QUIZ_FIGHT_FIRST,Please tap the image on the left to switch the quiz level.
 SENIOR_SCROLL_IF_BUY,プレミアムガチャコインが足りません、購入しますか？
 TOWER_LEVEL,Stage{1}
-MAKE_CAKE_HELP,"1. {1} can be used to exchange prizes at the event interface. | 2. There are five stages in total. The first stage is opened by default. The next stage needs to be unlocked by exchanging any one of the items of the previous one. | 3. Every exchange can get an extra reward for the current stage. The extra rewards for each stage are different and are mentioned in the exchange pages. |4. The exchange page will exist 15 days, and on the last day, {1} will be removed from loot drop.|5. {1} can be received in the following ways: Campaign Loot, purchasing event value packs, Special Skin Packs and Special Gift Packs, completing Girls X Capsule Points event (available from 10/1 to 10/7) and Enroll Exam (available from 10/8 to 10/14).|6. The unused {1} will be automatically exchanged into Coins at the rate of 20K Coins each after the event is over. The Coins will be sent via Mail."
+MAKE_CAKE_HELP,"1. {1} can be used to exchange prizes at the event interface. | 2. There are five stages in total. The first stage is opened by default. The next stage needs to be unlocked by exchanging any one of the items of the previous one. | 3. Every exchange can get an extra reward for the current stage. The extra rewards for each stage are different and are mentioned in the exchange pages. |4. The exchange page will exist 15 days, and on the last day, {1} will be removed from loot drop.|5. {1} can be received in the following ways: Campaign Loot, purchasing event value packs, Special Skin Packs, Special Gift Packs, and Luvly's Elite Supply, completing Luvly's Journey (available from 1/14 to 1/20) and Girls X Capsule Points (available from 1/21 to 1/27).|6. The unused {1} will be automatically exchanged into Coins at the rate of 20K Coins each after the event is over. The Coins will be sent via Mail."
 MAKE_CAKE_ITEM_TEXT1,First
 MAKE_CAKE_ITEM_TEXT2,Second
 MAKE_CAKE_ITEM_TEXT3,Third
@@ -1892,7 +1892,7 @@ GUILD_APPLY_DETAIL_WINDOW,Guild News
 GUILD_APPLY,Apply
 STAGE_OUTPUT_ADDITION_VIP,(VIP +{1}%%)
 STAGE_OUTPUT_ADDITION_SUB,(Subscribe +{1}%%)
-AUTO_BATTLE_RESULTS_TALK,"Welcome back, Senpai!\nI've collected the loot\nof 10 hours for you~"
+AUTO_BATTLE_RESULTS_TALK,"Welcome back, Senpai!\nI've collected the loot\nof 12 hours for you~"
 LOGIN_HANGUP_TEXT03,"{1}H, {2}m, {3}sec"
 LOGIN_HANGUP_TEXT02,Duration：
 LOGIN_HANGUP_TEXT05,Location：
@@ -2267,7 +2267,7 @@ HOUSE_TEXT_38,"
 
 3. Furniture pieces will provide Comfort for the room without actually being placed in the Dorm once you acquire them.
 
-4. The increase in Comfort will also increase the resource output from the Dorm. Resource output is counted every 5 seconds and can accumulate up to 10 hours like Auto-Loot.
+4. The increase in Comfort will also increase the resource output from the Dorm. Resource output is counted every 5 seconds and can accumulate up to 12 hours like Auto-Loot.
 
 5. A player will get a chance each day to share your Dorm appearance in Chat Channels and invite others to visit.
 
@@ -2666,10 +2666,10 @@ ACTIVITY_FACTORY_PRODUCE_NUM,Amount
 ACTIVITY_FACTORY_PRODUCE_COST,Material Required
 ACTIVITY_FACTORY_TIPS,"Congratulations, you've produced a perfect {1}! Here is your reward!"
 ACTIVITY_FACTORY_EASTER_EGG,The {1} you made is eaten by a Hunter… But your reward is still issued! The Hunter paid for your cake!
-NEW_SUMMON_SPECIAL_HERO_GIFT_TEXT02,"During the event, there's a higher chance of getting the new girl: Gwen & Brigit/Maia. You will get a higher chance to acquire new girl as you draw more times from Advanced Capsule. (Tips: You cannot acquire the new girl from Enroll this week)"
+NEW_SUMMON_SPECIAL_HERO_GIFT_TEXT02,"During the event, there's a higher chance of getting the new girl: {1}. You will get a higher chance to acquire new girl as you draw more times from Advanced Capsule. (Tips: You cannot acquire the new girl from Enroll this week)"
 NEW_SUMMON_SPECIAL_HERO_GIFT_TEXT03,"[c][d95b61]Hint:[-][/c]\nIf the girl is obtained from Enroll-Exchange, rewards will be sent via Mail."
 NEW_SUMMON_SPECIAL_HERO_GIFT_TEXT04,Details
-NEW_SUMMON_SPECIAL_HERO_GIFT_TEXT05,Obtain Gwen & Brigit or Maia {2} time(s)
+NEW_SUMMON_SPECIAL_HERO_GIFT_TEXT05,Acquire {1} {2} time(s)
 NEED_HERO_GUIDE,"Dear Senpai, you still got Girls available for this battle, tap on their avatars and deploy them!"
 DELETE_CHAT_FOR_SURE,Are you sure to delete this message?
 ACTIVITY_FACTORY_TIPS1,You still need to choose your reward!
@@ -3504,7 +3504,7 @@ LIMIT_BUY_TIMES,Purchase limit: {1}
 ENTRANCE_TEST_HELP_DES_1_1_NONEWGIRL,The Entrance Exam for the new semester has begun!\nIt's a perfect chance for you to test out the new Girls on campus!
 GUILD_KICK_TIPS,Are you sure to remove this player from your Guild?
 ACADEMY_ASSESSMENT_WINDOW_HELP_NEW_2,"1. The new version of the feature: House Exams is updated. It now will be divided into seasons that are made up of an exam period (13 days) and a result display period (1 day).|2. The Exams of 6 Houses will all be available during the exam period. But only the girls in the corresponding faction can be used in the exams. You will have your Exam progress reset and receive rewards according to your progress in this season(before the reset) in the result display period.|3. The Exam for each House has 100 stages, the enemies will be different in each season. You will be able to check the detail of the enemy lineups of each stage by tapping the button in the top right corner of the stage.|4. The Admission Tickets will be refreshed to 25 each day, you can purchase more Admission Tickets with Gems.|5. You will get an additional reward for the first time you pass a stage. This reward won't be refreshed by seasons. (But if you have acquired the reward in the old version of this feature, you will still be able to acquire it again for once in the new version)|6. You will get rewards for passing a stage. You will also be able to raid the passed levels with Certificates for additional rewards.|7. The Certificate you hold will be refreshed to 2 each day. And you will increase your daily Certificate refresh amount to 3/4/5 after passing Stage 9/18/30 in the exam of any one of the 6 Houses and get 1 additional Certificate on the day you achieve this.|8. You are able to purchase 10 additional Certificates with Gems (The price of Certificates will increase gradually as you buy more in a day) each day. (Certificate you have will also be refreshed so please use them up in time).|9. The daily refresh time for Admission Tickets and Certificates will be at 0:00 （UTC/GMT 0) every day.|10. You will get Exam Scores for passing (not raiding) stages. You can get 1 Exam Score for passing Stage 1-20, 2 Exam Scores for passing Stage 21-40, 4 Exam Scores for passing Stage 41-60, 6 Exam Scores for passing Stage 61-80 and 8 Exam Scores for passing Stage 81-100. You will get different rewards on the result display days according to the total Exam Scores you get|11. The player who gets the highest score in the exam of a House will also get a frame that lasts for 14 days from that house. If multiple players get the same Exam Score in 1 season, their position in the ranking list will be arranged according to the time they pass the test. 10 players at most can get the frame in the exam of a House this way(Which means they will also need to get the same highest scores instead of just being in Top 10 of the ranking list). The rewards will be issued via Mail."
-GACHA_GUARANTEE_TEXT,"1. During the event, all chances to obtain 5-star girls will be [c][DE512B]doubled[-][/c].|2. For every [c][DE512B]100[-][/c] Advanced Capsules drawn, an additional increased rate to obtain the new Girl will be added on top of the doubled rate.|3. Once [c][DE512B]500[-][/c] draws have been reached, [c][DE512B]Gwen & Brigit[-][/c] or [c][DE512B]Maia[-][/c] is guaranteed to be drawn. Thereafter, your progress will reset."
+GACHA_GUARANTEE_TEXT,"1. During the event, all chances to obtain 5-star girls will be [c][DE512B]doubled[-][/c].|2. For every [c][DE512B]100[-][/c] Advanced Capsules drawn, an additional increased rate to obtain the new Girl(s) will be added on top of the doubled rate.|3. Once [c][DE512B]500[-][/c] draws progress have been reached, [c][DE512B]{1}[-][/c] is guaranteed to be drawn. Whenever you receive {1} from Advanced Capsules, your progress will reset."
 GACHA_GUARANTEE_UP,Rate UP
 ACTIVITY_ICE_SECRET_BOSS_TEXT01,Chances:{1}
 ACTIVITY_ICE_SECRET_BOSS_TEXT02,Not enough Challenge Chance!
@@ -3721,7 +3721,7 @@ ACTIVITY_LAFULI_DRIFT_GO,Please choose how many blocks you want to advance
 ACTIVITY_LAFULI_DRIFT_CARD,Please flip a card
 ACTIVITY_LAFULI_DRIFT_AWARD,Collect
 ACTIVITY_LAFULI_DRIFT_ROUND,Round completed: {1}
-ACTIVITY_LAFULI_DRIFT_HELP,"1. Tap the “Rudder” to rotate, the points that the rotation stops on will be the distance in which Luvly proceeds forward. When “Advanced Rudder” is used, you can select the number of blocks to proceed.|2. While moving past or landing at a Coral Tree, Luvly will pick up Coral Branches. Each stop at a Coral Tree will increase 1 level for a maximum amount of 3 levels (however, your level will not increase when passing a Coral Tree.)|3. When Luvly lands on a resource block, the corresponding resource can be obtained. Each stop on a resource block will increase 1 level (resource reward increases as the block level increases) for a maximum amount of 3 levels.|4. When Luvly lands on a Shining Pearl, the corresponding number of Shining Pearls can be obtained. Shining Pearls can be used to exchange rewards in the event store. The unused Shining Pearl will be automatically exchanged into Coins at a rate of 100K Coins each once the event is over. The Coins will be sent via Mail. |5. When Luvly lands at a Conch, select one of 3 mystery cards with various effects that will appear.|6. When Luvly lands on a Whirlpool, the next time the (Advanced) Rudder is rotated, Luvly will only move half the distance.|7. Once the Coral Branch collection amount has been reached, rewards can be obtained. See details in the Gift Box on the upper right corner of the page.|8. Once the Coral Branch collection amount has been reached, the counter will reset (can be completed multiple times).|9. Tap the ""Auto-Navigate"" button to use Rudders automatically (Advanced Rudder excluded). If Luvly lands on a Conch in this mode, a random card will be flipped automatically. You can end the ""Auto-Navigate"" mode by tapping the ""End"" button or leaving the event page.|10. Once the event ends, unused Rudders (Advanced Rudder included) will be converted to 2 Coral Branches each and thereafter, corresponding rewards may be obtained.|11. Methods to acquire Rudders:|- Purchase with Gem (30 times max)|- Exclusive Task|-Luvly’s Elite Supply|- Value Pack|- Special Gift Pack|- Daily Mail"
+ACTIVITY_LAFULI_DRIFT_HELP,"1. Tap the “Rudder” to rotate, the points that the rotation stops on will be the distance in which Luvly proceeds forward. When “Advanced Rudder” is used, you can select the number of blocks to proceed.|2. While moving past or landing at a Coral Tree, Luvly will pick up Coral Branches. Each stop at a Coral Tree will increase 1 level for a maximum amount of 3 levels (however, your level will not increase when passing a Coral Tree.)|3. When Luvly lands on a resource block, the corresponding resource can be obtained. Each stop on a resource block will increase 1 level (resource reward increases as the block level increases) for a maximum amount of 3 levels.|4. When Luvly lands on a Shining Pearl, the corresponding number of Shining Pearls can be obtained. Shining Pearls can be used to exchange rewards in the event store. The unused Shining Pearl will be automatically exchanged into Coins at a rate of 100K Coins each once the event is over. The Coins will be sent via Mail. |5. When Luvly lands at a Conch, select one of 3 mystery cards with various effects that will appear.|6. When Luvly lands on a Whirlpool, the next time the (Advanced) Rudder is rotated, Luvly will only move half the distance.|7. Once the Coral Branch collection amount has been reached, rewards can be obtained. See details in the Gift Box on the upper right corner of the page.|8. Once the Coral Branch collection amount has been reached, the counter will reset (can be completed multiple times).|9. Tap the ""Auto-Navigate"" button to use Rudders automatically (Advanced Rudder excluded). If Luvly lands on a Conch in this mode, a random card will be flipped automatically. You can end the ""Auto-Navigate"" mode by tapping the ""End"" button or leaving the event page.|10. Once the event ends, unused Rudders (Advanced Rudder included) will be converted to 2 Coral Branches each and thereafter, corresponding rewards may be obtained.|11. Methods to acquire Rudders:|- Purchase with Gem (30 times max)|- Exclusive Task|-Luvly’s Elite Supply|- Value Pack|- Special Gift Pack|- Special Skin Pack|- Daily Mail"
 ONE_KEY_COMPOSE,Forge All
 ONE_KEY_COMPOSE_TEXT,"You have enough resource to forge all the Gears below, confirm to continue?"
 ONE_KEY_COMPOSE_TEXT2,No Gear available to be forged
@@ -3936,8 +3936,8 @@ TRAVEL_MAIN_TEXT34,Chests at or above Stage 4 provide 2 Random Rewards
 TRAVEL_MAIN_TEXT35,Chest Quality
 TRAVEL_MAIN_TEXT36,Claim Stage {1} Chest {2} Time(s)
 ACTIVITY_NEWYEAR_WELFARE_TEXT01,Ends in:
-ACTIVITY_NEWYEAR_WELFARE_TEXT02,Gem
-ACTIVITY_NEWYEAR_WELFARE_TEXT03,Coin
+ACTIVITY_NEWYEAR_WELFARE_TEXT02,Gems
+ACTIVITY_NEWYEAR_WELFARE_TEXT03,Coins
 GACHA_LIMIT_PARTNER,up
 SPRING_FESTIVAL_HELP,"1. During the event, you can exchange Girls from different Faction with Festival Charms.|2. You can get additional rewards after you have exchanged a certain number of Girls, you can get more rewards as you exchange more Girls.|3. Each Faction will become available again after you have exchanged 1 Girl from each Faction, but each Girl in the Factions can only be exchanged once.|4. Methods to acquire Festival Charms:|- Consume 3000 Gems - 30 Festival Charms({1}/1)|- Consume 30M Coins - 30 Festival Charms({2}/1)|- Consume 100 League Tickets - 30 Festival Charms({3}/1)|- Consume 1 Rudder - 2 Festival Charms({4}/100)|- Purchase Value Packs|- Purchase Special Gift Packs|- Purchase Special Skin Packs|5. After the event is over, the unused Festival Charms will be automatically retrieved by the system and exchanged into Rune Engravings. Each Festival Charm is worth 1 Rune Engraving. The Rune Engravings will be issued to your account via Mail."
 SPRING_FESTIVAL_TEXT01,Choose a Girl
@@ -4789,7 +4789,7 @@ ACTIVITY_POPULARITY_VOTE_SURVEYTEXT13,Miss Yume Skin Election
 DRESS_SUMMON_LABEL_2,Tap to check available Outfits
 DRESS_SUMMON_LABEL_4,Orange Outfit piece in [c][e96516]{1}[-][/c] Draw(s)
 DRESS_SUMMON_LABEL_1,Free Chance available: {1}
-DRESS_SUMMON_LABEL_3,"Rates of acquiring\n""Santa Claus"" set"
+DRESS_SUMMON_LABEL_3,"Rates of acquiring ""Traditional Game"" set"
 ACTIVITY_POPULARITY_VOTE_SURVEYTEXT10,Miss Yume\nSkin Election
 ACTIVITY_POPULARITY_VOTE_SURVEYTEXT11,"Senpai, thank you for your support! Hope you enjoy a wonderful time on campus!"
 ONE_KEY_UPLEVEL_TITLE,Quick Upgrade
@@ -4902,10 +4902,10 @@ ACTIVITY_ENTRANCE_TEST_RANK_WINDOW_5,Event ends in:
 ACTIVITY_ENTRANCE_TEST_RANK_WINDOW_6,Reward calculation in:
 PUB_MISSION_AUTO_HELP2,"1. The ""Claim in Bulk"" feature helps you claim finished Internship Quests easier.|2. You can choose the star rank of the Internship Quests you would like to claim rewards from. Multiple star ranks can be selected at the same time. After the selection, completed Internship Quests of the corresponding star ranks will appear.|3. If a 6-Star or 7-Star Internship Quest is included in the Internship Quests you would like to claim, a window will pop up asking for your confirmation."
 ENTRANCE_TEST_LEVEL_UP_NEED,Required\nRanking
-WARMUP_ARENA_REACH_RANK_HELP,Benefits for Division {1}:|{2}|Benefits for Division {3}:|{4}|Benefits for Division {5}:|{6}
+WARMUP_ARENA_REACH_RANK_HELP,"1. There are 4 Divisions in this event (B, A, S, and S+). You are only able to challenge the players in the same Division. At the start of the event, all players will be in Division B.|2. If your ranking status meets the requirement to promote your Division at 0:00 (UTC/GMT 0) every day, you will be promoted to a higher.|3. Division description: after reaching Division{1}:|{2}|after reaching Division {3}:|{4}|after reaching Division {5}:|{6}|4. The ranking displayed on the event page is your current position in your current Division. (Maybe you will find that your current ranking has met the requirement to promote, but you didn't move on to the next Division after 0:00 (UTC/GMT 0), this is because you've taken the place of the players that have been promoted to a higher Division)"
 ENTRANCE_TEST_LEVEL_UP_ING,Results are being calculated...
 WARMUP_ARENA_TASK_INFO_1,New Girl Missions
-WARMUP_ARENA_TASK_INFO_2,New Arrivals
+WARMUP_ARENA_TASK_INFO_2,Hermes · Open for Business!
 WARMUP_ARENA_TASK_INFO_3,Mission Rewards
 WARMUP_ARENA_TASK_INFO_4,Extra Rewards
 WARMUP_ARENA_TASK_INFO_5,Unlock after completing star-marked missions
@@ -4948,7 +4948,7 @@ ACTIVITY_DRESS_GACHA_AWARD_JUMP,Go
 QUICK_STARS_TEXT05,Graduating
 EQUIP_LEVELUP_TEXT_19,Select the Class Set you want to exchange
 EQUIP_LEVELUP_TEXT_20,Select the Class Set you want to receive
-DRESS_SUMMON_LIMIT_ACT_DESC,"Use Plain Buttons and Fancy Buttons to obtain Outfit pieces in the event. The chance to acquire pieces from the ""Santa Claus"" Outfit set is increased in this Outfit Sale event."
+DRESS_SUMMON_LIMIT_ACT_DESC,"Use Plain Buttons and Fancy Buttons to obtain Outfit pieces in the event. The chance to acquire ""Traditional Game"" Outfit set is increased in this Outfit Sale event."
 HOUSE_TEXT_60,Confirm to move the Girl to the current floor?
 HOUSE_TEXT_61,No more girls can stay on this floor!
 HOUSE_TEXT_62,Set yourself in this floor
@@ -4997,7 +4997,7 @@ ACTIVITY_TEA_TEXT2,Special gift pack with great rewards and Nephilim's Heaven's 
 ACTIVITY_TEA_TEXT3,Unlock after completing the previous chapter
 ACTIVITY_TEA_TEXT4,Progress
 ACTIVITY_TEA_TEXT5,Complete chapters to get corresponding rewards
-ACTIVITY_FISH_HELP,"1. During the event, ""Fishing Rods"" can be obtained from Daily Mail, Luvly's Journey, Exclusive Tasks, Luvly's Elite Supply Pack, Thanksgiving Feast, Thanksgiving Gifts, Mega Value Packs, Special Skin Packs and Special Gift Packs. In Luvly’s Journey, 1 ""Fishing Rod"" can be obtained for each ""Rudder"" or ""Advanced Rudder"" consumed.|2. You can fish in the event by consuming ""Fishing Rods"" (5 Fishing Rods will be consumed for 1 time of fishing) and corresponding rewards can be obtained according to the type of fish you get. If the fish you get happens to be the fish the Mermaid wants, she will offer you an additional gift.|3. The Mermaid's requested fish will be refreshed after the currently requested fish is obtained, the additional gift will also be refreshed at the same time.|4. If the fish you get is not the one the Mermaid wants, the rate to obtain the fish she wants in the next turn will increase by 10%%. The increased rates will be reset after obtaining the requested fish.|5. You will get a little golden crown or a little silver crown according to the length of the fish you get. You will also get an additional Golden Crown Reward/Surprise Reward if you get a little golden crown for the first time for each type of fish (each type of fish can get 2 little Golden Crown rewards for being the longest or the shortest) or if you get the specific length of fish and is the one that the Mermaid wants.|6. You will also get additional rewards after catching a certain number of fish.|7. Once the event ends, the remaining Fishing Rods will automatically be recycled into Coins at a rate of 20k per Fishing Rod."
+ACTIVITY_FISH_HELP,"1. During the event, ""Fishing Rods"" can be obtained from Daily Mail, Luvly's Journey, Exclusive Tasks, Mega Value Packs, Special Skin Packs and Special Gift Packs. In Luvly’s Journey, 1 ""Fishing Rod"" can be obtained for each ""Rudder"" or ""Advanced Rudder"" consumed.|2. You can fish in the event by consuming ""Fishing Rods"" (5 Fishing Rods will be consumed for 1 time of fishing) and corresponding rewards can be obtained according to the type of fish you get. If the fish you get happens to be the fish the Mermaid wants, she will offer you an additional gift.|3. The Mermaid's requested fish will be refreshed after the currently requested fish is obtained, the additional gift will also be refreshed at the same time.|4. If the fish you get is not the one the Mermaid wants, the rate to obtain the fish she wants in the next turn will increase by 10%%. The increased rates will be reset after obtaining the requested fish.|5. You will get a little golden crown or a little silver crown according to the length of the fish you get. You will also get an additional Golden Crown Reward/Surprise Reward if you get a little golden crown for the first time for each type of fish (each type of fish can get 2 little Golden Crown rewards for being the longest or the shortest) or if you get the specific length of fish and is the one that the Mermaid wants.|6. You will also get additional rewards after catching a certain number of fish.|7. Once the event ends, the remaining Fishing Rods will automatically be recycled into Coins at a rate of 20k per Fishing Rod."
 ACTIVITY_FISH_BUTTON01,Gallery
 ACTIVITY_FISH_BUTTON02,Rewards
 ACTIVITY_FISH_SKIP,Skip
@@ -5033,7 +5033,7 @@ ACTIVITY_MONTHLY_HIKE_SKILL_3,No Skill available for reset
 ACTIVITY_MONTHLY_HIKE_SKILL_4,Saved successfully
 ACTIVITY_MONTHLY_HIKE_SKILL_5,Skill Reset
 BATTLE_OVER_IS_AUTO_CARD,Flip Cards automatically
-ACTIVITY_MONTHLY_HIKE_HELP,"1. There is a total of 53 Stages in Practical Work. Each challenge consumes 1 Practical Map.|2. Practical Maps can be obtained from Campaign Loot and purchased with Gems.|3. Each battle will give a random amount of rewards. Clear a Stage to receive corresponding rewards and to unlock the next Stage.|4. After clearing Stage 50, the 3 remaining Stages can be challenged repeatedly. A random amount of rewards will be awarded for every challenge, but no rewards are available for clearing those Stages.|5. Clearing the first 50 Stages will grant Practical Skill Points used to upgrade Practical Skills.|6. Practical Skills will only take effect in Practical Work.|7. The event will be refreshed every 30 days. Event progress and Practical Skill progress will be reset to the default state.|8. The damage dealt by Servants will not be counted towards the damage dealt in each stage."
+ACTIVITY_MONTHLY_HIKE_HELP,"1. There is a total of 53 Stages in Practical Work. Each challenge consumes 1 Practical Map.|2. Practical Maps can be obtained from Campaign Loot and purchased with Gems.|3. Each battle will give a random amount of rewards. Clear a Stage to receive corresponding rewards and to unlock the next Stage.|4. After clearing Stage 50, the 3 remaining Stages can be challenged repeatedly. A random amount of rewards will be awarded for every challenge, but no rewards are available for clearing those Stages.|5. Clearing the first 50 Stages will grant Practical Skill Points used to upgrade Practical Skills.|6. Practical Skills will only take effect in Practical Work.|7. The event will be refreshed every 30 days. Event progress and Practical Skill progress will be reset to the default state.|8. The damage dealt by Servants will not be counted towards the damage dealt in each stage.|9. When you Raid in the feature, you can activate ""Auto Challenge"" option to move on to the next Stage automatically after passing your current Stage."
 ACTIVITY_MONTHLY_HIKE_SKILL_WINDOW,Practical Skill
 ACTIVITY_MONTHLY_HIKE_SKILL_HELP,"1. Consume Practical Skill Points to upgrade Practical Skills. Upgraded Practical Skills will grant more boosts for your Girls.|2. Practical Skills are classified into 3 different Ranks. Practical Skills in Rank 1 has no requirements to unlock. You will need to use a required number of Practical Skill Points to unlock Practical Skills in Ranks 2 and 3.|3. Certain Practical Skills requires one or more Practical Skills to be upgraded to a certain level before they are unlocked.|4. Practical Skills will only take effect in Practical Work, and will return to the default state when the event is reset.|5. You can reset Practical Skills for free once per season. Resetting Practical Skils manually after the first reset will cost Gems."
 ACTIVITY_MONTHLY_TEXT001,Challenge Rewards
@@ -5125,7 +5125,7 @@ Silver: 2 Frontline backup, 4 Backline backup, 2 Servants
 Gold: 4 Frontline backup, 8 Backline backup, 3 Servants
 Diamond: 8 Frontline backup, 16 Backline backup, 5 Servants
 (5) When challenging other players, the number of slots available in your backup lineup will be adjusted according to your opponent\'s Division.
-(6) If the battle exceeds 15 rounds, Girls remaining will increase their Attack and lower their Heal received each round until the battle is over.|4. Single Elimination & Finals|(1) After Points Race is over, the 320 players in Grandmaster Division will be randomly separated into 5 groups (64 players per group) and enter Single Elimination Phase. If there are less than 320 players but more than 64 players in Grandmaster Division, players from Grandmaster Division will be picked according to their position in the ranking list until the remaining players in Grandmaster Division cannot form a complete group. In this case, they will not enter Single Elimination Phase. If there are less than 64 players in Grandmaster Division, players from other Divisions will be picked according to their position on the ranking list (until there\'re 64 players for the Single Elimination Phase).
+(6) If the battle exceeds 15 rounds, Girls remaining will increase their Attack and lower their Heal received each round until the battle is over.|5. Single Elimination & Finals|(1) After Points Race is over, the 320 players in Grandmaster Division will be randomly separated into 5 groups (64 players per group) and enter Single Elimination Phase. If there are less than 320 players but more than 64 players in Grandmaster Division, players from Grandmaster Division will be picked according to their position in the ranking list until the remaining players in Grandmaster Division cannot form a complete group. In this case, they will not enter Single Elimination Phase. If there are less than 64 players in Grandmaster Division, players from other Divisions will be picked according to their position on the ranking list (until there\'re 64 players for the Single Elimination Phase).
 (2) 1 race will be held each day.0:00 to 2:00 (UTC/GMT 0) is the ending period. During the ending period, players cannot set or adjust their lineups.
 (3) Only Girls that can be awakened to 10-star can be deployed in Single Elimination and Finals. During battles, all Girls will have the attributes of their 15-Star form at level 330 and their Elite Skill upgrade progress will be kept. They will also be equipped with a full Angel Set (Girls equipped with Class Set Gears will still equip their original Gears), and have their Crystals set at the highest grade. The Servant deployed will be at level 180, the Servant\'s Aura level will be at level 50, and the Servant\'s Ulticore level will be kept. Guild Lab skills will be fully upgraded. Attributes from Main Center in Excursion, Skins, Antiques originally held by the Girl, the Girl\'s current intimacy boost, and the Girl\'s potential status will be kept. If the girl hasn\'t chosen her potential boost in a slot it will be considered empty.
 During battles, the HP and Attack of every Girl will be multiplied based on their star-grade:|5-Star-50%%, 6-Star-51%%, 7-Star-53%%|8-Star-55%%, 9-Star-60%%, 10-Star-65%%|11-Star-70%%, 12-Star-75%%, 13-Star-80%%|14-Star-90%%, 15-Star-100%%|6. Exhibition|(1) Exhibition will last for 2 days after Finals end.|7. Hall of Fame|(1) The top 8 players from each Single Elimination Group of each season will be recorded in the Hall of Fame.
@@ -5169,7 +5169,7 @@ DRIFT_BOTTLE_TEXT_08,Tap the Bottles to check the rewards
 NEW_ARENA_ALL_SERVER_TEXT_19,Top {1}
 DRIFT_BOTTLE_TEXT_09,Join to get new skin!
 WARM_UP_GIFT_TEXT_01,Obtainable in New Girl Missions
-WARM_UP_GIFT_TEXT_02,Go
+WARM_UP_GIFT_TEXT_02,Instant Reward
 DRIFT_BOTTLE_TEXT_10,1x
 NEW_ARENA_ALL_MISSION_REFRESH,Task Refreshed
 NEW_ARENA_ALL_MATCH_ERROR,"Opponent lineup adjusted, please choose another opponent"
@@ -5180,7 +5180,7 @@ TIME_CLOISTER_TEXT53,Challenge Card
 TIME_CLOISTER_TEXT54,Encounter Card
 NEW_ARENA_ALL_SERVER_TEXT_20,No reset chance left
 TIME_CLOISTER_MISC,Explore the\nSecrets of Time
-NEW_ARENA_ALL_SERVER_TEXT_21,Countdown:
+NEW_ARENA_ALL_SERVER_TEXT_21,Points Race ends in：
 NEW_ARENA_ALL_SERVER_TEXT_22,Champion List
 NEW_ARENA_ALL_SERVER_TEXT_23,Champion
 NEW_ARENA_ALL_SERVER_TEXT_24,Single Elimination hasn't begun!
@@ -5418,7 +5418,7 @@ ARCTIC_EXPEDITION_TEXT_27,The Event has ended!
 ACTIVITY_LUCKYBOXES_TEXT01,Draw 1 Time
 ACTIVITY_LUCKYBOXES_TEXT02,Draw 10 Times
 ACTIVITY_LUCKYBOXES_TEXT03,Luck
-ACTIVITY_LUCKYBOXES_TEXT04,Lucky Pack
+ACTIVITY_LUCKYBOXES_TEXT04,Lucky Dips Pack
 ACTIVITY_LUCKYBOXES_TEXT05,Insufficient Lucky Coins
 ACTIVITY_LUCKYBOXES_TEXT06,Select an Ultimate Prize!
 ACTIVITY_LUCKYBOXES_TEXT07,Select Reward
@@ -5451,7 +5451,7 @@ TIME_CLOISTER_HELP05,"1. A Support Girl can be available in Stage battles and Sk
 TIME_CLOISTER_TEXT65,Technology · Support
 TIME_CLOISTER_TEXT66,"Upgrade your Support Girl or promote her Advanced Skills with ""Nightmare Points"""
 TIME_CLOISTER_TEXT67,Display
-ACTIVITY_LUCKYBOXES_TEXT14,"1.  Lucky Coins can be used to draw from the Lucky Dips machine and get rewards during the event. Normal rewards or Ultimate Prizes can be obtained from the machine. The Ultimate Prize will need to be manually selected.|2. 2 Lucky points can be obtained from each draw. When 100 Lucky Points are reached, there is a 100%% chance to obtain an Ultimate Prize in the next draw, once an Ultimate Prize is claimed,  your Lucky Points will reset to 0.|3. There are 3 Ultimate Prizes in each round. Once all 3 Ultimate Prizes are obtained, you will enter the next round and the selection for Ultimate Prizes will be updated. After you've completed 6 rounds, the Ultimate Prize selection will be refreshed back to the 1st round.|4. Lucky Coins can be obtained from Daily Mails, by purchasing Lucky Dip packs, or completing the tasks below:|---Get 1 Lucky Coin for every 3 League Tickets consumed (10 Lucky Coins can be obtained in this way)|---Get 1 Lucky Coin for every 200 Gems consumed (20 Lucky Coins can be obtained in this way)|---Get 1 Lucky Coin for each 3-star or above Internship Quest completed (20 Lucky Coins can be obtained in this way)|---Get 1 Lucky Coin for every 200 Crystal Chisels consumed (20 Lucky Coins can be obtained in this way)|---Get 1 Lucky Coin for every Rudder used (80 Lucky Coins can be obtained in this way)|---Get 2 Lucky Coins for every 250 VIP EXP obtained during the event (100 Lucky Coins can be obtained in this way)|5. Once the event ends, your Lucky Coins, Lucky Points, and Reward Progress will be kept till the next event."
+ACTIVITY_LUCKYBOXES_TEXT14,"1.  Lucky Coins can be used to draw from the Lucky Dips machine and get rewards during the event. Normal rewards or Ultimate Prizes can be obtained from the machine. The Ultimate Prize will need to be manually selected.|2. 2 Lucky points can be obtained from each draw. When 100 Lucky Points are reached, there is a 100%% chance to obtain an Ultimate Prize in the next draw, once an Ultimate Prize is claimed,  your Lucky Points will reset to 0.|3. There are 3 Ultimate Prizes in each round. Once all 3 Ultimate Prizes are obtained, you will enter the next round and the selection for Ultimate Prizes will be updated. After you've completed 6 rounds, the Ultimate Prize selection will be refreshed back to the 1st round.|4. Lucky Coins can be obtained from Daily Mails, by purchasing Lucky Dips Pack, or completing the tasks below:|---Get 1 Lucky Coin for every 3 League Tickets consumed (10 Lucky Coins can be obtained in this way)|---Get 1 Lucky Coin for every 200 Gems consumed (20 Lucky Coins can be obtained in this way)|---Get 1 Lucky Coin for each 3-star or above Internship Quest completed (20 Lucky Coins can be obtained in this way)|---Get 1 Lucky Coin for every 200 Crystal Chisels consumed (20 Lucky Coins can be obtained in this way)|---Get 1 Lucky Coin for every 5 Adv. Capsules Pulled (80 Lucky Coins can be obtained in this way)|---Get 2 Lucky Coins for every 250 VIP EXP obtained during the event (100 Lucky Coins can be obtained in this way)|5. Once the event ends, your Lucky Coins, Lucky Points, and Reward Progress will be kept till the next event."
 ACTIVITY_LUCKYBOXES_TEXT15,"After the end of the event, your Lucky Coins, Lucky Points, and the Reward Progress will be kept until the next event."
 TIME_CLOISTER_TEXT68,Please display an {1} to complete the request.
 TIME_CLOISTER_TEXT69,Please display an Outfit piece that reaches the requirement
@@ -5549,7 +5549,7 @@ ALTAR_INFO_5,This Girl cannot be reversed
 ALTAR_INFO_6,This Girl doesn't need to be reversed
 GAMBLE_JUMP_CARTOON,Don't play capsule animation again
 FRIEND_APPLY_LIMIT_TIPS,"The number of friend requests you have received has reached the limit, please check it out"
-SHOW_WINDOW_HELP,"1. There are 4 Showcases available, one each for Tests, Patrol, Security Squad, and House Exams. The Showcases will unlock after their corresponding feature become available.|2. There are 3 Booths (Courage, Charisma, and Knowledge) in each Showcase. Each Booth has 5 Slots, some of the Slots will be locked until you meet their requirements to unlock.|3. 1 Outfit piece can be put into an unlocked Slot, however, different Slots have different requirements for the Outfit pieces to display.|4. Each Outfit displayed will provide a Score for its corresponding Booth (e.g. if an Outfit piece is put in a Courage Booth Slot, it will provide 1 Score for each Courage point it has).|5. Rewards will be calculated once daily according to each Showcase's total score. Rewards will be claimed automatically when you enter a Showcase. 3 Days of rewards can be held at most."
+SHOW_WINDOW_HELP,"1. There are 4 Showcases available, one each for Tests, Patrol, Security Squad, and House Exams. The Showcases will unlock after their corresponding feature become available.|2. There are 3 Booths (Courage, Charisma, and Knowledge) in each Showcase. Each Booth has 5 Slots, some of the Slots will be locked until you meet their requirements to unlock.|3. 1 Outfit piece can be put into an unlocked Slot, however, different Slots have different requirements for the Outfit pieces to display.|4. Each Outfit displayed will provide a Score for its corresponding Booth (e.g. if an Outfit piece is put in a Courage Booth Slot, it will provide 1 Score for each Courage point it has).|5. After upgrading an Outfit piece that you choose to display on one of the showcases, you will need to check the corresponding Showcase again to refresh the Total Score of the Showcase.|6. Rewards will be calculated once daily according to each Showcase's Total Score. Rewards will be claimed automatically when you enter a Showcase. 3 Days of rewards can be kept in the feature at most.|7. The ratings of the Showcases will be decided by the Total Scores of the Showcases, but the Rating won't actually affect the amount of your daily rewards. (E: 0-169 points; D: 170-449 points; C: 450-799 points; B: 800-1099 points; A: 1100-1399 points; S: 1400 points and above)"
 SHOW_WINDOW_SHOP_HELP,"1. ""Rare Tags"" and ""Metal Tags"" can be obtained from daily Showcase rewards and be used to purchase in the Showcase Store.|2. ""Rare Tags"" can be used to activate buffs in different features. 4 Stacks of buffs can be activated at the same time max. The purchase limit of the buffs will be refreshed every week.|3. ""Metal Tags"" can be used to purchase items in the Showcase Store. The purchase limit of the items on the “Rare” page will not be refreshed but the purchase limit of the items on the “Common” page will be refreshed weekly."
 SHOW_WINDOW_TEXT01,Put your Outfits in the Booths and let the Girls judge your taste! Don't miss the chance to lead the trend of the Academy!
 SHOW_WINDOW_TEXT02,Booth {1}
@@ -5593,7 +5593,7 @@ SHOW_WINDOW_TEXT39,Stage {1}
 SHOW_WINDOW_TEXT40,Unlock after total score reaches {1}
 SHOW_WINDOW_TEXT41,Available after this Stage is unlocked
 SHOW_WINDOW_TEXT42,Purchased
-SHOW_WINDOW_TEXT43,Show total score
+SHOW_WINDOW_TEXT43,Total Score
 SHOW_WINDOW_TEXT44,Collectable In {1}
 DUNGEON_NAME_1,Easy
 DUNGEON_NAME_2,Normal
@@ -5603,6 +5603,88 @@ DUNGEON_NAME_5,Fantasy
 DUNGEON_NAME_6,Nightmare
 SHOW_WINDOW_TEXT45,Stage 1|Stage 2|Stage 3|Stage 4
 NEW_ARENA_ALL_SERVER_TEXT_27,Season {1}
-WORLD_BOSS_SWEEP_TIPS2,Auto Challenge the next Stage
+WORLD_BOSS_SWEEP_TIPS2,Auto Challenge
 ACTIVITY_GIFTBAG_OPTIONAL_WINDOW_TEXT,Customized Supply
 SHOW_WINDOW_TEXT46,You already have 4 stacks of this buff activated!
+ACTIVITY_FISH_AUTO,Auto
+ACTIVITY_FISH_AUTO_TEXT,Please choose your Fishing times
+WORLD_BOSS_SWEEP_TEXT01,Raiding...
+WORLD_BOSS_SWEEP_TEXT02,Stop
+WORLD_BOSS_SWEEP_TEXT03,Confirm
+WORLD_BOSS_SWEEP_TEXT04,Raid is over! You challenged [c][0069cc]{1}[-][/c] times.
+WORLD_BOSS_SWEEP_TEXT05,Confirm to stop the raid now?
+NEW_PLAYER_ACTIVITY_TIPS_TITLE,Hint
+NEW_PLAYER_ACTIVITY_TIPS_BUTTON,OK
+WORLD_BOSS_SWEEP_TEXT06,Damage
+SHOW_WINDOW_TEXT47,Showcase Rating refreshed successfully!
+WORLD_BOSS_SWEEP_TEXT07,Stage [c][0069cc]{1}[-][/c]
+SETTING_UP_11,Emergency
+SETTING_UP_WINDOW_11,Emergency
+ACTIVITY_WEDDING_MISSION_DESC_5,Engage {1} Junior Varsity battle(s) with an Oathed Girl in team
+TOWER_SHOW_TEXT01,Get reward after passing {1} more stage(s)
+TOWER_SHOW_TEXT02,Get reward after passing this stage
+GUILD_TEXT70,Refresh
+FIREWORK_TEXT01,Consumed
+ACTIVITY_FIREWORK_SHOP_WINDOW,Carnival Store
+FIREWORK_TEXT03,{1} Firework Point Cards consumed
+FIREWORK_TEXT04,New Merchandise will be unlocked after a certain number of Firework Point Cards are consumed
+FIREWORK_TEXT05,Consume {1}
+FIREWORK_TEXT06,Unlock after consuming {1} Firework Point Cards!
+FIREWORK_TEXT07,Stage {1}
+FIREWORK_TEXT08,"1. You can use “Firework Point Cards” to exchange for rewards in the event store.|2. ""Firework Point Cards"" can be obtained by consuming ""Matches"" in ""Firework Display"".|3. The rewards are separated into several sections. You can only exchange the rewards in the first section at the beginning. The following sections will be unlocked after a certain number of ""Firework Point Cards"" are consumed.|4. The unused ""Firework Point Cards"" will be removed once the event ends, don’t forget to use them in time."
+NOTICE_BTN_GO_TO_TEXT,Go
+FIREWORK_TEXT09,Display(s) completed:
+FIREWORK_TEXT10,Wiki
+FIREWORK_TEXT11,Normal
+FIREWORK_TEXT12,Auto
+FIREWORK_TEXT13,"1. There are 9 Fireworks prepared for each round of Firework Display. You can use a Match to set off a Firework by tapping on the Firework. You will move onto the next round after all Fireworks of your current round are set off.|2. There is a random reward hidden in each of the Fireworks, you can claim the rewards by setting them off.|3. Once a Firework is set, it will ignite flying Sparks. When a Spark reaches another Firework, it has the chance to light it up. When another Spark reaches a lit Firework, the Firework will then set off (additional Matches won’t be consumed in this case).|4. You can get 1 [c][0069cc]Firework Point Card[-][/c] for each Match consumed. Firework Point Cards can be used to exchange for rewards in the event store.|5. You will get 1 Energy after 1 Firework is set off successfully. By consuming 30 Energy, you will enter Fever mode and double the rewards you get for setting off the Fireworks in the current round (Firework Point Cards excluded).|6. [c][0069cc]""5x""[-][/c] mode and [c][0069cc]""Auto""[-][/c] mode can be unlocked after completing [c][0069cc]5[-][/c] rounds of Display or obtaining [c][0069cc]50[-][/c] Matches in total.|7. The rewards and Energy obtained, Match consumed and rounds completed will all be fivefold in [c][0069cc]""5x""[-][/c] mode.|8. After you activate [c][0069cc]""Auto""[-][/c] mode, the system will set off the Fireworks with Matches for you automatically (The un-lit Fireworks will be set off first). The system will also activate Fever mode at the start of a round when you have enough energy.|9. Once the event ends, the remaining Matches will automatically be recycled into Coins at a rate of 50k per Match.|10. The rates of rewards for setting off each Firework (under ""5x"" mode, the rewards mentioned below will be fivefold, but the rate to obtain them will remain the same) are:|500k Coins (18%%), 500k Exp Juice (18%%), 400 Crystal Chisels (18%%), 400 Lunch Boxes (18%%), 200 Servant Cookies (10%%), 20 Spirit Cookies (5%%), 10 Servant Crystals (5%%), 10 Afterglows (8%%)."
+FIREWORK_TEXT14,Round(s) completed:
+FIREWORK_TEXT15,Set off the Fireworks in Firework Display to win extra rewards! (The rewards will be sent via Mail)
+FIREWORK_TEXT16,Firework Display
+FIREWORK_TEXT17,Unlock after completing {1} rounds of Display or obtaining {2} Matches.
+FIREWORK_TEXT18,Reward(s) Acquired
+FIREWORK_TEXT19,No reward is obtained yet
+FIREWORK_TEXT20,Rewards you will get in this round are doubled!
+FIREWORK_TEXT21,Out of Fireworks!
+FIREWORK_TEXT22,You will need {1} energy to double the rewards you will get from this round!
+FIREWORK_TEXT23,Confirm to consume {1} energy to double the rewards you will get from this round?
+FIREWORK_TEXT24,Complete {1} round(s) of Firework Display
+FIREWORK_EXPLAIN_TEXT01,1. Set off the Fireworks with Matches.
+FIREWORK_EXPLAIN_TEXT02,"2. Once a Firework is set, it will ignite flying Sparks."
+FIREWORK_EXPLAIN_TEXT03,"3. When a Spark reaches another firework, it has the chance to light it up."
+FIREWORK_EXPLAIN_TEXT04,"4. When another Spark reaches a lit Firework, the Firework will then set off."
+FIREWORK_EXPLAIN_TEXT06,"""Firework"""
+FIREWORK_EXPLAIN_TEXT07,"""Spark"""
+FIREWORK_EXPLAIN_TEXT08,"""Lit Firework"""
+FIREWORK_EXPLAIN_TEXT09,Firework Wiki
+FIREWORK_TEXT11_2,5x
+FIREWORK_TEXT25,Display completed
+FIREWORK_TEXT26,Round(s) completed +{1}
+FIREWORK_TEXT27,Confirm to switch to Auto mode? The system will set off the Fireworks with Matches automatically in this mode. (The un-lit Fireworks will be set off first).
+TREASURE_EXCHANGE_WARN,Confirm to lock the current attribute with Gems?
+NEW_PINGFEN_TEXT01,Feedback Wanted
+NEW_PINGFEN_TEXT02,"Senpai, you've become stronger! We would like to hear your reviews and suggestions to make Yume Academy a better place. Thanks for your time in advance!"
+NEW_PINGFEN_TEXT03,Dislike
+NEW_PINGFEN_TEXT04,Not Interested
+NEW_PINGFEN_TEXT05,Neutral
+NEW_PINGFEN_TEXT06,Like
+NEW_PINGFEN_TEXT07,Perfect!
+NEW_PINGFEN_TEXT08,Later
+NEW_PINGFEN_TEXT09,Rating
+NEW_PINGFEN_TEXT10,Suggestions
+NEW_PINGFEN_TEXT11,Please leave your suggestion here to help us improve the game!
+NEW_PINGFEN_TEXT12,{1}/500
+NEW_PINGFEN_TEXT13,Please leave your suggestion right here
+NEW_PINGFEN_TEXT14,Cancel
+NEW_PINGFEN_TEXT15,Submit
+NEW_PINGFEN_TEXT16,Your feedback and suggestions have been submitted!
+NEW_PINGFEN_TEXT17,Please rate the game.
+NEW_PINGFEN_TEXT18,Character limit exceeded!
+FIREWORK_TEXT28,"Another Firework is still burning, it's not safe to set off a new one right now."
+NEW_PINGFEN_TEXT19,You haven't entered your suggestion yet.
+FIREWORK_TEXT29,"The Firework you want to set off is [c][cc6910]lit[-][/c] already, confirm to continue? [c][0069cc]Hint[-][/c]: You can save a Match by setting off a [c][cc6910]lit Firework[-][/c] with a flying Spark ignited by another set Firework!"
+ARENA_TEAM_NO_FRIEND,Currently there is no friend available...
+FIREWORK_TEXT30,"Congratulations, you've completed {1} rounds of display. ""5x"" mode is now available."
+NEW_YEAR_GIFTBAG_TITLE,Lunar Special
+ACTIVITY_FIREWORK,Firework\nCarnival
+FIREWORK_EXPLAIN_TEXT10,「Match」

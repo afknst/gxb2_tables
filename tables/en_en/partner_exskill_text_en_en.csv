@@ -1751,3 +1751,23 @@ Extra damage dealt increases to {1} of target\'s lost HP.
 Amount of recovered HP increases to {2} of Maia\'s Maximum HP.
 Damage dealt to all enemies at the end of each round increased to {3} of target\'s Maximum HP.
 Amount of Maximum HP that each stack of [c][e28002]Chaos Scar[-][/c] lowers increased to {4}."
+752018011,赫爾墨斯,富甲一方,Damage increases to {1} of Attack.
+752018012,赫爾墨斯,富甲一方,Damage increases to {1} of Attack.
+752018013,赫爾墨斯,富甲一方,Damage increases to {1} of Attack.\nBP of [c][e28002]Magick Barrier[-][/c] increased to {2} of damage dealt.\nExtra damage dealt increased to {3} of target's current HP.
+752018014,赫爾墨斯,富甲一方,Damage increases to {1} of Attack.\nBP of [c][e28002]Magick Barrier[-][/c] increased to {2} of damage dealt.\nExtra damage dealt increased to {3} of target's current HP.
+752018015,赫爾墨斯,富甲一方,Damage increases to {1} of Attack.\nBP of [c][e28002]Magick Barrier[-][/c] increased to {2} of damage dealt.\nExtra damage dealt increased to {3} of target's current HP.
+752018021,赫爾墨斯,生財之道,Speed increase increases to {1}.
+752018022,赫爾墨斯,生財之道,Speed increase increases to {1}.
+752018023,赫爾墨斯,生財之道,Speed increase increases to {1}.
+752018024,赫爾墨斯,生財之道,Speed increase increases to {1}.
+752018025,赫爾墨斯,生財之道,Speed increase increases to {1}.\nHP increase increases to {2}.\nAttack increase increases to {3}.
+752018031,赫爾墨斯,一擲千金,Damage increases to {1} of Attack.
+752018032,赫爾墨斯,一擲千金,Damage increases to {1} of Attack.
+752018033,赫爾墨斯,一擲千金,Damage increases to {1} of Attack.\nBP of [c][e28002]Magick Barrier[-][/c] increased to {2} of damage dealt.
+752018034,赫爾墨斯,一擲千金,Damage increases to {1} of Attack.\nBP of [c][e28002]Magick Barrier[-][/c] increased to {2} of damage dealt.
+752018035,赫爾墨斯,一擲千金,Damage increases to {1} of Attack.\nBP of [c][e28002]Magick Barrier[-][/c] increased to {2} of damage dealt.
+752018041,赫爾墨斯,璀璨誘惑,Damage dealt increased to {1} of target's current HP.\nDamage dealt increased to {2} of target's lost HP.
+752018042,赫爾墨斯,璀璨誘惑,Damage dealt increased to {1} of target's current HP.\nDamage dealt increased to {2} of target's lost HP.
+752018043,赫爾墨斯,璀璨誘惑,Damage dealt increased to {1} of target's current HP.\nDamage dealt increased to {2} of target's lost HP.
+752018044,赫爾墨斯,璀璨誘惑,Damage dealt increased to {1} of target's current HP.\nDamage dealt increased to {2} of target's lost HP.
+752018045,赫爾墨斯,璀璨誘惑,Damage dealt to 1 random enemy increased to {1} of target's current HP.\nDamage dealt to enemy with lowest HP increased to {2} of target's lost HP.\nBP of [c][e28002]Magick Barrier[-][/c] gained increased to {3} of aforementioned damages dealt.

@@ -98,3 +98,7 @@ id,name,params,activity_id,function_id,desc
 97,activity_window,"{'select':231,'activity_ids':[230,231,232,233], 'activity_type':7}",231,,-1
 98,activity_window,"{'select':232,'activity_ids':[230,231,232,233], 'activity_type':7}",232,,-1
 99,activity_window,"{'select':233,'activity_ids':[230,231,232,233], 'activity_type':7}",233,,-1
+100,activity_window,"{'select':168,'activity_type2':1}",168,,-1
+101,activity_window,"{'select':255,'activity_ids':[274,275,181,36], 'activity_type':7}",255,,-1
+102,activity_window,"{'select':3,'activity_type2':2}",3,,-1
+103,activity_window,"{'select':39,'activity_type2':2}",39,,-1

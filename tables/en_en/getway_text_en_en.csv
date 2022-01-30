@@ -1,5 +1,5 @@
 id,name
-1,Recharge Gems
+1,Purchase with Gems
 2,Market
 3,Intern
 4,Slots
@@ -144,7 +144,7 @@ id,name
 154,Girls Assembly
 155,Antique Laboratory
 156,Story Challenge
-158,Outfit Store Opening Ceremony
+158,Outfit Shopping Spree
 159,Red Riding Hood's Gift
 160,Recharge Addition
 161,Outfit Sale Pack
@@ -159,19 +159,19 @@ id,name
 171,Team Assembly
 172,Treasure Hunt
 173,Christmas Gifts
-174,Thanksgiving Feast
+174,Lunar Special
 175,Jackpot Support Pack
 176,Jackpot of Fortune
-178,Consume 3 League Tickets ({1}/10)
-179,Consume 200 Gems ({1}/20)
-180,Consume 200 Crystal Chisels ({1}/20)
-181,Complete a 3-star or higher Internship Quest({1}/20)
-182,Obtain 250 VIP Exp during the event ({1}/100)
-183,Pull Slot Machine 10 times ({1}/80)
-184,Pull 5 Adv. Capsules ({1}/80)
-185,Consume 1 Seal ({1}/80)
-186,Consume 1 Rudder ({1}/80)
-187,Lucky Pack
+178,Consume 3 League Tickets (1/each time)
+179,Consume 200 Gems (1/each time)
+180,Consume 200 Crystal Chisels (1/each time)
+181,Complete an Internship quest that is 3-star or above (1/each time)
+182,Obtain 250 VIP Exp during the event (2/each time)
+183,Pull Slot Machine 10 times (1/each time)
+184,Pull 5 Adv. Capsules (1/each time)
+185,Consume 1 Seal (1/each time)
+186,Consume 1 Rudder (1/each time)
+187,Lucky Dips Pack
 188,A Visit from Santa
 189,Jingle Bell Pack
 190,Christmas Exchange
@@ -186,3 +186,4 @@ id,name
 199,Echoes of Time
 200,Ultimate League
 201,Excursion
+202,Firework Display

@@ -34,3 +34,4 @@ id,name,effect_name,scale,pos,hero_pos,count,action,next_action,type,is_clip,cli
 33,-1,garden_cat,1,0|20,,0,idle,,1,,,,1,,,,,,,,
 34,-1,garden_cat,1,0|20,,0,wake,,1,,,,1,,,,,,,,
 35,-1,dianhuating_zhuangshi,1,-40|50,,0,texiao01,,1,,,,,,,,,,,,
+36,-1,shalou_zhuangshi,1,5.5|-74,,0,idle,,1,,,,,,,,,,,,

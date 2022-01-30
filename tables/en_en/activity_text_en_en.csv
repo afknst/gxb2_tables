@@ -34,7 +34,7 @@ id,desc,title
 33,Atelier Valeera,Atelier\nValeera
 34,Servant Raising,Servant\nRaising
 35,Subscription,Subscription
-36,Christmas Card,Christmas\nCard
+36,Spring Festival Card,Spring Festival\nCard
 37,Jigsaw,Jigsaw
 38,Subscription,Subscription
 39,Monthly Pack,Monthly\nPack
@@ -227,7 +227,7 @@ id,desc,title
 239,Antique Laboratory,Antique\nLaboratory
 240,Story Challenge,Story\nChallenge
 241,Customized Supply,Customized\nSupply
-242,Outfit Store Opening Ceremony,Outfit Store\nOpening Ceremony
+242,Outfit Shopping Spree,Outfit\nShopping Spree
 235,Outfit Sale,Outfit\nSale
 244,Antique Limited Exchange,Antique\nLimited Exchange
 243,Angel Tea Party,Angel\nTea Party
@@ -241,7 +241,7 @@ id,desc,title
 251,Treasure Hunt,Treasure\nHunt
 252,Raider's Supply,Raider's\nSupply
 253,Team Assembly,Team\nAssembly
-255,Thanksgiving Feast,Thanksgiving\nFeast
+255,Lunar Special,Lunar\nSpecial
 257,Advent Calendar,Advent\nCalendar
 259,Promotion Program,Promotion\nProgram
 258,Lucky Draw,Lucky\nDraw
@@ -258,3 +258,7 @@ id,desc,title
 270,A Visit from Santa,A Visit\nfrom Santa
 271,Christmas Exchange,Christmas\nExchange
 272,Above the Fireplace,Above\nthe Fireplace
+273,Lucky Dips Pack,Lucky Dips\nPack
+276,Special Skin Pack,Special\nSkin Pack
+274,Firework Display,Firework\nDisplay
+275,Firework Rewards,Firework\nRewards

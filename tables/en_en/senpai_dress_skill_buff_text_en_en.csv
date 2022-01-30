@@ -13,7 +13,7 @@ id,desc,tips
 12,Has {1}%% chance of obtaining 1 extra Heart for each Heart claimed from Friends,Outfit Bonus triggered! You collected extra Hearts!
 13,Has {1}%% chance of obtaining 1 extra free Alchemy chance when collecting from your free Alchemy chance.,Outfit Bonus triggered! You won 1 free Alchemy chance!
 14,"Has {1}%% chance of obtaining {2}%% extra Pages when claiming rewards from Daily, Weekly, or Extra Tasks in Fantasy Book",Outfit Bonus triggered! You collected extra Pages!
-15,Campaign Loot will accumulate for {1} more minutes past the 10-hour limit,
+15,Campaign Loot will accumulate for {1} more minutes past the 12-hour limit. (This effect can stack.),
 16,Adds {1} more Girls Capacity,
 17,Has {1}%% chance of returning 1 League Ticket for each challenge attempt in Ultimate League.,Outfit Bonus triggered! 1 League Ticket is returned to you.
 18,Receive {1} additional Guild Coins when Signing up in Guild.,Outfit Bonus triggered! You collected extra Guild Coins!
@@ -24,7 +24,7 @@ id,desc,tips
 23,Has {1}%% chance of obtaining {2}%% extra Sacred Pages passing Stages in Sanctuary,Outfit Bonus triggered! You collected extra Sacred Pages!
 24,Has {1}%% chance of returning {2}%% Coins or Gems consumed when purchasing items from Merchants in Patrol,Outfit Bonus triggered! Items consumed in this purchase are partially returned.
 25,Has {1}%% chance of obtaining {2}%% extra Standard Files when claiming stage rewards in Old Campus Exploration,Outfit Bonus triggered! You collected extra Standard File!
-26,Obtain {1}%% extra Christal Chisels when receiving rewards of Security Squad,
+26,Obtain {1}%% extra Crystal Chisels when receiving rewards of Security Squad,
 27,Has {1}%% chance of obtaining {2}%% extra rewards when defeating Friend Bosses,Outfit Bonus triggered! You received extra reward!
 28,Has {1}%% chance to double the reward when claiming the free Daily Pack.,Outfit Bonus triggered! You received extra reward!
 29,Has {1}%% chance of obtaining {2}%% extra Class Lists when Transferring Girls in Transfer,Outfit Bonus triggered! You collected extra Class Lists!
@@ -32,3 +32,6 @@ id,desc,tips
 31,Has {1}%% chance to double the reward when claiming the rewards of Daily Quiz · EXP Quiz,Outfit Bonus triggered! You collected extra EXP Juice!
 32,Has {1}%% chance to double the reward when claiming the rewards of Daily Quiz · Girl Quiz,Outfit Bonus triggered! You collected extra Girl Quiz reward!
 33,Has {1}%% chance of returning {2}%% Gems consumed when purchasing Admission Tickets,Outfit Bonus triggered! Items consumed in this purchase are partially returned.
+34,Has {1}%% chance of obtaining {2}%% extra Metal Tags when claiming Showcase Rewards,Outfit Bonus triggered! You collected extra Metal Tags!
+35,Has {1}%% chance of obtaining {2}%% extra Portfolios after each Seal is consumed.,Outfit Bonus triggered! You collected extra Portfolios!
+36,Has {1}%% chance of obtaining double Golden Egg energy after each Adv. Capsule is pulled.,Outfit Bonus triggered! You collected extra Golden Egg energy!

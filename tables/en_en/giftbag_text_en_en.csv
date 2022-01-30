@@ -38,7 +38,7 @@ id,name,charge_ios,charge,currency,show_name
 35,Free Reload Pack,1.99,1.99,$,Free Reload Pack
 37,Limited Edition 5-star Girl Pack,0.99,0.99,$,Limited Edition 5-star Girl Pack
 38,Subscription,0.99,0.99,$,Subscription
-39,Christmas Card,9.99,9.99,$,Christmas Card
+39,Spring Festival\nCard,9.99,9.99,$,Spring Festival\nCard
 40,Weekly Subscription,0.99,0.99,$,Weekly Subscription
 41,Monthly Subscription,3.99,3.99,$,Monthly Subscription
 42,Quarterly Subscription,9.99,9.99,$,Quarterly Subscription
@@ -546,9 +546,9 @@ id,name,charge_ios,charge,currency,show_name
 331,Raider's Supply 4,49.99,49.99,$,Raider's Supply 4
 332,Raider's Supply 5,69.99,69.99,$,Raider's Supply 5
 333,Raider's Supply 6,99.99,99.99,$,Raider's Supply 6
-334,Thanksgiving Feast pack 1,0.99,0.99,$,Thanksgiving Feast pack 1
-335,Thanksgiving Feast pack 2,9.99,9.99,$,Thanksgiving Feast pack 2
-336,Thanksgiving Feast pack 3,49.99,49.99,$,Thanksgiving Feast pack 3
+334,Lunar Special 1,9.99,9.99,$,Lunar Special 2
+335,Lunar Special 2,49.99,49.99,$,Lunar Special 2
+336,Lunar Special 3,99.99,99.99,$,Lunar Special 3
 337,Advent Calendar Gift Pack 1,0.99,0.99,$,Advent Calendar Gift Pack 1
 338,Advent Calendar Gift Pack 2,0.99,0.99,$,Advent Calendar Gift Pack 2
 339,Advent Calendar Gift Pack 3,0.99,0.99,$,Advent Calendar Gift Pack 3
@@ -604,12 +604,14 @@ id,name,charge_ios,charge,currency,show_name
 389,Patrol Privilege Discount,1.99,1.99,$,Patrol Privilege Discount
 390,Daily Pack Discount 7,1.99,1.99,$,Daily Pack Discount 7
 391,Daily Pack Discount 7,1.99,1.99,$,Daily Pack Discount 7
-392,Lucky Dips pack 1,4.99,4.99,$,Lucky Dips pack 1
-393,Lucky Dips pack 2,9.99,9.99,$,Lucky Dips pack 2
-394,Lucky Dips pack 3,19.99,19.99,$,Lucky Dips pack 3
-395,Lucky Dips pack 4,29.99,29.99,$,Lucky Dips pack 4
-396,Lucky Dips pack 5,49.99,49.99,$,Lucky Dips pack 5
-397,Lucky Dips pack 6,99.99,99.99,$,Lucky Dips pack 6
+392,Lucky Dips Pack 1,4.99,4.99,$,Lucky Dips Pack 1
+393,Lucky Dips Pack 2,9.99,9.99,$,Lucky Dips Pack 2
+394,Lucky Dips Pack,19.99,19.99,$,Lucky Dips Pack
+395,Lucky Dips Pack 4,29.99,29.99,$,Lucky Dips Pack 4
+396,Lucky Dips Pack 5,49.99,49.99,$,Lucky Dips Pack 5
+397,Lucky Dips Pack 6,99.99,99.99,$,Lucky Dips Pack 6
 398,Beginner's Limited Capsule Pack,9.99,9.99,$,Beginner's Limited Capsule Pack
 399,Beginner's Limited Capsule Pack,29.99,29.99,$,Beginner's Limited Capsule Pack
 400,Beginner's Limited Capsule Pack,49.99,49.99,$,Beginner's Limited Capsule Pack
+401,Special Skin Pack 1,4.99,4.99,$,Special Skin Pack
+402,Special Skin Pack 2,49.99,49.99,$,Special Skin Pack
