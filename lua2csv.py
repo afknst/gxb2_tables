@@ -9,6 +9,7 @@ import pandas as pd
 MAIN_DIR = Path("../src/data/tables/")
 TO_COMBINE = [
     "dropbox",
+    "equip",
     "item",
     "main_plot",
     "monster",

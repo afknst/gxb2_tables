@@ -7,14 +7,14 @@ import numpy as np
 
 class NpEncoder(json.JSONEncoder):
     # pylint: disable=W0221
-    def default(self, obj):
-        if isinstance(obj, np.integer):
-            return int(obj)
-        if isinstance(obj, np.floating):
-            return float(obj)
-        if isinstance(obj, np.ndarray):
-            return obj.tolist()
-        return json.JSONEncoder.default(self, obj)
+    def default(self, o):
+        if isinstance(o, np.integer):
+            return int(o)
+        if isinstance(o, np.floating):
+            return float(o)
+        if isinstance(o, np.ndarray):
+            return o.tolist()
+        return json.JSONEncoder.default(self, o)
 
 
 def print_boxes(_lang="zh_tw"):
@@ -190,7 +190,7 @@ def print_cores(_lang="en_en", _lua=True):
         6: 'ORANGE',
         7: 'PINK',
     }
-    _P = Path("./tables/equip.csv")
+    _P = Path("./combined_tables/equip.csv")
     _T = pd.read_csv(_P)
     _T = _T[_T.id // 1000 == 5]
     _dict = {}
