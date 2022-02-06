@@ -197,8 +197,35 @@ class AllFireworkStates:
         return s.cost_d[d]
 
 
+def get_state():
+    s = input("Current state = ")
+    return tuple([int(c) for c in s if c in "012"])
+
+
+def print_d(cost_d: dict, cost: float):
+    to_print = ''
+    for d in cost_d:
+        if d in [3, 6]:
+            to_print += '\n'
+        if cost_d[d] == cost:
+            to_print += f'\033[91m{cost_d[d]:.4f}\033[0m\t'
+        else:
+            to_print += f'{cost_d[d]:.4f}\t'
+    print(to_print + '\n')
+
+
+def helper():
+    fw = pload("FW")
+    t = get_state()
+    while t:
+        s = fw.get_state_by_tuple(t)
+        assert s.cost is not None
+        print_d(s.cost_d, s.cost)
+        t = get_state()
+
+
 if __name__ == '__main__':
-    S0 = (0, 0, 0, 0, 0, 0, 0, 0, 0)
+    # S0 = (0, 0, 0, 0, 0, 0, 0, 0, 0)
 
     # FW = AllFireworkStates()
     # FW.add_all(S0)
@@ -206,6 +233,8 @@ if __name__ == '__main__':
     # print(FW.get_cost_of_tuple(S0))
     # psave(FW, "FW")
 
-    FW = pload("FW")
-    print(FW.get_cost_of_tuple(S0))
+    # FW = pload("FW")
+    # print(FW.get_cost_of_tuple(S0))
     # print(FW.get_state_by_tuple(tuple_assign(S0, 0, 2)).cost_d)
+
+    helper()
