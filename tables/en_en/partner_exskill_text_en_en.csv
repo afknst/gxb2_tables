@@ -1771,3 +1771,23 @@ Amount of Maximum HP that each stack of [c][e28002]Chaos Scar[-][/c] lowers incr
 752018043,赫爾墨斯,璀璨誘惑,Damage dealt increased to {1} of target's current HP.\nDamage dealt increased to {2} of target's lost HP.
 752018044,赫爾墨斯,璀璨誘惑,Damage dealt increased to {1} of target's current HP.\nDamage dealt increased to {2} of target's lost HP.
 752018045,赫爾墨斯,璀璨誘惑,Damage dealt to 1 random enemy increased to {1} of target's current HP.\nDamage dealt to enemy with lowest HP increased to {2} of target's lost HP.\nBP of [c][e28002]Magick Barrier[-][/c] gained increased to {3} of aforementioned damages dealt.
+751017011,原初·德古拉,血編之網,Damage dealt to 3 random enemies increased to {1} of Attack.\nDamage dealt to target(s) with 50% or more HP increased to {2} of Attack.
+751017012,原初·德古拉,血編之網,Damage dealt to 3 random enemies increased to {1} of Attack.\nDamage dealt to target(s) with 50% or more HP increased to {2} of Attack.
+751017013,原初·德古拉,血編之網,Damage dealt to 3 random enemies increased to {1} of Attack.\nDamage dealt to target(s) with 50% or more HP increased to {2} of Attack.
+751017014,原初·德古拉,血編之網,Damage dealt to 3 random enemies increased to {1} of Attack.\nDamage dealt to target(s) with 50% or more HP increased to {2} of Attack.
+751017015,原初·德古拉,血編之網,Damage dealt to 3 random enemies increased to {1} of Attack.\nDamage dealt to target(s) with 50% or more HP increased to {2} of Attack.\nDamage dealt by [c][e28002]Sanguine Snare[-][/c] increased to {3} of target's Maximum HP.
+751017021,原初·德古拉,原初之力,Speed increase increases to {1}.
+751017022,原初·德古拉,原初之力,Speed increase increases to {1}.
+751017023,原初·德古拉,原初之力,Speed increase increases to {1}.
+751017024,原初·德古拉,原初之力,Speed increase increases to {1}.
+751017025,原初·德古拉,原初之力,Speed increase increases to {1}.\nHP increase increases to {2}.\nAttack increase increases to {3}.
+751017031,原初·德古拉,眷屬之血,Chances of Lord Dracula gaining 1 stack of [c][e28002]Blood Bats[-][/c] when she deals a Basic Attack increased to {1}.
+751017032,原初·德古拉,眷屬之血,Chances of Lord Dracula gaining 1 stack of [c][e28002]Blood Bats[-][/c] when she deals a Basic Attack increased to {1}.
+751017033,原初·德古拉,眷屬之血,Chances of Lord Dracula gaining 1 stack of [c][e28002]Blood Bats[-][/c] when she deals a Basic Attack increased to {1}.
+751017034,原初·德古拉,眷屬之血,Chances of Lord Dracula gaining 1 stack of [c][e28002]Blood Bats[-][/c] when she deals a Basic Attack increased to {1}.
+751017035,原初·德古拉,眷屬之血,Chances of Lord Dracula gaining 1 stack of [c][e28002]Blood Bats[-][/c] when she deals a Basic Attack increased to {1}.\nBoost to final damage of [c][e28002]Sanguine Snare[-][/c] provided by [c][e28002]Blood Bats[-][/c] increased to {2}.
+751017041,原初·德古拉,血月之族,Damage dealt when taking damage from Active Skills or Basic Attacks aimed at herself increased to {1} of Attack.\nDamage dealt to 1 random enemy when said damage is blocked increased to {2} of Attack.
+751017042,原初·德古拉,血月之族,Damage dealt when taking damage from Active Skills or Basic Attacks aimed at herself increased to {1} of Attack.\nDamage dealt to 1 random enemy when said damage is blocked increased to {2} of Attack.
+751017043,原初·德古拉,血月之族,Damage dealt when taking damage from Active Skills or Basic Attacks aimed at herself increased to {1} of Attack.\nDamage dealt to 1 random enemy when said damage is blocked increased to {2} of Attack.
+751017044,原初·德古拉,血月之族,Damage dealt when taking damage from Active Skills or Basic Attacks aimed at herself increased to {1} of Attack.\nDamage dealt to 1 random enemy when said damage is blocked increased to {2} of Attack.
+751017045,原初·德古拉,血月之族,Damage dealt when taking damage from Active Skills or Basic Attacks aimed at herself increased to {1} of Attack.\nDamage dealt to 1 random enemy when said damage is blocked increased to {2} of Attack.\nDamage dealt by  [c][e28002]Sanguine Snare[-][/c] increased to {3} of target's Maximum HP.

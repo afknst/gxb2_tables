@@ -3375,7 +3375,7 @@ This book was only an experimental product that was created with well-known stor
 3100072,Legs (Afternoon Tea),Outfit,"Legs part of ""Afternoon Tea"" Set"
 3100073,Headwear (Afternoon Tea),Outfit,"Headwear part of ""Afternoon Tea"" Set"
 3100074,Headwear (Afternoon Tea),Outfit,"Headwear part of ""Afternoon Tea"" Set"
-3100075,Head (Afternoon Tea),Outfit,"Headwear part of ""Afternoon Tea"" Set"
+3100075,Headwear (Afternoon Tea),Outfit,"Headwear part of ""Afternoon Tea"" Set"
 3100076,Headwear (Afternoon Tea),Outfit,"Headwear part of ""Afternoon Tea"" Set"
 3100077,Headwear (Afternoon Tea),Outfit,"Headwear part of ""Afternoon Tea"" Set"
 3100078,Headwear (Afternoon Tea),Outfit,"Headwear part of ""Afternoon Tea"" Set"
@@ -3999,9 +3999,9 @@ This book was only an experimental product that was created with well-known stor
 754017,Aurora,,
 7215,Raging Bolt,Skins,Raging Bolt skin of Uriel
 27215,Raging Bolt,Skins,Raging Bolt skin of Uriel
-291,Ragged Bottle,Event Material,"Event material, used in event: Bottles Adrift"
-292,Plain Bottle,Event Material,"Event material, used in event: Bottles Adrift"
-293,Decorated Bottle,Event Material,"Event material, used in event: Bottles Adrift"
+291,Normal Chocolate Box,Event Material,"Event material, used in event: A Taste of Love"
+292,Decorated Chocolate Box,Event Material,"Event material, used in event: A Taste of Love"
+293,Luxury Chocolate Box,Event Material,"Event material, used in event: A Taste of Love"
 7216,Lost,Skins,Lost skin of Toyo
 27216,Lost,Skins,Lost skin of Toyo
 4101031,Customized Girls Chest (Luvly's Journey S12),Customized Chest,You can select to get 50 shards of a certain 5-Star Girl from Ghost/Human/Monster/Fairy Faction for opening this chest. (The options for this chest won't be updated in the future)
@@ -4786,10 +4786,10 @@ This book was only an experimental product that was created with well-known stor
 317,Firework Point Card,Event Material,"Point Card used in the Store of Firework Carnival. You can get 1 [c][d76500]""Firework Point Card""[-][/c] for each [c][d76500]""Match""[-][/c] consumed"
 7238,Unskilled Dealer,Skins,Unskilled Dealer skin of Blair
 27238,Unskilled Dealer,Skins,Unskilled Dealer skin of Blair
-930216,New Girl shard name,Summon,Collect 50 shards to summon the girl
-51017,Guess who she is?,,
-651024,Guess who she is?,,
-751017,Guess who she is?,,
+930216,5-star Lord Dracula,Summon,Collect 50 shards to summon the girl
+51017,Lord Dracula,,
+651024,Lord Dracula,,
+751017,Lord Dracula,,
 3100991,Head (Traditional Game),Outfit,"Head part of ""Traditional Game"" Set"
 3100992,Head (Traditional Game),Outfit,"Head part of ""Traditional Game"" Set"
 3100993,Head (Traditional Game),Outfit,"Head part of ""Traditional Game"" Set"
@@ -4911,3 +4911,24 @@ This book was only an experimental product that was created with well-known stor
 27240,Good Fortune,Skins,Good Fortune skin of Kassy
 7242,Clumsy Waitress,Skins,Clumsy Waitress skin of Von Helsing
 27242,Clumsy Waitress,Skins,Clumsy Waitress
+318,Adv. Capsule Coupon (10x Draw),Summoning Item,Used to pull from the Adv. Capsule Machine during the Girls X Capsule Points event ([c][d76500]2/18 to 12/24[-][/c]). This item will be removed from your account after the Girls X Capsule Points event ends. Please remember to use it in time.
+319,Adv. Capsule Coupon (10x Draw),Summoning Item,Used to pull from the Adv. Capsule Machine during the Girls X Capsule Points event ([c][d76500]3/18 to 3/24[-][/c]). This item will be removed from your account after the Girls X Capsule Points event ends. Please remember to use it in time.
+320,Adv. Capsule Coupon (10x Draw),Summoning Item,Used to pull from the Adv. Capsule Machine during the Girls X Capsule Points event ([c][d76500]4/15 to 4/21[-][/c]). This item will be removed from your account after the Girls X Capsule Points event ends. Please remember to use it in time.
+321,Adv. Capsule Coupon (10x Draw),Summoning Item,Used to pull from the Adv. Capsule Machine during the Girls X Capsule Points event ([c][d76500]5/13 to 5/19[-][/c]). This item will be removed from your account after the Girls X Capsule Points event ends. Please remember to use it in time.
+4101042,Customized Girls Chest (Luvly's Journey S16),Customized Chest,You can select to get 50 shards of a certain 5-Star Girl from Ghost/Human/Monster/Fairy Faction for opening this chest. (The options for this chest won't be updated in the future)
+4102032,Customized L&D Chest (Luvly's Journey S16),Customized Chest,You can select to get 50 shards of a certain 5-Star Girl from Angel/Demon Faction for opening this chest. (The options for this chest won't be updated in the future)
+4302020,Customized Skin Chest (Luvly's Journey S16),Customized Chest,You can select to get a skin for opening this chest.(Tap the magnifying glass in the item for the option details; The options here won't be updated)
+4601025,Orange Outfit Customized Chest (Body),Customized Chest,You can choose to get one Outfit(Body) piece from the options available for opening this chest. (Tap the magnifying glass in the item for the option details; The options here won't be updated)
+4302021,Premium Customized Skin Chest,Customized Chest,You can select to get a skin for opening this chest.(Tap the magnifying glass in the item for the option details; The options here won't be updated)
+9314,Monica·Despise,Chat emoji,「Despise」chat emoji of Monica
+7243,Divine Attraction,Skins,Divine Attraction skin of Teresa
+27243,Divine Attraction,Skins,Divine Attraction skin of Teresa
+7244,Snack Time,Skins,Snack Time skin of Alice
+27244,Snack Time,Skins,Snack Time skin of Alice
+7245,Chocolatier,Skins,Chocolatier skin of Maia
+27245,Chocolatier,Skins,Chocolatier skin of Maia
+20001074,Limited: Lord Dracula,Special Avatar,Limited avatar of Lord Dracula. Maybe you will also become stronger after a night of sleep in her castle too?
+327,Blood Contract,Event Material,"Event material, used in event: Lord's Requests"
+328,Feather of the Origin,Event Material,"Event material, used in event: Past Mementos"
+329,Hourglass of Thoughts,Event Material,"Event material, used in event: Past Mementos"
+330,Key to Memories,Event Material,"Event material, used in event: Past Mementos"

@@ -153,7 +153,7 @@ id,name,lv_limit,function_id,stage,go_window,go_params,is_close,close_win_name,l
 154,-1,0,,,activity_window,"select:17,activity_type2:1",1,activity_candy_collect_window,,
 155,-1,0,,,activity_window,"select:239,activity_type2:1",1,,,
 156,-1,0,,,activity_window,"select:240,large_series:1",1,,,
-157,-1,0,46,,dress_summon_window,,1,,,
+157,-1,0,46,,dress_summon_window,select:1,1,,,
 158,-1,0,,,activity_window,"select:242,activity_type2:1",1,,,
 159,-1,0,,,activity_window,"select:144,activity_type2:1",1,,,
 160,-1,0,,,activity_window,"select:184,activity_type2:1",1,,,
@@ -199,3 +199,4 @@ id,name,lv_limit,function_id,stage,go_window,go_params,is_close,close_win_name,l
 200,-1,90,34,142,arena_all_server_window,,1,,,
 201,-1,78,40,112,explore_window,,1,,,
 202,-1,0,,,activity_window,select:274,1,,,
+203,-1,0,46,,dress_summon_window,select:235,1,,,

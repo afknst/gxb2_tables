@@ -465,7 +465,7 @@ A damage over time. Damage is dealt once when poison is inflicted and during the
 5200901,Guan Yin,Invincible,Deals (145% of Attack) damage against Front-line enemies and gains self 25% Attack for 2 rounds.
 5201001,Librarian,Silence Hit,"Deals (96% of Attack) damage against all enemies and (75% chance) to [c][01a310]Silence[-][/c] Priest foes for 3 rounds.\n[c][01a310]Silence:[-][/c]\nA control effect. During this effect, girls affected will not be able to release their Active Skills."
 5300101,Priestess,Yinyang Strike,"
-Deals (86% of Attack) damage against all enemies and tags the foes with [c][e28002]Yinyang Mark:[-][/c]
+Deals (86% of Attack) damage against all enemies and tags the foes with [c][e28002]Yinyang Mark[-][/c].
 
 [c][e28002]Yinyang Mark[-][/c]
 Mark effect, Increases Priestess\'s damage against her enemies by 15%, can stack."
@@ -711,7 +711,7 @@ A control effect. During this effect, girls affected will not be able to deal Ba
 75300701,Alice,Dragon Fight,"Deals (146% of Attack) damage against all enemies, dealing extra 140% damage to Warrior class enemies. Gains 12% Damage Reduction."
 75300801,Muppet,Muppet String,"Deals (200% of Attack) damage against Front-line enemies, if the enemy has lower HP than self, deals extra (18% of the enemy's MAXIMUM health) damage, increases self Attack by 15% and Armor Break by 15%."
 75300901,Priestess,Yinyang Strike,"
-Deals (114% of Attack) damage against all enemies and tags the foes with [c][e28002]Yinyang Mark[-][/c]. There is a 30% chance to tag an extra [c][e28002]Yinyang Mark[-][/c]
+Deals (114% of Attack) damage against all enemies and tags the foes with [c][e28002]Yinyang Mark[-][/c]. There is a 30% chance to tag an extra [c][e28002]Yinyang Mark[-][/c].
 
 [c][e28002]Yinyang Mark:[-][/c]
 Mark effect, increases Priestess\'s damage against her enemies by 35%, can stack."
@@ -2651,10 +2651,10 @@ A control effect. During this effect, girls affected will not be able to deal Ba
 65301802,Turin,Call for Reinforce,"Turin controls 4 α bits to engage her enemies. Basic attack changed to deal (110% of Attack) against 4 random enemies, has an 18% chance to [c][01a310]Stun[-][/c] the targets for 2 rounds.\n[c][01a310]Stun:[-][/c]\nA control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
 65301812,Turin,Call for Reinforce,"Turin controls 4 α bits to engage her enemies. Basic attack changed to deal (125% of Attack) against 4 random enemies, has a 30% chance to [c][01a310]Stun[-][/c] the targets for 2 rounds.\n[c][01a310]Stun:[-][/c]\nA control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
 75301102,Turin,Call for Reinforce,"Turin controls 4 α bits to engage her enemies. Basic attack changed to deal (125% of Attack) against 4 random enemies, has a 30% chance to [c][01a310]Stun[-][/c] the targets for 2 rounds.\n[c][01a310]Stun:[-][/c]\nA control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
-5300703,Turin,Plasma Field,"Turin stands in a plasma field, increases her HP by 15%, Attack by 15%, gains 20% Control Immunity and deals 30% extra damage to the [c][01a310]Stunned[-][/c] targets\n[c][01a310]Stun:[-][/c]\nA control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
-65301803,Turin,Plasma Field,"Turin stands in a plasma field, increases her HP by 25%, Attack by 25%, gains 25% Control Immunity and deals 60% extra damage to the [c][01a310]Stunned[-][/c] targets\n[c][01a310]Stun:[-][/c]\nA control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
-65301813,Turin,Plasma Field,"Turin stands in a plasma field, increases her HP by 40%, Attack by 35%, gains 35% Control Immunity and deals 100% extra damage to the [c][01a310]Stunned[-][/c] targets\n[c][01a310]Stun:[-][/c]\nA control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
-75301103,Turin,Plasma Field,"Turin stands in a plasma field, increases her HP by 40%, Attack by 35%, gains 35% Control Immunity and deals 100% extra damage to the [c][01a310]Stunned[-][/c] targets\n[c][01a310]Stun:[-][/c]\nA control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
+5300703,Turin,Plasma Field,"Turin stands in a plasma field, increases her HP by 15%, Attack by 15%, gains 20% Control Immunity and deals 30% extra damage to the [c][01a310]Stunned[-][/c] targets.\n[c][01a310]Stun:[-][/c]\nA control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
+65301803,Turin,Plasma Field,"Turin stands in a plasma field, increases her HP by 25%, Attack by 25%, gains 25% Control Immunity and deals 60% extra damage to the [c][01a310]Stunned[-][/c] targets.\n[c][01a310]Stun:[-][/c]\nA control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
+65301813,Turin,Plasma Field,"Turin stands in a plasma field, increases her HP by 40%, Attack by 35%, gains 35% Control Immunity and deals 100% extra damage to the [c][01a310]Stunned[-][/c] targets.\n[c][01a310]Stun:[-][/c]\nA control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
+75301103,Turin,Plasma Field,"Turin stands in a plasma field, increases her HP by 40%, Attack by 35%, gains 35% Control Immunity and deals 100% extra damage to the [c][01a310]Stunned[-][/c] targets.\n[c][01a310]Stun:[-][/c]\nA control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
 5300704,Turin,Reverse the Tide,"Turin's bits will seek out the weak spots of her enemies during their attack. When attacked (counterattack not included) increases self Attack by 10% for 1 round and has a 45% chance to deal a counterattack on each enemy, dealing (70% of Attack) damage. "
 65301804,Turin,Reverse the Tide,"Turin's bits will seek out the weak spots of her enemies during their attack. When attacked (counterattack not included) increases self Attack by 20% for 1 round and has a 60% chance to deal a counterattack on each enemy, dealing (110% of Attack) damage. "
 65301814,Turin,Reverse the Tide,"Turin's bits will seek out the weak spots of her enemies during their attack. When attacked (counterattack not included) increases self Attack by 30% for 1 round and has a 100% chance to deal a counterattack on all enemies, dealing (150% of Attack) damage. "
@@ -2821,10 +2821,10 @@ A damage over time. Damage is dealt once when bleed is inflicted and during the 
 5301201,N-Gen Iron Fist,Butterfly Whirlwind,"Iron Fist hovers above her enemies and seeks for their weak point to attack. Deals (110% of Attack) damage against 3 random enemies. If the target is not [c][01a310]Stunned[-][/c], the skill will have a 45% chance to [c][01a310]Stun[-][/c] the target for 2 rounds. If the target is [c][01a310]Stunned[-][/c], the skill will deal an additional (80% of Attack) damage that will Crit.\n[c][01a310]Stun:[-][/c]\nA control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
 65301901,N-Gen Iron Fist,Butterfly Whirlwind,"Iron Fist hovers above her enemies and seeks for their weak point to attack. Deals (155% of Attack) damage against 3 random enemies. If the target is not [c][01a310]Stunned[-][/c], the skill will have a 55% chance to [c][01a310]Stun[-][/c] the target for 2 rounds. If the target is [c][01a310]Stunned[-][/c], she will deal an additional (90% of Attack) damage that will Crit.\n[c][01a310]Stun:[-][/c]\nA control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
 75301201,N-Gen Iron Fist,Butterfly Whirlwind,"Iron Fist hovers above her enemies and seeks for their weak point to attack. Deals (200% of Attack) damage against 3 random enemies. If the target is not [c][01a310]Stunned[-][/c], the skill will have a 70% chance to [c][01a310]Stun[-][/c] the target for 2 rounds. If the target is [c][01a310]Stunned[-][/c], she will deal an additional (100% of Attack) damage that will Crit.\n[c][01a310]Stun:[-][/c]\nA control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
-5301202,N-Gen Iron Fist,Metamorphosis,"Iron Fist passed countless challenges and finally exceeds her limit, increases her Hp by 15%, Attack by 10%, Crit Damage by 15%, Speed by 20 and Control Immunity by 25%"
-65301902,N-Gen Iron Fist,Metamorphosis,"Iron Fist passed countless challenges and finally exceeds her limit, increases her Hp by 25%, Attack by 20%, Crit Damage by 25%, Speed by 30 and Control Immunity by 35%"
-65301912,N-Gen Iron Fist,Metamorphosis,"Iron Fist passed countless challenges and finally exceeds her limit, increases her Hp by 35%, Attack by 30%, Crit Damage by 35%, Speed by 40 and Control Immunity by 45%"
-75301202,N-Gen Iron Fist,Metamorphosis,"Iron Fist passed countless challenges and finally exceeds her limit, increases her Hp by 35%, Attack by 30%, Crit Damage by 35%, Speed by 40 and Control Immunity by 45%"
+5301202,N-Gen Iron Fist,Metamorphosis,"Iron Fist passed countless challenges and finally exceeds her limit, increases her Hp by 15%, Attack by 10%, Crit Damage by 15%, Speed by 20 and Control Immunity by 25%."
+65301902,N-Gen Iron Fist,Metamorphosis,"Iron Fist passed countless challenges and finally exceeds her limit, increases her Hp by 25%, Attack by 20%, Crit Damage by 25%, Speed by 30 and Control Immunity by 35%."
+65301912,N-Gen Iron Fist,Metamorphosis,"Iron Fist passed countless challenges and finally exceeds her limit, increases her Hp by 35%, Attack by 30%, Crit Damage by 35%, Speed by 40 and Control Immunity by 45%."
+75301202,N-Gen Iron Fist,Metamorphosis,"Iron Fist passed countless challenges and finally exceeds her limit, increases her Hp by 35%, Attack by 30%, Crit Damage by 35%, Speed by 40 and Control Immunity by 45%."
 5301203,N-Gen Iron Fist,Adaptive Armor,"Iron Fist can gain advantages by taking damage, if the damage she receives is more than 50% of her Maximum HP she will instantly heal herself by 15% of her Maximum Hp and [c][01a310]Stun[-][/c] the attacker for 2 rounds; if the damage is less than 50% of her Maximum Hp, she will gain extra 6% of Attack for 3 rounds\n[c][01a310]Stun:[-][/c]\nA control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
 65301903,N-Gen Iron Fist,Adaptive Armor,"Iron Fist can gain advantages by taking damage, if the damage she receives is more than 50% of her Maximum HP she will instantly heal herself by 25% of her Maximum Hp and [c][01a310]Stun[-][/c] the attacker for 2 rounds; if the damage is less than 50% of her Maximum Hp, she will gain extra 9% of Attack for 3 rounds\n[c][01a310]Stun:[-][/c]\nA control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
 65301913,N-Gen Iron Fist,Adaptive Armor,"Iron Fist can gain advantages by taking damage, if the damage she receives is more than 50% of her Maximum HP she will instantly heal herself by 35% of her Maximum Hp and [c][01a310]Stun[-][/c] the attacker for 2 rounds; if the damage is less than 50% of her Maximum Hp, she will gain extra 12% of Attack for 3 rounds\n[c][01a310]Stun:[-][/c]\nA control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
@@ -3389,7 +3389,7 @@ A Damage over Time. Damage is dealt once when bleed is inflicted and during the 
 200000702,Magician,Magic Explosion,"Deals damage to all enemies. This skill has a chance to Stun enemies in Frontline and recover the enemies in Backline.\n[c][01a310]Stun:[-][/c]\nA control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
 200000703,Magician,Unstable Power,"Freeze self for 1 round after every 4 rounds, and get 100 Energy"
 200000704,Magician,Magic Contract,Get additional Attack and Damage Reduction from each of her own Active skill triggered
-200000705,Magician,Mana Break,Basic Attack has chance to steal Attack and Energy from the target
+200000705,Magician,Mana Break,Basic Attack targets Frontline enemies and has a chance to steal Attack and Energy from them.
 100401,Potential- Stage 4,Potential：Life,HP increases by 12%
 100402,Potential- Stage 4,Potential：Attack,Increases ATK by 8%
 100403,Potential- Stage 4,Potential：Speed,"Increases SPD by 20, HP by 5% and ATK by 3%"
@@ -4947,27 +4947,27 @@ Mark effect, the Round Mark will be removed 1 round later and deals (275% of Att
 753008044,Muppet,Muppet Awaken,"After round 3, increases Crit by 60% and Crit Damage by 108%."
 753008045,Muppet,Muppet Awaken,"After round 3, increases Crit by 65% and Crit Damage by 110%."
 753009011,Priestess,Yinyang Strike,"
-Deals (116% of Attack) damage against all enemies and tags the foes with [c][e28002]Yinyang Mark[-][/c]. There is a 30% chance to tag an extra [c][e28002]Yinyang Mark[-][/c]
+Deals (116% of Attack) damage against all enemies and tags the foes with [c][e28002]Yinyang Mark[-][/c]. There is a 30% chance to tag an extra [c][e28002]Yinyang Mark[-][/c].
 
 [c][e28002]Yinyang Mark:[-][/c]
 Mark effect, increases Priestess\'s damage against her enemies by 35%, can stack."
 753009012,Priestess,Yinyang Strike,"
-Deals (118% of Attack) damage against all enemies and tags the foes with [c][e28002]Yinyang Mark[-][/c]. There is a 30% chance to tag an extra [c][e28002]Yinyang Mark[-][/c]
+Deals (118% of Attack) damage against all enemies and tags the foes with [c][e28002]Yinyang Mark[-][/c]. There is a 30% chance to tag an extra [c][e28002]Yinyang Mark[-][/c].
 
 [c][e28002]Yinyang Mark:[-][/c]
 Mark effect, increases Priestess\'s damage against her enemies by 35%, can stack."
 753009013,Priestess,Yinyang Strike,"
-Deals (120% of Attack) damage against all enemies and tags the foes with [c][e28002]Yinyang Mark[-][/c]. There is a 30% chance to tag an extra [c][e28002]Yinyang Mark[-][/c]
+Deals (120% of Attack) damage against all enemies and tags the foes with [c][e28002]Yinyang Mark[-][/c]. There is a 30% chance to tag an extra [c][e28002]Yinyang Mark[-][/c].
 
 [c][e28002]Yinyang Mark:[-][/c]
 Mark effect, increases Priestess\'s damage against her enemies by 35%, can stack."
 753009014,Priestess,Yinyang Strike,"
-Deals (122% of Attack) damage against all enemies and tags the foes with [c][e28002]Yinyang Mark[-][/c]. There is a 30% chance to tag an extra [c][e28002]Yinyang Mark[-][/c]
+Deals (122% of Attack) damage against all enemies and tags the foes with [c][e28002]Yinyang Mark[-][/c]. There is a 30% chance to tag an extra [c][e28002]Yinyang Mark[-][/c].
 
 [c][e28002]Yinyang Mark:[-][/c]
 Mark effect, increases Priestess\'s damage against her enemies by 35%, can stack."
 753009015,Priestess,Yinyang Strike,"
-Deals (124% of Attack) damage against all enemies and tags the foes with [c][e28002]Yinyang Mark[-][/c]. There is a 35% chance to tag an extra [c][e28002]Yinyang Mark[-][/c]
+Deals (124% of Attack) damage against all enemies and tags the foes with [c][e28002]Yinyang Mark[-][/c]. There is a 35% chance to tag an extra [c][e28002]Yinyang Mark[-][/c].
 
 [c][e28002]Yinyang Mark:[-][/c]
 Mark effect, increases Priestess\'s damage against her enemies by 35%, can stack."
@@ -5076,11 +5076,11 @@ Mark effect, girls with this mark will take 55% extra damage, can\'t stack."
 753011023,Turin,Call for Reinforce,"Turin controls 4 α bits to engage her enemies. Basic attack changed to deal (132.5% of Attack) against 4 random enemies, has a 30% chance to [c][01a310]Stun[-][/c] the targets for 2 rounds.\n[c][01a310]Stun:[-][/c]\nA control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
 753011024,Turin,Call for Reinforce,"Turin controls 4 α bits to engage her enemies. Basic attack changed to deal (135% of Attack) against 4 random enemies, has a 30% chance to [c][01a310]Stun[-][/c] the targets for 2 rounds.\n[c][01a310]Stun:[-][/c]\nA control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
 753011025,Turin,Call for Reinforce,"Turin controls 4 α bits to engage her enemies. Basic attack changed to deal (137% of Attack) against 4 random enemies, has a 35% chance to [c][01a310]Stun[-][/c] the targets for 2 rounds.\n[c][01a310]Stun:[-][/c]\nA control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
-753011031,Turin,Plasma Field,"Turin stands in a plasma field, increases her HP by 42%, Attack by 35%, gains 35% Control Immunity and deals 100% extra damage to the [c][01a310]Stunned[-][/c] targets\n[c][01a310]Stun:[-][/c]\nA control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
-753011032,Turin,Plasma Field,"Turin stands in a plasma field, increases her HP by 42%, Attack by 37%, gains 35% Control Immunity and deals 100% extra damage to the [c][01a310]Stunned[-][/c] targets\n[c][01a310]Stun:[-][/c]\nA control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
-753011033,Turin,Plasma Field,"Turin stands in a plasma field, increases her HP by 42.5%, Attack by 37%, gains 35% Control Immunity and deals 100% extra damage to the [c][01a310]Stunned[-][/c] targets\n[c][01a310]Stun:[-][/c]\nA control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
-753011034,Turin,Plasma Field,"Turin stands in a plasma field, increases her HP by 42.5%, Attack by 37.5%, gains 35% Control Immunity and deals 100% extra damage to the [c][01a310]Stunned[-][/c] targets\n[c][01a310]Stun:[-][/c]\nA control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
-753011035,Turin,Plasma Field,"Turin stands in a plasma field, increases her HP by 43%, Attack by 38%, gains 35% Control Immunity and deals 100% extra damage to the [c][01a310]Stunned[-][/c] targets\n[c][01a310]Stun:[-][/c]\nA control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
+753011031,Turin,Plasma Field,"Turin stands in a plasma field, increases her HP by 42%, Attack by 35%, gains 35% Control Immunity and deals 100% extra damage to the [c][01a310]Stunned[-][/c] targets.\n[c][01a310]Stun:[-][/c]\nA control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
+753011032,Turin,Plasma Field,"Turin stands in a plasma field, increases her HP by 42%, Attack by 37%, gains 35% Control Immunity and deals 100% extra damage to the [c][01a310]Stunned[-][/c] targets.\n[c][01a310]Stun:[-][/c]\nA control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
+753011033,Turin,Plasma Field,"Turin stands in a plasma field, increases her HP by 42.5%, Attack by 37%, gains 35% Control Immunity and deals 100% extra damage to the [c][01a310]Stunned[-][/c] targets.\n[c][01a310]Stun:[-][/c]\nA control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
+753011034,Turin,Plasma Field,"Turin stands in a plasma field, increases her HP by 42.5%, Attack by 37.5%, gains 35% Control Immunity and deals 100% extra damage to the [c][01a310]Stunned[-][/c] targets.\n[c][01a310]Stun:[-][/c]\nA control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
+753011035,Turin,Plasma Field,"Turin stands in a plasma field, increases her HP by 43%, Attack by 38%, gains 35% Control Immunity and deals 100% extra damage to the [c][01a310]Stunned[-][/c] targets.\n[c][01a310]Stun:[-][/c]\nA control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
 753011041,Turin,Reverse the Tide,"Turin's bits will seek out the weak spots of her enemies during their attack. When attacked (counterattack not included) increases self Attack by 30% for 1 round and has a 100% chance to deal a counterattack on all enemies, dealing (153% of Attack) damage."
 753011042,Turin,Reverse the Tide,"Turin's bits will seek out the weak spots of her enemies during their attack. When attacked (counterattack not included) increases self Attack by 30% for 1 round and has a 100% chance to deal a counterattack on all enemies, dealing (156% of Attack) damage."
 753011043,Turin,Reverse the Tide,"Turin's bits will seek out the weak spots of her enemies during their attack. When attacked (counterattack not included) increases self Attack by 30% for 1 round and has a 100% chance to deal a counterattack on all enemies, dealing (159% of Attack) damage."
@@ -5091,11 +5091,11 @@ Mark effect, girls with this mark will take 55% extra damage, can\'t stack."
 753012013,N-Gen Iron Fist,Butterfly Whirlwind,"Iron Fist hovers above her enemies and seeks for their weak point to attack. Deals (212% of Attack) damage against 3 random enemies. If the target is not [c][01a310]Stunned[-][/c], the skill will have a 70% chance to [c][01a310]Stun[-][/c] the target for 2 rounds. If the target is [c][01a310]Stunned[-][/c], she will deal an additional (100% of Attack) damage that will Crit.\n[c][01a310]Stun:[-][/c]\nA control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
 753012014,N-Gen Iron Fist,Butterfly Whirlwind,"Iron Fist hovers above her enemies and seeks for their weak point to attack. Deals (216% of Attack) damage against 3 random enemies. If the target is not [c][01a310]Stunned[-][/c], the skill will have a 70% chance to [c][01a310]Stun[-][/c] the target for 2 rounds. If the target is [c][01a310]Stunned[-][/c], she will deal an additional (100% of Attack) damage that will Crit.\n[c][01a310]Stun:[-][/c]\nA control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
 753012015,N-Gen Iron Fist,Butterfly Whirlwind,"Iron Fist hovers above her enemies and seeks for their weak point to attack. Deals (220% of Attack) damage against 3 random enemies. If the target is not [c][01a310]Stunned[-][/c], the skill will have a 80% chance to [c][01a310]Stun[-][/c] the target for 2 rounds. If the target is [c][01a310]Stunned[-][/c], she will deal an additional (110% of Attack) damage that will Crit.\n[c][01a310]Stun:[-][/c]\nA control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
-753012021,N-Gen Iron Fist,Metamorphosis,"Iron Fist passed countless challenges and finally exceeds her limit, increases her Hp by 37%, Attack by 30%, Crit Damage by 35%, Speed by 40 and Control Immunity by 45%"
-753012022,N-Gen Iron Fist,Metamorphosis,"Iron Fist passed countless challenges and finally exceeds her limit, increases her Hp by 37%, Attack by 32%, Crit Damage by 35%, Speed by 40 and Control Immunity by 45%"
-753012023,N-Gen Iron Fist,Metamorphosis,"Iron Fist passed countless challenges and finally exceeds her limit, increases her Hp by 37.5%, Attack by 32%, Crit Damage by 35%, Speed by 40 and Control Immunity by 45%"
-753012024,N-Gen Iron Fist,Metamorphosis,"Iron Fist passed countless challenges and finally exceeds her limit, increases her Hp by 37.5%, Attack by 32.5%, Crit Damage by 35%, Speed by 40 and Control Immunity by 45%"
-753012025,N-Gen Iron Fist,Metamorphosis,"Iron Fist passed countless challenges and finally exceeds her limit, increases her Hp by 38%, Attack by 33%, Crit Damage by 35%, Speed by 40 and Control Immunity by 45%"
+753012021,N-Gen Iron Fist,Metamorphosis,"Iron Fist passed countless challenges and finally exceeds her limit, increases her Hp by 37%, Attack by 30%, Crit Damage by 35%, Speed by 40 and Control Immunity by 45%."
+753012022,N-Gen Iron Fist,Metamorphosis,"Iron Fist passed countless challenges and finally exceeds her limit, increases her Hp by 37%, Attack by 32%, Crit Damage by 35%, Speed by 40 and Control Immunity by 45%."
+753012023,N-Gen Iron Fist,Metamorphosis,"Iron Fist passed countless challenges and finally exceeds her limit, increases her Hp by 37.5%, Attack by 32%, Crit Damage by 35%, Speed by 40 and Control Immunity by 45%."
+753012024,N-Gen Iron Fist,Metamorphosis,"Iron Fist passed countless challenges and finally exceeds her limit, increases her Hp by 37.5%, Attack by 32.5%, Crit Damage by 35%, Speed by 40 and Control Immunity by 45%."
+753012025,N-Gen Iron Fist,Metamorphosis,"Iron Fist passed countless challenges and finally exceeds her limit, increases her Hp by 38%, Attack by 33%, Crit Damage by 35%, Speed by 40 and Control Immunity by 45%."
 753012031,N-Gen Iron Fist,Adaptive Armor,"Iron Fist can gain advantages by taking damage, if the damage she receives is more than 50% of her Maximum HP she will instantly heal herself by 37% of her Maximum Hp and [c][01a310]Stun[-][/c] the attacker for 2 rounds; if the damage is less than 50% of her Maximum Hp, she will gain extra 12.5% of Attack for 3 rounds\n[c][01a310]Stun:[-][/c]\nA control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
 753012032,N-Gen Iron Fist,Adaptive Armor,"Iron Fist can gain advantages by taking damage, if the damage she receives is more than 50% of her Maximum HP she will instantly heal herself by 37.5% of her Maximum Hp and [c][01a310]Stun[-][/c] the attacker for 2 rounds; if the damage is less than 50% of her Maximum Hp, she will gain extra 12.8% of Attack for 3 rounds\n[c][01a310]Stun:[-][/c]\nA control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
 753012033,N-Gen Iron Fist,Adaptive Armor,"Iron Fist can gain advantages by taking damage, if the damage she receives is more than 50% of her Maximum HP she will instantly heal herself by 38% of her Maximum Hp and [c][01a310]Stun[-][/c] the attacker for 2 rounds; if the damage is less than 50% of her Maximum Hp, she will gain extra 13% of Attack for 3 rounds\n[c][01a310]Stun:[-][/c]\nA control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
@@ -10797,3 +10797,237 @@ At the end of each Round, Hermes first deals (45% of target\'s current HP) to 1 
 [c][e28002]Magick Barrier:[-][/c]
 A Skill Effect that can stack.
 Nullifies all incoming damage for the owner. The Magick Barrier\'s durability depends on how many Barrier Points (BP) it has: 1 BP nullifies 1 damage. When the Magick Barrier\'s BP reaches 0, it will shatter and disappear. A Magick Barrier can have up to (100% of owner\'s maximum HP) BP."
+5101700,Lord Dracula,Basic Attack,
+65102400,Lord Dracula,Basic Attack,
+75101700,Lord Dracula,Basic Attack,
+5101701,Lord Dracula,Crimson Veins,"
+Deals (200% of Attack) damage to 3 random enemies, lowers their Attack by 5% for 2 Rounds, and afflicts them with 2 stacks of [c][e28002]Sanguine Snare[-][/c] that lasts for 2 Rounds.
+Deals an extra (400% of Attack) damage to target(s) with 50% or more HP, and an extra (10% of target\'s lost HP) damage to target(s) with less than 50% HP (damage dealt will not surpass 2500% of Lord Dracula\'s Attack).
+
+[c][e28002]Sanguine Snare:[-][/c]
+A Damage Over Time effect.
+Deals (2% of target\'s Maximum HP) damage (damage dealt will not surpass 2000% of Lord Dracula\'s Attack) to the target when this effect is inflicted and at the end of each round during period of effect. Heals the Lord Dracula that afflicted this effect for (25% of Damage dealt by this [c][e28002]Sanguine Snare[-][/c]) HP whenever this [c][e28002]Sanguine Snare[-][/c] deals damage."
+65102401,Lord Dracula,Crimson Veins,"
+Deals (400% of Attack) damage to 3 random enemies, lowers their Attack by 10% for 2 Rounds, and afflicts them with 2 stacks of [c][e28002]Sanguine Snare[-][/c] that lasts for 2 Rounds.
+Deals an extra (800% of Attack) damage to target(s) with 50% or more HP, and an extra (15% of target\'s lost HP) damage to target(s) with less than 50% HP (damage dealt will not surpass 2500% of Lord Dracula\'s Attack).
+
+[c][e28002]Sanguine Snare:[-][/c]
+A Damage Over Time effect.
+Deals (4% of target\'s Maximum HP) damage (damage dealt will not surpass 2000% of Lord Dracula\'s Attack) to the target when this effect is inflicted and at the end of each round during period of effect. Heals the Lord Dracula that afflicted this effect for (25% of Damage dealt by this [c][e28002]Sanguine Snare[-][/c]) HP whenever this [c][e28002]Sanguine Snare[-][/c] deals damage."
+75101701,Lord Dracula,Crimson Veins,"
+Deals (800% of Attack) damage to 3 random enemies, lowers their Attack by 15% for 2 Rounds, and afflicts them with 2 stacks of [c][e28002]Sanguine Snare[-][/c] that lasts for 2 Rounds.
+Deals an extra (1600% of Attack) damage to target(s) with 50% or more HP, and an extra (20% of target\'s lost HP) damage to target(s) with less than 50% HP (damage dealt will not surpass 2500% of Lord Dracula\'s Attack).
+
+[c][e28002]Sanguine Snare:[-][/c]
+A Damage Over Time effect.
+Deals (8% of target\'s Maximum HP) damage (damage dealt will not surpass 2000% of Lord Dracula\'s Attack) to the target when this effect is inflicted and at the end of each round during period of effect. Heals the Lord Dracula that afflicted this effect for (25% of Damage dealt by this [c][e28002]Sanguine Snare[-][/c]) HP whenever this [c][e28002]Sanguine Snare[-][/c] deals damage."
+5101702,Lord Dracula,Twilight Baron,"Increases Lord Dracula's HP by 20%, Attack by 20%, Block by 20%, Control Immunity by 10%, and Speed by 20."
+65102402,Lord Dracula,Twilight Baron,"Increases Lord Dracula's HP by 25%, Attack by 25%, Block by 40%, Control Immunity by 20%, and Speed by 30."
+65102412,Lord Dracula,Twilight Baron,"Increases Lord Dracula's HP by 30%, Attack by 30%, Block by 60%, Control Immunity by 30%, and Speed by 40."
+75101702,Lord Dracula,Twilight Baron,"Increases Lord Dracula's HP by 30%, Attack by 30%, Block by 60%, Control Immunity by 30%, and Speed by 40."
+5101703,Lord Dracula,Blood Tithe,"
+When Lord Dracula deals a Basic Attack, she has a 10% chance to gain 1 stack of [c][e28002]Blood Bats[-][/c].
+When any girl is defeated, Lord Dracula will reduce all enemies\' Precision by 5% and all damage they deal by 3% (all damage dealt can be lowered for at most 40%) for 6 Rounds. There is also a 50% chance for Lord Dracula to gain 2 stacks of [c][e28002]Blood Bats[-][/c].
+
+[c][e28002]Sanguine Snare:[-][/c]
+A Damage Over Time effect.
+Deals (2% of target\'s Maximum HP) damage (damage dealt will not surpass 2000% of Lord Dracula\'s Attack) to the target when this effect is inflicted and at the end of each round during period of effect. Heals the Lord Dracula that afflicted this effect for (25% of Damage dealt by this [c][e28002]Sanguine Snare[-][/c]) HP whenever this [c][e28002]Sanguine Snare[-][/c] deals damage.
+
+[c][e28002]Blood Bats:[-][/c]
+A Skill Effect that can stack. 
+1 Stack will be consumed when the owner of [c][e28002]Blood Bats[-][/c] casts 1 stack of [c][e28002]Sanguine Snare[-][/c] to enemies (regardless of the number of targets) and enhance its effects. The final damage (damage after calculating all attributes) dealt by the stack of enhanced [c][e28002]Sanguine Snare[-][/c] will be boosted by 50%, and its damage limit will be increased to 3000% of Lord Dracula\'s Attack."
+65102403,Lord Dracula,Blood Tithe,"
+When an ally deals a Basic Attack or releases an Active Skill to an enemy afflicted with [c][e28002]Sanguine Snare[-][/c], Lord Dracula has a 15% chance to gain 1 stack of [c][e28002]Blood Bats[-][/c].
+When any girl is defeated, Lord Dracula will reduce all enemies\' Precision by 10% and all damage they deal by 6% (all damage dealt can be lowered for at most 40%) for 6 Rounds. There is also a 70% chance for Lord Dracula to gain 2 stacks of [c][e28002]Blood Bats[-][/c].
+
+[c][e28002]Sanguine Snare:[-][/c]
+A Damage Over Time effect.
+Deals (4% of target\'s Maximum HP) damage (damage dealt will not surpass 2000% of Lord Dracula\'s Attack) to the target when this effect is inflicted and at the end of each round during period of effect. Heals the Lord Dracula that afflicted this effect for (25% of Damage dealt by this [c][e28002]Sanguine Snare[-][/c]) HP whenever this [c][e28002]Sanguine Snare[-][/c] deals damage.
+
+[c][e28002]Blood Bats:[-][/c]
+A Skill Effect that can stack. 
+1 Stack will be consumed when the owner of [c][e28002]Blood Bats[-][/c] casts 1 stack of [c][e28002]Sanguine Snare[-][/c] to enemies (regardless of the number of targets) and enhance its effects. The final damage (damage after calculating all attributes) dealt by the stack of enhanced [c][e28002]Sanguine Snare[-][/c] will be boosted by 50%, and its damage limit will be increased to 3000% of Lord Dracula\'s Attack."
+65102413,Lord Dracula,Blood Tithe,"
+When Lord Dracula deals a Basic Attack, she has a 20% chance to gain 1 stack of [c][e28002]Blood Bats[-][/c].
+When any girl is defeated, Lord Dracula will reduce all enemies\' Precision by 15% and all damage they deal by 10% (all damage dealt can be lowered for at most 40%) for 6 Rounds. There is also 100% chance for Lord Dracula to gain 2 stacks of [c][e28002]Blood Bats[-][/c].
+
+[c][e28002]Sanguine Snare:[-][/c]
+A Damage Over Time effect.
+Deals (8% of target\'s Maximum HP) damage (damage dealt will not surpass 2000% of Lord Dracula\'s Attack) to the target when this effect is inflicted and at the end of each round during period of effect. Heals the Lord Dracula that afflicted this effect for (25% of Damage dealt by this [c][e28002]Sanguine Snare[-][/c]) HP whenever this [c][e28002]Sanguine Snare[-][/c] deals damage.
+
+[c][e28002]Blood Bats:[-][/c]
+A Skill Effect that can stack. 
+1 Stack will be consumed when the owner of [c][e28002]Blood Bats[-][/c] casts 1 stack of [c][e28002]Sanguine Snare[-][/c] to enemies (regardless of the number of targets) and enhance its effects. The final damage (damage after calculating all attributes) dealt by the stack of enhanced [c][e28002]Sanguine Snare[-][/c] will be boosted by 50%, and its damage limit will be increased to 3000% of Lord Dracula\'s Attack."
+75101703,Lord Dracula,Blood Tithe,"
+When Lord Dracula deals a Basic Attack, she has a 20% chance to gain 1 stack of [c][e28002]Blood Bats[-][/c].
+When any girl is defeated, Lord Dracula will reduce all enemies\' Precision by 15% and all damage they deal by 10% (all damage dealt can be lowered for at most 40%) for 6 Rounds. There is also 100% chance for Lord Dracula to gain 2 stacks of [c][e28002]Blood Bats[-][/c].
+
+[c][e28002]Sanguine Snare:[-][/c]
+A Damage Over Time effect.
+Deals (8% of target\'s Maximum HP) damage (damage dealt will not surpass 2000% of Lord Dracula\'s Attack) to the target when this effect is inflicted and at the end of each round during period of effect. Heals the Lord Dracula that afflicted this effect for (25% of Damage dealt by this [c][e28002]Sanguine Snare[-][/c]) HP whenever this [c][e28002]Sanguine Snare[-][/c] deals damage.
+
+[c][e28002]Blood Bats:[-][/c]
+A Skill Effect that can stack. 
+1 Stack will be consumed when the owner of [c][e28002]Blood Bats[-][/c] casts 1 stack of [c][e28002]Sanguine Snare[-][/c] to enemies (regardless of the number of targets) and enhance its effects. The final damage (damage after calculating all attributes) dealt by the stack of enhanced [c][e28002]Sanguine Snare[-][/c] will be boosted by 50%, and its damage limit will be increased to 3000% of Lord Dracula\'s Attack."
+5101704,Lord Dracula,Dusk Rose,"
+When Lord Dracula takes damage from Active Skills or Basic Attacks aimed at her, she will deal (100% of Attack) damage to the attacker.
+If Lord Dracula blocked the damage, she will deal (200% of Attack) damage to 1 random enemy and cast 1 stack of [c][e28002]Sanguine Snare[-][/c] that lasts for 2 Rounds to it.
+
+[c][e28002]Sanguine Snare:[-][/c]
+A Damage Over Time effect.
+Deals (2% of target\'s Maximum HP) damage (damage dealt will not surpass 2000% of Lord Dracula\'s Attack) to the target when this effect is inflicted and at the end of each round during period of effect. Heals the Lord Dracula that afflicted this effect for (25% of Damage dealt by this [c][e28002]Sanguine Snare[-][/c]) HP whenever this [c][e28002]Sanguine Snare[-][/c] deals damage."
+65102404,Lord Dracula,Dusk Rose,"
+When Lord Dracula takes damage from Active Skills or Basic Attacks aimed at her, she will deal (200% of Attack) damage to the attacker.
+If Lord Dracula blocked the damage, she will deal (400% of Attack) damage to 1 random enemy and cast 1 stack of [c][e28002]Sanguine Snare[-][/c] that lasts for 2 Rounds to it.
+
+[c][e28002]Sanguine Snare:[-][/c]
+A Damage Over Time effect.
+Deals (4% of target\'s Maximum HP) damage (damage dealt will not surpass 2000% of Lord Dracula\'s Attack) to the target when this effect is inflicted and at the end of each round during period of effect. Heals the Lord Dracula that afflicted this effect for (25% of Damage dealt by this [c][e28002]Sanguine Snare[-][/c]) HP whenever this [c][e28002]Sanguine Snare[-][/c] deals damage."
+65102414,Lord Dracula,Dusk Rose,"
+When Lord Dracula takes damage from Active Skills or Basic Attacks aimed at her, she will deal (400% of Attack) damage to the attacker.
+If Lord Dracula blocked the damage, she will deal (800% of Attack) damage to 1 random enemy and cast 1 stack of [c][e28002]Sanguine Snare[-][/c] that lasts for 2 Rounds to it.
+
+[c][e28002]Sanguine Snare:[-][/c]
+A Damage Over Time effect.
+Deals (8% of target\'s Maximum HP) damage (damage dealt will not surpass 2000% of Lord Dracula\'s Attack) to the target when this effect is inflicted and at the end of each round during period of effect. Heals the Lord Dracula that afflicted this effect for (25% of Damage dealt by this [c][e28002]Sanguine Snare[-][/c]) HP whenever this [c][e28002]Sanguine Snare[-][/c] deals damage."
+75101704,Lord Dracula,Dusk Rose,"
+When Lord Dracula takes damage from Active Skills or Basic Attacks aimed at her, she will deal (400% of Attack) damage to the attacker.
+If Lord Dracula blocked the damage, she will deal (800% of Attack) damage to 1 random enemy and cast 1 stack of [c][e28002]Sanguine Snare[-][/c] that lasts for 2 Rounds to it.
+
+[c][e28002]Sanguine Snare:[-][/c]
+A Damage Over Time effect.
+Deals (8% of target\'s Maximum HP) damage (damage dealt will not surpass 2000% of Lord Dracula\'s Attack) to the target when this effect is inflicted and at the end of each round during period of effect. Heals the Lord Dracula that afflicted this effect for (25% of Damage dealt by this [c][e28002]Sanguine Snare[-][/c]) HP whenever this [c][e28002]Sanguine Snare[-][/c] deals damage."
+751017011,Lord Dracula,Crimson Veins,"
+Deals (816% of Attack) damage to 3 random enemies, lowers their Attack by 15% for 2 Rounds, and afflicts them with 2 stacks of [c][e28002]Sanguine Snare[-][/c] that lasts for 2 Rounds.
+Deals an extra (1680% of Attack) damage to target(s) with 50% or more HP, and an extra (20% of target\'s lost HP) damage to target(s) with less than 50% HP (damage dealt will not surpass 2500% of Lord Dracula\'s Attack).
+
+[c][e28002]Sanguine Snare:[-][/c]
+A Damage Over Time effect.
+Deals (8% of target\'s Maximum HP) damage (damage dealt will not surpass 2000% of Lord Dracula\'s Attack) to the target when this effect is inflicted and at the end of each round during period of effect. Heals the Lord Dracula that afflicted this effect for (25% of Damage dealt by this [c][e28002]Sanguine Snare[-][/c]) HP whenever this [c][e28002]Sanguine Snare[-][/c] deals damage."
+751017012,Lord Dracula,Crimson Veins,"
+Deals (832% of Attack) damage to 3 random enemies, lowers their Attack by 15% for 2 Rounds, and afflicts them with 2 stacks of [c][e28002]Sanguine Snare[-][/c] that lasts for 2 Rounds.
+Deals an extra (1760% of Attack) damage to target(s) with 50% or more HP, and an extra (20% of target\'s lost HP) damage to target(s) with less than 50% HP (damage dealt will not surpass 2500% of Lord Dracula\'s Attack).
+
+[c][e28002]Sanguine Snare:[-][/c]
+A Damage Over Time effect.
+Deals (8% of target\'s Maximum HP) damage (damage dealt will not surpass 2000% of Lord Dracula\'s Attack) to the target when this effect is inflicted and at the end of each round during period of effect. Heals the Lord Dracula that afflicted this effect for (25% of Damage dealt by this [c][e28002]Sanguine Snare[-][/c]) HP whenever this [c][e28002]Sanguine Snare[-][/c] deals damage."
+751017013,Lord Dracula,Crimson Veins,"
+Deals (848% of Attack) damage to 3 random enemies, lowers their Attack by 15% for 2 Rounds, and afflicts them with 2 stacks of [c][e28002]Sanguine Snare[-][/c] that lasts for 2 Rounds.
+Deals an extra (1840% of Attack) damage to target(s) with 50% or more HP, and an extra (20% of target\'s lost HP) damage to target(s) with less than 50% HP (damage dealt will not surpass 2500% of Lord Dracula\'s Attack).
+
+[c][e28002]Sanguine Snare:[-][/c]
+A Damage Over Time effect.
+Deals (8% of target\'s Maximum HP) damage (damage dealt will not surpass 2000% of Lord Dracula\'s Attack) to the target when this effect is inflicted and at the end of each round during period of effect. Heals the Lord Dracula that afflicted this effect for (25% of Damage dealt by this [c][e28002]Sanguine Snare[-][/c]) HP whenever this [c][e28002]Sanguine Snare[-][/c] deals damage."
+751017014,Lord Dracula,Crimson Veins,"
+Deals (864% of Attack) damage to 3 random enemies, lowers their Attack by 15% for 2 Rounds, and afflicts them with 2 stacks of [c][e28002]Sanguine Snare[-][/c] that lasts for 2 Rounds.
+Deals an extra (1920% of Attack) damage to target(s) with 50% or more HP, and an extra (20% of target\'s lost HP) damage to target(s) with less than 50% HP (damage dealt will not surpass 2500% of Lord Dracula\'s Attack).
+
+[c][e28002]Sanguine Snare:[-][/c]
+A Damage Over Time effect.
+Deals (8% of target\'s Maximum HP) damage (damage dealt will not surpass 2000% of Lord Dracula\'s Attack) to the target when this effect is inflicted and at the end of each round during period of effect. Heals the Lord Dracula that afflicted this effect for (25% of Damage dealt by this [c][e28002]Sanguine Snare[-][/c]) HP whenever this [c][e28002]Sanguine Snare[-][/c] deals damage."
+751017015,Lord Dracula,Crimson Veins,"
+Deals (880% of Attack) damage to 3 random enemies, lowers their Attack by 15% for 2 Rounds, and afflicts them with 2 stacks of [c][e28002]Sanguine Snare[-][/c] that lasts for 2 Rounds.
+Deals an extra (2000% of Attack) damage to target(s) with 50% or more HP, and an extra (20% of target\'s lost HP) damage to target(s) with less than 50% HP (damage dealt will not surpass 2500% of Lord Dracula\'s Attack).
+
+[c][e28002]Sanguine Snare:[-][/c]
+A Damage Over Time effect.
+Deals (10% of target\'s Maximum HP) damage (damage dealt will not surpass 2000% of Lord Dracula\'s Attack) to the target when this effect is inflicted and at the end of each round during period of effect. Heals the Lord Dracula that afflicted this effect for (25% of Damage dealt by this [c][e28002]Sanguine Snare[-][/c]) HP whenever this [c][e28002]Sanguine Snare[-][/c] deals damage."
+751017021,Lord Dracula,Twilight Baron,"Increases Lord Dracula's HP by 30%, Attack by 30%, Block by 60%, Control Immunity by 30%, and Speed by 42."
+751017022,Lord Dracula,Twilight Baron,"Increases Lord Dracula's HP by 30%, Attack by 30%, Block by 60%, Control Immunity by 30%, and Speed by 44."
+751017023,Lord Dracula,Twilight Baron,"Increases Lord Dracula's HP by 30%, Attack by 30%, Block by 60%, Control Immunity by 30%, and Speed by 46."
+751017024,Lord Dracula,Twilight Baron,"Increases Lord Dracula's HP by 30%, Attack by 30%, Block by 60%, Control Immunity by 30%, and Speed by 48."
+751017025,Lord Dracula,Twilight Baron,"Increases Lord Dracula's HP by 33%, Attack by 33%, Block by 60%, Control Immunity by 30%, and Speed by 50."
+751017031,Lord Dracula,Blood Tithe,"
+When Lord Dracula deals a Basic Attack, she has a 22% chance to gain 1 stack of [c][e28002]Blood Bats[-][/c].
+When any girl is defeated, Lord Dracula will reduce all enemies\' Precision by 15% and all damage they deal by 10% (all damage dealt can be lowered for at most 40%) for 6 Rounds. There is also 100% chance for Lord Dracula to gain 2 stacks of [c][e28002]Blood Bats[-][/c].
+
+[c][e28002]Sanguine Snare:[-][/c]
+A Damage Over Time effect.
+Deals (8% of target\'s Maximum HP) damage (damage dealt will not surpass 2000% of Lord Dracula\'s Attack) to the target when this effect is inflicted and at the end of each round during period of effect. Heals the Lord Dracula that afflicted this effect for (25% of Damage dealt by this [c][e28002]Sanguine Snare[-][/c]) HP whenever this [c][e28002]Sanguine Snare[-][/c] deals damage.
+
+[c][e28002]Blood Bats:[-][/c]
+A Skill Effect that can stack. 
+1 Stack will be consumed when the owner of [c][e28002]Blood Bats[-][/c] casts 1 stack of [c][e28002]Sanguine Snare[-][/c] to enemies (regardless of the number of targets) and enhance its effects. The final damage (damage after calculating all attributes) dealt by the stack of enhanced [c][e28002]Sanguine Snare[-][/c] will be boosted by 50%, and its damage limit will be increased to 3000% of Lord Dracula\'s Attack."
+751017032,Lord Dracula,Blood Tithe,"
+When Lord Dracula deals a Basic Attack, she has a 24% chance to gain 1 stack of [c][e28002]Blood Bats[-][/c].
+When any girl is defeated, Lord Dracula will reduce all enemies\' Precision by 15% and all damage they deal by 10% (all damage dealt can be lowered for at most 40%) for 6 Rounds. There is also 100% chance for Lord Dracula to gain 2 stacks of [c][e28002]Blood Bats[-][/c].
+
+[c][e28002]Sanguine Snare:[-][/c]
+A Damage Over Time effect.
+Deals (8% of target\'s Maximum HP) damage (damage dealt will not surpass 2000% of Lord Dracula\'s Attack) to the target when this effect is inflicted and at the end of each round during period of effect. Heals the Lord Dracula that afflicted this effect for (25% of Damage dealt by this [c][e28002]Sanguine Snare[-][/c]) HP whenever this [c][e28002]Sanguine Snare[-][/c] deals damage.
+
+[c][e28002]Blood Bats:[-][/c]
+A Skill Effect that can stack. 
+1 Stack will be consumed when the owner of [c][e28002]Blood Bats[-][/c] casts 1 stack of [c][e28002]Sanguine Snare[-][/c] to enemies (regardless of the number of targets) and enhance its effects. The final damage (damage after calculating all attributes) dealt by the stack of enhanced [c][e28002]Sanguine Snare[-][/c] will be boosted by 50%, and its damage limit will be increased to 3000% of Lord Dracula\'s Attack."
+751017033,Lord Dracula,Blood Tithe,"
+When Lord Dracula deals a Basic Attack, she has a 26% chance to gain 1 stack of [c][e28002]Blood Bats[-][/c].
+When any girl is defeated, Lord Dracula will reduce all enemies\' Precision by 15% and all damage they deal by 10% (all damage dealt can be lowered for at most 40%) for 6 Rounds. There is also 100% chance for Lord Dracula to gain 2 stacks of [c][e28002]Blood Bats[-][/c].
+
+[c][e28002]Sanguine Snare:[-][/c]
+A Damage Over Time effect.
+Deals (8% of target\'s Maximum HP) damage (damage dealt will not surpass 2000% of Lord Dracula\'s Attack) to the target when this effect is inflicted and at the end of each round during period of effect. Heals the Lord Dracula that afflicted this effect for (25% of Damage dealt by this [c][e28002]Sanguine Snare[-][/c]) HP whenever this [c][e28002]Sanguine Snare[-][/c] deals damage.
+
+[c][e28002]Blood Bats:[-][/c]
+A Skill Effect that can stack. 
+1 Stack will be consumed when the owner of [c][e28002]Blood Bats[-][/c] casts 1 stack of [c][e28002]Sanguine Snare[-][/c] to enemies (regardless of the number of targets) and enhance its effects. The final damage (damage after calculating all attributes) dealt by the stack of enhanced [c][e28002]Sanguine Snare[-][/c] will be boosted by 55%, and its damage limit will be increased to 3100% of Lord Dracula\'s Attack."
+751017034,Lord Dracula,Blood Tithe,"
+When Lord Dracula deals a Basic Attack, she has a 28% chance to gain 1 stack of [c][e28002]Blood Bats[-][/c].
+When any girl is defeated, Lord Dracula will reduce all enemies\' Precision by 15% and all damage they deal by 10% (all damage dealt can be lowered for at most 40%) for 6 Rounds. There is also 100% chance for Lord Dracula to gain 2 stacks of [c][e28002]Blood Bats[-][/c].
+
+[c][e28002]Sanguine Snare:[-][/c]
+A Damage Over Time effect.
+Deals (8% of target\'s Maximum HP) damage (damage dealt will not surpass 2000% of Lord Dracula\'s Attack) to the target when this effect is inflicted and at the end of each round during period of effect. Heals the Lord Dracula that afflicted this effect for (25% of Damage dealt by this [c][e28002]Sanguine Snare[-][/c]) HP whenever this [c][e28002]Sanguine Snare[-][/c] deals damage.
+
+[c][e28002]Blood Bats:[-][/c]
+A Skill Effect that can stack. 
+1 Stack will be consumed when the owner of [c][e28002]Blood Bats[-][/c] casts 1 stack of [c][e28002]Sanguine Snare[-][/c] to enemies (regardless of the number of targets) and enhance its effects. The final damage (damage after calculating all attributes) dealt by the stack of enhanced [c][e28002]Sanguine Snare[-][/c] will be boosted by 55%, and its damage limit will be increased to 3100% of Lord Dracula\'s Attack."
+751017035,Lord Dracula,Blood Tithe,"
+When Lord Dracula deals a Basic Attack, she has a 30% chance to gain 1 stack of [c][e28002]Blood Bats[-][/c].
+When any girl is defeated, Lord Dracula will reduce all enemies\' Precision by 15% and all damage they deal by 10% (all damage dealt can be lowered for at most 40%) for 6 Rounds. There is also 100% chance for Lord Dracula to gain 2 stacks of [c][e28002]Blood Bats[-][/c].
+
+[c][e28002]Sanguine Snare:[-][/c]
+A Damage Over Time effect.
+Deals (10% of target\'s Maximum HP) damage (damage dealt will not surpass 2000% of Lord Dracula\'s Attack) to the target when this effect is inflicted and at the end of each round during period of effect. Heals the Lord Dracula that afflicted this effect for (25% of Damage dealt by this [c][e28002]Sanguine Snare[-][/c]) HP whenever this [c][e28002]Sanguine Snare[-][/c] deals damage.
+
+[c][e28002]Blood Bats:[-][/c]
+A Skill Effect that can stack. 
+1 Stack will be consumed when the owner of [c][e28002]Blood Bats[-][/c] casts 1 stack of [c][e28002]Sanguine Snare[-][/c] to enemies (regardless of the number of targets) and enhance its effects. The final damage (damage after calculating all attributes) dealt by the stack of enhanced [c][e28002]Sanguine Snare[-][/c] will be boosted by 60%, and its damage limit will be increased to 3200% of Lord Dracula\'s Attack."
+751017041,Lord Dracula,Dusk Rose,"
+When Lord Dracula takes damage from Active Skills or Basic Attacks aimed at her, she will deal (408% of Attack) damage to the attacker.
+If Lord Dracula blocked the damage, she will deal (816% of Attack) damage to 1 random enemy and cast 1 stack of [c][e28002]Sanguine Snare[-][/c] that lasts for 2 Rounds to it.
+
+[c][e28002]Sanguine Snare:[-][/c]
+A Damage Over Time effect.
+Deals (8% of target\'s Maximum HP) damage (damage dealt will not surpass 2000% of Lord Dracula\'s Attack) to the target when this effect is inflicted and at the end of each round during period of effect. Heals the Lord Dracula that afflicted this effect for (25% of Damage dealt by this [c][e28002]Sanguine Snare[-][/c]) HP whenever this [c][e28002]Sanguine Snare[-][/c] deals damage."
+751017042,Lord Dracula,Dusk Rose,"
+When Lord Dracula takes damage from Active Skills or Basic Attacks aimed at her, she will deal (416% of Attack) damage to the attacker.
+If Lord Dracula blocked the damage, she will deal (832% of Attack) damage to 1 random enemy and cast 1 stack of [c][e28002]Sanguine Snare[-][/c] that lasts for 2 Rounds to it.
+
+[c][e28002]Sanguine Snare:[-][/c]
+A Damage Over Time effect.
+Deals (8% of target\'s Maximum HP) damage (damage dealt will not surpass 2000% of Lord Dracula\'s Attack) to the target when this effect is inflicted and at the end of each round during period of effect. Heals the Lord Dracula that afflicted this effect for (25% of Damage dealt by this [c][e28002]Sanguine Snare[-][/c]) HP whenever this [c][e28002]Sanguine Snare[-][/c] deals damage."
+751017043,Lord Dracula,Dusk Rose,"
+When Lord Dracula takes damage from Active Skills or Basic Attacks aimed at her, she will deal (424% of Attack) damage to the attacker.
+If Lord Dracula blocked the damage, she will deal (848% of Attack) damage to 1 random enemy and cast 1 stack of [c][e28002]Sanguine Snare[-][/c] that lasts for 2 Rounds to it.
+
+[c][e28002]Sanguine Snare:[-][/c]
+A Damage Over Time effect.
+Deals (8% of target\'s Maximum HP) damage (damage dealt will not surpass 2000% of Lord Dracula\'s Attack) to the target when this effect is inflicted and at the end of each round during period of effect. Heals the Lord Dracula that afflicted this effect for (25% of Damage dealt by this [c][e28002]Sanguine Snare[-][/c]) HP whenever this [c][e28002]Sanguine Snare[-][/c] deals damage."
+751017044,Lord Dracula,Dusk Rose,"
+When Lord Dracula takes damage from Active Skills or Basic Attacks aimed at her, she will deal (432% of Attack) damage to the attacker.
+If Lord Dracula blocked the damage, she will deal (864% of Attack) damage to 1 random enemy and cast 1 stack of [c][e28002]Sanguine Snare[-][/c] that lasts for 2 Rounds to it.
+
+[c][e28002]Sanguine Snare:[-][/c]
+A Damage Over Time effect.
+Deals (8% of target\'s Maximum HP) damage (damage dealt will not surpass 2000% of Lord Dracula\'s Attack) to the target when this effect is inflicted and at the end of each round during period of effect. Heals the Lord Dracula that afflicted this effect for (25% of Damage dealt by this [c][e28002]Sanguine Snare[-][/c]) HP whenever this [c][e28002]Sanguine Snare[-][/c] deals damage."
+751017045,Lord Dracula,Dusk Rose,"
+When Lord Dracula takes damage from Active Skills or Basic Attacks aimed at her, she will deal (440% of Attack) damage to the attacker.
+If Lord Dracula blocked the damage, she will deal (880% of Attack) damage to 1 random enemy and cast 1 stack of [c][e28002]Sanguine Snare[-][/c] that lasts for 2 Rounds to it.
+
+[c][e28002]Sanguine Snare:[-][/c]
+A Damage Over Time effect.
+Deals (10% of target\'s Maximum HP) damage (damage dealt will not surpass 2000% of Lord Dracula\'s Attack) to the target when this effect is inflicted and at the end of each round during period of effect. Heals the Lord Dracula that afflicted this effect for (25% of Damage dealt by this [c][e28002]Sanguine Snare[-][/c]) HP whenever this [c][e28002]Sanguine Snare[-][/c] deals damage."
+501112,Sky Island,Blood Bats I,"When Sky Island Lord Dracula takes damage from Basic Attacks or Active Skills, she has a 10% chance to gain 1 stack of [c][e28002]Blood Bats[-][/c]."
+501113,Sky Island,Blood Bats II,"When Sky Island Lord Dracula takes damage from Basic Attacks or Active Skills, she has a 20% chance to gain 1 stack of [c][e28002]Blood Bats[-][/c]."
+502112,Sky Island,Volos,"Sky Island Apate and Sky Island Michael will not revive after being defeated, but Sky Island Apate's Volos will deal damage at the end of each Round."
+503116,Sky Island,Love Residue,Active Skill of Sky Island Blair changed to target all Backline enemies.

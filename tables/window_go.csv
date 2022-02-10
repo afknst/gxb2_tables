@@ -102,3 +102,6 @@ id,name,params,activity_id,function_id,desc
 101,activity_window,"{'select':255,'activity_ids':[274,275,181,36], 'activity_type':7}",255,,-1
 102,activity_window,"{'select':3,'activity_type2':2}",3,,-1
 103,activity_window,"{'select':39,'activity_type2':2}",39,,-1
+104,activity_window,"{'select':88,'activity_type2':1}",88,,-1
+105,activity_window,"{'select':191,'activity_type2':1}",191,,-1
+106,activity_window,"{'select':134,'activity_ids':[134,135,136,149], 'activity_type':7}",134,,-1

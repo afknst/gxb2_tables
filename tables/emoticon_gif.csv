@@ -39,3 +39,4 @@ id,image,gif,is_show,gif_pos_zh_tw,gif_pos_en_en,gif_pos_de_de,gif_pos_fr_fr,gif
 38,emotion_dynamic_38,emotion_gif38,1,0|0,0|0,0|0,0|0,0|0,0|0,0.28,1,9127,72039,-1,1
 39,emotion_dynamic_39,,1,0|14,0|0,0|0,0|0,0|0,0|0,0.7,1,9121,72033,-1,26
 40,emotion_dynamic_40,emoticon_gif39,1,24|24,0|0,0|0,0|0,0|0,0|0,1,1,9313,72040,-1,27
+41,emotion_dynamic_41,,1,0|0,0|0,0|0,0|0,0|0,0|0,0.7,1,9314,72041,-1,28

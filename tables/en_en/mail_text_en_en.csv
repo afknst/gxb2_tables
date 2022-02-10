@@ -22,7 +22,7 @@ id,name,from,content
 21,Daily Rewards,System Message,"Login every day during the event and you will receive Elemental Orb x 100, Advance Internship Scroll x 1, and Match x 1. Your rewards are attached."
 22,Internship Rewards,System Message,Congratulations! You've completed {1} star internship quest during the Internship Event! Here are your rewards.
 23,Reload Notice,System Message,Thank you for purchasing {1}. Your items are available in Bag. Have a look~!
-24,Daily Rewards,System Message,"Login every day during the event and you will receive Rudder x 4, Gem x 150, Fishing Rod x 5. Your rewards are attached."
+24,Daily Rewards,System Message,"Login every day during the event and you will receive Rudder x 4, Gem x 150, Ragged Bottle x 5. Your rewards are attached."
 25,League Battle Rewards,System Message,Congratulations! You reached a goal during the League event. Here are your rewards~!
 26,Subscription,Subscription,Congratulations! You are a Weekly Pass holder. Your Coin Loot will increase by 100% for the next 168 hours. This benefit is combined with VIP benefits.
 27,Weekly Pass will expire,Weekly Pass,Your Weekly Pass expires today. Please renew your Weekly Pass to continue enjoying the benefits. Looting Coin is increased 100% while the pass is active~!
@@ -150,7 +150,7 @@ id,name,from,content
 149,Newbie Benefit Reward,System Message,"Senpai, congratulations for completing the task. Here's the reward you forgot to claim at the event page!"
 150,Newbie Benefit Progress,System Message,"Senpai, congratulations for getting {1} points in Newbie Benefit! Here's the reward you forgot to claim in the event page!"
 151,Luvly's Reward,Event Mail,"Senpai, congratulations for collecting {1} Coral Branch(es), here's your reward!"
-152,Daily Rewards,System Message,"Login every day during the event and you will receive Rudder x 4, Gem x 150, Fishing Rod x 5. Your rewards are attached."
+152,Daily Rewards,System Message,"Login every day during the event and you will receive Rudder x 4, Gem x 150, Normal Chocolate x 5, Scratch Ticket x 1. Your rewards are attached."
 153,Event Item Retrieve,System Message,"Dear Senpai, event: {1} is ended, {2} x {3} of yours have been retrieved."
 154,Exploration Ranking Reward,System Message,"Congratulations, Senpai! You're No. {1} in this season of Old Campus Exploration, here's your reward!"
 155,Exploration Reward,System Message,"Dear Senpai, the event: Old Campus Exploration has ended, here's your unclaimed reward!"
@@ -177,7 +177,7 @@ Yuki apologizes for the inconvenience, for any further queries, please don’t h
 169,Event Rewards,System Message,"Dear Senpai, event: {1} is over, here's your unclaimed reward!"
 170,Enroll Bonus,System Message,"Congratulations for acquiring {2} Point(s) for House {1}, here's your reward!"
 171,Puppet Parade,System Message,Congratulations for collecting {1} Clown Puppet(s) during event: Puppet Parade! Here's your reward!
-172,Bottles Adrift,System Message,"Congratulations on opening {1} {2}s in event Bottles Adrift, here's your reward."
+172,A Taste of Love,System Message,"Congratulations on opening {1} {2}s in event: A Taste of Love, here's your reward!"
 173,Limited Missions Rewards,System Message,Congratulations on reaching a goal in the Limited Missions event. Here are your rewards~
 174,Sky Island Starting Soon,System Message,"Sky Island is starting soon, join forces with your Guild members to defeat powerful BOSSES that appear.\nExiting or disbanding Guild will not be applicable during this period, so please prepare for battle in advance!\nFor actual time, check the Sky Island icon on the top right corner in Guild."
 175,Sky Island Boss Rank Rewards,System Message,"Dear Senpai, Sky Island is now over, here's your reward for reaching No. {2} in the ranking of Boss {1}!"

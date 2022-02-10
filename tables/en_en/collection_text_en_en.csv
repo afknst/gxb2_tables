@@ -91,7 +91,7 @@ id,name,desc
 10090,Homerun!,Exclusives
 10091,All-Star Jogger,Exclusives
 10092,Power Spike,Exclusives
-10093,Steam Musketeer,Exclusives
+10093,Steam Musketeer,Fantasy Book
 10094,Teacher in White,Oath
 10095,Moonlight Sonata,Exclusives
 10096,Blooming Love,Oath
@@ -492,7 +492,7 @@ id,name,desc
 10101,Past Idol,Exclusives
 10102,Summer Outfit,Exclusives
 32035,Mecha Flash,Steampunk Madness - S2
-10103,Steam Noble,Steampunk Madness - S2
+10103,Steam Noble,Fantasy Book
 10104,Alpha Wolf,Exclusives
 10105,Party Expert,Exclusives
 32036,2nd Anniversary Frame,Exclusives
@@ -551,7 +551,7 @@ id,name,desc
 72019,Ignore my mistake,Krystal's Character Challenge
 10115,Seaside Maid,Exclusives
 10116,Oceanic Twins,Exclusives
-10117,Bee Mechanic,Steampunk Madness - S3
+10117,Bee Mechanic,Fantasy Book
 31035,Trinity's Limited Avatar,Admission Prep
 32040,City of Steam,Steampunk Madness - S3
 50043,Sweet Memory,Purchase with Gem
@@ -599,7 +599,7 @@ id,name,desc
 10124,Autumn Twirl,Exclusives
 10125,Soul Reflection,Exclusives
 10126,Pure Spirit,Exclusives
-10127,Monsieur Bubbles,Steampunk Madness - S4
+10127,Monsieur Bubbles,Fantasy Book
 32047,Chrono Lens,Steampunk Madness - S4
 10128,Veiled Bride,Oath
 10129,Heavenly Tune,Exclusives
@@ -619,7 +619,7 @@ id,name,desc
 10135,Ultimate Oath,Oath
 10136,Gokudō,Exclusives
 10137,Black Hornet,Exclusives
-10138,Devil's Sawtooth,Steampunk Madness - S5
+10138,Devil's Sawtooth,Fantasy Book
 32048,Pressure Gage,Steampunk Madness - S5
 10139,Sleepy Reindeer,Exclusives
 31044,Uriel & Izanami Exclusive,Exclusives
@@ -708,7 +708,7 @@ id,name,desc
 26075,Sacred Handbell,"Summon with Shards, Antique Store"
 26076,Secret Keys,"Summon with Shards, Antique Store"
 10146,Supreme Maid,Exclusives
-10147,Tricky Pirate,Steampunk Madness - S6
+10147,Tricky Pirate,Fantasy Book
 10148,Fluffy Bond,Oath
 50058,Christmas Party,Purchase with Gem
 32051,Mecha Voyage,Steampunk Madness - S6
@@ -955,3 +955,8 @@ id,name,desc
 10240,Good Fortune,Exclusives
 10242,Clumsy Waitress,Exclusives
 50072,Gift Exchange,Purchase with Gems
+72041,Despise,Character Challenge·Monica
+10243,Divine Attraction,Oath
+10244,Snack Time,Exclusives
+10245,Chocolatier,Exclusives
+31069,Limited: Lord Dracula,Exclusives
