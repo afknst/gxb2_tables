@@ -804,3 +804,8 @@ activity_firework_shop_window,ActivityFireworkShopWindow,activity_firework_shop_
 evaluate_window,EvaluateWindow,evaluate_window,EVALUATE_WINDOW,6,-1,-1,3,,2,2,-2,1,,,,834,-1,,,,
 feedback_window,FeedbackWindow,feedback_window,FEEDBACK_WINDOW,6,-1,-1,3,,2,2,-2,1,,,,835,-1,,,,
 activity_firework_explain_window,ActivityFireworkExplainWindow,activity_firework_explain_window,ACTIVITY_FIREWORK_EXPLAIN_WINDOW,4,-1,-1,2,,2,2,-2,1,,,,836,-1,,,,
+activity_recall_lottery_award_preview_window,ActivityRecallLotteryAwardPreviewWindow,activity_recall_lottery_award_preview_window,ACTIVITY_RECALL_LOTTERY_AWARD_PREVIEW_WINDOW,4,-1,-1,2,,2,2,-2,1,,,,837,-1,,,,
+activity_recall_lottery_tip_window,ActivityRecallLotteryTipWindow,activity_recall_lottery_tip_window,ACTIVITY_RECALL_LOTTERY_TIP_WINDOW,4,-1,-1,2,,2,2,-2,1,,,,838,-1,,,,
+activity_recall_lottery_awake_window,ActivityRecallLotteryAwakeWindow,activity_recall_lottery_awake_window,ACTIVITY_RECALL_LOTTERY_AWAKE_WINDOW,4,-1,-1,2,,2,2,-2,1,,,,839,-1,,,,
+dress_buffs_show_window,DressBuffsShowWindow,dress_buffs_show_window,DRESS_BUFFS_SHOW_WINDOW,4,-1,-1,2,,2,2,-2,1,,,,840,-1,,,,
+dress_buffs_related_window,DressBuffsRelatedWindow,dress_buffs_related_window,DRESS_BUFFS_RELATED_WINDOW,4,-1,-1,2,,2,2,-2,1,,,,841,-1,,,,

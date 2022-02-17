@@ -80,6 +80,7 @@ def benchmark(_I, _J, _K, _X):
 
 
 class Luvly:
+
     def __init__(self, start=None, verbose=False):
         start = start or {
             "RUDDER": 78,
@@ -357,11 +358,11 @@ def res_analyse(_res, _plot=True):
 if __name__ == '__main__':
     # This is the default value
     START = {
-        "RUDDER": 36 + 30,  # 0-108
+        "RUDDER": 51 + 30,  # 0-108
         "ADV_RUDDER": 1,  # 0-2
         "TILE": 12,  # 0-20, see Tiles indexing
-        "CORAL": 15,  # 0-400
-        "PEARL": 25,  # 0-400
+        "CORAL": 6,  # 0-400
+        "PEARL": 15,  # 0-400
         "CORAL_LEVELS": (1, 1, 1),  # 1-3 for each
         "CONCH": None,  # None or 1-9, see Conch
     }

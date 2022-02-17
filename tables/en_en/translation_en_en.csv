@@ -3834,7 +3834,7 @@ OLD_SCHOOL_SHOP_TEXT2,Regular
 OLD_SCHOOL_SHOP_TEXT3,Score reach {1} to unlock
 OLD_SCHOOL_SHOP_TEXT4,Reach {4} total points in {1} season(s).({2}/{3})
 OLD_SCHOOL_SHOP_TEXT5,Level 1|Level 2|Level 3|Level 4|Level 5
-OLD_SCHOOL_SHOP_TEXT6,Level 1|Level 2|Level 3|Level 4|Level 5|Level 6|Level 7|Level 8|Level 9|Level 10|Level 11|Level12
+OLD_SCHOOL_SHOP_TEXT6,Level 1|Level 2|Level 3|Level 4|Level 5|Level 6|Level 7|Level 8|Level 9|Level 10|Level 11|Level 12
 OLD_SCHOOL_SHOP_WINDOW,Old Campus Store
 GIFTBAG_TURIN_TEXT1,4000
 GIFTBAG_TURIN_TEXT2,3000
@@ -5631,7 +5631,7 @@ GUILD_TEXT70,Refresh
 FIREWORK_TEXT01,Consumed
 ACTIVITY_FIREWORK_SHOP_WINDOW,Carnival Store
 FIREWORK_TEXT03,{1} Firework Point Cards consumed
-FIREWORK_TEXT04,New Merchandise will be unlocked after a certain number of Firework Point Cards are consumed
+FIREWORK_TEXT04,New merchandise will be unlocked after a certain number of Firework Point Cards are consumed
 FIREWORK_TEXT05,Consume {1}
 FIREWORK_TEXT06,Unlock after consuming {1} Firework Point Cards!
 FIREWORK_TEXT07,Stage {1}
@@ -5694,3 +5694,122 @@ ACTIVITY_FIREWORK,Firework\nCarnival
 FIREWORK_EXPLAIN_TEXT10,「Match」
 HOUSE_TEXT_64,Not owned
 POTENTIALITY_BACK_TEXT04,Not enough spare room in your Girls List.
+ACTIVITY_VAMPIRE_GAMBLE_HELP,"1. You can use Hourglass of Thoughts to Recall in the event. The number of Hourglass of Thoughts might be different according to the Scene you choose to Recall.|2. When you Recall, you will have a chance to find the Key of Memories in the Scene by chance (this item only exists in Scene 1 to Scene 4). If you fail to find the Key of Memories in your current Scene in a Recall, you will claim a Recall Reward (Each Recall Reward in the Scene will only be claimed once) instead and increase your chance to find the Key of Memories in the next Recall. If you find the Key of Memories in your current Scene, you will be able to unlock and move on to the next Scene.|3. The first scene is unlocked by default for you to Recall. For Scene 1 to Scene 4, you will need to find the Key of Memories in the Scene to unlock the next Scene. For Scene 5, you will need to claim all the Recall Rewards to unlock the next Scene. For Scene 6, the Recall Rewards will be refreshed after you claim all the Recall Rewards.|4. If you want to get one of the Recall Rewards in your previous unlocked Scenes, you are still able to return to the previous Scene to Recall for more Rewards.|5. In “Back to the Origins”, you can Offer Feathers of the Origin to Lord Dracula, and you will be able to obtain 50 shards of 5-star Lord Dracula after your Progress reaches 100%%|6. Feather of the Origin can be obtained by completing Lord's Requests. Hourglass of Thoughts can be obtained by completing Lord's Requests and Girls X Capsule Points or purchasing Mega Value Pack, Special Gift Pack, and Special Skin Pack|7. After the event ends, any remaining ""Feather of the Origin"", ""Hourglass of Thoughts"", and ""Key of Memories"" will be removed from your account and changed into Coins. ""Feather of the Origin"" will be transformed into 20K Coins each, ""Hourglass of Thoughts"" will be transformed into 50K Coins each, and ""Key of Memories"" will be transformed into 100K Coins each. The Coins will be sent via Mail."
+ACTIVITY_VAMPIRE_TASK_HELP,"1. Collect ""Blood Contracts"" by completing tasks in Lord's Request during the event to increase your Request Level. You will be able to claim regular rewards after leveling up.|2. By purchasing Lord's Requests Gift during the event, you will be able to unlock the additional rewards and acquire the additional rewards that your Request Level has reached instantly."
+ACTIVITY_VAMPIRE_TASK_GIFTBAG,Instantly obtainable after purchase
+ACTIVITY_VAMPIRE_TASK_LABEL01,Reward
+ACTIVITY_VAMPIRE_TASK_LABEL02,Tasks
+ACTIVITY_VAMPIRE_TASK_TEXT01,Complete Limit
+ACTIVITY_VAMPIRE_TASK_AWARD01,Normal Reward
+ACTIVITY_VAMPIRE_TASK_AWARD02,Unlock Reward
+ACTIVITY_VAMPIRE_GAMBLE_BUTTON01,Back to\nthe Origins
+ACTIVITY_VAMPIRE_GAMBLE_BUTTON02,Recall
+GACHA_AUTOTRANSFER_TEXT01,Auto transfer 3-star Girls
+GACHA_50TIMES_TEXT01,×1
+GACHA_50TIMES_TEXT02,×50
+GACHA_50TIMES_TEXT03,Draw 50
+GACHA_50TIMES_TEXT04,Draw 50
+ACTIVITY_VAMPIRE_GAMBLE_TEXT01,"Key of Memories is found, Scene {1} is unlocked, move on to the next Scene?"
+ACTIVITY_VAMPIRE_GAMBLE_TEXT02,Moving to Scene {1}
+ACTIVITY_VAMPIRE_GAMBLE_BUTTON03,Later
+ACTIVITY_VAMPIRE_GAMBLE_BUTTON04,Go
+ACTIVITY_VAMPIRE_GAMBLE_TEXT03,Current Progress
+ACTIVITY_VAMPIRE_GAMBLE_PIC_TEXT01,Lord's Castle
+ACTIVITY_VAMPIRE_GAMBLE_PIC_TEXT02,Temple Fair
+ACTIVITY_VAMPIRE_GAMBLE_PIC_TEXT03,Campus Night
+ACTIVITY_VAMPIRE_GAMBLE_PIC_TEXT04,Pedestrian Bridge
+ACTIVITY_VAMPIRE_GAMBLE_PIC_TEXT05,Night Market
+ACTIVITY_VAMPIRE_GAMBLE_PIC_TEXT06,Dawn of Time
+ACTIVITY_VAMPIRE_GAMBLE_BUTTON05,Offer
+ACTIVITY_VAMPIRE_GAMBLE_UNLOCK_TIPS,You cannot Recall in a locked Scene
+ACTIVITY_VAMPIRE_GAMBLE_ALL_TIPS,You cannot Recall in this Scene as all the rewards in the Scene are claimed
+ACTIVITY_VAMPIRE_GAMBLE_PICK_TIPS,Entered Scene {1}
+ACTIVITY_VAMPIRE_GAMBLE_CHANGE_TIPS,You can Switch between the unlocked Scenes by tapping on their pictures
+ACTIVITY_VAMPIRE_GAMBLE_AUTO_TIPS,"All Recall Rewards in this Scene are claimed, switching to another Scene"
+ACTIVITY_VAMPIRE_GAMBLE_FIVE_TIPS,"All Recall Rewards here are claimed, Scene {1} is unlocked, move on to the next Scene?"
+ACTIVITY_VAMPIRE_GAMBLE_SIX_TIPS,"All Recall Rewards here are claimed, the Recall Rewards in this Scene will be reset."
+ACTIVITY_VAMPIRE_GAMBLE_TEXT04,"Progress has reached 100%%, you don't need to Offer more Feather of the Origin."
+ACTIVITY_VAMPIRE_GAMBLE_TEXT05,Recall
+SHRINE_HURDLE,Realm of Trials
+SHRINE_TREE,Tree of Chimes
+SHRINE_NOTICE,Message Board
+SHRINE_POOL,Pond of Prayers
+SHRINE_HOME_TEXT01,Trial in Progress
+SHRINE_HOME_TEXT02,Completed
+SHRINE_NOTICE_TAB1,Task
+SHRINE_NOTICE_TAB2,Ranking
+SHRINE_NOTICE_TAB3,Reward
+SHRINE_NOTICE_TAB4,Achievement
+SHRINE_NOTICE_TEXT01,Remaining Time
+SHRINE_NOTICE_TEXT02,Total Score
+SHRINE_NOTICE_TEXT03,Current Rank:
+SHRINE_NOTICE_TEXT04,Current Rank Reward:
+SHRINE_NOTICE_TEXT05,Not Ranked
+SHRINE_POOL_TEXT01,Current Season
+SHRINE_POOL_TEXT02,Permanent
+SHRINE_POOL_TEXT03,Merchandise Refreshed
+SHRINE_HURDLE_HELP,鶴華神宮||神隙試煉開放時間|每14天為一個賽季，由開放期(12天)與休整期(2天)組成。||入場規則|1.每期開放時，學長將獲得15張邀請函(上限15張)。|2.每期共有3個不同的試煉，存在不同的環境效果對戰姬進行增幅。玩家可手動選擇試煉，每次進入時消耗1張邀請函。|3.試煉中僅可使用10星以上的戰姬，且試煉中戰姬將保留進入時的屬性和狀態(包括裝備及潛能等)。||難度因子|1.每次進入試煉後，需要選擇本次試煉的難度因子。|2.隨著難度因子的提升，敵人的各項屬性會獲得提升，變得更為強大，並且通過戰鬥後的得分也會越高。|3.可選擇難度因子的上限將根據通過試煉的得分逐步提升。||試煉規則|試煉共有16層關卡，分為戰鬥層、獎勵層、商店層、回復層和最終BOSS。|戰鬥層|1.隨機出現敵人，點擊敵人可查看敵人資訊，學長可手動選擇戰姬進行出戰，戰鬥勝利後增加得分。|2.每次戰鬥限定15回合，在15回合內擊敗所有敵人戰鬥勝利，己方戰姬全部死亡或戰鬥超時則失敗。|3.每次戰鬥結束後，己方戰姬將保留血量。|4.戰鬥失敗後。敵人不會保留血量。|獎勵層|1.隨機出現3個增益，學長可手動選擇其中1個。|2.學長也可選擇放棄增益獲得試煉幣，試煉幣可在商店層中使用。|商店層|1.購買增益:隨機出現3個增益，學長可花費試煉幣購買。|2.升級增益：隨機出現3個已擁有增益，學長可花費試煉幣進行升級，每個增益最多升級2次。|回復層|1.學長可選擇回復戰姬血量或復活已陣亡戰姬。|最終BOSS|1.僅擁有1次挑戰機會，挑戰結束後，成功完成本次試煉。|2.最終BOSS無法被擊殺，將根據造成的傷害計算得分。||得分及排行榜|1.每期將記錄玩家3個試煉的最高得分，並分別對每個試煉的得分及3個試煉的總得分進行排名，開放期結束後，根據排名發放獎勵。||週期任務|1.週期任務將在每期神隙試煉開放時刷新。||千願之池|1.使用「千紙鶴」可在千願之池中兌換道具。|2.週期商品將在每期神隙試煉開放時刷新，常駐商品不會刷新。
+SHRINE_HURDLE_DIFFICULTY_HELP,1.每次進入試煉時，需要選擇本次試煉的難度因子。|2.隨著難度因子的提升，敵人的各項屬性會獲得提升，變得更為強大，並且通過戰鬥後的得分也會越高。|3.可選擇難度因子的上限將根據通過試煉的得分逐步提升。
+SHRINE_HURDLE_TEXT01,Environment
+SHRINE_HURDLE_TEXT02,Highest Score
+SHRINE_HURDLE_TEXT03,難度因子
+SHRINE_HURDLE_TEXT04,Enter
+SHRINE_HURDLE_TEXT05,是否消耗1張邀請函進入試煉？\n（進入試煉後，戰姬將保留進入時的屬性和狀態）
+SHRINE_HURDLE_TEXT06,推薦難度因子：
+SHRINE_HURDLE_TEXT07,選擇難度較高，是否繼續？
+SHRINE_HURDLE_TEXT08,試煉詳情
+SHRINE_HURDLE_TEXT09,層數
+SHRINE_HURDLE_TEXT10,得分
+SHRINE_HURDLE_TEXT11,獲得增益
+SHRINE_HURDLE_TEXT12,戰鬥記錄
+SHRINE_HURDLE_TEXT13,熱點戰姬
+SHRINE_HURDLE_TEXT14,暫無數據
+SHRINE_HURDLE_TEXT15,第{1}層
+SHRINE_HURDLE_TEXT16,本層敵人
+SHRINE_HURDLE_TEXT17,選擇
+SHRINE_HURDLE_TEXT18,放棄
+SHRINE_HURDLE_TEXT19,購買
+SHRINE_HURDLE_TEXT20,升級
+SHRINE_HURDLE_TEXT21,已購買
+SHRINE_HURDLE_TEXT22,是否退出商店？
+SHRINE_HURDLE_TEXT23,是否放棄本次試煉？
+SHRINE_HURDLE_TEXT24,結算
+SHRINE_HURDLE_TEXT25,放棄試煉
+SHRINE_HURDLE_TEXT26,繼續戰鬥
+SHRINE_STORY,劇情回顧
+DRESS_BUFFS_SHOW_WINDOW,Outfit Buffs
+PERSON_DRESS_BUFFS_TIPS_1,No buff from Blue Outfits yet
+PERSON_DRESS_BUFFS_TIPS_2,No buff from Gold Outfits yet
+PERSON_DRESS_BUFFS_TIPS_3,No buff from Purple Outfits yet
+PERSON_DRESS_BUFFS_TIPS_4,No buff from Green Outfits yet
+PERSON_DRESS_BUFFS_TIPS_5,No buff from Red Outfits yet
+PERSON_DRESS_BUFFS_TIPS_6,No buff from Orange Outfits yet
+PERSON_DRESS_BUFFS_TIPS_7,No buff from Pink Outfits yet
+PERSON_DRESS_RELATED_DRESS,Related Outfits
+ACTIVITY_VAMPIRE_GAMBLE_AWARD01,Recall Reward
+ACTIVITY_VAMPIRE_GAMBLE_AWARD02,Unlock Item
+CHIME_HELP,幫助文本
+CHIME_ATLAS,圖鑒
+CHIME_BAG,碎片
+CHIME_TAB1,詳情
+CHIME_TAB2,充能
+CHIME_TAB3,激活
+CHIME_TAB4,喚醒
+CHIME_BUTTON1,充能
+CHIME_BUTTON2,激活
+CHIME_BUTTON3,喚醒
+CHIME_TEXT01,蘊養值
+CHIME_TEXT02,基礎屬性
+CHIME_TEXT03,激活
+CHIME_TEXT04,喚醒
+CHIME_TEXT05,尚未解鎖
+CHIME_TEXT06,蘊養值未充滿
+CHIME_TEXT07,效果未全部激活
+CHIME_TEXT08,蘊養值已滿
+CHIME_TEXT09,已激活
+CHIME_TEXT10,已喚醒
+CHIME_TEXT11,蘊養值未達到{1}
+CHIME_TEXT12,是否激活效果？
+CHIME_TEXT13,是否喚醒？
+CHIME_TEXT14,可解鎖
+CHIME_TEXT15,請選擇要分解的碎片

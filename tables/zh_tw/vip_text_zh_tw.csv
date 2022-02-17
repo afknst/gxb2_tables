@@ -13,3 +13,5 @@ id,title,text
 9,midas_buy_times,點金每日鑽石購買上限：
 14,travel_buy_time_limit,美味麵包購買上限：
 6,gamble_up,開啟高級販賣機十連抽模式
+15,gacha_50times,扭蛋迎新活動期間開啟高級扭蛋池五十連抽模式
+16,auto_transfer,扭蛋迎新活動期間開啟高級扭蛋池自動轉學功能

@@ -1419,7 +1419,7 @@ Mark effect, if the target takes crit damage, the Critical Strike Mark will be r
 65100604,Giana,Summon Soul II,"After death, deals (300% of Attack) damage against all enemies."
 65100704,Chevalir,Armor Shield II,"While below 50% health, increases allies' Armor by 60% for 3 rounds. (Can only trigger once)"
 65100804,Javelin,Freezing Weakness II,"Deals extra 60% damage against [c][01a310]Frozen[-][/c] enemies.\n[c][01a310]Freeze:[-][/c]\nA control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
-65100904,Geisha,Captivation II,"Basic Attack targets all enemies, deals (90% of Attack) damage and has 27% chance to [c][01a310]Stun[-][/c] the targets.\n[c][01a310]Stun:[-][/c]\nA control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
+65100904,Geisha,Captivation II,"Basic Attack targets all enemies, deals (90% of Attack) damage and has 27% chance to [c][01a310]Stun[-][/c] the targets for 2 rounds.\n[c][01a310]Stun:[-][/c]\nA control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
 65101004,Caitlyn,Break Shot II,"Basic Attack targets the enemy with the lowest HP, steal targets' Attack by 10% for 3 rounds."
 65101104,Ennmaya,Dark Potion II,"While below 50% health, [c][01a310]Poisons[-][/c] 2 random back-line enemies, dealing (150% of Attack) damage for 4 rounds. (Can only trigger once)\n[c][01a310]Poison:[-][/c]\nA damage over time. Damage is dealt once when poison is inflicted and during the period of effect, damage will be dealt at the beginning of each round."
 65101204,Cynthia,Endless Flame II,"After death, [c][01a310]Burns[-][/c] all enemies, dealing (27% of Attack) damage each round till the enemies die.\n[c][01a310]Burn:[-][/c]\nA damage over time. Damage is dealt once when burn is inflicted and during the period of effect, damage will be dealt at the beginning of each round."
@@ -1506,7 +1506,7 @@ Mark effect, if the target takes crit damage, the Critical Strike Mark will be r
 75101004,Sakura,Zanshin,"While below 50% health, increases Damage Reduction to self by 50% for 3 rounds. (Can only trigger once)"
 75200104,Chevalir,Armor Shield III,"While below 50% health, increases allies' Armor by 100% and Block Rate by 20% for 3 rounds. (Can only trigger once)"
 75200204,Javelin,Freezing Weakness III,"Deals extra 110% damage against [c][01a310]Frozen[-][/c] enemies.\n[c][01a310]Freeze:[-][/c]\nA control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
-75200304,Geisha,Captivation III,"Basic Attack targets all enemies, deals (100% of Attack) damage and has 65% chance to [c][01a310]Stun[-][/c] the targets.\n[c][01a310]Stun:[-][/c]\nA control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
+75200304,Geisha,Captivation III,"Basic Attack targets all enemies, deals (100% of Attack) damage and has 65% chance to [c][01a310]Stun[-][/c] the targets for 2 rounds.\n[c][01a310]Stun:[-][/c]\nA control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
 75200404,Caitlyn,Break Shot III,"Basic Attack targets the enemy with lowest HP, dealing (120% of Attack) damage, steals 20% of Attack from the target for 3 rounds"
 75200504,Guan Yin,Quick Attack III,"
 Basic Attack changed to deal (95% of Attack) damage against front-line enemies and additional (10% of Attack) [c][01a310]Bleed[-][/c] damage and (10% of Attack) [c][01a310]Poison[-][/c] damage for 2 rounds.
@@ -1718,7 +1718,7 @@ Mark effect, if the target takes crit damage, the Critical Strike Mark will be r
 65100614,Giana,Summon Soul III,"After death, deals (400% of Attack) damage against all enemies."
 65100714,Chevalir,Armor Shield III,"While below 50% health, increases allies' Armor by 100% and Block Rate by 20% for 3 rounds. (Can only trigger once)"
 65100814,Javelin,Freezing Weakness III,"Deals extra 110% damage against [c][01a310]Frozen[-][/c] enemies.\n[c][01a310]Freeze:[-][/c]\nA control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
-65100914,Geisha,Captivation III,"Basic Attack targets all enemies, deals (100% of Attack) damage and has 65% chance to [c][01a310]Stun[-][/c] the targets.\n[c][01a310]Stun:[-][/c]\nA control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
+65100914,Geisha,Captivation III,"Basic Attack targets all enemies, deals (100% of Attack) damage and has 65% chance to [c][01a310]Stun[-][/c] the targets for 2 rounds.\n[c][01a310]Stun:[-][/c]\nA control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
 65101014,Caitlyn,Break Shot III,"Basic Attack targets the enemy with lowest HP, dealing (120% of Attack) damage, steals 20% of Attack from the target for 3 rounds"
 65101114,Ennmaya,Dark Potion III,"While below 50% health, [c][01a310]Poisons[-][/c] all back-line enemies, dealing (200% of Attack) damage for 4 rounds. (Can only trigger once)\n[c][01a310]Poison:[-][/c]\nA damage over time. Damage is dealt once when poison is inflicted and during the period of effect, damage will be dealt at the beginning of each round."
 65101214,Cynthia,Endless Flame III,"After death, [c][01a310]Burns[-][/c] all enemies, dealing (36% of Attack) damage each round till the enemies die.\n[c][01a310]Burn:[-][/c]\nA damage over time. Damage is dealt once when burn is inflicted and during the period of effect, damage will be dealt at the beginning of each round."
@@ -4296,11 +4296,11 @@ Skill effect, when Vivian takes damage, the enemy tagged with Galaxy will also r
 752003033,Geisha,Final Movement,"After death, has 96% chance to [c][01a310]Stun[-][/c] Back-line enemies for 2 rounds.\n[c][01a310]Stun:[-][/c]\nA control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
 752003034,Geisha,Final Movement,"After death, has 98% chance to [c][01a310]Stun[-][/c] Back-line enemies for 2 rounds.\n[c][01a310]Stun:[-][/c]\nA control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
 752003035,Geisha,Final Movement,"After death, has 100% chance to [c][01a310]Stun[-][/c] Back-line enemies for 2 rounds.\n[c][01a310]Stun:[-][/c]\nA control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
-752003041,Geisha,Captivation,"Basic Attack targets all enemies, deals (102% of Attack) damage and has 65% chance to [c][01a310]Stun[-][/c] the targets.\n[c][01a310]Stun:[-][/c]\nA control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
-752003042,Geisha,Captivation,"Basic Attack targets all enemies, deals (104% of Attack) damage and has 65% chance to [c][01a310]Stun[-][/c] the targets.\n[c][01a310]Stun:[-][/c]\nA control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
-752003043,Geisha,Captivation,"Basic Attack targets all enemies, deals (106% of Attack) damage and has 65% chance to [c][01a310]Stun[-][/c] the targets.\n[c][01a310]Stun:[-][/c]\nA control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
-752003044,Geisha,Captivation,"Basic Attack targets all enemies, deals (108% of Attack) damage and has 65% chance to [c][01a310]Stun[-][/c] the targets.\n[c][01a310]Stun:[-][/c]\nA control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
-752003045,Geisha,Captivation,"Basic Attack targets all enemies, deals (110% of Attack) damage and has 70% chance to [c][01a310]Stun[-][/c] the targets.\n[c][01a310]Stun:[-][/c]\nA control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
+752003041,Geisha,Captivation,"Basic Attack targets all enemies, deals (102% of Attack) damage and has 65% chance to [c][01a310]Stun[-][/c] the targets for 2 rounds.\n[c][01a310]Stun:[-][/c]\nA control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
+752003042,Geisha,Captivation,"Basic Attack targets all enemies, deals (104% of Attack) damage and has 65% chance to [c][01a310]Stun[-][/c] the targets for 2 rounds.\n[c][01a310]Stun:[-][/c]\nA control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
+752003043,Geisha,Captivation,"Basic Attack targets all enemies, deals (106% of Attack) damage and has 65% chance to [c][01a310]Stun[-][/c] the targets for 2 rounds.\n[c][01a310]Stun:[-][/c]\nA control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
+752003044,Geisha,Captivation,"Basic Attack targets all enemies, deals (108% of Attack) damage and has 65% chance to [c][01a310]Stun[-][/c] the targets for 2 rounds.\n[c][01a310]Stun:[-][/c]\nA control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
+752003045,Geisha,Captivation,"Basic Attack targets all enemies, deals (110% of Attack) damage and has 70% chance to [c][01a310]Stun[-][/c] the targets for 2 rounds.\n[c][01a310]Stun:[-][/c]\nA control effect. During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
 752004011,Caitlyn,Explosive Shot,"Deals (224% of Attack) damage against 2 Back-line enemies, dealing extra (104% of Attack) damage each round for 4 rounds."
 752004012,Caitlyn,Explosive Shot,"Deals (228% of Attack) damage against 2 Back-line enemies, dealing extra (106% of Attack) damage each round for 4 rounds."
 752004013,Caitlyn,Explosive Shot,"Deals (232% of Attack) damage against 2 Back-line enemies, dealing extra (108% of Attack) damage each round for 4 rounds."
@@ -10801,232 +10801,248 @@ Nullifies all incoming damage for the owner. The Magick Barrier\'s durability de
 65102400,Lord Dracula,Basic Attack,
 75101700,Lord Dracula,Basic Attack,
 5101701,Lord Dracula,Crimson Veins,"
-Deals (200% of Attack) damage to 3 random enemies, lowers their Attack by 5% for 2 Rounds, and afflicts them with 2 stacks of [c][e28002]Sanguine Snare[-][/c] that lasts for 2 Rounds.
+Escaping is futile, my dear.
+
+Deals (200% of Attack) damage to 3 random enemies, lowers their Attack by 5% for 2 Rounds, and afflicts them with 2 stacks of [c][01a310]Sanguine Snare[-][/c] that lasts for 2 Rounds.
 Deals an extra (400% of Attack) damage to target(s) with 50% or more HP, and an extra (10% of target\'s lost HP) damage to target(s) with less than 50% HP (damage dealt will not surpass 2500% of Lord Dracula\'s Attack).
 
-[c][e28002]Sanguine Snare:[-][/c]
+[c][01a310]Sanguine Snare:[-][/c]
 A Damage Over Time effect.
-Deals (2% of target\'s Maximum HP) damage (damage dealt will not surpass 2000% of Lord Dracula\'s Attack) to the target when this effect is inflicted and at the end of each round during period of effect. Heals the Lord Dracula that afflicted this effect for (25% of Damage dealt by this [c][e28002]Sanguine Snare[-][/c]) HP whenever this [c][e28002]Sanguine Snare[-][/c] deals damage."
+Deals (2% of target\'s Maximum HP) damage (damage dealt will not surpass 2500% of Lord Dracula\'s Attack) to the target when this effect is inflicted and at the end of each round during period of effect. Heals the Lord Dracula that afflicted this effect for (25% of Damage dealt by this [c][01a310]Sanguine Snare[-][/c]) HP whenever this [c][01a310]Sanguine Snare[-][/c] deals damage."
 65102401,Lord Dracula,Crimson Veins,"
-Deals (400% of Attack) damage to 3 random enemies, lowers their Attack by 10% for 2 Rounds, and afflicts them with 2 stacks of [c][e28002]Sanguine Snare[-][/c] that lasts for 2 Rounds.
+Escaping is futile, my dear.
+
+Deals (400% of Attack) damage to 3 random enemies, lowers their Attack by 10% for 2 Rounds, and afflicts them with 2 stacks of [c][01a310]Sanguine Snare[-][/c] that lasts for 2 Rounds.
 Deals an extra (800% of Attack) damage to target(s) with 50% or more HP, and an extra (15% of target\'s lost HP) damage to target(s) with less than 50% HP (damage dealt will not surpass 2500% of Lord Dracula\'s Attack).
 
-[c][e28002]Sanguine Snare:[-][/c]
+[c][01a310]Sanguine Snare:[-][/c]
 A Damage Over Time effect.
-Deals (4% of target\'s Maximum HP) damage (damage dealt will not surpass 2000% of Lord Dracula\'s Attack) to the target when this effect is inflicted and at the end of each round during period of effect. Heals the Lord Dracula that afflicted this effect for (25% of Damage dealt by this [c][e28002]Sanguine Snare[-][/c]) HP whenever this [c][e28002]Sanguine Snare[-][/c] deals damage."
+Deals (4% of target\'s Maximum HP) damage (damage dealt will not surpass 2500% of Lord Dracula\'s Attack) to the target when this effect is inflicted and at the end of each round during period of effect. Heals the Lord Dracula that afflicted this effect for (25% of Damage dealt by this [c][01a310]Sanguine Snare[-][/c]) HP whenever this [c][01a310]Sanguine Snare[-][/c] deals damage."
 75101701,Lord Dracula,Crimson Veins,"
-Deals (800% of Attack) damage to 3 random enemies, lowers their Attack by 15% for 2 Rounds, and afflicts them with 2 stacks of [c][e28002]Sanguine Snare[-][/c] that lasts for 2 Rounds.
+Escaping is futile, my dear.
+
+Deals (800% of Attack) damage to 3 random enemies, lowers their Attack by 15% for 2 Rounds, and afflicts them with 2 stacks of [c][01a310]Sanguine Snare[-][/c] that lasts for 2 Rounds.
 Deals an extra (1600% of Attack) damage to target(s) with 50% or more HP, and an extra (20% of target\'s lost HP) damage to target(s) with less than 50% HP (damage dealt will not surpass 2500% of Lord Dracula\'s Attack).
 
-[c][e28002]Sanguine Snare:[-][/c]
+[c][01a310]Sanguine Snare:[-][/c]
 A Damage Over Time effect.
-Deals (8% of target\'s Maximum HP) damage (damage dealt will not surpass 2000% of Lord Dracula\'s Attack) to the target when this effect is inflicted and at the end of each round during period of effect. Heals the Lord Dracula that afflicted this effect for (25% of Damage dealt by this [c][e28002]Sanguine Snare[-][/c]) HP whenever this [c][e28002]Sanguine Snare[-][/c] deals damage."
-5101702,Lord Dracula,Twilight Baron,"Increases Lord Dracula's HP by 20%, Attack by 20%, Block by 20%, Control Immunity by 10%, and Speed by 20."
-65102402,Lord Dracula,Twilight Baron,"Increases Lord Dracula's HP by 25%, Attack by 25%, Block by 40%, Control Immunity by 20%, and Speed by 30."
-65102412,Lord Dracula,Twilight Baron,"Increases Lord Dracula's HP by 30%, Attack by 30%, Block by 60%, Control Immunity by 30%, and Speed by 40."
-75101702,Lord Dracula,Twilight Baron,"Increases Lord Dracula's HP by 30%, Attack by 30%, Block by 60%, Control Immunity by 30%, and Speed by 40."
+Deals (8% of target\'s Maximum HP) damage (damage dealt will not surpass 2500% of Lord Dracula\'s Attack) to the target when this effect is inflicted and at the end of each round during period of effect. Heals the Lord Dracula that afflicted this effect for (25% of Damage dealt by this [c][01a310]Sanguine Snare[-][/c]) HP whenever this [c][01a310]Sanguine Snare[-][/c] deals damage."
+5101702,Lord Dracula,Twilight Baron,"Centuries have passed, yet this world and its affairs still bore me.\n\nIncreases Lord Dracula's HP by 20%, Attack by 20%, Block by 20%, Control Immunity by 10%, and Speed by 20."
+65102402,Lord Dracula,Twilight Baron,"Centuries have passed, yet this world and its affairs still bore me.\n\nIncreases Lord Dracula's HP by 25%, Attack by 25%, Block by 40%, Control Immunity by 20%, and Speed by 30."
+65102412,Lord Dracula,Twilight Baron,"Centuries have passed, yet this world and its affairs still bore me.\n\nIncreases Lord Dracula's HP by 30%, Attack by 30%, Block by 60%, Control Immunity by 30%, and Speed by 40."
+75101702,Lord Dracula,Twilight Baron,"Centuries have passed, yet this world and its affairs still bore me.\n\nIncreases Lord Dracula's HP by 30%, Attack by 30%, Block by 60%, Control Immunity by 30%, and Speed by 40."
 5101703,Lord Dracula,Blood Tithe,"
+My followers...it is time to offer yourselves to your Master.
+
 When Lord Dracula deals a Basic Attack, she has a 10% chance to gain 1 stack of [c][e28002]Blood Bats[-][/c].
 When any girl is defeated, Lord Dracula will reduce all enemies\' Precision by 5% and all damage they deal by 3% (all damage dealt can be lowered for at most 40%) for 6 Rounds. There is also a 50% chance for Lord Dracula to gain 2 stacks of [c][e28002]Blood Bats[-][/c].
 
-[c][e28002]Sanguine Snare:[-][/c]
-A Damage Over Time effect.
-Deals (2% of target\'s Maximum HP) damage (damage dealt will not surpass 2000% of Lord Dracula\'s Attack) to the target when this effect is inflicted and at the end of each round during period of effect. Heals the Lord Dracula that afflicted this effect for (25% of Damage dealt by this [c][e28002]Sanguine Snare[-][/c]) HP whenever this [c][e28002]Sanguine Snare[-][/c] deals damage.
-
 [c][e28002]Blood Bats:[-][/c]
 A Skill Effect that can stack. 
-1 Stack will be consumed when the owner of [c][e28002]Blood Bats[-][/c] casts 1 stack of [c][e28002]Sanguine Snare[-][/c] to enemies (regardless of the number of targets) and enhance its effects. The final damage (damage after calculating all attributes) dealt by the stack of enhanced [c][e28002]Sanguine Snare[-][/c] will be boosted by 50%, and its damage limit will be increased to 3000% of Lord Dracula\'s Attack."
+1 Stack will be consumed when the owner of [c][e28002]Blood Bats[-][/c] casts 1 stack of [c][01a310]Sanguine Snare[-][/c] to enemies (regardless of the number of targets) and enhance its effects. The final damage (damage after calculating all attributes) dealt by the stack of enhanced [c][01a310]Sanguine Snare[-][/c] will be boosted by 50%, and its damage limit will be increased to 3750% of Lord Dracula\'s Attack."
 65102403,Lord Dracula,Blood Tithe,"
-When an ally deals a Basic Attack or releases an Active Skill to an enemy afflicted with [c][e28002]Sanguine Snare[-][/c], Lord Dracula has a 15% chance to gain 1 stack of [c][e28002]Blood Bats[-][/c].
+My followers...it is time to offer yourselves to your Master.
+
+When Lord Dracula deals a Basic Attack, she has a 15% chance to gain 1 stack of [c][e28002]Blood Bats[-][/c].
 When any girl is defeated, Lord Dracula will reduce all enemies\' Precision by 10% and all damage they deal by 6% (all damage dealt can be lowered for at most 40%) for 6 Rounds. There is also a 70% chance for Lord Dracula to gain 2 stacks of [c][e28002]Blood Bats[-][/c].
 
-[c][e28002]Sanguine Snare:[-][/c]
-A Damage Over Time effect.
-Deals (4% of target\'s Maximum HP) damage (damage dealt will not surpass 2000% of Lord Dracula\'s Attack) to the target when this effect is inflicted and at the end of each round during period of effect. Heals the Lord Dracula that afflicted this effect for (25% of Damage dealt by this [c][e28002]Sanguine Snare[-][/c]) HP whenever this [c][e28002]Sanguine Snare[-][/c] deals damage.
-
 [c][e28002]Blood Bats:[-][/c]
 A Skill Effect that can stack. 
-1 Stack will be consumed when the owner of [c][e28002]Blood Bats[-][/c] casts 1 stack of [c][e28002]Sanguine Snare[-][/c] to enemies (regardless of the number of targets) and enhance its effects. The final damage (damage after calculating all attributes) dealt by the stack of enhanced [c][e28002]Sanguine Snare[-][/c] will be boosted by 50%, and its damage limit will be increased to 3000% of Lord Dracula\'s Attack."
+1 Stack will be consumed when the owner of [c][e28002]Blood Bats[-][/c] casts 1 stack of [c][01a310]Sanguine Snare[-][/c] to enemies (regardless of the number of targets) and enhance its effects. The final damage (damage after calculating all attributes) dealt by the stack of enhanced [c][01a310]Sanguine Snare[-][/c] will be boosted by 50%, and its damage limit will be increased to 3750% of Lord Dracula\'s Attack."
 65102413,Lord Dracula,Blood Tithe,"
+My followers...it is time to offer yourselves to your Master.
+
 When Lord Dracula deals a Basic Attack, she has a 20% chance to gain 1 stack of [c][e28002]Blood Bats[-][/c].
 When any girl is defeated, Lord Dracula will reduce all enemies\' Precision by 15% and all damage they deal by 10% (all damage dealt can be lowered for at most 40%) for 6 Rounds. There is also 100% chance for Lord Dracula to gain 2 stacks of [c][e28002]Blood Bats[-][/c].
 
-[c][e28002]Sanguine Snare:[-][/c]
-A Damage Over Time effect.
-Deals (8% of target\'s Maximum HP) damage (damage dealt will not surpass 2000% of Lord Dracula\'s Attack) to the target when this effect is inflicted and at the end of each round during period of effect. Heals the Lord Dracula that afflicted this effect for (25% of Damage dealt by this [c][e28002]Sanguine Snare[-][/c]) HP whenever this [c][e28002]Sanguine Snare[-][/c] deals damage.
-
 [c][e28002]Blood Bats:[-][/c]
 A Skill Effect that can stack. 
-1 Stack will be consumed when the owner of [c][e28002]Blood Bats[-][/c] casts 1 stack of [c][e28002]Sanguine Snare[-][/c] to enemies (regardless of the number of targets) and enhance its effects. The final damage (damage after calculating all attributes) dealt by the stack of enhanced [c][e28002]Sanguine Snare[-][/c] will be boosted by 50%, and its damage limit will be increased to 3000% of Lord Dracula\'s Attack."
+1 Stack will be consumed when the owner of [c][e28002]Blood Bats[-][/c] casts 1 stack of [c][01a310]Sanguine Snare[-][/c] to enemies (regardless of the number of targets) and enhance its effects. The final damage (damage after calculating all attributes) dealt by the stack of enhanced [c][01a310]Sanguine Snare[-][/c] will be boosted by 50%, and its damage limit will be increased to 3750% of Lord Dracula\'s Attack."
 75101703,Lord Dracula,Blood Tithe,"
+My followers...it is time to offer yourselves to your Master.
+
 When Lord Dracula deals a Basic Attack, she has a 20% chance to gain 1 stack of [c][e28002]Blood Bats[-][/c].
 When any girl is defeated, Lord Dracula will reduce all enemies\' Precision by 15% and all damage they deal by 10% (all damage dealt can be lowered for at most 40%) for 6 Rounds. There is also 100% chance for Lord Dracula to gain 2 stacks of [c][e28002]Blood Bats[-][/c].
 
-[c][e28002]Sanguine Snare:[-][/c]
-A Damage Over Time effect.
-Deals (8% of target\'s Maximum HP) damage (damage dealt will not surpass 2000% of Lord Dracula\'s Attack) to the target when this effect is inflicted and at the end of each round during period of effect. Heals the Lord Dracula that afflicted this effect for (25% of Damage dealt by this [c][e28002]Sanguine Snare[-][/c]) HP whenever this [c][e28002]Sanguine Snare[-][/c] deals damage.
-
 [c][e28002]Blood Bats:[-][/c]
 A Skill Effect that can stack. 
-1 Stack will be consumed when the owner of [c][e28002]Blood Bats[-][/c] casts 1 stack of [c][e28002]Sanguine Snare[-][/c] to enemies (regardless of the number of targets) and enhance its effects. The final damage (damage after calculating all attributes) dealt by the stack of enhanced [c][e28002]Sanguine Snare[-][/c] will be boosted by 50%, and its damage limit will be increased to 3000% of Lord Dracula\'s Attack."
+1 Stack will be consumed when the owner of [c][e28002]Blood Bats[-][/c] casts 1 stack of [c][01a310]Sanguine Snare[-][/c] to enemies (regardless of the number of targets) and enhance its effects. The final damage (damage after calculating all attributes) dealt by the stack of enhanced [c][01a310]Sanguine Snare[-][/c] will be boosted by 50%, and its damage limit will be increased to 3750% of Lord Dracula\'s Attack."
 5101704,Lord Dracula,Dusk Rose,"
+Have you perhaps forgotten to whom do you belong?
+
 When Lord Dracula takes damage from Active Skills or Basic Attacks aimed at her, she will deal (100% of Attack) damage to the attacker.
-If Lord Dracula blocked the damage, she will deal (200% of Attack) damage to 1 random enemy and cast 1 stack of [c][e28002]Sanguine Snare[-][/c] that lasts for 2 Rounds to it.
+If Lord Dracula blocked the damage, she will deal (200% of Attack) damage to 2 random enemies and cast 1 stack of [c][01a310]Sanguine Snare[-][/c] that lasts for 2 Rounds to it.
 
-[c][e28002]Sanguine Snare:[-][/c]
+[c][01a310]Sanguine Snare:[-][/c]
 A Damage Over Time effect.
-Deals (2% of target\'s Maximum HP) damage (damage dealt will not surpass 2000% of Lord Dracula\'s Attack) to the target when this effect is inflicted and at the end of each round during period of effect. Heals the Lord Dracula that afflicted this effect for (25% of Damage dealt by this [c][e28002]Sanguine Snare[-][/c]) HP whenever this [c][e28002]Sanguine Snare[-][/c] deals damage."
+Deals (1% of target\'s Maximum HP) damage (damage dealt will not surpass 2500% of Lord Dracula\'s Attack) to the target when this effect is inflicted and at the end of each round during period of effect. Heals the Lord Dracula that afflicted this effect for (25% of Damage dealt by this [c][01a310]Sanguine Snare[-][/c]) HP whenever this [c][01a310]Sanguine Snare[-][/c] deals damage."
 65102404,Lord Dracula,Dusk Rose,"
+Have you perhaps forgotten to whom do you belong?
+
 When Lord Dracula takes damage from Active Skills or Basic Attacks aimed at her, she will deal (200% of Attack) damage to the attacker.
-If Lord Dracula blocked the damage, she will deal (400% of Attack) damage to 1 random enemy and cast 1 stack of [c][e28002]Sanguine Snare[-][/c] that lasts for 2 Rounds to it.
+If Lord Dracula blocked the damage, she will deal (400% of Attack) damage to 2 random enemies and cast 1 stack of [c][01a310]Sanguine Snare[-][/c] that lasts for 2 Rounds to it.
 
-[c][e28002]Sanguine Snare:[-][/c]
+[c][01a310]Sanguine Snare:[-][/c]
 A Damage Over Time effect.
-Deals (4% of target\'s Maximum HP) damage (damage dealt will not surpass 2000% of Lord Dracula\'s Attack) to the target when this effect is inflicted and at the end of each round during period of effect. Heals the Lord Dracula that afflicted this effect for (25% of Damage dealt by this [c][e28002]Sanguine Snare[-][/c]) HP whenever this [c][e28002]Sanguine Snare[-][/c] deals damage."
+Deals (3% of target\'s Maximum HP) damage (damage dealt will not surpass 2500% of Lord Dracula\'s Attack) to the target when this effect is inflicted and at the end of each round during period of effect. Heals the Lord Dracula that afflicted this effect for (25% of Damage dealt by this [c][01a310]Sanguine Snare[-][/c]) HP whenever this [c][01a310]Sanguine Snare[-][/c] deals damage."
 65102414,Lord Dracula,Dusk Rose,"
-When Lord Dracula takes damage from Active Skills or Basic Attacks aimed at her, she will deal (400% of Attack) damage to the attacker.
-If Lord Dracula blocked the damage, she will deal (800% of Attack) damage to 1 random enemy and cast 1 stack of [c][e28002]Sanguine Snare[-][/c] that lasts for 2 Rounds to it.
+Have you perhaps forgotten to whom do you belong?
 
-[c][e28002]Sanguine Snare:[-][/c]
+When Lord Dracula takes damage from Active Skills or Basic Attacks aimed at her, she will deal (400% of Attack) damage to the attacker.
+If Lord Dracula blocked the damage, she will deal (800% of Attack) damage to 2 random enemies and cast 1 stack of [c][01a310]Sanguine Snare[-][/c] that lasts for 2 Rounds to it.
+
+[c][01a310]Sanguine Snare:[-][/c]
 A Damage Over Time effect.
-Deals (8% of target\'s Maximum HP) damage (damage dealt will not surpass 2000% of Lord Dracula\'s Attack) to the target when this effect is inflicted and at the end of each round during period of effect. Heals the Lord Dracula that afflicted this effect for (25% of Damage dealt by this [c][e28002]Sanguine Snare[-][/c]) HP whenever this [c][e28002]Sanguine Snare[-][/c] deals damage."
+Deals (6% of target\'s Maximum HP) damage (damage dealt will not surpass 2500% of Lord Dracula\'s Attack) to the target when this effect is inflicted and at the end of each round during period of effect. Heals the Lord Dracula that afflicted this effect for (25% of Damage dealt by this [c][01a310]Sanguine Snare[-][/c]) HP whenever this [c][01a310]Sanguine Snare[-][/c] deals damage."
 75101704,Lord Dracula,Dusk Rose,"
-When Lord Dracula takes damage from Active Skills or Basic Attacks aimed at her, she will deal (400% of Attack) damage to the attacker.
-If Lord Dracula blocked the damage, she will deal (800% of Attack) damage to 1 random enemy and cast 1 stack of [c][e28002]Sanguine Snare[-][/c] that lasts for 2 Rounds to it.
+Have you perhaps forgotten to whom do you belong?
 
-[c][e28002]Sanguine Snare:[-][/c]
+When Lord Dracula takes damage from Active Skills or Basic Attacks aimed at her, she will deal (400% of Attack) damage to the attacker.
+If Lord Dracula blocked the damage, she will deal (800% of Attack) damage to 2 random enemies and cast 1 stack of [c][01a310]Sanguine Snare[-][/c] that lasts for 2 Rounds to it.
+
+[c][01a310]Sanguine Snare:[-][/c]
 A Damage Over Time effect.
-Deals (8% of target\'s Maximum HP) damage (damage dealt will not surpass 2000% of Lord Dracula\'s Attack) to the target when this effect is inflicted and at the end of each round during period of effect. Heals the Lord Dracula that afflicted this effect for (25% of Damage dealt by this [c][e28002]Sanguine Snare[-][/c]) HP whenever this [c][e28002]Sanguine Snare[-][/c] deals damage."
+Deals (6% of target\'s Maximum HP) damage (damage dealt will not surpass 2500% of Lord Dracula\'s Attack) to the target when this effect is inflicted and at the end of each round during period of effect. Heals the Lord Dracula that afflicted this effect for (25% of Damage dealt by this [c][01a310]Sanguine Snare[-][/c]) HP whenever this [c][01a310]Sanguine Snare[-][/c] deals damage."
 751017011,Lord Dracula,Crimson Veins,"
-Deals (816% of Attack) damage to 3 random enemies, lowers their Attack by 15% for 2 Rounds, and afflicts them with 2 stacks of [c][e28002]Sanguine Snare[-][/c] that lasts for 2 Rounds.
+Escaping is futile, my dear.
+
+Deals (816% of Attack) damage to 3 random enemies, lowers their Attack by 15% for 2 Rounds, and afflicts them with 2 stacks of [c][01a310]Sanguine Snare[-][/c] that lasts for 2 Rounds.
 Deals an extra (1680% of Attack) damage to target(s) with 50% or more HP, and an extra (20% of target\'s lost HP) damage to target(s) with less than 50% HP (damage dealt will not surpass 2500% of Lord Dracula\'s Attack).
 
-[c][e28002]Sanguine Snare:[-][/c]
+[c][01a310]Sanguine Snare:[-][/c]
 A Damage Over Time effect.
-Deals (8% of target\'s Maximum HP) damage (damage dealt will not surpass 2000% of Lord Dracula\'s Attack) to the target when this effect is inflicted and at the end of each round during period of effect. Heals the Lord Dracula that afflicted this effect for (25% of Damage dealt by this [c][e28002]Sanguine Snare[-][/c]) HP whenever this [c][e28002]Sanguine Snare[-][/c] deals damage."
+Deals (8% of target\'s Maximum HP) damage (damage dealt will not surpass 2500% of Lord Dracula\'s Attack) to the target when this effect is inflicted and at the end of each round during period of effect. Heals the Lord Dracula that afflicted this effect for (25% of Damage dealt by this [c][01a310]Sanguine Snare[-][/c]) HP whenever this [c][01a310]Sanguine Snare[-][/c] deals damage."
 751017012,Lord Dracula,Crimson Veins,"
-Deals (832% of Attack) damage to 3 random enemies, lowers their Attack by 15% for 2 Rounds, and afflicts them with 2 stacks of [c][e28002]Sanguine Snare[-][/c] that lasts for 2 Rounds.
+Escaping is futile, my dear.
+
+Deals (832% of Attack) damage to 3 random enemies, lowers their Attack by 15% for 2 Rounds, and afflicts them with 2 stacks of [c][01a310]Sanguine Snare[-][/c] that lasts for 2 Rounds.
 Deals an extra (1760% of Attack) damage to target(s) with 50% or more HP, and an extra (20% of target\'s lost HP) damage to target(s) with less than 50% HP (damage dealt will not surpass 2500% of Lord Dracula\'s Attack).
 
-[c][e28002]Sanguine Snare:[-][/c]
+[c][01a310]Sanguine Snare:[-][/c]
 A Damage Over Time effect.
-Deals (8% of target\'s Maximum HP) damage (damage dealt will not surpass 2000% of Lord Dracula\'s Attack) to the target when this effect is inflicted and at the end of each round during period of effect. Heals the Lord Dracula that afflicted this effect for (25% of Damage dealt by this [c][e28002]Sanguine Snare[-][/c]) HP whenever this [c][e28002]Sanguine Snare[-][/c] deals damage."
+Deals (8% of target\'s Maximum HP) damage (damage dealt will not surpass 2500% of Lord Dracula\'s Attack) to the target when this effect is inflicted and at the end of each round during period of effect. Heals the Lord Dracula that afflicted this effect for (25% of Damage dealt by this [c][01a310]Sanguine Snare[-][/c]) HP whenever this [c][01a310]Sanguine Snare[-][/c] deals damage."
 751017013,Lord Dracula,Crimson Veins,"
-Deals (848% of Attack) damage to 3 random enemies, lowers their Attack by 15% for 2 Rounds, and afflicts them with 2 stacks of [c][e28002]Sanguine Snare[-][/c] that lasts for 2 Rounds.
+Escaping is futile, my dear.
+
+Deals (848% of Attack) damage to 3 random enemies, lowers their Attack by 15% for 2 Rounds, and afflicts them with 2 stacks of [c][01a310]Sanguine Snare[-][/c] that lasts for 2 Rounds.
 Deals an extra (1840% of Attack) damage to target(s) with 50% or more HP, and an extra (20% of target\'s lost HP) damage to target(s) with less than 50% HP (damage dealt will not surpass 2500% of Lord Dracula\'s Attack).
 
-[c][e28002]Sanguine Snare:[-][/c]
+[c][01a310]Sanguine Snare:[-][/c]
 A Damage Over Time effect.
-Deals (8% of target\'s Maximum HP) damage (damage dealt will not surpass 2000% of Lord Dracula\'s Attack) to the target when this effect is inflicted and at the end of each round during period of effect. Heals the Lord Dracula that afflicted this effect for (25% of Damage dealt by this [c][e28002]Sanguine Snare[-][/c]) HP whenever this [c][e28002]Sanguine Snare[-][/c] deals damage."
+Deals (8% of target\'s Maximum HP) damage (damage dealt will not surpass 2500% of Lord Dracula\'s Attack) to the target when this effect is inflicted and at the end of each round during period of effect. Heals the Lord Dracula that afflicted this effect for (25% of Damage dealt by this [c][01a310]Sanguine Snare[-][/c]) HP whenever this [c][01a310]Sanguine Snare[-][/c] deals damage."
 751017014,Lord Dracula,Crimson Veins,"
-Deals (864% of Attack) damage to 3 random enemies, lowers their Attack by 15% for 2 Rounds, and afflicts them with 2 stacks of [c][e28002]Sanguine Snare[-][/c] that lasts for 2 Rounds.
+Escaping is futile, my dear.
+
+Deals (864% of Attack) damage to 3 random enemies, lowers their Attack by 15% for 2 Rounds, and afflicts them with 2 stacks of [c][01a310]Sanguine Snare[-][/c] that lasts for 2 Rounds.
 Deals an extra (1920% of Attack) damage to target(s) with 50% or more HP, and an extra (20% of target\'s lost HP) damage to target(s) with less than 50% HP (damage dealt will not surpass 2500% of Lord Dracula\'s Attack).
 
-[c][e28002]Sanguine Snare:[-][/c]
+[c][01a310]Sanguine Snare:[-][/c]
 A Damage Over Time effect.
-Deals (8% of target\'s Maximum HP) damage (damage dealt will not surpass 2000% of Lord Dracula\'s Attack) to the target when this effect is inflicted and at the end of each round during period of effect. Heals the Lord Dracula that afflicted this effect for (25% of Damage dealt by this [c][e28002]Sanguine Snare[-][/c]) HP whenever this [c][e28002]Sanguine Snare[-][/c] deals damage."
+Deals (8% of target\'s Maximum HP) damage (damage dealt will not surpass 2500% of Lord Dracula\'s Attack) to the target when this effect is inflicted and at the end of each round during period of effect. Heals the Lord Dracula that afflicted this effect for (25% of Damage dealt by this [c][01a310]Sanguine Snare[-][/c]) HP whenever this [c][01a310]Sanguine Snare[-][/c] deals damage."
 751017015,Lord Dracula,Crimson Veins,"
-Deals (880% of Attack) damage to 3 random enemies, lowers their Attack by 15% for 2 Rounds, and afflicts them with 2 stacks of [c][e28002]Sanguine Snare[-][/c] that lasts for 2 Rounds.
+Escaping is futile, my dear.
+
+Deals (880% of Attack) damage to 3 random enemies, lowers their Attack by 15% for 2 Rounds, and afflicts them with 2 stacks of [c][01a310]Sanguine Snare[-][/c] that lasts for 2 Rounds.
 Deals an extra (2000% of Attack) damage to target(s) with 50% or more HP, and an extra (20% of target\'s lost HP) damage to target(s) with less than 50% HP (damage dealt will not surpass 2500% of Lord Dracula\'s Attack).
 
-[c][e28002]Sanguine Snare:[-][/c]
+[c][01a310]Sanguine Snare:[-][/c]
 A Damage Over Time effect.
-Deals (10% of target\'s Maximum HP) damage (damage dealt will not surpass 2000% of Lord Dracula\'s Attack) to the target when this effect is inflicted and at the end of each round during period of effect. Heals the Lord Dracula that afflicted this effect for (25% of Damage dealt by this [c][e28002]Sanguine Snare[-][/c]) HP whenever this [c][e28002]Sanguine Snare[-][/c] deals damage."
-751017021,Lord Dracula,Twilight Baron,"Increases Lord Dracula's HP by 30%, Attack by 30%, Block by 60%, Control Immunity by 30%, and Speed by 42."
-751017022,Lord Dracula,Twilight Baron,"Increases Lord Dracula's HP by 30%, Attack by 30%, Block by 60%, Control Immunity by 30%, and Speed by 44."
-751017023,Lord Dracula,Twilight Baron,"Increases Lord Dracula's HP by 30%, Attack by 30%, Block by 60%, Control Immunity by 30%, and Speed by 46."
-751017024,Lord Dracula,Twilight Baron,"Increases Lord Dracula's HP by 30%, Attack by 30%, Block by 60%, Control Immunity by 30%, and Speed by 48."
-751017025,Lord Dracula,Twilight Baron,"Increases Lord Dracula's HP by 33%, Attack by 33%, Block by 60%, Control Immunity by 30%, and Speed by 50."
+Deals (10% of target\'s Maximum HP) damage (damage dealt will not surpass 2500% of Lord Dracula\'s Attack) to the target when this effect is inflicted and at the end of each round during period of effect. Heals the Lord Dracula that afflicted this effect for (25% of Damage dealt by this [c][01a310]Sanguine Snare[-][/c]) HP whenever this [c][01a310]Sanguine Snare[-][/c] deals damage."
+751017021,Lord Dracula,Twilight Baron,"Centuries have passed, yet this world and its affairs still bore me.\n\nIncreases Lord Dracula's HP by 30%, Attack by 30%, Block by 60%, Control Immunity by 30%, and Speed by 42."
+751017022,Lord Dracula,Twilight Baron,"Centuries have passed, yet this world and its affairs still bore me.\n\nIncreases Lord Dracula's HP by 30%, Attack by 30%, Block by 60%, Control Immunity by 30%, and Speed by 44."
+751017023,Lord Dracula,Twilight Baron,"Centuries have passed, yet this world and its affairs still bore me.\n\nIncreases Lord Dracula's HP by 30%, Attack by 30%, Block by 60%, Control Immunity by 30%, and Speed by 46."
+751017024,Lord Dracula,Twilight Baron,"Centuries have passed, yet this world and its affairs still bore me.\n\nIncreases Lord Dracula's HP by 30%, Attack by 30%, Block by 60%, Control Immunity by 30%, and Speed by 48."
+751017025,Lord Dracula,Twilight Baron,"Centuries have passed, yet this world and its affairs still bore me.\n\nIncreases Lord Dracula's HP by 33%, Attack by 33%, Block by 60%, Control Immunity by 30%, and Speed by 50."
 751017031,Lord Dracula,Blood Tithe,"
+My followers...it is time to offer yourselves to your Master.
+
 When Lord Dracula deals a Basic Attack, she has a 22% chance to gain 1 stack of [c][e28002]Blood Bats[-][/c].
 When any girl is defeated, Lord Dracula will reduce all enemies\' Precision by 15% and all damage they deal by 10% (all damage dealt can be lowered for at most 40%) for 6 Rounds. There is also 100% chance for Lord Dracula to gain 2 stacks of [c][e28002]Blood Bats[-][/c].
 
-[c][e28002]Sanguine Snare:[-][/c]
-A Damage Over Time effect.
-Deals (8% of target\'s Maximum HP) damage (damage dealt will not surpass 2000% of Lord Dracula\'s Attack) to the target when this effect is inflicted and at the end of each round during period of effect. Heals the Lord Dracula that afflicted this effect for (25% of Damage dealt by this [c][e28002]Sanguine Snare[-][/c]) HP whenever this [c][e28002]Sanguine Snare[-][/c] deals damage.
-
 [c][e28002]Blood Bats:[-][/c]
 A Skill Effect that can stack. 
-1 Stack will be consumed when the owner of [c][e28002]Blood Bats[-][/c] casts 1 stack of [c][e28002]Sanguine Snare[-][/c] to enemies (regardless of the number of targets) and enhance its effects. The final damage (damage after calculating all attributes) dealt by the stack of enhanced [c][e28002]Sanguine Snare[-][/c] will be boosted by 50%, and its damage limit will be increased to 3000% of Lord Dracula\'s Attack."
+1 Stack will be consumed when the owner of [c][e28002]Blood Bats[-][/c] casts 1 stack of [c][01a310]Sanguine Snare[-][/c] to enemies (regardless of the number of targets) and enhance its effects. The final damage (damage after calculating all attributes) dealt by the stack of enhanced [c][01a310]Sanguine Snare[-][/c] will be boosted by 50%, and its damage limit will be increased to 3750% of Lord Dracula\'s Attack."
 751017032,Lord Dracula,Blood Tithe,"
+My followers...it is time to offer yourselves to your Master.
+
 When Lord Dracula deals a Basic Attack, she has a 24% chance to gain 1 stack of [c][e28002]Blood Bats[-][/c].
 When any girl is defeated, Lord Dracula will reduce all enemies\' Precision by 15% and all damage they deal by 10% (all damage dealt can be lowered for at most 40%) for 6 Rounds. There is also 100% chance for Lord Dracula to gain 2 stacks of [c][e28002]Blood Bats[-][/c].
 
-[c][e28002]Sanguine Snare:[-][/c]
-A Damage Over Time effect.
-Deals (8% of target\'s Maximum HP) damage (damage dealt will not surpass 2000% of Lord Dracula\'s Attack) to the target when this effect is inflicted and at the end of each round during period of effect. Heals the Lord Dracula that afflicted this effect for (25% of Damage dealt by this [c][e28002]Sanguine Snare[-][/c]) HP whenever this [c][e28002]Sanguine Snare[-][/c] deals damage.
-
 [c][e28002]Blood Bats:[-][/c]
 A Skill Effect that can stack. 
-1 Stack will be consumed when the owner of [c][e28002]Blood Bats[-][/c] casts 1 stack of [c][e28002]Sanguine Snare[-][/c] to enemies (regardless of the number of targets) and enhance its effects. The final damage (damage after calculating all attributes) dealt by the stack of enhanced [c][e28002]Sanguine Snare[-][/c] will be boosted by 50%, and its damage limit will be increased to 3000% of Lord Dracula\'s Attack."
+1 Stack will be consumed when the owner of [c][e28002]Blood Bats[-][/c] casts 1 stack of [c][01a310]Sanguine Snare[-][/c] to enemies (regardless of the number of targets) and enhance its effects. The final damage (damage after calculating all attributes) dealt by the stack of enhanced [c][01a310]Sanguine Snare[-][/c] will be boosted by 50%, and its damage limit will be increased to 3750% of Lord Dracula\'s Attack."
 751017033,Lord Dracula,Blood Tithe,"
+My followers...it is time to offer yourselves to your Master.
+
 When Lord Dracula deals a Basic Attack, she has a 26% chance to gain 1 stack of [c][e28002]Blood Bats[-][/c].
 When any girl is defeated, Lord Dracula will reduce all enemies\' Precision by 15% and all damage they deal by 10% (all damage dealt can be lowered for at most 40%) for 6 Rounds. There is also 100% chance for Lord Dracula to gain 2 stacks of [c][e28002]Blood Bats[-][/c].
 
-[c][e28002]Sanguine Snare:[-][/c]
-A Damage Over Time effect.
-Deals (8% of target\'s Maximum HP) damage (damage dealt will not surpass 2000% of Lord Dracula\'s Attack) to the target when this effect is inflicted and at the end of each round during period of effect. Heals the Lord Dracula that afflicted this effect for (25% of Damage dealt by this [c][e28002]Sanguine Snare[-][/c]) HP whenever this [c][e28002]Sanguine Snare[-][/c] deals damage.
-
 [c][e28002]Blood Bats:[-][/c]
 A Skill Effect that can stack. 
-1 Stack will be consumed when the owner of [c][e28002]Blood Bats[-][/c] casts 1 stack of [c][e28002]Sanguine Snare[-][/c] to enemies (regardless of the number of targets) and enhance its effects. The final damage (damage after calculating all attributes) dealt by the stack of enhanced [c][e28002]Sanguine Snare[-][/c] will be boosted by 55%, and its damage limit will be increased to 3100% of Lord Dracula\'s Attack."
+1 Stack will be consumed when the owner of [c][e28002]Blood Bats[-][/c] casts 1 stack of [c][01a310]Sanguine Snare[-][/c] to enemies (regardless of the number of targets) and enhance its effects. The final damage (damage after calculating all attributes) dealt by the stack of enhanced [c][01a310]Sanguine Snare[-][/c] will be boosted by 50%, and its damage limit will be increased to 3750% of Lord Dracula\'s Attack."
 751017034,Lord Dracula,Blood Tithe,"
+My followers...it is time to offer yourselves to your Master.
+
 When Lord Dracula deals a Basic Attack, she has a 28% chance to gain 1 stack of [c][e28002]Blood Bats[-][/c].
 When any girl is defeated, Lord Dracula will reduce all enemies\' Precision by 15% and all damage they deal by 10% (all damage dealt can be lowered for at most 40%) for 6 Rounds. There is also 100% chance for Lord Dracula to gain 2 stacks of [c][e28002]Blood Bats[-][/c].
 
-[c][e28002]Sanguine Snare:[-][/c]
-A Damage Over Time effect.
-Deals (8% of target\'s Maximum HP) damage (damage dealt will not surpass 2000% of Lord Dracula\'s Attack) to the target when this effect is inflicted and at the end of each round during period of effect. Heals the Lord Dracula that afflicted this effect for (25% of Damage dealt by this [c][e28002]Sanguine Snare[-][/c]) HP whenever this [c][e28002]Sanguine Snare[-][/c] deals damage.
-
 [c][e28002]Blood Bats:[-][/c]
 A Skill Effect that can stack. 
-1 Stack will be consumed when the owner of [c][e28002]Blood Bats[-][/c] casts 1 stack of [c][e28002]Sanguine Snare[-][/c] to enemies (regardless of the number of targets) and enhance its effects. The final damage (damage after calculating all attributes) dealt by the stack of enhanced [c][e28002]Sanguine Snare[-][/c] will be boosted by 55%, and its damage limit will be increased to 3100% of Lord Dracula\'s Attack."
+1 Stack will be consumed when the owner of [c][e28002]Blood Bats[-][/c] casts 1 stack of [c][01a310]Sanguine Snare[-][/c] to enemies (regardless of the number of targets) and enhance its effects. The final damage (damage after calculating all attributes) dealt by the stack of enhanced [c][01a310]Sanguine Snare[-][/c] will be boosted by 50%, and its damage limit will be increased to 3750% of Lord Dracula\'s Attack."
 751017035,Lord Dracula,Blood Tithe,"
+My followers...it is time to offer yourselves to your Master.
+
 When Lord Dracula deals a Basic Attack, she has a 30% chance to gain 1 stack of [c][e28002]Blood Bats[-][/c].
 When any girl is defeated, Lord Dracula will reduce all enemies\' Precision by 15% and all damage they deal by 10% (all damage dealt can be lowered for at most 40%) for 6 Rounds. There is also 100% chance for Lord Dracula to gain 2 stacks of [c][e28002]Blood Bats[-][/c].
 
-[c][e28002]Sanguine Snare:[-][/c]
-A Damage Over Time effect.
-Deals (10% of target\'s Maximum HP) damage (damage dealt will not surpass 2000% of Lord Dracula\'s Attack) to the target when this effect is inflicted and at the end of each round during period of effect. Heals the Lord Dracula that afflicted this effect for (25% of Damage dealt by this [c][e28002]Sanguine Snare[-][/c]) HP whenever this [c][e28002]Sanguine Snare[-][/c] deals damage.
-
 [c][e28002]Blood Bats:[-][/c]
 A Skill Effect that can stack. 
-1 Stack will be consumed when the owner of [c][e28002]Blood Bats[-][/c] casts 1 stack of [c][e28002]Sanguine Snare[-][/c] to enemies (regardless of the number of targets) and enhance its effects. The final damage (damage after calculating all attributes) dealt by the stack of enhanced [c][e28002]Sanguine Snare[-][/c] will be boosted by 60%, and its damage limit will be increased to 3200% of Lord Dracula\'s Attack."
+1 Stack will be consumed when the owner of [c][e28002]Blood Bats[-][/c] casts 1 stack of [c][01a310]Sanguine Snare[-][/c] to enemies (regardless of the number of targets) and enhance its effects. The final damage (damage after calculating all attributes) dealt by the stack of enhanced [c][01a310]Sanguine Snare[-][/c] will be boosted by 55%, and its damage limit will be increased to 3875% of Lord Dracula\'s Attack."
 751017041,Lord Dracula,Dusk Rose,"
+Have you perhaps forgotten to whom do you belong?
+
 When Lord Dracula takes damage from Active Skills or Basic Attacks aimed at her, she will deal (408% of Attack) damage to the attacker.
-If Lord Dracula blocked the damage, she will deal (816% of Attack) damage to 1 random enemy and cast 1 stack of [c][e28002]Sanguine Snare[-][/c] that lasts for 2 Rounds to it.
+If Lord Dracula blocked the damage, she will deal (816% of Attack) damage to 2 random enemies and cast 1 stack of [c][01a310]Sanguine Snare[-][/c] that lasts for 2 Rounds to it.
 
-[c][e28002]Sanguine Snare:[-][/c]
+[c][01a310]Sanguine Snare:[-][/c]
 A Damage Over Time effect.
-Deals (8% of target\'s Maximum HP) damage (damage dealt will not surpass 2000% of Lord Dracula\'s Attack) to the target when this effect is inflicted and at the end of each round during period of effect. Heals the Lord Dracula that afflicted this effect for (25% of Damage dealt by this [c][e28002]Sanguine Snare[-][/c]) HP whenever this [c][e28002]Sanguine Snare[-][/c] deals damage."
+Deals (6% of target\'s Maximum HP) damage (damage dealt will not surpass 2500% of Lord Dracula\'s Attack) to the target when this effect is inflicted and at the end of each round during period of effect. Heals the Lord Dracula that afflicted this effect for (25% of Damage dealt by this [c][01a310]Sanguine Snare[-][/c]) HP whenever this [c][01a310]Sanguine Snare[-][/c] deals damage."
 751017042,Lord Dracula,Dusk Rose,"
+Have you perhaps forgotten to whom do you belong?
+
 When Lord Dracula takes damage from Active Skills or Basic Attacks aimed at her, she will deal (416% of Attack) damage to the attacker.
-If Lord Dracula blocked the damage, she will deal (832% of Attack) damage to 1 random enemy and cast 1 stack of [c][e28002]Sanguine Snare[-][/c] that lasts for 2 Rounds to it.
+If Lord Dracula blocked the damage, she will deal (832% of Attack) damage to 2 random enemies and cast 1 stack of [c][01a310]Sanguine Snare[-][/c] that lasts for 2 Rounds to it.
 
-[c][e28002]Sanguine Snare:[-][/c]
+[c][01a310]Sanguine Snare:[-][/c]
 A Damage Over Time effect.
-Deals (8% of target\'s Maximum HP) damage (damage dealt will not surpass 2000% of Lord Dracula\'s Attack) to the target when this effect is inflicted and at the end of each round during period of effect. Heals the Lord Dracula that afflicted this effect for (25% of Damage dealt by this [c][e28002]Sanguine Snare[-][/c]) HP whenever this [c][e28002]Sanguine Snare[-][/c] deals damage."
+Deals (6% of target\'s Maximum HP) damage (damage dealt will not surpass 2500% of Lord Dracula\'s Attack) to the target when this effect is inflicted and at the end of each round during period of effect. Heals the Lord Dracula that afflicted this effect for (25% of Damage dealt by this [c][01a310]Sanguine Snare[-][/c]) HP whenever this [c][01a310]Sanguine Snare[-][/c] deals damage."
 751017043,Lord Dracula,Dusk Rose,"
+Have you perhaps forgotten to whom do you belong?
+
 When Lord Dracula takes damage from Active Skills or Basic Attacks aimed at her, she will deal (424% of Attack) damage to the attacker.
-If Lord Dracula blocked the damage, she will deal (848% of Attack) damage to 1 random enemy and cast 1 stack of [c][e28002]Sanguine Snare[-][/c] that lasts for 2 Rounds to it.
+If Lord Dracula blocked the damage, she will deal (848% of Attack) damage to 2 random enemies and cast 1 stack of [c][01a310]Sanguine Snare[-][/c] that lasts for 2 Rounds to it.
 
-[c][e28002]Sanguine Snare:[-][/c]
+[c][01a310]Sanguine Snare:[-][/c]
 A Damage Over Time effect.
-Deals (8% of target\'s Maximum HP) damage (damage dealt will not surpass 2000% of Lord Dracula\'s Attack) to the target when this effect is inflicted and at the end of each round during period of effect. Heals the Lord Dracula that afflicted this effect for (25% of Damage dealt by this [c][e28002]Sanguine Snare[-][/c]) HP whenever this [c][e28002]Sanguine Snare[-][/c] deals damage."
+Deals (6% of target\'s Maximum HP) damage (damage dealt will not surpass 2500% of Lord Dracula\'s Attack) to the target when this effect is inflicted and at the end of each round during period of effect. Heals the Lord Dracula that afflicted this effect for (25% of Damage dealt by this [c][01a310]Sanguine Snare[-][/c]) HP whenever this [c][01a310]Sanguine Snare[-][/c] deals damage."
 751017044,Lord Dracula,Dusk Rose,"
+Have you perhaps forgotten to whom do you belong?
+
 When Lord Dracula takes damage from Active Skills or Basic Attacks aimed at her, she will deal (432% of Attack) damage to the attacker.
-If Lord Dracula blocked the damage, she will deal (864% of Attack) damage to 1 random enemy and cast 1 stack of [c][e28002]Sanguine Snare[-][/c] that lasts for 2 Rounds to it.
+If Lord Dracula blocked the damage, she will deal (864% of Attack) damage to 2 random enemies and cast 1 stack of [c][01a310]Sanguine Snare[-][/c] that lasts for 2 Rounds to it.
 
-[c][e28002]Sanguine Snare:[-][/c]
+[c][01a310]Sanguine Snare:[-][/c]
 A Damage Over Time effect.
-Deals (8% of target\'s Maximum HP) damage (damage dealt will not surpass 2000% of Lord Dracula\'s Attack) to the target when this effect is inflicted and at the end of each round during period of effect. Heals the Lord Dracula that afflicted this effect for (25% of Damage dealt by this [c][e28002]Sanguine Snare[-][/c]) HP whenever this [c][e28002]Sanguine Snare[-][/c] deals damage."
+Deals (6% of target\'s Maximum HP) damage (damage dealt will not surpass 2500% of Lord Dracula\'s Attack) to the target when this effect is inflicted and at the end of each round during period of effect. Heals the Lord Dracula that afflicted this effect for (25% of Damage dealt by this [c][01a310]Sanguine Snare[-][/c]) HP whenever this [c][01a310]Sanguine Snare[-][/c] deals damage."
 751017045,Lord Dracula,Dusk Rose,"
-When Lord Dracula takes damage from Active Skills or Basic Attacks aimed at her, she will deal (440% of Attack) damage to the attacker.
-If Lord Dracula blocked the damage, she will deal (880% of Attack) damage to 1 random enemy and cast 1 stack of [c][e28002]Sanguine Snare[-][/c] that lasts for 2 Rounds to it.
+Have you perhaps forgotten to whom do you belong?
 
-[c][e28002]Sanguine Snare:[-][/c]
+When Lord Dracula takes damage from Active Skills or Basic Attacks aimed at her, she will deal (440% of Attack) damage to the attacker.
+If Lord Dracula blocked the damage, she will deal (880% of Attack) damage to 2 random enemies and cast 1 stack of [c][01a310]Sanguine Snare[-][/c] that lasts for 2 Rounds to it.
+
+[c][01a310]Sanguine Snare:[-][/c]
 A Damage Over Time effect.
-Deals (10% of target\'s Maximum HP) damage (damage dealt will not surpass 2000% of Lord Dracula\'s Attack) to the target when this effect is inflicted and at the end of each round during period of effect. Heals the Lord Dracula that afflicted this effect for (25% of Damage dealt by this [c][e28002]Sanguine Snare[-][/c]) HP whenever this [c][e28002]Sanguine Snare[-][/c] deals damage."
+Deals (7% of target\'s Maximum HP) damage (damage dealt will not surpass 2500% of Lord Dracula\'s Attack) to the target when this effect is inflicted and at the end of each round during period of effect. Heals the Lord Dracula that afflicted this effect for (25% of Damage dealt by this [c][01a310]Sanguine Snare[-][/c]) HP whenever this [c][01a310]Sanguine Snare[-][/c] deals damage."
 501112,Sky Island,Blood Bats I,"When Sky Island Lord Dracula takes damage from Basic Attacks or Active Skills, she has a 10% chance to gain 1 stack of [c][e28002]Blood Bats[-][/c]."
 501113,Sky Island,Blood Bats II,"When Sky Island Lord Dracula takes damage from Basic Attacks or Active Skills, she has a 20% chance to gain 1 stack of [c][e28002]Blood Bats[-][/c]."
 502112,Sky Island,Volos,"Sky Island Apate and Sky Island Michael will not revive after being defeated, but Sky Island Apate's Volos will deal damage at the end of each Round."

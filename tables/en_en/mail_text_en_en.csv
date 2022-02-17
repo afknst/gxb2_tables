@@ -9,7 +9,7 @@ id,name,from,content
 8,Mini Pass Rewards,Mini Pass,"Dear Senpai, please collect the following rewards in time. Your Mini Pass will expire in {1} day(s)."
 9,Mini Pass Expired,Mini Pass,"Dear Senpai, your Mini Pass has expired. Please visit the Homework section to renew your Mini Pass. As a reminder, the Mini pass is 10 times cheaper than buying Gems individually!"
 10,Summon Girl Rewards,Summon Rewards,Congratulations on summoning {1} during the event. Your rewards are available in Mail on the FrontPage.
-11,Daily Rewards,System Message,"Login every day during the event and you will receive Adv. Capsule Coin x 3, Lucky Coin x 2. Your rewards are attached."
+11,Daily Rewards,System Message,Login daily during the event to get Adv. Capsule Coin x3. Your rewards are attached.
 12,Capsule Reward,System Message,"Congratulations, you've completed {1} Adv. Capsule Draws during event Girls X Capsule Points, here's your reward."
 13,Daily Rewards,System Message,"Login every day during the event and you will receive Seal x 1, Match x 1. Your rewards are attached."
 14,Enroll Rewards,System Message,Congratulations on reaching {1} points during the Enroll event. Here are your rewards~!
@@ -194,7 +194,7 @@ Yuki apologizes for the inconvenience, for any further queries, please don’t h
 186,Entrance Exam Bet,System Message,"Congratulations, the team you support in Entrance Exam has won the battle! Here's your bet reward~"
 187,Miss Yume Pageant - Vote Reward,Event Mail,"Dear Senpai, congratulations, you completed the voting task in ""Miss Yume Pageant"". Here's your reward!"
 188,Blessings from the Stars,Event Mail,"Dear Senpai, please accept the gift from Vivian! Hope you enjoy the life in Yume Academy like always!"
-190,Entrance Exam Notice,Event Mail,Congratulations! Your rank in Entrance Exam has been promoted !Head to the event page to check out the new details of your promotion!
+190,Entrance Exam Notice,Event Mail,Congratulations! Your rank in Entrance Exam has been promoted! Head to the event page to check out the new details of your promotion!
 191,Outfit Shopping Spree,System Message,Congratulations on completing the event task of Outfit Shopping Spree! Here's your reward!
 192,Red Riding Hood,Event Mail,"Thanks for purchasing Red Riding Hood's Gift, here's your reward for today. Your Grade 3 reward will expire in {1} days!"
 193,Red Riding Hood,Event Mail,"Thanks for purchasing Red Riding Hood's Gift, here's your reward for today. Your Grade 2 reward will expire in {1} days!"

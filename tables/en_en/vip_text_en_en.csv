@@ -13,3 +13,5 @@ id,title,text
 9,midas_buy_times,Alchemy Gem Purchase Limit:
 14,travel_buy_time_limit,Bread Purchase Limit
 6,gamble_up,Unlocks Super Slot Machine 10x Draw
+15,gacha_50times,Unlock 50x draw in Adv. Capsule Machine during\nGirls X Capsule Points
+16,auto_transfer,Unlock auto-transfer feature in Adv. Capsule\nMachine during Girls X Capsule Points

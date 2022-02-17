@@ -5,7 +5,7 @@ id,text
 4,Report
 5,Defeat
 6,Skill
-7,Upgrade
+7,Level Up
 8,Progress
 9,Graduate
 10,Awake
@@ -16,7 +16,7 @@ id,text
 15,Intimacy {1}
 16,Oath
 17,Enter Dorm
-18,In Dorm
+18,Set In Dorm
 19,Idle
 20,Internship
 21,Quest Hint
@@ -27,3 +27,6 @@ id,text
 26,Welcome
 27,Select Dialog(Unused)
 28,Loot Team
+29,Upgrade
+30,In Dorm
+31,Hint

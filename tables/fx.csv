@@ -1770,3 +1770,6 @@ id,type,next_texiao,res_name,res_path,texiao_name,texiao_is_pos,target_pos,is_lo
 1775,2,,yanyue_pifu01_hurt01,assets/Effects/hero/yanyue,,,,,,0.7,2,,,,,,,,,,,,,,,,,
 1776,2,,yanyue_pifu01_hurt02,assets/Effects/hero/yanyue,texiao01,,,,,0.7,20,,,,1,,,,,,,,,,,,,
 1777,2,,yanyue_pifu01_hurt02,assets/Effects/hero/yanyue,texiao02,,,,,0.7,,,,,1,,,,,,,,,,,,,
+1778,2,,hujisheng_pifu03_hurt01,assets/Effects/hero/hujisheng,,,,,,0.7,19,,,,1,,,,,,,,,,,,,
+1779,1,,hujisheng_pifu03_hurt02,assets/Effects/hero/hujisheng,,,,,,0.7,,,,,,,,1,181,692,,,,,,,,
+1780,2,,hujisheng_pifu03_hurt02,assets/Effects/hero/hujisheng,texiao02,,,,,0.7,67,,,,1,,,,,,,,,,,,,
