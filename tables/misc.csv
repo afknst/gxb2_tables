@@ -58,7 +58,7 @@ gacha_ensure_guarantee,500,-1
 gacha_ensure_partner,51017#651024#751017,-1
 gacha_ensure_partner_handbook,51017#651024#751017,-1
 daily_mail_awards_gacha,2,-1
-daily_mail_awards_tree,3|46,-1
+daily_mail_awards_tree,3|42,-1
 daily_mail_awards_gamble,18|37|46,-1
 daily_mail_awards_drift,30|6|40|19,-1
 daily_mail_awards_week,18|22,-1
@@ -543,7 +543,7 @@ school_practise_display_duration,86400,-1
 activity_red_riding_hood_mail,193|192|138|137|136,-1
 activity_fairytale_boss_skill,12701|12703|12704|12705,-1
 activity_fairytale_first_plot,4455,-1
-activity_red_riding_hood_awards_1,940004#50|73#15,-1
+activity_red_riding_hood_awards_1,940004#50|6000#400,-1
 school_practise_effect_pos,1#-45#-45|1#-130#-10|1#-60#-5|1#0#0|-1#470#-70|-1#540#-90,-1
 treasure_reserve_unlock,2#0|2#1000|2#2000,-1
 altar_6up_day_limit,5,-1
@@ -634,7 +634,8 @@ mission_act_point_exchange,2#5,-1
 activity_newbee_fund_sell_time,7,-1
 activity_newbee_fund_get_time,30,-1
 newbee_10gacha_time,604800,-1
-newbee_10gacha,1#4#5|1#7#2|2#8#0|3#7#0,-1
+newbee_10gacha,1#3#6|2#4#4|2#8#0|4#6#0|8#2#0,-1
+newbee_10gacha2,1#4#5|1#7#2|2#8#0|3#7#0,-1
 newbee_10gacha_dropbox,900002|900003|900004,-1
 activity_newbee_fund_level_limit,25,-1
 activity_63_hero_model,guojia_pifu03_lihui01|-340|-1178|0.864|1,-1
@@ -835,7 +836,7 @@ activity_equip_exchange_2,1168|2168|3168|4168#1268|2268|3268|4268#1368|2368|3368
 activity_equip_exchange_3,1169|2169|3169|4169#1269|2269|3269|4269#1369|2369|3369|4369#1469|2469|3469|4469#1569|2569|3569|4569,-1
 house_senpai_scale,0.7,-1
 activity_red_riding_hood_awards_2,20#2|29#1,-1
-activity_red_riding_hood_awards_3,36#8|4201017#2,-1
+activity_red_riding_hood_awards_3,73#10|4201017#2,-1
 house_senpai_shadow_scale,0.51|0.69,-1
 dress_gacha_start_time,1631232000,-1
 activity_pray_omni_pro,9|10,-1
@@ -983,7 +984,9 @@ defense_team_save,1.5,-1
 activity_vampire_unlock,330#1,-1
 activity_vampire_giftbag,403,-1
 activity_vampire_awake,328#1|1,-1
+shrine_open_limit,500,-1
 shrine_time_start,1646956800,-1
 shrine_time_interval,12|2,-1
 shrine_hurdle_ticket,322#15,-1
 activity_vampire_battlepass_item,327,-1
+senpai_dress_guide_point,300,-1

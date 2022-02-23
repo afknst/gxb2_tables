@@ -366,9 +366,9 @@ id,name,charge_ios,charge,currency,show_name
 188,Turin Enhancement,9.99,9.99,$,Turin Enhancement
 189,Antique Aid,29.99,29.99,$,Antique Aid
 190,Beginner Funds,19.99,19.99,$,Beginner Funds
-191,Beginner's Capsule,14.99,14.99,$,Beginner's Capsule
-192,Beginner's Capsule,29.99,29.99,$,Beginner's Capsule
-193,Beginner's Capsule,49.99,49.99,$,Beginner's Capsule
+191,Beginner's Capsule,4.99,4.99,$,Beginner's Capsule
+192,Beginner's Capsule,9.99,9.99,$,Beginner's Capsule
+193,Beginner's Capsule,14.99,14.99,$,Beginner's Capsule
 194,Lucky Bonus,29.99,29.99,$,Lucky Bonus
 179,Monthly Kick Off 1,9.99,9.99,$,Monthly Kick Off 1
 195,Beginner's Limited Capsule Pack,9.99,9.99,$,Beginner's Limited Capsule Pack
@@ -533,7 +533,7 @@ id,name,charge_ios,charge,currency,show_name
 317,Red Riding\nHood's Gift,4.99,4.99,$,Red Riding Hood's Gift
 318,Red Riding\nHood's Gift,14.99,14.99,$,Red Riding Hood's Gift
 319,Angel Tea Party Special Pack,14.99,14.99,$,Angel Tea Party Special Pack
-320,Beginner's Capsule,69.99,69.99,$,Beginner's Capsule
+320,Beginner's Capsule,19.99,19.99,$,Beginner's Capsule
 321,Beginner Funds,19.99,19.99,$,Beginner Funds
 322,Halloween Surprise 1,9.99,9.99,$,Halloween Surprise 1
 323,Halloween Surprise 2,49.99,49.99,$,Halloween Surprise 2
@@ -616,3 +616,4 @@ id,name,charge_ios,charge,currency,show_name
 401,Special Skin Pack 1,4.99,4.99,$,Special Skin Pack
 402,Special Skin Pack 2,49.99,49.99,$,Special Skin Pack
 403,Lord's Requests Gift,19.99,19.99,$,Lord's Requests Gift
+404,Beginner's Capsule,29.99,29.99,$,Beginner's Capsule

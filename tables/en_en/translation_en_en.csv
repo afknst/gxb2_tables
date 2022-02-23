@@ -1776,7 +1776,7 @@ MAKE_CAKE_TEXT05,Extra gains for each exchange:
 ASSASSIN_SUIT,Assassin Suit
 ACTIVITY_JACKPOT_POINT_HELP,You will get 1 point for each Energy consumed. Rewards will be issued via Mail when you acquire the required number of points!
 ACTIVITY_JACKPOT_POINT_LIST,Consume {1} Energy
-ACTIVITY_JACKPOT_HELP_TEXT,"1. Use Jackpot Energy (5 energy for each spin) to spin Basic Jackpot and Super Jackpot for item rewards, Jackpot Points, or Super Jackpot Points. If two or more of the same girl is displayed in the result, Jackpot Points or Super Jackpot Points will be rewarded based on which Jackpot you were spinning from. If all of the girls displayed in the result are different, a random item reward will be given.|2. You can choose the amount of Jackpot Energy you want to use before each spin. If you choose to consume multiple times of Jackpot Energy in the next spin, the reward for the spin will thus be multiplied.|3. Super Jackpot will be unlocked after acquiring Advanced Access or spinning the Basic Jackpot 40 times.|4. Jackpot Points and Super Jackpot Points can be used to draw from Basic Draw and Super Draw respectively. After getting all the rewards of Basic Draw/Super Draw, the rewards of Basic Draw/Super Draw will be reset.|5. Additional rewards will also be granted based on how many times you spin the Super Jackpot.|6. Jackpot Points and Super Jackpot Points are required to participate in Lucky Draw, where you will receive a random reward from Basic Draw or Super Draw for each draw. Once all rewards from Basic Draw or Super Draw are claimed, it will be reset.|7. Jackpot Energy can be obtained from the following methods: Daily Reward Mail, Jackpot Support Pack, Mega Value Pack, Special Gift Pack, Special Skin Pack, Girls Assembly, and Enroll Exam.|8. After the event ends, any remaining Jackpot Energy, Jackpot Points, and Super Jackpot Points will be removed from your account and changed into Coins. Jackpot Energy will be transformed into 25K Coins each, Jackpot Points will be transformed into 25K Coins each, and Super Jackpot Points will be transformed into 50K Coins each. The Coins will be sent via Mail."
+ACTIVITY_JACKPOT_HELP_TEXT,"1. Use Jackpot Energy (5 energy for each spin) to spin Basic Jackpot and Super Jackpot for item rewards, Jackpot Points, or Super Jackpot Points. If two or more of the same girl is displayed in the result, Jackpot Points or Super Jackpot Points will be rewarded based on which Jackpot you were spinning from. If all of the girls displayed in the result are different, a random item reward will be given.|2. You can choose the amount of Jackpot Energy you want to use before each spin. If you choose to consume multiple times of Jackpot Energy in the next spin, the reward for the spin will thus be multiplied.|3. Super Jackpot will be unlocked after acquiring Advanced Access or spinning the Basic Jackpot 40 times.|4. Jackpot Points and Super Jackpot Points can be used to draw from Basic Draw and Super Draw respectively. After getting all the rewards of Basic Draw/Super Draw, the rewards of Basic Draw/Super Draw will be reset.|5. Additional rewards will also be granted based on how many times you spin the Super Jackpot.|6. Jackpot Energy can be obtained from the following methods: Daily Reward Mail, Jackpot Support Pack, Mega Value Pack, Special Gift Pack, Special Skin Pack, Girls Assembly, and Enroll Exam.|7. Advanced Access will be removed after the event ends.|8. After the event ends, any remaining Jackpot Energy, Jackpot Points, and Super Jackpot Points will be removed from your account and changed into Coins. Jackpot Energy will be transformed into 25K Coins each, Jackpot Points will be transformed into 25K Coins each, and Super Jackpot Points will be transformed into 50K Coins each. The Coins will be sent via Mail."
 ACTIVITY_JACKPOT_ENERGY_USE,Use x {1}
 ACTIVITY_JACKPOT_ENERGY_USE_TIPS,You will get the reward {1} times
 ACTIVITY_JACKPOT_ENERGY_RESUME,Recover 1 Energy：
@@ -3866,8 +3866,8 @@ SLOT_INCREASE_TEXT0,Transfer
 SLOT_INCREASE_TEXT1,Gem Purchase
 SLOT_INCREASE_TEXT2,Graduate
 SLOT_INCREASE_TEXT3,Promote\nVIP Level
-NEWBEE_10GACHA_HELP01,"1. During the event, you can purchase a 10x draw chance of Beginner Capsule on this page.|2. You can use the chance by tapping the capsule button on this page to launch a special 10x Capsule draw.|3. You are guaranteed to acquire 1 Elite 5-star Girl, 4 Normal 5-star Girls, 5 4-star Girls from this special 10x Capsule draw. You can view the detailed rate to acquire each Girl by tapping the magnifying glass button on the event page.|4. Once the event ends, unused chances (after purchase) for Beginner Capsule draw will be exchanged to Girls shards based on the drop rate and automatically sent via Mail."
-NEWBEE_10GACHA_HELP02,"1. During the event, you can purchase a 10x draw chance of Beginner Capsule on this page.|2. You can use the chance by tapping the capsule button on this page to launch a special 10x Capsule draw.|3. You are guaranteed to acquire 1 Elite 5-star Girl, 7 Normal 5-star Girls, 2 4-star Girls from this special 10x Capsule draw. You can view the detailed rate to acquire each Girl by tapping the magnifying glass button on the event page.|4. Once the event ends, unused chances (after purchase) for Beginner Capsule draw will be exchanged to Girls shards based on the drop rate and automatically sent via Mail."
+NEWBEE_10GACHA_HELP01,"1. During the event, you can purchase a 10x draw chance of Beginner Capsule on this page.|2. You can use the chance by tapping the capsule button on this page to launch a special 10x Capsule draw.|3. You are guaranteed to acquire 1 Elite 5-star Girl, 3 Normal 5-star Girls, 6 4-star Girls from this special 10x Capsule draw. You can view the detailed rate to acquire each Girl by tapping the magnifying glass button on the event page.|4. Once the event ends, unused chances (after purchase) for Beginner Capsule draw will be exchanged to Girls shards based on the drop rate and automatically sent via Mail."
+NEWBEE_10GACHA_HELP02,"1. During the event, you can purchase a 10x draw chance of Beginner Capsule on this page.|2. You can use the chance by tapping the capsule button on this page to launch a special 10x Capsule draw.|3. You are guaranteed to acquire 2 Elite 5-star Girls, 4 Normal 5-star Girls, 4 4-star Girls from this special 10x Capsule draw. You can view the detailed rate to acquire each Girl by tapping the magnifying glass button on the event page.|4. Once the event ends, unused chances (after purchase) for Beginner Capsule draw will be exchanged to Girls shards based on the drop rate and automatically sent via Mail."
 NEWBEE_10GACHA_HELP03,"1. During the event, you can purchase a 10x draw chance of Beginner Capsule on this page.|2. You can use the chance by tapping the capsule button on this page to launch a special 10x Capsule draw.|3. You are guaranteed to acquire 2 Elite 5-star Girls and 8 Normal 5-star Girls from this special 10x Capsule draw. You can view the detailed rate to acquire each Girl by tapping the magnifying glass button on the event page.|4. Once the event ends, unused chances (after purchase) for Beginner Capsule draw will be exchanged to Girls shards based on the drop rate and automatically sent via Mail."
 NEWBEE_10GACHA_TEXT0,Elite 5-star
 NEWBEE_10GACHA_TEXT1,Normal 5-star
@@ -5021,7 +5021,7 @@ ACTIVITY_FISH_TOTAL_TEXT,Fish {1} time(s)
 ACTIVITY_ENTRANCE_TEST_RANK_SHOW_TEXT,Ranking Display
 ACTIVITY_WARMUP_ARENA_RANK_DEMAND,Reach Division {1} first!
 ACTIVITY_TEA_TEXT6,You do not have enough Tea Party Points. Complete Daily Tasks to gain more!
-NEWBEE_10GACHA_HELP04,"1. During the event, you can purchase a 10x draw chance of Beginner Capsule on this page.|2. You can use the chance by tapping the capsule button on this page to launch a special 10x Capsule draw.|3. You are guaranteed to acquire 3 Elite 5-star Girls and 7 Normal 5-star Girls from this special 10x Capsule draw. You can view the detailed rate to acquire each Girl by tapping the magnifying glass button on the event page.|4. Once the event ends, unused chances (after purchase) for Beginner Capsule draw will be exchanged to Girls shards based on the drop rate and automatically sent via Mail."
+NEWBEE_10GACHA_HELP04,"1. During the event, you can purchase a 10x draw chance of Beginner Capsule on this page.|2. You can use the chance by tapping the capsule button on this page to launch a special 10x Capsule draw.|3. You are guaranteed to acquire 4 Elite 5-star Girls and 6 Normal 5-star Girls from this special 10x Capsule draw. You can view the detailed rate to acquire each Girl by tapping the magnifying glass button on the event page.|4. Once the event ends, unused chances (after purchase) for Beginner Capsule draw will be exchanged to Girls shards based on the drop rate and automatically sent via Mail."
 ACHIEVEMENT_REACHED,Achievement Reached
 ACTIVITY_SPORTS_PLAYER_WINDOW,Player Info
 ACTIVITY_SPORTS_PLAYERRANK_TEXT1,Medal Ranking|Score Ranking
@@ -5115,7 +5115,7 @@ ACTIVITY_ENTRANCE_TEST_RECORD_HELP,"1. After each fight in Entrance Exam, your p
 NEW_ARENA_ALL_SERVER_HELP,"
 Ultimate League is a league for all players in the game to compete together.
 Each Season of Ultimate League lasts for 28 days and is divided into 5 phases: Preparation Phase, Points Race, Single Elimination, Finals, and Exhibition Period.|1. Preparation Phase|The first day of each season is the Preparation Phase: players can set up their defense lineup during this period, but they cannot engage in battles.|2. Points Race|(1) During the 2nd – 20th day of each season, players will be able to compete in Points Race.
-(2) Players can challenge other players by consuming League Tickets. If players are dissatisfied with their matched opponents, they can refresh to be matched with new opponents. Each player can refresh 5 times max in a day.
+(2) Players can challenge other players by consuming League Tickets. If players are dissatisfied with their matched opponents, they can refresh to be matched with new opponents. Each player can refresh 7 times max in a day.
 (3) The number of League Tickets consumed is based on the number of battles started every day. The 1st to 5th battles cost 2 League Tickets each, the 6th to 10th battles cost 3 League Tickets each, the 11th to 15th battles cost 4 League Tickets each, and every battle starting from the 16th battle cost 5 League Tickets each. This resets every day.
 (4) The 10 most recent Battle Records can be viewed.|3. Divisions|(1) There are 6 Divisions in Score Match: Bronze, Silver, Gold, Diamond, Master, and Grandmaster. Each Division (except Master and Grandmaster) will be separated into 5 grades, players will need to promote their grades from Grade 5 to Grade 1 before advancing to the next Division.
 (2) Players can get promoted by 1 grade for every 100 points. When a player in Master Division reaches rank 320 in overall rankings, they will advance to Grandmaster Division.
@@ -5130,7 +5130,7 @@ Gold: 4 Frontline backup, 8 Backline backup, 3 Servants
 Diamond: 8 Frontline backup, 16 Backline backup, 5 Servants
 (5) When challenging other players, the number of slots available in your backup lineup will be adjusted according to your opponent\'s Division.
 (6) If the battle exceeds 15 rounds, Girls remaining will increase their Attack and lower their Heal received each round until the battle is over.|5. Single Elimination & Finals|(1) After Points Race is over, the 320 players in Grandmaster Division will be randomly separated into 5 groups (64 players per group) and enter Single Elimination Phase. If there are less than 320 players but more than 64 players in Grandmaster Division, players from Grandmaster Division will be picked according to their position in the ranking list until the remaining players in Grandmaster Division cannot form a complete group. In this case, they will not enter Single Elimination Phase. If there are less than 64 players in Grandmaster Division, players from other Divisions will be picked according to their position on the ranking list (until there\'re 64 players for the Single Elimination Phase).
-(2) 1 race will be held each day.0:00 to 2:00 (UTC/GMT 0) is the ending period. During the ending period, players cannot set or adjust their lineups.
+(2) 1 race will be held each day.0:00 to 2:00 (UTC/GMT 0) is the ending period. The players cannot set or adjust their lineups within 2 hours before each round of battle and during the ending period.
 (3) Only Girls that can be awakened to 10-star can be deployed in Single Elimination and Finals. During battles, all Girls will have the attributes of their 15-Star form at level 330 and their Elite Skill upgrade progress will be kept. They will also be equipped with a full Angel Set (Girls equipped with Class Set Gears will still equip their original Gears), and have their Crystals set at the highest grade. The Servant deployed will be at level 180, the Servant\'s Aura level will be at level 50, and the Servant\'s Ulticore level will be kept. Guild Lab skills will be fully upgraded. Attributes from Main Center in Excursion, Skins, Antiques originally held by the Girl, the Girl\'s current intimacy boost, and the Girl\'s potential status will be kept. If the girl hasn\'t chosen her potential boost in a slot it will be considered empty.
 During battles, the HP and Attack of every Girl will be multiplied based on their star-grade:|5-Star-50%%, 6-Star-51%%, 7-Star-53%%|8-Star-55%%, 9-Star-60%%, 10-Star-65%%|11-Star-70%%, 12-Star-75%%, 13-Star-80%%|14-Star-90%%, 15-Star-100%%|6. Exhibition|(1) Exhibition will last for 2 days after Finals end.|7. Hall of Fame|(1) The top 8 players from each Single Elimination Group of each season will be recorded in the Hall of Fame.
 (2) Records of players who have won in Ultimate League before the feature is updated will still be taken into account in Rankings.|8. Ultimate League Task|(1) During the Points Race period, players can get rewards by completing Tasks in Ultimate League every day.|9. Seasonal Rewards|(1) After Points Race period is over, players will be awarded according to their current Division.
@@ -5344,12 +5344,12 @@ ACTIVITY_JACKPOT_SHOW_TITLE,Rewards
 ACTIVITY_JACKPOT_SHOW_TEXT01,Lucky Rewards
 ACTIVITY_JACKPOT_SHOW_TEXT02,Normal Rewards
 ACTIVITY_JACKPOT_EXCHANGE_TITLE,Exchange Points
-ACTIVITY_JACKPOT_AWARDS,Draw {1} times in Super Draw
+ACTIVITY_JACKPOT_AWARDS,Consume {1} Jackpot Energy
 ACTIVITY_GROWTH_PLAN_TEXT14,No reclaimable Growth Points now!
 ACTIVITY_GROWTH_PLAN_TEXT15,Reclaimable Growth Points: {1}
 ACTIVITY_GROWTH_PLAN_TEXT16,Promotion Program
 ACTIVITY_GROWTH_PLAN_TEXT17,Choose a Girl for Promotion Program
-ACTIVITY_JACKPOT_DRAW_HELP,"1. Lucky Draw is separated into Basic Draw and Super Draw. Jackpot Points and Super Jackpot Points can be used to draw from Basic Draw and Super Draw respectively. Once all rewards from Basic Draw or Super Draw are claimed, the limit for claiming the rewards will be reset.|2. After Advanced Access is acquired, Jackpot Points can be exchanged to Super Jackpot Points at the rate of 1:1.|3. You will get additional rewards for drawing from Super Draw a certain number of times.|4. After the event ends, any remaining Jackpot Points and Super Jackpot Points will be removed from your account and changed into Coins. Jackpot Points will be transformed into 25K Coins each, and Super Jackpot Points will be transformed into 50K Coins each. The Coins will be sent via Mail."
+ACTIVITY_JACKPOT_DRAW_HELP,"1. Lucky Draw is separated into Basic Draw and Super Draw. Jackpot Points and Super Jackpot Points can be used to draw from Basic Draw and Super Draw respectively. Once all rewards from Basic Draw or Super Draw are claimed, the limit for claiming the rewards will be reset.|2. After Advanced Access is acquired, Jackpot Points can be exchanged to Super Jackpot Points at the rate of 1:1.|3. After the event ends, any remaining Jackpot Points and Super Jackpot Points will be removed from your account and changed into Coins. Jackpot Points will be transformed into 25K Coins each, and Super Jackpot Points will be transformed into 50K Coins each. The Coins will be sent via Mail."
 ACTIVITY_GROWTH_PLAN_TEXT18,The Chosen Girl cannot be changed after the rewards are claimed. Do you confirm to claim the rewards?
 ACTIVITY_GROWTH_PLAN_TEXT19,Would you like to spend {1} Gems to recover your Growth Points?
 ACTIVITY_JACKPOT_TEXT01,Exclusive Pack
@@ -5748,35 +5748,35 @@ SHRINE_NOTICE_TEXT05,Not Ranked
 SHRINE_POOL_TEXT01,Current Season
 SHRINE_POOL_TEXT02,Permanent
 SHRINE_POOL_TEXT03,Merchandise Refreshed
-SHRINE_HURDLE_HELP,鶴華神宮||神隙試煉開放時間|每14天為一個賽季，由開放期(12天)與休整期(2天)組成。||入場規則|1.每期開放時，學長將獲得15張邀請函(上限15張)。|2.每期共有3個不同的試煉，存在不同的環境效果對戰姬進行增幅。玩家可手動選擇試煉，每次進入時消耗1張邀請函。|3.試煉中僅可使用10星以上的戰姬，且試煉中戰姬將保留進入時的屬性和狀態(包括裝備及潛能等)。||難度因子|1.每次進入試煉後，需要選擇本次試煉的難度因子。|2.隨著難度因子的提升，敵人的各項屬性會獲得提升，變得更為強大，並且通過戰鬥後的得分也會越高。|3.可選擇難度因子的上限將根據通過試煉的得分逐步提升。||試煉規則|試煉共有16層關卡，分為戰鬥層、獎勵層、商店層、回復層和最終BOSS。|戰鬥層|1.隨機出現敵人，點擊敵人可查看敵人資訊，學長可手動選擇戰姬進行出戰，戰鬥勝利後增加得分。|2.每次戰鬥限定15回合，在15回合內擊敗所有敵人戰鬥勝利，己方戰姬全部死亡或戰鬥超時則失敗。|3.每次戰鬥結束後，己方戰姬將保留血量。|4.戰鬥失敗後。敵人不會保留血量。|獎勵層|1.隨機出現3個增益，學長可手動選擇其中1個。|2.學長也可選擇放棄增益獲得試煉幣，試煉幣可在商店層中使用。|商店層|1.購買增益:隨機出現3個增益，學長可花費試煉幣購買。|2.升級增益：隨機出現3個已擁有增益，學長可花費試煉幣進行升級，每個增益最多升級2次。|回復層|1.學長可選擇回復戰姬血量或復活已陣亡戰姬。|最終BOSS|1.僅擁有1次挑戰機會，挑戰結束後，成功完成本次試煉。|2.最終BOSS無法被擊殺，將根據造成的傷害計算得分。||得分及排行榜|1.每期將記錄玩家3個試煉的最高得分，並分別對每個試煉的得分及3個試煉的總得分進行排名，開放期結束後，根據排名發放獎勵。||週期任務|1.週期任務將在每期神隙試煉開放時刷新。||千願之池|1.使用「千紙鶴」可在千願之池中兌換道具。|2.週期商品將在每期神隙試煉開放時刷新，常駐商品不會刷新。
-SHRINE_HURDLE_DIFFICULTY_HELP,1.每次進入試煉時，需要選擇本次試煉的難度因子。|2.隨著難度因子的提升，敵人的各項屬性會獲得提升，變得更為強大，並且通過戰鬥後的得分也會越高。|3.可選擇難度因子的上限將根據通過試煉的得分逐步提升。
+SHRINE_HURDLE_HELP,"Tsuruga Grand Shrine||Realm of Trials time rule|Realm of Trials will occur in seasons, consisting of a challenge period (12 days) and a rest phase (2 days).||Entry Rules|1. At the beginning of each season, the number of Invitation Cards your own will be reset to 15. (the maximum capacity of Invitation Card is 15).|2. There will be 3 different Trials in each season, there will be different environmental effects in each Trial to boost your Girls in different ways. You can choose which Trial to enter manually. It will cost you 1 Invitation Card to enter a Trial.|3. Only Girls who are 10-star or above are available for the Trials, once a Girl is chosen to enter a Trial, her attribute and status in this Trial (including her Gear and Potential status) will not be updated by the adjustments you make in other features.||Difficulty Level|1. You will need to choose the Difficulty Level once you enter a Trial.|2. The enemies' attributes and the points they provide after each battle will be boosted if you choose a higher Difficulty Level.|3. Higher Difficulty Levels can be unlocked as your points record for Trials becomes higher.||Trial Rules|There will be 16 Stages in a Trial, you will encounter Battle Stages, Reward Stages, Store Stages, Recover Stages, and Boss Stages in your Trials.|Battle Stage|1. The enemies are spawned by random, you can tap on the icons of the enemies to check out their status. You can choose to deploy your Girls to defeat the enemies and win points for you.|2. Each battle for Battle Stages lasts for 15 rounds. You will win in a battle if you defeat the enemies in 15 rounds. But you will lose the battle if all your Girls are defeated or the battle exceeds 15 rounds.|3. The HP of your Girls will not recover after each battle.|4. The status of the enemies will not be reset after you lose the battle|Reward Stage|1. There will be 3 random buffs available for you to choose in a Reward Stage.|2. You can also give up the chance to get a buff and receive Trial Coins instead. Trial Coins can be used in Store Stages.|Store Stage|1. Buff Purchase: there will be 3 random buffs available for you to purchase with Trial Coins.|2. Buff Upgrade: 3 random buffs you own will appear, you can choose to upgrade them with Trial Coins. Each buff can be upgraded twice in a Trial.|Recover Stage|1. You can choose to Heal your Girls or revive a defeated Girl in a Recover Stage.|Boss Stage|1. You can only challenge a Boss Stage only once in a Trial. You will complete the Trial after the battle.|2. The enemy in Boss Stage cannot be defeated, you will get more points if you deal higher damage in the stage.||Points and Ranking|1. Your highest Points record from all 3 Trials will be recorded and ranked in the Ranking Lists of the 3 Trials. A ranking list is also given according to the total points of all 3 Trials.||Tasks|1. The Tasks will be refreshed at the start of each season.||Pond of Prayers|1. You can exchange rewards with ""Origami Cranes"" in Pond of Prayers.|2. Seasonal Merchandise will be refreshed at the start of each season, but Permanent Merchandise will not be refreshed."
+SHRINE_HURDLE_DIFFICULTY_HELP,1. You will need to choose the Difficulty Level once you enter a Trial.|2. The enemies' attributes and the points they provide after each battle will be boosted if you choose a higher Difficulty Level.|3. Higher Difficulty Levels can be unlocked as your points record for Trials becomes higher.
 SHRINE_HURDLE_TEXT01,Environment
 SHRINE_HURDLE_TEXT02,Highest Score
-SHRINE_HURDLE_TEXT03,難度因子
+SHRINE_HURDLE_TEXT03,Difficulty Level
 SHRINE_HURDLE_TEXT04,Enter
-SHRINE_HURDLE_TEXT05,是否消耗1張邀請函進入試煉？\n（進入試煉後，戰姬將保留進入時的屬性和狀態）
-SHRINE_HURDLE_TEXT06,推薦難度因子：
-SHRINE_HURDLE_TEXT07,選擇難度較高，是否繼續？
-SHRINE_HURDLE_TEXT08,試煉詳情
-SHRINE_HURDLE_TEXT09,層數
-SHRINE_HURDLE_TEXT10,得分
-SHRINE_HURDLE_TEXT11,獲得增益
-SHRINE_HURDLE_TEXT12,戰鬥記錄
-SHRINE_HURDLE_TEXT13,熱點戰姬
-SHRINE_HURDLE_TEXT14,暫無數據
-SHRINE_HURDLE_TEXT15,第{1}層
-SHRINE_HURDLE_TEXT16,本層敵人
-SHRINE_HURDLE_TEXT17,選擇
-SHRINE_HURDLE_TEXT18,放棄
-SHRINE_HURDLE_TEXT19,購買
-SHRINE_HURDLE_TEXT20,升級
-SHRINE_HURDLE_TEXT21,已購買
-SHRINE_HURDLE_TEXT22,是否退出商店？
-SHRINE_HURDLE_TEXT23,是否放棄本次試煉？
-SHRINE_HURDLE_TEXT24,結算
-SHRINE_HURDLE_TEXT25,放棄試煉
-SHRINE_HURDLE_TEXT26,繼續戰鬥
-SHRINE_STORY,劇情回顧
+SHRINE_HURDLE_TEXT05,Confirm to consume 1 Invitation Card and enter the Trial? (The Girls attribute and status in this Trial will not be updated by your adjustments in other features when they are in this trial)
+SHRINE_HURDLE_TEXT06,Recommended Difficulty Level:
+SHRINE_HURDLE_TEXT07,"This Difficult Level could be too hard for you, confirm to continue?"
+SHRINE_HURDLE_TEXT08,Details
+SHRINE_HURDLE_TEXT09,Stage
+SHRINE_HURDLE_TEXT10,Points
+SHRINE_HURDLE_TEXT11,Buff Obtained
+SHRINE_HURDLE_TEXT12,Battle Records
+SHRINE_HURDLE_TEXT13,Popular Girls
+SHRINE_HURDLE_TEXT14,No Data
+SHRINE_HURDLE_TEXT15,Stage {1}
+SHRINE_HURDLE_TEXT16,Enemy
+SHRINE_HURDLE_TEXT17,Select
+SHRINE_HURDLE_TEXT18,Give Up
+SHRINE_HURDLE_TEXT19,Purchase
+SHRINE_HURDLE_TEXT20,Upgrade
+SHRINE_HURDLE_TEXT21,Purchased
+SHRINE_HURDLE_TEXT22,Confirm to leave?
+SHRINE_HURDLE_TEXT23,Confirm to give up the Trial?
+SHRINE_HURDLE_TEXT24,Results
+SHRINE_HURDLE_TEXT25,Give Up
+SHRINE_HURDLE_TEXT26,Continue
+SHRINE_STORY,Review
 DRESS_BUFFS_SHOW_WINDOW,Outfit Buffs
 PERSON_DRESS_BUFFS_TIPS_1,No buff from Blue Outfits yet
 PERSON_DRESS_BUFFS_TIPS_2,No buff from Gold Outfits yet
@@ -5788,28 +5788,34 @@ PERSON_DRESS_BUFFS_TIPS_7,No buff from Pink Outfits yet
 PERSON_DRESS_RELATED_DRESS,Related Outfits
 ACTIVITY_VAMPIRE_GAMBLE_AWARD01,Recall Reward
 ACTIVITY_VAMPIRE_GAMBLE_AWARD02,Unlock Item
-CHIME_HELP,幫助文本
-CHIME_ATLAS,圖鑒
-CHIME_BAG,碎片
-CHIME_TAB1,詳情
-CHIME_TAB2,充能
-CHIME_TAB3,激活
-CHIME_TAB4,喚醒
-CHIME_BUTTON1,充能
-CHIME_BUTTON2,激活
-CHIME_BUTTON3,喚醒
+CHIME_HELP,Help Text
+CHIME_ATLAS,Gallery
+CHIME_BAG,Shards
+CHIME_TAB1,Status
+CHIME_TAB2,Charge
+CHIME_TAB3,Enchant
+CHIME_TAB4,Ascend
+CHIME_BUTTON1,Charge
+CHIME_BUTTON2,Enchant
+CHIME_BUTTON3,Ascend
 CHIME_TEXT01,蘊養值
-CHIME_TEXT02,基礎屬性
-CHIME_TEXT03,激活
-CHIME_TEXT04,喚醒
-CHIME_TEXT05,尚未解鎖
+CHIME_TEXT02,Base Attributes
+CHIME_TEXT03,Enchant
+CHIME_TEXT04,Ascend
+CHIME_TEXT05,Locked
 CHIME_TEXT06,蘊養值未充滿
 CHIME_TEXT07,效果未全部激活
 CHIME_TEXT08,蘊養值已滿
-CHIME_TEXT09,已激活
-CHIME_TEXT10,已喚醒
+CHIME_TEXT09,Enchanted
+CHIME_TEXT10,Ascended
 CHIME_TEXT11,蘊養值未達到{1}
 CHIME_TEXT12,是否激活效果？
 CHIME_TEXT13,是否喚醒？
-CHIME_TEXT14,可解鎖
-CHIME_TEXT15,請選擇要分解的碎片
+CHIME_TEXT14,Unlockable
+CHIME_TEXT15,Please select the shard(s) you want to Disassemble
+TIME_CLOISTER_TEXT87,"Consume ""{1}"" to upgrade the technologies in Planetarium"
+ACTIVITY_JACKPOT_WARN,"Super Jackpot unlocked, do you need to stop this spin and move to Super Jack Spot?"
+ACTIVITY_JACKPOT_WARN_BUTTON01,"No, I don't"
+ACTIVITY_JACKPOT_WARN_BUTTON02,"Yes, I do"
+MAIN_PLOT_NEW,跳過
+NEWBEE_10GACHA_HELP05,"1. During the event, you can purchase a 10x draw chance of Beginner Capsule on this page.|2. You can use the chance by tapping the capsule button on this page to launch a special 10x Capsule draw.|3. You are guaranteed to acquire 8 Elite 5-star Girls and 2 Normal 5-star Girls from this special 10x Capsule draw. You can view the detailed rate to acquire each Girl by tapping the magnifying glass button on the event page.|4. Once the event ends, unused chances (after purchase) for Beginner Capsule draw will be exchanged to Girls shards based on the drop rate and automatically sent via Mail."
