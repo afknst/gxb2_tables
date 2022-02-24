@@ -213,7 +213,7 @@ id,name,desc
 31027,Maple Leaf,Exclusives
 31028,Black Cat,Exclusives
 31029,2020 Exclusive avatar,Exclusives
-31030,Exclusive Avatar for GXB2- FB Christmas event 2019,Media Event
+31030,Exclusive Avatar for GXB2- FB Christmas event 2019,FB Event
 32001,Guild Battle Champion Avatar Frame,Guild War Champion
 32002,Guild Battle 2nd Place Avatar Frame,Guild War 2nd place
 32003,Guild Battle Semi-Finals Avatar Frame,Guild War Top 4
@@ -234,7 +234,7 @@ id,name,desc
 32019,Ultimate League Champion,Become the Champion in Ultimate League for 5 times
 32020,Turin's Keepsake,Turin's Character Challenge
 32021,Love Bubble,"Exclusives, League Store"
-32022,Splendid,Media Event
+32022,Splendid,FB Event
 32023,Gold Medal Athlete,Exclusives
 32024,Silver Medal Athlete,Exclusives
 32025,Bronze Medal Athlete,Exclusives
@@ -509,7 +509,7 @@ id,name,desc
 50042,2nd Anniversary Cake,Exclusives: 2nd Anniversary Puzzle
 10106,Pop Champagne!,Exclusives
 10107,Mistress of War,Exclusives
-32037,Famous Anchor,Media Event
+32037,Famous Anchor,FB Event
 32038,Summer Heat,Exclusives
 10099,Sun Glitter,Exclusives
 10108,Sea Warrior,Exclusives
@@ -961,3 +961,6 @@ id,name,desc
 10245,Chocolatier,Exclusives
 31069,Limited: Lord Dracula,Exclusives
 10246,Tangled,Exclusives
+26082,Raven Scepter,Exclusives
+27018,Raven Scepter,Exclusives
+10247,Ruler of Hearts,Exclusives

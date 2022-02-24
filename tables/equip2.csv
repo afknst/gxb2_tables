@@ -1,4 +1,13 @@
 id,name,水鏡深戀淨靈皮膚,type,pos,qlt,star,item_lv,price,base1,base2,base3,skill_id,ex_skill,group,job,act,form,suit_name,suit1,suit2,suit3,suit_skills,icon,formula,need_formula,treasure_upgrade,treasure_all_upgrade,treasure_refresh,treasure_lock_up,treasure_max,treasure_weight,artifact_exp,artifact_upg,artifact_next,artifact_pink,initial_artifact,power,partner_model,avatar,fx_index,get_ways
+7195,-1,-1,12,7,6,6,1,0,atkP#0.03,trueAtk#60,spd#4,,,,,,,,,,,,partner_avatar_5600802,,,,,,,,,,,,,,,5600802,partner_avatar_5600802,1,
+7196,-1,-1,12,7,6,6,1,0,hpP#0.04,decDmg#40,spd#4,,,,,,,,,,,,partner_avatar_5501002,,,,,,,,,,,,,,,5501002,partner_avatar_5501002,1,
+7197,-1,-1,12,7,6,6,1,0,hpP#0.04,free#50,spd#4,,,,,,,,,,,,partner_avatar_5301503,,,,,,,,,,,,,,,5301503,partner_avatar_5301503,2,
+7198,-1,-1,12,7,6,6,1,0,hpP#0.04,decDmg#40,free#50,,,,,,,,,,,,partner_avatar_5301303,,,,,,,,,,,,,,,5301303,partner_avatar_5301303,2,
+7199,-1,-1,12,7,6,6,1,0,hpP#0.04,atkP#0.03,spd#4,,,,,,,,,,,,partner_avatar_5500904,,,,,,,,,,,,,,,5500904,partner_avatar_5500904,3,
+7200,-1,-1,12,7,6,6,1,0,free#50,hpP#0.04,spd#4,,,,,,,,,,,,partner_avatar_5201603,,,,,,,,,,,,,,,5201603,partner_avatar_5201603,2,
+7201,-1,-1,12,7,6,6,1,0,hpP#0.04,decDmg#40,trueAtk#50,,,,,,,,,,,,partner_avatar_5500606,,,,,,,,,,,,,,,5500606,partner_avatar_5500606,5,
+7202,-1,-1,12,7,6,6,1,0,hpP#0.04,hit#80,decDmg#30,,,,,,,,,,,,partner_avatar_5401503,,,,,,,,,,,,,,,5401503,partner_avatar_5401503,2,
+7203,-1,-1,12,7,6,6,1,0,hpP#0.03,free#50,,,,,,,,,,,,,partner_avatar_5100104,,,,,,,,,,,,,,,5100104,partner_avatar_5100104,3,
 7204,-1,-1,12,7,6,6,1,0,atkP#0.02,hpP#0.04,decDmg#30,,,,,,,,,,,,partner_avatar_5201702,,,,,,,,,,,,,,,5201702,partner_avatar_5201702,1,
 7205,-1,-1,12,7,6,6,1,0,hpP#0.03,miss#40,,,,,,,,,,,,,partner_avatar_5101304,,,,,,,,,,,,,,,5101304,partner_avatar_5101304,3,
 7206,-1,-1,12,7,6,6,1,0,hpP#0.04,atkP#0.03,decDmg#40,,,,,,,,,,,,partner_avatar_5301504,,,,,,,,,,,,,,,5301504,partner_avatar_5301504,3,
@@ -42,3 +51,4 @@ id,name,水鏡深戀淨靈皮膚,type,pos,qlt,star,item_lv,price,base1,base2,bas
 7244,-1,-1,12,7,6,6,1,0,atkP#0.02,hpP#0.03,,,,,,,,,,,,,partner_avatar_5300202,,,,,,,,,,,,,,,5300202,partner_avatar_5300202,1,
 7245,-1,-1,12,7,6,6,1,0,atkP#0.03,hpP#0.05,spd#4,,,,,,,,,,,,partner_avatar_5501103,,,,,,,,,,,,,,,5501103,partner_avatar_5501103,2,
 7246,-1,-1,12,7,6,6,1,0,hpP#0.04,free#50,healB#0.03,,,,,,,,,,,,partner_avatar_5401504,,,,,,,,,,,,,,,5401504,partner_avatar_5401504,3,
+7247,-1,-1,12,7,6,6,1,0,hpP#0.03,atkP#0.03,spd#4,,,,,,,,,,,,partner_avatar_5201802,,,,,,,,,,,,,,,5201802,partner_avatar_5201802,1,

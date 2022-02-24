@@ -756,7 +756,7 @@ fair_arena_get_hoe_window,FairArenaGetHoeWindow,fair_arena_get_hoe_window,FAIR_A
 activity_all_stars_pray_award_got_window,ActivityAllStarsPrayAwardGotWindow,activity_all_stars_pray_award_got_window,ACTIVITY_ALL_STARS_PRAY_AWARD_GOT_WINDOW,4,-1,-1,2,,2,2,-2,1,,,,787,-1,,,,
 activity_secret_treasure_hunt_event_window,ActivitySecretTreasureHuntEventWindow,activity_secret_treasure_hunt_event_window,ACTIVITY_SECRET_TREASURE_HUNT_EVENT_WINDOW,4,-1,-1,2,,2,2,-2,1,,,,788,-1,,,,
 activity_secret_treasure_hunt_award_window,ActivitySecretTreasureHuntAwardWindow,activity_secret_treasure_hunt_award_window,ACTIVITY_SECRET_TREASURE_HUNT_AWARD_WINDOW,4,-1,-1,2,,2,2,-2,1,,,,789,-1,,,,
-all_stars_pray_alert_window,AllStarsPrayAlertWindow,all_stars_pray_alert_window,ALL_STARS_PRAY_ALERT_WINDOW,4,-1,-1,2,,2,2,-2,1,,,,790,-1,,,,
+all_stars_pray_alert_window,AllStarsPrayAlertWindow,all_stars_pray_alert_window,ALL_STARS_PRAY_ALERT_WINDOW,4,-1,-1,-1,,1,2,-2,,,,,790,-1,,groupAction,,
 one_click_clearance_window,OneClickClearanceWindow,one_click_clearance_window,ONE_CLICK_CLEARANCE_WINDOW,4,-1,-1,2,,2,2,-2,1,,,,791,-1,,,,
 time_cloister_card_plot_window,TimeCloisterCardPlotWindow,time_cloister_card_plot_window,TIME_CLOISTER_CARD_PLOT_WINDOW,4,1,-1,5,,1,1,-1,1,1,,,792,-1,,,,
 activity_growth_plan_window,ActivityGrowthPlanWindow,activity_growth_plan_window,ACTIVITY_GROWTH_PLAN_WINDOW,4,1,-1,2,,1,1,-2,1,1,,,793,-1,,,,

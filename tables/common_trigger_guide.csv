@@ -5,3 +5,8 @@ id,type,mark,obj_id,no_click,record,mask_type,offset,mask_icon,icon_offset,obj_s
 101,2,,-1,1,0,,,,,,,,,1,0|0,,,0,0,main_window,,,
 102,2,,btnStory,1,0,2,,buttoncrop_2,0|0,,,,,1,0|0,1,,0,0,main_window,,,
 103,2,,MainwinBottomBtn_3,0,0,0,,,0|0,,,,,1,0|0,1,,0,0,main_window,,,
+201,3,,dressingBtn,1,0,0,0|1,,,,,,,1,-100|0,,,0,0,dress_main_window,,,
+202,3,,tipsBtn,1,0,2,,friend_team_boss_crop5,0|1,,,,,1,200|0,1,,0,0,dress_main_window,,,
+203,3,,allBuffsBtn,1,0,2,,friend_team_boss_crop5,0|1,,,,,1,-200|0,,,0,0,dress_main_window,,,
+204,3,,tab_2,1,0,0,0|1,,,,,,,1,-100|-200,,,0,0,dress_main_window,,,
+205,3,,helpBtn,1,0,2,,friend_team_boss_crop5,0|0,,,,,1,-250|-200,,,0,0,dress_main_window,,,

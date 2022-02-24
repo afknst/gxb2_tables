@@ -454,7 +454,7 @@ act_summon_energy_cost,2000,-1
 act_summon_energy_limit,200|500,-1
 act_summon_energy_num,10|10,-1
 is_unity_initial_background_girl,27030,-1
-activity_45_hero_model,kawenbodi_pifu02_lihui01|610|-1850|0.7|5600903|7239,-1
+activity_45_hero_model,heermosi_pifu01_lihui01|500|-1655|0.7|5201802|7247,-1
 act_summon_energy_item,136,-1
 activity_chose_gift_free,10115|10121,-1
 activity_date_buydice_limit,3,-1
@@ -836,7 +836,7 @@ activity_equip_exchange_2,1168|2168|3168|4168#1268|2268|3268|4268#1368|2368|3368
 activity_equip_exchange_3,1169|2169|3169|4169#1269|2269|3269|4269#1369|2369|3369|4369#1469|2469|3469|4469#1569|2569|3569|4569,-1
 house_senpai_scale,0.7,-1
 activity_red_riding_hood_awards_2,20#2|29#1,-1
-activity_red_riding_hood_awards_3,73#10|4201017#2,-1
+activity_red_riding_hood_awards_3,73#10|4201021#2,-1
 house_senpai_shadow_scale,0.51|0.69,-1
 dress_gacha_start_time,1631232000,-1
 activity_pray_omni_pro,9|10,-1
@@ -978,7 +978,7 @@ firework_energy,30,-1
 firework_ratio_5_unlock,5|50,-1
 firework_energy_init,0,-1
 activity_276_hero_model,kaixi_pifu02_lihui01|439|-1555|0.7|5401603|7240,-1
-new_pingfen_stage_id,12|22|32|42|52|62|72|82|92|102|112|122|132|142,-1
+new_pingfen_stage_id,12|22|42|52|62|72|82|92|102|112|122|132|142,-1
 new_pingfen_level_limit,35,-1
 defense_team_save,1.5,-1
 activity_vampire_unlock,330#1,-1
@@ -990,3 +990,11 @@ shrine_time_interval,12|2,-1
 shrine_hurdle_ticket,322#15,-1
 activity_vampire_battlepass_item,327,-1
 senpai_dress_guide_point,300,-1
+arena_corss_match_people_num,1000,-1
+arena_corss_match_base_people_num,700,-1
+arena_corss_match_oldserver_span,50,-1
+arena_corss_match_midserver_span,30,-1
+arena_corss_match_newserver_scope,30,-1
+arena_corss_match_midserver_scope,200,-1
+arena_corss_match_join_server_time,7,-1
+arena_corss_match_continue_time,14,-1

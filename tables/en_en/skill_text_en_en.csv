@@ -11047,3 +11047,12 @@ Deals (7% of target\'s Maximum HP) damage (damage dealt will not surpass 2500% o
 501113,Sky Island,Blood Bats II,"When Sky Island Lord Dracula takes damage from Basic Attacks or Active Skills, she has a 20% chance to gain 1 stack of [c][e28002]Blood Bats[-][/c]."
 502112,Sky Island,Volos,"Sky Island Apate and Sky Island Michael will not revive after being defeated, but Sky Island Apate's Volos will deal damage at the end of each Round."
 503116,Sky Island,Love Residue,Active Skill of Sky Island Blair changed to target all Backline enemies.
+674901,Raven Scepter,Antique Skill,Increases damage dealt by Damage Over Time effects by 25%.
+675001,Raven Scepter,Antique Skill,Increases damage dealt by Damage Over Time effects by 40%.
+675101,Raven Scepter,Antique Skill,Increases damage dealt by Damage Over Time effects by 55%.
+675201,Raven Scepter,Antique Skill,Increases damage dealt by Damage Over Time effects by 70%.
+675301,Raven Scepter,Antique Skill,Increases damage dealt by Damage Over Time effects by 85%.
+675401,Raven Scepter,Antique Skill,Increases damage dealt by Damage Over Time effects by 100%.
+6754101,Raven Scepter,Antique Skill,"When the owner of this Antique casts any Damage Over Time effect, there is a 30% chance to afflict 1 stack of the casted Damage Over Time effect to 1 random enemy. (Number of Damage Over Time effect stacks * 20% of Attack) damage will be dealt immediately to said enemy based on how many stacks of Damage Over Time effects it has."
+6754201,Raven Scepter,Antique Skill,"When the owner of this Antique casts any Damage Over Time effect, there is a 60% chance to afflict 1 stack of the casted Damage Over Time effect to 1 random enemy. (Number of Damage Over Time effect stacks * 40% of Attack) damage will be dealt immediately to said enemy based on how many stacks of Damage Over Time effects it has."
+6754301,Raven Scepter,Antique Skill,"When the owner of this Antique casts any Damage Over Time effect, there is a 100% chance to afflict 1 stack of the casted Damage Over Time effect to 1 random enemy. (Number of Damage Over Time effect stacks * 80% of Attack) damage will be dealt immediately to said enemy based on how many stacks of Damage Over Time effects it has."
