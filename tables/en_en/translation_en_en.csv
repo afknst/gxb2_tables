@@ -5748,7 +5748,7 @@ SHRINE_NOTICE_TEXT05,Not Ranked
 SHRINE_POOL_TEXT01,Current Season
 SHRINE_POOL_TEXT02,Permanent
 SHRINE_POOL_TEXT03,Merchandise Refreshed
-SHRINE_HURDLE_HELP,"Tsuruga Grand Shrine||Realm of Trials Time Rule|Realm of Trials will occur in seasons, consisting of a challenge phase (12 days) and a rest phase (2 days).||Entry Rules|1. At the beginning of each season, the number of Invitation Cards owned will be set to 15 (max capacity).|2. There will be 3 different Trials in each season with different environmental effects in each Trial to boost your Girls in different ways. You can choose which Trial to enter manually. It will cost you 1 Invitation Card to enter a Trial.|3. Only Girls who are 10-star or above can be chosen for Trials, once a Girl is chosen to enter a Trial, her attribute and status in this Trial (including her Gear and Potential status) will not be updated by the adjustments you make in other features.||Difficulty Level|1. You will need to choose the difficulty level once you enter a Trial.|2. The enemies' attributes and points they provide after each battle will be boosted if you choose a higher difficulty level.|3. Higher difficulty levels can be unlocked as your points recorded for Trials become higher.||Trial Rules|There are 16 Stages in a Trial, where you will encounter Battle Stages, Reward Stages, Store Stages, Recover Stages, and Boss Stages in your Trials.|Battle Stage|1. Enemies spawn at random, you can tap on the icons of the enemies to check out their status. You can choose to deploy your Girls to defeat the enemies and win points.|2. Each battle of Battle Stages lasts for 15 rounds. You can win in a battle if you defeat the enemies in 15 rounds, but will lose the battle if all your Girls are defeated or the battle exceeds 15 rounds.|3. The HP of your Girls will not recover after each battle.|4. The status of the enemies will not reset after you lose a battle.|Reward Stage|1. There will be 3 random buffs available for you to choose in a Reward Stage.|2. You can also give up a chance to get a buff and receive Trial Coins instead. Trial Coins can be used in Store Stages.|Store Stage|1. Buff Purchase: there will be 3 random buffs available for you to purchase with Trial Coins.|2. Buff Upgrade: 3 random buffs you own will appear, you can choose to upgrade them with Trial Coins. Each buff can be upgraded twice in a Trial.|Recover Stage|1. You can choose to heal your Girls or revive a defeated Girl in a Recover Stage.|Boss Stage|1. You can only challenge a Boss Stage once in a Trial. You will complete the Trial after the battle.|2. The enemy in Boss Stage cannot be defeated, you can earn more points if you deal higher damage in the stage.||Points and Ranking|1. Your overall points from all 3 Trials will be recorded and ranked. Points earned for each Trial will also be ranked. Once the challenge phase ends, rewards will be sent according to rankings.||Tasks|1. Tasks will be refreshed at the start of each season.||Pond of Prayers|1. You can exchange rewards with ""Origami Cranes"" in Pond of Prayers.|2. Seasonal merchandise will be refreshed at the start of each season, but permanent merchandise will not be refreshed."
+SHRINE_HURDLE_HELP,"Tsuruga Grand Shrine||Realm of Trials Time Rule|Realm of Trials will occur in seasons, consisting of a challenge phase (12 days) and a rest phase (2 days).||Entry Rules|1. At the beginning of each season, the number of Trial Invitations owned will be set to 15 (max capacity).|2. There will be 3 different Trials in each season with different environmental effects in each Trial to boost your Girls in different ways. You can choose which Trial to enter manually. It will cost you 1 Trial Invitation to enter a Trial.|3. Only Girls who are 10-star or above can be chosen for Trials, once a Girl is chosen to enter a Trial, her attribute and status in this Trial (including her Gear and Potential status) will not be updated by the adjustments you make in other features.||Difficulty Level|1. You will need to choose the difficulty level once you enter a Trial.|2. The enemies' attributes and points they provide after each battle will be boosted if you choose a higher difficulty level.|3. Higher difficulty levels can be unlocked as your points recorded for Trials become higher.||Trial Rules|There are 16 Stages in a Trial, where you will encounter Battle Stages, Reward Stages, Store Stages, Recover Stages, and Boss Stages in your Trials.|Battle Stage|1. Enemies spawn at random, you can tap on the icons of the enemies to check out their status. You can choose to deploy your Girls to defeat the enemies and win points.|2. Each battle of Battle Stages lasts for 15 rounds. You can win in a battle if you defeat the enemies in 15 rounds, but will lose the battle if all your Girls are defeated or the battle exceeds 15 rounds.|3. The HP of your Girls will not recover after each battle.|4. The status of the enemies will not reset after you lose a battle.|Reward Stage|1. There will be 3 random buffs available for you to choose in a Reward Stage.|2. You can also give up a chance to get a buff and receive Trial Tokens instead. Trial Tokens can be used in Store Stages.|Store Stage|1. Buff Purchase: there will be 3 random buffs available for you to purchase with Trial Tokens.|2. Buff Upgrade: 3 random buffs you own will appear, you can choose to upgrade them with Trial Tokens. Each buff can be upgraded twice in a Trial.|Recover Stage|1. You can choose to heal your Girls or revive a defeated Girl in a Recover Stage.|Boss Stage|1. You can only challenge a Boss Stage once in a Trial. You will complete the Trial after the battle.|2. The enemy in Boss Stage cannot be defeated, you can earn more points if you deal higher damage in the stage.||Points and Ranking|1. Your overall points from all 3 Trials will be recorded and ranked. Points earned for each Trial will also be ranked. Once the challenge phase ends, rewards will be sent according to rankings.||Tasks|1. Tasks will be refreshed at the start of each season.||Pond of Prayers|1. You can exchange rewards with ""Origami Cranes"" in Pond of Prayers.|2. Seasonal merchandise will be refreshed at the start of each season, but permanent merchandise will not be refreshed."
 SHRINE_HURDLE_DIFFICULTY_HELP,1. You will need to choose the Difficulty Level once you enter a Trial.|2. The enemies' attributes and the points they provide after each battle will be boosted if you choose a higher Difficulty Level.|3. Higher Difficulty Levels can be unlocked as your points record for Trials becomes higher.
 SHRINE_HURDLE_TEXT01,Environment
 SHRINE_HURDLE_TEXT02,Highest Score
@@ -5759,7 +5759,7 @@ SHRINE_HURDLE_TEXT06,Recommended Difficulty Level:
 SHRINE_HURDLE_TEXT07,"This Difficult Level could be too hard for you, confirm to continue?"
 SHRINE_HURDLE_TEXT08,Details
 SHRINE_HURDLE_TEXT09,Stage
-SHRINE_HURDLE_TEXT10,Points
+SHRINE_HURDLE_TEXT10,Points: {1}
 SHRINE_HURDLE_TEXT11,Buff Obtained
 SHRINE_HURDLE_TEXT12,Battle Records
 SHRINE_HURDLE_TEXT13,Popular Girls
@@ -5788,7 +5788,7 @@ PERSON_DRESS_BUFFS_TIPS_7,No buff from Pink Outfits yet
 PERSON_DRESS_RELATED_DRESS,Related Outfits
 ACTIVITY_VAMPIRE_GAMBLE_AWARD01,Recall Reward
 ACTIVITY_VAMPIRE_GAMBLE_AWARD02,Unlock Item
-CHIME_HELP,Help Text
+CHIME_HELP,"1. On the branches of this enormous tree hang countless Chimes, artifacts that provide boosts to Girls.|2. Collect the required amount of Chime Shards to activate a Chime, and use Fantasy Dust and Fantasy Talisman to upgrade it."
 CHIME_ATLAS,Gallery
 CHIME_BAG,Shards
 CHIME_TAB1,Status
@@ -5798,19 +5798,19 @@ CHIME_TAB4,Ascend
 CHIME_BUTTON1,Charge
 CHIME_BUTTON2,Enchant
 CHIME_BUTTON3,Ascend
-CHIME_TEXT01,蘊養值
+CHIME_TEXT01,Chimelight
 CHIME_TEXT02,Base Attributes
-CHIME_TEXT03,Enchant
-CHIME_TEXT04,Ascend
+CHIME_TEXT03,Enchantment(s)
+CHIME_TEXT04,Ascension Skill(s)
 CHIME_TEXT05,Locked
-CHIME_TEXT06,蘊養值未充滿
-CHIME_TEXT07,效果未全部激活
-CHIME_TEXT08,蘊養值已滿
+CHIME_TEXT06,Maximum Chimelight isn't reached yet!
+CHIME_TEXT07,Some Enchantments haven't been unlocked!
+CHIME_TEXT08,Max. Chimelight reached
 CHIME_TEXT09,Enchanted
 CHIME_TEXT10,Ascended
-CHIME_TEXT11,蘊養值未達到{1}
-CHIME_TEXT12,是否激活效果？
-CHIME_TEXT13,是否喚醒？
+CHIME_TEXT11,Hasn't reached {1} Chimelight yet!
+CHIME_TEXT12,Do you confirm to unlock this Enchantment?
+CHIME_TEXT13,Do you confirm to ascend this Chime?
 CHIME_TEXT14,Unlockable
 CHIME_TEXT15,Please select the shard(s) you want to Disassemble
 TIME_CLOISTER_TEXT87,"Consume ""{1}"" to upgrade the technologies in Planetarium"
@@ -5819,3 +5819,16 @@ ACTIVITY_JACKPOT_WARN_BUTTON01,"No, I don't"
 ACTIVITY_JACKPOT_WARN_BUTTON02,"Yes, I do"
 MAIN_PLOT_NEW,Skip
 NEWBEE_10GACHA_HELP05,"1. During the event, you can purchase a 10x draw chance of Beginner Capsule on this page.|2. You can use the chance by tapping the capsule button on this page to launch a special 10x Capsule draw.|3. You are guaranteed to acquire 8 Elite 5-star Girls and 2 Normal 5-star Girls from this special 10x Capsule draw. You can view the detailed rate to acquire each Girl by tapping the magnifying glass button on the event page.|4. Once the event ends, unused chances (after purchase) for Beginner Capsule draw will be exchanged to Girls shards based on the drop rate and automatically sent via Mail."
+CHIME_TEXT16,Owned Chime Shards
+SHRINE_HURDLE_TEXT27,Starts in: {1}
+SHRINE_HURDLE_TEXT28,Reached Max Level!
+SHRINE_HURDLE_TEXT29,Insufficient Trial Tokens
+SHRINE_HURDLE_TEXT30,Please select
+SHRINE_HURDLE_TEXT31,Boost Obtained
+SHRINE_HURDLE_TEXT32,Purchase Complete
+SHRINE_HURDLE_TEXT33,Upgrade Complete
+SHRINE_HURDLE_TEXT34,Recovered
+TIME_CLOISTER_TEXT88,"Provide extra Courage, Charisma, and Knowledge according to your current points for Challenge Card and Challenge Stage battles in your current World of Time"
+TIME_CLOISTER_TEXT89,Current Buff
+TIME_CLOISTER_TEXT90,Current Points
+TIME_CLOISTER_TEXT91,Buff Details

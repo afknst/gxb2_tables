@@ -1776,3 +1776,7 @@ id,type,next_texiao,res_name,res_path,texiao_name,texiao_is_pos,target_pos,is_lo
 1781,2,,heermosi_pifu01_hurt01,assets/Effects/hero/heermosi,,,,,,0.7,5,,,,1,,,,,,,,,,,,,
 1782,2,,heermosi_pifu01_hurt01,assets/Effects/hero/heermosi,texiao02,,,,,0.7,,,,,1,1,,,,,,,,,,,,
 1783,2,,heermosi_pifu01_hurt02,assets/Effects/hero/heermosi,,,,,,0.7,31,,,,,,,,,,,,,,,,,
+1784,2,,monika_pifu04_hurt01,assets/Effects/hero/monika,,,,,,0.7,1,,,,,,,,,,,,,,,,,
+1785,2,,monika_pifu04_hurt02,assets/Effects/hero/monika,texiao01,,,,,0.7,67,,,,1,,,,,,,,,,,,,
+1786,2,,monika_pifu04_hurt02,assets/Effects/hero/monika,texiao02,,,,,0.7,,,,,1,1,,,,,,,,,,,,
+1787,3,,monika_pifu04_unit01,assets/Effects/hero/monika,,,,,,0.7,,,,,,,,,,,,,,,,,,

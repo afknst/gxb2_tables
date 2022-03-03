@@ -59,7 +59,7 @@ gacha_ensure_partner,51017#651024#751017,-1
 gacha_ensure_partner_handbook,51017#651024#751017,-1
 daily_mail_awards_gacha,2,-1
 daily_mail_awards_tree,3|42,-1
-daily_mail_awards_gamble,18|37|46,-1
+daily_mail_awards_gamble,18|37|45,-1
 daily_mail_awards_drift,30|6|40|19,-1
 daily_mail_awards_week,18|22,-1
 daily_mail_awards_arena,30|8|19,-1
@@ -477,7 +477,7 @@ comic_comment_length_limit_ko_kr,12|120,-1
 activity_letter,36#10|2#1000|940002#50,-1
 activity_birthday_colour_awards,1#18000|1#16000,-1
 activity_birthday_colour_limit,100000,-1
-activity_44_hero_model,maya_pifu02_lihui01|532|-2099|0.7|5501103|7245,-1
+activity_44_hero_model,monika_pifu04_lihui01|422|-1746|0.8|5201705|7248,-1
 activity_birthday_colour_cost,147#1,-1
 activity_birthday_cake_cost,148#1,-1
 activity_birthday_cake_rounds_limit,25,-1
@@ -998,3 +998,5 @@ arena_corss_match_newserver_scope,30,-1
 arena_corss_match_midserver_scope,200,-1
 arena_corss_match_join_server_time,7,-1
 arena_corss_match_continue_time,14,-1
+arena_corss_match_start_time,1648080000,-1
+arena_corss_match_rest_time,240,-1

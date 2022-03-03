@@ -280,10 +280,10 @@ def print_tables():
 
 
 if __name__ == "__main__":
-    print_pets(_lang="en_en", _lua=False)
-    print_equips(_lang="en_en", _lua=False)
-    print_cores(_lang="en_en", _lua=False)
-    print_10_girls(_lang="en_en", _lua=False)
+    # print_pets(_lang="en_en", _lua=False)
+    # print_equips(_lang="en_en", _lua=False)
+    # print_cores(_lang="en_en", _lua=False)
+    # print_10_girls(_lang="en_en", _lua=False)
     # print_lab()
     # trans_cores()
     # print(all_girls(_lang="en_en"))
@@ -306,5 +306,5 @@ if __name__ == "__main__":
 
     # print_boxes()
 
-    # python csv2lua.py > ../gxb2_battle/misc/tables.lua
-    # print_tables()
+    # python csv2lua.py > ../gxb2_backend/tables.lua
+    print_tables()

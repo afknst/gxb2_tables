@@ -40,7 +40,7 @@ id,picture,picture_small_size,type,group,name,unlock_type,unlock_value,unlock_de
 39,mapBg_christ,mapBg_christ_small,1,5,-1,1,1,-1,,,2000039,,,,,,0
 40,login_chilian,login_chilian_small,2,5,-1,11,1,-1,2#300,,2000040,login_chilian,texiao01,login_chilian_bg,-410|640,0|0,0
 41,bg_sport_festival,bg_sport_festival_small,2,4,-1,11,1,-1,2#300,,2000041,,,,,,0
-42,login_2nd_birthday_cake,login_2nd_birthday_cake_small,2,5,-1,12,2000042,-1,,,2000042,login_2nd_birthday_cake,texiao01,login_2nd_birthday_cake_bg,-410|640,0|0,0
+42,login_2nd_birthday_cake,login_2nd_birthday_cake_small,2,5,-1,11,1,-1,2#300,,2000042,login_2nd_birthday_cake,texiao01,login_2nd_birthday_cake_bg,-410|640,0|0,0
 43,date_scene,date_scene_small,2,4,-1,11,1,-1,2#300,,2000043,datescene,texiao01,datescene_bg,-410|640,0|0,0
 44,college_scene1,college_scene1_small,2,3,-1,13,1#45,-1,,,2000044,,,,,,0
 45,college_scene2,college_scene2_small,2,3,-1,13,2#45,-1,,,2000045,,,,,,0

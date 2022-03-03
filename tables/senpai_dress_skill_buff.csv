@@ -22,7 +22,7 @@ id,type,desc,has_tips,delay,show_time,text,icon,scale,qlt,related_dress
 21,2,-1,1,,1,-1,icon_288,0.8,6,19
 22,1,-1,1,,1,-1,time_cloister_card_supply,0.35,6,33
 23,3,-1,1,,1,-1,,,,
-24,3,-1,1,,2,-1,guide_icon_19,1,5,28
+24,3,-1,1,,2,-1,guide_icon_19,0.6,5,28
 25,3,-1,1,2,1.5,-1,icon_198,0.8,5,30
 26,2,-1,,,,,dress_buff_26,1,5,29
 27,1,-1,1,,1,-1,friend_team_boss_head8,0.5,4,23

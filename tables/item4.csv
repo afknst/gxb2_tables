@@ -1,4 +1,6 @@
 id,name,brief,desc,name1,type,type_config,qlt,group,is_economy,stack_limit,level,icon,light_effect,gift_id,is_auto_open,equip,pub_scroll_type,partner_cost,treasure_cost,get_ways,go_window,getway_item,dropbox_show,is_sell,sell_price,summon_id,show_in_bag,show_bag_type,filter_type,show_in_forge,skin_id,collection_id,para,avatar_frame_effect,effect_mask,dress_id
+3200625,-1,-1,-1,,31,,2,,0,,1,icon_dress_1010501,,,,,,,,,,,,,,,0,,,,,,,,,101105
+3200631,-1,-1,-1,,31,,2,,0,,1,icon_dress_1010601,,,,,,,,,,,,,,,0,,,,,,,,,101106
 3200637,-1,-1,-1,,31,,2,,0,,1,icon_dress_1010701,,,,,,,,,,,,,,,0,,,,,,,,,101107
 3200643,-1,-1,-1,,31,,2,,0,,1,icon_dress_1010801,,,,,,,,,,,,,,,0,,,,,,,,,101108
 3200649,-1,-1,-1,,31,,2,,0,,1,icon_dress_1010901,,,,,,,,,,,,,,,0,,,,,,,,,101109

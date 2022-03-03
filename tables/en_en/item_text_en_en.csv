@@ -4936,7 +4936,7 @@ This book was only an experimental product that was created with well-known stor
 27246,Tangled,Skins,Tangled skin of Holly
 4203009,Customized Resource Chest (Regular),Customized Chest,"You can choose one of the rewards after opening this chest: 「Coin*5M Exp Juice*5M, Lunch Box*3500, Crystal Chisel*3500」"
 4205005,Customized File Chest,Customized Chest,"You can choose one of the rewards after opening this chest: 「Standard File*10000, Exclusive File*1000」"
-6749,Raven Scepter,Atique,
+6749,Raven Scepter,Antique,
 6750,Raven Scepter,Antique,
 6751,Raven Scepter,Antique,
 6752,Raven Scepter,Antique,
@@ -4948,12 +4948,19 @@ This book was only an experimental product that was created with well-known stor
 4402008,Customized Orange Antique Chest,Customized Chest,You can select to get an Orange Antique for opening this chest.(Tap the magnifying glass in the item for the option details; The options here won't be updated)
 7247,Ruler of Hearts,Skins,Ruler of Hearts skin of Hermes
 27247,Ruler of Hearts,Skins,Ruler of Hearts skin of Hermes
-982001,櫻之玉振碎片,玉振碎片,用於解鎖和培養櫻之玉振
-983001,喵之玉振碎片,玉振碎片,用於解鎖和培養喵之玉振
-984001,幽浮之玉振碎片,玉振碎片,用於解鎖和培養幽浮之玉振
-984002,正凜之玉振碎片,玉振碎片,用於解鎖和培養正凜之玉振
-984003,無拘之玉振碎片,玉振碎片,用於解鎖和培養無拘之玉振
-984004,明慧之玉振碎片,玉振碎片,用於解鎖和培養明慧之玉振
-985001,沉淵之玉振碎片,玉振碎片,用於解鎖和培養沉淵之玉振
-985002,拂曉之玉振碎片,玉振碎片,用於解鎖和培養拂曉之玉振
-4201021,Customized Resource Chest,Customized Chest,"You can choose one of the rewards after opening this chest:「Lunch Box*4000, Crystal Chisel*4000, Servant Cookie*2400, Servant Crystal*150」"
+982001,Shard of Cherries,Chime Shard,Used to activate and upgrade Chime of Cherries
+983001,Shard of Kittens,Chime Shard,Used to activate and upgrade Chime of Kittens
+984001,Shard of the Spectre,Chime Shard,Used to activate and upgrade Chime of the Spectre
+984002,Shard of Order,Chime Shard,Used to activate and upgrade Chime of Order
+984003,Shard of Freedom,Chime Shard,Used to activate and upgrade Chime of Freedom
+984004,Shard of Faeries,Chime Shard,Used to activate and upgrade Chime of Faeries
+985001,Shard of the Abyss,Chime Shard,Used to activate and upgrade Chime of the Abyss
+985002,Shard of the Heavens,Chime Shard,Used to activate and upgrade Chime of the Heavens
+4201021,Customized Resource Chest,Customized Chest,"You can choose one of the rewards after opening this chest:「Lunch Box*4000, Crystal Chisel*4000, Servant Cookie*2400, Servant Crystal*150, Guild Coin*6000」"
+7248,Nutcracker Corp,Skins,Nutcracker Corp skin of Monica
+27248,Nutcracker Corp,Skins,Nutcracker Corp skin of Monica
+322,Trial Invitation,Realm of Trials pass,Used to start Realm of Trials
+323,Origami Crane,Currency,Used to exchange items in Pond of Prayers
+324,Trial Token,Currency,Used to purchase and upgrade buffs in Realm of Trials
+325,Fantasy Dust,Material,Used to upgrade Chimes in Tree of Chimes
+326,Fantasy Talisman,Material,Used to upgrade Chimes in Tree of Chimes
