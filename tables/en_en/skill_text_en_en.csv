@@ -3381,7 +3381,7 @@ Magic sniper rifle switches to Burst Mode and shoots in the form of high compres
 Mark effect, reduces target\'s Block Rate by 25%, and Damage over Time taken by target will increase by 50%. Targets may be affected with 2 Disintegration marks simultaneously.
 [c][01a310]Bleed:[-][/c]
 A Damage over Time. Damage is dealt once when bleed is inflicted and during the period of effect, damage will be dealt at the beginning of each round."
-12701,Illusion Mastermind,Illusion of Fantasies,"Illusion Mastermind converges his power and deals damage against all the enemies; the targets with more than 80% of their maximum Hp will suffer extra damage that equals to 10% of their maximum Hp; Has a 100% chance to Stun 2 enemies with the highest Attack attribute for 2 rounds; Bleed the enemies with lower than 30% of their maximum Hp for 2 rounds.\n[c][01a310]Bleed:[-][/c]\nA damage over time. Damage is dealt once when bleed is inflicted and during the period of effect, damage will be dealt at the beginning of each round."
+12701,Illusion Mastermind,Illusion of Fantasies,"Illusion Mastermind converges his power and deals damage against all the enemies; the targets with more than 80% of their maximum HP will suffer extra damage that equals to 10% of their maximum HP; Has a 100% chance to Stun 2 enemies with the highest Attack attribute for 2 rounds; Bleed the enemies with lower than 30% of their maximum HP for 2 rounds.\n[c][01a310]Bleed:[-][/c]\nA damage over time. Damage is dealt once when bleed is inflicted and during the period of effect, damage will be dealt at the beginning of each round."
 12702,Illusion Mastermind,Basic Attack,Illusion Mastermind can target 2 random enemies with his Basic Attack. He also reduces the Energy of the targets by 100 at the same time.
 12703,Illusion Mastermind,Remove Threats,Illusion Mastermind has a good tactic against enemies that can threaten him the most. At the end of Each round he will [c][e28002]Banish[-][/c] 1 enemy with the highest Energy.\n[c][e28002]Banish[-][/c]\nBanished targets will be removed from the battle for 1 round and will return to the Battle in the next round with the same status the time he/she got Banished.
 12704,Illusion Mastermind,Pain for Pain,"Illusion Mastermind Bleeds his enemies for 2 rounds when they cast their Active skills.\n[c][01a310]Bleed:[-][/c]\nA damage over time. Damage is dealt once when bleed is inflicted and during the period of effect, damage will be dealt at the beginning of each round."
@@ -11056,3 +11056,357 @@ Deals (7% of target\'s Maximum HP) damage (damage dealt will not surpass 2500% o
 6754101,Raven Scepter,Antique Skill,"When the owner of this Antique casts any Damage Over Time effect, there is a 30% chance to afflict 1 stack of the casted Damage Over Time effect to 1 random enemy. (Number of Damage Over Time effect stacks * 20% of Attack) damage will be dealt immediately to said enemy based on how many stacks of Damage Over Time effects it has."
 6754201,Raven Scepter,Antique Skill,"When the owner of this Antique casts any Damage Over Time effect, there is a 60% chance to afflict 1 stack of the casted Damage Over Time effect to 1 random enemy. (Number of Damage Over Time effect stacks * 40% of Attack) damage will be dealt immediately to said enemy based on how many stacks of Damage Over Time effects it has."
 6754301,Raven Scepter,Antique Skill,"When the owner of this Antique casts any Damage Over Time effect, there is a 100% chance to afflict 1 stack of the casted Damage Over Time effect to 1 random enemy. (Number of Damage Over Time effect stacks * 80% of Attack) damage will be dealt immediately to said enemy based on how many stacks of Damage Over Time effects it has."
+5301800,Cygmar,Basic Attack,Basic Attack
+65302500,Cygmar,Basic Attack,Basic Attack
+75301800,Cygmar,Basic Attack,Basic Attack
+5301801,Cygmar,Perspective Change,"
+The flaw in this string of data will be your downfall.
+
+Deals (100% of Attack) damage to all enemies and has a 15% chance to [c][01a310]stun[-][/c] the targets for 2 Rounds.
+Deals (10% of target\'s Maximum HP) extra damage (damage dealt will not surpass 1500% of Cygmar\'s Attack) to 1 random enemy, and has 100% chance to [c][01a310]stun[-][/c] the target for 2 Rounds.
+
+[c][01a310]Stun:[-][/c]
+A Control Effect. 
+During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
+65302501,Cygmar,Perspective Change,"
+The flaw in this string of data will be your downfall.
+
+Deals (200% of Attack) damage to all enemies and has a 20% chance to [c][01a310]stun[-][/c] the targets for 2 Rounds.
+Deals (15% of target\'s Maximum HP) extra damage (damage dealt will not surpass 1500% of Cygmar\'s Attack) to 1 random enemy, and has 100% chance to [c][01a310]stun[-][/c] the target for 2 Rounds.
+
+[c][01a310]Stun:[-][/c]
+A Control Effect. 
+During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
+75301801,Cygmar,Perspective Change,"
+The flaw in this string of data will be your downfall.
+
+Deals (400% of Attack) damage to all enemies and has a 25% chance to [c][01a310]stun[-][/c] the targets for 2 Rounds.
+Deals (20% of target\'s Maximum HP) extra damage (damage dealt will not surpass 1500% of Cygmar\'s Attack) to 1 random enemy, and has 100% chance to [c][01a310]stun[-][/c] the target for 2 Rounds.
+
+[c][01a310]Stun:[-][/c]
+A Control Effect. 
+During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
+5301802,Cygmar,Digital Pill,"You can choose to stay in this parody of reality, or face the cruel hard truth.\n\nIncreases Cygmar's HP by 20%, Attack by 20%, Control Immunity by 10%, and Speed by 30."
+65302502,Cygmar,Digital Pill,"You can choose to stay in this parody of reality, or face the cruel hard truth.\n\nIncreases Cygmar's HP by 25%, Attack by 25%, Control Immunity by 15%, and Speed by 40."
+65302512,Cygmar,Digital Pill,"You can choose to stay in this parody of reality, or face the cruel hard truth.\n\nIncreases Cygmar's HP by 30%, Attack by 30%, Control Immunity by 20%, and Speed by 50."
+75301802,Cygmar,Digital Pill,"You can choose to stay in this parody of reality, or face the cruel hard truth.\n\nIncreases Cygmar's HP by 30%, Attack by 30%, Control Immunity by 20%, and Speed by 50."
+5301803,Cygmar,Shifting Reality,"
+Those that don\'t adapt in this ever-changing cube of reality crumbles away.
+
+Basic Attack changed to deal (10% of target\'s Maximum HP) damage (damage dealt will not surpass 1500% of Cygmar\'s Attack) to 2 random enemies, has a 40% chance to [c][01a310]stun[-][/c] the targets for 2 Rounds, and casts 1 stack of [c][e28002]Matric Reinforcement[-][/c] that lasts for 2 Rounds to all Backline allies.
+Whenever Cygmar afflicts [c][01a310]stun[-][/c] successfully, she will gain 1 stack of [c][e28002]Cubic Stronghold[-][/c] that lasts for 2 Rounds and recover (5% of Cygmar\'s Maximum HP) HP.
+
+[c][01a310]Stun:[-][/c]
+A Control Effect.
+During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack.
+
+[c][e28002]Matric Reinforcement[-][/c]:
+A Skill Effect that can be stacked to at most 5 stacks.
+Every stack grants the owner 3% Control Immunity and 2% Precision.
+
+[c][e28002]Cubic Stronghold[-][/c]:
+A Skill Effect that can be stacked to at most 10 stacks.
+When the owner is healed, every stack of [c][e28002]Cubic Stronghold[-][/c] grants a [c][e28002]Magick Barrier[-][/c] with (2% of HP healed) BP.
+
+[c][e28002]Magick Barrier[-][/c]:
+A Skill Effect that can stack.
+Nullifies all incoming damage for the owner. The Magick Barrier\'s durability depends on how many Barrier Points (BP) it has: 1 BP nullifies 1 damage. When the Magick Barrier\'s BP reaches 0, it will shatter and disappear. A Magick Barrier can have up to (100% of owner\'s maximum HP) BP."
+65302503,Cygmar,Shifting Reality,"
+Those that don\'t adapt in this ever-changing cube of reality crumbles away.
+
+Basic Attack changed to deal (15% of target\'s Maximum HP) damage (damage dealt will not surpass 1500% of Cygmar\'s Attack) to 2 random enemies, has a 40% chance to [c][01a310]stun[-][/c] the targets for 2 Rounds, and casts 1 stack of [c][e28002]Matric Reinforcement[-][/c] that lasts for 2 Rounds to all Backline allies.
+Whenever Cygmar afflicts [c][01a310]stun[-][/c] successfully, she will gain 1 stack of [c][e28002]Cubic Stronghold[-][/c] that lasts for 2 Rounds and recover (5% of Cygmar\'s Maximum HP) HP.
+
+[c][01a310]Stun:[-][/c]
+A Control Effect.
+During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack.
+
+[c][e28002]Matric Reinforcement[-][/c]:
+A Skill Effect that can be stacked to at most 5 stacks.
+Every stack grants the owner 6% Control Immunity and 3% Precision.
+
+[c][e28002]Cubic Stronghold[-][/c]:
+A Skill Effect that can be stacked to at most 10 stacks.
+When the owner is healed, every stack of [c][e28002]Cubic Stronghold[-][/c] grants a [c][e28002]Magick Barrier[-][/c] with (4% of HP healed) BP.
+
+[c][e28002]Magick Barrier[-][/c]:
+A Skill Effect that can stack.
+Nullifies all incoming damage for the owner. The Magick Barrier\'s durability depends on how many Barrier Points (BP) it has: 1 BP nullifies 1 damage. When the Magick Barrier\'s BP reaches 0, it will shatter and disappear. A Magick Barrier can have up to (100% of owner\'s maximum HP) BP."
+65302513,Cygmar,Shifting Reality,"
+Those that don\'t adapt in this ever-changing cube of reality crumbles away.
+
+Basic Attack changed to deal (20% of target\'s Maximum HP) damage (damage dealt will not surpass 1500% of Cygmar\'s Attack) to 2 random enemies, has a 40% chance to [c][01a310]stun[-][/c] the targets for 2 Rounds, and casts 1 stack of [c][e28002]Matric Reinforcement[-][/c] that lasts for 2 Rounds to all Backline allies.
+Whenever Cygmar afflicts [c][01a310]stun[-][/c] successfully, she will gain 1 stack of [c][e28002]Cubic Stronghold[-][/c] that lasts for 2 Rounds and recover (5% of Cygmar\'s Maximum HP) HP.
+
+[c][01a310]Stun:[-][/c]
+A Control Effect.
+During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack.
+
+[c][e28002]Matric Reinforcement[-][/c]:
+A Skill Effect that can be stacked to at most 5 stacks.
+Every stack grants the owner 10% Control Immunity and 4% Precision.
+
+[c][e28002]Cubic Stronghold[-][/c]:
+A Skill Effect that can be stacked to at most 10 stacks.
+When the owner is healed, every stack of [c][e28002]Cubic Stronghold[-][/c] grants a [c][e28002]Magick Barrier[-][/c] with (8% of HP healed) BP.
+
+[c][e28002]Magick Barrier[-][/c]:
+A Skill Effect that can stack.
+Nullifies all incoming damage for the owner. The Magick Barrier\'s durability depends on how many Barrier Points (BP) it has: 1 BP nullifies 1 damage. When the Magick Barrier\'s BP reaches 0, it will shatter and disappear. A Magick Barrier can have up to (100% of owner\'s maximum HP) BP."
+75301803,Cygmar,Shifting Reality,"
+Those that don\'t adapt in this ever-changing cube of reality crumbles away.
+
+Basic Attack changed to deal (20% of target\'s Maximum HP) damage (damage dealt will not surpass 1500% of Cygmar\'s Attack) to 2 random enemies, has a 40% chance to [c][01a310]stun[-][/c] the targets for 2 Rounds, and casts 1 stack of [c][e28002]Matric Reinforcement[-][/c] that lasts for 2 Rounds to all Backline allies.
+Whenever Cygmar afflicts [c][01a310]stun[-][/c] successfully, she will gain 1 stack of [c][e28002]Cubic Stronghold[-][/c] that lasts for 2 Rounds and recover (5% of Cygmar\'s Maximum HP) HP.
+
+[c][01a310]Stun:[-][/c]
+A Control Effect.
+During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack.
+
+[c][e28002]Matric Reinforcement[-][/c]:
+A Skill Effect that can be stacked to at most 5 stacks.
+Every stack grants the owner 10% Control Immunity and 4% Precision.
+
+[c][e28002]Cubic Stronghold[-][/c]:
+A Skill Effect that can be stacked to at most 10 stacks.
+When the owner is healed, every stack of [c][e28002]Cubic Stronghold[-][/c] grants a [c][e28002]Magick Barrier[-][/c] with (8% of HP healed) BP.
+
+[c][e28002]Magick Barrier[-][/c]:
+A Skill Effect that can stack.
+Nullifies all incoming damage for the owner. The Magick Barrier\'s durability depends on how many Barrier Points (BP) it has: 1 BP nullifies 1 damage. When the Magick Barrier\'s BP reaches 0, it will shatter and disappear. A Magick Barrier can have up to (100% of owner\'s maximum HP) BP."
+5301804,Cygmar,Data Matrix,"
+This matrix offers you its protection.
+
+At the start of the battle, Cygmar casts 2 stacks of [c][e28002]Matric Reinforcement[-][/c] that last for 2 Rounds to all Allies and 1 extra stack of [c][e28002]Matric Reinforcement[-][/c] that lasts for 2 Rounds to Backline Allies.
+When Cygmar\'s HP drops below 30% for the first time in the battle, she will recover (10% of Cygmar\'s Maximum HP) immediately and heal herself for (10% of Cygmar\'s Maximum HP) at the end of every Round for 5 Rounds.
+
+[c][e28002]Matric Reinforcement[-][/c]:
+A Skill Effect that can be stacked to at most 5 stacks.
+Every stack grants the owner 3% Control Immunity and 2% Precision."
+65302504,Cygmar,Data Matrix,"
+This matrix offers you its protection.
+
+At the start of the battle, Cygmar casts 2 stacks of [c][e28002]Matric Reinforcement[-][/c] that last for 2 Rounds to all Allies and 1 extra stack of [c][e28002]Matric Reinforcement[-][/c] that lasts for 2 Rounds to Backline Allies.
+When Cygmar\'s HP drops below 30% for the first time in the battle, she will recover (15% of Cygmar\'s Maximum HP) immediately and heal herself for (10% of Cygmar\'s Maximum HP) at the end of every Round for 5 Rounds.
+
+[c][e28002]Matric Reinforcement[-][/c]:
+A Skill Effect that can be stacked to at most 5 stacks.
+Every stack grants the owner 6% Control Immunity and 3% Precision."
+65302514,Cygmar,Data Matrix,"
+This matrix offers you its protection.
+
+At the start of the battle, Cygmar casts 2 stacks of [c][e28002]Matric Reinforcement[-][/c] that last for 2 Rounds to all Allies and 1 extra stack of [c][e28002]Matric Reinforcement[-][/c] that lasts for 2 Rounds to Backline Allies.
+When Cygmar\'s HP drops below 30% for the first time in the battle, she will recover (20% of Cygmar\'s Maximum HP) immediately and heal herself for (10% of Cygmar\'s Maximum HP) at the end of every Round for 5 Rounds.
+
+[c][e28002]Matric Reinforcement[-][/c]:
+A Skill Effect that can be stacked to at most 5 stacks.
+Every stack grants the owner 10% Control Immunity and 4% Precision."
+75301804,Cygmar,Data Matrix,"
+This matrix offers you its protection.
+
+At the start of the battle, Cygmar casts 2 stacks of [c][e28002]Matric Reinforcement[-][/c] that last for 2 Rounds to all Allies and 1 extra stack of [c][e28002]Matric Reinforcement[-][/c] that lasts for 2 Rounds to Backline Allies.
+When Cygmar\'s HP drops below 30% for the first time in the battle, she will recover (20% of Cygmar\'s Maximum HP) immediately and heal herself for (10% of Cygmar\'s Maximum HP) at the end of every Round for 5 Rounds.
+
+[c][e28002]Matric Reinforcement[-][/c]:
+A Skill Effect that can be stacked to at most 5 stacks.
+Every stack grants the owner 10% Control Immunity and 4% Precision."
+753018011,Cygmar,Perspective Change,"
+The flaw in this string of data will be your downfall.
+
+Deals (408% of Attack) damage to all enemies and has a 25% chance to [c][01a310]stun[-][/c] the targets for 2 Rounds.
+Deals (20% of target\'s Maximum HP) extra damage (damage dealt will not surpass 1500% of Cygmar\'s Attack) to 1 random enemy, and has 100% chance to [c][01a310]stun[-][/c] the target for 2 Rounds.
+
+[c][01a310]Stun:[-][/c]
+A Control Effect. 
+During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
+753018012,Cygmar,Perspective Change,"
+The flaw in this string of data will be your downfall.
+
+Deals (416% of Attack) damage to all enemies and has a 25% chance to [c][01a310]stun[-][/c] the targets for 2 Rounds.
+Deals (20% of target\'s Maximum HP) extra damage (damage dealt will not surpass 1500% of Cygmar\'s Attack) to 1 random enemy, and has 100% chance to [c][01a310]stun[-][/c] the target for 2 Rounds.
+
+[c][01a310]Stun:[-][/c]
+A Control Effect. 
+During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
+753018013,Cygmar,Perspective Change,"
+The flaw in this string of data will be your downfall.
+
+Deals (424% of Attack) damage to all enemies and has a 27% chance to [c][01a310]stun[-][/c] the targets for 2 Rounds.
+Deals (20% of target\'s Maximum HP) extra damage (damage dealt will not surpass 1500% of Cygmar\'s Attack) to 1 random enemy, and has 100% chance to [c][01a310]stun[-][/c] the target for 2 Rounds.
+
+[c][01a310]Stun:[-][/c]
+A Control Effect. 
+During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
+753018014,Cygmar,Perspective Change,"
+The flaw in this string of data will be your downfall.
+
+Deals (432% of Attack) damage to all enemies and has a 27% chance to [c][01a310]stun[-][/c] the targets for 2 Rounds.
+Deals (20% of target\'s Maximum HP) extra damage (damage dealt will not surpass 1500% of Cygmar\'s Attack) to 1 random enemy, and has 100% chance to [c][01a310]stun[-][/c] the target for 2 Rounds.
+
+[c][01a310]Stun:[-][/c]
+A Control Effect. 
+During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
+753018015,Cygmar,Perspective Change,"
+The flaw in this string of data will be your downfall.
+
+Deals (440% of Attack) damage to all enemies and has a 30% chance to [c][01a310]stun[-][/c] the targets for 2 Rounds.
+Deals (20% of target\'s Maximum HP) extra damage (damage dealt will not surpass 1500% of Cygmar\'s Attack) to 1 random enemy, and has 100% chance to [c][01a310]stun[-][/c] the target for 2 Rounds.
+
+[c][01a310]Stun:[-][/c]
+A Control Effect. 
+During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack."
+753018021,Cygmar,Digital Pill,"You can choose to stay in this parody of reality, or face the cruel hard truth.\n\nIncreases Cygmar's HP by 30%, Attack by 30%, Control Immunity by 20%, and Speed by 52."
+753018022,Cygmar,Digital Pill,"You can choose to stay in this parody of reality, or face the cruel hard truth.\n\nIncreases Cygmar's HP by 30%, Attack by 30%, Control Immunity by 20%, and Speed by 54."
+753018023,Cygmar,Digital Pill,"You can choose to stay in this parody of reality, or face the cruel hard truth.\n\nIncreases Cygmar's HP by 30%, Attack by 30%, Control Immunity by 20%, and Speed by 56."
+753018024,Cygmar,Digital Pill,"You can choose to stay in this parody of reality, or face the cruel hard truth.\n\nIncreases Cygmar's HP by 30%, Attack by 30%, Control Immunity by 20%, and Speed by 58."
+753018025,Cygmar,Digital Pill,"You can choose to stay in this parody of reality, or face the cruel hard truth.\n\nIncreases Cygmar's HP by 33%, Attack by 33%, Control Immunity by 20%, and Speed by 60."
+753018031,Cygmar,Shifting Reality,"
+Those that don\'t adapt in this ever-changing cube of reality crumbles away.
+
+Basic Attack changed to deal (20% of target\'s Maximum HP) damage (damage dealt will not surpass 1500% of Cygmar\'s Attack) to 2 random enemies, has a 42% chance to [c][01a310]stun[-][/c] the targets for 2 Rounds, and casts 1 stack of [c][e28002]Matric Reinforcement[-][/c] that lasts for 2 Rounds to all Backline allies.
+Whenever Cygmar afflicts [c][01a310]stun[-][/c] successfully, she will gain 1 stack of [c][e28002]Cubic Stronghold[-][/c] that lasts for 2 Rounds and recover (5% of Cygmar\'s Maximum HP) HP.
+
+[c][01a310]Stun:[-][/c]
+A Control Effect.
+During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack.
+
+[c][e28002]Matric Reinforcement[-][/c]:
+A Skill Effect that can be stacked to at most 5 stacks.
+Every stack grants the owner 10% Control Immunity and 4% Precision.
+
+[c][e28002]Cubic Stronghold[-][/c]:
+A Skill Effect that can be stacked to at most 10 stacks.
+When the owner is healed, every stack of [c][e28002]Cubic Stronghold[-][/c] grants a [c][e28002]Magick Barrier[-][/c] with (8% of HP healed) BP.
+
+[c][e28002]Magick Barrier[-][/c]:
+A Skill Effect that can stack.
+Nullifies all incoming damage for the owner. The Magick Barrier\'s durability depends on how many Barrier Points (BP) it has: 1 BP nullifies 1 damage. When the Magick Barrier\'s BP reaches 0, it will shatter and disappear. A Magick Barrier can have up to (100% of owner\'s maximum HP) BP."
+753018032,Cygmar,Shifting Reality,"
+Those that don\'t adapt in this ever-changing cube of reality crumbles away.
+
+Basic Attack changed to deal (20% of target\'s Maximum HP) damage (damage dealt will not surpass 1500% of Cygmar\'s Attack) to 2 random enemies, has a 44% chance to [c][01a310]stun[-][/c] the targets for 2 Rounds, and casts 1 stack of [c][e28002]Matric Reinforcement[-][/c] that lasts for 2 Rounds to all Backline allies.
+Whenever Cygmar afflicts [c][01a310]stun[-][/c] successfully, she will gain 1 stack of [c][e28002]Cubic Stronghold[-][/c] that lasts for 2 Rounds and recover (5% of Cygmar\'s Maximum HP) HP.
+
+[c][01a310]Stun:[-][/c]
+A Control Effect.
+During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack.
+
+[c][e28002]Matric Reinforcement[-][/c]:
+A Skill Effect that can be stacked to at most 5 stacks.
+Every stack grants the owner 10% Control Immunity and 4% Precision.
+
+[c][e28002]Cubic Stronghold[-][/c]:
+A Skill Effect that can be stacked to at most 10 stacks.
+When the owner is healed, every stack of [c][e28002]Cubic Stronghold[-][/c] grants a [c][e28002]Magick Barrier[-][/c] with (8% of HP healed) BP.
+
+[c][e28002]Magick Barrier[-][/c]:
+A Skill Effect that can stack.
+Nullifies all incoming damage for the owner. The Magick Barrier\'s durability depends on how many Barrier Points (BP) it has: 1 BP nullifies 1 damage. When the Magick Barrier\'s BP reaches 0, it will shatter and disappear. A Magick Barrier can have up to (100% of owner\'s maximum HP) BP."
+753018033,Cygmar,Shifting Reality,"
+Those that don\'t adapt in this ever-changing cube of reality crumbles away.
+
+Basic Attack changed to deal (20% of target\'s Maximum HP) damage (damage dealt will not surpass 1500% of Cygmar\'s Attack) to 2 random enemies, has a 46% chance to [c][01a310]stun[-][/c] the targets for 2 Rounds, and casts 1 stack of [c][e28002]Matric Reinforcement[-][/c] that lasts for 2 Rounds to all Backline allies.
+Whenever Cygmar afflicts [c][01a310]stun[-][/c] successfully, she will gain 1 stack of [c][e28002]Cubic Stronghold[-][/c] that lasts for 2 Rounds and recover (5% of Cygmar\'s Maximum HP) HP.
+
+[c][01a310]Stun:[-][/c]
+A Control Effect.
+During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack.
+
+[c][e28002]Matric Reinforcement[-][/c]:
+A Skill Effect that can be stacked to at most 5 stacks.
+Every stack grants the owner 10% Control Immunity and 4% Precision.
+
+[c][e28002]Cubic Stronghold[-][/c]:
+A Skill Effect that can be stacked to at most 10 stacks.
+When the owner is healed, every stack of [c][e28002]Cubic Stronghold[-][/c] grants a [c][e28002]Magick Barrier[-][/c] with (8% of HP healed) BP.
+
+[c][e28002]Magick Barrier[-][/c]:
+A Skill Effect that can stack.
+Nullifies all incoming damage for the owner. The Magick Barrier\'s durability depends on how many Barrier Points (BP) it has: 1 BP nullifies 1 damage. When the Magick Barrier\'s BP reaches 0, it will shatter and disappear. A Magick Barrier can have up to (100% of owner\'s maximum HP) BP."
+753018034,Cygmar,Shifting Reality,"
+Those that don\'t adapt in this ever-changing cube of reality crumbles away.
+
+Basic Attack changed to deal (20% of target\'s Maximum HP) damage (damage dealt will not surpass 1500% of Cygmar\'s Attack) to 2 random enemies, has a 48% chance to [c][01a310]stun[-][/c] the targets for 2 Rounds, and casts 1 stack of [c][e28002]Matric Reinforcement[-][/c] that lasts for 2 Rounds to all Backline allies.
+Whenever Cygmar afflicts [c][01a310]stun[-][/c] successfully, she will gain 1 stack of [c][e28002]Cubic Stronghold[-][/c] that lasts for 2 Rounds and recover (5% of Cygmar\'s Maximum HP) HP.
+
+[c][01a310]Stun:[-][/c]
+A Control Effect.
+During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack.
+
+[c][e28002]Matric Reinforcement[-][/c]:
+A Skill Effect that can be stacked to at most 5 stacks.
+Every stack grants the owner 10% Control Immunity and 4% Precision.
+
+[c][e28002]Cubic Stronghold[-][/c]:
+A Skill Effect that can be stacked to at most 10 stacks.
+When the owner is healed, every stack of [c][e28002]Cubic Stronghold[-][/c] grants a [c][e28002]Magick Barrier[-][/c] with (8% of HP healed) BP.
+
+[c][e28002]Magick Barrier[-][/c]:
+A Skill Effect that can stack.
+Nullifies all incoming damage for the owner. The Magick Barrier\'s durability depends on how many Barrier Points (BP) it has: 1 BP nullifies 1 damage. When the Magick Barrier\'s BP reaches 0, it will shatter and disappear. A Magick Barrier can have up to (100% of owner\'s maximum HP) BP."
+753018035,Cygmar,Shifting Reality,"
+Those that don\'t adapt in this ever-changing cube of reality crumbles away.
+
+Basic Attack changed to deal (20% of target\'s Maximum HP) damage (damage dealt will not surpass 1500% of Cygmar\'s Attack) to 2 random enemies, has a 50% chance to [c][01a310]stun[-][/c] the targets for 2 Rounds, and casts 1 stack of [c][e28002]Matric Reinforcement[-][/c] that lasts for 2 Rounds to all Backline allies.
+Whenever Cygmar afflicts [c][01a310]stun[-][/c] successfully, she will gain 1 stack of [c][e28002]Cubic Stronghold[-][/c] that lasts for 2 Rounds and recover (5% of Cygmar\'s Maximum HP) HP.
+
+[c][01a310]Stun:[-][/c]
+A Control Effect.
+During this effect, girls affected will not be able to deal Basic Attack, release their Active Skills, Hunt or Counterattack.
+
+[c][e28002]Matric Reinforcement[-][/c]:
+A Skill Effect that can be stacked to at most 5 stacks.
+Every stack grants the owner 10% Control Immunity and 5% Precision.
+
+[c][e28002]Cubic Stronghold[-][/c]:
+A Skill Effect that can be stacked to at most 10 stacks.
+When the owner is healed, every stack of [c][e28002]Cubic Stronghold[-][/c] grants a [c][e28002]Magick Barrier[-][/c] with (10% of HP healed) BP.
+
+[c][e28002]Magick Barrier[-][/c]:
+A Skill Effect that can stack.
+Nullifies all incoming damage for the owner. The Magick Barrier\'s durability depends on how many Barrier Points (BP) it has: 1 BP nullifies 1 damage. When the Magick Barrier\'s BP reaches 0, it will shatter and disappear. A Magick Barrier can have up to (100% of owner\'s maximum HP) BP."
+753018041,Cygmar,Data Matrix,"
+This matrix offers you its protection.
+
+At the start of the battle, Cygmar casts 2 stacks of [c][e28002]Matric Reinforcement[-][/c] that last for 2 Rounds to all Allies and 1 extra stack of [c][e28002]Matric Reinforcement[-][/c] that lasts for 2 Rounds to Backline Allies.
+When Cygmar\'s HP drops below 30% for the first time in the battle, she will recover (22% of Cygmar\'s Maximum HP) immediately and heal herself for (10% of Cygmar\'s Maximum HP) at the end of every Round for 5 Rounds.
+
+[c][e28002]Matric Reinforcement[-][/c]:
+A Skill Effect that can be stacked to at most 5 stacks.
+Every stack grants the owner 10% Control Immunity and 4% Precision."
+753018042,Cygmar,Data Matrix,"
+This matrix offers you its protection.
+
+At the start of the battle, Cygmar casts 2 stacks of [c][e28002]Matric Reinforcement[-][/c] that last for 2 Rounds to all Allies and 1 extra stack of [c][e28002]Matric Reinforcement[-][/c] that lasts for 2 Rounds to Backline Allies.
+When Cygmar\'s HP drops below 30% for the first time in the battle, she will recover (24% of Cygmar\'s Maximum HP) immediately and heal herself for (10% of Cygmar\'s Maximum HP) at the end of every Round for 5 Rounds.
+
+[c][e28002]Matric Reinforcement[-][/c]:
+A Skill Effect that can be stacked to at most 5 stacks.
+Every stack grants the owner 10% Control Immunity and 4% Precision."
+753018043,Cygmar,Data Matrix,"
+This matrix offers you its protection.
+
+At the start of the battle, Cygmar casts 2 stacks of [c][e28002]Matric Reinforcement[-][/c] that last for 2 Rounds to all Allies and 1 extra stack of [c][e28002]Matric Reinforcement[-][/c] that lasts for 2 Rounds to Backline Allies.
+When Cygmar\'s HP drops below 30% for the first time in the battle, she will recover (26% of Cygmar\'s Maximum HP) immediately and heal herself for (10% of Cygmar\'s Maximum HP) at the end of every Round for 5 Rounds.
+
+[c][e28002]Matric Reinforcement[-][/c]:
+A Skill Effect that can be stacked to at most 5 stacks.
+Every stack grants the owner 10% Control Immunity and 4% Precision."
+753018044,Cygmar,Data Matrix,"
+This matrix offers you its protection.
+
+At the start of the battle, Cygmar casts 2 stacks of [c][e28002]Matric Reinforcement[-][/c] that last for 2 Rounds to all Allies and 1 extra stack of [c][e28002]Matric Reinforcement[-][/c] that lasts for 2 Rounds to Backline Allies.
+When Cygmar\'s HP drops below 30% for the first time in the battle, she will recover (28% of Cygmar\'s Maximum HP) immediately and heal herself for (10% of Cygmar\'s Maximum HP) at the end of every Round for 5 Rounds.
+
+[c][e28002]Matric Reinforcement[-][/c]:
+A Skill Effect that can be stacked to at most 5 stacks.
+Every stack grants the owner 10% Control Immunity and 4% Precision."
+753018045,Cygmar,Data Matrix,"
+This matrix offers you its protection.
+
+At the start of the battle, Cygmar casts 2 stacks of [c][e28002]Matric Reinforcement[-][/c] that last for 2 Rounds to all Allies and 1 extra stack of [c][e28002]Matric Reinforcement[-][/c] that lasts for 2 Rounds to Backline Allies.
+When Cygmar\'s HP drops below 30% for the first time in the battle, she will recover (30% of Cygmar\'s Maximum HP) immediately and heal herself for (10% of Cygmar\'s Maximum HP) at the end of every Round for 5 Rounds.
+
+[c][e28002]Matric Reinforcement[-][/c]:
+A Skill Effect that can be stacked to at most 5 stacks.
+Every stack grants the owner 10% Control Immunity and 5% Precision."

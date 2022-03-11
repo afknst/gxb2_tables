@@ -141,3 +141,6 @@ id,name,step,mark,condition,forced,window_name,obj_type,obj_id,no_click,special_
 140,dress_show_window,1,46,,,main_window,,schoolBtn,,,,,,2,buttoncrop_8,-1|-1,1.2|1.2,,1,,,,,,,,0.2,,,,,
 141,dress_show_window,1,46,,,school_choose_window,,tab2,,,,,,,,,,,,,,,,,,,,,,,,
 142,dress_show_window,1,46,,,school_choose_window,,btnDressShow,,,,1,48,,,,,,,,,-1,466|404,1,,,,,,,,
+143,shrine_hurdle,1,47,,,func_open_window,,btnGo_,,,,,,,,,,,,1,,,,,,,,,,,,
+144,shrine_hurdle,1,47,,,main_window,,arenaBtn,,,,,,2,buttoncrop_27,0|0,1.2|1.2,,1,,,,,,,,0.2,,,,,
+145,shrine_hurdle,1,47,,,battle_choose_window,,shrineHurdle,,,,1,49,0,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,9 @@
+id,name,buff1,buff2,buff3,buff4
+20001,Chime of Cherries,Base Attribute - HP +3%,Base Attribute - HP +6%,,Increases Servant's Healing by 20%
+30001,Chime of Kittens,Base Attribute - Attack +2%,Base Attribute - Attack +4%,,Increases Servant's Damage by 20%
+40001,Chime of the Spectre,Increases Base Attributes provided by the Chime by 50% for Ghost Girls.,Armor Break +10%,,Armor Break +20%
+40002,Chime of Order,Increases Base Attributes provided by the Chime by 50% for Human Girls.,Block +10%,,Block +20%
+40003,Chime of Freedom,Increases Base Attributes provided by the Chime by 50% for Monster Girls.,Base Attribute - Attack +3%,,Base Attribute - Attack +6%
+40004,Chime of Faeries,Increases Base Attributes provided by the Chime by 50% for Fairy Girls.,Base Attribute - HP +4%,,Base Attribute - HP +8%
+50001,Chime of the Abyss,Increases Base Attributes provided by the Chime by 50% for Demon Girls.,Skill Damage +20%,Skill Damage +40%,Base Attribute - Attack +6%\nIncrease damage dealt by all ally girls by 1% for every Demon Girl in the Team
+50002,Chime of the Heavens,Increases Base Attributes provided by the Chime by 50% for Angel Girls.,Holy Damage +6%,Holy Damage +12%,Base Attribute - HP +8%\nIncrease Damage Depletion of all ally girls by 1% for every Angel Girl in the Team

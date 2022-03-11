@@ -202,3 +202,4 @@ id,name,lv_limit,function_id,stage,go_window,go_params,is_close,close_win_name,l
 203,-1,0,46,,dress_summon_window,select:235,1,,,
 204,-1,0,,,activity_window,"select:277,activity_type2:1",1,,,
 205,-1,0,,,activity_window,"select:278,activity_type2:1",1,,,
+206,-1,0,,,activity_window,"select:279,activity_type2:1",1,,,

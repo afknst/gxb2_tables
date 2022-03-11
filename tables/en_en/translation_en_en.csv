@@ -3242,7 +3242,7 @@ ACTIVITY_RETURN_CDKEY,My Invitation Code:
 ACTIVITY_RETURN_COMPANY_LIST,Partner List:
 HOUSE_ITEM_TYPE_10,Background
 EDIT_PICTURE_MEMBER,Current Wallpaper Girl
-EDIT_PICTURE_SHOWRANDOM,Randomly display from chosen
+EDIT_PICTURE_SHOWRANDOM,Random Hint
 EDIT_PICTURE_LIMIT,6 girls at most
 EDIT_PICTURE_SELECT,Please Choose
 ACTIVITY_PLAYER_RETURN_ALLTIME,Time Remaining:
@@ -4909,7 +4909,7 @@ ENTRANCE_TEST_LEVEL_UP_NEED,Required\nRanking
 WARMUP_ARENA_REACH_RANK_HELP,"1. There are 4 Divisions in this event (B, A, S, and S+). You are only able to challenge the players in the same Division. At the start of the event, all players will be in Division B.|2. If your ranking status meets the requirement to promote your Division at 0:00 (UTC/GMT 0) every day, you will be promoted to a higher.|3. Division description: |After reaching Division {1}:|{2}|After reaching Division {3}:|{4}|After reaching Division {5}:|{6}|4. The ranking displayed on the event page is your current position in your current Division. (Maybe you will find that your current ranking has met the requirement to promote, but you didn't move on to the next Division after 0:00 (UTC/GMT 0), this is because you've taken the place of the players that have been promoted to a higher Division)"
 ENTRANCE_TEST_LEVEL_UP_ING,Results are being calculated...
 WARMUP_ARENA_TASK_INFO_1,New Girl Missions
-WARMUP_ARENA_TASK_INFO_2,Lord Dracula • Awakened
+WARMUP_ARENA_TASK_INFO_2,Cygmar · A Born Hacker
 WARMUP_ARENA_TASK_INFO_3,Mission Rewards
 WARMUP_ARENA_TASK_INFO_4,Extra Rewards
 WARMUP_ARENA_TASK_INFO_5,Unlock after completing star-marked missions
@@ -4982,7 +4982,7 @@ RETURN_TREASURE_TEXT01,Reverse
 RETURN_TREASURE_TEXT02,Preview
 RETURN_TREASURE_TIPS,"After reversal, a part of the Coins and Crystal Chisels used to upgrade the Crystal will be returned. Any Backup Crystals saved on this girl will be wiped as well. Do you confirm to reverse this Crystal?"
 SHENXUE_GET_WINDOW,Graduated Girls
-ACTIVITY_PRAY_FULL_TIPS,You have collected enough House Shards. Would you like to merge them now?
+ACTIVITY_PRAY_FULL_TIPS,You have collected enough House Shards. Please merge them first.
 ACTIVITY_PRAY_OMNI_BUTTON01,Later
 ACTIVITY_PRAY_OMNI_BUTTON02,Go
 ACTIVITY_SPACE_LEVEL_TEXT,Stage
@@ -5131,7 +5131,7 @@ Diamond: 8 Frontline backup, 16 Backline backup, 5 Servants
 (5) When challenging other players, the number of slots available in your backup lineup will be adjusted according to your opponent\'s Division.
 (6) If the battle exceeds 15 rounds, Girls remaining will increase their Attack and lower their Heal received each round until the battle is over.|5. Single Elimination & Finals|(1) After Points Race is over, the 320 players in Grandmaster Division will be randomly separated into 5 groups (64 players per group) and enter Single Elimination Phase. If there are less than 320 players but more than 64 players in Grandmaster Division, players from Grandmaster Division will be picked according to their position in the ranking list until the remaining players in Grandmaster Division cannot form a complete group. In this case, they will not enter Single Elimination Phase. If there are less than 64 players in Grandmaster Division, players from other Divisions will be picked according to their position on the ranking list (until there\'re 64 players for the Single Elimination Phase).
 (2) 1 race will be held each day.0:00 to 2:00 (UTC/GMT 0) is the ending period. The players cannot set or adjust their lineups within 2 hours before each round of battle and during the ending period.
-(3) Only Girls that can be awakened to 10-star can be deployed in Single Elimination and Finals. During battles, all Girls will have the attributes of their 15-Star form at level 330 and their Elite Skill upgrade progress will be kept. They will also be equipped with a full Angel Set (Girls equipped with Class Set Gears will still equip their original Gears), and have their Crystals set at the highest grade. The Servant deployed will be at level 180, the Servant\'s Aura level will be at level 50, and the Servant\'s Ulticore level will be kept. Guild Lab skills will be fully upgraded. Attributes from Main Center in Excursion, Skins, Antiques originally held by the Girl, the Girl\'s current intimacy boost, and the Girl\'s potential status will be kept. If the girl hasn\'t chosen her potential boost in a slot it will be considered empty.
+(3) Only Girls that can be awakened to 10-star can be deployed in Single Elimination and Finals. During battles, all Girls will have the attributes of their 15-Star form at level 330 and their Elite Skill upgrade progress will be kept. They will also be equipped with a full Angel Set (Girls equipped with Class Set Gears will still equip their original Gears), and have their Crystals set at the highest grade. The Servant deployed will be at level 180, the Servant\'s Aura level will be at level 50, and the Servant\'s Ulticore level will be kept. Guild Lab skills will be fully upgraded. Attributes from Main Center in Excursion, Skins, Antiques originally held by the Girl, the Girl\'s current intimacy boost, and the Girl\'s potential status will be kept. If the girl hasn\'t chosen her potential boost in a slot it will be considered empty. The buff of the Chimes in Tsuruga Grand Shrine will not be calculated in battles of Single Elimination and Finals.
 During battles, the HP and Attack of every Girl will be multiplied based on their star-grade:|5-Star-50%%, 6-Star-51%%, 7-Star-53%%|8-Star-55%%, 9-Star-60%%, 10-Star-65%%|11-Star-70%%, 12-Star-75%%, 13-Star-80%%|14-Star-90%%, 15-Star-100%%|6. Exhibition|(1) Exhibition will last for 2 days after Finals end.|7. Hall of Fame|(1) The top 8 players from each Single Elimination Group of each season will be recorded in the Hall of Fame.
 (2) Records of players who have won in Ultimate League before the feature is updated will still be taken into account in Rankings.|8. Ultimate League Task|(1) During the Points Race period, players can get rewards by completing Tasks in Ultimate League every day.|9. Seasonal Rewards|(1) After Points Race period is over, players will be awarded according to their current Division.
 Notice: Players will need to start 10 or more battles to receive Seasonal Rewards.
@@ -5734,7 +5734,7 @@ SHRINE_HURDLE,Realm of Trials
 SHRINE_TREE,Tree of Chimes
 SHRINE_NOTICE,Message Board
 SHRINE_POOL,Pond of Prayers
-SHRINE_HOME_TEXT01,Trial in Progress
+SHRINE_HOME_TEXT01,In Progress
 SHRINE_HOME_TEXT02,Completed
 SHRINE_NOTICE_TAB1,Task
 SHRINE_NOTICE_TAB2,Ranking
@@ -5742,19 +5742,34 @@ SHRINE_NOTICE_TAB3,Reward
 SHRINE_NOTICE_TAB4,Achievement
 SHRINE_NOTICE_TEXT01,Remaining Time
 SHRINE_NOTICE_TEXT02,Total Score
-SHRINE_NOTICE_TEXT03,Current Rank:
+SHRINE_NOTICE_TEXT03,Current Rank: [c][0069cc]{1}[-][/c]
 SHRINE_NOTICE_TEXT04,Current Rank Reward:
 SHRINE_NOTICE_TEXT05,Not Ranked
 SHRINE_POOL_TEXT01,Current Season
 SHRINE_POOL_TEXT02,Permanent
 SHRINE_POOL_TEXT03,Merchandise Refreshed
-SHRINE_HURDLE_HELP,"Tsuruga Grand Shrine||Realm of Trials Time Rule|Realm of Trials will occur in seasons, consisting of a challenge phase (12 days) and a rest phase (2 days).||Entry Rules|1. At the beginning of each season, the number of Trial Invitations owned will be set to 15 (max capacity).|2. There will be 3 different Trials in each season with different environmental effects in each Trial to boost your Girls in different ways. You can choose which Trial to enter manually. It will cost you 1 Trial Invitation to enter a Trial.|3. Only Girls who are 10-star or above can be chosen for Trials, once a Girl is chosen to enter a Trial, her attribute and status in this Trial (including her Gear and Potential status) will not be updated by the adjustments you make in other features.||Difficulty Level|1. You will need to choose the difficulty level once you enter a Trial.|2. The enemies' attributes and points they provide after each battle will be boosted if you choose a higher difficulty level.|3. Higher difficulty levels can be unlocked as your points recorded for Trials become higher.||Trial Rules|There are 16 Stages in a Trial, where you will encounter Battle Stages, Reward Stages, Store Stages, Recover Stages, and Boss Stages in your Trials.|Battle Stage|1. Enemies spawn at random, you can tap on the icons of the enemies to check out their status. You can choose to deploy your Girls to defeat the enemies and win points.|2. Each battle of Battle Stages lasts for 15 rounds. You can win in a battle if you defeat the enemies in 15 rounds, but will lose the battle if all your Girls are defeated or the battle exceeds 15 rounds.|3. The HP of your Girls will not recover after each battle.|4. The status of the enemies will not reset after you lose a battle.|Reward Stage|1. There will be 3 random buffs available for you to choose in a Reward Stage.|2. You can also give up a chance to get a buff and receive Trial Tokens instead. Trial Tokens can be used in Store Stages.|Store Stage|1. Buff Purchase: there will be 3 random buffs available for you to purchase with Trial Tokens.|2. Buff Upgrade: 3 random buffs you own will appear, you can choose to upgrade them with Trial Tokens. Each buff can be upgraded twice in a Trial.|Recover Stage|1. You can choose to heal your Girls or revive a defeated Girl in a Recover Stage.|Boss Stage|1. You can only challenge a Boss Stage once in a Trial. You will complete the Trial after the battle.|2. The enemy in Boss Stage cannot be defeated, you can earn more points if you deal higher damage in the stage.||Points and Ranking|1. Your overall points from all 3 Trials will be recorded and ranked. Points earned for each Trial will also be ranked. Once the challenge phase ends, rewards will be sent according to rankings.||Tasks|1. Tasks will be refreshed at the start of each season.||Pond of Prayers|1. You can exchange rewards with ""Origami Cranes"" in Pond of Prayers.|2. Seasonal merchandise will be refreshed at the start of each season, but permanent merchandise will not be refreshed."
+SHRINE_HURDLE_HELP,"
+Tsuruga Grand Shrine
+
+Realm of Trials Time Rule|Realm of Trials will occur in seasons, consisting of a challenge phase (12 days) and a rest phase (2 days).
+
+Entry Rules|1. At the beginning of each season, the number of Trial Invitations owned will be set to 15 (max capacity).|2. There will be 3 different Trials in each season with different environmental effects in each Trial to boost your Girls in different ways. You can choose which Trial to enter manually. It will cost you 1 Trial Invitation to enter a Trial.|3. Only Girls who are 10-star or above can be chosen for Trials, once a Girl is chosen to enter a Trial, her attribute and status in this Trial (including her Gear and Potential status) will not be updated by the adjustments you make in other features.
+
+Difficulty Level|1. You will need to choose the difficulty level once you enter a Trial.|2. The enemies\' attributes and points they provide after each battle will be boosted if you choose a higher difficulty level.|3. Higher difficulty levels can be unlocked as your points recorded for Trials become higher.
+
+Trial Rules|There are 15 Stages in a Trial, where you will encounter Battle Stages, Reward Stages, Store Stages, Recover Stages, and Boss Stages in your Trials.|Battle Stage|1. Enemies spawn at random, you can tap on the icons of the enemies to check out their status. You can choose to deploy your Girls to defeat the enemies and win points.|2. Each battle of Battle Stages lasts for 15 rounds. You can win in a battle if you defeat the enemies in 15 rounds, but will lose the battle if all your Girls are defeated or the battle exceeds 15 rounds.|3. The HP of your Girls will not recover after each battle.|4. The status of the enemies will be reset after you lose a battle.|Reward Stage|1. There will be 3 random buffs available for you to choose in a Reward Stage.|2. You can also give up a chance to get a buff and receive Trial Tokens instead. Trial Tokens can be used in Store Stages.|Store Stage|1. Buff Purchase: there will be 3 random buffs available for you to purchase with Trial Tokens.|2. Buff Upgrade: 3 random buffs you own will appear, you can choose to upgrade them with Trial Tokens. Each buff can be upgraded twice in a Trial.|Recover Stage|1. You can choose to heal your Girls or revive a defeated Girl in a Recover Stage.|Boss Stage|1. You can only challenge a Boss Stage once in a Trial. (There\'s only 1 Boss Stage in each Trial) You will complete the Trial after the battle.|2. The enemy in Boss Stage cannot be defeated, you can earn more points if you deal higher damage in the stage.
+
+Points and Ranking|1. Your overall points from all 3 Trials will be recorded and ranked. Points earned for each Trial will also be ranked. Once the challenge phase ends, rewards will be sent according to rankings.
+
+Tasks|1. Tasks will be refreshed at the start of each season.
+
+Pond of Prayers|1. You can exchange rewards with ""Origami Cranes"" in Pond of Prayers.|2. Seasonal merchandise will be refreshed at the start of each season, but permanent merchandise will not be refreshed."
 SHRINE_HURDLE_DIFFICULTY_HELP,1. You will need to choose the Difficulty Level once you enter a Trial.|2. The enemies' attributes and the points they provide after each battle will be boosted if you choose a higher Difficulty Level.|3. Higher Difficulty Levels can be unlocked as your points record for Trials becomes higher.
 SHRINE_HURDLE_TEXT01,Environment
 SHRINE_HURDLE_TEXT02,Highest Score
 SHRINE_HURDLE_TEXT03,Difficulty Level
 SHRINE_HURDLE_TEXT04,Enter
-SHRINE_HURDLE_TEXT05,Confirm to consume 1 Invitation Card and enter the Trial? (The Girls attribute and status in this Trial will not be updated by your adjustments in other features when they are in this trial)
+SHRINE_HURDLE_TEXT05,Confirm to consume 1 Invitation Card and enter the Trial?  The Girls' attribute and status in this Trial will not be updated by your adjustments in other features when they are in this trial
 SHRINE_HURDLE_TEXT06,Recommended Difficulty Level:
 SHRINE_HURDLE_TEXT07,"This Difficult Level could be too hard for you, confirm to continue?"
 SHRINE_HURDLE_TEXT08,Details
@@ -5788,7 +5803,11 @@ PERSON_DRESS_BUFFS_TIPS_7,No buff from Pink Outfits yet
 PERSON_DRESS_RELATED_DRESS,Related Outfits
 ACTIVITY_VAMPIRE_GAMBLE_AWARD01,Recall Reward
 ACTIVITY_VAMPIRE_GAMBLE_AWARD02,Unlock Item
-CHIME_HELP,"1. On the branches of this enormous tree hang countless Chimes, artifacts that provide boosts to Girls.|2. Collect the required amount of Chime Shards to activate a Chime, and use Fantasy Dust and Fantasy Talisman to upgrade it."
+CHIME_HELP,"
+1. On the branches of this enormous tree hang countless Chimes, artifacts that provide boosts to Girls.|2. Collect the required amount of Chime Shards to activate a Chime, and use Fantasy Dust and Fantasy Talisman to upgrade it.
+You can increase the base attributes of a Chime by charging the Chimelight in it. Chimelight can be charged to 100%% maximum.
+Additional effects of the Chimes will be available to be Enchanted after Chimelight reaches certain requirements.
+After the Chimelight of a Chime reaches 100%% and all its effects are Enchanted, it will be able to be Ascended.|3. The shards of Chimes and the resources to upgrade your Chimes can be obtained from Message Board and Pond of Prayers in Tsuruga Grand Shrine."
 CHIME_ATLAS,Gallery
 CHIME_BAG,Shards
 CHIME_TAB1,Status
@@ -5832,3 +5851,69 @@ TIME_CLOISTER_TEXT88,"Provide extra Courage, Charisma, and Knowledge according t
 TIME_CLOISTER_TEXT89,Current Buff
 TIME_CLOISTER_TEXT90,Current Points
 TIME_CLOISTER_TEXT91,Buff Details
+SHRINE_HURDLE_TEXT35,Trial Tokens obtained
+SHRINE_HURDLE_TEXT36,Reached highest level
+SHRINE_HURDLE_TEXT37,The Girl you choose still has relatively high HP. Confirm to continue?
+IS_IN_SHRINE_FORMATION,Can't do this during a Trial
+TIME_CLOISTER_TEXT92,Bonus Setting
+TIME_CLOISTER_TEXT93,"When an Observation is over, the amount of the corresponding items you receive will be increased."
+TIME_CLOISTER_TEXT94,No Bonus
+TIME_CLOISTER_TEXT95,Increase the amount of {1} type(s) of items received by {2}
+TIME_CLOISTER_TEXT96,設置
+ACTIVITY_LAFULI_CASTLE_HELP,"1. Help Luvly build the dream sandcastle with ""Beach Sand"" and ""Rainbow Sand""!|2. For every [c][0069cc]20[-][/c] ""Beach Sand"" or ""Rainbow Sand"" consumed, you can select a faction (Ghost/Human/Monster/Fairy) to draw one [c][0069cc]5-star Girl[-][/c] at random as your reward.|3. ""Beach Sand"" is solid and stable, suitable to build up the walls of the castle. By consuming certain amounts of ""Beach Sand"", you will be able to claim additional progress rewards for castle wall construction.|4. “Rainbow Sand” is delicate and colorful, suitable for decorating the sandcastle. By consuming certain amounts of ""Rainbow Sand"", you will be able to claim additional progress rewards for castle decoration.|5. Once the event ends, the remaining ""Beach Sand"" and ""Rainbow Sand"" will automatically be recycled into Coins at a rate of 100k per unit of sand."
+ACTIVITY_LAFULI_CASTLE_TEXT01,Progress
+ACTIVITY_LAFULI_CASTLE_TEXT02,Challenge Tasks
+ACTIVITY_LAFULI_CASTLE_TEXT03,"You can get a random [c][0069cc]5-star Girl[-][/c] from the faction you choose, for every {1} units of [c][0069cc]""Beach Sand""[-][/c] or [c][0069cc]""Rainbow Sand""[-][/c] are used."
+ACTIVITY_LAFULI_CASTLE_TEXT04,Choose the faction of the 5-star Girl you are going to get:
+ACTIVITY_LAFULI_CASTLE_HELP02,"1. For every [c][0069cc]20[-][/c] ""Beach Sand"" or ""Rainbow Sand"" consumed, you can select a faction (Ghost/Human/Monster/Fairy) to draw one [c][0069cc]5-star Girl[-][/c] at random as your reward.|2. The reward will be issued in shards."
+ACTIVITY_LAFULI_CASTLE_TEXT05,Girl Reward
+ACTIVITY_LAFULI_CASTLE_TEXT06,Challenge Tasks
+ACTIVITY_LAFULI_CASTLE_TEXT07,"Get 1 additional ""Rainbow Sand"" for each"
+ACTIVITY_LAFULI_CASTLE_TEXT08,obtained|(can obtain {1} this way)
+ACTIVITY_LAFULI_CASTLE_TEXT09,Limit
+ACTIVITY_LAFULI_CASTLE_TEXT10,Task Reward will be issued directly to Bag
+ACTIVITY_LAFULI_CASTLE_TEXT11,Complete Limit
+TIME_CLOISTER_TEXT97,水晶卡詳情
+TIME_CLOISTER_TEXT98,全部
+TIME_CLOISTER_TEXT99,水晶卡詳情幫助本文，helpbtn
+ACTIVITY_LAFULI_CASTLE_TEXT12,"1. You can get rewards for completing Challenge Tasks.|2. You can obtain Challenge Points by completing some of the Tasks. You will get 1 additional ""Rainbow Sand"" for each Challenge Point obtained. (You can obtain [c][0069cc]100[-][/c] ""Rainbow Sand"" this way.)"
+TIME_CLOISTER_TEXT100,戰鬥加成
+TIME_CLOISTER_TEXT101,戰鬥加成會在此迴廊的遭遇戰、關卡戰鬥中生效
+ACTIVITY_START_COUNT,Begins in [c][9eff8b]{1}[-][/c]
+SHRINE_HURDLE_CLOSE_TIME,Trial ends in:
+SHRINE_HURDLE_OPEN_TIME,Trial begins in:
+SHRINE_HURDLE_TEXT38,HP Status
+ACTIVITY_LAFULI_CASTLE_TEXT13,Obtain Limit Reached
+ACTIVITY_PROMOTION_LADDER_TEXT01,幫助文本
+ACTIVITY_PROMOTION_LADDER_TEXT02,詳情
+ACTIVITY_PROMOTION_LADDER_TEXT03,本期可交換戰姬
+ACTIVITY_PROMOTION_LADDER_TEXT04,交換進度
+ACTIVITY_PROMOTION_LADDER_TEXT05,再交換{1}個本體後，每交換一個本體所需的晉升證明增長為{2}
+ACTIVITY_PROMOTION_LADDER_TEXT06,請選擇交換戰姬
+ACTIVITY_PROMOTION_LADDER_TEXT07,碎片
+ACTIVITY_PROMOTION_LADDER_TEXT08,確認
+ACTIVITY_PROMOTION_LADDER_TEXT09,每交換9個本體，所需的晉升證明增加5個
+ACTIVITY_PROMOTION_LADDER_TEXT10,未選擇交換戰姬
+ACTIVITY_PROMOTION_LADDER_TEXT11,晉升證書不足
+ACTIVITY_PROMOTION_TEST_TEXT01,幫助文本
+ACTIVITY_PROMOTION_TEST_TEXT02,高級召喚次數
+ACTIVITY_PROMOTION_TEST_TEXT03,解鎖條件
+ACTIVITY_PROMOTION_TEST_TEXT04,獲得{1}個直升證明後解鎖
+ACTIVITY_PROMOTION_TEST_TEXT05,當前包含直升證明的禮包仍有購買次數，確認要購買此禮包嗎？
+SHRINE_NOTICE_TEXT06,The Trial is over
+SHRINE_NOTICE_TEXT07,Points
+SHRINE_HURDLE_TEXT39,Confirm to give up the buff and get Trial Tokens instead?
+TIME_CLOISTER_TEXT102,科技組-水晶
+TIME_CLOISTER_TEXT103,獲取方案:
+TIME_CLOISTER_TEXT104,卡牌詳情
+TIME_CLOISTER_TEXT105,戰鬥技能
+TIME_CLOISTER_TEXT106,購買卡牌換取積分
+TIME_CLOISTER_TEXT107,科技組-水晶幫助文本
+TIME_CLOISTER_TEXT108,積分:
+ACTIVITY_LAFULI_CASTLE_TEXT14,Confirm to get {2} Girl(s) from House {1}?
+SHRINE_HURDLE_SHOP_TAB1,Purchase
+SHRINE_HURDLE_SHOP_TAB2,Upgrade
+SHRINE_HURDLE_SELECT1,Confirm to enter Battle Stage?
+SHRINE_HURDLE_SELECT2,Confirm to enter Reward Stage?
+SHRINE_HURDLE_SELECT3,Confirm to enter Store Stage?
+SHRINE_HURDLE_SELECT4,Confirm to enter Recover Stage?

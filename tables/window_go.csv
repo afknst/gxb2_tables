@@ -109,3 +109,5 @@ id,name,params,activity_id,function_id,desc
 108,activity_window,"{'select':277,'activity_type2':1}",277,,-1
 109,activity_window,"{'select':64,'activity_type2':1}",64,,-1
 110,activity_window,"{'select':95,'activity_type2':1}",95,,-1
+111,activity_window,"{'select':166,'activity_type2':1}",166,,-1
+112,activity_window,"{'select':279,'activity_ids':[279,167], 'activity_type':7}",279,,-1

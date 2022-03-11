@@ -1791,3 +1791,23 @@ Amount of Maximum HP that each stack of [c][e28002]Chaos Scar[-][/c] lowers incr
 751017043,原初·德古拉,血月之族,Damage dealt when taking damage from Active Skills or Basic Attacks aimed at herself increased to {1} of Attack.\nDamage dealt to 2 random enemies when said damage is blocked increased to {2} of Attack.
 751017044,原初·德古拉,血月之族,Damage dealt when taking damage from Active Skills or Basic Attacks aimed at herself increased to {1} of Attack.\nDamage dealt to 2 random enemies when said damage is blocked increased to {2} of Attack.
 751017045,原初·德古拉,血月之族,Damage dealt when taking damage from Active Skills or Basic Attacks aimed at herself increased to {1} of Attack.\nDamage dealt to 2 random enemies when said damage is blocked increased to {2} of Attack.\nDamage dealt by [c][01a310]Sanguine Snare[-][/c] increased to {3} of target's Maximum HP.
+753018011,西格瑪,降維觀測,Damage dealt to all enemies increased to {1} of Attack.
+753018012,西格瑪,降維觀測,Damage dealt to all enemies increased to {1} of Attack.
+753018013,西格瑪,降維觀測,Damage dealt to all enemies increased to {1} of Attack.\nChance to [c][01a310]stun[-][/c] all enemies increased to {2}.
+753018014,西格瑪,降維觀測,Damage dealt to all enemies increased to {1} of Attack.\nChance to [c][01a310]stun[-][/c] all enemies increased to {2}.
+753018015,西格瑪,降維觀測,Damage dealt to all enemies increased to {1} of Attack.\nChance to [c][01a310]stun[-][/c] all enemies increased to {2}.
+753018021,西格瑪,迷幻藥丸,Speed increase increases to {1}.
+753018022,西格瑪,迷幻藥丸,Speed increase increases to {1}.
+753018023,西格瑪,迷幻藥丸,Speed increase increases to {1}.
+753018024,西格瑪,迷幻藥丸,Speed increase increases to {1}.
+753018025,西格瑪,迷幻藥丸,"Speed increase increases to {1}, HP increase increases to {2}, Attack increase increases to {3}."
+753018031,西格瑪,萬變魔方,Chance to [c][01a310]Stun[-][/c] increased to {1}.
+753018032,西格瑪,萬變魔方,Chance to [c][01a310]Stun[-][/c] increased to {1}.
+753018033,西格瑪,萬變魔方,Chance to [c][01a310]Stun[-][/c] increased to {1}.
+753018034,西格瑪,萬變魔方,Chance to [c][01a310]Stun[-][/c] increased to {1}.
+753018035,西格瑪,萬變魔方,Chance to [c][01a310]Stun[-][/c] increases to {1}.\nBP of [c][e28002]Magick Barrier[-][/c] provided by [c][e28002]Cubic Stronghold[-][/c] increased to {2} of HP healed whenever Cygmar recovers HP.\nPrecision provided by [c][e28002]Matric Reinforcement[-][/c] increased to {3}.
+753018041,西格瑪,數據矩陣,"When Cygmar's HP drops below 30% for the first time, the amount of HP she will immediately recover increased to {1} of Cygmar's Maximum HP."
+753018042,西格瑪,數據矩陣,"When Cygmar's HP drops below 30% for the first time, the amount of HP she will immediately recover increased to {1} of Cygmar's Maximum HP."
+753018043,西格瑪,數據矩陣,"When Cygmar's HP drops below 30% for the first time, the amount of HP she will immediately recover increased to {1} of Cygmar's Maximum HP."
+753018044,西格瑪,數據矩陣,"When Cygmar's HP drops below 30% for the first time, the amount of HP she will immediately recover increased to {1} of Cygmar's Maximum HP."
+753018045,西格瑪,數據矩陣,"When Cygmar's HP drops below 30% for the first time, the amount of HP she will immediately recover increased to {1} of Cygmar's Maximum HP.\nPrecision provided by [c][e28002]Matric Reinforcement[-][/c] increased to {2}."
